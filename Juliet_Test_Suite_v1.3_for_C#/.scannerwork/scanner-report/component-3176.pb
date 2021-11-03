@@ -1,0 +1,1 @@
+Ë 2csXËhrçsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Environment_array_write_no_check_04.cs

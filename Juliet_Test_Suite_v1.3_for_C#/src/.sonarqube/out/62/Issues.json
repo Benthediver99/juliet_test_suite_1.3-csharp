@@ -1,0 +1,1269 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_03.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_03.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 26,
+                  "endLine": 46,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_02.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_02.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_05.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_05.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 26,
+                  "endLine": 108,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_06.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_06.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 26,
+                  "endLine": 107,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_04.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_04.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 26,
+                  "endLine": 108,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_07.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_07.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 26,
+                  "endLine": 107,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_09.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_09.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_12.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_12.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 26,
+                  "endLine": 111,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 53,
+                  "endLine": 21,
+                  "endColumn": 69
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_13.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_13.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_15.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_15.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_10.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_10.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_11.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_11.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_08.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_08.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_14.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_14.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 26,
+                  "endLine": 102,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_16.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_16.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 26,
+                  "endLine": 75,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_17.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE395_Catch_NullPointerException__basic_17.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 26,
+                  "endLine": 73,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0115": {
+          "id": "CS0115",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS0246": {
+          "id": "CS0246",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

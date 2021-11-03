@@ -1,0 +1,6 @@
+projectKey=Juliet-Test-CSharp-4
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=Juliet-Test-CSharp-4
+ceTaskId=AXznPr5C9Etr3GuX5pL6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXznPr5C9Etr3GuX5pL6

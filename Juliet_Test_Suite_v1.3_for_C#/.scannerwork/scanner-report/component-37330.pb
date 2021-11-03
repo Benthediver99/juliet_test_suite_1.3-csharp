@@ -1,0 +1,1 @@
+ң 2csX%hr=src/testcases/CWE601_Open_Redirect/Properties/AssemblyInfo.cs

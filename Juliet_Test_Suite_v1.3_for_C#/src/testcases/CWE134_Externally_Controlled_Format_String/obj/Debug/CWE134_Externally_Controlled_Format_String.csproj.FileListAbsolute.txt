@@ -1,0 +1,4 @@
+C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE134_Externally_Controlled_Format_String\obj\Debug\CWE134_Externally_Controlled_Format_String.csprojAssemblyReference.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE134_Externally_Controlled_Format_String\obj\Debug\CWE134_Externally_Controlled_Format_String.csproj.CoreCompileInputs.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE134_Externally_Controlled_Format_String\obj\Debug\CWE134_Externally_Controlled_Format_String.csproj.AssemblyReference.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE134_Externally_Controlled_Format_String\obj\Debug\CWE134_Externally_Controlled_Format_String.csproj.SuggestedBindingRedirects.cache

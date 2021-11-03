@@ -1,0 +1,1 @@
+œƒ 2csX€hr{src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__NetClient_write_71a.cs

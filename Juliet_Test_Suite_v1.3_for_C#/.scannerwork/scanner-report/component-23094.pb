@@ -1,0 +1,1 @@
+¶´ 2csX$hrqsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_File_to_byte_81_goodG2B.cs

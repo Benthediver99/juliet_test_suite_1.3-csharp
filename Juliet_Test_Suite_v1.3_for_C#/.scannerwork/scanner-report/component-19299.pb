@@ -1,0 +1,1 @@
+ã– 2csXahrmsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_large_to_byte_09.cs

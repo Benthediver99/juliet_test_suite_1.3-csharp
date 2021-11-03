@@ -1,0 +1,2 @@
+C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE113_HTTP_Response_Splitting\s02\obj\Debug\CWE113_HTTP_Response_Splitting_s02.csprojAssemblyReference.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE113_HTTP_Response_Splitting\s02\obj\Debug\CWE113_HTTP_Response_Splitting_s02.csproj.CoreCompileInputs.cache

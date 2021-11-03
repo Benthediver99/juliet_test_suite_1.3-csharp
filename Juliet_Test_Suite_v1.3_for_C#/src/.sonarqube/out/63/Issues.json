@@ -1,0 +1,1269 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 26,
+                  "endLine": 38,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_02.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_02.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_03.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_03.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_06.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_06.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 26,
+                  "endLine": 85,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_05.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_05.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 26,
+                  "endLine": 86,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_12.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_12.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 26,
+                  "endLine": 82,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_04.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_04.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 26,
+                  "endLine": 86,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_07.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_07.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 26,
+                  "endLine": 85,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_09.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_09.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_08.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_08.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 26,
+                  "endLine": 93,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_10.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_11.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_10.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_11.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 54,
+                  "endLine": 21,
+                  "endColumn": 70
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_16.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_16.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 26,
+                  "endLine": 60,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_14.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_14.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_17.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_17.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 26,
+                  "endLine": 58,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_13.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_13.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 26,
+                  "endLine": 80,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_15.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 26,
+                  "endLine": 24,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE396_Catch_Generic_Exception__Exception_15.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 26,
+                  "endLine": 93,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0115": {
+          "id": "CS0115",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS0246": {
+          "id": "CS0246",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

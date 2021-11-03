@@ -1,0 +1,1 @@
+´® 2csX%hr@src/testcases/CWE667_Improper_Locking/Properties/AssemblyInfo.cs

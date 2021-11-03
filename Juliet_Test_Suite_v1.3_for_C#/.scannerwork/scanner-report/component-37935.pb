@@ -1,0 +1,1 @@
+пи 2csXahr^src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__ReadLine_52c.cs

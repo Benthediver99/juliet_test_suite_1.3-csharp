@@ -1,0 +1,1 @@
+∂‡ 2csX\hrùsrc/testcases/CWE350_Reliance_on_Reverse_DNS_Resolution_for_Security_Action/CWE350_Reliance_on_Reverse_DNS_Resolution_for_Security_Action__GetHostEntry_06.cs

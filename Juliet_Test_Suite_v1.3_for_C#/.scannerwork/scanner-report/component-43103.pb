@@ -1,0 +1,1 @@
+па 2csXShr9src/testcases/CWE80_XSS/s02/CWE80_XSS__Web_ReadLine_41.cs

@@ -1,0 +1,1269 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 7,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 26,
+                  "endLine": 41,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 26,
+                  "endLine": 121,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 26,
+                  "endLine": 34,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 26,
+                  "endLine": 120,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 26,
+                  "endLine": 121,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 26,
+                  "endLine": 42,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 26,
+                  "endLine": 128,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 26,
+                  "endLine": 34,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 26,
+                  "endLine": 120,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.cs",
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 26,
+                  "endLine": 133,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 26,
+                  "endLine": 115,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 26,
+                  "endLine": 128,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 26,
+                  "endLine": 79,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 26,
+                  "endLine": 77,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0115": {
+          "id": "CS0115",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS0246": {
+          "id": "CS0246",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ิ่ 2csX/hrKsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__File_81_goodG2B.cs

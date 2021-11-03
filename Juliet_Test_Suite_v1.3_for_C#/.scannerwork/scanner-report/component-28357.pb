@@ -1,0 +1,1 @@
+ÅÝ 2csXÎhrssrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__NetClient_SqlConnection_22b.cs

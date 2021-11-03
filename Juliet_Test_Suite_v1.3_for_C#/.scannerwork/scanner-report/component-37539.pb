@@ -1,0 +1,1 @@
+ге 2csX6hrhsrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Environment_81_goodB2G.cs

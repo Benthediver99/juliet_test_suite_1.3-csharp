@@ -1,0 +1,1 @@
+…Ñ 2csX'hrAsrc/testcases/CWE80_XSS/s02/CWE80_XSS__Web_ReadLine_81_goodG2B.cs

@@ -1,0 +1,1 @@
+յ 2csX4hrlsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_large_to_short_61a.cs

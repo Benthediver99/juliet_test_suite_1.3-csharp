@@ -1,0 +1,192 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS1001",
+          "level": "error",
+          "message": "Identifier expected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE113_HTTP_Response_Splitting/s01/Program.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 12
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0116",
+          "level": "error",
+          "message": "A namespace cannot directly contain members such as fields or methods",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE113_HTTP_Response_Splitting/s01/Program.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 12,
+                  "endLine": 9,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS1056",
+          "level": "error",
+          "message": "Unexpected character '$'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE113_HTTP_Response_Splitting/s01/Program.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 11
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS1514",
+          "level": "error",
+          "message": "{ expected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE113_HTTP_Response_Splitting/s01/Program.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 11,
+                  "endLine": 9,
+                  "endColumn": 12
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS1056",
+          "level": "error",
+          "message": "Unexpected character '$'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE113_HTTP_Response_Splitting/s01/Program.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 29,
+                  "endLine": 9,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS1022",
+          "level": "error",
+          "message": "Type or namespace definition, or end-of-file expected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE113_HTTP_Response_Splitting/s01/Program.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 1,
+                  "endLine": 10,
+                  "endColumn": 2
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0116": {
+          "id": "CS0116",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS1001": {
+          "id": "CS1001",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS1022": {
+          "id": "CS1022",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS1056": {
+          "id": "CS1056",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS1514": {
+          "id": "CS1514",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

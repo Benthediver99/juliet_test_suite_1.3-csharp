@@ -1,0 +1,1 @@
+κω 2csX%hrWsrc/testcases/CWE379_Temporary_File_Creation_in_Insecure_Dir/Properties/AssemblyInfo.cs

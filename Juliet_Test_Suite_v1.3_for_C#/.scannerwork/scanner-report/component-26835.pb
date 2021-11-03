@@ -1,0 +1,1 @@
+ся 2csXShrYsrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__SqlConnection_71b.cs

@@ -1,0 +1,1 @@
+˜ 2csX%hrNsrc/testcases/CWE478_Missing_Default_Case_in_Switch/Properties/AssemblyInfo.cs

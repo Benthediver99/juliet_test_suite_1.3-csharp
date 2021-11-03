@@ -1,0 +1,1 @@
+ ÿ 2csXwhrvsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__File_write_52a.cs

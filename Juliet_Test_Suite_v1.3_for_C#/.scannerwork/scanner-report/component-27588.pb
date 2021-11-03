@@ -1,0 +1,1 @@
+Ä× 2csX•hrssrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__Connect_tcp_75b.cs

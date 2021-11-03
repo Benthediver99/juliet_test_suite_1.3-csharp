@@ -1,0 +1,1 @@
+ï­ 2csX”hrosrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_NetClient_to_int_07.cs

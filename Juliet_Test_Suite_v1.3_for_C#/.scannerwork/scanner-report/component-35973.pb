@@ -1,0 +1,1 @@
+…™ 2csXkhrbsrc/testcases/CWE506_Embedded_Malicious_Code/CWE506_Embedded_Malicious_Code__file_properties_01.cs

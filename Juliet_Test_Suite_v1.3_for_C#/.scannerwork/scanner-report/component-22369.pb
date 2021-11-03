@@ -1,0 +1,1 @@
+со 2csXfhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_NetClient_to_short_01.cs

@@ -1,0 +1,1 @@
+мн 2csXrhrsrc/testcases/CWE94_Improper_Control_of_Generation_of_Code/CWE94_Improper_Control_of_Generation_of_Code__Get_Cookies_Web_74b.cs

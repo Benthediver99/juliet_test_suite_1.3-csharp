@@ -1,0 +1,1 @@
+Š 2csX%hrWsrc/testcases/CWE117_Improper_Output_Neutralization_for_Logs/Properties/AssemblyInfo.cs

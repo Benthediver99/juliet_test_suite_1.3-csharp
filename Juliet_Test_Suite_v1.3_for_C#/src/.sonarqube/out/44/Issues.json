@@ -1,0 +1,3141 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 7,
+                  "endLine": 17,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_21.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_22a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_22b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_31.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_41.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_42.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_45.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_51a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_51b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_52a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_52b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_52c.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53c.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53d.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 52,
+                  "endLine": 28,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54c.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54d.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54e.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_61a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_61b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_66a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_66b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_67a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_67b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_68a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_68b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_21.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_71a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_22a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_71b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_31.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_41.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_72a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_42.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_45.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 52,
+                  "endLine": 29,
+                  "endColumn": 71
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_72b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_51a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_52a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_61a.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 53,
+                  "endLine": 27,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_66a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_67a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_73a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_73b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_68a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_74a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_71a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_74b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_72a.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 53,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_75a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_75b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81_bad.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 7,
+                  "endLine": 19,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81_base.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81_goodB2G.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 7,
+                  "endLine": 19,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_73a.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 53,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81_goodG2B.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 7,
+                  "endLine": 19,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_74a.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 53,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_75a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 53,
+                  "endLine": 32,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCaseWeb' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 53,
+                  "endLine": 29,
+                  "endColumn": 72
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_01.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_01.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_16.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_16.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 26,
+                  "endLine": 154,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_10.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_10.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_07.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_51a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_51a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_07.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 271,
+                  "startColumn": 26,
+                  "endLine": 271,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_51a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_51a.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 26,
+                  "endLine": 57,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_54a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_54a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54a.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 26,
+                  "endLine": 57,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_04.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 26,
+                  "endLine": 39,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_04.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 273,
+                  "startColumn": 26,
+                  "endLine": 273,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_22a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_22a.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_22a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_22a.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 26,
+                  "endLine": 65,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_13.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_13.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_41.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_41.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 26,
+                  "endLine": 39,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_41.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_41.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 26,
+                  "endLine": 64,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_02.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_02.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_17.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_17.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 143,
+                  "startColumn": 26,
+                  "endLine": 143,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_66a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_66a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_66a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_66a.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_11.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_11.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_67a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_67a.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_67a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_67a.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 26,
+                  "endLine": 64,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_14.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_14.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_08.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 26,
+                  "endLine": 45,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_08.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 279,
+                  "startColumn": 26,
+                  "endLine": 279,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_42.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_42.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 26,
+                  "endLine": 56,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_42.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_42.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 26,
+                  "endLine": 148,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_61a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_61a.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_61a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_61a.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 26,
+                  "endLine": 39,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_05.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 26,
+                  "endLine": 38,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_05.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 272,
+                  "startColumn": 26,
+                  "endLine": 272,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_52a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_52a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_52a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_52a.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 26,
+                  "endLine": 57,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_03.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_03.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_53a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_53a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_53a.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 26,
+                  "endLine": 57,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_12.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_12.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 26,
+                  "endLine": 265,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_31.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_31.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_31.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_31.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 26,
+                  "endLine": 66,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_15.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_15.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 296,
+                  "startColumn": 26,
+                  "endLine": 296,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_72a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_72a.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 26,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_72a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_72a.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 26,
+                  "endLine": 62,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_21.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_21.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_21.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_21.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 26,
+                  "endLine": 75,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_75a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_75a.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_75a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_75a.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 26,
+                  "endLine": 75,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_09.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_09.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 26,
+                  "endLine": 266,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_45.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_45.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 26,
+                  "endLine": 44,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_45.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_45.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 26,
+                  "endLine": 70,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_06.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_06.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 271,
+                  "startColumn": 26,
+                  "endLine": 271,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_71a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_71a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_71a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_71a.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 26,
+                  "endLine": 57,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_68a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_68a.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 26,
+                  "endLine": 34,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_68a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_68a.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 26,
+                  "endLine": 58,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_73a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_73a.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 26,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_73a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_73a.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 26,
+                  "endLine": 62,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_74a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_74a.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 26,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_74a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_74a.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 26,
+                  "endLine": 62,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_81a.Bad(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81a.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 26,
+                  "endLine": 32,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE315_Cleartext_Storage_in_Cookie__Web_81a.Good(HttpRequest, HttpResponse)': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_81a.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 26,
+                  "endLine": 58,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0115": {
+          "id": "CS0115",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS0246": {
+          "id": "CS0246",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ед 2csXrhrpsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_database_to_byte_71a.cs

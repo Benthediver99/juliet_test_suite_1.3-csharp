@@ -1,0 +1,333 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 7,
+                  "endLine": 6,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__db_Connection_01.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 7,
+                  "endLine": 6,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__FileReader_01.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 7,
+                  "endLine": 6,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 7,
+                  "endLine": 6,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 77,
+                  "endLine": 15,
+                  "endColumn": 93
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__FileReader_01.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 62,
+                  "endLine": 13,
+                  "endColumn": 78
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 70,
+                  "endLine": 12,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__db_Connection_01.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 65,
+                  "endLine": 14,
+                  "endColumn": 81
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__db_Connection_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__db_Connection_01.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 30,
+                  "endLine": 18,
+                  "endColumn": 33
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__db_Connection_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__db_Connection_01.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 30,
+                  "endLine": 73,
+                  "endColumn": 34
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 30,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__FileReader_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__FileReader_01.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 30,
+                  "endLine": 17,
+                  "endColumn": 33
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 30,
+                  "endLine": 50,
+                  "endColumn": 34
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__FileReader_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__FileReader_01.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 30,
+                  "endLine": 48,
+                  "endColumn": 34
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 30,
+                  "endLine": 29,
+                  "endColumn": 33
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE404_Improper_Resource_Shutdown/CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 30,
+                  "endLine": 59,
+                  "endColumn": 34
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0115": {
+          "id": "CS0115",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS0246": {
+          "id": "CS0246",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

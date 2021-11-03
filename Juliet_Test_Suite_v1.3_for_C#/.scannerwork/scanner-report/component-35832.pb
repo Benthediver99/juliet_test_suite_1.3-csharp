@@ -1,0 +1,1 @@
+ø— 2csX%hrBsrc/testcases/CWE477_Obsolete_Functions/Properties/AssemblyInfo.cs

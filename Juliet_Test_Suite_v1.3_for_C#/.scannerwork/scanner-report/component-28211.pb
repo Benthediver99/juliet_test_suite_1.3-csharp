@@ -1,0 +1,1 @@
+³Ü 2csX%hrKsrc/testcases/CWE315_Cleartext_Storage_in_Cookie/Properties/AssemblyInfo.cs

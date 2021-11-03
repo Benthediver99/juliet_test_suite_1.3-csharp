@@ -1,0 +1,1 @@
+¼¨ 2csX0hrksrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_File_to_int_66b.cs

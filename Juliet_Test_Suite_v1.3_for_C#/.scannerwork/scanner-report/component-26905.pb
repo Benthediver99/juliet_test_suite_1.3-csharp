@@ -1,0 +1,1 @@
+™Ò 2csXphr^src/testcases/CWE284_Improper_Access_Control/CWE284_Improper_Access_Control__RegistryKey_12.cs

@@ -1,0 +1,1 @@
+Åú 2csX6hrbsrc/testcases/CWE397_Throw_Generic_Exception/CWE397_Throw_Generic_Exception__throw_Exception_01.cs

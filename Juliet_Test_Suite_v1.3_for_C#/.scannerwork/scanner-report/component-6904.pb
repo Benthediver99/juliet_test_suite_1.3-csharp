@@ -1,0 +1,1 @@
+ø5 2csX?hrŠsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__ReadLine_console_interpolation_71b.cs

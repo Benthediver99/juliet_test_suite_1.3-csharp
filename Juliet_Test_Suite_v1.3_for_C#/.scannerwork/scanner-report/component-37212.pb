@@ -1,0 +1,1 @@
+Ü¢ 2csX¡hrRsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_QueryString_Web_04.cs

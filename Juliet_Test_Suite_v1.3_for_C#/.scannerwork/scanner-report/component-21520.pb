@@ -1,0 +1,1 @@
+ê® 2csX$hrosrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_File_to_byte_81_bad.cs

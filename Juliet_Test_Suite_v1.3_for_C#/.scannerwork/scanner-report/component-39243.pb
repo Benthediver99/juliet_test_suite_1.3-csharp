@@ -1,0 +1,1 @@
+˲ 2csX%hrKsrc/testcases/CWE772_Missing_Release_of_Resource/Properties/AssemblyInfo.cs

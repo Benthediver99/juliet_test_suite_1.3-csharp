@@ -1,0 +1,1 @@
+ø© 2csX0hrmsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_large_to_byte_67b.cs

@@ -1,0 +1,1 @@
+ћ 2csX_hrrsrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_NetClient_to_byte_51a.cs

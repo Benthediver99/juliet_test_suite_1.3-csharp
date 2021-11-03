@@ -1,0 +1,1 @@
+¼› 2csX%hr^src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/Properties/AssemblyInfo.cs

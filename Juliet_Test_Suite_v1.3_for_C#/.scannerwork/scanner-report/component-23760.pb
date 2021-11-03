@@ -1,0 +1,1 @@
+й 2csX$hrvsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__int_ReadLine_to_short_81_goodG2B.cs

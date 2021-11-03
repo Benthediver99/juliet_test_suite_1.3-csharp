@@ -1,0 +1,1 @@
+ê’ 2csX0hrusrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_Environment_to_float_67b.cs

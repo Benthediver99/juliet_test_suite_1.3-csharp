@@ -1,0 +1,1 @@
+ˆ× 2csX%hrVsrc/testcases/CWE313_Cleartext_Storage_in_a_File_or_on_Disk/Properties/AssemblyInfo.cs

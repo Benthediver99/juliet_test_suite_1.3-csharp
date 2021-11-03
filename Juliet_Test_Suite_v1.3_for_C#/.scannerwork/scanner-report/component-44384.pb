@@ -1,0 +1,1 @@
+рк 2csX>hrdsrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Connect_tcp_ExecuteNonQuery_81_bad.cs

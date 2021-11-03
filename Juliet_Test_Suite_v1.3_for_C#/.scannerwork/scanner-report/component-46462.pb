@@ -1,0 +1,1 @@
+þê 2csX/hrRsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__QueryString_Web_81_bad.cs

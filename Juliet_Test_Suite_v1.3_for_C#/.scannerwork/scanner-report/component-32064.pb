@@ -1,0 +1,1 @@
+Àú 2csX%hrGsrc/testcases/CWE396_Catch_Generic_Exception/Properties/AssemblyInfo.cs

@@ -1,0 +1,1 @@
+ра 2csXHhrvsrc/testcases/CWE256_Unprotected_Storage_of_Credentials/CWE256_Unprotected_Storage_of_Credentials__basic_81_goodB2G.cs

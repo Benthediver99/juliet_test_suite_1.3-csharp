@@ -1,0 +1,1 @@
+คั 2csXdhrXsrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__SqlConnection_01.cs

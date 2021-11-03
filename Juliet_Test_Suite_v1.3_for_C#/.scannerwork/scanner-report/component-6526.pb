@@ -1,0 +1,1 @@
+þ2 2csX/hr†src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_console_interpolation_54c.cs

@@ -1,0 +1,1 @@
+Ø± 2csXƒhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_Connect_tcp_to_short_10.cs

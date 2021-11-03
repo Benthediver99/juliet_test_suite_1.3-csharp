@@ -1,0 +1,1 @@
+па 2csX!hrssrc/testcases/CWE256_Unprotected_Storage_of_Credentials/CWE256_Unprotected_Storage_of_Credentials__basic_81_base.cs

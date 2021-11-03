@@ -1,0 +1,1 @@
+ве 2csXhresrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Environment_81_base.cs

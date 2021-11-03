@@ -1,0 +1,1 @@
+Ի 2csXkhrvsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_console_ReadLine_to_int_22b.cs

@@ -1,0 +1,1 @@
+’° 2csXahrdsrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__Class_StringBuilder_45.cs

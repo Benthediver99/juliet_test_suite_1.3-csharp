@@ -1,0 +1,1 @@
+Ž› 2csX%hrRsrc/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/Properties/AssemblyInfo.cs

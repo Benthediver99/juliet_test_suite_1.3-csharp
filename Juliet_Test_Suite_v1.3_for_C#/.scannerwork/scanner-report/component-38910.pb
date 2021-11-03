@@ -1,0 +1,1 @@
+þ¯ 2csX«hrdsrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__Class_StringBuilder_04.cs

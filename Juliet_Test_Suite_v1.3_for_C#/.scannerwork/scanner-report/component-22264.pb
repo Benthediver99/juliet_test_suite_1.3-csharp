@@ -1,0 +1,1 @@
+ø­ 2csXnhrosrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_NetClient_to_int_16.cs

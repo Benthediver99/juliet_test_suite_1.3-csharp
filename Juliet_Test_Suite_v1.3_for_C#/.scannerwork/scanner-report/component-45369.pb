@@ -1,0 +1,1 @@
+นโ 2csX:hrdsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_NetClient_ExecuteScalar_81_goodG2B.cs

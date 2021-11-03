@@ -1,0 +1,1 @@
+ия 2csX=hrZsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_NetClient_modulo_53d.cs

@@ -1,0 +1,1 @@
+οή 2csX%hrLsrc/testcases/CWE321_Hard_Coded_Cryptographic_Key/Properties/AssemblyInfo.cs

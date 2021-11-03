@@ -1,0 +1,1 @@
+·¯ 2csX$hrusrc/testcases/CWE675_Duplicate_Operations_on_Resource/CWE675_Duplicate_Operations_on_Resource__StreamReader_81_bad.cs

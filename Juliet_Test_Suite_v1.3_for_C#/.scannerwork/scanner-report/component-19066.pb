@@ -1,0 +1,1 @@
+ú” 2csXmhrmsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_File_to_float_16.cs

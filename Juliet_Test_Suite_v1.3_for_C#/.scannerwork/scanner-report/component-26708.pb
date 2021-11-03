@@ -1,0 +1,1 @@
+да 2csXohrosrc/testcases/CWE256_Unprotected_Storage_of_Credentials/CWE256_Unprotected_Storage_of_Credentials__basic_71b.cs

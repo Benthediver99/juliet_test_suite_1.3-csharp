@@ -1,0 +1,1 @@
+זל 2csX=hrUsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_File_modulo_52c.cs

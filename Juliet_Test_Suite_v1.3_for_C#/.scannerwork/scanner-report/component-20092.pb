@@ -1,0 +1,1 @@
+üœ 2csXnhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_NetClient_to_long_16.cs

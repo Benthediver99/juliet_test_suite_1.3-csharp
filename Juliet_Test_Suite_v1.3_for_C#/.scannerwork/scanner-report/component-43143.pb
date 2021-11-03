@@ -1,0 +1,1 @@
+‡Ñ 2csX%hr6src/testcases/CWE80_XSS/s02/Properties/AssemblyInfo.cs

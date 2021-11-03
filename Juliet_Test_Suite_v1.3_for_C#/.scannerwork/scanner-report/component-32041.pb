@@ -1,0 +1,1 @@
+©ú 2csX%hrJsrc/testcases/CWE395_Catch_NullPointerException/Properties/AssemblyInfo.cs

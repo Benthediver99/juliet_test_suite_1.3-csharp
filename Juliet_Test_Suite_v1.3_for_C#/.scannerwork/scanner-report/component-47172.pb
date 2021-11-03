@@ -1,0 +1,1 @@
+Äð 2csX(hrEsrc/testcasesupport/TestCaseSupport/AbstractTestCaseClassIssueGood.cs

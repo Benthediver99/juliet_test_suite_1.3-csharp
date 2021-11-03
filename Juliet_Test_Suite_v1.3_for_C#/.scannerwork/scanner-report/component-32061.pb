@@ -1,0 +1,1 @@
+½ú 2csXChr\src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs

@@ -1,0 +1,1 @@
+˜§ 2csX3hrfsrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__NetClient_81_goodG2B.cs

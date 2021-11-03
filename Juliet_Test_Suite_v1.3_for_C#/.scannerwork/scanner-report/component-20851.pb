@@ -1,0 +1,1 @@
+ó¢ 2csXShrwsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_console_ReadLine_to_int_72a.cs

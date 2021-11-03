@@ -1,0 +1,1 @@
+пя 2csXyhrZsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_NetClient_modulo_61b.cs

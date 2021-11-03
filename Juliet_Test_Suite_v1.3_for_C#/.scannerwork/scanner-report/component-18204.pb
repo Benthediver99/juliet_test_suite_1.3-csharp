@@ -1,0 +1,1 @@
+úé 2csX$hrÅsrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_console_ReadLine_to_float_81_goodG2B.cs

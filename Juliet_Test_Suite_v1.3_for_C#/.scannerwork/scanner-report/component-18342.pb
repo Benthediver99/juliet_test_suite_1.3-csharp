@@ -1,0 +1,1 @@
+¶è 2csXóhrysrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_console_ReadLine_to_short_21.cs

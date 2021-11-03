@@ -1,0 +1,1 @@
+зд 2csX>hrhsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_QueryString_Web_ExecuteNonQuery_81_bad.cs

@@ -1,0 +1,1 @@
+ñ° 2csX%hrasrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__Class_string_81_bad.cs

@@ -1,0 +1,1 @@
+фе 2csXShrlsrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__long_random_to_int_22b.cs

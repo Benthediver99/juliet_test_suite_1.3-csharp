@@ -1,0 +1,1 @@
+Û2 2csXkhr…src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_console_interpolation_01.cs

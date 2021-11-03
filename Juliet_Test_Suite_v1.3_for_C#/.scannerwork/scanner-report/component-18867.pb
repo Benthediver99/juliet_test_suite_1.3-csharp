@@ -1,0 +1,1 @@
+³“ 2csXDhrssrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_Environment_to_int_81a.cs

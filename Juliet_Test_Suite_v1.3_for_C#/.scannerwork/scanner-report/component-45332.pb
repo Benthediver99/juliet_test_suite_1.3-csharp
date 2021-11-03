@@ -1,0 +1,1 @@
+”â 2csXÂhr\src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_NetClient_ExecuteScalar_45.cs

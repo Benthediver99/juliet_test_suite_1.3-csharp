@@ -1,0 +1,3141 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_01.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_02.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_03.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_04.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_05.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 7,
+                  "endLine": 17,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_06.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_07.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_08.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_09.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_10.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_11.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_12.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_13.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_14.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_15.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_16.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_17.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_21.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_31.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_41.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_42.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_45.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_01.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52c.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_02.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53c.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53d.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_03.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_04.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54c.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_05.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 69,
+                  "endLine": 26,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54d.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_06.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54e.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_07.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_08.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_09.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_10.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_11.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_12.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_13.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_14.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_15.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_16.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_17.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_21.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_31.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_41.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_42.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_45.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 69,
+                  "endLine": 27,
+                  "endColumn": 85
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75b.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81a.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81_bad.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 7,
+                  "endLine": 19,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81_base.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 7,
+                  "endLine": 18,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81_goodB2G.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 7,
+                  "endLine": 19,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'TestCaseSupport' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81_goodG2B.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 7,
+                  "endLine": 19,
+                  "endColumn": 22
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72a.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73a.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_01.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_01.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_01.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_01.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 26,
+                  "endLine": 62,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74a.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 70,
+                  "endLine": 26,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_16.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_16.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_16.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_16.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 26,
+                  "endLine": 131,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_10.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_10.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_10.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_10.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_13.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_13.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_13.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_13.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_07.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_07.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_07.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_07.cs",
+                "region": {
+                  "startLine": 222,
+                  "startColumn": 26,
+                  "endLine": 222,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_02.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_02.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_02.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_02.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_51a.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_04.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_04.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 26,
+                  "endLine": 37,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_04.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_04.cs",
+                "region": {
+                  "startLine": 224,
+                  "startColumn": 26,
+                  "endLine": 224,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22a.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 26,
+                  "endLine": 31,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_22a.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 26,
+                  "endLine": 67,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75a.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 70,
+                  "endLine": 27,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_41.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_41.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 26,
+                  "endLine": 36,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_41.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_41.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 26,
+                  "endLine": 67,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_17.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_17.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_17.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_17.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 26,
+                  "endLine": 120,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0246",
+          "level": "error",
+          "message": "The type or namespace name 'AbstractTestCase' could not be found (are you missing a using directive or an assembly reference?)",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81a.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 70,
+                  "endLine": 25,
+                  "endColumn": 86
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_54a.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67a.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 26,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_67a.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 26,
+                  "endLine": 66,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_03.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_03.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_03.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_03.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_14.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_14.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_14.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_14.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_11.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_11.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_11.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_11.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_08.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_08.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 26,
+                  "endLine": 43,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_08.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_08.cs",
+                "region": {
+                  "startLine": 230,
+                  "startColumn": 26,
+                  "endLine": 230,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_52a.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_42.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_42.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 26,
+                  "endLine": 60,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_42.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_42.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 26,
+                  "endLine": 125,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_66a.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 26,
+                  "endLine": 61,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_05.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_05.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 26,
+                  "endLine": 36,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_05.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_05.cs",
+                "region": {
+                  "startLine": 223,
+                  "startColumn": 26,
+                  "endLine": 223,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_12.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_12.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_12.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_12.cs",
+                "region": {
+                  "startLine": 185,
+                  "startColumn": 26,
+                  "endLine": 185,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_15.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_15.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_15.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_15.cs",
+                "region": {
+                  "startLine": 247,
+                  "startColumn": 26,
+                  "endLine": 247,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_21.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_21.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 26,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_21.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_21.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 26,
+                  "endLine": 78,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_09.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_09.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_09.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_09.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 26,
+                  "endLine": 217,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 26,
+                  "endLine": 36,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_53a.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_31.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_31.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_31.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_31.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 26,
+                  "endLine": 69,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_72a.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 26,
+                  "endLine": 64,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_45.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_45.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 26,
+                  "endLine": 41,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_45.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_45.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 26,
+                  "endLine": 73,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_71a.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 26,
+                  "endLine": 59,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75a.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_75a.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 26,
+                  "endLine": 76,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_06.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_06.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 26,
+                  "endLine": 35,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_06.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_06.cs",
+                "region": {
+                  "startLine": 222,
+                  "startColumn": 26,
+                  "endLine": 222,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68a.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 26,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_68a.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 26,
+                  "endLine": 60,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81a.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 26,
+                  "endLine": 28,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_81a.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 26,
+                  "endLine": 60,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_73a.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 26,
+                  "endLine": 64,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74a.Bad()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74a.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 26,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "CS0115",
+          "level": "error",
+          "message": "'CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74a.Good()': no suitable method found to override",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/Juliet_Test_Suite_v1.3_for_C%23/src/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_74a.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 26,
+                  "endLine": 64,
+                  "endColumn": 30
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS0115": {
+          "id": "CS0115",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "CS0246": {
+          "id": "CS0246",
+          "defaultLevel": "error",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

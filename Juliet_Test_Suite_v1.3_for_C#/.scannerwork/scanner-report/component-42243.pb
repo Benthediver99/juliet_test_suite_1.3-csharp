@@ -1,0 +1,1 @@
+É  2csX}hrGsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Get_Cookies_Web_08.cs

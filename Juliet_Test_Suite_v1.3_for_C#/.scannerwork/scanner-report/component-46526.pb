@@ -1,0 +1,1 @@
+¾ë 2csX%hr=src/testcases/CWE90_LDAP_Injection/Properties/AssemblyInfo.cs

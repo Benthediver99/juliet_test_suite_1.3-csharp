@@ -1,0 +1,1 @@
+­Þ 2csX%hrKsrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/Properties/AssemblyInfo.cs

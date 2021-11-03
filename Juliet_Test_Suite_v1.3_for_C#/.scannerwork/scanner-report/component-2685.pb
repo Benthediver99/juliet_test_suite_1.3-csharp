@@ -1,0 +1,1 @@
+ý 2csX§hrŠsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Database_array_read_check_min_01.cs

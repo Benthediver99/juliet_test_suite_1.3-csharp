@@ -1,0 +1,1 @@
+½ð 2xmlX„ËhrAsrc/testcasesupport/packages/NLog.4.6.8/lib/xamarinios10/NLog.xml

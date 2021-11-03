@@ -1,0 +1,1 @@
+ò4 2csX/hr‹src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__NetClient_console_interpolation_54c.cs

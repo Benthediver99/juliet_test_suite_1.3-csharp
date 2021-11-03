@@ -1,0 +1,1 @@
+¤Œ 2csX%hrtsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Connect_tcp_81_bad.cs

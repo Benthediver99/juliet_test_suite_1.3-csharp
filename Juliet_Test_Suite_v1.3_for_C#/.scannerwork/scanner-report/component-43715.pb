@@ -1,0 +1,1 @@
+цу 2csX%hr=src/testcases/CWE835_Infinite_Loop/Properties/AssemblyInfo.cs

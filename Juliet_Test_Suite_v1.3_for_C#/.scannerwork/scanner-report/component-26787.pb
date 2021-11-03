@@ -1,0 +1,1 @@
+£Ñ 2csX*hrdsrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__NetworkCredential_81_goodG2B.cs

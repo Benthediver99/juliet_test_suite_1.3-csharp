@@ -1,0 +1,1 @@
+Не 2csX>hrWsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_File_modulo_51b.cs

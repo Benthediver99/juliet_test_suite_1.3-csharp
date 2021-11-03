@@ -1,0 +1,1 @@
+Û" 2csXWhr‘src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__negative_fixed_array_read_check_max_61a.cs

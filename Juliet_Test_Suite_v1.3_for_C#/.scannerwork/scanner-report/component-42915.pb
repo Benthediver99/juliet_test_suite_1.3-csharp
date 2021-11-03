@@ -1,0 +1,1 @@
+£Ï 2csXkhr;src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_NetClient_22b.cs

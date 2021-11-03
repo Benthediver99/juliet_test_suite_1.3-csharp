@@ -1,0 +1,1 @@
+íÞ 2csX=hrjsrc/testcases/CWE321_Hard_Coded_Cryptographic_Key/CWE321_Hard_Coded_Cryptographic_Key__basic_81_goodG2B.cs

@@ -1,0 +1,1 @@
+°Ÿ 2csX%hrPsrc/testcases/CWE598_Information_Exposure_QueryString/Properties/AssemblyInfo.cs

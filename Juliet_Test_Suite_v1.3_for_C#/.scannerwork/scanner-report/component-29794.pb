@@ -1,0 +1,1 @@
+ви 2csXJhrVsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__float_zero_modulo_01.cs

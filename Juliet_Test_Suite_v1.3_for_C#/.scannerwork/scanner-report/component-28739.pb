@@ -1,0 +1,1 @@
+รเ 2csX%hrfsrc/testcases/CWE350_Reliance_on_Reverse_DNS_Resolution_for_Security_Action/Properties/AssemblyInfo.cs

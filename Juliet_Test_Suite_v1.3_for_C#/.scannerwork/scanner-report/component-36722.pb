@@ -1,0 +1,1 @@
+òž 2csX,hrosrc/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__private_static_readonly_five_01.cs

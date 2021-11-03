@@ -1,0 +1,1 @@
+мб 2csX@hrYsrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__SqlConnection_81a.cs

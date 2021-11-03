@@ -1,0 +1,1 @@
+กว 2csXhrtsrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__short_console_ReadLine_81_base.cs

@@ -1,0 +1,1 @@
+É… 2csX'hrKsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Connect_tcp_81_goodG2B.cs

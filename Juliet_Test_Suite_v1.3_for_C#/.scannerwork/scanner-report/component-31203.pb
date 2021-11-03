@@ -1,0 +1,1 @@
+гу 2csXIhrTsrc/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_zero_divide_01.cs

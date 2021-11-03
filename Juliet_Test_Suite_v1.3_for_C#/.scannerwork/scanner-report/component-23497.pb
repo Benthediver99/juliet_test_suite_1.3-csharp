@@ -1,0 +1,1 @@
+ɷ 2csX^hrpsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_NetClient_to_short_67a.cs

@@ -1,0 +1,1 @@
+ко 2csXBhrcsrc/testcases/CWE321_Hard_Coded_Cryptographic_Key/CWE321_Hard_Coded_Cryptographic_Key__basic_66a.cs

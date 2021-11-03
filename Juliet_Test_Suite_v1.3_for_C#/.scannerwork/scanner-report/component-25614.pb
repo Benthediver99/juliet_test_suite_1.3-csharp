@@ -1,0 +1,1 @@
+ŽÈ 2csX0hrksrc/testcases/CWE197_Numeric_Truncation_Error/s09/CWE197_Numeric_Truncation_Error__short_Environment_66b.cs

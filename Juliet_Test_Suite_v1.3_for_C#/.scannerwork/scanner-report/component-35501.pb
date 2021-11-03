@@ -1,0 +1,1 @@
+­• 2csX[hrfsrc/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__deref_after_check_04.cs

@@ -1,0 +1,1 @@
+¥› 2csX%hrIsrc/testcases/CWE535_Info_Exposure_Shell_Error/Properties/AssemblyInfo.cs

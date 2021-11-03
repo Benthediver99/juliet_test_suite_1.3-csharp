@@ -1,0 +1,1 @@
+¼Ü 2csXÙhrtsrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__connect_tcp_SqlConnection_05.cs

@@ -1,0 +1,1 @@
+√» 2csX%hrCsrc/testcases/CWE78_OS_Command_Injection/Properties/AssemblyInfo.cs

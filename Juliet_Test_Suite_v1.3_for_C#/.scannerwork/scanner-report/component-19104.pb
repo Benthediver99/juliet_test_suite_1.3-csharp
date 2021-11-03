@@ -1,0 +1,1 @@
+ • 2csX1hrnsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_File_to_float_74b.cs

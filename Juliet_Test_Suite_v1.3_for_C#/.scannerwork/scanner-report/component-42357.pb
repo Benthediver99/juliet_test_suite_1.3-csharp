@@ -1,0 +1,1 @@
+ı  2csX|hrAsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_NetClient_02.cs
