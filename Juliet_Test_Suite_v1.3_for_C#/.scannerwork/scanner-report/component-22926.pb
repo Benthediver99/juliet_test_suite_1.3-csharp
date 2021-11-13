@@ -1,1 +1,0 @@
-Ž³ 2csXYhrpsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_Environment_to_byte_12.cs

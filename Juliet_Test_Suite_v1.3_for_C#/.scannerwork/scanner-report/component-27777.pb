@@ -1,1 +1,0 @@
-ÅŸ 2csXÑhrvsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__Get_Cookies_Web_01.cs

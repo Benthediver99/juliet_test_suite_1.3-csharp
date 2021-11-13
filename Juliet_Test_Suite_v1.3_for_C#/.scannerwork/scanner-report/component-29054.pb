@@ -1,1 +1,0 @@
-þâ 2csX-hrbsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_database_divide_81_goodB2G.cs

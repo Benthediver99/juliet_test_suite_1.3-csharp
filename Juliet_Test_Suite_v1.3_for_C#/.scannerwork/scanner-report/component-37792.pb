@@ -1,1 +1,0 @@
- § 2csXóhrcsrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Params_Get_Web_08.cs

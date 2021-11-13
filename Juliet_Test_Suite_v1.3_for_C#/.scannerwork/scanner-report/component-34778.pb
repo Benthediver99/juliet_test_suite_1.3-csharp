@@ -1,1 +1,0 @@
-ڏ 2csXNhrtsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__QueryString_Web_16.cs

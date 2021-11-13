@@ -1,1 +1,0 @@
-çõ 2csXïhrBsrc/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/Program.cs

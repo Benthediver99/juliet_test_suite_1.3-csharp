@@ -1,1 +1,0 @@
-Ди 2csXBhrDsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__File_67b.cs

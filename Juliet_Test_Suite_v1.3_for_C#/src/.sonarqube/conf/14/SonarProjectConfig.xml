@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
-  <AnalysisConfigPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
-  <ProjectPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE190_Integer_Overflow\s05\CWE190_Integer_Overflow_s05.csproj</ProjectPath>
-  <FilesToAnalyzePath>C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\.sonarqube\conf\14\FilesToAnalyze.txt</FilesToAnalyzePath>
-  <OutPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\.sonarqube\out\14</OutPath>
-  <ProjectType>Product</ProjectType>
-</SonarProjectConfig>

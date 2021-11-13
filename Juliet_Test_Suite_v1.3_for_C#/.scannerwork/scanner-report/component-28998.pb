@@ -1,1 +1,0 @@
-Æâ 2csX¡hrZsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_database_divide_04.cs

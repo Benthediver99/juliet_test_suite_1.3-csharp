@@ -1,1 +1,0 @@
-³b 2csXahresrc/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt32_console_readLine_add_54a.cs

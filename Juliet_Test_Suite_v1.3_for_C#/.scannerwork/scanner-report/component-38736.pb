@@ -1,1 +1,0 @@
-Ю 2csX]hrmsrc/testcases/CWE675_Duplicate_Operations_on_Resource/CWE675_Duplicate_Operations_on_Resource__OpenText_16.cs

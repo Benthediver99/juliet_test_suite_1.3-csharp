@@ -1,1 +1,0 @@
-ù« 2csXDhrZsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Get_Cookies_Web_81_goodB2G.cs

@@ -1,1 +1,0 @@
-ÅΩ 2csXShrisrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_61b.cs

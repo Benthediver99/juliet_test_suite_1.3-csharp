@@ -1,1 +1,0 @@
-ог 2csX hrfsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_Params_Get_Web_ExecuteScalar_81_base.cs

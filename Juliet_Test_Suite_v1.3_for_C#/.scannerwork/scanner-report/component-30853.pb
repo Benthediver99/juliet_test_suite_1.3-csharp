@@ -1,1 +1,0 @@
-Ес 2csXshr_src/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_QueryString_Web_divide_17.cs

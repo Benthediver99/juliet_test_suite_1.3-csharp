@@ -1,1 +1,0 @@
-Ј 2csX}hrusrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s02/CWE400_Uncontrolled_Resource_Consumption__sleep_File_01.cs

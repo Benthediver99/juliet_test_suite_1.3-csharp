@@ -1,1 +1,0 @@
-ç» 2csXührSsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__ReadLine_08.cs

@@ -1,1 +1,0 @@
-ö© 2csXghrOsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Connect_tcp_68a.cs

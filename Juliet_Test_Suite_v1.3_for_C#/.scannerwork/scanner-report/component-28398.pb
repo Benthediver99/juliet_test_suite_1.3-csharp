@@ -1,1 +1,0 @@
-ξέ 2csX6hrzsrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__NetClient_SqlConnection_81_goodG2B.cs

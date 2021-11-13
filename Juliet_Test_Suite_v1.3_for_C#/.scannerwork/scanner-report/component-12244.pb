@@ -1,1 +1,0 @@
-Ô_ 2csXmhrXsrc/testcases/CWE190_Integer_Overflow/s05/CWE190_Integer_Overflow__UInt16_max_add_75a.cs

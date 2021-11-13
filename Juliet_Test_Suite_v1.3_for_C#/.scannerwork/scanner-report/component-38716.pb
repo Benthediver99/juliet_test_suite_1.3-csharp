@@ -1,1 +1,0 @@
-¼® 2csX%hrFsrc/testcases/CWE674_Uncontrolled_Recursion/Properties/AssemblyInfo.cs

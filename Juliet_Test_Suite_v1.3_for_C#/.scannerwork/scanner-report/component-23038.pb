@@ -1,1 +1,0 @@
-þ³ 2csX…hrisrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_File_to_byte_04.cs

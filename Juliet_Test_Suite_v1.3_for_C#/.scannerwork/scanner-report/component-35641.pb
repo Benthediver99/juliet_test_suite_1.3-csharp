@@ -1,1 +1,0 @@
-¹– 2csX]hrksrc/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__null_check_after_deref_07.cs

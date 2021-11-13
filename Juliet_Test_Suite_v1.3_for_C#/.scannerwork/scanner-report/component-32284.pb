@@ -1,1 +1,0 @@
-œü 2csXŠhr|src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_05.cs

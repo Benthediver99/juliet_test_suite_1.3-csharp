@@ -1,1 +1,0 @@
-êÈ 2csX/hrVsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Get_Cookies_Web_81_goodG2B.cs

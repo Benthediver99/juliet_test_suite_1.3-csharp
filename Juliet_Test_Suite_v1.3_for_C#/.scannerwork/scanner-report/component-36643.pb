@@ -1,1 +1,0 @@
-£ž 2csX%hrNsrc/testcases/CWE563_Assign_to_Variable_Without_Use/Properties/AssemblyInfo.cs

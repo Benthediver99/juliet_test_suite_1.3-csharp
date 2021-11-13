@@ -1,1 +1,0 @@
-ùÍ 2csXBhrcsrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Listen_tcp_81_goodG2B.cs

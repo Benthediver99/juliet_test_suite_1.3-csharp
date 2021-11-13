@@ -1,1 +1,0 @@
-ıB 2csXshrasrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Environment_multiply_01.cs

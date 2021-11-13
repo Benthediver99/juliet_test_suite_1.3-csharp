@@ -1,1 +1,0 @@
-ƺ 2csX$hrtsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_connect_tcp_to_int_81_bad.cs

@@ -1,1 +1,0 @@
-ŭ 2csX_hrqsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_NetClient_to_byte_51a.cs

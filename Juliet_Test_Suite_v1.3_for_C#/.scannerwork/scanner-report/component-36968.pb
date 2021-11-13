@@ -1,1 +1,0 @@
-ша 2csX6hrOsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_File_81_goodG2B.cs

@@ -1,1 +1,0 @@
-°— 2csX=hr\src/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__String_71b.cs

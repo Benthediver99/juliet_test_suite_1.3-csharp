@@ -1,1 +1,0 @@
-á≠ 2csXèhrrsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_listen_tcp_to_short_42.cs

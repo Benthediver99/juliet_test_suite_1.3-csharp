@@ -1,1 +1,0 @@
-¾© 2csX?hrQsrc/testcases/CWE617_Reachable_Assertion/CWE617_Reachable_Assertion__length_12.cs

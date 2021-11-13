@@ -1,1 +1,0 @@
-дж 2csX%hr_src/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_NetClient_divide_81_bad.cs

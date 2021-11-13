@@ -1,1 +1,0 @@
-î¿ 2csXvhrisrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__long_File_to_int_12.cs

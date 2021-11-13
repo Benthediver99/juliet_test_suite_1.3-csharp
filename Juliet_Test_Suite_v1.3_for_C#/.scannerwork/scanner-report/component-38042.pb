@@ -1,1 +1,0 @@
-š© 2csXAhrXsrc/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_16.cs

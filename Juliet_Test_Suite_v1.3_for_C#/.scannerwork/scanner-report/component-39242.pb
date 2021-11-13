@@ -1,1 +1,0 @@
-Ê² 2csX†hr;src/testcases/CWE772_Missing_Release_of_Resource/Program.cs

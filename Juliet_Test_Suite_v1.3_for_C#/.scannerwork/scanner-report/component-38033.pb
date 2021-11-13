@@ -1,1 +1,0 @@
-‘© 2csXXhrXsrc/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs

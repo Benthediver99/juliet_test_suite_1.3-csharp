@@ -1,1 +1,0 @@
-Ž´ 2csXphrjsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_File_to_byte_22b.cs

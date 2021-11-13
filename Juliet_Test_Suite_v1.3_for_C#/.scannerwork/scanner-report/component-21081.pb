@@ -1,1 +1,0 @@
-٤ 2csX4hrosrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_database_to_int_61a.cs

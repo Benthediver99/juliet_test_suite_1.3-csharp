@@ -1,1 +1,0 @@
-Ùô 2csX%hrXsrc/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_zero_modulo_81_bad.cs

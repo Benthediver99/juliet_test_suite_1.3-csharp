@@ -1,1 +1,0 @@
-ÿÂ 2csXmhrisrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s03/CWE789_Uncontrolled_Mem_Alloc__ReadLine_Dictionary_22b.cs

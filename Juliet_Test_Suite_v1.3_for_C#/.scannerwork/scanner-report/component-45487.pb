@@ -1,1 +1,0 @@
-пу 2csXEhrdsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_Params_Get_Web_ExecuteNonQuery_81a.cs

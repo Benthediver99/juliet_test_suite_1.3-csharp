@@ -1,1 +1,0 @@
-ша 2csXJhr\src/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__NetworkCredential_01.cs

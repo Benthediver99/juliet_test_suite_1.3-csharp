@@ -1,1 +1,0 @@
-­ž 2csXahrosrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_random_to_float_13.cs

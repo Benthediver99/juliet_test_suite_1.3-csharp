@@ -1,1 +1,0 @@
- Ð 2csX%hrXsrc/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-€ı 2csXZhr\src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Environment_01.cs

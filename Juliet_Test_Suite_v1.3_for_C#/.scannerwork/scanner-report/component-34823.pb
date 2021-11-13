@@ -1,1 +1,0 @@
-áê 2csXLhrmsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__ReadLine_01.cs

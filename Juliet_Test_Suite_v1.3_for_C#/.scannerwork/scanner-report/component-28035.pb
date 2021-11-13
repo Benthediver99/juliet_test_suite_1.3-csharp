@@ -1,1 +1,0 @@
-É€ 2csXúhrvsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__QueryString_Web_15.cs

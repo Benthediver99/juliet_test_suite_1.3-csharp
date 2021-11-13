@@ -1,1 +1,0 @@
-ª\ 2csXêhrWsrc/testcases/CWE190_Integer_Overflow/s05/CWE190_Integer_Overflow__Short_rand_add_12.cs

@@ -1,1 +1,0 @@
-Ž\ 2csX1hrZsrc/testcases/CWE190_Integer_Overflow/s05/CWE190_Integer_Overflow__Short_max_square_52b.cs

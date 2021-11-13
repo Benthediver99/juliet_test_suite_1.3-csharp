@@ -1,1 +1,0 @@
-Å÷ 2csX'hrPsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Connect_tcp_81_bad.cs

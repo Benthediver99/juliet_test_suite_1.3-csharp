@@ -1,1 +1,0 @@
-ú– 2csXphr@src/testcases/CWE80_XSS/s02/CWE80_XSS__Web_QueryString_Web_15.cs

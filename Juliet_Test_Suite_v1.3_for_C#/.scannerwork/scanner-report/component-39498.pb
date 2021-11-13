@@ -1,1 +1,0 @@
-Ê´ 2csXŒhrhsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_04.cs

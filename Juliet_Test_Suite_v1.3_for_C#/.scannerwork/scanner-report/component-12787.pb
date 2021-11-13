@@ -1,1 +1,0 @@
-óc 2csXHhrXsrc/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt32_max_add_67a.cs

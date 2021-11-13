@@ -1,1 +1,0 @@
-Ст 2csX1hrWsrc/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_Random_divide_54b.cs

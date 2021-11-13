@@ -1,1 +1,0 @@
-Ö# 2csX8hr‘src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__negative_fixed_array_write_no_check_61b.cs

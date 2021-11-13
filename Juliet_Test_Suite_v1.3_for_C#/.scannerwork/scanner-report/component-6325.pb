@@ -1,1 +1,0 @@
-µ1 2csXÔhrzsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Database_Format_21.cs

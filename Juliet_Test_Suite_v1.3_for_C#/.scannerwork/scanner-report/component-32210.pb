@@ -1,1 +1,0 @@
-Ты 2csXPhrFsrc/testcases/CWE398_Code_Quality/CWE398_Code_Quality__semicolon_15.cs

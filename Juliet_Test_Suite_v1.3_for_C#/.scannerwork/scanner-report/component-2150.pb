@@ -1,1 +1,0 @@
-Ê 2csXmhrÅsrc/testcases/CWE117_Improper_Output_Neutralization_for_Logs/CWE117_Improper_Output_Neutralization_for_Logs__Params_Get_Web_31.cs

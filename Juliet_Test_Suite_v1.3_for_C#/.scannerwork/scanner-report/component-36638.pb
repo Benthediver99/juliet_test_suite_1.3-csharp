@@ -1,1 +1,0 @@
-žž 2csX#hrxsrc/testcases/CWE563_Assign_to_Variable_Without_Use/CWE563_Assign_to_Variable_Without_Use__unused_value_string_81_bad.cs

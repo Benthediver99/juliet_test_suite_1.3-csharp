@@ -1,1 +1,0 @@
-¶œ 2csX”hrpsrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_NetClient_to_int_06.cs

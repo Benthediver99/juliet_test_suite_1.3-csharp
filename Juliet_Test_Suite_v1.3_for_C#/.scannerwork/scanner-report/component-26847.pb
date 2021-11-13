@@ -1,1 +1,0 @@
-ßÑ 2csX7hr`src/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__SqlConnection_81_goodG2B.cs

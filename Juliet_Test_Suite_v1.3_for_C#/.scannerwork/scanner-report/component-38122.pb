@@ -1,1 +1,0 @@
-Í© 2csXèhrOsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Connect_tcp_53d.cs

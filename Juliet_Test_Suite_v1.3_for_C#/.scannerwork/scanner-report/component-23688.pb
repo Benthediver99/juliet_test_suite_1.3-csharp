@@ -1,1 +1,0 @@
-ˆ¹ 2csX1hrnsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__int_ReadLine_to_byte_71b.cs

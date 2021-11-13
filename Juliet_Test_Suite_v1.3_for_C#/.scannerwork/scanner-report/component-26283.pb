@@ -1,1 +1,0 @@
-«Í 2csXhhrasrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Get_Cookies_Web_66b.cs

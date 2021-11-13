@@ -1,1 +1,0 @@
-¨Æ 2csXphrVsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Listen_tcp_22a.cs

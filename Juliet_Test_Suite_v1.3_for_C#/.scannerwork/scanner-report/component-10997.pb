@@ -1,1 +1,0 @@
-õU 2csXahrisrc/testcases/CWE190_Integer_Overflow/s04/CWE190_Integer_Overflow__SByte_console_readLine_multiply_54a.cs

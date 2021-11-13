@@ -1,1 +1,0 @@
-Ст 2csX-hrjsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_console_readLine_modulo_81_goodB2G.cs

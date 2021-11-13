@@ -1,1 +1,0 @@
-þã 2csXßhr]src/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_Environment_modulo_05.cs

@@ -1,1 +1,0 @@
-ча 2csXBhr:src/testcases/CWE80_XSS/s02/CWE80_XSS__Web_ReadLine_53a.cs

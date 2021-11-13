@@ -1,1 +1,0 @@
-ˆê 2csX/hrPsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__NetClient_81_goodG2B.cs

@@ -1,1 +1,0 @@
-¾Œ 2csXºhrssrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_connect_tcp_to_long_21.cs

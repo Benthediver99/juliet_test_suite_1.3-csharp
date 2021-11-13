@@ -1,1 +1,0 @@
-†ê 2csX/hrLsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__NetClient_81_bad.cs

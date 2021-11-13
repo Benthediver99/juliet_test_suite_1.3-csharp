@@ -1,1 +1,0 @@
-é‚ 2csXÀhr^src/testcases/CWE191_Integer_Underflow/s04/CWE191_Integer_Underflow__UInt16_min_multiply_06.cs

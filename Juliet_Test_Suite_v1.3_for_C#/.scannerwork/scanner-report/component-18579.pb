@@ -1,1 +1,0 @@
-“‘ 2csX£hrpsrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_database_to_long_15.cs

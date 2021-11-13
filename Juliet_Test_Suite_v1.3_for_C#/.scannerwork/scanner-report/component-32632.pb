@@ -1,1 +1,0 @@
-øþ 2csXGhrysrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__File_for_loop_71b.cs

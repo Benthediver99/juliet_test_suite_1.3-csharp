@@ -1,1 +1,0 @@
-¤i 2csX&hrbsrc/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt64_max_square_81_goodG2B.cs

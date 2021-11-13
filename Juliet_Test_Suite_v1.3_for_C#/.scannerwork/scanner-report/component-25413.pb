@@ -1,1 +1,0 @@
-ÅÆ 2csXnhrksrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__short_connect_tcp_52a.cs

@@ -1,1 +1,0 @@
-‘Ò 2csXmhr^src/testcases/CWE284_Improper_Access_Control/CWE284_Improper_Access_Control__RegistryKey_04.cs

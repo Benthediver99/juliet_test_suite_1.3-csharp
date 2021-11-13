@@ -1,1 +1,0 @@
-æ¤ 2csX6hresrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Database_81_goodB2G.cs

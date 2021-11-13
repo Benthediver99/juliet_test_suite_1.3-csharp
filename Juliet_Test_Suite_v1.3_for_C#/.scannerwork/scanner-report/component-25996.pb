@@ -1,1 +1,0 @@
-ŒË 2csX•hrNsrc/testcases/CWE226_Sensitive_Information_Uncleared_Before_Release/Program.cs

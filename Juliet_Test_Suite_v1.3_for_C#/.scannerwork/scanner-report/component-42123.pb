@@ -1,1 +1,0 @@
-ã… 2csXèhr@src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Database_08.cs

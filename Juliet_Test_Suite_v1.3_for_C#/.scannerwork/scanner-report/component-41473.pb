@@ -1,1 +1,0 @@
-Ä 2csXzhrVsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Connect_tcp_45.cs

@@ -1,1 +1,0 @@
-уп 2csX,hrasrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_NetClient_modulo_81_goodB2G.cs

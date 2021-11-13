@@ -1,1 +1,0 @@
-éý 2csX]hr€src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_52a.cs

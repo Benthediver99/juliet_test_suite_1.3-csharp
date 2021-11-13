@@ -1,1 +1,0 @@
-±= 2csXghrZsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_max_multiply_42.cs

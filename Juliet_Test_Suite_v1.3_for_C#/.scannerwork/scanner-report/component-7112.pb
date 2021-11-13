@@ -1,1 +1,0 @@
-È7 2csX¹hr”src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Environment_08.cs

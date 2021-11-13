@@ -1,1 +1,0 @@
-ÆH 2csXHhrUsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_max_add_67a.cs

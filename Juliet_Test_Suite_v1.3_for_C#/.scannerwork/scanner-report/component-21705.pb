@@ -1,1 +1,0 @@
-ɩ 2csXahrmsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_File_to_short_81a.cs

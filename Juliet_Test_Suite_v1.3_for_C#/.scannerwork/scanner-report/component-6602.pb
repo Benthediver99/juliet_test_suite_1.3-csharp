@@ -1,1 +1,0 @@
-Ê3 2csXlhrwsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_Format_73a.cs

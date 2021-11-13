@@ -1,1 +1,0 @@
-†© 2csX%hrOsrc/testcases/CWE614_Sensitive_Cookie_Without_Secure/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-·Ê 2csX4hrfsrc/testcases/CWE197_Numeric_Truncation_Error/s09/CWE197_Numeric_Truncation_Error__short_random_61a.cs

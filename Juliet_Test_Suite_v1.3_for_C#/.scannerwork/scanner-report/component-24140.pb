@@ -1,1 +1,0 @@
-Ì¼ 2csX’hrosrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_database_to_byte_22b.cs

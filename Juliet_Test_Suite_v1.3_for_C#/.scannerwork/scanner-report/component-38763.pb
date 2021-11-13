@@ -1,1 +1,0 @@
-ë® 2csXLhrnsrc/testcases/CWE675_Duplicate_Operations_on_Resource/CWE675_Duplicate_Operations_on_Resource__OpenText_67a.cs

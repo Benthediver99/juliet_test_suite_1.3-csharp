@@ -1,1 +1,0 @@
-²– 2csX#hrfsrc/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int_array_81_goodG2B.cs

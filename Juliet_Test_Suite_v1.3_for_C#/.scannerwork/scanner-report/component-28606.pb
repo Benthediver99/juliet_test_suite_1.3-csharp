@@ -1,1 +1,0 @@
-¾ß 2csX¦hr1src/testcases/CWE327_Use_Broken_Crypto/Program.cs

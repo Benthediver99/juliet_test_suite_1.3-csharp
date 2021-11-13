@@ -1,1 +1,0 @@
-ê≠ 2csX4hrRsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Params_Get_Web_52b.cs

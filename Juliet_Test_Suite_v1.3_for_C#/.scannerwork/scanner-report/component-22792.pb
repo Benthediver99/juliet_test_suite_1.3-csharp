@@ -1,1 +1,0 @@
-ˆ² 2csX$hrusrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_Connect_tcp_to_short_81_bad.cs

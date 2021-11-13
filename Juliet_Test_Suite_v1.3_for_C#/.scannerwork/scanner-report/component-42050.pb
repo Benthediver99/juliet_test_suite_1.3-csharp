@@ -1,1 +1,0 @@
-ÂÈ 2csX‡hr3src/testcases/CWE78_OS_Command_Injection/Program.cs

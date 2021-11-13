@@ -1,1 +1,0 @@
-см 2csXphrUsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_File_modulo_61b.cs

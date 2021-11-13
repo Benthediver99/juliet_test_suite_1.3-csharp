@@ -1,1 +1,0 @@
-ʣ 2csXYhrxsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_console_ReadLine_to_short_16.cs

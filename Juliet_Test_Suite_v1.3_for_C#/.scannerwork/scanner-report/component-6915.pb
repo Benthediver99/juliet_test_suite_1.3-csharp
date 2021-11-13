@@ -1,1 +1,0 @@
-É6 2csXhrésrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__ReadLine_console_interpolation_81_base.cs

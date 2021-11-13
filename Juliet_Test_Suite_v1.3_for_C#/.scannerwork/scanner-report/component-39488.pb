@@ -1,1 +1,0 @@
-À´ 2csX1hrhsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_74b.cs

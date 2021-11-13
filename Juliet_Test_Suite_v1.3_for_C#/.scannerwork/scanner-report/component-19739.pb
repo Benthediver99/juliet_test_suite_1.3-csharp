@@ -1,1 +1,0 @@
-õö 2csXèhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_listen_tcp_to_int_42.cs

@@ -1,1 +1,0 @@
-ýª 2csXEhrRsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Environment_81_bad.cs

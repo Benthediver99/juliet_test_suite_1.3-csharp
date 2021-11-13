@@ -1,1 +1,0 @@
-¾Ù 2csX½hrqsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__Listen_tcp_01.cs

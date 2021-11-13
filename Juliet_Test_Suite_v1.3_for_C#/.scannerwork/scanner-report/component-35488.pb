@@ -1,1 +1,0 @@
- • 2csXehr^src/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__binary_if_08.cs

@@ -1,1 +1,0 @@
-‡å 2csX%hrqsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Database_81_bad.cs

@@ -1,1 +1,0 @@
-³o 2csXFhr\src/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__int_Database_sub_61a.cs

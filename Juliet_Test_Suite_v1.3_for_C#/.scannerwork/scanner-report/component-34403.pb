@@ -1,1 +1,0 @@
-„å 2csX@hrpsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Environment_01.cs

@@ -1,1 +1,0 @@
-Óﬁ 2csX©hr<src/testcases/CWE321_Hard_Coded_Cryptographic_Key/Program.cs

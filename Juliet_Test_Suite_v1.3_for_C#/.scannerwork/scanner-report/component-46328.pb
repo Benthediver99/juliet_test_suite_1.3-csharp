@@ -1,1 +1,0 @@
-רי 2csXBhrIsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__NetClient_67b.cs

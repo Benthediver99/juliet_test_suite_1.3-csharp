@@ -1,1 +1,0 @@
-Šb 2csXBhr\src/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt16_rand_square_74b.cs

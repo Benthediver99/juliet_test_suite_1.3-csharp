@@ -1,1 +1,0 @@
-¿Ò 2csX(hrUsrc/testcases/CWE81_XSS_Error_Message/CWE81_XSS_Error_Message__Web_File_81_goodG2B.cs

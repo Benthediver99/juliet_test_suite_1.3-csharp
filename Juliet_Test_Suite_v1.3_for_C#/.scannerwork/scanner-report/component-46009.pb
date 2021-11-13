@@ -1,1 +1,0 @@
-¹ç 2csXOhrHsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Database_51a.cs

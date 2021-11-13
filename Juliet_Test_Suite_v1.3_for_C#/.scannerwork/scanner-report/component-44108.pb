@@ -1,1 +1,0 @@
-ль 2csX2hrPsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Params_Get_Web_52c.cs

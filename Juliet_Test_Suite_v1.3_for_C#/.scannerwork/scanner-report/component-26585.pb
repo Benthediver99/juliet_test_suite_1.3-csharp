@@ -1,1 +1,0 @@
-ÙÏ 2csXhhrZsrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__ReadLine_67b.cs

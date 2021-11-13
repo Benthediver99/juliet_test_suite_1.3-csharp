@@ -1,1 +1,0 @@
-’¨ 2csX3hrlsrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__QueryString_Web_81_goodG2B.cs

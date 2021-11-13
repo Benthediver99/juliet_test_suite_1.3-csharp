@@ -1,1 +1,0 @@
-úî 2csXühr}src/testcases/CWE94_Improper_Control_of_Generation_of_Code/CWE94_Improper_Control_of_Generation_of_Code__Params_Get_Web_13.cs

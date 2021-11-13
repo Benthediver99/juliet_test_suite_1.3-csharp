@@ -1,1 +1,0 @@
-ƒ‚ 2csX®hrzsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__max_value_write_16.cs

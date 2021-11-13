@@ -1,1 +1,0 @@
-мн 2csXehr`src/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Get_Cookies_Web_modulo_66a.cs

@@ -1,1 +1,0 @@
-…Æ 2csXIhr[src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Get_Cookies_Web_67b.cs

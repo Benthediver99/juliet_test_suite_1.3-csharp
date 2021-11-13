@@ -1,1 +1,0 @@
-½Í 2csXBhrhsrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Get_Cookies_Web_81_goodG2B.cs

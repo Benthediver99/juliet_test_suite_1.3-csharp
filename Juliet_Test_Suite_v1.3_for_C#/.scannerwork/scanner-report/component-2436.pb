@@ -1,1 +1,0 @@
-Ñ 2csXÅhrésrc/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Connect_tcp_array_read_check_min_81a.cs

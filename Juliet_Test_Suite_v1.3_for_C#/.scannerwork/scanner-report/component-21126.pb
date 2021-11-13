@@ -1,1 +1,0 @@
-†¥ 2csXŠhrosrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_database_to_long_45.cs

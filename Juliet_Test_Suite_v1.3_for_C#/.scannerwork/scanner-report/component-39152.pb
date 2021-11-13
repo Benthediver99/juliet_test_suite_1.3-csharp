@@ -1,1 +1,0 @@
-ð± 2csX%hrFsrc/testcases/CWE690_NULL_Deref_From_Return/Properties/AssemblyInfo.cs

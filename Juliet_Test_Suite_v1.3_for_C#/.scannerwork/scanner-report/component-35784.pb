@@ -1,1 +1,0 @@
-ȗ 2csXQhr]src/testcases/CWE477_Obsolete_Functions/CWE477_Obsolete_Functions__Dns_GetHostByAddress_05.cs

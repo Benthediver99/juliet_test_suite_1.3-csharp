@@ -1,1 +1,0 @@
-лу 2csXAhr[src/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_database_modulo_67b.cs

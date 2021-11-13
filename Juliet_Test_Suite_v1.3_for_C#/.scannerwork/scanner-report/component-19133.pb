@@ -1,1 +1,0 @@
-½• 2csXqhrksrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_File_to_int_42.cs

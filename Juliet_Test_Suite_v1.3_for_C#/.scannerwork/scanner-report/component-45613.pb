@@ -1,1 +1,0 @@
-­ä 2csXMhrhsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_QueryString_Web_CommandText_81_goodG2B.cs

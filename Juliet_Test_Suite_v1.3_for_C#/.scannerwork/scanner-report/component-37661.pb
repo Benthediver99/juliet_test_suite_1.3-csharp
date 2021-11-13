@@ -1,1 +1,0 @@
-ù¶ 2csX6hrlsrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Get_Cookies_Web_81_goodB2G.cs

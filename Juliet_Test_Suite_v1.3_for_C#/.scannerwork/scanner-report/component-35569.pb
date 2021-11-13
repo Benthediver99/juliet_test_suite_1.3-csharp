@@ -1,1 +1,0 @@
-ñ• 2csXmhr]src/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__Integer_75a.cs

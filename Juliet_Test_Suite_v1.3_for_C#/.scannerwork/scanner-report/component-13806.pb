@@ -1,1 +1,0 @@
-îk 2csX»hr\src/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__Byte_min_multiply_13.cs

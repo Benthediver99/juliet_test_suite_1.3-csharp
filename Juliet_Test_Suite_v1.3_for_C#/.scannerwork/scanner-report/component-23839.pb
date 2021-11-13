@@ -1,1 +1,0 @@
-Ÿº 2csXMhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_connect_tcp_to_int_22a.cs

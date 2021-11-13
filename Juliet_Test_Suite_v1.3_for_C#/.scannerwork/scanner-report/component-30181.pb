@@ -1,1 +1,0 @@
-ел 2csXxhr[src/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Environment_modulo_41.cs

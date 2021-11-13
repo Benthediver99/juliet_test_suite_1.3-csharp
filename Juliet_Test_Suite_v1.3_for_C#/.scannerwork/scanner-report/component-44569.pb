@@ -1,1 +1,0 @@
-™Ü 2csXChresrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Database_ExecuteNonQuery_81_goodB2G.cs

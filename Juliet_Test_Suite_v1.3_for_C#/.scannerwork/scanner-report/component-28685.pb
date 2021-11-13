@@ -1,1 +1,0 @@
-На 2csXJhrLsrc/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_11.cs

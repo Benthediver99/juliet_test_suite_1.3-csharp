@@ -1,1 +1,0 @@
-Çô 2csX6hrUsrc/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_zero_modulo_61b.cs

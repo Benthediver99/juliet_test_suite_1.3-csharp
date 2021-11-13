@@ -1,1 +1,0 @@
-ÑÆ 2csX3hr]src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Listen_tcp_81_goodG2B.cs

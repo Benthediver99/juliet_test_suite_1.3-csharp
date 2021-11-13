@@ -1,1 +1,0 @@
-éµ 2csXhrpsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_large_to_short_81_base.cs

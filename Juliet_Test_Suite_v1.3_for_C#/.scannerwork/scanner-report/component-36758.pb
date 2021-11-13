@@ -1,1 +1,0 @@
-–Ÿ 2csX hrfsrc/testcases/CWE582_Array_Public_Readonly_Static/CWE582_Array_Public_Readonly_Static__basic_01_bad.cs

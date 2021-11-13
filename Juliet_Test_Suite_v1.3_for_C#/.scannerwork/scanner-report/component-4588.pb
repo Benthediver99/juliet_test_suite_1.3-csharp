@@ -1,1 +1,0 @@
-ì# 2csXžhr‹src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__NetClient_array_read_check_max_01.cs

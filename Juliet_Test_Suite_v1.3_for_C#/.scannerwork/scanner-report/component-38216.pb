@@ -1,1 +1,0 @@
-Èª 2csX·hrNsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Environment_05.cs

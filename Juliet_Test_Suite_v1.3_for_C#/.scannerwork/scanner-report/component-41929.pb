@@ -1,1 +1,0 @@
-иг 2csX3hrasrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Params_Get_Web_81_goodG2B.cs

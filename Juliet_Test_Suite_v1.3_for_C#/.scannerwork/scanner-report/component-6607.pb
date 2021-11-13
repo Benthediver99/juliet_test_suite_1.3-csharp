@@ -1,1 +1,0 @@
-Ï3 2csXkhrwsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_Format_75b.cs

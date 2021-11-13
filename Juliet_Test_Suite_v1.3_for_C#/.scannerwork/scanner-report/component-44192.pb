@@ -1,1 +1,0 @@
- Ù 2csXDhrQsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_QueryString_Web_74a.cs

@@ -1,1 +1,0 @@
-зу 2csXRhrMsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Connect_tcp_22a.cs

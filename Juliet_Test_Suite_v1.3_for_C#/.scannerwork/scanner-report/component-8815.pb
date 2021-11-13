@@ -1,1 +1,0 @@
-ÔD 2csX0hrbsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_File_multiply_81_goodB2G.cs

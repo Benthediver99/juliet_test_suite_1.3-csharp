@@ -1,1 +1,0 @@
-за 2csX9hrgsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_66a.cs

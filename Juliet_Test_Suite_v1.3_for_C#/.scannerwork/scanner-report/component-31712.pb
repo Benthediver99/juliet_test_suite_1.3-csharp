@@ -1,1 +1,0 @@
-ач 2csXwhrZsrc/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__NetClient_41.cs

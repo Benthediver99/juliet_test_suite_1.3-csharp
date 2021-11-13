@@ -1,1 +1,0 @@
-êØ 2csXWhrrsrc/testcases/CWE675_Duplicate_Operations_on_Resource/CWE675_Duplicate_Operations_on_Resource__StreamReader_22a.cs

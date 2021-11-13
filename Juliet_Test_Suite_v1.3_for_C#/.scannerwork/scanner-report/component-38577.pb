@@ -1,1 +1,0 @@
-±­ 2csXFhrYsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Params_Get_Web_81_goodG2B.cs

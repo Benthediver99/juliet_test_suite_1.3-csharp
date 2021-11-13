@@ -1,1 +1,0 @@
-îÍ 2csXÅhr\src/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Connect_tcp_modulo_81a.cs

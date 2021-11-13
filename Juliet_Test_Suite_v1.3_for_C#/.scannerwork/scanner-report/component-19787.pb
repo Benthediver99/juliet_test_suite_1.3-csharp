@@ -1,1 +1,0 @@
-Ëš 2csX«hrrsrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_listen_tcp_to_long_11.cs

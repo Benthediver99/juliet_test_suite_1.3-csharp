@@ -1,1 +1,0 @@
-ич 2csX hresrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Get_Cookies_Web_CommandText_81_base.cs

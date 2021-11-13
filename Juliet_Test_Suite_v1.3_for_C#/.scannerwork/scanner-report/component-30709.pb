@@ -1,1 +1,0 @@
-õï 2csXŠhr2src/testcases/CWE369_Divide_by_Zero/s02/Program.cs

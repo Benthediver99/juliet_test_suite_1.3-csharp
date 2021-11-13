@@ -1,1 +1,0 @@
-Ú¯ 2csXŠhr‚src/testcases/CWE681_Incorrect_Conversion_Between_Numeric_Types/CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_09.cs

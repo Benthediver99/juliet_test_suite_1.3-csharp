@@ -1,1 +1,0 @@
-ޡ 2csX6hrQsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Listen_tcp_81_bad.cs

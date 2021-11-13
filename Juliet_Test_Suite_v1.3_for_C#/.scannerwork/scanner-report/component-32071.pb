@@ -1,1 +1,0 @@
-Çú 2csX%hrGsrc/testcases/CWE397_Throw_Generic_Exception/Properties/AssemblyInfo.cs

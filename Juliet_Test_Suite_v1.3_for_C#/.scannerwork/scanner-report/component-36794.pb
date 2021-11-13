@@ -1,1 +1,0 @@
-ºŸ 2csX¯hrNsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Connect_tcp_06.cs

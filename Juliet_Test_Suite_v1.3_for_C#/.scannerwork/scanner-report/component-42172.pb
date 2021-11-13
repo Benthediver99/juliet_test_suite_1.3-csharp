@@ -1,1 +1,0 @@
-¼É 2csXRhrAsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Database_81a.cs

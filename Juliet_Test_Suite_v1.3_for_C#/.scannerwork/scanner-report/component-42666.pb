@@ -1,1 +1,0 @@
-ªÍ 2csXhr9src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_Database_11.cs

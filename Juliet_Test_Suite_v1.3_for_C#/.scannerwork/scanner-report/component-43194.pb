@@ -1,1 +1,0 @@
-บั 2csXKhrUsrc/testcases/CWE81_XSS_Error_Message/CWE81_XSS_Error_Message__Web_Connect_tcp_71a.cs

@@ -1,1 +1,0 @@
-ö¸ 2csXfhrpsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_22b.cs

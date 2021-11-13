@@ -1,1 +1,0 @@
-Ка 2csX%hrNsrc/testcases/CWE366_Race_Condition_within_a_Thread/Properties/AssemblyInfo.cs

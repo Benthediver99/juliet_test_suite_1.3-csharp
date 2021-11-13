@@ -1,1 +1,0 @@
-Åœ 2csXÄhr`src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__QueryString_Web_16.cs

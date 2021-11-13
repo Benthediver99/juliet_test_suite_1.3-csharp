@@ -1,1 +1,0 @@
-•ç 2csXÑhrisrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__File_07.cs

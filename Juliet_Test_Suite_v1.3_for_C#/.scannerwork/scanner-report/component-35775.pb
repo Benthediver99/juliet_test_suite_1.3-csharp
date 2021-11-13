@@ -1,1 +1,0 @@
-¿— 2csX%hrHsrc/testcases/CWE476_NULL_Pointer_Dereference/Properties/AssemblyInfo.cs

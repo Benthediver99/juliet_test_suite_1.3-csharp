@@ -1,1 +1,0 @@
-šú 2csXthr^src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs

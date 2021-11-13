@@ -1,1 +1,0 @@
-°½ 2csX$hrusrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_database_to_int_81_goodG2B.cs

@@ -1,1 +1,0 @@
-ые 2csXwhrrsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_Environment_to_byte_05.cs

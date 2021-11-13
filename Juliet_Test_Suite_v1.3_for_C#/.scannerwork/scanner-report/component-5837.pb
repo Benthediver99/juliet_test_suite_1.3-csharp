@@ -1,1 +1,0 @@
-Õ- 2csX§hräsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s04/CWE129_Improper_Validation_of_Array_Index__ReadLine_array_read_check_max_45.cs

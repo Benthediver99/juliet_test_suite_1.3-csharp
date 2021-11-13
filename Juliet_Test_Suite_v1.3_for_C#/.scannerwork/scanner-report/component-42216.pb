@@ -1,1 +1,0 @@
-Ë… 2csXKhr=src/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_File_66a.cs

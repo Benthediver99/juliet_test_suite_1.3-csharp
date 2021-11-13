@@ -1,1 +1,0 @@
-½Í 2csXPhr:src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_Database_53a.cs

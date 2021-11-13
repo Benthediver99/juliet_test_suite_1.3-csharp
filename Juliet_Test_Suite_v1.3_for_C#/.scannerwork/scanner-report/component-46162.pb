@@ -1,1 +1,0 @@
-вш 2csX/hrGsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__File_81_bad.cs

@@ -1,1 +1,0 @@
-ωτ 2csXzhr\src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Connect_tcp_42.cs

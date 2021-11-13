@@ -1,1 +1,0 @@
- 2csXDhrLsrc/testcases/CWE546_Suspicious_Comment/CWE546_Suspicious_Comment__BUG_02.cs

@@ -1,1 +1,0 @@
-Ҏ 2csX%hrwsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Listen_tcp_81_goodG2B.cs

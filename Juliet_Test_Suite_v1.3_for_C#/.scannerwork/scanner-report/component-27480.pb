@@ -1,1 +1,0 @@
-ÿ÷ 2csXíhrysrc/testcases/CWE313_Cleartext_Storage_in_a_File_or_on_Disk/CWE313_Cleartext_Storage_in_a_File_or_on_Disk__ReadLine_15.cs

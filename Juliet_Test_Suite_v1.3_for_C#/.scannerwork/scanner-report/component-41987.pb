@@ -1,1 +1,0 @@
-É» 2csX3hr^src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__QueryString_Web_81_bad.cs

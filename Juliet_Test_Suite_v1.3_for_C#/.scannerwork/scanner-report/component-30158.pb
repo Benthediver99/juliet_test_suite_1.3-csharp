@@ -1,1 +1,0 @@
-Îë 2csX,hrcsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Environment_divide_81_goodB2G.cs

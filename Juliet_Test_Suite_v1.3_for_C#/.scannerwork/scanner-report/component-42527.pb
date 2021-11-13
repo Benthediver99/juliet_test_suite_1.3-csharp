@@ -1,1 +1,0 @@
-ŸÌ 2csX5hrHsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_QueryString_Web_73b.cs

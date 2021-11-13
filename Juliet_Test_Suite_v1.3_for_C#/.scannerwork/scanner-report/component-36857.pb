@@ -1,1 +1,0 @@
-ùŸ 2csX®hrKsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Database_09.cs

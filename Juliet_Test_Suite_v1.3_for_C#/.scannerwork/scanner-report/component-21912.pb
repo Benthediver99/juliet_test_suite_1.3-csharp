@@ -1,1 +1,0 @@
-˜« 2csXKhrmsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_large_to_short_45.cs

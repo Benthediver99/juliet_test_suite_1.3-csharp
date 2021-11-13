@@ -1,1 +1,0 @@
-ซึ 2csXLhrJsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Database_61b.cs

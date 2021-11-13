@@ -1,1 +1,0 @@
-†ç 2csXOhrusrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_connect_tcp_to_short_75b.cs

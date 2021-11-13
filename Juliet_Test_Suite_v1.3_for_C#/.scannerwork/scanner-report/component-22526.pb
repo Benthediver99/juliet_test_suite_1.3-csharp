@@ -1,1 +1,0 @@
-þ¯ 2csX.hrmsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_random_to_int_54e.cs

@@ -1,1 +1,0 @@
-ܭ 2csXWhrSsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__QueryString_Web_67a.cs

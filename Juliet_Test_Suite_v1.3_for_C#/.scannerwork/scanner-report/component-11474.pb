@@ -1,1 +1,0 @@
-ÒY 2csX‚hrcsrc/testcases/CWE190_Integer_Overflow/s04/CWE190_Integer_Overflow__Short_console_readLine_add_42.cs

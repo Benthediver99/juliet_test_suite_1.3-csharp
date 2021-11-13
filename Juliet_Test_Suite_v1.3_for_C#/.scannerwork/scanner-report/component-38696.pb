@@ -1,1 +1,0 @@
-ио 2csXEhrOsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__ReadLine_81_bad.cs

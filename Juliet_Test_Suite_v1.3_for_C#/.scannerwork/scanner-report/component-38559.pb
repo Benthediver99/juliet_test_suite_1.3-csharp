@@ -1,1 +1,0 @@
-Ÿ­ 2csXKhrRsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Params_Get_Web_67a.cs

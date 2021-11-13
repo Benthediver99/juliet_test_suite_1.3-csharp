@@ -1,1 +1,0 @@
-лс 2csX%hrcsrc/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_QueryString_Web_modulo_81_bad.cs

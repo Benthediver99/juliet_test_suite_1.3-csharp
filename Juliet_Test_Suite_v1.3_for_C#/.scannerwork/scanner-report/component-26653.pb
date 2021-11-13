@@ -1,1 +1,0 @@
-ù– 2csXxhrÑsrc/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.cs

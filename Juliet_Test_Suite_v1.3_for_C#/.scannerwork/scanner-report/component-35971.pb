@@ -1,1 +1,0 @@
-ƒ™ 2csXJhrisrc/testcases/CWE506_Embedded_Malicious_Code/CWE506_Embedded_Malicious_Code__base64_encoded_payload_16.cs

@@ -1,1 +1,0 @@
-æ’ 2csX&hrbsrc/testcases/CWE470_Unsafe_Reflection/CWE470_Unsafe_Reflection__Web_Get_Cookies_Web_81_goodG2B.cs

@@ -1,2 +1,0 @@
-Þ
- 2csXÃhrtsrc/testcases/CWE113_HTTP_Response_Splitting/s02/CWE113_HTTP_Response_Splitting__Web_QueryString_Web_addHeader_06.cs

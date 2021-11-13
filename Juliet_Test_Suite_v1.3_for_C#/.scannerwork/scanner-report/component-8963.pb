@@ -1,1 +1,0 @@
-ÉF 2csX_hrfsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Get_Cookies_Web_multiply_51a.cs

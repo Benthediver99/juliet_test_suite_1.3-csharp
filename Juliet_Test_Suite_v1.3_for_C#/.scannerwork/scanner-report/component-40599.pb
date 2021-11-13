@@ -1,1 +1,0 @@
-óΩ 2csXÅhrisrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_02.cs

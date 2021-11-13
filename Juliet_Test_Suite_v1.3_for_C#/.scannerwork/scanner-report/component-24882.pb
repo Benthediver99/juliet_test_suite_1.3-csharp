@@ -1,1 +1,0 @@
-²Â 2csX(hrqsrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__long_listen_tcp_to_byte_54c.cs

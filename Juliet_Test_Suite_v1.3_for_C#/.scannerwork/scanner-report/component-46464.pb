@@ -1,1 +1,0 @@
-Ал 2csX/hrVsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__QueryString_Web_81_goodG2B.cs

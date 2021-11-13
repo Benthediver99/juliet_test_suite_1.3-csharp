@@ -1,1 +1,0 @@
-óè 2csXŒhrVsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__float_zero_modulo_21.cs

@@ -1,1 +1,0 @@
-³¤ 2csX²hr]src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Database_09.cs

@@ -1,1 +1,0 @@
-‰ï 2csXçhrlsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_File_to_long_02.cs

@@ -1,1 +1,0 @@
-ри 2csX$hrmsrc/testcases/CWE197_Numeric_Truncation_Error/s09/CWE197_Numeric_Truncation_Error__short_listen_tcp_81_bad.cs

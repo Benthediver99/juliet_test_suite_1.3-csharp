@@ -1,1 +1,0 @@
-Êº 2csXœhrrsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_connect_tcp_to_short_02.cs

@@ -1,1 +1,0 @@
-ٿ 2csXahrksrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_File_to_byte_81a.cs

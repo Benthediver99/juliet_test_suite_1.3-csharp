@@ -1,1 +1,0 @@
-שך 2csXDhrOsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__QueryString_Web_74a.cs

@@ -1,1 +1,0 @@
- · 2csX/hrdsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_68b.cs

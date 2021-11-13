@@ -1,1 +1,0 @@
-åš 2csX,hrtsrc/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_01.cs

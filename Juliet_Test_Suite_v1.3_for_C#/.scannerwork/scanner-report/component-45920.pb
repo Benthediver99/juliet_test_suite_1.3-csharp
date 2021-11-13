@@ -1,1 +1,0 @@
-аж 2csX%hr@src/testcases/CWE89_SQL_Injection/s02/Properties/AssemblyInfo.cs

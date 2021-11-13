@@ -1,1 +1,0 @@
-ÃV 2csXnhrgsrc/testcases/CWE190_Integer_Overflow/s04/CWE190_Integer_Overflow__SByte_console_readLine_square_73a.cs

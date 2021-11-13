@@ -1,1 +1,0 @@
-Ø% 2csXZhr‚src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__NetClient_array_size_74b.cs

@@ -1,1 +1,0 @@
-ðÇ 2csXMhr[src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__QueryString_Web_61a.cs

@@ -1,1 +1,0 @@
-ßù 2csXÉhrxsrc/testcases/CWE379_Temporary_File_Creation_in_Insecure_Dir/CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_08.cs

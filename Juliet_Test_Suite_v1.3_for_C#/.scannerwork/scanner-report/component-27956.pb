@@ -1,1 +1,0 @@
-´Ú 2csX4hrtsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__NetClient_81_bad.cs

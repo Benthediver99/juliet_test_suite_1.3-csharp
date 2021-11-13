@@ -1,1 +1,0 @@
-צל 2csXthrUsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_File_modulo_68a.cs

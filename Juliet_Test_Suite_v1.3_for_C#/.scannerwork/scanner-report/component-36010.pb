@@ -1,1 +1,0 @@
-ª™ 2csXjhrksrc/testcases/CWE506_Embedded_Malicious_Code/CWE506_Embedded_Malicious_Code__file_transfer_listen_tcp_05.cs

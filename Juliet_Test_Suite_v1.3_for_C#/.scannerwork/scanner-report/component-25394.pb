@@ -1,1 +1,0 @@
-²Æ 2csXªhrjsrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__short_connect_tcp_08.cs

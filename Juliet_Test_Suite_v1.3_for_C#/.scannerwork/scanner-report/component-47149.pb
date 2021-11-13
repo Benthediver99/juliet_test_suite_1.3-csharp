@@ -1,1 +1,0 @@
-­ð 2xmlX²àhrAsrc/testcasesupport/packages/NLog.4.6.8/lib/net40-client/NLog.xml

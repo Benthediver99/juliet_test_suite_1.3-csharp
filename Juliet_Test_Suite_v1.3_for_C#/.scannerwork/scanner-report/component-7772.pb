@@ -1,1 +1,0 @@
-Ü< 2csX-hrmsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_console_readLine_square_81_goodB2G.cs

@@ -1,1 +1,0 @@
-µ; 2csXÿhrbsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_console_readLine_add_15.cs

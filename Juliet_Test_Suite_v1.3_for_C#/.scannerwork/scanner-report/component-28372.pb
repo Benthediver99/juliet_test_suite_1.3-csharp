@@ -1,1 +1,0 @@
-дн 2csX4hrssrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__NetClient_SqlConnection_54b.cs

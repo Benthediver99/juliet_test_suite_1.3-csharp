@@ -1,1 +1,0 @@
-ÀÚ 2csXìhrusrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__Params_Get_Web_09.cs

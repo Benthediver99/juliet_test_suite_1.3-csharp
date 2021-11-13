@@ -1,1 +1,0 @@
-À 2csX,hräsrc/testcases/CWE117_Improper_Output_Neutralization_for_Logs/CWE117_Improper_Output_Neutralization_for_Logs__QueryString_Web_81_goodG2B.cs

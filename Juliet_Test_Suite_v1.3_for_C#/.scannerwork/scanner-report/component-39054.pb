@@ -1,1 +1,0 @@
-Ž± 2csX=hrisrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__getParameter_Web_equals_51b.cs

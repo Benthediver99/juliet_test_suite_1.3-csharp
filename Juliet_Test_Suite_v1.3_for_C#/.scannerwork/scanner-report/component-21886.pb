@@ -1,1 +1,0 @@
-þª 2csX$hrpsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_large_to_long_81_bad.cs

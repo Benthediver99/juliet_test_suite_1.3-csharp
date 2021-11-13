@@ -1,1 +1,0 @@
-Ал 2csX'hrDsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_ReadLine_81_bad.cs

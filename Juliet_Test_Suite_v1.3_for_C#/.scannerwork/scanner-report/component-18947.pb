@@ -1,1 +1,0 @@
-ƒ” 2csXOhrtsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_Environment_to_short_17.cs

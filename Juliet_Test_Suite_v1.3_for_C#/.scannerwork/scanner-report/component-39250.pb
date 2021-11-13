@@ -1,1 +1,0 @@
-Ҳ 2csX%hr\src/testcases/CWE775_Missing_Release_of_File_Descriptor_or_Handle/Properties/AssemblyInfo.cs

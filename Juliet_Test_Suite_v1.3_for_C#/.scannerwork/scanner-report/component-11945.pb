@@ -1,1 +1,0 @@
-©] 2csX)hrdsrc/testcases/CWE190_Integer_Overflow/s05/CWE190_Integer_Overflow__Short_rand_multiply_81_goodG2B.cs

@@ -1,1 +1,0 @@
-Åﬁ 2csXvhrXsrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_File_ExecuteScalar_71b.cs

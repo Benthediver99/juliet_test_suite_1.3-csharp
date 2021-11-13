@@ -1,1 +1,0 @@
-¼Z 2csXphrfsrc/testcases/CWE190_Integer_Overflow/s05/CWE190_Integer_Overflow__Short_console_readLine_square_01.cs

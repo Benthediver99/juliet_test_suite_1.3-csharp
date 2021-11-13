@@ -1,1 +1,0 @@
-®œ 2csX%hrHsrc/testcases/CWE549_Missing_Password_Masking/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-ðÈ 2csXOhrDsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Connect_tcp_66a.cs

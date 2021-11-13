@@ -1,1 +1,0 @@
-ÿ 2csXehrnsrc/testcases/CWE113_HTTP_Response_Splitting/s02/CWE113_HTTP_Response_Splitting__Web_ReadLine_setHeader_73a.cs

@@ -1,1 +1,0 @@
-šì 2csXýhrTsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_File_divide_14.cs

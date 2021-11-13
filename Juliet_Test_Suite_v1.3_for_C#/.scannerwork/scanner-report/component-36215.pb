@@ -1,1 +1,0 @@
-÷š 2csX%hrSsrc/testcases/CWE526_Info_Exposure_Environment_Variables/Properties/AssemblyInfo.cs

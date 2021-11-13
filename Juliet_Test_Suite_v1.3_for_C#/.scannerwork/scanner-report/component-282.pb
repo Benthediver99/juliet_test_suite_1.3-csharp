@@ -1,1 +1,0 @@
-š 2csXÙhrmsrc/testcases/CWE113_HTTP_Response_Splitting/s01/CWE113_HTTP_Response_Splitting__Web_Database_addHeader_21.cs

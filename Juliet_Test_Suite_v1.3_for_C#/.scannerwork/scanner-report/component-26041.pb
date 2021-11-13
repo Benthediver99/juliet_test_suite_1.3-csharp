@@ -1,1 +1,0 @@
-¹Ë 2csXGhr]src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Connect_tcp_61b.cs

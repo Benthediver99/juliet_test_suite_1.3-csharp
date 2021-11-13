@@ -1,1 +1,0 @@
-ܿ 2csXChrosrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_52a.cs

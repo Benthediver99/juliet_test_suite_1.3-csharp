@@ -1,4 +1,0 @@
-﻿C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE397_Throw_Generic_Exception\CWE397_Throw_Generic_Exception__throw_Exception_01.cs
-C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE397_Throw_Generic_Exception\Program.cs
-C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE397_Throw_Generic_Exception\Properties\AssemblyInfo.cs
-C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE397_Throw_Generic_Exception\App.config

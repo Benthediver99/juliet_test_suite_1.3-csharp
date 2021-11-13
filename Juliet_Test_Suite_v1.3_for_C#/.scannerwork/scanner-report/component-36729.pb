@@ -1,1 +1,0 @@
-ùž 2csX*hrcsrc/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__two_equals_three_01.cs

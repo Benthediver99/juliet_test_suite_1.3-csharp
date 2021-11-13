@@ -1,1 +1,0 @@
-ú¯ 2csX%hrZsrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__Class_Helper.cs

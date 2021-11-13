@@ -1,1 +1,0 @@
-Âß 2csX9hrfsrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Get_Cookies_Web_ExecuteScalar_81_bad.cs

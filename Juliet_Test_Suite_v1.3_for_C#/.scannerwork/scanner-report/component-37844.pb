@@ -1,1 +1,0 @@
-ԧ 2csX6hrksrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Params_Get_Web_81_goodB2G.cs

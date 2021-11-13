@@ -1,1 +1,0 @@
-øÞ 2csXQhresrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Get_Cookies_Web_ExecuteNonQuery_68a.cs

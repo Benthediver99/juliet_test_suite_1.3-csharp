@@ -1,1 +1,0 @@
-°– 2csXhrcsrc/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int_array_81_base.cs

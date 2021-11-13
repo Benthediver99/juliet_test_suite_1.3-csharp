@@ -1,1 +1,0 @@
-æá 2csXŠhr_src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_NetClient_ExecuteNonQuery_61a.cs

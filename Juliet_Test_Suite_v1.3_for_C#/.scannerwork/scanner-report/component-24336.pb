@@ -1,1 +1,0 @@
-êæ 2csX(hrrsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_Environment_to_byte_54c.cs

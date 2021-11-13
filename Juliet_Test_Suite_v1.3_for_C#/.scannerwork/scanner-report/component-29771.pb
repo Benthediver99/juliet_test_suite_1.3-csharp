@@ -1,1 +1,0 @@
-ห่ 2csXFhrWsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__float_zero_divide_61a.cs

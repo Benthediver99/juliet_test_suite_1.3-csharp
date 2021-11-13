@@ -1,1 +1,0 @@
-ı¿ 2csX&hrtsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_81_goodG2B.cs

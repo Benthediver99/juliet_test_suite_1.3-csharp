@@ -1,1 +1,0 @@
-ҵ 2csXdhrksrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_22b.cs

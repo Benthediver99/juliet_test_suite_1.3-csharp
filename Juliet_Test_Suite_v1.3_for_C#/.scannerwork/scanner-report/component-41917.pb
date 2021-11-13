@@ -1,1 +1,0 @@
-½Ç 2csXJhrZsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Params_Get_Web_71b.cs

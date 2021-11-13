@@ -1,1 +1,0 @@
-ÌÐ 2csXshr9src/testcases/CWE80_XSS/s02/CWE80_XSS__Web_ReadLine_03.cs

@@ -1,1 +1,0 @@
-”• 2csX%hrAsrc/testcases/CWE470_Unsafe_Reflection/Properties/AssemblyInfo.cs

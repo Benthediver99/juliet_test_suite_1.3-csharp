@@ -1,1 +1,0 @@
-éË 2csX'hrJsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Params_Get_Web_81_bad.cs

@@ -1,1 +1,0 @@
-Âø 2csX6hrgsrc/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Params_Get_Web_81_goodG2B.cs

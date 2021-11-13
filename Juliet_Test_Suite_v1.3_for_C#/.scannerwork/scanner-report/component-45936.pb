@@ -1,1 +1,0 @@
-рж 2csXrhrJsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Connect_tcp_12.cs

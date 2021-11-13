@@ -1,1 +1,0 @@
-ëØ 2csX'hrWsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Params_Get_Web_81_goodG2B.cs

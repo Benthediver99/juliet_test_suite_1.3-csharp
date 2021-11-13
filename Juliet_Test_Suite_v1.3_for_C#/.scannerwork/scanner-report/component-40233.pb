@@ -1,1 +1,0 @@
-ฉบ 2csX%hrJsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/Properties/AssemblyInfo.cs

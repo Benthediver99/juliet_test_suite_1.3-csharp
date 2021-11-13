@@ -1,1 +1,0 @@
-Ôê 2csXNhrRsrc/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_16.cs

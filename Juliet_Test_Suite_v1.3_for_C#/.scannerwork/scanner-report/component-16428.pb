@@ -1,1 +1,0 @@
-¬€ 2csX)hresrc/testcases/CWE191_Integer_Underflow/s03/CWE191_Integer_Underflow__Short_min_multiply_81_goodG2B.cs

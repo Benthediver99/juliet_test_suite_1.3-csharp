@@ -1,1 +1,0 @@
-œ­ 2csX0hrssrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_listen_tcp_to_short_67b.cs

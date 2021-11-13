@@ -1,1 +1,0 @@
-γκ 2csX*hrOsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__QueryString_Web_53b.cs

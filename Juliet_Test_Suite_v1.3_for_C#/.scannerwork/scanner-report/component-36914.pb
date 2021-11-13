@@ -1,1 +1,0 @@
-²  2csX«hrGsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_File_06.cs

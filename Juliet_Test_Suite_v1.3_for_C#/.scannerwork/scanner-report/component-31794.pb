@@ -1,1 +1,0 @@
-²ø 2csXPhr`src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Params_Get_Web_67b.cs

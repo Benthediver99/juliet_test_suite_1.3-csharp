@@ -1,1 +1,0 @@
-™Ÿ 2csX%hrLsrc/testcases/CWE582_Array_Public_Readonly_Static/Properties/AssemblyInfo.cs

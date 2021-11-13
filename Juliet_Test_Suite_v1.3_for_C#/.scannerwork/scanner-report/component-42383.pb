@@ -1,1 +1,0 @@
-èÀ 2csX*hrBsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_NetClient_52b.cs

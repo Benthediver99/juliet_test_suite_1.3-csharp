@@ -1,1 +1,0 @@
-þè 2csXBhrOsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Get_Cookies_Web_66b.cs

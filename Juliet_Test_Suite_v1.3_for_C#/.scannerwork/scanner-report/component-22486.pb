@@ -1,1 +1,0 @@
-֯ 2csX$hrqsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_random_to_byte_81_bad.cs

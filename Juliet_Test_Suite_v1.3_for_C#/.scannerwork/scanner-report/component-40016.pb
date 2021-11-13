@@ -1,1 +1,0 @@
-и 2csX0hrosrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_66b.cs

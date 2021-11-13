@@ -1,1 +1,0 @@
-ø¶ 2csX‚hrcsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_06.cs

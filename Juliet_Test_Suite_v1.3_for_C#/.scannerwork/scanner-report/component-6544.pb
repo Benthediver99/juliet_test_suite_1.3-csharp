@@ -1,1 +1,0 @@
-ê3 2csX?hrÜsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_console_interpolation_74b.cs

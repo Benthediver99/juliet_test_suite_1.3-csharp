@@ -1,1 +1,0 @@
-«Þ 2csX5hrgsrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__send_81_goodG2B.cs

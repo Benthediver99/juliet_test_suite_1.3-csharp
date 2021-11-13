@@ -1,1 +1,0 @@
-Óù 2csX%hr[src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-Ñ² 2csX…hrLsrc/testcases/CWE775_Missing_Release_of_File_Descriptor_or_Handle/Program.cs

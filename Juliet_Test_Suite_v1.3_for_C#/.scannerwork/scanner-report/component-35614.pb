@@ -1,1 +1,0 @@
-ž– 2csXAhr_src/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__int_array_61a.cs

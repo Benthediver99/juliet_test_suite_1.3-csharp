@@ -1,1 +1,0 @@
-ýk 2csX1hr]src/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__Byte_min_multiply_52b.cs

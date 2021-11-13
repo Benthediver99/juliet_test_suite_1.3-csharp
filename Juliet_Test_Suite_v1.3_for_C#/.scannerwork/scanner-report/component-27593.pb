@@ -1,1 +1,0 @@
-ив 2csX5hrzsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__Connect_tcp_81_goodG2B.cs

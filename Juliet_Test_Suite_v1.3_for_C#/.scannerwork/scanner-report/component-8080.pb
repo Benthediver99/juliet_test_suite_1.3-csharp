@@ -1,1 +1,0 @@
-ê? 2csX¨hrYsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_rand_square_02.cs

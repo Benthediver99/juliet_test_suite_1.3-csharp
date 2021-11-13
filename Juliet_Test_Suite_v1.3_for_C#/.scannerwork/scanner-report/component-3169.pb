@@ -1,1 +1,0 @@
-á 2csX/hr‡src/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Environment_array_size_81_bad.cs

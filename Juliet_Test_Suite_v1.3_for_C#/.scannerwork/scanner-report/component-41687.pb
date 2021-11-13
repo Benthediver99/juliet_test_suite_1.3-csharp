@@ -1,1 +1,0 @@
-ве 2csX3hrSsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__File_81_bad.cs

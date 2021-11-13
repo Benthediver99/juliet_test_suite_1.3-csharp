@@ -1,1 +1,0 @@
-ÂÎ 2csX´hr_src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Params_Get_Web_13.cs

@@ -1,1 +1,0 @@
-ща 2csXdhrRsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Get_Cookies_Web_01.cs

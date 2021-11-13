@@ -1,1 +1,0 @@
-Â€ 2csXÙhr]src/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Database_ExecuteNonQuery_08.cs

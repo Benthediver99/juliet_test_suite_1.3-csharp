@@ -1,1 +1,0 @@
-¾« 2csX®hrRsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Get_Cookies_Web_01.cs

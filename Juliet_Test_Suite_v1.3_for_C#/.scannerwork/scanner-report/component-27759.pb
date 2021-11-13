@@ -1,1 +1,0 @@
-ïØ 2csXhhrlsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__File_67b.cs

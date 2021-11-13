@@ -1,1 +1,0 @@
-ча 2csXhrLsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_File_81_base.cs

@@ -1,1 +1,0 @@
-¼™ 2csX1hrssrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_listen_tcp_to_byte_74b.cs

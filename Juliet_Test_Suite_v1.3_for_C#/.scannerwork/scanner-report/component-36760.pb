@@ -1,1 +1,0 @@
-˜Ÿ 2csX…hr<src/testcases/CWE582_Array_Public_Readonly_Static/Program.cs

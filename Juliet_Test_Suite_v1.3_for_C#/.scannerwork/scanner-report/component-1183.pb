@@ -1,1 +1,0 @@
-Ÿ	 2csXhrxsrc/testcases/CWE113_HTTP_Response_Splitting/s02/CWE113_HTTP_Response_Splitting__Web_Params_Get_Web_addCookie_81_base.cs

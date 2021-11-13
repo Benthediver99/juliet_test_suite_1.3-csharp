@@ -1,1 +1,0 @@
-ÿ^ 2csX1hrhsrc/testcases/CWE190_Integer_Overflow/s05/CWE190_Integer_Overflow__UInt16_console_readLine_square_53b.cs

@@ -1,1 +1,0 @@
-°è 2csXJhrtsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Params_Get_Web_22a.cs

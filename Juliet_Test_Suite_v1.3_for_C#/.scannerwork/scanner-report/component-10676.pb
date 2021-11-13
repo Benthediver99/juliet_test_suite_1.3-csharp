@@ -1,1 +1,0 @@
-¥S 2csXèhrXsrc/testcases/CWE190_Integer_Overflow/s04/CWE190_Integer_Overflow__Long_max_square_21.cs

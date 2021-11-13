@@ -1,1 +1,0 @@
-¹F 2csXÀhrcsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Get_Cookies_Web_square_21.cs

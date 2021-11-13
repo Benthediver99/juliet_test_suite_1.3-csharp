@@ -1,1 +1,0 @@
-яж 2csXVhrzsrc/testcases/CWE313_Cleartext_Storage_in_a_File_or_on_Disk/CWE313_Cleartext_Storage_in_a_File_or_on_Disk__ReadLine_54e.cs

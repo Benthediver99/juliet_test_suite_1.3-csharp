@@ -1,1 +1,0 @@
-Ύ 2csX1hrxsrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_console_ReadLine_to_int_72b.cs

@@ -1,1 +1,0 @@
-ÈD 2csX¢hrZsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_File_multiply_31.cs

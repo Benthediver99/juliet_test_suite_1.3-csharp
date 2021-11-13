@@ -1,1 +1,0 @@
-é2 2csXöhr…src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_console_interpolation_15.cs

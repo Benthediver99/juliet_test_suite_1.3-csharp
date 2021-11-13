@@ -1,1 +1,0 @@
-ì€ 2csX»hr^src/testcases/CWE191_Integer_Underflow/s03/CWE191_Integer_Underflow__Short_rand_multiply_03.cs

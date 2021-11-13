@@ -1,1 +1,0 @@
-õ¨ 2csX4hrlsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_File_to_long_61a.cs

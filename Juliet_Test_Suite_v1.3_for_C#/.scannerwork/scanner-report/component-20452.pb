@@ -1,1 +1,0 @@
-‰ü 2csXAhrosrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_random_to_short_16.cs

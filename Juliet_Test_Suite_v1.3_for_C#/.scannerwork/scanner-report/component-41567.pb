@@ -1,1 +1,0 @@
-ßÄ 2csX3hrWsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Database_81_bad.cs

@@ -1,1 +1,0 @@
-§¬ 2csXˆhrNsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Listen_tcp_68a.cs

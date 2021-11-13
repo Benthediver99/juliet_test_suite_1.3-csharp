@@ -1,1 +1,0 @@
-ÿé 2csX1hr\src/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Connect_tcp_modulo_54c.cs

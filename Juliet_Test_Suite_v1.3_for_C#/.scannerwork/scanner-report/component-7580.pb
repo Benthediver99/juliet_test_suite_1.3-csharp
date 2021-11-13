@@ -1,1 +1,0 @@
-ú; 2csXÅhrísrc/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__ReadLine_75b.cs

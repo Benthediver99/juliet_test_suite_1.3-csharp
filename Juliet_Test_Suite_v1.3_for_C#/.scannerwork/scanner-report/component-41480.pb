@@ -1,1 +1,0 @@
-ˆÄ 2csX*hrWsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Connect_tcp_53b.cs

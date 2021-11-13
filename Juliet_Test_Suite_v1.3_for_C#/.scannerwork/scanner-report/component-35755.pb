@@ -1,1 +1,0 @@
-«— 2csXHhr\src/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__String_67a.cs

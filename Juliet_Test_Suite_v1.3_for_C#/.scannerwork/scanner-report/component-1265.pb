@@ -1,1 +1,0 @@
-ñ	 2csXVhrtsrc/testcases/CWE113_HTTP_Response_Splitting/s02/CWE113_HTTP_Response_Splitting__Web_Params_Get_Web_setHeader_22a.cs

@@ -1,1 +1,0 @@
-ˆÜ 2csXuhr_src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_22b.cs

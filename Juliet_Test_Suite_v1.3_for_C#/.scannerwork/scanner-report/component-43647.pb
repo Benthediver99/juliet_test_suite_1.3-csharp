@@ -1,1 +1,0 @@
-ÿÔ 2csXbhrRsrc/testcases/CWE81_XSS_Error_Message/CWE81_XSS_Error_Message__Web_ReadLine_22b.cs

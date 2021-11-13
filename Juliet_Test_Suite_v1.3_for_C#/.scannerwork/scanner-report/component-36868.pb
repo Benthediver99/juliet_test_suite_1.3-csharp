@@ -1,1 +1,0 @@
-Да 2csXphrLsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Database_22b.cs

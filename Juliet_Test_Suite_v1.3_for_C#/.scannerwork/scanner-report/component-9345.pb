@@ -1,1 +1,0 @@
-ÅI 2csXChrZsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_max_multiply_66a.cs

@@ -1,1 +1,0 @@
-ö‹ 2csX?hresrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Database_ExecuteNonQuery_81_goodG2B.cs

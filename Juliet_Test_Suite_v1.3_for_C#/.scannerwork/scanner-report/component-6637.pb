@@ -1,1 +1,0 @@
-Ì3 2csXáhråsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Listen_tcp_console_interpolation_51a.cs

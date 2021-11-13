@@ -1,1 +1,0 @@
-ì± 2csXhrksrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__getParameter_Web_trim_81_base.cs

@@ -1,1 +1,0 @@
-ß% 2csX0hr‰src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__NetClient_array_size_81_goodG2B.cs

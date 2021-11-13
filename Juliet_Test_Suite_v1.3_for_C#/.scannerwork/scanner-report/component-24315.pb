@@ -1,1 +1,0 @@
-û½ 2csXshrqsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_Environment_to_byte_15.cs

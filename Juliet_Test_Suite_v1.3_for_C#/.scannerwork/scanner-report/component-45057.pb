@@ -1,1 +1,0 @@
-Å‡ 2csXChrcsrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Listen_tcp_CommandText_81_goodB2G.cs

@@ -1,1 +1,0 @@
-¯J 2csX1hr`src/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_NetClient_multiply_53c.cs

@@ -1,1 +1,0 @@
-Žà 2csXFhrLsrc/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs

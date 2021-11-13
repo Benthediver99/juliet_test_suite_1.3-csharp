@@ -1,1 +1,0 @@
-É 2csX(hrqsrc/testcases/CWE113_HTTP_Response_Splitting/s02/CWE113_HTTP_Response_Splitting__Web_ReadLine_addHeader_81_bad.cs

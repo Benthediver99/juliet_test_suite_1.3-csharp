@@ -1,1 +1,0 @@
-¼® 2csXxhrpsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_NetClient_to_long_45.cs

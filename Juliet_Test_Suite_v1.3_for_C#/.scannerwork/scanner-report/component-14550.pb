@@ -1,1 +1,0 @@
-Öq 2csX_hrhsrc/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__int_Get_Cookies_Web_multiply_51a.cs

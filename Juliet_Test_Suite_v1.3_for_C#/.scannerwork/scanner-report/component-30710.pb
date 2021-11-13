@@ -1,1 +1,0 @@
-φο 2csX%hrBsrc/testcases/CWE369_Divide_by_Zero/s02/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-½Ñ 2csXOhrYsrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__SqlConnection_51b.cs

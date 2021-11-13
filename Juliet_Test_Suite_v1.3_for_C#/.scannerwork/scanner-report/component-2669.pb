@@ -1,1 +1,0 @@
-í 2csXRhr‹src/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Database_array_read_check_max_68b.cs

@@ -1,1 +1,0 @@
-Àt 2csX¹hrasrc/testcases/CWE191_Integer_Underflow/s02/CWE191_Integer_Underflow__int_NetClient_multiply_15.cs

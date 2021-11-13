@@ -1,1 +1,0 @@
-ê∆ 2csX^hr[src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Get_Cookies_Web_75a.cs

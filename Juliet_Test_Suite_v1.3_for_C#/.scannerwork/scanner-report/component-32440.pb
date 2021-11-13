@@ -1,1 +1,0 @@
-∏˝ 2csXêhrzsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Database_write_61a.cs

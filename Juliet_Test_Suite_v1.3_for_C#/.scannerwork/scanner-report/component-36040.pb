@@ -1,1 +1,0 @@
-ș 2csX%hrGsrc/testcases/CWE506_Embedded_Malicious_Code/Properties/AssemblyInfo.cs

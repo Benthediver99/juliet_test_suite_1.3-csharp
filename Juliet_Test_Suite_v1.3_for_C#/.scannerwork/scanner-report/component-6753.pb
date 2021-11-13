@@ -1,1 +1,0 @@
-á4 2csXŽhr‹src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__NetClient_console_interpolation_22a.cs

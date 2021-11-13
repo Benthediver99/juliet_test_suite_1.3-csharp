@@ -1,1 +1,0 @@
-ÃH 2csX8hrUsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_max_add_61b.cs

@@ -1,1 +1,0 @@
-ÅÊ 2csXÇhr^src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_ReadLine_ExecuteNonQuery_52c.cs

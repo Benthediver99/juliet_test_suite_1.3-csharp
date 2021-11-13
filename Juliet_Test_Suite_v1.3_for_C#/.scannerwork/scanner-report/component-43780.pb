@@ -1,1 +1,0 @@
-„Ö 2csXXhrIsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Database_01.cs

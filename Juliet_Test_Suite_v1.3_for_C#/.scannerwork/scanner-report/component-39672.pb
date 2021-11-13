@@ -1,1 +1,0 @@
-øµ 2csX&hrnsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s01/CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_81_bad.cs

@@ -1,1 +1,0 @@
-‹Ë 2csXchr†src/testcases/CWE226_Sensitive_Information_Uncleared_Before_Release/CWE226_Sensitive_Information_Uncleared_Before_Release__basic_17.cs

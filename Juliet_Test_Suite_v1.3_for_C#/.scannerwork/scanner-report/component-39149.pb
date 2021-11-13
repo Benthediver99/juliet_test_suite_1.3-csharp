@@ -1,1 +1,0 @@
-í± 2csX)hrnsrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__getParameter_Web_trim_81_goodB2G.cs

@@ -1,1 +1,0 @@
-“£ 2csXhrWsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_QueryString_Web_81_base.cs

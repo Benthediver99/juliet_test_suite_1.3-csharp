@@ -1,1 +1,0 @@
-Ѿ 2csXFhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_Environment_to_int_66a.cs

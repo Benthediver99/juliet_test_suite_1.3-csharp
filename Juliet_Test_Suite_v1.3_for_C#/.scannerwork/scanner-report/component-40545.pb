@@ -1,1 +1,0 @@
-·º 2csXèhrhsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_08.cs

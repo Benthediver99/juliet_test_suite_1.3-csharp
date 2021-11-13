@@ -1,1 +1,0 @@
-ñÎ 2csXBhrgsrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Params_Get_Web_81_goodG2B.cs

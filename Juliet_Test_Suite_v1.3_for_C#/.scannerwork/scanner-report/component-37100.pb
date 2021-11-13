@@ -1,1 +1,0 @@
-ì¡ 2csX‚hrLsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_NetClient_12.cs

@@ -1,1 +1,0 @@
-£Ÿ 2csXPhrhsrc/testcases/CWE598_Information_Exposure_QueryString/CWE598_Information_Exposure_QueryString__Web_06.cs

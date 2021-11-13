@@ -1,1 +1,0 @@
-­Å 2csXlhrOsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__File_16.cs

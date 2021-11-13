@@ -1,1 +1,0 @@
-ôô 2csXÂhr\src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Connect_tcp_21.cs

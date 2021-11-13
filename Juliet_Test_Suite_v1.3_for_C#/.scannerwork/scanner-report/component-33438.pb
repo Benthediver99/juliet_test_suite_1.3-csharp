@@ -1,1 +1,0 @@
-ûÖ 2csXóhrÅsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s02/CWE400_Uncontrolled_Resource_Consumption__QueryString_Web_write_75a.cs

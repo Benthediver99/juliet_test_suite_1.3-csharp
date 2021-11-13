@@ -1,1 +1,0 @@
-š¢ 2csXkhrxsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_console_ReadLine_to_byte_22b.cs

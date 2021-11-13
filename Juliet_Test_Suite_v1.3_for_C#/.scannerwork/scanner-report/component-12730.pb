@@ -1,1 +1,0 @@
-ºc 2csXahrhsrc/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt32_console_readLine_square_71a.cs

@@ -1,1 +1,0 @@
-´: 2csXƒhr˜src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__QueryString_Web_12.cs

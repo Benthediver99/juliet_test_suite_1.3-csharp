@@ -1,1 +1,0 @@
-µÄ 2csXåhrÅsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_74b.cs

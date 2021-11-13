@@ -1,1 +1,0 @@
-По 2csX7hrNsrc/testcases/CWE248_Uncaught_Exception/CWE248_Uncaught_Exception__basic_01.cs

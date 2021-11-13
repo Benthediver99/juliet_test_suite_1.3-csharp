@@ -1,1 +1,0 @@
-þ— 2csX0hrmsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_large_to_int_67b.cs

@@ -1,1 +1,0 @@
-ас 2csXhrRsrc/testcases/CWE81_XSS_Error_Message/CWE81_XSS_Error_Message__Web_NetClient_10.cs

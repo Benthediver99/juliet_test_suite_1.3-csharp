@@ -1,1 +1,0 @@
-ŽÞ 2csX:hr_src/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_File_ExecuteScalar_81_goodG2B.cs

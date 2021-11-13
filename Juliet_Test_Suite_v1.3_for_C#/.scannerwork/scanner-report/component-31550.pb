@@ -1,1 +1,0 @@
-¾ö 2csXChrVsrc/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__File_61b.cs

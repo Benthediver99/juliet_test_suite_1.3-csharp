@@ -1,1 +1,0 @@
-ÏÆ 2csX3hrYsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Listen_tcp_81_bad.cs

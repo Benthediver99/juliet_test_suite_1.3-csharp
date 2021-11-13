@@ -1,1 +1,0 @@
-ÿÊ 2csXdhrAsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_NetClient_12.cs

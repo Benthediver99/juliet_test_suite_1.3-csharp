@@ -1,1 +1,0 @@
-å< 2csX¹hrUsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_max_add_08.cs

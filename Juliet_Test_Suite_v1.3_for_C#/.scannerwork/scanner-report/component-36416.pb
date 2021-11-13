@@ -1,1 +1,0 @@
-Àœ 2csXShrysrc/testcases/CWE563_Assign_to_Variable_Without_Use/CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_06.cs

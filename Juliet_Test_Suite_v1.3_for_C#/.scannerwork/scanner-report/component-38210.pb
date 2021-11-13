@@ -1,1 +1,0 @@
-ª 2csXDhrSsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Database_81_goodB2G.cs

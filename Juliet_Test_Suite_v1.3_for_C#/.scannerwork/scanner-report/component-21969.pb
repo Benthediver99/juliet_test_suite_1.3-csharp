@@ -1,1 +1,0 @@
-Ñ« 2csX’hrqsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_listen_tcp_to_byte_31.cs

@@ -1,1 +1,0 @@
-Þá 2csX‰hrbsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_console_readLine_divide_41.cs

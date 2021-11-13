@@ -1,1 +1,0 @@
-из 2csX]hrJsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_12.cs

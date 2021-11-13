@@ -1,1 +1,0 @@
-µæ 2csX³hr\src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_ReadLine_ExecuteScalar_22b.cs

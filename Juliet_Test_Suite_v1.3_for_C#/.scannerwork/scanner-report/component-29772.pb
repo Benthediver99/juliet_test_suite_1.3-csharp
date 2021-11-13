@@ -1,1 +1,0 @@
-Ми 2csX6hrWsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__float_zero_divide_61b.cs

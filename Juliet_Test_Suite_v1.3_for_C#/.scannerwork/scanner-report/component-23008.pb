@@ -1,1 +1,0 @@
-à³ 2csXBhrrsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_Environment_to_short_54a.cs

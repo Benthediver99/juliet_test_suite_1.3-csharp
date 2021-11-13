@@ -1,1 +1,0 @@
-½« 2csXFhrOsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__File_81_goodG2B.cs

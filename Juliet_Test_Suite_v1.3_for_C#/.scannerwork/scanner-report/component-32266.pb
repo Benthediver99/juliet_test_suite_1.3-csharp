@@ -1,1 +1,0 @@
-Šü 2csXGhr€src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_71b.cs

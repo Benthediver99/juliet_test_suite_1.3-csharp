@@ -1,1 +1,0 @@
-³œ 2csXhrHsrc/testcases/CWE561_Dead_Code/CWE561_Dead_Code__unused_method_01_bad.cs

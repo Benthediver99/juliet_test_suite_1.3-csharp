@@ -1,1 +1,0 @@
-¼° 2csXªhr]src/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__Class_string_05.cs

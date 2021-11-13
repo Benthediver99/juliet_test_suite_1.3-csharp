@@ -1,1 +1,0 @@
-´C 2csXwhrbsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Environment_multiply_75b.cs

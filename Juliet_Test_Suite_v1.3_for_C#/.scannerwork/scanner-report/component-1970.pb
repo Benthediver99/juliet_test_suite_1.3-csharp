@@ -1,1 +1,0 @@
-≤ 2csXÅhrÇsrc/testcases/CWE117_Improper_Output_Neutralization_for_Logs/CWE117_Improper_Output_Neutralization_for_Logs__Get_Cookies_Web_45.cs

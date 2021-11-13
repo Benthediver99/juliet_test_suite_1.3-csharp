@@ -1,1 +1,0 @@
-ﬁ4 2csXähräsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__NetClient_console_interpolation_16.cs

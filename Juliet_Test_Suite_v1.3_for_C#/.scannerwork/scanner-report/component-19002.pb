@@ -1,1 +1,0 @@
-º” 2csXvhrlsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_File_to_byte_12.cs

@@ -1,1 +1,0 @@
-Ã2 2csX;hr~src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Environment_Format_54e.cs

@@ -1,1 +1,0 @@
-Ÿ5 2csXihr|src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__NetClient_Format_22b.cs

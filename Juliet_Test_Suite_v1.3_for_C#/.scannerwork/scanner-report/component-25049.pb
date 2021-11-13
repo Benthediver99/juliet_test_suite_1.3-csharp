@@ -1,1 +1,0 @@
-Ÿ√ 2csXrhrosrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__long_NetClient_to_byte_42.cs

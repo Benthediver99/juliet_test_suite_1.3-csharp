@@ -1,1 +1,0 @@
-ä¾ 2csX$hrxsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_Environment_to_int_81_goodG2B.cs

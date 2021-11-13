@@ -1,1 +1,0 @@
-À¦ 2csX‡hr`src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Listen_tcp_54a.cs

@@ -1,1 +1,0 @@
-‚É 2csXhrHsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Connect_tcp_81_base.cs

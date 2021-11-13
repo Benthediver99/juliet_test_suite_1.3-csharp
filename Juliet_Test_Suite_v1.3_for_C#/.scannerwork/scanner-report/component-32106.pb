@@ -1,1 +1,0 @@
-къ 2csX`hrGsrc/testcases/CWE398_Code_Quality/CWE398_Code_Quality__empty_case_14.cs

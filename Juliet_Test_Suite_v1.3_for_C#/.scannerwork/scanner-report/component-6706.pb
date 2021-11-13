@@ -1,1 +1,0 @@
-²4 2csX;hr}src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Listen_tcp_Format_53d.cs

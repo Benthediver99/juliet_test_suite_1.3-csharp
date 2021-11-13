@@ -1,1 +1,0 @@
-шл 2csX5hrAsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_ReadLine_73b.cs

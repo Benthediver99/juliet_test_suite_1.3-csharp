@@ -1,1 +1,0 @@
-¹˜ 2csX_hrfsrc/testcases/CWE482_Comparing_Instead_of_Assigning/CWE482_Comparing_Instead_of_Assigning__basic_15.cs

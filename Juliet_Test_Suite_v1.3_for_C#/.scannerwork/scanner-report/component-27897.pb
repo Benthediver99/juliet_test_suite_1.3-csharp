@@ -1,1 +1,0 @@
-ùÙ 2csX>hrysrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/CWE314_Cleartext_Storage_in_the_Registry__Listen_tcp_81_goodB2G.cs

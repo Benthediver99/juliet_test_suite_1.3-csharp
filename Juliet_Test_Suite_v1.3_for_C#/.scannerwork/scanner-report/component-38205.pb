@@ -1,1 +1,0 @@
-½ª 2csX¼hrLsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Database_75a.cs

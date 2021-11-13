@@ -1,1 +1,0 @@
-ü‹ 2csX hrpsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Connect_tcp_21.cs

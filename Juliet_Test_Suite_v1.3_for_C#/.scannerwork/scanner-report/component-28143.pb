@@ -1,1 +1,0 @@
-Ô€ 2csXáhrAsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/Program.cs

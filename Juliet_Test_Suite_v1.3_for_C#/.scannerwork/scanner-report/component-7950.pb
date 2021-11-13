@@ -1,1 +1,0 @@
-Ž> 2csXmhrYsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_max_square_75a.cs

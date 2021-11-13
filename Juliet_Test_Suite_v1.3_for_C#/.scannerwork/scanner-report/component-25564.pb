@@ -1,1 +1,0 @@
-ÜÇ 2csX1hrhsrc/testcases/CWE197_Numeric_Truncation_Error/s09/CWE197_Numeric_Truncation_Error__short_database_73b.cs

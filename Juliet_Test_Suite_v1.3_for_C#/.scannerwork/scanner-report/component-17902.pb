@@ -1,1 +1,0 @@
-î‹ 2csX$hrxsrc/testcases/CWE197_Numeric_Truncation_Error/s01/CWE197_Numeric_Truncation_Error__double_connect_tcp_to_float_81_bad.cs

@@ -1,1 +1,0 @@
-…® 2csXÇhrKsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__ReadLine_42.cs

@@ -1,1 +1,0 @@
-ÅE 2csXëhrXsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_File_square_17.cs

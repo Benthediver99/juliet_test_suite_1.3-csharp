@@ -1,1 +1,0 @@
-οη 2csXfhrKsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Environment_22a.cs

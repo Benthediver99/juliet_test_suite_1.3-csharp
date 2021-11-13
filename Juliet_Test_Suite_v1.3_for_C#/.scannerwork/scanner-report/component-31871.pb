@@ -1,1 +1,0 @@
-ÿø 2csXehrYsrc/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__ReadLine_01.cs

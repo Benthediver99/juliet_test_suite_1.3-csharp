@@ -1,1 +1,0 @@
-ç€ 2csXuhr_src/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Connect_tcp_ExecuteScalar_66b.cs

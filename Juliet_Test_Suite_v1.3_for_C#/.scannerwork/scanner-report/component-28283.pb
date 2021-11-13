@@ -1,1 +1,0 @@
-ûÜ 2csX‰hrssrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__listen_tcp_SqlConnection_07.cs

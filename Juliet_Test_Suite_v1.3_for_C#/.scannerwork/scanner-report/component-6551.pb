@@ -1,1 +1,0 @@
-ó3 2csX&hrçsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_console_interpolation_81_goodG2B.cs

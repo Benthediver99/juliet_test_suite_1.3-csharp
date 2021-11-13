@@ -1,1 +1,0 @@
-ˆŸ 2csX*hrWsrc/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_01.cs

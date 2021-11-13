@@ -1,1 +1,0 @@
-ÎÚ 2csXehrasrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Connect_tcp_ExecuteNonQuery_61b.cs

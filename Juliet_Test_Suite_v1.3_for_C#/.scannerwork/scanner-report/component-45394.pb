@@ -1,1 +1,0 @@
-вт 2csXBhr`src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_Params_Get_Web_CommandText_51a.cs

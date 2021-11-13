@@ -1,1 +1,0 @@
-Øü 2csX¨hr|src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_04.cs

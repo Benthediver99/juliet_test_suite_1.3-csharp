@@ -1,1 +1,0 @@
-Å· 2csXáhrZsrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_NetClient_CommandText_05.cs

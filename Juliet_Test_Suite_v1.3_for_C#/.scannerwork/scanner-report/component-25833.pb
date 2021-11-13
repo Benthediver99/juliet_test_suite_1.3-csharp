@@ -1,1 +1,0 @@
-È… 2csXuhrhsrc/testcases/CWE197_Numeric_Truncation_Error/s09/CWE197_Numeric_Truncation_Error__short_NetClient_31.cs

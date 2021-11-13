@@ -1,1 +1,0 @@
-ã÷ 2csXèhrIsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Database_08.cs

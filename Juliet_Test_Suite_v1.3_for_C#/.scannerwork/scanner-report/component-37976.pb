@@ -1,1 +1,0 @@
-ب 2csX%hrFsrc/testcases/CWE609_Double_Checked_Locking/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-הה 2csXAhrWsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_File_divide_68b.cs

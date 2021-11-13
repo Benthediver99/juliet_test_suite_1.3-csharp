@@ -1,1 +1,0 @@
-ตร 2csX}hrrsrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__long_listen_tcp_to_short_71a.cs

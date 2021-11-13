@@ -1,1 +1,0 @@
-Œ  2csX%hrLsrc/testcases/CWE197_Numeric_Truncation_Error/s09/Properties/AssemblyInfo.cs

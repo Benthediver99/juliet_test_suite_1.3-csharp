@@ -1,1 +1,0 @@
-¿ß 2csX%hrAsrc/testcases/CWE327_Use_Broken_Crypto/Properties/AssemblyInfo.cs

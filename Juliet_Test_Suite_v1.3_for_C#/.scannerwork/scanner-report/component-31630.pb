@@ -1,1 +1,0 @@
-Ž÷ 2csX6hrhsrc/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Get_Cookies_Web_81_goodG2B.cs

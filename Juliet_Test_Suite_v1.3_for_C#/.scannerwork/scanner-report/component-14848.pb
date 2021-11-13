@@ -1,1 +1,0 @@
-Ät 2csXêhrVsrc/testcases/CWE191_Integer_Underflow/s02/CWE191_Integer_Underflow__int_min_sub_12.cs

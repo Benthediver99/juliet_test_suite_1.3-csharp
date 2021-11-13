@@ -1,1 +1,0 @@
-æ‹ 2csX%hrEsrc/testcases/CWE426_Untrusted_Search_Path/Properties/AssemblyInfo.cs

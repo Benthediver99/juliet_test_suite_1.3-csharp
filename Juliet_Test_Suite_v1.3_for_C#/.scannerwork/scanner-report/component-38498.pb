@@ -1,1 +1,0 @@
-â¬ 2csXshrMsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__NetClient_67a.cs

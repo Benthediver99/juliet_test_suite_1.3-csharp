@@ -1,1 +1,0 @@
-เต 2csX1hrlsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_large_to_short_72b.cs

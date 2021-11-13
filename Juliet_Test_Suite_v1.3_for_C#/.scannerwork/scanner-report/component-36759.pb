@@ -1,1 +1,0 @@
-—Ÿ 2csX%hrhsrc/testcases/CWE582_Array_Public_Readonly_Static/CWE582_Array_Public_Readonly_Static__basic_01_good1.cs

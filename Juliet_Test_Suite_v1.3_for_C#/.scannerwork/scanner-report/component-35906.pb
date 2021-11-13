@@ -1,1 +1,0 @@
- 2csX=hrxsrc/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs

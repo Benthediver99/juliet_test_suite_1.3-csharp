@@ -1,1 +1,0 @@
-Çø 2csXhr`src/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__QueryString_Web_05.cs

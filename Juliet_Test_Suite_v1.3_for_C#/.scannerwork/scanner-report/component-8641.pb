@@ -1,1 +1,0 @@
-ÁC 2csXæhr_src/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Environment_square_08.cs

@@ -1,1 +1,0 @@
-­‹ 2csX?hrzsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s03/CWE400_Uncontrolled_Resource_Consumption__sleep_ReadLine_61a.cs

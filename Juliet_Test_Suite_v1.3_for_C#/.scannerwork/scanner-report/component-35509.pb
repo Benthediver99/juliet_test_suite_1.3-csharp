@@ -1,1 +1,0 @@
-µ• 2csXUhrfsrc/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__deref_after_check_12.cs

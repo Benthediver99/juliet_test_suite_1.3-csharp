@@ -1,1 +1,0 @@
-Æl 2csX8hrXsrc/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__Byte_min_sub_61b.cs

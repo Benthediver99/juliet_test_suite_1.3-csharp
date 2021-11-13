@@ -1,1 +1,0 @@
-дя 2csXBhrWsrc/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_16.cs

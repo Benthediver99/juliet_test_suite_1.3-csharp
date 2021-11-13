@@ -1,1 +1,0 @@
-ûž 2csX%hrGsrc/testcases/CWE570_Expression_Always_False/Properties/AssemblyInfo.cs

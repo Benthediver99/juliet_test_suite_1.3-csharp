@@ -1,1 +1,0 @@
-‡× 2csXWhrPsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Get_Cookies_Web_12.cs

@@ -1,1 +1,0 @@
-±± 2csX(hrpsrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__getParameter_Web_equals_81_goodG2B.cs

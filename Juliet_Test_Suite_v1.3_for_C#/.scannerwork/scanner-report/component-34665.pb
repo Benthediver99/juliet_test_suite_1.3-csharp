@@ -1,1 +1,0 @@
-éŽ 2csXahrnsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__NetClient_42.cs

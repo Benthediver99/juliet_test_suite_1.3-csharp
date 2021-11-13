@@ -1,1 +1,0 @@
-ö© 2csXçhrlsrc/testcases/CWE197_Numeric_Truncation_Error/s05/CWE197_Numeric_Truncation_Error__float_File_to_short_10.cs

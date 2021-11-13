@@ -1,1 +1,0 @@
-¼I 2csXFhrXsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_max_square_61a.cs

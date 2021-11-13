@@ -1,1 +1,0 @@
-²Ð 2csXÓhrnsrc/testcases/CWE256_Unprotected_Storage_of_Credentials/CWE256_Unprotected_Storage_of_Credentials__basic_14.cs

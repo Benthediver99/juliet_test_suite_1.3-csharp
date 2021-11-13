@@ -1,1 +1,0 @@
-ùb 2csXlhrjsrc/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt32_console_readLine_multiply_67a.cs

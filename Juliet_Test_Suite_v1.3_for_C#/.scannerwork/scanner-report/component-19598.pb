@@ -1,1 +1,0 @@
-Ž™ 2csX¹hrrsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_listen_tcp_to_byte_08.cs

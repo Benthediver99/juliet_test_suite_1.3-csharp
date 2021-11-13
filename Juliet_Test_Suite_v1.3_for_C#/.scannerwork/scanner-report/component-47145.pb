@@ -1,1 +1,0 @@
-©ð 2xmlX¦ËhrBsrc/testcasesupport/packages/NLog.4.6.8/lib/monoandroid44/NLog.xml

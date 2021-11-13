@@ -1,1 +1,0 @@
-êž 2csX6hrgsrc/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__class_getClass_equal_01.cs

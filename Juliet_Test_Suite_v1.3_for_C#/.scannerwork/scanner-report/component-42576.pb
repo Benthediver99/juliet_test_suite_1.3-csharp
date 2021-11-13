@@ -1,1 +1,0 @@
-пл 2csXFhrAsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_ReadLine_66a.cs

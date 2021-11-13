@@ -1,1 +1,0 @@
-Ôç 2csXWhrtsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Get_Cookies_Web_31.cs

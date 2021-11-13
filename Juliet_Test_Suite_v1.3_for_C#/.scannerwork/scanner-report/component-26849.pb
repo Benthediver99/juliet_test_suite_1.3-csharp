@@ -1,1 +1,0 @@
-·— 2csX%hrCsrc/testcases/CWE259_Hard_Coded_Password/Properties/AssemblyInfo.cs

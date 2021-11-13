@@ -1,1 +1,0 @@
-ô™ 2csXChrGsrc/testcases/CWE510_Trapdoor/CWE510_Trapdoor__network_connection_06.cs

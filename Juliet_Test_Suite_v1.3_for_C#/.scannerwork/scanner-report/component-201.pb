@@ -1,1 +1,0 @@
-É 2csXhrusrc/testcases/CWE113_HTTP_Response_Splitting/s01/CWE113_HTTP_Response_Splitting__Web_Connect_tcp_setHeader_81_base.cs

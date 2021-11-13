@@ -1,1 +1,0 @@
-çê 2csXûhrXsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Database_modulo_21.cs

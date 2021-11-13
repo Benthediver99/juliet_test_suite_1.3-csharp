@@ -1,1 +1,0 @@
-²® 2csX;hrJsrc/testcases/CWE667_Improper_Locking/CWE667_Improper_Locking__basic_01.cs

@@ -1,1 +1,0 @@
-ïœ 2csXQhrƒsrc/testcases/CWE563_Assign_to_Variable_Without_Use/CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_11.cs

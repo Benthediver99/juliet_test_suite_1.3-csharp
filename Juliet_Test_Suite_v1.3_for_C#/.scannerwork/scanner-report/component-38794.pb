@@ -1,1 +1,0 @@
-Š¯ 2csXžhrqsrc/testcases/CWE675_Duplicate_Operations_on_Resource/CWE675_Duplicate_Operations_on_Resource__StreamReader_13.cs

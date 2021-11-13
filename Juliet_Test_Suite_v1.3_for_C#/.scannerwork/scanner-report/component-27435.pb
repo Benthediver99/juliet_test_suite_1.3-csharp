@@ -1,1 +1,0 @@
-ซึ 2csX5hrsrc/testcases/CWE313_Cleartext_Storage_in_a_File_or_on_Disk/CWE313_Cleartext_Storage_in_a_File_or_on_Disk__QueryString_Web_53b.cs

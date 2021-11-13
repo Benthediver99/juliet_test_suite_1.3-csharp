@@ -1,1 +1,0 @@
-ɹ 2csXShrosrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__int_ReadLine_to_short_74a.cs

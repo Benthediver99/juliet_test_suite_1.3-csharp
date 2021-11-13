@@ -1,1 +1,0 @@
-³x 2csXGhrasrc/testcases/CWE191_Integer_Underflow/s02/CWE191_Integer_Underflow__int_ReadLine_multiply_51b.cs

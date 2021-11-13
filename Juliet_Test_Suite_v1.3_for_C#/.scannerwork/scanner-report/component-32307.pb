@@ -1,1 +1,0 @@
-³ü 2csX3hr}src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_52b.cs

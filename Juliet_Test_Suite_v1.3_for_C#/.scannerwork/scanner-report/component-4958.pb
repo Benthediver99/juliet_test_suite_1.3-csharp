@@ -1,1 +1,0 @@
-ﬁ& 2csXÓhrêsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__Params_Get_Web_array_read_check_min_05.cs

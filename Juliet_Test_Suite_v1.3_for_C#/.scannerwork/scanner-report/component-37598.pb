@@ -1,1 +1,0 @@
-ޥ 2csX2hr]src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__File_81_bad.cs

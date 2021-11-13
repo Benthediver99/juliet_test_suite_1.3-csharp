@@ -1,1 +1,0 @@
-Ò— 2csXåhrtsrc/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.cs

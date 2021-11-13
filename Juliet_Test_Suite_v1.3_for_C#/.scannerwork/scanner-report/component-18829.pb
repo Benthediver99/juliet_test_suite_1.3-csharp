@@ -1,1 +1,0 @@
-çì 2csXMhrssrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_Environment_to_int_22a.cs

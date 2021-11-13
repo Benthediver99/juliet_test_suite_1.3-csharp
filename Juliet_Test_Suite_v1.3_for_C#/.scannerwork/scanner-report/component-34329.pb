@@ -1,1 +1,0 @@
-™Œ 2csXShrqsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Connect_tcp_71a.cs

@@ -1,1 +1,0 @@
-öÌ 2csXOhrVsrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__File_72a.cs

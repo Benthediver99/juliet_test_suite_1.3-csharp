@@ -1,1 +1,0 @@
-×à 2csXãhr]src/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Listen_tcp_ExecuteScalar_45.cs

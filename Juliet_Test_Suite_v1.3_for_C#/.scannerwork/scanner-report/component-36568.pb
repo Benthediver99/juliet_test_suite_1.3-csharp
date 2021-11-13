@@ -1,1 +1,0 @@
-Ø 2csXœhrqsrc/testcases/CWE563_Assign_to_Variable_Without_Use/CWE563_Assign_to_Variable_Without_Use__unused_value_int_10.cs

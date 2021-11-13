@@ -1,1 +1,0 @@
-Å% 2csX1hrãsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__NetClient_array_read_no_check_52b.cs

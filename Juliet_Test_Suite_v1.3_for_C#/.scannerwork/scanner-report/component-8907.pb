@@ -1,1 +1,0 @@
-ËE 2csX_hrasrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Get_Cookies_Web_add_53a.cs

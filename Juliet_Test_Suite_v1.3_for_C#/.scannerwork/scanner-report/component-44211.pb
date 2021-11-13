@@ -1,1 +1,0 @@
-³Ù 2csX[hrIsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_ReadLine_12.cs

@@ -1,1 +1,0 @@
-Úƒ 2csXFhrƒsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s02/CWE400_Uncontrolled_Resource_Consumption__Params_Get_Web_for_loop_66b.cs

@@ -1,1 +1,0 @@
-š 2csX%hr8src/testcases/CWE510_Trapdoor/Properties/AssemblyInfo.cs

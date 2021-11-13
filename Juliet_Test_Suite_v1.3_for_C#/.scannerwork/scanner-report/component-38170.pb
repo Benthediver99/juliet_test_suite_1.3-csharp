@@ -1,1 +1,0 @@
-šª 2csXÖhrLsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Database_22b.cs

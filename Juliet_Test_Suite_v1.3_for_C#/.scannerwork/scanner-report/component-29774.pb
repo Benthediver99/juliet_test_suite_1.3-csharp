@@ -1,1 +1,0 @@
-Îè 2csXAhrWsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__float_zero_divide_66b.cs

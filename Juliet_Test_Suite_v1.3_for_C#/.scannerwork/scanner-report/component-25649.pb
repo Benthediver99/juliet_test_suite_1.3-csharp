@@ -1,1 +1,0 @@
-±È 2csXlhrcsrc/testcases/CWE197_Numeric_Truncation_Error/s09/CWE197_Numeric_Truncation_Error__short_File_17.cs

@@ -1,1 +1,0 @@
-ý® 2csX%hrusrc/testcases/CWE675_Duplicate_Operations_on_Resource/CWE675_Duplicate_Operations_on_Resource__OpenText_81_goodG2B.cs

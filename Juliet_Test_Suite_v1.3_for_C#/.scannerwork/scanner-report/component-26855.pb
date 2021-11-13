@@ -1,1 +1,0 @@
-Á— 2csX{hrtsrc/testcases/CWE261_Weak_Cryptography_for_Passwords/CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.cs

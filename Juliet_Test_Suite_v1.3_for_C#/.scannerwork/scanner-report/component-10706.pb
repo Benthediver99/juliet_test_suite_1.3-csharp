@@ -1,1 +1,0 @@
-ÒS 2csXBhrYsrc/testcases/CWE190_Integer_Overflow/s04/CWE190_Integer_Overflow__Long_max_square_71b.cs

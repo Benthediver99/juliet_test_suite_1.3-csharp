@@ -1,1 +1,0 @@
-μφ 2csXMhrasrc/testcases/CWE36_Absolute_Path_Traversal/CWE36_Absolute_Path_Traversal__Get_Cookies_Web_51b.cs

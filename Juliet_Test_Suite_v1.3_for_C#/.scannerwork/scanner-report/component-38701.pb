@@ -1,1 +1,0 @@
-но 2csX%hr?src/testcases/CWE643_Xpath_Injection/Properties/AssemblyInfo.cs

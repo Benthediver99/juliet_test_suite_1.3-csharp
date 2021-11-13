@@ -1,1 +1,0 @@
-Ко 2csX%hrFsrc/testcases/CWE23_Relative_Path_Traversal/Properties/AssemblyInfo.cs

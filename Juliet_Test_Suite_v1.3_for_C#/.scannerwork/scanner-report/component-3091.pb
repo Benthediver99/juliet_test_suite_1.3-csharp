@@ -1,1 +1,0 @@
-ì 2csXahrçsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Environment_array_read_no_check_66a.cs

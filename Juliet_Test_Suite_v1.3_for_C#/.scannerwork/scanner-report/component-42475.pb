@@ -1,1 +1,0 @@
-ëË 2csX'hrNsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Params_Get_Web_81_goodG2B.cs

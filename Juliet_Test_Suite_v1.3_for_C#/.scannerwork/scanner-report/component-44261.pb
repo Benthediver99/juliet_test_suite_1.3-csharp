@@ -1,1 +1,0 @@
-åÙ 2csX%hr<src/testcases/CWE83_XSS_Attribute/Properties/AssemblyInfo.cs

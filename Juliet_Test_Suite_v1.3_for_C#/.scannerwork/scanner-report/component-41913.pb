@@ -1,1 +1,0 @@
-นว 2csXIhrZsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Params_Get_Web_67b.cs

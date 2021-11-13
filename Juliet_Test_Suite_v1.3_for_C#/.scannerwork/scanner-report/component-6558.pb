@@ -1,1 +1,0 @@
-ž3 2csXÝhrvsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__File_Format_07.cs

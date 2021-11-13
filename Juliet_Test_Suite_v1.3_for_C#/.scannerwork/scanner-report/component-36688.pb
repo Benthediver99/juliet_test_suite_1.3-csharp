@@ -1,1 +1,0 @@
-О 2csX9hrysrc/testcases/CWE566_Authorization_Bypass_Through_SQL_Primary/CWE566_Authorization_Bypass_Through_SQL_Primary__Web_66a.cs

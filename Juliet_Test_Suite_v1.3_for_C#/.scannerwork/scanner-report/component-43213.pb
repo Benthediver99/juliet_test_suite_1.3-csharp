@@ -1,1 +1,0 @@
-ÍÑ 2csXŠhrQsrc/testcases/CWE81_XSS_Error_Message/CWE81_XSS_Error_Message__Web_Database_06.cs

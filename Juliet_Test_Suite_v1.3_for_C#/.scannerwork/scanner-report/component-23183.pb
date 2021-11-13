@@ -1,1 +1,0 @@
-èµ 2csX.hrksrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_large_to_byte_52c.cs

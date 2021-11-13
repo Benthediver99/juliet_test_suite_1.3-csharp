@@ -1,1 +1,0 @@
-ע 2csXhrVsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Params_Get_Web_81_base.cs

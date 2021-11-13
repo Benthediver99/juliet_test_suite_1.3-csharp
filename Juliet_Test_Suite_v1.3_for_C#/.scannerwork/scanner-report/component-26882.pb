@@ -1,1 +1,0 @@
-‚Ò 2csXXhrWsrc/testcases/CWE284_Improper_Access_Control/CWE284_Improper_Access_Control__File_06.cs

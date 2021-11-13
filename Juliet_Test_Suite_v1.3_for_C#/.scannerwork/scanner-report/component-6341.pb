@@ -1,1 +1,0 @@
-Å1 2csXqhr{src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Database_Format_54a.cs

@@ -1,1 +1,0 @@
-¤› 2csX•hr9src/testcases/CWE535_Info_Exposure_Shell_Error/Program.cs

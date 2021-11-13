@@ -1,1 +1,0 @@
-آ 2csX6hrYsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Params_Get_Web_81_goodG2B.cs

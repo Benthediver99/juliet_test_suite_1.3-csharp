@@ -1,1 +1,0 @@
-ñã 2csX¹hr`src/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_QueryString_Web_CommandText_01.cs

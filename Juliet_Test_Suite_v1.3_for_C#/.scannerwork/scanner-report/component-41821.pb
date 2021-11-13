@@ -1,1 +1,0 @@
-ÝÆ 2csXyhrTsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__NetClient_12.cs

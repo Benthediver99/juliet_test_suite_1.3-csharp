@@ -1,1 +1,0 @@
-ÏX 2csXHhr]src/testcases/CWE190_Integer_Overflow/s04/CWE190_Integer_Overflow__SByte_rand_multiply_67a.cs

@@ -1,1 +1,0 @@
-ÚQ 2csXKhrhsrc/testcases/CWE190_Integer_Overflow/s03/CWE190_Integer_Overflow__Long_console_readLine_multiply_72b.cs

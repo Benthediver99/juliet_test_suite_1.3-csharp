@@ -1,1 +1,0 @@
-ö‹ 2csXAhr_src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_54e.cs

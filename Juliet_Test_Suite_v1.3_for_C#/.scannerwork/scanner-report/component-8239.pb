@@ -1,1 +1,0 @@
-¯@ 2csXOhrbsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__int_Connect_tcp_multiply_61a.cs

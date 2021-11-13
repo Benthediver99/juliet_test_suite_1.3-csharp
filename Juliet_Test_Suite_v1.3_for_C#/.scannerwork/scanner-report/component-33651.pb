@@ -1,1 +1,0 @@
-ó† 2csXÜhrysrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s02/CWE400_Uncontrolled_Resource_Consumption__ReadLine_write_45.cs

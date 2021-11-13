@@ -1,1 +1,0 @@
-ขั 2csXhrasrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__NetworkCredential_81_base.cs

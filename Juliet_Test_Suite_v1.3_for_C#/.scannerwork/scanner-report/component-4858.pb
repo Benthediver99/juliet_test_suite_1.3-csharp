@@ -1,1 +1,0 @@
-ú% 2csX~hrŒsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__NetClient_array_write_no_check_52a.cs

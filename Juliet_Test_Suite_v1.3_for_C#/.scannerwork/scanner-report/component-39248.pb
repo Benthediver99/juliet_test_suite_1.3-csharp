@@ -1,1 +1,0 @@
-Ð² 2csXIhr‰src/testcases/CWE775_Missing_Release_of_File_Descriptor_or_Handle/CWE775_Missing_Release_of_File_Descriptor_or_Handle__StreamReader_01.cs

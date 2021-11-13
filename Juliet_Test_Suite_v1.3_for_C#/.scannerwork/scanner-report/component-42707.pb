@@ -1,1 +1,0 @@
-см 2csX5hr:src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_Database_73b.cs

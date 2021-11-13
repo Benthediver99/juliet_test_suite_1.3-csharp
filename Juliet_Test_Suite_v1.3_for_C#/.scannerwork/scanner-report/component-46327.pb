@@ -1,1 +1,0 @@
-χι 2csXThrIsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__NetClient_67a.cs

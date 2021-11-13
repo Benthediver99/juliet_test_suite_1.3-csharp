@@ -1,1 +1,0 @@
-“È 2csX‘hrSsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__ReadLine_14.cs

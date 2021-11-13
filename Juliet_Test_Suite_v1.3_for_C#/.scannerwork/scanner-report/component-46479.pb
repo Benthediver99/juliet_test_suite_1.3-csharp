@@ -1,1 +1,0 @@
-èÎ 2csXährGsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__ReadLine_15.cs

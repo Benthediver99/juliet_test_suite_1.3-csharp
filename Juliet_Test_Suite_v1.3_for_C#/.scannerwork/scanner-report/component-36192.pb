@@ -1,1 +1,0 @@
-àš 2csX%hrJsrc/testcases/CWE523_Unprotected_Cred_Transport/Properties/AssemblyInfo.cs

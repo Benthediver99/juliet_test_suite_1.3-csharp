@@ -1,1 +1,0 @@
-аш 2csX%hrBsrc/testcases/CWE369_Divide_by_Zero/s01/Properties/AssemblyInfo.cs

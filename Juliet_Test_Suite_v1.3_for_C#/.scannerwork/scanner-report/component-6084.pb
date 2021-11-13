@@ -1,1 +1,0 @@
-Ä/ 2csXkhr‹src/testcases/CWE129_Improper_Validation_of_Array_Index/s04/CWE129_Improper_Validation_of_Array_Index__ReadLine_array_write_no_check_52a.cs

@@ -1,1 +1,0 @@
-‘Ÿ 2csX%hrFsrc/testcases/CWE571_Expression_Always_True/Properties/AssemblyInfo.cs

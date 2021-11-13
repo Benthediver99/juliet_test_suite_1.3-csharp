@@ -1,1 +1,0 @@
-4 2csX2hrqsrc/testcases/CWE113_HTTP_Response_Splitting/s01/CWE113_HTTP_Response_Splitting__Web_Connect_tcp_addCookie_53c.cs

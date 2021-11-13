@@ -1,1 +1,0 @@
-¢ 2csX$hrsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_console_ReadLine_to_byte_81_goodG2B.cs

@@ -1,1 +1,0 @@
-³þ 2csXXhr}src/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Environment_write_61b.cs

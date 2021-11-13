@@ -1,1 +1,0 @@
-дк 2csXshrLsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__Database_53a.cs

@@ -1,1 +1,0 @@
-Ê? 2csX-hrasrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_rand_square_81_goodB2G.cs

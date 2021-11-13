@@ -1,1 +1,0 @@
-›k 2csXKhrjsrc/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__Byte_console_ReadLine_multiply_73b.cs

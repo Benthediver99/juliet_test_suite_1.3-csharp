@@ -1,1 +1,0 @@
-หอ 2csX4hr:src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_Database_67b.cs

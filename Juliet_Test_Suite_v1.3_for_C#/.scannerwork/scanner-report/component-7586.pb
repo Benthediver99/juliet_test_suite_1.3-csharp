@@ -1,1 +1,0 @@
-¢; 2csX%hrbsrc/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/Properties/AssemblyInfo.cs

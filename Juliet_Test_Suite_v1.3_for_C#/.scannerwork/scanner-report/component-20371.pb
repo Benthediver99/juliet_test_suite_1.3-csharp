@@ -1,1 +1,0 @@
-“Ÿ 2csXShrnsrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__double_random_to_int_75a.cs

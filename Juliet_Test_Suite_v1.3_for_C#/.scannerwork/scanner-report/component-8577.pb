@@ -1,1 +1,0 @@
-ÅC 2csXÓhrasrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Environment_multiply_05.cs

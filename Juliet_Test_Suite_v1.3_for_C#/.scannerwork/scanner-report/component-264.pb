@@ -1,1 +1,0 @@
-ˆ 2csX*hrusrc/testcases/CWE113_HTTP_Response_Splitting/s01/CWE113_HTTP_Response_Splitting__Web_Database_addCookie_81_goodG2B.cs

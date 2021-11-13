@@ -1,1 +1,0 @@
-Ü 2csXhr‹src/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__File_array_read_check_max_81_base.cs

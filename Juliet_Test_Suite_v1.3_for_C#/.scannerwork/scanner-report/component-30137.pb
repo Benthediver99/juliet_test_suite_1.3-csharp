@@ -1,1 +1,0 @@
-¹ë 2csXEhr\src/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Environment_divide_61a.cs

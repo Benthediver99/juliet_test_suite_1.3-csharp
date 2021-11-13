@@ -1,1 +1,0 @@
-ó2 2csXphrçsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Environment_console_interpolation_75a.cs

@@ -1,1 +1,0 @@
-Кр 2csX%hr>src/testcasesupport/TestCaseSupport/Properties/AssemblyInfo.cs

@@ -1,1 +1,0 @@
-ãÐ 2csX%hrRsrc/testcases/CWE256_Unprotected_Storage_of_Credentials/Properties/AssemblyInfo.cs

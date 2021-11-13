@@ -1,1 +1,0 @@
-Ä6 2csX%hrSsrc/testcases/CWE134_Externally_Controlled_Format_String/Properties/AssemblyInfo.cs

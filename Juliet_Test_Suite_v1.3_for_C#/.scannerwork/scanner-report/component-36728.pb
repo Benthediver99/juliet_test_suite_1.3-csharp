@@ -1,1 +1,0 @@
-øž 2csX/hr`src/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__string_equals_01.cs

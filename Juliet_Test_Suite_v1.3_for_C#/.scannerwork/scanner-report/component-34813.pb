@@ -1,1 +1,0 @@
-ı 2csXMhrusrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__QueryString_Web_73a.cs

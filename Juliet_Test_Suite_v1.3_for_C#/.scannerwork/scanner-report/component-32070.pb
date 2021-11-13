@@ -1,1 +1,0 @@
-Æú 2csX…hr7src/testcases/CWE397_Throw_Generic_Exception/Program.cs

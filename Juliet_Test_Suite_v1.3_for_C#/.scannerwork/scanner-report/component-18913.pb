@@ -1,1 +1,0 @@
-á“ 2csXKhrtsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_Environment_to_long_67a.cs

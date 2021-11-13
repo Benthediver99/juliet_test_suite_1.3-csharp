@@ -1,1 +1,0 @@
-™  2csXThrLsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Database_66a.cs

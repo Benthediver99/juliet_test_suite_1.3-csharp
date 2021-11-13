@@ -1,1 +1,0 @@
-’Í 2csXKhr=src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_Connect_tcp_71a.cs

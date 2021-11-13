@@ -1,1 +1,0 @@
-٥ 2csXrhrqsrc/testcases/CWE197_Numeric_Truncation_Error/s04/CWE197_Numeric_Truncation_Error__float_database_to_short_71a.cs

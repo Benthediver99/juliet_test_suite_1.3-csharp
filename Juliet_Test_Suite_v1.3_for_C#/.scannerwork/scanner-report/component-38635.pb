@@ -1,1 +1,0 @@
-ын 2csXEhrVsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__QueryString_Web_81_bad.cs

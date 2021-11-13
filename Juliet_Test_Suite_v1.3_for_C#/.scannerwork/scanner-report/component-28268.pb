@@ -1,1 +1,0 @@
-ьм 2csXthrusrc/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__connect_tcp_SqlConnection_74a.cs

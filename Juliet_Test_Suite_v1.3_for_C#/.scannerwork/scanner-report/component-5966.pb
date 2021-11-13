@@ -1,1 +1,0 @@
-Œ. 2csX1hräsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s04/CWE129_Improper_Validation_of_Array_Index__ReadLine_array_read_no_check_53b.cs

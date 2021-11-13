@@ -1,1 +1,0 @@
-ú  2csXÂhr‹src/testcases/CWE129_Improper_Validation_of_Array_Index/s02/CWE129_Improper_Validation_of_Array_Index__Listen_tcp_array_read_no_check_03.cs

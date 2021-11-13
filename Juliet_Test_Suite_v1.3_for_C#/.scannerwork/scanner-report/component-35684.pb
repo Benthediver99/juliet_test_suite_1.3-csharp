@@ -1,1 +1,0 @@
-ä– 2csX;hrcsrc/testcases/CWE476_NULL_Pointer_Dereference/CWE476_NULL_Pointer_Dereference__StringBuilder_53d.cs

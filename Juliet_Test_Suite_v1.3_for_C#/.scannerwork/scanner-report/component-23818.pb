@@ -1,1 +1,0 @@
-Šº 2csX$hrusrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_connect_tcp_to_byte_81_bad.cs

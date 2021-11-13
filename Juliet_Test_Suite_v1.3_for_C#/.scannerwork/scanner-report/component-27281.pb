@@ -1,1 +1,0 @@
-‘Õ 2csX9hrƒsrc/testcases/CWE313_Cleartext_Storage_in_a_File_or_on_Disk/CWE313_Cleartext_Storage_in_a_File_or_on_Disk__Listen_tcp_81_goodB2G.cs

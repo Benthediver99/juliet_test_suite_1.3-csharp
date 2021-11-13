@@ -1,1 +1,0 @@
-ˆ« 2csXíhrGsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__File_08.cs

@@ -1,1 +1,0 @@
-ми 2csXfhrNsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Get_Cookies_Web_45.cs

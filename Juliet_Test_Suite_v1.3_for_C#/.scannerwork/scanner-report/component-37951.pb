@@ -1,1 +1,0 @@
-¿¨ 2csXThr^src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__ReadLine_68a.cs

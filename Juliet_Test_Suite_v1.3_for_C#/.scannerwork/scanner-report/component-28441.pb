@@ -1,1 +1,0 @@
-™Þ 2csX\hr`src/testcases/CWE319_Cleartext_Tx_Sensitive_Info/CWE319_Cleartext_Tx_Sensitive_Info__send_67a.cs

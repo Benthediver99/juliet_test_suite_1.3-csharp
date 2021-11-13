@@ -1,1 +1,0 @@
-яж 2csX5hrFsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_File_71b.cs

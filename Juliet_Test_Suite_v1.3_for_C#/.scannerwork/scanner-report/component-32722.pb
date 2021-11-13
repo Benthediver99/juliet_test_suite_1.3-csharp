@@ -1,1 +1,0 @@
-Òÿ 2csXŠhrƒsrc/testcases/CWE400_Uncontrolled_Resource_Consumption/s01/CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_16.cs

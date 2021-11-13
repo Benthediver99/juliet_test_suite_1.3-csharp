@@ -1,1 +1,0 @@
-ÿ< 2csX=hrVsrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__Byte_max_add_54a.cs

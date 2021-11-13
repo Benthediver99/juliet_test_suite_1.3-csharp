@@ -1,1 +1,0 @@
-†Ý 2csXchrVsrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_File_CommandText_71a.cs

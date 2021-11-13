@@ -1,1 +1,0 @@
-ٖ 2csXhrrsrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_File_to_short_81_base.cs

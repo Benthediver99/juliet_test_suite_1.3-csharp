@@ -1,1 +1,0 @@
-ıK 2csXbhresrc/testcases/CWE190_Integer_Overflow/s03/CWE190_Integer_Overflow__int_Params_Get_Web_multiply_72a.cs

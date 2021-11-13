@@ -1,1 +1,0 @@
-ï6 2csXfhr•src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Connect_tcp_61a.cs

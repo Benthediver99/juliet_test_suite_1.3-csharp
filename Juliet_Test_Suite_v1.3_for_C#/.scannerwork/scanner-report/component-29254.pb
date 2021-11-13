@@ -1,1 +1,0 @@
-Æä 2csXžhrVsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_File_divide_16.cs

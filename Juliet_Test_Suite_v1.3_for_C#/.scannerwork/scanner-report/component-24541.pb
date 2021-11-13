@@ -1,1 +1,0 @@
-Ý¿ 2csXÔhr<src/testcases/CWE197_Numeric_Truncation_Error/s07/Program.cs

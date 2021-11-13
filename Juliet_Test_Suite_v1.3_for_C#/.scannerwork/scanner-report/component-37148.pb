@@ -1,1 +1,0 @@
-œ¢ 2csX6hrTsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_NetClient_81_goodG2B.cs

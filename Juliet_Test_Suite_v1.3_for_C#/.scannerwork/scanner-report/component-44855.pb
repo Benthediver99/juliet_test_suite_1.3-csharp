@@ -1,1 +1,0 @@
-·Þ 2csXXhrasrc/testcases/CWE89_SQL_Injection/s01/CWE89_SQL_Injection__Web_Get_Cookies_Web_CommandText_66a.cs

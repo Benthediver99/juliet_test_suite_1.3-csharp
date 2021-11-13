@@ -1,1 +1,0 @@
-ó‰ 2csX:hr{src/testcases/CWE400_Uncontrolled_Resource_Consumption/s02/CWE400_Uncontrolled_Resource_Consumption__sleep_max_value_66b.cs

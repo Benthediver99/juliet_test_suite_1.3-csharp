@@ -1,1 +1,0 @@
-ª² 2csX(hrnsrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_Database_to_byte_53c.cs

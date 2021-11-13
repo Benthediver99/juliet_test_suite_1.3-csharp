@@ -1,1 +1,0 @@
-ºË 2csXOhr]src/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Connect_tcp_66a.cs

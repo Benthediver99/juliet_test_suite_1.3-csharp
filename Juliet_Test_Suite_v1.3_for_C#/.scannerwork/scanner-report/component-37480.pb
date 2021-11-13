@@ -1,1 +1,0 @@
-è¤ 2csXqhr`src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Environment_01.cs

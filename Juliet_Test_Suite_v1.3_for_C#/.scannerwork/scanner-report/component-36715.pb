@@ -1,1 +1,0 @@
-ëž 2csX*hrXsrc/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__false_01.cs

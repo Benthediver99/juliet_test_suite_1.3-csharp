@@ -1,1 +1,0 @@
-็บ 2csX&hrnsrc/testcases/CWE789_Uncontrolled_Mem_Alloc/s02/CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_81_bad.cs

@@ -1,1 +1,0 @@
-ÃÞ 2csXÕhrbsrc/testcases/CWE321_Hard_Coded_Cryptographic_Key/CWE321_Hard_Coded_Cryptographic_Key__basic_21.cs

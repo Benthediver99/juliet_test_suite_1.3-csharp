@@ -1,1 +1,0 @@
-ü 2csX¢hråsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s01/CWE129_Improper_Validation_of_Array_Index__Connect_tcp_array_read_no_check_42.cs

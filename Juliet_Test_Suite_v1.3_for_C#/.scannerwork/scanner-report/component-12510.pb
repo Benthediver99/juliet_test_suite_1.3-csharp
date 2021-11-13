@@ -1,1 +1,0 @@
-Þa 2csX¬hr[src/testcases/CWE190_Integer_Overflow/s06/CWE190_Integer_Overflow__UInt16_rand_square_10.cs

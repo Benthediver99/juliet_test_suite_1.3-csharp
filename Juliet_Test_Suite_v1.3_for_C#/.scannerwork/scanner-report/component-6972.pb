@@ -1,1 +1,0 @@
-º6 2csXèhr{src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__ReadLine_Format_75a.cs

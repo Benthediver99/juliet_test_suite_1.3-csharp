@@ -1,1 +1,0 @@
-Ψ 2csX6hresrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__ReadLine_81_goodB2G.cs

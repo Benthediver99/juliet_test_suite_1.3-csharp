@@ -1,1 +1,0 @@
-«Ñ 2csX²hrXsrc/testcases/CWE259_Hard_Coded_Password/CWE259_Hard_Coded_Password__SqlConnection_08.cs

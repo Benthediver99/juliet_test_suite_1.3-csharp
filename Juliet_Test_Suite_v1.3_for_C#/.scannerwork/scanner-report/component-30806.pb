@@ -1,1 +1,0 @@
-Öð 2csX1hr_src/testcases/CWE369_Divide_by_Zero/s03/CWE369_Divide_by_Zero__int_Params_Get_Web_modulo_53b.cs

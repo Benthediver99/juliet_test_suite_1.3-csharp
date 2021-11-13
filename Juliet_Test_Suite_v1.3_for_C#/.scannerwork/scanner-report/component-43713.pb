@@ -1,1 +1,0 @@
-ау 2csX4hrIsrc/testcases/CWE835_Infinite_Loop/CWE835_Infinite_Loop__while_true_01.cs

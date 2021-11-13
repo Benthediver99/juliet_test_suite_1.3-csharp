@@ -1,1 +1,0 @@
-สม 2csX1hrksrc/testcases/CWE197_Numeric_Truncation_Error/s08/CWE197_Numeric_Truncation_Error__long_large_to_int_73b.cs

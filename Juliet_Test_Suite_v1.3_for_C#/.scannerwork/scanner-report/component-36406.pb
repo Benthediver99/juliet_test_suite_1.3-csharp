@@ -1,1 +1,0 @@
-¶œ 2csX%hr9src/testcases/CWE561_Dead_Code/Properties/AssemblyInfo.cs

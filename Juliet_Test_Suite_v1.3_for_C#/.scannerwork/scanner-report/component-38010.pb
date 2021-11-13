@@ -1,1 +1,0 @@
-ú¨ 2csXXhrfsrc/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs

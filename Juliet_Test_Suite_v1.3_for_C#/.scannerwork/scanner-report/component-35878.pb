@@ -1,1 +1,0 @@
-¦˜ 2csX%hrNsrc/testcases/CWE481_Assigning_Instead_of_Comparing/Properties/AssemblyInfo.cs

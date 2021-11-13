@@ -1,1 +1,0 @@
-á 2csXõhrwsrc/testcases/CWE117_Improper_Output_Neutralization_for_Logs/CWE117_Improper_Output_Neutralization_for_Logs__File_04.cs

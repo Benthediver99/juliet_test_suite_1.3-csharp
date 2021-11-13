@@ -1,1 +1,0 @@
-ª» 2csX.hrwsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_console_ReadLine_to_byte_54e.cs

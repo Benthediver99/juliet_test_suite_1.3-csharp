@@ -1,1 +1,0 @@
-ùt 2csXChrWsrc/testcases/CWE191_Integer_Underflow/s02/CWE191_Integer_Underflow__int_min_sub_66a.cs

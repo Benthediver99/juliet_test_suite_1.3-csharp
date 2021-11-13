@@ -1,1 +1,0 @@
-ðÛ 2csX%hrQsrc/testcases/CWE314_Cleartext_Storage_in_the_Registry/Properties/AssemblyInfo.cs

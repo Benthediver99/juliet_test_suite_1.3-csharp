@@ -1,1 +1,0 @@
-ô' 2csXVhr‡src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__Params_Get_Web_array_size_53d.cs

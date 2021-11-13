@@ -1,1 +1,0 @@
-žÎ 2csXuhr@src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_Get_Cookies_Web_07.cs

@@ -1,1 +1,0 @@
-бо 2csXThr;src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_NetClient_73a.cs

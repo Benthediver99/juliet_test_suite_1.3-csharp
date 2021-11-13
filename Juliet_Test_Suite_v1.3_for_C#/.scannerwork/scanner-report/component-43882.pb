@@ -1,1 +1,0 @@
-ъж 2csXPhrFsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_File_67a.cs

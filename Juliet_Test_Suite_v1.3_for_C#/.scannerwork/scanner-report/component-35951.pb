@@ -1,1 +1,0 @@
-ï˜ 2csX%hrGsrc/testcases/CWE486_Compare_Classes_by_Name/Properties/AssemblyInfo.cs

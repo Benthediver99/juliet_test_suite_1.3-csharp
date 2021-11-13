@@ -1,1 +1,0 @@
-ай 2csXkhrIsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__NetClient_22b.cs

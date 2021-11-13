@@ -1,1 +1,0 @@
-õž 2csX*hrbsrc/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__static_readonly_01.cs

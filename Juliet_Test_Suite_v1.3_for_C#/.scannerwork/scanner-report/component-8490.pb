@@ -1,1 +1,0 @@
-ªB 2csXAhr]src/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__int_Database_square_68b.cs

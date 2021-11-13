@@ -1,1 +1,0 @@
-ре 2csXOhrPsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__File_74a.cs

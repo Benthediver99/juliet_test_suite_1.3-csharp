@@ -1,1 +1,0 @@
-ìž 2csX.hrfsrc/testcases/CWE570_Expression_Always_False/CWE570_Expression_Always_False__n_equal_n_minus_one_01.cs

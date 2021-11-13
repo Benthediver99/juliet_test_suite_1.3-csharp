@@ -1,1 +1,0 @@
-¯Ç 2csX6hrZsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Params_Get_Web_54a.cs

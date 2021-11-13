@@ -1,1 +1,0 @@
-Òù 2csX•hrKsrc/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/Program.cs

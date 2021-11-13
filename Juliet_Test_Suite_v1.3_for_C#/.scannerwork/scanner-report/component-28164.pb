@@ -1,1 +1,0 @@
-„Ü 2csX¢hr^src/testcases/CWE315_Cleartext_Storage_in_Cookie/CWE315_Cleartext_Storage_in_Cookie__Web_16.cs

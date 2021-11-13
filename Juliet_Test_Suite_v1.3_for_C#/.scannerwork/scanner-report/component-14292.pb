@@ -1,1 +1,0 @@
-Ôo 2csXèhrcsrc/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__int_Environment_multiply_11.cs

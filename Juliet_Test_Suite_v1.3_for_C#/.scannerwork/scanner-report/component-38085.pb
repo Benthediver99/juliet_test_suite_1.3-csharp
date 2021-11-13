@@ -1,1 +1,0 @@
-ũ 2csX%hrCsrc/testcases/CWE617_Reachable_Assertion/Properties/AssemblyInfo.cs

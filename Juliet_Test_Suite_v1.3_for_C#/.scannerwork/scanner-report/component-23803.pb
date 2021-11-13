@@ -1,1 +1,0 @@
-û¹ 2csXwhrrsrc/testcases/CWE197_Numeric_Truncation_Error/s07/CWE197_Numeric_Truncation_Error__long_connect_tcp_to_byte_67a.cs

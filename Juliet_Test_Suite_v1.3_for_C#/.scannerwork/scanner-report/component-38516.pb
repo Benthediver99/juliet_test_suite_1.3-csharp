@@ -1,1 +1,0 @@
-ô¬ 2csXFhrTsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__NetClient_81_goodG2B.cs

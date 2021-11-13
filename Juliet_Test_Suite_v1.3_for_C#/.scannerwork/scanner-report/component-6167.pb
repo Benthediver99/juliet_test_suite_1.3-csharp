@@ -1,1 +1,0 @@
-ó0 2csXqhrçsrc/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Connect_tcp_console_interpolation_67a.cs

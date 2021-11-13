@@ -1,1 +1,0 @@
-Ÿ„ 2csXrhrbsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_Params_Get_Web_ExecuteScalar_54e.cs

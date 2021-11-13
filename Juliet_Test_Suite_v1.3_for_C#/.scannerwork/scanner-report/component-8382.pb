@@ -1,1 +1,0 @@
-¾A 2csX-hrasrc/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__int_Database_add_81_goodB2G.cs

@@ -1,1 +1,0 @@
-€Ÿ 2csX6hresrc/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__class_getClass_equal_01.cs

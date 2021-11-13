@@ -1,1 +1,0 @@
-ý— 2csXEhrfsrc/testcases/CWE478_Missing_Default_Case_in_Switch/CWE478_Missing_Default_Case_in_Switch__basic_01.cs

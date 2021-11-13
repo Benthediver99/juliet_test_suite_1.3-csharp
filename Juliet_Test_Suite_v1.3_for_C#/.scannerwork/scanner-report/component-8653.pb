@@ -1,1 +1,0 @@
-ÍC 2csXqhr`src/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_Environment_square_22b.cs

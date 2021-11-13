@@ -1,1 +1,0 @@
-ʘ 2csX$hrusrc/testcases/CWE197_Numeric_Truncation_Error/s02/CWE197_Numeric_Truncation_Error__double_large_to_long_81_goodG2B.cs

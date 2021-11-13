@@ -1,1 +1,0 @@
-è/ 2csX%hrVsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s04/Properties/AssemblyInfo.cs

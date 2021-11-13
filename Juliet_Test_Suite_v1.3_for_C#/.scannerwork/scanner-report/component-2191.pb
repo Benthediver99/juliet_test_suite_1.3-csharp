@@ -1,1 +1,0 @@
-è 2csXdhrÇsrc/testcases/CWE117_Improper_Output_Neutralization_for_Logs/CWE117_Improper_Output_Neutralization_for_Logs__QueryString_Web_01.cs

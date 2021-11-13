@@ -1,1 +1,0 @@
-æ§ 2csXùhr^src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Database_22b.cs

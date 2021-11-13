@@ -1,1 +1,0 @@
-Á¡ 2csXphrssrc/testcases/CWE197_Numeric_Truncation_Error/s03/CWE197_Numeric_Truncation_Error__float_connect_tcp_to_long_81a.cs

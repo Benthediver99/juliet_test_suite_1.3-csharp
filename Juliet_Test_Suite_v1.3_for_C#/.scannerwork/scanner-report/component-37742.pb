@@ -1,1 +1,0 @@
-î¦ 2csXŽhr_src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__NetClient_22a.cs

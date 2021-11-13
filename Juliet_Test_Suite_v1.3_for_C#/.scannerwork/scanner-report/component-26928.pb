@@ -1,1 +1,0 @@
-°Ò 2csXùhr|src/testcases/CWE313_Cleartext_Storage_in_a_File_or_on_Disk/CWE313_Cleartext_Storage_in_a_File_or_on_Disk__Connect_tcp_12.cs

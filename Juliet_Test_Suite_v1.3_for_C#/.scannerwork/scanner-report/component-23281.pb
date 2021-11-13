@@ -1,1 +1,0 @@
-ñµ 2csXšhrosrc/testcases/CWE197_Numeric_Truncation_Error/s06/CWE197_Numeric_Truncation_Error__int_Listen_tcp_to_byte_07.cs

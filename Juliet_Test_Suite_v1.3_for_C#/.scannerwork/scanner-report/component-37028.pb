@@ -1,1 +1,0 @@
-¤¡ 2csX6hrZsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Get_Cookies_Web_81_goodG2B.cs

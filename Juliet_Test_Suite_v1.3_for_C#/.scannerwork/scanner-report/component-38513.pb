@@ -1,1 +1,0 @@
-ñ¬ 2csXEhrPsrc/testcases/CWE643_Xpath_Injection/CWE643_Xpath_Injection__NetClient_81_bad.cs

@@ -1,1 +1,0 @@
-ô¯ 2csX·hrJsrc/testcases/CWE681_Incorrect_Conversion_Between_Numeric_Types/Program.cs

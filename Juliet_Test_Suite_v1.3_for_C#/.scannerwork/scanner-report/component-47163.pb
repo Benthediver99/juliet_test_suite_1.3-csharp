@@ -1,1 +1,0 @@
-»ð 2xmlXï hr8src/testcasesupport/packages/NLog.4.6.8/lib/wp8/NLog.xml

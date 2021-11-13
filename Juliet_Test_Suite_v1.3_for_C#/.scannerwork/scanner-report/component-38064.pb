@@ -1,1 +1,0 @@
-°© 2csXThrPsrc/testcases/CWE617_Reachable_Assertion/CWE617_Reachable_Assertion__false_15.cs

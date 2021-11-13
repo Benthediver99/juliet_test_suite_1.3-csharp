@@ -1,1 +1,0 @@
-ù± 2csXEhrisrc/testcases/CWE690_NULL_Deref_From_Return/CWE690_NULL_Deref_From_Return__getParameter_Web_equals_66a.cs

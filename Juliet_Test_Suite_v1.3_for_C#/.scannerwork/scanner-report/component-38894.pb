@@ -1,1 +1,0 @@
-î¯ 2csX hr…src/testcases/CWE681_Incorrect_Conversion_Between_Numeric_Types/CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_12.cs

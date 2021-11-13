@@ -1,1 +1,0 @@
-ï/ 2csXqhrÅsrc/testcases/CWE129_Improper_Validation_of_Array_Index/s04/CWE129_Improper_Validation_of_Array_Index__ReadLine_array_size_66a.cs

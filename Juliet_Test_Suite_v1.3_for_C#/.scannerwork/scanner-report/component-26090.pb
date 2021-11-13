@@ -1,1 +1,0 @@
-êË 2csXfhrZsrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Database_52c.cs

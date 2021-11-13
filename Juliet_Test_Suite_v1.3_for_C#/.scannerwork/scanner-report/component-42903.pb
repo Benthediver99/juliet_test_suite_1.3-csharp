@@ -1,1 +1,0 @@
-—Ï 2csXŠhr:src/testcases/CWE80_XSS/s01/CWE80_XSS__Web_NetClient_08.cs

@@ -1,1 +1,0 @@
-¦£ 2csX¾hrKsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_ReadLine_21.cs

@@ -1,1 +1,0 @@
-ø0 2csXÅhr}src/testcases/CWE134_Externally_Controlled_Format_String/CWE134_Externally_Controlled_Format_String__Connect_tcp_Format_41.cs

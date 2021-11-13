@@ -1,1 +1,0 @@
-ï£ 2csX¡hr`src/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__Connect_tcp_02.cs

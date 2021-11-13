@@ -1,1 +1,0 @@
-ªå 2csXèhrYsrc/testcases/CWE89_SQL_Injection/s02/CWE89_SQL_Injection__Web_ReadLine_CommandText_03.cs

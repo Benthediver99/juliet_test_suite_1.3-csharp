@@ -1,1 +1,0 @@
-öÊ 2csX%hrFsrc/testcases/CWE209_Information_Leak_Error/Properties/AssemblyInfo.cs

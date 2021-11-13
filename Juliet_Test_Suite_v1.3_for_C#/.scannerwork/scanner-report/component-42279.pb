@@ -1,1 +1,0 @@
-งส 2csX4hrHsrc/testcases/CWE80_XSS/s01/CWE80_XSS__CWE182_Web_Get_Cookies_Web_67b.cs

@@ -1,1 +1,0 @@
-À7 2csX?hr™src/testcases/CWE15_External_Control_of_System_or_Configuration_Setting/CWE15_External_Control_of_System_or_Configuration_Setting__Database_81_goodG2B.cs

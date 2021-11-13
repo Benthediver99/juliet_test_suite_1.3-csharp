@@ -1,1 +1,0 @@
-Œå 2csXwhrWsrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_File_modulo_51a.cs

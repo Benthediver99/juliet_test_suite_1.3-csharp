@@ -1,1 +1,0 @@
-–Ž 2csX%hr|src/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__Get_Cookies_Web_81_goodG2B.cs

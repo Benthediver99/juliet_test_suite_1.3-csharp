@@ -1,1 +1,0 @@
-Šá 2csX-hresrc/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_connect_tcp_divide_81_goodB2G.cs

@@ -1,1 +1,0 @@
-éè 2csX%hrvsrc/testcases/CWE427_Uncontrolled_Search_Path_Element/CWE427_Uncontrolled_Search_Path_Element__NetClient_81_goodG2B.cs

@@ -1,1 +1,0 @@
-ËB 2csX¼hr\src/testcases/CWE190_Integer_Overflow/s01/CWE190_Integer_Overflow__int_Environment_add_21.cs

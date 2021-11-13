@@ -1,1 +1,0 @@
-™I 2csX³hrWsrc/testcases/CWE190_Integer_Overflow/s02/CWE190_Integer_Overflow__int_max_square_04.cs

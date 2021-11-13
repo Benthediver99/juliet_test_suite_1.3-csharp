@@ -1,1 +1,0 @@
-Ü§ 2csXýhrdsrc/testcases/CWE606_Unchecked_Loop_Condition/CWE606_Unchecked_Loop_Condition__QueryString_Web_07.cs

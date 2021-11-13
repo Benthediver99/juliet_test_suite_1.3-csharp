@@ -1,1 +1,0 @@
-ล้ 2csXdhrJsrc/testcases/CWE90_LDAP_Injection/CWE90_LDAP_Injection__Listen_tcp_74a.cs

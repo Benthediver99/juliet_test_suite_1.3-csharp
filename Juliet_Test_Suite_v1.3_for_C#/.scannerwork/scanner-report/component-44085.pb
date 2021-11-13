@@ -1,1 +1,0 @@
-ตุ 2csXmhrOsrc/testcases/CWE83_XSS_Attribute/CWE83_XSS_Attribute__Web_Params_Get_Web_06.cs

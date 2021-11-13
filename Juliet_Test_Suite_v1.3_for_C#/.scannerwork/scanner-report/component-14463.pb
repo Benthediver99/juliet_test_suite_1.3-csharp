@@ -1,1 +1,0 @@
-ÿp 2csX0hrdsrc/testcases/CWE191_Integer_Underflow/s01/CWE191_Integer_Underflow__int_File_multiply_81_goodB2G.cs

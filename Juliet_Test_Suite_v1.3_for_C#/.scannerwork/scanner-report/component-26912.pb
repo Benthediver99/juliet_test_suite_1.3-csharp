@@ -1,1 +1,0 @@
- Ò 2csX%hrGsrc/testcases/CWE284_Improper_Access_Control/Properties/AssemblyInfo.cs

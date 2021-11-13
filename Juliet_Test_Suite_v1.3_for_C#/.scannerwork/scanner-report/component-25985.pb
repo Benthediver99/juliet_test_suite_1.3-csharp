@@ -1,1 +1,0 @@
-ÅÀ 2csXêhrÜsrc/testcases/CWE226_Sensitive_Information_Uncleared_Before_Release/CWE226_Sensitive_Information_Uncleared_Before_Release__basic_07.cs

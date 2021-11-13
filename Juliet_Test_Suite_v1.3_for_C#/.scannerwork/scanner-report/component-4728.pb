@@ -1,1 +1,0 @@
-ø$ 2csX²hr‹src/testcases/CWE129_Improper_Validation_of_Array_Index/s03/CWE129_Improper_Validation_of_Array_Index__NetClient_array_read_no_check_22a.cs

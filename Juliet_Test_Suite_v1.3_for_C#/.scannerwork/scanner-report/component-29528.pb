@@ -1,1 +1,0 @@
-иц 2csXAhr\src/testcases/CWE369_Divide_by_Zero/s01/CWE369_Divide_by_Zero__float_NetClient_divide_68b.cs

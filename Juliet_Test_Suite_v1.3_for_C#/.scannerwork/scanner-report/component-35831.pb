@@ -1,1 +1,0 @@
-÷— 2csX·hr2src/testcases/CWE477_Obsolete_Functions/Program.cs

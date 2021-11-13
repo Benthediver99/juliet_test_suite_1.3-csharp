@@ -1,1 +1,0 @@
-ö≈ 2csX8hrWsrc/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_81a.cs

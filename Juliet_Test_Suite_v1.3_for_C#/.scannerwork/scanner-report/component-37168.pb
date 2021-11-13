@@ -1,1 +1,0 @@
-°¢ 2csXVhrRsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Params_Get_Web_22b.cs

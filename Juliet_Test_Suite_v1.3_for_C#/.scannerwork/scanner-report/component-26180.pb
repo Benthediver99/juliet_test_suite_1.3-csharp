@@ -1,1 +1,0 @@
-дл 2csXhrasrc/testcases/CWE23_Relative_Path_Traversal/CWE23_Relative_Path_Traversal__Environment_81_base.cs

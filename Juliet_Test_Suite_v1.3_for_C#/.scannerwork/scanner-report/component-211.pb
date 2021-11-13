@@ -1,1 +1,0 @@
-Ó 2csXˆhrmsrc/testcases/CWE113_HTTP_Response_Splitting/s01/CWE113_HTTP_Response_Splitting__Web_Database_addCookie_08.cs

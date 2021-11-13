@@ -1,1 +1,0 @@
-è€ 2csX-hr`src/testcases/CWE191_Integer_Underflow/s03/CWE191_Integer_Underflow__Short_min_sub_81_goodB2G.cs

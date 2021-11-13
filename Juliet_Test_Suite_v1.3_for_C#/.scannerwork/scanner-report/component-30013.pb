@@ -1,1 +1,0 @@
-½ê 2csX1hrYsrc/testcases/CWE369_Divide_by_Zero/s02/CWE369_Divide_by_Zero__int_Database_divide_54d.cs

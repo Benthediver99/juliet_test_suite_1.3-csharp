@@ -1,1 +1,0 @@
-га 2csXYhrLsrc/testcases/CWE601_Open_Redirect/CWE601_Open_Redirect__Web_Database_73a.cs

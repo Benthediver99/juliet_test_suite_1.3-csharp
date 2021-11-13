@@ -1,1 +1,0 @@
-è˜ 2csXahrXsrc/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_14.cs
