@@ -61,10 +61,8 @@ jobs:
     # ✏️ If the Autobuild fails above, remove it and uncomment the following three lines
     #    and modify them (or add more) to build your code if your project
     #    uses a compiled language
-
-    - run: |
-        powershell.exe -noexit -file "./build.ps1"
-    
+    - run: powershell.exe -noexit -file "./build.ps1"
+      shell: pwsh
 #       make bootstrap
 #       make release
 
