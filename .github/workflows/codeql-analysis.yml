@@ -63,7 +63,7 @@ jobs:
     #    uses a compiled language
 
     - run: |
-        powershell.exe -noexit -file "./build.ps1""
+        powershell.exe -noexit -file "./build.ps1"
     
 #       make bootstrap
 #       make release
