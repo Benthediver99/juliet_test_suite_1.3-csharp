@@ -62,7 +62,7 @@ jobs:
     #    and modify them (or add more) to build your code if your project
     #    uses a compiled language
     - run: powershell.exe -noexit -file "./build.ps1"
-      shell: pwsh
+      shell: bash
 #       make bootstrap
 #       make release
 
