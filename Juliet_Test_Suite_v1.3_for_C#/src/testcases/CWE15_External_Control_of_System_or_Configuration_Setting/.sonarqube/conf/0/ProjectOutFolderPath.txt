@@ -1,1 +1,0 @@
-C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE15_External_Control_of_System_or_Configuration_Setting\.sonarqube\out\0

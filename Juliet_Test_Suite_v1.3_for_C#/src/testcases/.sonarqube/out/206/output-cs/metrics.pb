@@ -1,24 +1,0 @@
-Ü
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_01.cs 8j.r !"#$'()*,-/0123467‚)/þ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_02.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMNþ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_03.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMNƒ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_04.cs	 8j	%05:CHr7!"#$&'()*+,-12346789;<=>?@ADEFGIJKLMNOQRSTUWXx‚	#&36;FISTƒ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_05.cs	 8j	%05:CHr7!"#$&'()*+,-12346789;<=>?@ADEFGIJKLMNOQRSTUWXx‚	#&36;FIST‚
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_06.cs	 8j	$/49BGr6 !"#%&'()*+,01235678:;<=>?@CDEFHIJKLMNPQRSTVWx‚	"%25:EHRS‚
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_07.cs	 8j	$/49BGr6 !"#%&'()*+,01235678:;<=>?@CDEFHIJKLMNPQRSTVWx‚	"%25:EHRS‹
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_08.cs 8	j	,7<AJOr= !#$%&()*+-./0123489:;=>?@BCDEFGHKLMNPQRSTUVXYZ[\^_x‚ %*-:=BMPZ[þ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_09.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMNþ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_10.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMNþ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_11.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMNû
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_12.cs 8j)38Ar5 !"#$%&'(*+,-./045679:;<=>?@BCDEFGHJKLMOPx‚ *69BLþ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_13.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMNþ
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_14.cs	 8j*/4=Br5 !"#$%&'+,-.012356789:;>?@ACDEFGHIKLMNOQRx‚	 -05@CMN“
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_15.cs 8j )06:DJRr@!"#$%&'(*+,-12345789;<=>?@ABEFGHIKLMNOPQSTUVXYZ[\^_x‚!'*+378;@GKPSTZ[ë
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_16.cs 8j+0r' !"#$%&'(,-./12345678:;<=?@x‚ &.16<ç
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_17.cs 8j*/r% !"#$%&'+,-.012345689:;=>x‚ -0:”
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\Program.cs 
-8j &(9?ABPRVX\^bdhjnptvz|€‚rC	
-"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqswy}ƒ„…x
-‚"*+,-0459CDEFGHIJK»
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE615_Info_Exposure_by_Comment\Properties\AssemblyInfo.csj !"r	
-#$

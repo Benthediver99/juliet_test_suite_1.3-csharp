@@ -1,1 +1,0 @@
-Roslyn version: 2.10.0.0Language version: CSharp7"Concurrent execution: disabled€|File 'C:\Users\CyberDiver\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs' was recognized as generated
