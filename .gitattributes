@@ -1,2 +1,3 @@
 *.cs linguist-detectable=true
 *.pb linguist-detectable=false
+*.pb linguist-language=Csharp
