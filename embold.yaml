@@ -23,12 +23,12 @@ sources:
     - '.git'
     
 # Specify the languages you would like to Scan. Default is all Detected
-#languages: 'C_SHARP'
+languages: 'C_SHARP'
 
 
 # Define modules one would like to run or disable. This is enough for Basic Users
 # Get List of Modules (Which are Default Enabled/Disabled) at the documentation link above
-#modules:
-#  - name: gamma_cs
-#    enabled: true
+modules:
+  - name: gamma_cs
+    enabled: true
 
