@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE477_Obsolete_Functions</ProjectName>
+  <ProjectName>CWE478_Missing_Default_Case_in_Switch</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>979877d7-fe64-dbc1-69b3-85234a8c941b</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions.csproj</FullPath>
+  <ProjectGuid>cc5634cf-e121-7fce-e53e-7c848407f615</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\76\FilesToAnalyze.txt" />

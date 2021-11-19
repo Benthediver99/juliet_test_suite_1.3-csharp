@@ -1,35 +1,467 @@
-Ý
-¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE609_Double_Checked_Locking\CWE609_Double_Checked_Locking__Thread_01.cs
+®
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_01.cs
 
-
- 22
- '  ! ! 
-' . 
- &&& &++ &
+ 4
 
-""  
+ 
 
-$$ 
+) ,
+; ?!! 
+ # &
+     
 
-)) 2
-//' 244 88 #:: #>> 
-00' /66 
-22 (EE (JJ (
-AA hh 
+%% 
+%%* -'' 
+%%< @'' 
+** '' 
 
-CC 
+**# &
 
-HH (
-NN )RR TT VV 
-PP (]] (bb (
-YY ii 
+**5 9
+,, --# &
+--  // œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_02.cs
 
-[[ 
+ 4
 
-`` 
+ 
 
-ff !Ž
-ƒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE609_Double_Checked_Locking\Program.cs
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_03.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH Ò
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_04.cs
+
+ 4
+ )## BB 
+ *11 
+
+!! 
+
+!!) ,
+!!; ?)) 
+%% &&' *
+&& $(( 
+// MM 
+
+//# &
+
+//5 9
+88 99' *
+99 $;; 
+@@ NN 
+
+@@# &
+
+@@5 9
+DD EE' *
+EE $GG 
+
+KK 
+KK* -MM NN 
+KK< @MM NN Ò
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_05.cs
+
+ 4
+ ## BB 
+ 11 
+
+!! 
+
+!!) ,
+!!; ?)) 
+%% &&' *
+&& $(( 
+// MM 
+
+//# &
+
+//5 9
+88 99' *
+99 $;; 
+@@ NN 
+
+@@# &
+
+@@5 9
+DD EE' *
+EE $GG 
+
+KK 
+KK* -MM NN 
+KK< @MM NN Æ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_06.cs
+
+ 4(
+ ("" 00 AA 
+
+   
+
+  ) ,
+  ; ?(( 
+$$ %%' *
+%% $'' 
+.. LL 
+
+..# &
+
+..5 9
+77 88' *
+88 $:: 
+?? MM 
+
+??# &
+
+??5 9
+CC DD' *
+DD $FF 
+
+JJ 
+JJ* -LL MM 
+JJ< @LL MM Æ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_07.cs
+
+ 4(
+ "" 00 AA 
+
+   
+
+  ) ,
+  ; ?(( 
+$$ %%' *
+%% $'' 
+.. LL 
+
+..# &
+
+..5 9
+77 88' *
+88 $:: 
+?? MM 
+
+??# &
+
+??5 9
+CC DD' *
+DD $FF 
+
+JJ 
+JJ* -LL MM 
+JJ< @LL MM Ò
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_08.cs
+
+ 4
+ *** II 
+## +88 
+
+(( 
+
+(() ,
+((; ?00 
+,, --' *
+-- $// 
+66 TT 
+
+66# &
+
+665 9
+?? @@' *
+@@ $BB 
+GG UU 
+
+GG# &
+
+GG5 9
+KK LL' *
+LL $NN 
+
+RR 
+RR* -TT UU 
+RR< @TT UU œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_09.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_10.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_11.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH †
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_12.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+'' ((' *
+(( $** 
+00 DD 
+
+00# &
+
+005 9
+44 55' *
+55 $77 
+;; <<' *
+<< $>> 
+
+BB 
+BB* -DD 
+BB< @DD œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_13.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_14.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+)) GG 
+
+))# &
+
+))5 9
+22 33' *
+33 $55 
+:: HH 
+
+::# &
+
+::5 9
+>> ??' *
+?? $AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH œ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_15.cs
+
+ 4
+
+ 
+
+) ,
+; ?$$ 
+   !!' *
+!! $## 
+// TT 
+
+//# &
+
+//5 9
+88 99' *
+99 $;; 
+AA UU 
+
+AA# &
+
+AA5 9
+FF GG' *
+GG $II 
+
+RR 
+RR* -TT UU 
+RR< @TT UU ®
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_16.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   ' *
+   $"" 
+** 88 
+
+**# &
+
+**5 9
+.. //' *
+// $11 
+
+66 
+66* -88 
+66< @88 î
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_17.cs
+
+ 4
+
+ 
+
+) ,
+; ?## 
+   
+   ' *
+   $"" 
+)) 66 
+
+))# &
+
+))5 9
+++ ++ ++ 
+-- ..' *
+.. $00 
+
+44 
+44* -66 
+44< @66 —
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\Program.cs
 
  
 
@@ -48,5 +480,5 @@
 mm  HH 
 ss  II 
 yy  JJ 
-  KK –
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE609_Double_Checked_Locking\Properties\AssemblyInfo.cs
+  KK Ÿ
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\Properties\AssemblyInfo.cs

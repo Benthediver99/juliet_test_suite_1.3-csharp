@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE535_Info_Exposure_Shell_Error</ProjectName>
+  <ProjectName>CWE539_Information_Exposure_Through_Persistent_Cookie</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>4018bf6b-a328-55d1-0421-031849572f6f</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error.csproj</FullPath>
+  <ProjectGuid>2f64101a-4638-e8f6-150b-e0893f3b3a20</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\88\FilesToAnalyze.txt" />

@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_02.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 53,
                   "startColumn": 13,
-                  "endLine": 48,
+                  "endLine": 53,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_06.cs",
                 "region": {
-                  "startLine": 42,
+                  "startLine": 58,
                   "startColumn": 13,
-                  "endLine": 42,
+                  "endLine": 58,
                   "endColumn": 15
                 }
               }
@@ -60,7 +60,49 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_04.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 13,
+                  "endLine": 59,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 13,
+                  "endLine": 53,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
                   "startLine": 47,
                   "startColumn": 13,
@@ -81,11 +123,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
-                  "startLine": 36,
+                  "startLine": 60,
                   "startColumn": 13,
-                  "endLine": 36,
+                  "endLine": 60,
                   "endColumn": 15
                 }
               }
@@ -102,53 +144,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
-                  "startLine": 42,
+                  "startLine": 104,
                   "startColumn": 13,
-                  "endLine": 42,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 13,
-                  "endLine": 49,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
-                "region": {
-                  "startLine": 89,
-                  "startColumn": 13,
-                  "endLine": 89,
+                  "endLine": 104,
                   "endColumn": 15
                 }
               }
@@ -165,7 +165,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -182,16 +182,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_01' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException01'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_12' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -201,18 +201,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_08' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_08.cs",
                 "region": {
-                  "startLine": 27,
-                  "startColumn": 18,
-                  "endLine": 27,
-                  "endColumn": 29
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -222,18 +222,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_09' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_09.cs",
                 "region": {
-                  "startLine": 28,
-                  "startColumn": 18,
-                  "endLine": 28,
-                  "endColumn": 30
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -249,7 +249,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -270,7 +270,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -287,16 +287,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_05' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException05'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_06' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_06.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -308,16 +308,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_03' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException03'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_13' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile13'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_13.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -329,16 +329,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_02' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException02'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_14' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile14'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_14.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateTrue' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_05.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 18,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 30
                 }
               }
             }
@@ -350,16 +392,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_09' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException09'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_04' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_04.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -371,37 +413,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_11' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException11'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_02' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_02.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_10' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException10'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_10.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -417,7 +438,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -434,16 +455,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_08' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException08'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_17' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile17'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_17.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -459,7 +480,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -480,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -501,11 +522,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
-                  "startLine": 42,
+                  "startLine": 53,
                   "startColumn": 5,
-                  "endLine": 42,
+                  "endLine": 53,
                   "endColumn": 49
                 }
               }
@@ -518,16 +539,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_06' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException06'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_05' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_05.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -539,37 +560,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_13' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException13'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_10' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_10.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 17,
-                  "endLine": 27,
-                  "endColumn": 28
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -581,58 +581,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_14' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException14'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_11' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile11'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_11.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_17' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException17'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_17.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_16' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException16'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_16.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
                 }
               }
             }
@@ -648,7 +606,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -669,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -690,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -707,16 +665,100 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_07' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException07'.",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_15' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 23,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "endLine": 23,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_16' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile16'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_16.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_01' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_01.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_03' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_07.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 17,
+                  "endLine": 29,
+                  "endColumn": 28
                 }
               }
             }
@@ -732,7 +774,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -747,17 +789,38 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE459_Incomplete_Cleanup__temp_file_07' to match pascal case naming rules, consider using 'Cwe459IncompleteCleanuptempfile07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_07.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3400",
           "level": "warning",
           "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_08.cs",
                 "region": {
-                  "startLine": 27,
+                  "startLine": 29,
                   "startColumn": 25,
-                  "endLine": 27,
+                  "endLine": 29,
                   "endColumn": 43
                 }
               }
@@ -768,38 +831,17 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_15' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException15'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S3400",
           "level": "warning",
           "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_08.cs",
                 "region": {
-                  "startLine": 32,
+                  "startLine": 34,
                   "startColumn": 25,
-                  "endLine": 32,
+                  "endLine": 34,
                   "endColumn": 44
                 }
               }
@@ -810,18 +852,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_04' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException04'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_01.cs",
                 "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "startLine": 28,
+                  "startColumn": 27,
+                  "endLine": 28,
+                  "endColumn": 47
                 }
               }
             }
@@ -831,18 +873,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Rename class 'CWE440_Expected_Behavior_Violation__basic_Exception_12' to match pascal case naming rules, consider using 'Cwe440ExpectedBehaviorViolationbasicException12'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_02.cs",
                 "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 61
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -852,18 +894,18 @@
           }
         },
         {
-          "ruleId": "S2201",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_14.cs",
                 "region": {
-                  "startLine": 40,
-                  "startColumn": 17,
-                  "endLine": 40,
-                  "endColumn": 37
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -873,18 +915,18 @@
           }
         },
         {
-          "ruleId": "S2201",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_06.cs",
                 "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
+                  "startLine": 35,
+                  "startColumn": 31,
+                  "endLine": 35,
+                  "endColumn": 51
                 }
               }
             }
@@ -894,18 +936,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_07.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
+                  "startLine": 35,
+                  "startColumn": 31,
+                  "endLine": 35,
+                  "endColumn": 51
                 }
               }
             }
@@ -915,18 +957,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -936,199 +978,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_10.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 18,
-                  "endLine": 26,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 13,
-                  "endLine": 26,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 20,
-                  "endLine": 37,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_11.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 20,
-                  "endLine": 37,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_10.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_01.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 13,
-                  "endLine": 45,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_04.cs",
                 "region": {
                   "startLine": 36,
-                  "startColumn": 20,
+                  "startColumn": 31,
                   "endLine": 36,
-                  "endColumn": 21
+                  "endColumn": 51
                 }
               }
             }
@@ -1138,18 +999,102 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_11.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_08.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 31,
+                  "endLine": 43,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_09.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_11.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_05.cs",
                 "region": {
                   "startLine": 36,
-                  "startColumn": 20,
+                  "startColumn": 31,
                   "endLine": 36,
-                  "endColumn": 21
+                  "endColumn": 51
                 }
               }
             }
@@ -1159,18 +1104,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_13.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -1180,18 +1125,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_10.cs",
                 "region": {
-                  "startLine": 29,
-                  "startColumn": 16,
-                  "endLine": 29,
-                  "endColumn": 17
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -1201,18 +1146,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
                 "region": {
-                  "startLine": 44,
-                  "startColumn": 20,
-                  "endLine": 44,
-                  "endColumn": 21
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -1222,669 +1167,18 @@
           }
         },
         {
-          "ruleId": "S2201",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 17,
-                  "endLine": 57,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 17,
-                  "endLine": 57,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_09.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 24,
-                  "endLine": 41,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_09.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 17,
-                  "endLine": 56,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 17,
-                  "endLine": 56,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 17,
-                  "endLine": 77,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_11.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_10.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
-                "region": {
-                  "startLine": 64,
-                  "startColumn": 17,
-                  "endLine": 64,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
                 "region": {
                   "startLine": 46,
-                  "startColumn": 20,
+                  "startColumn": 31,
                   "endLine": 46,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_10.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 17,
-                  "endLine": 51,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 17,
-                  "endLine": 77,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 24,
-                  "endLine": 58,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 24,
-                  "endLine": 58,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_09.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_11.cs",
-                "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 17,
-                  "endLine": 76,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 24,
-                  "endLine": 57,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 17,
-                  "endLine": 76,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
+                  "endColumn": 51
                 }
               }
             }
@@ -1900,11 +1194,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
                 "region": {
-                  "startLine": 64,
+                  "startLine": 28,
                   "startColumn": 18,
-                  "endLine": 64,
+                  "endLine": 28,
                   "endColumn": 19
                 }
               }
@@ -1913,11 +1207,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
                 "region": {
-                  "startLine": 64,
+                  "startLine": 28,
                   "startColumn": 13,
-                  "endLine": 64,
+                  "endLine": 28,
                   "endColumn": 14
                 }
               }
@@ -1928,186 +1222,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 24,
-                  "endLine": 65,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
-                "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_08.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 24,
-                  "endLine": 85,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_09.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_09.cs",
-                "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_05.cs",
-                "region": {
-                  "startLine": 78,
-                  "startColumn": 24,
-                  "endLine": 78,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 20,
-                  "endLine": 32,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_02.cs",
                 "region": {
                   "startLine": 57,
-                  "startColumn": 24,
+                  "startColumn": 31,
                   "endLine": 57,
-                  "endColumn": 25
+                  "endColumn": 51
                 }
               }
             }
@@ -2117,18 +1243,123 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_10.cs",
                 "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_09.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_05.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 31,
+                  "endLine": 63,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_04.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 31,
+                  "endLine": 63,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_08.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 31,
+                  "endLine": 70,
+                  "endColumn": 51
                 }
               }
             }
@@ -2144,11 +1375,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
                 "region": {
-                  "startLine": 39,
+                  "startLine": 50,
                   "startColumn": 18,
-                  "endLine": 39,
+                  "endLine": 50,
                   "endColumn": 19
                 }
               }
@@ -2157,11 +1388,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
                 "region": {
-                  "startLine": 39,
+                  "startLine": 50,
                   "startColumn": 13,
-                  "endLine": 39,
+                  "endLine": 50,
                   "endColumn": 14
                 }
               }
@@ -2172,18 +1403,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_06.cs",
                 "region": {
-                  "startLine": 52,
-                  "startColumn": 24,
-                  "endLine": 52,
-                  "endColumn": 25
+                  "startLine": 62,
+                  "startColumn": 31,
+                  "endLine": 62,
+                  "endColumn": 51
                 }
               }
             }
@@ -2193,270 +1424,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_04.cs",
-                "region": {
-                  "startLine": 78,
-                  "startColumn": 24,
-                  "endLine": 78,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_06.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 24,
-                  "endLine": 77,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_07.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 24,
-                  "endLine": 77,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 17,
-                  "endLine": 57,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_13.cs",
-                "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_17.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
-                "region": {
-                  "startLine": 61,
-                  "startColumn": 17,
-                  "endLine": 61,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 17,
-                  "endLine": 76,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_16.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 13,
-                  "endLine": 32,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 17,
-                  "endLine": 71,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_16.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 20,
-                  "endLine": 31,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2201",
-          "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_10.cs",
                 "region": {
                   "startLine": 79,
-                  "startColumn": 17,
+                  "startColumn": 31,
                   "endLine": 79,
-                  "endColumn": 37
+                  "endColumn": 51
                 }
               }
             }
@@ -2466,18 +1445,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_13.cs",
                 "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 51
                 }
               }
             }
@@ -2487,18 +1466,18 @@
           }
         },
         {
-          "ruleId": "S2201",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_11.cs",
                 "region": {
-                  "startLine": 47,
-                  "startColumn": 17,
-                  "endLine": 47,
-                  "endColumn": 37
+                  "startLine": 79,
+                  "startColumn": 31,
+                  "endLine": 79,
+                  "endColumn": 51
                 }
               }
             }
@@ -2508,18 +1487,123 @@
           }
         },
         {
-          "ruleId": "S2201",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Use the return value of method 'Parse'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_07.cs",
                 "region": {
-                  "startLine": 46,
-                  "startColumn": 17,
-                  "endLine": 46,
-                  "endColumn": 37
+                  "startLine": 62,
+                  "startColumn": 31,
+                  "endLine": 62,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_01.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 27,
+                  "endLine": 51,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_08.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 31,
+                  "endLine": 92,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_02.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 31,
+                  "endLine": 79,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 31,
+                  "endLine": 69,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 31,
+                  "endLine": 86,
+                  "endColumn": 51
                 }
               }
             }
@@ -2535,11 +1619,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 67,
                   "startColumn": 9,
-                  "endLine": 54,
+                  "endLine": 67,
                   "endColumn": 11
                 }
               }
@@ -2550,18 +1634,275 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S1871",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "Either merge this branch with the identical one on line 68 or change one of the implementations.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
                 "region": {
-                  "startLine": 80,
-                  "startColumn": 24,
-                  "endLine": 80,
-                  "endColumn": 25
+                  "startLine": 85,
+                  "startColumn": 9,
+                  "endLine": 100,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_12.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 9,
+                  "endLine": 83,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_05.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 31,
+                  "endLine": 85,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_09.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 31,
+                  "endLine": 79,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_14.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 31,
+                  "endLine": 57,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_07.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 31,
+                  "endLine": 84,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_06.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 31,
+                  "endLine": 84,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_13.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 31,
+                  "endLine": 79,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 31,
+                  "endLine": 79,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 31,
+                  "endLine": 31,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 18,
+                  "endLine": 77,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_03.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 13,
+                  "endLine": 77,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_04.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 31,
+                  "endLine": 85,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_14.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 31,
+                  "endLine": 79,
+                  "endColumn": 51
                 }
               }
             }
@@ -2577,11 +1918,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_16.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 43,
                   "startColumn": 13,
-                  "endLine": 54,
+                  "endLine": 43,
                   "endColumn": 19
                 }
               }
@@ -2592,18 +1933,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_16.cs",
                 "region": {
-                  "startLine": 58,
-                  "startColumn": 24,
-                  "endLine": 58,
-                  "endColumn": 25
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -2613,31 +1954,18 @@
           }
         },
         {
-          "ruleId": "S1871",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Either merge this branch with the identical one on line 55 or change one of the implementations.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
-                  "startLine": 70,
-                  "startColumn": 9,
-                  "endLine": 83,
-                  "endColumn": 10
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 9,
-                  "endLine": 68,
-                  "endColumn": 10
+                  "startLine": 87,
+                  "startColumn": 31,
+                  "endLine": 87,
+                  "endColumn": 51
                 }
               }
             }
@@ -2647,18 +1975,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_15.cs",
                 "region": {
-                  "startLine": 62,
-                  "startColumn": 24,
-                  "endLine": 62,
-                  "endColumn": 25
+                  "startLine": 63,
+                  "startColumn": 31,
+                  "endLine": 63,
+                  "endColumn": 51
                 }
               }
             }
@@ -2668,18 +1996,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_17.cs",
                 "region": {
-                  "startLine": 77,
-                  "startColumn": 24,
-                  "endLine": 77,
-                  "endColumn": 25
+                  "startLine": 30,
+                  "startColumn": 31,
+                  "endLine": 30,
+                  "endColumn": 51
                 }
               }
             }
@@ -2689,18 +2017,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_17.cs",
                 "region": {
-                  "startLine": 72,
-                  "startColumn": 24,
-                  "endLine": 72,
-                  "endColumn": 25
+                  "startLine": 52,
+                  "startColumn": 31,
+                  "endLine": 52,
+                  "endColumn": 51
                 }
               }
             }
@@ -2710,18 +2038,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S1751",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "Refactor the containing loop to do more than one iteration.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_16.cs",
                 "region": {
-                  "startLine": 47,
-                  "startColumn": 24,
-                  "endLine": 47,
-                  "endColumn": 25
+                  "startLine": 67,
+                  "startColumn": 13,
+                  "endLine": 67,
+                  "endColumn": 19
                 }
               }
             }
@@ -2731,18 +2059,18 @@
           }
         },
         {
-          "ruleId": "S1481",
+          "ruleId": "S5445",
           "level": "warning",
-          "message": "Remove the unused local variable 'x'.",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE440_Expected_Behavior_Violation/CWE440_Expected_Behavior_Violation__basic_Exception_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE459_Incomplete_Cleanup/CWE459_Incomplete_Cleanup__temp_file_16.cs",
                 "region": {
-                  "startLine": 48,
-                  "startColumn": 24,
-                  "endLine": 48,
-                  "endColumn": 25
+                  "startLine": 53,
+                  "startColumn": 31,
+                  "endLine": 53,
+                  "endColumn": 51
                 }
               }
             }
@@ -2817,23 +2145,6 @@
             ]
           }
         },
-        "S1481": {
-          "id": "S1481",
-          "shortDescription": "Unused local variables should be removed",
-          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
         "S1751": {
           "id": "S1751",
           "shortDescription": "Loops with at most one iteration should be refactored",
@@ -2876,22 +2187,6 @@
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
           "properties": {
             "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope"
-            ]
-          }
-        },
-        "S2201": {
-          "id": "S2201",
-          "shortDescription": "Return values from functions without side effects should not be ignored",
-          "fullDescription": "When the call to a function doesn't have any side effects, what is the point of making the call if the results are ignored? In such case, either the function call is useless and should be dropped or the source code doesn't behave as expected.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2201",
-          "properties": {
-            "category": "Major Bug",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
@@ -2947,6 +2242,22 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
+            ]
+          }
+        },
+        "S5445": {
+          "id": "S5445",
+          "shortDescription": "Insecure temporary file creation methods should not be used",
+          "fullDescription": "Creating temporary files using insecure methods exposes the application to race conditions on filenames: a malicious user can try to create a file with a predictable name before the application does. A successful attack can result in other files being accessed, modified, corrupted or deleted. This risk is even higher if the application run with elevated permissions.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5445",
+          "properties": {
+            "category": "Critical Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
             ]
           }
         }

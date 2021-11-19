@@ -12,255 +12,45 @@
       },
       "results": [
         {
-          "ruleId": "CS0642",
+          "ruleId": "CS0114",
           "level": "warning",
-          "message": "Possible mistaken empty statement",
+          "message": "'CWE486_Compare_Classes_by_Name__Helper.ToString()' hides inherited member 'object.ToString()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__Helper.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 21,
-                  "endLine": 30,
-                  "endColumn": 22
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 31
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 2
           }
         },
         {
-          "ruleId": "CS0642",
+          "ruleId": "CS0114",
           "level": "warning",
-          "message": "Possible mistaken empty statement",
+          "message": "'CWE486_Compare_Classes_by_Name__Helper.ToString()' hides inherited member 'object.ToString()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/HelperClass/CWE486_Compare_Classes_by_Name__Helper.cs",
                 "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 31
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 25,
-                  "endLine": 37,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 25,
-                  "endLine": 38,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 25,
-                  "endLine": 38,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 25,
-                  "endLine": 37,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 25,
-                  "endLine": 45,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
+            "warningLevel": 2
           }
         },
         {
@@ -270,11 +60,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_02.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 50,
                   "startColumn": 13,
-                  "endLine": 48,
+                  "endLine": 50,
                   "endColumn": 15
                 }
               }
@@ -291,196 +81,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 13,
-                  "endLine": 48,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 54,
-                  "startColumn": 13,
-                  "endLine": 54,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 13,
-                  "endLine": 53,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 25,
-                  "endLine": 33,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 13,
-                  "endLine": 42,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0642",
-          "level": "warning",
-          "message": "Possible mistaken empty statement",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_06.cs",
                 "region": {
                   "startLine": 55,
                   "startColumn": 13,
@@ -501,11 +102,95 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
-                  "startLine": 91,
+                  "startLine": 50,
                   "startColumn": 13,
-                  "endLine": 91,
+                  "endLine": 50,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_04.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 13,
+                  "endLine": 56,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_15.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 13,
+                  "endLine": 44,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_15.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 13,
+                  "endLine": 57,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_15.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 13,
+                  "endLine": 97,
                   "endColumn": 15
                 }
               }
@@ -518,16 +203,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_08' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon08'.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_02' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_02.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 56
+                  "endColumn": 47
                 }
               }
             }
@@ -543,117 +228,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
                   "endLine": 12,
                   "endColumn": 55
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_11' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon11'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_02' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon02'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationifwithoutbracessingleline01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 80
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 89
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 75
                 }
               }
             }
@@ -669,33 +249,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_05.cs",
                 "region": {
                   "startLine": 27,
                   "startColumn": 18,
                   "endLine": 27,
                   "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_06' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon06'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
                 }
               }
             }
@@ -711,7 +270,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_05.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 18,
@@ -726,18 +285,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S125",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_05' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon05'.",
+          "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_06.cs",
                 "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 89
                 }
               }
             }
@@ -749,37 +308,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_01' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon01'.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_05' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_05.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_03' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon03'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
+                  "endColumn": 47
                 }
               }
             }
@@ -795,7 +333,91 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_07.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_11' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_11.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_04' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic04'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_04.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_01' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_01.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -810,34 +432,13 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_04' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon04'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -852,13 +453,34 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_09' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic09'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_09.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -879,11 +501,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_15.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 50,
                   "startColumn": 5,
-                  "endLine": 48,
+                  "endLine": 50,
                   "endColumn": 49
                 }
               }
@@ -896,16 +518,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_15' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon15'.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_12' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_12.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 56
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_08' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic08'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_08.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_16' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic16'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_16.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
                 }
               }
             }
@@ -921,7 +585,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -942,7 +606,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -963,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -980,16 +644,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_12' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon12'.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_15' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_15.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 56
+                  "endColumn": 47
                 }
               }
             }
@@ -1001,184 +665,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationifwithoutbracesmultiline01'.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_10' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 78
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_10' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon10'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_10.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_16' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon16'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_14' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon14'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_17' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon17'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 25,
-                  "endLine": 27,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_13' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon13'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_09' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon09'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 44
+                  "endColumn": 47
                 }
               }
             }
@@ -1194,7 +690,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_07.cs",
                 "region": {
                   "startLine": 27,
                   "startColumn": 17,
@@ -1211,15 +707,141 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE483_Incorrect_Block_Delimitation__semicolon_07' to match pascal case naming rules, consider using 'Cwe483IncorrectBlockDelimitationsemicolon07'.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_03' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic03'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_07' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_07.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_13' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_13.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_17' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_17.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__Helper' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNameHelper'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__Helper.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_14' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_14.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__Helper' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNameHelper'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/HelperClass/CWE486_Compare_Classes_by_Name__Helper.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
                   "endColumn": 56
                 }
               }
@@ -1236,7 +858,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -1251,18 +873,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Rename class 'CWE486_Compare_Classes_by_Name__basic_06' to match pascal case naming rules, consider using 'Cwe486CompareClassesbyNamebasic06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_06.cs",
                 "region": {
-                  "startLine": 34,
-                  "startColumn": 18,
-                  "endLine": 34,
-                  "endColumn": 30
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 47
                 }
               }
             }
@@ -1272,39 +894,18 @@
           }
         },
         {
-          "ruleId": "S1116",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Remove this empty statement.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 25,
-                  "endLine": 37,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_08.cs",
                 "region": {
                   "startLine": 27,
-                  "startColumn": 14,
+                  "startColumn": 25,
                   "endLine": 27,
-                  "endColumn": 26
+                  "endColumn": 43
                 }
               }
             }
@@ -1314,795 +915,18 @@
           }
         },
         {
-          "ruleId": "S1116",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Remove this empty statement.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 21,
-                  "endLine": 30,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 18,
-                  "endLine": 18,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_08.cs",
                 "region": {
                   "startLine": 32,
                   "startColumn": 25,
                   "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 18,
-                  "endLine": 35,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 25,
-                  "endLine": 38,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 18,
-                  "endLine": 18,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 18,
-                  "endLine": 34,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 25,
-                  "endLine": 37,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 18,
-                  "endLine": 42,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 25,
-                  "endLine": 45,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 18,
-                  "endLine": 35,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 25,
-                  "endLine": 38,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 18,
-                  "endLine": 42,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 18,
-                  "endLine": 38,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 9,
-                  "endLine": 31,
-                  "endColumn": 10
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 13,
-                  "endLine": 38,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 15,
-                  "endLine": 35,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 11,
-                  "endLine": 28,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
+                  "endColumn": 44
                 }
               }
             }
@@ -2118,7 +942,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
                   "startLine": 26,
                   "startColumn": 18,
@@ -2131,941 +955,12 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
                   "startLine": 26,
                   "startColumn": 13,
                   "endLine": 26,
                   "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 18,
-                  "endLine": 36,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 18,
-                  "endLine": 58,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 18,
-                  "endLine": 59,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_01.cs",
-                "region": {
-                  "startLine": 47,
-                  "startColumn": 14,
-                  "endLine": 47,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 13,
-                  "endLine": 46,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 13,
-                  "endLine": 39,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 15,
-                  "endLine": 43,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 13,
-                  "endLine": 39,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 13,
-                  "endLine": 38,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 15,
-                  "endLine": 19,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 15,
-                  "endLine": 36,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 15,
-                  "endLine": 19,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 15,
-                  "endLine": 36,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 18,
-                  "endLine": 59,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 18,
-                  "endLine": 58,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 15,
-                  "endLine": 35,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '!='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 18,
-                  "endLine": 45,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 13,
-                  "endLine": 45,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 66,
-                  "startColumn": 18,
-                  "endLine": 66,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_02.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_05.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 18,
-                  "endLine": 77,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_11.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_06.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 18,
-                  "endLine": 76,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_04.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 18,
-                  "endLine": 77,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_09.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_07.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 18,
-                  "endLine": 76,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_08.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 18,
-                  "endLine": 84,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 68,
-                  "startColumn": 18,
-                  "endLine": 68,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_03.cs",
-                "region": {
-                  "startLine": 68,
-                  "startColumn": 13,
-                  "endLine": 68,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 61,
-                  "startColumn": 18,
-                  "endLine": 61,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
-                "region": {
-                  "startLine": 74,
-                  "startColumn": 18,
-                  "endLine": 74,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_10.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
                 }
               }
             }
@@ -3081,11 +976,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_12.cs",
                 "region": {
-                  "startLine": 58,
+                  "startLine": 62,
                   "startColumn": 9,
-                  "endLine": 58,
+                  "endLine": 62,
                   "endColumn": 11
                 }
               }
@@ -3098,15 +993,15 @@
         {
           "ruleId": "S1871",
           "level": "warning",
-          "message": "Either merge this branch with the identical one on line 59 or change one of the implementations.",
+          "message": "Either merge this branch with the identical one on line 63 or change one of the implementations.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_12.cs",
                 "region": {
-                  "startLine": 72,
+                  "startLine": 78,
                   "startColumn": 9,
-                  "endLine": 83,
+                  "endLine": 91,
                   "endColumn": 10
                 }
               }
@@ -3115,11 +1010,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_12.cs",
                 "region": {
-                  "startLine": 59,
+                  "startLine": 63,
                   "startColumn": 9,
-                  "endLine": 70,
+                  "endLine": 76,
                   "endColumn": 10
                 }
               }
@@ -3130,59 +1025,30 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S1764",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 72,
                   "startColumn": 18,
-                  "endLine": 30,
-                  "endColumn": 30
+                  "endLine": 72,
+                  "endColumn": 19
                 }
               }
             }
           ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
+          "relatedLocations": [
             {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
-                  "startLine": 33,
-                  "startColumn": 25,
-                  "endLine": 33,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
-                "region": {
-                  "startLine": 33,
+                  "startLine": 72,
                   "startColumn": 13,
-                  "endLine": 33,
+                  "endLine": 72,
                   "endColumn": 14
                 }
               }
@@ -3193,18 +1059,18 @@
           }
         },
         {
-          "ruleId": "S1854",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__Helper.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 31
                 }
               }
             }
@@ -3214,312 +1080,52 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/HelperClass/CWE486_Compare_Classes_by_Name__Helper.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
+                "region": {
+                  "startLine": 47,
                   "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
+                  "endLine": 47,
+                  "endColumn": 19
                 }
               }
             }
           ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
+          "relatedLocations": [
             {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_03.cs",
                 "region": {
-                  "startLine": 33,
+                  "startLine": 47,
                   "startColumn": 13,
-                  "endLine": 33,
+                  "endLine": 47,
                   "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 25,
-                  "endLine": 32,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 18,
-                  "endLine": 53,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 18,
-                  "endLine": 59,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_13.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 18,
-                  "endLine": 49,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 15,
-                  "endLine": 31,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_14.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 18,
-                  "endLine": 71,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 18,
-                  "endLine": 48,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_15.cs",
-                "region": {
-                  "startLine": 79,
-                  "startColumn": 18,
-                  "endLine": 79,
-                  "endColumn": 30
                 }
               }
             }
@@ -3535,11 +1141,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_16.cs",
                 "region": {
-                  "startLine": 58,
+                  "startLine": 40,
                   "startColumn": 13,
-                  "endLine": 58,
+                  "endLine": 40,
                   "endColumn": 19
                 }
               }
@@ -3556,96 +1162,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE486_Compare_Classes_by_Name/CWE486_Compare_Classes_by_Name__basic_16.cs",
                 "region": {
-                  "startLine": 38,
+                  "startLine": 62,
                   "startColumn": 13,
-                  "endLine": 38,
+                  "endLine": 62,
                   "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 13,
-                  "endLine": 33,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_16.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'y'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE483_Incorrect_Block_Delimitation/CWE483_Incorrect_Block_Delimitation__semicolon_17.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 15,
-                  "endLine": 30,
-                  "endColumn": 18
                 }
               }
             }
@@ -3656,9 +1178,9 @@
         }
       ],
       "rules": {
-        "CS0162": {
-          "id": "CS0162",
-          "shortDescription": "Unreachable code detected",
+        "CS0114": {
+          "id": "CS0114",
+          "shortDescription": "Member hides inherited member; missing override keyword",
           "defaultLevel": "warning",
           "properties": {
             "category": "Compiler",
@@ -3669,9 +1191,9 @@
             ]
           }
         },
-        "CS0642": {
-          "id": "CS0642",
-          "shortDescription": "Possible mistaken empty statement",
+        "CS0162": {
+          "id": "CS0162",
+          "shortDescription": "Unreachable code detected",
           "defaultLevel": "warning",
           "properties": {
             "category": "Compiler",
@@ -3699,23 +1221,6 @@
             ]
           }
         },
-        "S1116": {
-          "id": "S1116",
-          "shortDescription": "Empty statements should be removed",
-          "fullDescription": "Empty statements, i.e. ;, are usually introduced by mistake, for example because:",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1116",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
         "S1118": {
           "id": "S1118",
           "shortDescription": "Utility classes should not have public constructors",
@@ -3724,23 +1229,6 @@
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
           "properties": {
             "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1199": {
-          "id": "S1199",
-          "shortDescription": "Nested code blocks should not be used",
-          "fullDescription": "Nested code blocks can be used to create a new scope and restrict the visibility of the variables defined inside it. Using this feature in a method typically indicates that the method has too many responsibilities, and should be refactored into smaller methods.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1199",
-          "properties": {
-            "category": "Minor Code Smell",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
@@ -3801,23 +1289,6 @@
             ]
           }
         },
-        "S1854": {
-          "id": "S1854",
-          "shortDescription": "Unused assignments should be removed",
-          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it's not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
         "S1871": {
           "id": "S1871",
           "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
@@ -3831,23 +1302,6 @@
               "C#",
               "SonarWay",
               "MainSourceScope"
-            ]
-          }
-        },
-        "S2245": {
-          "id": "S2245",
-          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
-          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
-          "properties": {
-            "category": "Critical Security Hotspot",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "NotConfigurable"
             ]
           }
         },

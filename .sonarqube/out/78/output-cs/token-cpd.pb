@@ -1,13 +1,13 @@
-ß
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_01.cs
+á
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_01.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_01 5
+/CWE482_Comparing_Instead_of_Assigning__basic_01 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -36,20 +36,24 @@
 ;. /
 bool 
 isZero 
-= 
-( 
-	zeroOrOne  
-==! #
-$num$ %
-)% &
-;& '
+= 
+false 
+; 
 if 
 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne !
+==" $
+$num% &
+)& '
+)' (
+==) +
+true, 0
+)0 1
 { 	
 IO 
 . 
@@ -107,20 +111,24 @@
 ;++. /
 bool,, 
 isZero,, 
-=,, 
-(,, 
-	zeroOrOne,,  
-==,,! #
-$num,,$ %
-),,% &
-;,,& '
+=,, 
+false,, 
+;,, 
 if-- 
 
-(-- 
-isZero-- 
-==-- 
-true-- 
-)-- 
+(-- 
+(-- 
+isZero-- 
+=-- 
+(-- 
+	zeroOrOne--  
+==--! #
+$num--$ %
+)--% &
+)--& '
+==--( *
+true--+ /
+)--/ 0
 {.. 	
 IO// 
 .// 
@@ -143,16 +151,16 @@
 ;11, -
 }22 
 }44 
-}55 ÷
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_02.cs
+}55 ¹ 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_02.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_02 5
+/CWE482_Comparing_Instead_of_Assigning__basic_02 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -187,19 +195,23 @@
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -259,19 +271,23 @@
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -321,19 +337,23 @@
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -372,16 +392,16 @@
 ;MM 
 }NN 
 }PP 
-}QQ Ü
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_03.cs
+}QQ ž!
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_03.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_03 5
+/CWE482_Comparing_Instead_of_Assigning__basic_03 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -418,19 +438,23 @@
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -492,19 +516,23 @@
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -556,19 +584,23 @@
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -607,16 +639,16 @@
 ;MM 
 }NN 
 }PP 
-}QQ ·!
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_04.cs
+}QQ ù"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_04.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_04 5
+/CWE482_Comparing_Instead_of_Assigning__basic_04 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -665,19 +697,23 @@
 ;""2 3
 bool## 
 isZero## 
-=## 
-(## 
-	zeroOrOne## $
-==##% '
-$num##( )
-)##) *
-;##* +
+=## 
+false## 
+;##  
 if$$ 
-($$ 
-isZero$$ 
-=$$ 
-true$$ 
-)$$ 
+($$ 
+($$ 
+isZero$$ 
+==$$ 
+($$ 
+	zeroOrOne$$ %
+==$$& (
+$num$$) *
+)$$* +
+)$$+ ,
+==$$- /
+true$$0 4
+)$$4 5
 {%% 
 IO&& 
 .&& 
@@ -737,19 +773,23 @@
 ;772 3
 bool88 
 isZero88 
-=88 
-(88 
-	zeroOrOne88 $
-==88% '
-$num88( )
-)88) *
-;88* +
+=88 
+false88 
+;88  
 if99 
-(99 
-isZero99 
-==99 
-true99 
-)99 
+(99 
+(99 
+isZero99 
+=99 
+(99 
+	zeroOrOne99 $
+==99% '
+$num99( )
+)99) *
+)99* +
+==99, .
+true99/ 3
+)993 4
 {:: 
 IO;; 
 .;; 
@@ -799,19 +839,23 @@
 ;FF2 3
 boolGG 
 isZeroGG 
-=GG 
-(GG 
-	zeroOrOneGG $
-==GG% '
-$numGG( )
-)GG) *
-;GG* +
+=GG 
+falseGG 
+;GG  
 ifHH 
-(HH 
-isZeroHH 
-==HH 
-trueHH 
-)HH 
+(HH 
+(HH 
+isZeroHH 
+=HH 
+(HH 
+	zeroOrOneHH $
+==HH% '
+$numHH( )
+)HH) *
+)HH* +
+==HH, .
+trueHH/ 3
+)HH3 4
 {II 
 IOJJ 
 .JJ 
@@ -850,16 +894,16 @@
 ;SS 
 }TT 
 }VV 
-}WW î 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_05.cs
+}WW °"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_05.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_05 5
+/CWE482_Comparing_Instead_of_Assigning__basic_05 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -906,19 +950,23 @@
 ;""2 3
 bool## 
 isZero## 
-=## 
-(## 
-	zeroOrOne## $
-==##% '
-$num##( )
-)##) *
-;##* +
+=## 
+false## 
+;##  
 if$$ 
-($$ 
-isZero$$ 
-=$$ 
-true$$ 
-)$$ 
+($$ 
+($$ 
+isZero$$ 
+==$$ 
+($$ 
+	zeroOrOne$$ %
+==$$& (
+$num$$) *
+)$$* +
+)$$+ ,
+==$$- /
+true$$0 4
+)$$4 5
 {%% 
 IO&& 
 .&& 
@@ -978,19 +1026,23 @@
 ;772 3
 bool88 
 isZero88 
-=88 
-(88 
-	zeroOrOne88 $
-==88% '
-$num88( )
-)88) *
-;88* +
+=88 
+false88 
+;88  
 if99 
-(99 
-isZero99 
-==99 
-true99 
-)99 
+(99 
+(99 
+isZero99 
+=99 
+(99 
+	zeroOrOne99 $
+==99% '
+$num99( )
+)99) *
+)99* +
+==99, .
+true99/ 3
+)993 4
 {:: 
 IO;; 
 .;; 
@@ -1040,19 +1092,23 @@
 ;FF2 3
 boolGG 
 isZeroGG 
-=GG 
-(GG 
-	zeroOrOneGG $
-==GG% '
-$numGG( )
-)GG) *
-;GG* +
+=GG 
+falseGG 
+;GG  
 ifHH 
-(HH 
-isZeroHH 
-==HH 
-trueHH 
-)HH 
+(HH 
+(HH 
+isZeroHH 
+=HH 
+(HH 
+	zeroOrOneHH $
+==HH% '
+$numHH( )
+)HH) *
+)HH* +
+==HH, .
+trueHH/ 3
+)HH3 4
 {II 
 IOJJ 
 .JJ 
@@ -1091,16 +1147,16 @@
 ;SS 
 }TT 
 }VV 
-}WW !
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_06.cs
+}WW Ñ"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_06.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_06 5
+/CWE482_Comparing_Instead_of_Assigning__basic_06 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -1144,19 +1200,23 @@
 ;!!2 3
 bool"" 
 isZero"" 
-="" 
-("" 
-	zeroOrOne"" $
-==""% '
-$num""( )
-)"") *
-;""* +
+="" 
+false"" 
+;""  
 if## 
-(## 
-isZero## 
-=## 
-true## 
-)## 
+(## 
+(## 
+isZero## 
+==## 
+(## 
+	zeroOrOne## %
+==##& (
+$num##) *
+)##* +
+)##+ ,
+==##- /
+true##0 4
+)##4 5
 {$$ 
 IO%% 
 .%% 
@@ -1218,19 +1278,23 @@
 ;662 3
 bool77 
 isZero77 
-=77 
-(77 
-	zeroOrOne77 $
-==77% '
-$num77( )
-)77) *
-;77* +
+=77 
+false77 
+;77  
 if88 
-(88 
-isZero88 
-==88 
-true88 
-)88 
+(88 
+(88 
+isZero88 
+=88 
+(88 
+	zeroOrOne88 $
+==88% '
+$num88( )
+)88) *
+)88* +
+==88, .
+true88/ 3
+)883 4
 {99 
 IO:: 
 .:: 
@@ -1282,19 +1346,23 @@
 ;EE2 3
 boolFF 
 isZeroFF 
-=FF 
-(FF 
-	zeroOrOneFF $
-==FF% '
-$numFF( )
-)FF) *
-;FF* +
+=FF 
+falseFF 
+;FF  
 ifGG 
-(GG 
-isZeroGG 
-==GG 
-trueGG 
-)GG 
+(GG 
+(GG 
+isZeroGG 
+=GG 
+(GG 
+	zeroOrOneGG $
+==GG% '
+$numGG( )
+)GG) *
+)GG* +
+==GG, .
+trueGG/ 3
+)GG3 4
 {HH 
 IOII 
 .II 
@@ -1333,16 +1401,16 @@
 ;RR 
 }SS 
 }UU 
-}VV à 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_07.cs
+}VV ¢"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_07.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_07 5
+/CWE482_Comparing_Instead_of_Assigning__basic_07 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -1385,19 +1453,23 @@
 ;!!2 3
 bool"" 
 isZero"" 
-="" 
-("" 
-	zeroOrOne"" $
-==""% '
-$num""( )
-)"") *
-;""* +
+="" 
+false"" 
+;""  
 if## 
-(## 
-isZero## 
-=## 
-true## 
-)## 
+(## 
+(## 
+isZero## 
+==## 
+(## 
+	zeroOrOne## %
+==##& (
+$num##) *
+)##* +
+)##+ ,
+==##- /
+true##0 4
+)##4 5
 {$$ 
 IO%% 
 .%% 
@@ -1459,19 +1531,23 @@
 ;662 3
 bool77 
 isZero77 
-=77 
-(77 
-	zeroOrOne77 $
-==77% '
-$num77( )
-)77) *
-;77* +
+=77 
+false77 
+;77  
 if88 
-(88 
-isZero88 
-==88 
-true88 
-)88 
+(88 
+(88 
+isZero88 
+=88 
+(88 
+	zeroOrOne88 $
+==88% '
+$num88( )
+)88) *
+)88* +
+==88, .
+true88/ 3
+)883 4
 {99 
 IO:: 
 .:: 
@@ -1523,19 +1599,23 @@
 ;EE2 3
 boolFF 
 isZeroFF 
-=FF 
-(FF 
-	zeroOrOneFF $
-==FF% '
-$numFF( )
-)FF) *
-;FF* +
+=FF 
+falseFF 
+;FF  
 ifGG 
-(GG 
-isZeroGG 
-==GG 
-trueGG 
-)GG 
+(GG 
+(GG 
+isZeroGG 
+=GG 
+(GG 
+	zeroOrOneGG $
+==GG% '
+$numGG( )
+)GG) *
+)GG* +
+==GG, .
+trueGG/ 3
+)GG3 4
 {HH 
 IOII 
 .II 
@@ -1574,16 +1654,16 @@
 ;RR 
 }SS 
 }UU 
-}VV •#
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_08.cs
+}VV ×$
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_08.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_08 5
+/CWE482_Comparing_Instead_of_Assigning__basic_08 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -1642,19 +1722,23 @@
 ;))2 3
 bool** 
 isZero** 
-=** 
-(** 
-	zeroOrOne** $
-==**% '
-$num**( )
-)**) *
-;*** +
+=** 
+false** 
+;**  
 if++ 
-(++ 
-isZero++ 
-=++ 
-true++ 
-)++ 
+(++ 
+(++ 
+isZero++ 
+==++ 
+(++ 
+	zeroOrOne++ %
+==++& (
+$num++) *
+)++* +
+)+++ ,
+==++- /
+true++0 4
+)++4 5
 {,, 
 IO-- 
 .-- 
@@ -1716,19 +1800,23 @@
 ;>>2 3
 bool?? 
 isZero?? 
-=?? 
-(?? 
-	zeroOrOne?? $
-==??% '
-$num??( )
-)??) *
-;??* +
+=?? 
+false?? 
+;??  
 if@@ 
-(@@ 
-isZero@@ 
-==@@ 
-true@@ 
-)@@ 
+(@@ 
+(@@ 
+isZero@@ 
+=@@ 
+(@@ 
+	zeroOrOne@@ $
+==@@% '
+$num@@( )
+)@@) *
+)@@* +
+==@@, .
+true@@/ 3
+)@@3 4
 {AA 
 IOBB 
 .BB 
@@ -1780,19 +1868,23 @@
 ;MM2 3
 boolNN 
 isZeroNN 
-=NN 
-(NN 
-	zeroOrOneNN $
-==NN% '
-$numNN( )
-)NN) *
-;NN* +
+=NN 
+falseNN 
+;NN  
 ifOO 
-(OO 
-isZeroOO 
-==OO 
-trueOO 
-)OO 
+(OO 
+(OO 
+isZeroOO 
+=OO 
+(OO 
+	zeroOrOneOO $
+==OO% '
+$numOO( )
+)OO) *
+)OO* +
+==OO, .
+trueOO/ 3
+)OO3 4
 {PP 
 IOQQ 
 .QQ 
@@ -1831,16 +1923,16 @@
 ;ZZ 
 }[[ 
 }]] 
-}^^ „ 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_09.cs
+}^^ Æ!
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_09.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_09 5
+/CWE482_Comparing_Instead_of_Assigning__basic_09 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -1877,19 +1969,23 @@
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -1951,19 +2047,23 @@
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -2015,19 +2115,23 @@
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -2066,16 +2170,16 @@
 ;MM 
 }NN 
 }PP 
-}QQ æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_10.cs
+}QQ ¨!
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_10.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_10 5
+/CWE482_Comparing_Instead_of_Assigning__basic_10 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -2113,19 +2217,23 @@ staticTrue 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -2187,19 +2295,23 @@ staticTrue 
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -2252,19 +2364,23 @@ staticTrue>> 
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -2303,16 +2419,16 @@ staticTrue>> 
 ;MM 
 }NN 
 }PP 
-}QQ Õ 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_11.cs
+}QQ —"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_11.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_11 5
+/CWE482_Comparing_Instead_of_Assigning__basic_11 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -2351,19 +2467,23 @@ staticTrue>> 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -2427,19 +2547,23 @@ staticTrue>> 
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -2493,19 +2617,23 @@ staticTrue>> 
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -2544,16 +2672,16 @@ staticTrue>> 
 ;MM 
 }NN 
 }PP 
-}QQ á#
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_12.cs
+}QQ ã%
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_12.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_12 5
+/CWE482_Comparing_Instead_of_Assigning__basic_12 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -2592,19 +2720,23 @@ staticTrue>> 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -2643,19 +2775,23 @@ staticTrue>> 
 ;&&2 3
 bool'' 
 isZero'' 
-='' 
-('' 
-	zeroOrOne'' $
-==''% '
-$num''( )
-)'') *
-;''* +
+='' 
+false'' 
+;''  
 if(( 
-((( 
-isZero(( 
-==(( 
-true(( 
-)(( 
+((( 
+((( 
+isZero(( 
+=(( 
+((( 
+	zeroOrOne(( $
+==((% '
+$num((( )
+)(() *
+)((* +
+==((, .
+true((/ 3
+)((3 4
 {)) 
 IO** 
 .** 
@@ -2709,19 +2845,23 @@ staticTrue>> 
 ;662 3
 bool77 
 isZero77 
-=77 
-(77 
-	zeroOrOne77 $
-==77% '
-$num77( )
-)77) *
-;77* +
+=77 
+false77 
+;77  
 if88 
-(88 
-isZero88 
-==88 
-true88 
-)88 
+(88 
+(88 
+isZero88 
+=88 
+(88 
+	zeroOrOne88 $
+==88% '
+$num88( )
+)88) *
+)88* +
+==88, .
+true88/ 3
+)883 4
 {99 
 IO:: 
 .:: 
@@ -2760,19 +2900,23 @@ staticTrue>> 
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -2807,16 +2951,16 @@ staticTrue>> 
 ;LL 
 }MM 
 }OO 
-}PP é 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_13.cs
+}PP «"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_13.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_13 5
+/CWE482_Comparing_Instead_of_Assigning__basic_13 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -2855,19 +2999,23 @@ staticTrue>> 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -2931,19 +3079,23 @@ staticTrue>> 
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -2997,19 +3149,23 @@ staticTrue>> 
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -3048,16 +3204,16 @@ staticTrue>> 
 ;MM 
 }NN 
 }PP 
-}QQ Ë 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_14.cs
+}QQ "
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_14.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_14 5
+/CWE482_Comparing_Instead_of_Assigning__basic_14 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -3097,19 +3253,23 @@ staticFive 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -3174,19 +3334,23 @@ staticFive** 
 ;112 3
 bool22 
 isZero22 
-=22 
-(22 
-	zeroOrOne22 $
-==22% '
-$num22( )
-)22) *
-;22* +
+=22 
+false22 
+;22  
 if33 
-(33 
-isZero33 
-==33 
-true33 
-)33 
+(33 
+(33 
+isZero33 
+=33 
+(33 
+	zeroOrOne33 $
+==33% '
+$num33( )
+)33) *
+)33* +
+==33, .
+true33/ 3
+)333 4
 {44 
 IO55 
 .55 
@@ -3241,19 +3405,23 @@ staticFive>> 
 ;@@2 3
 boolAA 
 isZeroAA 
-=AA 
-(AA 
-	zeroOrOneAA $
-==AA% '
-$numAA( )
-)AA) *
-;AA* +
+=AA 
+falseAA 
+;AA  
 ifBB 
-(BB 
-isZeroBB 
-==BB 
-trueBB 
-)BB 
+(BB 
+(BB 
+isZeroBB 
+=BB 
+(BB 
+	zeroOrOneBB $
+==BB% '
+$numBB( )
+)BB) *
+)BB* +
+==BB, .
+trueBB/ 3
+)BB3 4
 {CC 
 IODD 
 .DD 
@@ -3292,16 +3460,16 @@ staticFive>> 
 ;MM 
 }NN 
 }PP 
-}QQ $
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_15.cs
+}QQ Ï%
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_15.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_15 5
+/CWE482_Comparing_Instead_of_Assigning__basic_15 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -3338,19 +3506,23 @@ staticFive>> 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 {   
 IO!! 
 .!! 
@@ -3426,19 +3598,23 @@ staticFive>> 
 ;772 3
 bool88 
 isZero88 
-=88 
-(88 
-	zeroOrOne88 $
-==88% '
-$num88( )
-)88) *
-;88* +
+=88 
+false88 
+;88  
 if99 
-(99 
-isZero99 
-==99 
-true99 
-)99 
+(99 
+(99 
+isZero99 
+=99 
+(99 
+	zeroOrOne99 $
+==99% '
+$num99( )
+)99) *
+)99* +
+==99, .
+true99/ 3
+)993 4
 {:: 
 IO;; 
 .;; 
@@ -3492,19 +3668,23 @@ staticFive>> 
 ;HH2 3
 boolII 
 isZeroII 
-=II 
-(II 
-	zeroOrOneII $
-==II% '
-$numII( )
-)II) *
-;II* +
+=II 
+falseII 
+;II  
 ifJJ 
-(JJ 
-isZeroJJ 
-==JJ 
-trueJJ 
-)JJ 
+(JJ 
+(JJ 
+isZeroJJ 
+=JJ 
+(JJ 
+	zeroOrOneJJ $
+==JJ% '
+$numJJ( )
+)JJ) *
+)JJ* +
+==JJ, .
+trueJJ/ 3
+)JJ3 4
 {KK 
 IOLL 
 .LL 
@@ -3556,16 +3736,16 @@ staticFive>> 
 ;ZZ 
 }[[ 
 }]] 
-}^^ å
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_16.cs
+}^^ ç
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_16.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_16 5
+/CWE482_Comparing_Instead_of_Assigning__basic_16 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -3599,19 +3779,23 @@ staticFive>> 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -3662,19 +3846,23 @@ staticFive>> 
 ;--2 3
 bool.. 
 isZero.. 
-=.. 
-(.. 
-	zeroOrOne.. $
-==..% '
-$num..( )
-)..) *
-;..* +
+=.. 
+false.. 
+;..  
 if// 
-(// 
-isZero// 
-==// 
-true// 
-)// 
+(// 
+(// 
+isZero// 
+=// 
+(// 
+	zeroOrOne// $
+==//% '
+$num//( )
+)//) *
+)//* +
+==//, .
+true/// 3
+)//3 4
 {00 
 IO11 
 .11 
@@ -3711,16 +3899,16 @@ staticFive>> 
 ;:: 
 };; 
 }== 
-}>> Õ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_17.cs
+}>> ×
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_17.cs
 	namespace 	
 	testcases
  
 . 1
-%CWE481_Assigning_Instead_of_Comparing 9
+%CWE482_Comparing_Instead_of_Assigning 9
 { 
 class ;
-/CWE481_Assigning_Instead_of_Comparing__basic_17 5
+/CWE482_Comparing_Instead_of_Assigning__basic_17 5
 :6 7
 AbstractTestCase8 H
 { 
@@ -3764,19 +3952,23 @@ staticFive>> 
 ;2 3
 bool 
 isZero 
-= 
-( 
-	zeroOrOne $
-==% '
-$num( )
-)) *
-;* +
+= 
+false 
+;  
 if 
-( 
-isZero 
-= 
-true 
-) 
+( 
+( 
+isZero 
+== 
+( 
+	zeroOrOne %
+==& (
+$num) *
+)* +
+)+ ,
+==- /
+true0 4
+)4 5
 { 
 IO   
 .   
@@ -3835,19 +4027,23 @@ staticFive>> 
 ;,,2 3
 bool-- 
 isZero-- 
-=-- 
-(-- 
-	zeroOrOne-- $
-==--% '
-$num--( )
-)--) *
-;--* +
+=-- 
+false-- 
+;--  
 if.. 
-(.. 
-isZero.. 
-==.. 
-true.. 
-).. 
+(.. 
+(.. 
+isZero.. 
+=.. 
+(.. 
+	zeroOrOne.. $
+==..% '
+$num..( )
+)..) *
+)..* +
+==.., .
+true../ 3
+)..3 4
 {// 
 IO00 
 .00 
@@ -3883,12 +4079,12 @@ staticFive>> 
 }99 
 };; 
 }<< éH
-‹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\Program.cs
+‹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\Program.cs
 	namespace		 	
 	testcases		
  
 .		 1
-%CWE481_Assigning_Instead_of_Comparing		 9
+%CWE482_Comparing_Instead_of_Assigning		 9
 {
 
  
@@ -4140,7 +4336,7 @@ StackTrace55 %
 {aa# $
 (cc 
 newcc ;
-/CWE481_Assigning_Instead_of_Comparing__basic_01cc 7
+/CWE482_Comparing_Instead_of_Assigning__basic_01cc 7
 (cc7 8
 )cc8 9
 )cc9 :
@@ -4152,7 +4348,7 @@ StackTrace55 %
 ;ccu v
 (dd 
 newdd ;
-/CWE481_Assigning_Instead_of_Comparing__basic_02dd 7
+/CWE482_Comparing_Instead_of_Assigning__basic_02dd 7
 (dd7 8
 )dd8 9
 )dd9 :
@@ -4164,7 +4360,7 @@ StackTrace55 %
 ;ddu v
 (ee 
 newee ;
-/CWE481_Assigning_Instead_of_Comparing__basic_03ee 7
+/CWE482_Comparing_Instead_of_Assigning__basic_03ee 7
 (ee7 8
 )ee8 9
 )ee9 :
@@ -4176,7 +4372,7 @@ StackTrace55 %
 ;eeu v
 (ff 
 newff ;
-/CWE481_Assigning_Instead_of_Comparing__basic_04ff 7
+/CWE482_Comparing_Instead_of_Assigning__basic_04ff 7
 (ff7 8
 )ff8 9
 )ff9 :
@@ -4188,7 +4384,7 @@ StackTrace55 %
 ;ffu v
 (gg 
 newgg ;
-/CWE481_Assigning_Instead_of_Comparing__basic_05gg 7
+/CWE482_Comparing_Instead_of_Assigning__basic_05gg 7
 (gg7 8
 )gg8 9
 )gg9 :
@@ -4200,7 +4396,7 @@ StackTrace55 %
 ;ggu v
 (hh 
 newhh ;
-/CWE481_Assigning_Instead_of_Comparing__basic_06hh 7
+/CWE482_Comparing_Instead_of_Assigning__basic_06hh 7
 (hh7 8
 )hh8 9
 )hh9 :
@@ -4212,7 +4408,7 @@ StackTrace55 %
 ;hhu v
 (ii 
 newii ;
-/CWE481_Assigning_Instead_of_Comparing__basic_07ii 7
+/CWE482_Comparing_Instead_of_Assigning__basic_07ii 7
 (ii7 8
 )ii8 9
 )ii9 :
@@ -4224,7 +4420,7 @@ StackTrace55 %
 ;iiu v
 (jj 
 newjj ;
-/CWE481_Assigning_Instead_of_Comparing__basic_08jj 7
+/CWE482_Comparing_Instead_of_Assigning__basic_08jj 7
 (jj7 8
 )jj8 9
 )jj9 :
@@ -4236,7 +4432,7 @@ StackTrace55 %
 ;jju v
 (kk 
 newkk ;
-/CWE481_Assigning_Instead_of_Comparing__basic_09kk 7
+/CWE482_Comparing_Instead_of_Assigning__basic_09kk 7
 (kk7 8
 )kk8 9
 )kk9 :
@@ -4248,7 +4444,7 @@ StackTrace55 %
 ;kku v
 (ll 
 newll ;
-/CWE481_Assigning_Instead_of_Comparing__basic_10ll 7
+/CWE482_Comparing_Instead_of_Assigning__basic_10ll 7
 (ll7 8
 )ll8 9
 )ll9 :
@@ -4260,7 +4456,7 @@ StackTrace55 %
 ;llu v
 (mm 
 newmm ;
-/CWE481_Assigning_Instead_of_Comparing__basic_11mm 7
+/CWE482_Comparing_Instead_of_Assigning__basic_11mm 7
 (mm7 8
 )mm8 9
 )mm9 :
@@ -4272,7 +4468,7 @@ StackTrace55 %
 ;mmu v
 (nn 
 newnn ;
-/CWE481_Assigning_Instead_of_Comparing__basic_12nn 7
+/CWE482_Comparing_Instead_of_Assigning__basic_12nn 7
 (nn7 8
 )nn8 9
 )nn9 :
@@ -4284,7 +4480,7 @@ StackTrace55 %
 ;nnu v
 (oo 
 newoo ;
-/CWE481_Assigning_Instead_of_Comparing__basic_13oo 7
+/CWE482_Comparing_Instead_of_Assigning__basic_13oo 7
 (oo7 8
 )oo8 9
 )oo9 :
@@ -4296,7 +4492,7 @@ StackTrace55 %
 ;oou v
 (pp 
 newpp ;
-/CWE481_Assigning_Instead_of_Comparing__basic_14pp 7
+/CWE482_Comparing_Instead_of_Assigning__basic_14pp 7
 (pp7 8
 )pp8 9
 )pp9 :
@@ -4308,7 +4504,7 @@ StackTrace55 %
 ;ppu v
 (qq 
 newqq ;
-/CWE481_Assigning_Instead_of_Comparing__basic_15qq 7
+/CWE482_Comparing_Instead_of_Assigning__basic_15qq 7
 (qq7 8
 )qq8 9
 )qq9 :
@@ -4320,7 +4516,7 @@ StackTrace55 %
 ;qqu v
 (rr 
 newrr ;
-/CWE481_Assigning_Instead_of_Comparing__basic_16rr 7
+/CWE482_Comparing_Instead_of_Assigning__basic_16rr 7
 (rr7 8
 )rr8 9
 )rr9 :
@@ -4332,7 +4528,7 @@ StackTrace55 %
 ;rru v
 (ss 
 newss ;
-/CWE481_Assigning_Instead_of_Comparing__basic_17ss 7
+/CWE482_Comparing_Instead_of_Assigning__basic_17ss 7
 (ss7 8
 )ss8 9
 )ss9 :
@@ -4410,7 +4606,7 @@ StackTrace55 %
 ““ 
 }”” 
 }•• Ç
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\Properties\AssemblyInfo.cs
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 

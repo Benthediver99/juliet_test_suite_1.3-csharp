@@ -1,24 +1,11 @@
-›
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_01.cs	 8j-r !$%&')*+,./023Ç	 &+,./Å
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_02.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIÅ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_03.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIÜ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_04.cs 8j	&-29?Fr2 !"#$%'()*./01345678:;<=@ABCDEGHIJLMNOPRSxÇ"$%'(0378:;BDEGHNOÜ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_05.cs 8j	&-29?Fr2 !"#$%'()*./01345678:;<=@ABCDEGHIJLMNOPRSxÇ"$%'(0378:;BDEGHNOÖ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_06.cs 8j	%,18>Er1 !"#$&'()-./02345679:;<?@ABCDFGHIKLMNOQRxÇ!#$&'/2679:ACDFGMNÖ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_07.cs 8j	%,18>Er1 !"#$&'()-./02345679:;<?@ABCDFGHIKLMNOQRxÇ!#$&'/2679:ACDFGMNé
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_08.cs 8	j	-49@FMr8 "#$%'()*+,./015678:;<=>?ABCDGHIJKLNOPQSTUVWYZxÇ$)+,./7:>?ABIKLNOUVÅ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_09.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIÅ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_10.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIÅ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_11.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIÄ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_12.cs 8j (/6>r/!"#$%&')*+,012345789:;<=?@ABDEFGIJxÇ!"&')*24578<=?@FÅ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_13.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIÅ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_14.cs 8j ',39@r0!"#$()*+-./0124567:;<=>?ABCDFGHIJLMxÇ!"*-1245<>?ABHIñ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_15.cs 8j!&-39@HMr; "#$%'()*./01245678:;<=>ABCDEFGIJKLNOPQSTUVWYZxÇ "#$'(04578:;<CFGIJKNOUVÏ
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_16.cs 8j (/r#!"#$%)*+,-.012346789;<xÇ!"#+-.0128Ë
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_17.cs 8j '.r!!"#$()*+,-/01245679:xÇ!"*,-/06ì
-ÖC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\Program.cs 
-8j &(9?ABPRVX\^bdhjnptvz|ÄÇrC	
-"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqswy}ÉÑÖx
-Ç"*+,-0459CDEFGHIJK∫
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\Properties\AssemblyInfo.csj !"r	
+ø
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\CWE561_Dead_Code__unused_method_01_bad.cs 8jr	
+Ç∆
+óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\CWE561_Dead_Code__unused_method_01_good1.cs 8jr	
+ #$ÇÖ
+vC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\Program.cs 
+8j &(9?ABPRVX\^bdhjnptvz|ÄÇrD	
+"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegikmqswy}ÉÑÖx
+Ç"*+,-0459CDEFGHIJKi´
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\Properties\AssemblyInfo.csj !"r	
 #$

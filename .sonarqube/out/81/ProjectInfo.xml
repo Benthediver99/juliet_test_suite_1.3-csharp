@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE486_Compare_Classes_by_Name</ProjectName>
+  <ProjectName>CWE506_Embedded_Malicious_Code</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>a65452dc-88f7-0c74-d73a-07c69cd1efa6</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name.csproj</FullPath>
+  <ProjectGuid>c68a7e2d-4ec6-47ed-2c44-729e28f06469</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE506_Embedded_Malicious_Code\CWE506_Embedded_Malicious_Code.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\81\FilesToAnalyze.txt" />

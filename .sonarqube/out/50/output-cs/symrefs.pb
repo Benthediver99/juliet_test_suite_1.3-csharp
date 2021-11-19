@@ -1,617 +1,783 @@
-‰
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_01.cs
+“
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_01.cs
 
- ,
-
- 
-  !!, /
-   !!< H
-!! )""" 8
-
-'' 
-,, )) 
-.. #22, 2
-11 22? K
-22 )33" 8º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_02.cs
-
- ,
+ 8
 
  
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
+ 11( ,
+ #((F Z
+$$ 33 "77 ,
+%%( +(() ,((= @
+(( &,,L U
+**  ),,A J33% .
+,,$ -..E N
+..( 111 !
 
-MM º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_03.cs
+;; 
+@@ == 
+BB WW( ,
+CC YY "]] ,(
+DD( +FF NN) ,NN= @
+FF GG3 <
+GG 'KK" 6NNF Z
+II, 4KK 
+NN &RRL U
+PP  )RRA JYY% .
+RR$ -TTE N
+TT( 1WW !Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02.cs
 
- ,
+ 8
 
  
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
 
-MM Ú
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_04.cs
+ãã Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs
 
- ,
- )## GG 
- *33 
+ 8
+
+ 
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
+
+ãã »
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04.cs
+
+ 8
+ )## pp 
+ *GG 
 
 !! 
-%%! $))0 3
-(( #))@ L
-)) -**& <
-11 UU 
-::! '>>0 6
-== #>>C O
->> -??& <
-EE VV 
-II! 'MM0 6
-LL #MMC O
-MM -NN& <
+%% 99, 0
+'' '00J ^
+,, !;; &??" 0
+--, /00- 000A D
+00! *44P Y
+22$ -44E N;;) 2
+44( 166I R
+66, 599 %
+EE 
+ìì 
+NN cc, 0
+OO !ee &ii" 0(
+PP, /RR  #ZZ- 0ZZA D
+RR SS7 @
+SS +WW& :ZZJ ^
+UU0 8WW 
+ZZ! *^^P Y
+\\$ -^^E Nee) 2
+^^( 1``I R
+``, 5cc %
+nn 
+îî 
+rr 
+áá, 0"
+ss !
+ââ &
+çç" 0(
+tt, /vv  #~~- 0~~A D
+vv ww7 @
+ww +{{& :~~J ^
+yy0 8{{ 
+~~! *
+ÇÇP Y$
 
-SS Ú
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_05.cs
+ÄÄ$ -
+ÇÇE N
+ââ) 2
 
- ,
- ## GG 
- 33 
+ÇÇ( 1
+ÑÑI R
+
+ÑÑ, 5
+áá %
+
+ëë »
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs
+
+ 8
+ ## pp 
+ GG 
 
 !! 
-%%! $))0 3
-(( #))@ L
-)) -**& <
-11 UU 
-::! '>>0 6
-== #>>C O
->> -??& <
-EE VV 
-II! 'MM0 6
-LL #MMC O
-MM -NN& <
+%% 99, 0
+'' '00J ^
+,, !;; &??" 0
+--, /00- 000A D
+00! *44P Y
+22$ -44E N;;) 2
+44( 166I R
+66, 599 %
+EE 
+ìì 
+NN cc, 0
+OO !ee &ii" 0(
+PP, /RR  #ZZ- 0ZZA D
+RR SS7 @
+SS +WW& :ZZJ ^
+UU0 8WW 
+ZZ! *^^P Y
+\\$ -^^E Nee) 2
+^^( 1``I R
+``, 5cc %
+nn 
+îî 
+rr 
+áá, 0"
+ss !
+ââ &
+çç" 0(
+tt, /vv  #~~- 0~~A D
+vv ww7 @
+ww +{{& :~~J ^
+yy0 8{{ 
+~~! *
+ÇÇP Y$
 
-SS Ê
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_06.cs
+ÄÄ$ -
+ÇÇE N
+ââ) 2
 
- ,(
- ("" 22 FF 
+ÇÇ( 1
+ÑÑI R
+
+ÑÑ, 5
+áá %
+
+ëë ∫
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs
+
+ 8(
+ ("" FF oo 
 
    
-$$! $((0 3
-'' #((@ L
-(( -))& <
-00 TT 
-99! '==0 6
-<< #==C O
-== ->>& <
-DD UU 
-HH! 'LL0 6
-KK #LLC O
-LL -MM& <
+$$ 88, 0
+&& '//J ^
+++ !:: &>>" 0
+,,, ///- 0//A D
+//! *33P Y
+11$ -33E N::) 2
+33( 155I R
+55, 588 %
+DD 
+íí 
+MM bb, 0
+NN !dd &hh" 0(
+OO, /QQ  #YY- 0YYA D
+QQ RR7 @
+RR +VV& :YYJ ^
+TT0 8VV 
+YY! *]]P Y
+[[$ -]]E Ndd) 2
+]]( 1__I R
+__, 5bb %
+mm 
+ìì 
+qq 
+ÜÜ, 0"
+rr !
+àà &
+åå" 0(
+ss, /uu  #}}- 0}}A D
+uu vv7 @
+vv +zz& :}}J ^
+xx0 8zz 
+}}! *
+ÅÅP Y"
+$ -
+ÅÅE N
+àà) 2
 
-RR Ê
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_07.cs
+ÅÅ( 1
+ÉÉI R
 
- ,(
- "" 22 FF 
+ÉÉ, 5
+ÜÜ %
+
+êê ∫
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs
+
+ 8(
+ "" FF oo 
 
    
-$$! $((0 3
-'' #((@ L
-(( -))& <
-00 TT 
-99! '==0 6
-<< #==C O
-== ->>& <
-DD UU 
-HH! 'LL0 6
-KK #LLC O
-LL -MM& <
+$$ 88, 0
+&& '//J ^
+++ !:: &>>" 0
+,,, ///- 0//A D
+//! *33P Y
+11$ -33E N::) 2
+33( 155I R
+55, 588 %
+DD 
+íí 
+MM bb, 0
+NN !dd &hh" 0(
+OO, /QQ  #YY- 0YYA D
+QQ RR7 @
+RR +VV& :YYJ ^
+TT0 8VV 
+YY! *]]P Y
+[[$ -]]E Ndd) 2
+]]( 1__I R
+__, 5bb %
+mm 
+ìì 
+qq 
+ÜÜ, 0"
+rr !
+àà &
+åå" 0(
+ss, /uu  #}}- 0}}A D
+uu vv7 @
+vv +zz& :}}J ^
+xx0 8zz 
+}}! *
+ÅÅP Y"
+$ -
+ÅÅE N
+àà) 2
 
-RR Ú
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_08.cs
+ÅÅ( 1
+ÉÉI R
 
- ,
- *** NN 
-## +:: 
+ÉÉ, 5
+ÜÜ %
+
+êê ÷
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs
+
+ 8
+ *** ww 
+## +NN 
 
 (( 
-,,! $000 3
-// #00@ L
-00 -11& <
-88 \\ 
-AA! 'EE0 6
-DD #EEC O
-EE -FF& <
-LL ]] 
-PP! 'TT0 6
-SS #TTC O
-TT -UU& <
+,, @@, 0
+.. '77J ^
+33 !BB &FF" 0
+44, /77- 077A D
+77! *;;P Y
+99$ -;;E NBB) 2
+;;( 1==I R
+==, 5@@ %
+LL 
+öö 
+UU jj, 0
+VV !ll &pp" 0(
+WW, /YY  #aa- 0aaA D
+YY ZZ7 @
+ZZ +^^& :aaJ ^
+\\0 8^^ 
+aa! *eeP Y
+cc$ -eeE Nll) 2
+ee( 1ggI R
+gg, 5jj %
+uu 
+õõ 
+yy 
+éé, 0"
+zz !
+êê &
+îî" 0,
+{{, /}}  #
+ÖÖ- 0
+ÖÖA D
+}} ~~7 @"
+~~ +
+ÇÇ& :
+ÖÖJ ^
 
-ZZ º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_09.cs
+ÄÄ0 8
+ÇÇ 
 
- ,
+ÖÖ! *
+ââP Y$
 
- 
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
+áá$ -
+ââE N
+êê) 2
 
-MM º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_10.cs
+ââ( 1
+ããI R
 
- ,
+ãã, 5
+éé %
 
- 
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
+òò Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_09.cs
 
-MM º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_11.cs
-
- ,
-
- 
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ë
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_12.cs
-
- ,
+ 8
 
  
-! $##0 3
-"" ###@ L
-## -$$& <
-))! '--0 6
-,, #--C O
--- -..& <
-55 OO 
-99! '==0 6
-<< #==C O
-== ->>& <
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
 
-MM º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_13.cs
+ãã Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_10.cs
 
- ,
-
- 
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_14.cs
-
- ,
-
- 
-! $##0 3
-"" ###@ L
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM º
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_15.cs
-
- ,
+ 8
 
  
-  ! $$$0 3
-## #$$@ L
-$$ -%%& <
-11 \\ 
-::! '>>0 6
-== #>>C O
->> -??& <
-FF ]] 
-KK! 'OO0 6
-NN #OOC O
-OO -PP& <
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
 
-ZZ ‰
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_16.cs
+ãã Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_11.cs
 
- ,
+ 8
 
  
-! $##0 3
-"" ###@ L
-## -$$& <
-,, == 
-00! '440 6
-33 #44C O
-44 -55& <
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
 
-;; §
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_17.cs
+ãã §
 
- ,
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs
+
+ 8
+
+ 
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+== RR, 0
+>> !TT &XX" 0(
+??, /AA  #II- 0IIA D
+AA BB7 @
+BB +FF& :IIJ ^
+DD0 8FF 
+II! *MMP Y
+KK$ -MME NTT) 2
+MM( 1OOI R
+OO, 5RR %
+^^ 
+¢¢ 
+bb ww, 0
+cc !yy &}}" 0(
+dd, /ff  #nn- 0nnA D
+ff gg7 @
+gg +kk& :nnJ ^
+ii0 8kk 
+nn! *rrP Y
+pp$ -rrE Nyy) 2
+rr( 1ttI R
+tt, 5ww %
+
+ÅÅ 
+ññ, 0$
+
+ÇÇ !
+òò &
+úú" 00
+
+ÉÉ, /
+ÖÖ  #
+çç- 0
+ççA D
+
+ÖÖ 
+ÜÜ7 @$
+
+ÜÜ +
+ää& :
+ççJ ^
+
+àà0 8
+ää 
+
+çç! *
+ëëP Y$
+
+èè$ -
+ëëE N
+òò) 2
+
+ëë( 1
+ììI R
+
+ìì, 5
+ññ %
+
+†† Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13.cs
+
+ 8
+
+ 
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
+
+ãã Ü
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14.cs
+
+ 8
+
+ 
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? 
+çç 
+HH ]], 0
+II !__ &cc" 0(
+JJ, /LL  #TT- 0TTA D
+LL MM7 @
+MM +QQ& :TTJ ^
+OO0 8QQ 
+TT! *XXP Y
+VV$ -XXE N__) 2
+XX( 1ZZI R
+ZZ, 5]] %
+hh 
+éé 
+ll 
+ÅÅ, 0"
+mm !
+ÉÉ &
+áá" 0(
+nn, /pp  #xx- 0xxA D
+pp qq7 @
+qq +uu& :xxJ ^
+ss0 8uu 
+xx! *||P Y 
+zz$ -||E N
+ÉÉ) 2
+||( 1~~I R
+~~, 5
+ÅÅ %
+
+ãã ö
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs
+
+ 8
+
+ 
+   44, 0
+"" '++J ^
+'' !66 &::" 0
+((, /++- 0++A D
+++! *//P Y
+--$ -//E N66) 2
+//( 111I R
+11, 544 %
+EE 
+öö 
+NN cc, 0
+OO !ee &ii" 0(
+PP, /RR  #ZZ- 0ZZA D
+RR SS7 @
+SS +WW& :ZZJ ^
+UU0 8WW 
+ZZ! *^^P Y
+\\$ -^^E Nee) 2
+^^( 1``I R
+``, 5cc %
+oo 
+õõ 
+tt 
+ââ, 0"
+uu !
+ãã &
+èè" 0,
+vv, /xx  #
+ÄÄ- 0
+ÄÄA D
+xx yy7 @ 
+yy +}}& :
+ÄÄJ ^
+{{0 8}} 
+
+ÄÄ! *
+ÑÑP Y$
+
+ÇÇ$ -
+ÑÑE N
+ãã) 2
+
+ÑÑ( 1
+ÜÜI R
+
+ÜÜ, 5
+ââ %
+
+òò “
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs
+
+ 8
+
+ 
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+@@ ff 
+DD YY, 0
+EE ![[ &__" 0(
+FF, /HH  #PP- 0PPA D
+HH II7 @
+II +MM& :PPJ ^
+KK0 8MM 
+PP! *TTP Y
+RR$ -TTE N[[) 2
+TT( 1VVI R
+VV, 5YY %
+
+dd í
+πC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_17.cs
+
+ 8
 
  
    
-! $##0 3
-"" ###@ L
-## -$$& <
-++ ;; 
--- -- -- 
-//! '330 6
-22 #33C O
-33 -44& <
+ 33, 0
+!! '**J ^
+&& !55 &99" 0
+'', /**- 0**A D
+**! *..P Y
+,,$ -..E N55) 2
+..( 100I R
+00, 533 %
+?? dd 
+AA AA AA 
+CC XX, 0
+DD !ZZ &^^" 0(
+EE, /GG  #OO- 0OOA D
+GG HH7 @
+HH +LL& :OOJ ^
+JJ0 8LL 
+OO! *SSP Y
+QQ$ -SSE NZZ) 2
+SS( 1UUI R
+UU, 5XX %
 
-99 Â
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_01.cs
-
- -
-
- 
- !!!, 0
-   !!= I
-!! )""" 8
-
-'' 
-,, )) 
-.. #22, 2
-11 22? K
-22 )33" 8Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_02.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_03.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Û
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_04.cs
-
- -
- )## GG 
- *33 
-
-!! 
-%%! %))0 4
-(( #))A M
-)) -**& <
-11 UU 
-::! '>>0 6
-== #>>C O
->> -??& <
-EE VV 
-II! 'MM0 6
-LL #MMC O
-MM -NN& <
-
-SS Û
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_05.cs
-
- -
- ## GG 
- 33 
-
-!! 
-%%! %))0 4
-(( #))A M
-)) -**& <
-11 UU 
-::! '>>0 6
-== #>>C O
->> -??& <
-EE VV 
-II! 'MM0 6
-LL #MMC O
-MM -NN& <
-
-SS Á
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_06.cs
-
- -(
- ("" 22 FF 
-
-   
-$$! %((0 4
-'' #((A M
-(( -))& <
-00 TT 
-99! '==0 6
-<< #==C O
-== ->>& <
-DD UU 
-HH! 'LL0 6
-KK #LLC O
-LL -MM& <
-
-RR Á
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_07.cs
-
- -(
- "" 22 FF 
-
-   
-$$! %((0 4
-'' #((A M
-(( -))& <
-00 TT 
-99! '==0 6
-<< #==C O
-== ->>& <
-DD UU 
-HH! 'LL0 6
-KK #LLC O
-LL -MM& <
-
-RR Û
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_08.cs
-
- -
- *** NN 
-## +:: 
-
-(( 
-,,! %000 4
-// #00A M
-00 -11& <
-88 \\ 
-AA! 'EE0 6
-DD #EEC O
-EE -FF& <
-LL ]] 
-PP! 'TT0 6
-SS #TTC O
-TT -UU& <
-
-ZZ Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_09.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_10.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_11.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM È
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_12.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-))! '--0 6
-,, #--C O
--- -..& <
-55 OO 
-99! '==0 6
-<< #==C O
-== ->>& <
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_13.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_14.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-++ OO 
-44! '880 6
-77 #88C O
-88 -99& <
-?? PP 
-CC! 'GG0 6
-FF #GGC O
-GG -HH& <
-
-MM Ω
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_15.cs
-
- -
-
- 
-  ! %$$0 4
-## #$$A M
-$$ -%%& <
-11 \\ 
-::! '>>0 6
-== #>>C O
->> -??& <
-FF ]] 
-KK! 'OO0 6
-NN #OOC O
-OO -PP& <
-
-ZZ Â
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_16.cs
-
- -
-
- 
-! %##0 4
-"" ###A M
-## -$$& <
-,, == 
-00! '440 6
-33 #44C O
-44 -55& <
-
-;; •
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_17.cs
-
- -
-
- 
-   
-! %##0 4
-"" ###A M
-## -$$& <
-++ ;; 
--- -- -- 
-//! '330 6
-22 #33C O
-33 -44& <
-
-99 õ
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\Program.cs
+bb ü
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\Program.cs
 
  
 
@@ -624,17 +790,14 @@
 22 55 
 OO  CC 
 UU  DD 
-[[  EE 
+[[  EE 
+qq  FF 
+ww  GG 
+}}  HH 
 
-ÇÇ  FF 
+ÉÉ  II 
 
-àà  GG 
+ââ  JJ 
 
-éé  HH 
-
-îî  II 
-
-öö  JJ 
-
-††  KK ó
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\Properties\AssemblyInfo.cs
+èè  KK °
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\Properties\AssemblyInfo.cs

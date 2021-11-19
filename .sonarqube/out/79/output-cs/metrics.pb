@@ -1,48 +1,52 @@
-Ú
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_01.cs 8j-r  !$%&')*+,-./01245xÇ	 &+-/1ó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_02.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLMó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_03.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLMú
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_04.cs 8
-j	$-29AHr: !"#$%&'()*./013456789:;<=>?BCDEFGHIJKLMNPQRSTVWx
-Ç "$&(0379;=DFHJLRSú
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_05.cs 8
-j	$-29AHr: !"#$%&'()*./013456789:;<=>?BCDEFGHIJKLMNPQRSTVWx
-Ç "$&(0379;=DFHJLRSõ
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_06.cs 8
-j	#,18@Gr9 !"#$%&'()-./023456789:;<=>ABCDEFGHIJKLMOPQRSUVx
-Ç!#%'/268:<CEGIKQRõ
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_07.cs 8
-j	#,18@Gr9 !"#$%&'()-./023456789:;<=>ABCDEFGHIJKLMOPQRSUVx
-Ç!#%'/268:<CEGIKQR§
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_08.cs 8j	+49@HOr@ !"#%&'()*+,-./015678:;<=>?@ABCDEFIJKLMNOPQRSTUWXYZ[]^x
-Ç"')+-/7:>@BDKMOQSYZó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_09.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLMó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_10.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLMó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_11.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLMô
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_12.cs 8	j(18Br: !"#$%&'()*+,-.23456789:;<=>?@ABCDEFGHJKLMOPxÇ "&(*,468:<@BDFLó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_13.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLMó
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_14.cs 8
-j',3;Br8 !"#$()*+-./0123456789<=>?@ABCDEFGHJKLMNPQx
-Ç "*-1357>@BDFLM¨
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_15.cs 8
-j&-39BJQrC !"#$%'()*./012456789:;<=>?@CDEFGHIJKLMNOPRSTUWXYZ[]^x	Ç!#$'(04579;=>EHJLNORSYZˇ
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_16.cs 8j(/r( !"#$%)*+,-./012345689:;=>xÇ "#+-/134:˚
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning__basic_17.cs 8j'.r& !"#$()*+,-./012346789;<xÇ "*,.028∆
-ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\Program.cs& 
-8j%&(9?ABPRVX\^btxz~ÄÑÜäåêírZ	
-"$*+,-./024579;=CDEFGHIJKLMOSUY[_acdefghijklmnopqrsuw{}ÅÉáâçèìîïx
-Ç("*+,-0459CDEFGHIJKcdefghijklmnopqrs¿
-õC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\Properties\AssemblyInfo.csj !"r	
+ì
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs 8j)r(	
+"#$&'*+,-.012346789;<xÇ&'*,-028è
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01.cs 8j'r%	
+ !"$%()*+-./01345689xÇ$%(*-/5¸
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_01.cs 8j!15r$ !"#$'()*,-./02345678:;xÇ !#)/02457¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_02.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUV¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_03.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUV´
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_04.cs 8
+j%)05=AGOSr@ !"#$&'()*+,-12346789:;<>?@ABCDEHIJKLMNPQRSTUVWYZ[\]_`x
+Ç #$&()+36;<>@ACJMNPRSU[\´
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_05.cs 8
+j%)05=AGOSr@ !"#$&'()*+,-12346789:;<>?@ABCDEHIJKLMNPQRSTUVWYZ[\]_`x
+Ç #$&()+36;<>@ACJMNPRSU[\™
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_06.cs 8
+j$(/4<@FNRr? !"#%&'()*+,012356789:;=>?@ABCDGHIJKLMOPQRSTUVXYZ[\^_x
+Ç"#%'(*25:;=?@BILMOQRTZ[™
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_07.cs 8
+j$(/4<@FNRr? !"#%&'()*+,012356789:;=>?@ABCDGHIJKLMOPQRSTUVXYZ[\^_x
+Ç"#%'(*25:;=?@BILMOQRTZ[≥
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_08.cs 8j,07<DHNVZrF !"#%&'()*+-./0123489:;=>?@ABCEFGHIJKLOPQRSTUWXYZ[\]^`abcdfgx
+Ç"'*+-/02:=BCEGHJQTUWYZ\bc¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_09.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUV¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_10.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUV¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_11.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUV≠
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_12.cs  8	j	#,07?CLPrB !"#$%&'()*+-./0123489:;<=>@ABCDEFGHIJKMNOPQRSTVWXY[\xÇ "#%*+-/02:=>@BCEJKMOPRX¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_13.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUV¶
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_14.cs 8
+j	#*/7;AIMr> !"#$%&'+,-.012345689:;<=>?BCDEFGHJKLMNOPQSTUVWYZx
+Ç "#%-0568:;=DGHJLMOUVª
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_15.cs$ 8
+j $)06=AHQUZrI!"#$%&'(*+,-12345789:;<>?@ABCDEFIJKLMNOPRSTUVWXY[\]^`abcdfgx	Ç !#$&'*+378;<>@ACDKOPRTUWX[\bcâ
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_16.cs 8j#+37r, !"#$%&'(,-./012456789:;<>?@ACDxÇ "#%&.124679:@Ö
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_17.cs 8j#*26r* !"#$%&'+,-./013456789:<=>?ABxÇ "#%-013568>…
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\Program.cs( 
+8j&&(9?ABPRVX\^bvz|ÄÇÜàåéíîr\	
+"$*+,-./024579;=CDEFGHIJKLMOSUY[_acdefghijklmnopqrstuwy}ÉÖâãèëïñóx
+Ç*"*+,-0459CDEFGHIJKcdefghijklmnopqrstuæ
+ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\Properties\AssemblyInfo.csj !"r	
 #$

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE539_Information_Exposure_Through_Persistent_Cookie</ProjectName>
+  <ProjectName>CWE546_Suspicious_Comment</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>2f64101a-4638-e8f6-150b-e0893f3b3a20</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie.csproj</FullPath>
+  <ProjectGuid>2393c409-0f10-3637-3431-5b826f1b8a2f</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\89\FilesToAnalyze.txt" />

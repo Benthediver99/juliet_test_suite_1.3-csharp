@@ -1,544 +1,551 @@
-¬
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_01.cs
+◊
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_01.cs
 
- B
+ -
 
- 
- ## $$J R
-   "" 
-## 
-$$ %%D K
+ 
+   !! 
 
-%% !
+%% 
+** '' 
+-- 009 =119 =
+.. 22 (
+// 00 11 22: CÕ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_02.cs
 
-)) 
-.. ++ 
-00  22 ;;= N
-33 CC HHD K<
-44( .66 77 99) /99@ F99L R
-99 &==L U
-;;  )==A J
-==$ -??E N
-??( 1CC" +
+ -
 
-HH !∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_02.cs
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
- B
+KK Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_03.cs
 
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
+ -
 
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
+KK É
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_04.cs
 
-oo %
+ -
+   )%% EE 
+!! *11 
 
-ss ∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_03.cs
+## 
+(( )) 
+// SS 
+99 <<= A=== A
+:: >> (
+;; "<< == >>> G
+CC TT 
+HH KK= ALL= A
+II MM (
+JJ "KK LL MM> G
 
- B
+QQ É
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_05.cs
 
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
+ -
+   %% EE 
+!! 11 
 
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
+## 
+(( )) 
+// SS 
+99 <<= A=== A
+:: >> (
+;; "<< == >>> G
+CC TT 
+HH KK= ALL= A
+II MM (
+JJ "KK LL MM> G
 
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
+QQ ˜
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_06.cs
 
-oo %
+ -(
+   ($$ 00 DD 
 
-ss 
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_04.cs
+"" 
+'' (( 
+.. RR 
+88 ;;= A<<= A
+99 == (
+:: ";; << ==> G
+BB SS 
+GG JJ= AKK= A
+HH LL (
+II "JJ KK LL> G
 
- B
-   )%% [[ 
-!! *55 
+PP ˜
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_07.cs
 
-## 
-'' ++ ,,N V
-(( ** ++ 
-,, --H O
+ -(
+   $$ 00 DD 
 
--- %
-33 {{ 
-<< $>> GGA R
-?? OO #TTH O<
-@@, 2BB CC EE- 3EED JEEP V
-EE! *IIP Y
-GG$ -IIE N
-II( 1KKI R
-KK, 5OO& /
+"" 
+'' (( 
+.. RR 
+88 ;;= A<<= A
+99 == (
+:: ";; << ==> G
+BB SS 
+GG JJ= AKK= A
+HH LL (
+II "JJ KK LL> G
 
-TT %
-YY || 
-]] $__ hhA R
-`` pp #uuH O<
-aa, 2cc dd ff- 3ffD JffP V
-ff! *jjP Y
-hh$ -jjE N
-jj( 1llI R
-ll, 5pp& /
+PP É
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_08.cs
 
-uu %
+ -
+   *,, LL 
+%% +88 
 
-yy 
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_05.cs
+** 
+// 00 
+66 ZZ 
+@@ CC= ADD= A
+AA EE (
+BB "CC DD EE> G
+JJ [[ 
+OO RR= ASS= A
+PP TT (
+QQ "RR SS TT> G
 
- B
-   %% [[ 
-!! 55 
+XX Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_09.cs
 
-## 
-'' ++ ,,N V
-(( ** ++ 
-,, --H O
+ -
 
--- %
-33 {{ 
-<< $>> GGA R
-?? OO #TTH O<
-@@, 2BB CC EE- 3EED JEEP V
-EE! *IIP Y
-GG$ -IIE N
-II( 1KKI R
-KK, 5OO& /
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
-TT %
-YY || 
-]] $__ hhA R
-`` pp #uuH O<
-aa, 2cc dd ff- 3ffD JffP V
-ff! *jjP Y
-hh$ -jjE N
-jj( 1llI R
-ll, 5pp& /
+KK Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_10.cs
 
-uu %
+ -
 
-yy ‰
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_06.cs
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
- B(
-   ($$ 44 ZZ 
+KK Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_11.cs
 
-"" 
-&& ** ++N V
-'' )) ** 
-++ ,,H O
+ -
 
-,, %
-22 zz 
-;; $== FFA R
->> NN #SSH O<
-??, 2AA BB DD- 3DDD JDDP V
-DD! *HHP Y
-FF$ -HHE N
-HH( 1JJI R
-JJ, 5NN& /
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
-SS %
-XX {{ 
-\\ $^^ ggA R
-__ oo #ttH O<
-``, 2bb cc ee- 3eeD JeeP V
-ee! *iiP Y
-gg$ -iiE N
-ii( 1kkI R
-kk, 5oo& /
+KK ó
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_12.cs
 
-tt %
+ -
 
-xx ‰
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_07.cs
+ 
+"" ## 
+(( ++= A,,= A
+)) -- (
+** "++ ,, --> G
+33 MM 
+88 ;;= A<<= A
+99 == (
+:: ";; << ==> G
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
- B(
-   $$ 44 ZZ 
+KK Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_13.cs
 
-"" 
-&& ** ++N V
-'' )) ** 
-++ ,,H O
+ -
 
-,, %
-22 zz 
-;; $== FFA R
->> NN #SSH O<
-??, 2AA BB DD- 3DDD JDDP V
-DD! *HHP Y
-FF$ -HHE N
-HH( 1JJI R
-JJ, 5NN& /
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
-SS %
-XX {{ 
-\\ $^^ ggA R
-__ oo #ttH O<
-``, 2bb cc ee- 3eeD JeeP V
-ee! *iiP Y
-gg$ -iiE N
-ii( 1kkI R
-kk, 5oo& /
+KK Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_14.cs
 
-tt %
+ -
 
-xx ˆ
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_08.cs
+ 
+"" ## 
+)) MM 
+33 66= A77= A
+44 88 (
+55 "66 77 88> G
+== NN 
+BB EE= AFF= A
+CC GG (
+DD "EE FF GG> G
 
- B
-   *,, bb 
-%% +<< 
+KK Õ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_15.cs
 
-** 
-.. 22 33N V
-// 11 22 
-33 44H O
+ -
 
-44 %
-:: 
-ÇÇ 
-CC $EE NNA R
-FF VV #[[H O<
-GG, 2II JJ LL- 3LLD JLLP V
-LL! *PPP Y
-NN$ -PPE N
-PP( 1RRI R
-RR, 5VV& /
+ 
+## $$ 
+// ZZ 
+99 <<= A=== A
+:: >> (
+;; "<< == >>> G
+DD [[ 
+JJ MM= ANN= A
+KK OO (
+LL "MM NN OO> G
 
-[[ %
-`` 
-ÉÉ 
-dd $ff ooA R
-gg ww #||H O<
-hh, 2jj kk mm- 3mmD JmmP V
-mm! *qqP Y
-oo$ -qqE N
-qq( 1ssI R
-ss, 5ww& /
+XX ◊
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_16.cs
 
-|| %
+ -
 
-ÄÄ ∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_09.cs
+ 
+"" ## 
+** ;; 
+// 22= A33= A
+00 44 (
+11 "22 33 44> G
 
- B
+99 ó
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__File_17.cs
 
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
-
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
-
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
-
-oo %
-
-ss ∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_10.cs
-
- B
+ -
 
  
-!! %% &&N V
-"" $$ %% 
-&& ''H O
+   
+"" ## 
+)) 99 
+++ ++ ++ 
+.. 11= A22= A
+// 33 (
+00 "11 22 33> G
 
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
+77 ‘
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_01.cs
 
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
+ 4
 
-oo %
+ 
+   !! 
 
-ss ∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_11.cs
+%% 
+** '' 
+-- 000 4660 4
+.. 00 
+66 
+
+;; << ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_02.cs
 
- B
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_03.cs
+
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ ˆ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_04.cs
+
+ 4
+   )%% OO 
+!! *11 
+
+## 
+(( )) 
+// gg 
+99 <<4 8BB4 8
+:: << BB 
+GG HH 
+MM hh 
+RR UU4 8[[4 8
+SS UU [[ 
+`` aa 
+
+ee ˆ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_05.cs
+
+ 4
+   %% OO 
+!! 11 
+
+## 
+(( )) 
+// gg 
+99 <<4 8BB4 8
+:: << BB 
+GG HH 
+MM hh 
+RR UU4 8[[4 8
+SS UU [[ 
+`` aa 
+
+ee Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_06.cs
+
+ 4(
+   ($$ 00 NN 
+
+"" 
+'' (( 
+.. ff 
+88 ;;4 8AA4 8
+99 ;; AA 
+FF GG 
+LL gg 
+QQ TT4 8ZZ4 8
+RR TT ZZ 
+__ `` 
+
+dd Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_07.cs
+
+ 4(
+   $$ 00 NN 
+
+"" 
+'' (( 
+.. ff 
+88 ;;4 8AA4 8
+99 ;; AA 
+FF GG 
+LL gg 
+QQ TT4 8ZZ4 8
+RR TT ZZ 
+__ `` 
+
+dd ˆ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_08.cs
+
+ 4
+   *,, VV 
+%% +88 
+
+** 
+// 00 
+66 nn 
+@@ CC4 8II4 8
+AA CC II 
+NN OO 
+TT oo 
+YY \\4 8bb4 8
+ZZ \\ bb 
+gg hh 
+
+ll ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_09.cs
+
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_10.cs
+
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_11.cs
+
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ Ä
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_12.cs
+
+ 4
+
+ 
+"" ## 
+(( ++4 8114 8
+)) ++ 11 
+66 77 
+== kk 
+BB EE4 8KK4 8
+CC EE KK 
+PP QQ 
+VV YY4 8__4 8
+WW YY __ 
+dd ee 
+
+ii ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_13.cs
+
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_14.cs
+
+ 4
+
+ 
+"" ## 
+)) aa 
+33 664 8<<4 8
+44 66 << 
+AA BB 
+GG bb 
+LL OO4 8UU4 8
+MM OO UU 
+ZZ [[ 
+
+__ ¿
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_15.cs
+
+ 4
+
+ 
+## $$ 
+// nn 
+99 <<4 8BB4 8
+:: << BB 
+GG HH 
+NN oo 
+TT WW4 8]]4 8
+UU WW ]] 
+bb cc 
+
+ll ‘
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_16.cs
+
+ 4
+
+ 
+"" ## 
+** EE 
+// 224 8884 8
+00 22 88 
+== >> 
+
+CC î
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control__RegistryKey_17.cs
+
+ 4
 
  
-!! %% &&N V
-"" $$ %% 
-&& ''H O
+   
+"" ## 
+)) CC 
+++ ++ ++ 
+.. 114 8774 8
+// 11 77 
+<< == 
 
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
-
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
-
-oo %
-
-ss é
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_12.cs
-
- B
-
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
-
-'' %
-++ $-- 66A R
-.. >> #CCH O<
-//, 211 22 44- 344D J44P V
-44! *88P Y
-66$ -88E N
-88( 1::I R
-::, 5>>& /
-
-CC %
-II 
-áá 
-MM $OO XXA R
-PP `` #eeH O<
-QQ, 2SS TT VV- 3VVD JVVP V
-VV! *ZZP Y
-XX$ -ZZE N
-ZZ( 1\\I R
-\\, 5``& /
-
-ee %
-ii $kk ttA R 
-ll || #
-ÅÅH O<
-mm, 2oo pp rr- 3rrD JrrP V
-rr! *vvP Y
-tt$ -vvE N
-vv( 1xxI R
-xx, 5||& /
-
-ÅÅ %
-
-ÖÖ ∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_13.cs
-
- B
-
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
-
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
-
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
-
-oo %
-
-ss ∫
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_14.cs
-
- B
-
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
-
-'' %
--- uu 
-66 $88 AAA R
-99 II #NNH O<
-::, 2<< == ??- 3??D J??P V
-??! *CCP Y
-AA$ -CCE N
-CC( 1EEI R
-EE, 5II& /
-
-NN %
-SS vv 
-WW $YY bbA R
-ZZ jj #ooH O<
-[[, 2]] ^^ ``- 3``D J``P V
-``! *ddP Y
-bb$ -ddE N
-dd( 1ffI R
-ff, 5jj& /
-
-oo %
-
-ss ¿
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_15.cs
-
- B
-
- 
-"" && ''N V
-## %% && 
-'' ((H O
-
-(( %
-33 
-ÇÇ 
-<< $>> GGA R
-?? OO #TTH O<
-@@, 2BB CC EE- 3EED JEEP V
-EE! *IIP Y
-GG$ -IIE N
-II( 1KKI R
-KK, 5OO& /
-
-TT %
-ZZ 
-ÉÉ 
-__ $aa jjA R
-bb rr #wwH O<
-cc, 2ee ff hh- 3hhD JhhP V
-hh! *llP Y
-jj$ -llE N
-ll( 1nnI R
-nn, 5rr& /
-
-ww %
-
-ÄÄ ¬
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_16.cs
-
- B
-
- 
-!! %% &&N V
-"" $$ %% 
-&& ''H O
-
-'' %
-.. QQ 
-22 $44 ==A R
-55 EE #JJH O<
-66, 288 99 ;;- 3;;D J;;P V
-;;! *??P Y
-==$ -??E N
-??( 1AAI R
-AA, 5EE& /
-
-JJ %
-
-OO Ç
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords__NetworkCredential_17.cs
-
- B
-
- 
-   
-!! %% &&N V
-"" $$ %% 
-&& ''H O
-
-'' %
--- OO 
-// // // 
-11 $33 <<A R
-44 DD #IIH O<
-55, 277 88 ::- 3::D J::P V
-::! *>>P Y
-<<$ ->>E N
->>( 1@@I R
-@@, 5DD& /
-
-II %
-
-MM ù
-åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\Program.cs
+AA õ
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\Program.cs
 
  
 
@@ -551,14 +558,17 @@
 22 55 
 OO  CC 
 UU  DD 
-kk  EE 
-qq  FF 
-ww  GG 
-}}  HH 
+||  EE 
 
-ÉÉ  II 
+ÇÇ  FF 
 
-ââ  JJ 
+àà  GG 
 
-èè  KK ü
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\Properties\AssemblyInfo.cs
+éé  HH 
+
+îî  II 
+
+öö  JJ 
+
+††  KK ó
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\Properties\AssemblyInfo.cs

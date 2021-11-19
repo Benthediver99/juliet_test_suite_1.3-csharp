@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE606_Unchecked_Loop_Condition</ProjectName>
+  <ProjectName>CWE609_Double_Checked_Locking</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>20ca4709-9b75-2d0d-8570-98013535eab3</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE606_Unchecked_Loop_Condition\CWE606_Unchecked_Loop_Condition.csproj</FullPath>
+  <ProjectGuid>ac0a1962-b793-2255-ace6-8fafc043bf12</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE609_Double_Checked_Locking\CWE609_Double_Checked_Locking.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\101\FilesToAnalyze.txt" />

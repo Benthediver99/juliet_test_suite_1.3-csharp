@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -39,7 +39,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -60,12 +60,75 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
                   "endLine": 40,
                   "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE674_Uncontrolled_Recursion__long_01' to match pascal case naming rules, consider using 'Cwe674UncontrolledRecursionlong01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/CWE674_Uncontrolled_Recursion__long_01.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 11,
+                  "endLine": 11,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2190",
+          "level": "warning",
+          "message": "Add a way to break out of this method's recursion.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/CWE674_Uncontrolled_Recursion__missing_base_01.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 29,
+                  "endLine": 15,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/CWE674_Uncontrolled_Recursion__missing_base_01.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 32,
+                  "endLine": 24,
+                  "endColumn": 44
                 }
               }
             }
@@ -81,7 +144,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -98,16 +161,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE667_Improper_Locking__basic_01' to match pascal case naming rules, consider using 'Cwe667ImproperLockingbasic01'.",
+          "message": "Rename class 'CWE674_Uncontrolled_Recursion__missing_base_01' to match pascal case naming rules, consider using 'Cwe674UncontrolledRecursionmissingbase01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/CWE667_Improper_Locking__basic_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/CWE674_Uncontrolled_Recursion__missing_base_01.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 11,
                   "endLine": 12,
-                  "endColumn": 44
+                  "endColumn": 57
                 }
               }
             }
@@ -117,65 +180,18 @@
           }
         },
         {
-          "ruleId": "S2696",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Remove this set, which updates a 'static' field from an instance method.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/CWE667_Improper_Locking__basic_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE674_Uncontrolled_Recursion/CWE674_Uncontrolled_Recursion__missing_base_01.cs",
                 "region": {
-                  "startLine": 22,
-                  "startColumn": 13,
-                  "endLine": 22,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/CWE667_Improper_Locking__basic_01.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 28,
-                  "endLine": 14,
+                  "startLine": 45,
+                  "startColumn": 32,
+                  "endLine": 45,
                   "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2696",
-          "level": "warning",
-          "message": "Make the enclosing instance method 'static' or remove this set on the 'static' field.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/CWE667_Improper_Locking__basic_01.cs",
-                "region": {
-                  "startLine": 40,
-                  "startColumn": 17,
-                  "endLine": 40,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE667_Improper_Locking/CWE667_Improper_Locking__basic_01.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 28,
-                  "endLine": 30,
-                  "endColumn": 46
                 }
               }
             }
@@ -237,19 +253,37 @@
             ]
           }
         },
-        "S2696": {
-          "id": "S2696",
-          "shortDescription": "Instance members should not write to \"static\" fields",
-          "fullDescription": "Correctly updating a static field from a non-static method is tricky to get right and could easily lead to bugs if there are multiple class instances and/or multiple threads in play. ",
+        "S2190": {
+          "id": "S2190",
+          "shortDescription": "Recursion should not be infinite",
+          "fullDescription": "Recursion happens when control enters a loop that has no exit. This can happen a method invokes itself, when a pair of methods invoke each other, or when goto statements are used to move between two segments of code. It can be a useful tool, but unless the method includes a provision to break out of the recursion and return, the recursion will continue until the stack overflows and the program crashes.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2696",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2190",
           "properties": {
-            "category": "Critical Code Smell",
+            "category": "Blocker Bug",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
               "SonarWay",
-              "MainSourceScope"
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
+          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
             ]
           }
         }

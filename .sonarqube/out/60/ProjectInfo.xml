@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE379_Temporary_File_Creation_in_Insecure_Dir</ProjectName>
+  <ProjectName>CWE390_Error_Without_Action</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>a455d7cf-a712-ca00-1e2f-dfe7d40ffdd7</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir.csproj</FullPath>
+  <ProjectGuid>3d03ff31-db9c-a446-b0fc-7378daef9b4d</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\60\FilesToAnalyze.txt" />

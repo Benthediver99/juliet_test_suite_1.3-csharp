@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 51,
+                  "startLine": 48,
                   "startColumn": 13,
-                  "endLine": 51,
+                  "endLine": 48,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_02.cs",
                 "region": {
-                  "startLine": 46,
+                  "startLine": 48,
                   "startColumn": 13,
-                  "endLine": 46,
+                  "endLine": 48,
                   "endColumn": 15
                 }
               }
@@ -60,11 +60,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_04.cs",
                 "region": {
-                  "startLine": 46,
+                  "startLine": 54,
                   "startColumn": 13,
-                  "endLine": 46,
+                  "endLine": 54,
                   "endColumn": 15
                 }
               }
@@ -81,49 +81,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 13,
-                  "endLine": 52,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
-                "region": {
-                  "startLine": 40,
-                  "startColumn": 13,
-                  "endLine": 40,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_06.cs",
                 "region": {
                   "startLine": 53,
                   "startColumn": 13,
@@ -144,7 +102,49 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 13,
+                  "endLine": 42,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 13,
+                  "endLine": 55,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
                 "region": {
                   "startLine": 83,
                   "startColumn": 13,
@@ -161,16 +161,79 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_01' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb01'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_09' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_09.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateTrue' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_08' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb08'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_08.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_05.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 30
                 }
               }
             }
@@ -186,7 +249,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -201,18 +264,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_04' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb04'.",
+          "message": "Make 'privateFive' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs",
                 "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 28
                 }
               }
             }
@@ -224,16 +287,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_03' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb03'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_05' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_05.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -245,16 +308,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_12' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb12'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_07' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb07'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -270,7 +333,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -285,34 +348,13 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_15' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb15'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -329,16 +371,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_13' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb13'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_03' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb03'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -350,16 +392,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_08' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb08'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_04' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_04.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -371,16 +413,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_11' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb11'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_02' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_02.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -392,16 +434,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_06' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb06'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_06' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_06.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_12' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb12'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_12.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_01' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_01.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -417,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -432,39 +516,18 @@
           }
         },
         {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_02' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb02'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_11' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb11'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_11.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -480,7 +543,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -501,7 +564,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -522,54 +585,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
                 "region": {
-                  "startLine": 46,
+                  "startLine": 48,
                   "startColumn": 5,
-                  "endLine": 46,
+                  "endLine": 48,
                   "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_07' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb07'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_09' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb09'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
                 }
               }
             }
@@ -585,7 +606,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -606,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -627,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -642,18 +663,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_08.cs",
                 "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 29
+                  "startLine": 30,
+                  "startColumn": 25,
+                  "endLine": 30,
+                  "endColumn": 43
                 }
               }
             }
@@ -669,7 +690,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -684,18 +705,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_15' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 18,
-                  "endLine": 30,
-                  "endColumn": 30
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -707,16 +728,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_14' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb14'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_17' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb17'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_17.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -728,16 +749,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_05' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb05'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_16' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_16.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -749,16 +770,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_16' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb16'.",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_10' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_10.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endLine": 24,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_14' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_14.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE615_Info_Exposure_by_Comment__Web_13' to match pascal case naming rules, consider using 'Cwe615InfoExposurebyCommentWeb13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 46
                 }
               }
             }
@@ -774,74 +837,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_08.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 35,
                   "startColumn": 25,
-                  "endLine": 29,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_10' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb10'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE614_Sensitive_Cookie_Without_Secure__Web_17' to match pascal case naming rules, consider using 'Cwe614SensitiveCookieWithoutSecureWeb17'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_17.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 25,
-                  "endLine": 34,
+                  "endLine": 35,
                   "endColumn": 44
                 }
               }
@@ -852,18 +852,123 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_02.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_11.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_13.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_06.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 24,
+                  "endLine": 37,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_01.cs",
                 "region": {
                   "startLine": 30,
-                  "startColumn": 33,
+                  "startColumn": 20,
                   "endLine": 30,
-                  "endColumn": 72
+                  "endColumn": 65
                 }
               }
             }
@@ -873,18 +978,18 @@
           }
         },
         {
-          "ruleId": "S3330",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
+                  "startLine": 37,
+                  "startColumn": 24,
+                  "endLine": 37,
+                  "endColumn": 69
                 }
               }
             }
@@ -894,18 +999,18 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_12.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
                 }
               }
             }
@@ -915,795 +1020,42 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 33,
-                  "endLine": 39,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_01.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 29,
-                  "endLine": 28,
-                  "endColumn": 68
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 33,
-                  "endLine": 39,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_01.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 29,
-                  "endLine": 28,
-                  "endColumn": 68
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 33,
-                  "endLine": 36,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 33,
-                  "endLine": 43,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 33,
-                  "endLine": 35,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 33,
-                  "endLine": 36,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 33,
-                  "endLine": 43,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 33,
-                  "endLine": 35,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 33,
-                  "endLine": 36,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 33,
-                  "endLine": 35,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 33,
-                  "endLine": 36,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 33,
-                  "endLine": 35,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 33,
-                  "endLine": 56,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 33,
-                  "endLine": 56,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_01.cs",
                 "region": {
                   "startLine": 44,
-                  "startColumn": 29,
+                  "startColumn": 24,
                   "endLine": 44,
-                  "endColumn": 83
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_04.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 69
                 }
               }
             }
@@ -1713,31 +1065,18 @@
           }
         },
         {
-          "ruleId": "S1764",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_08.cs",
                 "region": {
-                  "startLine": 28,
-                  "startColumn": 18,
-                  "endLine": 28,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 13,
-                  "endLine": 28,
-                  "endColumn": 14
+                  "startLine": 45,
+                  "startColumn": 24,
+                  "endLine": 45,
+                  "endColumn": 69
                 }
               }
             }
@@ -1747,18 +1086,18 @@
           }
         },
         {
-          "ruleId": "S3330",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_05.cs",
                 "region": {
-                  "startLine": 44,
-                  "startColumn": 29,
-                  "endLine": 44,
-                  "endColumn": 83
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 69
                 }
               }
             }
@@ -1768,18 +1107,18 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_09.cs",
                 "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
                 }
               }
             }
@@ -1789,612 +1128,51 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs",
                 "region": {
-                  "startLine": 55,
-                  "startColumn": 33,
-                  "endLine": 55,
-                  "endColumn": 87
+                  "startLine": 48,
+                  "startColumn": 24,
+                  "endLine": 48,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
           }
         },
         {
-          "ruleId": "S3330",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 33,
-                  "endLine": 55,
-                  "endColumn": 87
-                }
-              }
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
             }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 33,
-                  "endLine": 55,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 33,
-                  "endLine": 55,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 33,
-                  "endLine": 50,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 63,
-                  "startColumn": 33,
-                  "endLine": 63,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 33,
-                  "endLine": 56,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 63,
-                  "startColumn": 33,
-                  "endLine": 63,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 33,
-                  "endLine": 56,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 33,
-                  "endLine": 55,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 33,
-                  "endLine": 55,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 33,
-                  "endLine": 71,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 33,
-                  "endLine": 71,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
@@ -2404,11 +1182,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 43,
+                  "startLine": 45,
                   "startColumn": 18,
-                  "endLine": 43,
+                  "endLine": 45,
                   "endColumn": 19
                 }
               }
@@ -2417,11 +1195,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 43,
+                  "startLine": 45,
                   "startColumn": 13,
-                  "endLine": 43,
+                  "endLine": 45,
                   "endColumn": 14
                 }
               }
@@ -2432,255 +1210,27 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_04.cs",
                 "region": {
-                  "startLine": 70,
-                  "startColumn": 33,
-                  "endLine": 70,
-                  "endColumn": 87
+                  "startLine": 49,
+                  "startColumn": 24,
+                  "endLine": 49,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 33,
-                  "endLine": 70,
-                  "endColumn": 87
-                }
-              }
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
             }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 33,
-                  "endLine": 70,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 33,
-                  "endLine": 70,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 33,
-                  "endLine": 65,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 33,
-                  "endLine": 71,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 33,
-                  "endLine": 71,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 78,
-                  "startColumn": 33,
-                  "endLine": 78,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs",
-                "region": {
-                  "startLine": 78,
-                  "startColumn": 33,
-                  "endLine": 78,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
@@ -2690,11 +1240,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 63,
+                  "startLine": 29,
                   "startColumn": 18,
-                  "endLine": 63,
+                  "endLine": 29,
                   "endColumn": 19
                 }
               }
@@ -2703,11 +1253,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 63,
+                  "startLine": 29,
                   "startColumn": 13,
-                  "endLine": 63,
+                  "endLine": 29,
                   "endColumn": 14
                 }
               }
@@ -2718,87 +1268,75 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_02.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 33,
-                  "endLine": 31,
-                  "endColumn": 72
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
           }
         },
         {
-          "ruleId": "S3330",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_05.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 33,
-                  "endLine": 31,
-                  "endColumn": 72
+                  "startLine": 49,
+                  "startColumn": 24,
+                  "endLine": 49,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_13.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
-                }
-              }
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
             }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
@@ -2808,11 +1346,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_12.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 54,
                   "startColumn": 9,
-                  "endLine": 53,
+                  "endLine": 54,
                   "endColumn": 11
                 }
               }
@@ -2823,18 +1361,114 @@
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_08.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
+                  "startLine": 56,
+                  "startColumn": 24,
+                  "endLine": 56,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_09.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_07.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 24,
+                  "endLine": 67,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_12.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 24,
+                  "endLine": 52,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_14.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
                 }
               }
             }
@@ -2844,18 +1478,66 @@
           }
         },
         {
-          "ruleId": "S3330",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_11.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 33,
-                  "endLine": 30,
-                  "endColumn": 72
+                  "startLine": 62,
+                  "startColumn": 24,
+                  "endLine": 62,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_04.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 24,
+                  "endLine": 68,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_16.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
                 }
               }
             }
@@ -2871,11 +1553,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_16.cs",
                 "region": {
-                  "startLine": 36,
+                  "startLine": 38,
                   "startColumn": 13,
-                  "endLine": 36,
+                  "endLine": 38,
                   "endColumn": 19
                 }
               }
@@ -2886,18 +1568,204 @@
           }
         },
         {
-          "ruleId": "S1871",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Either merge this branch with the identical one on line 54 or change one of the implementations.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_09.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 24,
+                  "endLine": 62,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_05.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 24,
+                  "endLine": 68,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 24,
+                  "endLine": 33,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_13.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 24,
+                  "endLine": 62,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_06.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 24,
+                  "endLine": 67,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_10.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_06.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 24,
+                  "endLine": 48,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 24,
+                  "endLine": 62,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
                   "startLine": 64,
-                  "startColumn": 9,
-                  "endLine": 72,
-                  "endColumn": 10
+                  "startColumn": 18,
+                  "endLine": 64,
+                  "endColumn": 19
                 }
               }
             }
@@ -2905,186 +1773,207 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_03.cs",
                 "region": {
-                  "startLine": 54,
-                  "startColumn": 9,
+                  "startLine": 64,
+                  "startColumn": 13,
+                  "endLine": 64,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_11.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_08.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 24,
+                  "endLine": 75,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_17.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 24,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 24,
+                  "endLine": 49,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_15.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 24,
+                  "endLine": 69,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_14.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 24,
                   "endLine": 62,
-                  "endColumn": 10
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_02.cs",
                 "region": {
-                  "startLine": 56,
-                  "startColumn": 33,
-                  "endLine": 56,
-                  "endColumn": 87
+                  "startLine": 62,
+                  "startColumn": 24,
+                  "endLine": 62,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
           }
         },
         {
-          "ruleId": "S2092",
+          "ruleId": "S1172",
           "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "message": "Remove this unused method parameter 'req'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_17.cs",
                 "region": {
-                  "startLine": 46,
-                  "startColumn": 33,
-                  "endLine": 46,
-                  "endColumn": 87
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 33,
-                  "endLine": 56,
-                  "endColumn": 87
-                }
-              }
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
             }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 33,
-                  "endLine": 46,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_17.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 33,
-                  "endLine": 45,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_17.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 33,
-                  "endLine": 45,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2092",
-          "level": "warning",
-          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
-                "region": {
-                  "startLine": 73,
-                  "startColumn": 33,
-                  "endLine": 73,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3330",
-          "level": "warning",
-          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs",
-                "region": {
-                  "startLine": 73,
-                  "startColumn": 33,
-                  "endLine": 73,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
@@ -3094,11 +1983,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE614_Sensitive_Cookie_Without_Secure/CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_16.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 54,
                   "startColumn": 13,
-                  "endLine": 53,
+                  "endLine": 54,
                   "endColumn": 19
                 }
               }
@@ -3106,6 +1995,102 @@
           ],
           "properties": {
             "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_16.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_14.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_10.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE615_Info_Exposure_by_Comment/CWE615_Info_Exposure_by_Comment__Web_10.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 24,
+                  "endLine": 62,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
           }
         }
       ],
@@ -3146,6 +2131,23 @@
           "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
           "defaultLevel": "warning",
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1172": {
+          "id": "S1172",
+          "shortDescription": "Unused method parameters should be removed",
+          "fullDescription": "Unused parameters are misleading. Whatever the values passed to such parameters, the behavior will be the same.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1172",
           "properties": {
             "category": "Major Code Smell",
             "isEnabledByDefault": true,
@@ -3208,30 +2210,14 @@
             ]
           }
         },
-        "S1871": {
-          "id": "S1871",
-          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
-          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
           "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope"
-            ]
-          }
-        },
-        "S2092": {
-          "id": "S2092",
-          "shortDescription": "Creating cookies without the \"secure\" flag is security-sensitive",
-          "fullDescription": "When a cookie is protected with the secure attribute set to true it will not be send by the browser over an unencrypted HTTP request and thus cannot be observed by an unauthorized person during a man-in-the-middle attack. ",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2092",
-          "properties": {
-            "category": "Minor Security Hotspot",
+            "category": "Blocker Security Hotspot",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
@@ -3255,23 +2241,6 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
-            ]
-          }
-        },
-        "S3330": {
-          "id": "S3330",
-          "shortDescription": "Creating cookies without the \"HttpOnly\" flag is security-sensitive",
-          "fullDescription": "When a cookie is configured with the HttpOnly attribute set to true, the browser guaranties that no client-side script will be able to read it. In most cases, when a cookie is created, the default value of HttpOnly is false and it's up to the developer to decide whether or not the content of the cookie can be read by the client-side script. As a majority of Cross-Site Scripting (XSS) attacks target the theft of session-cookies, the HttpOnly attribute can help to reduce their impact as it won't be possible to exploit the XSS vulnerability to steal session-cookies.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3330",
-          "properties": {
-            "category": "Minor Security Hotspot",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "NotConfigurable"
             ]
           }
         },

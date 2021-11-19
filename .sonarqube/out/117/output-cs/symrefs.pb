@@ -1,18 +1,43 @@
-î
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs
+»
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource__console_StreamReader_01.cs
 
 
- ;(
-' . ! $ $
- !  
+ E
 
-  
-##' /)) "00 %
-$$ #,, ,, #
-'' 66 
+  
+  $ &
+ ! '
+ 'O W
+"" CC 2
+$$ '' (($ &55 77 
+(( !** '
+,, '..O W
+::# +<<T \
 
-44 !‡
-}C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\Program.cs
+AA !Ü
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource__db_Connection_01.cs
+
+
+ >
+
+  
+ &  
+   (
+   !!! #
+
+ 
+$$  )&&< E
+-- cc 2
+// &77 :: UU $WW $2
+00 88 ;; NN PP <
+11 ;; == ??! #II KK 
+
+55 
+BB  )DD< E
+ZZ$ -\\R [
+
+aa !•
+ˆC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\Program.cs
 
  
 
@@ -30,6 +55,7 @@
 gg  GG 
 mm  HH 
 ss  II 
-yy  JJ 
-  KK 
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\Properties\AssemblyInfo.cs
+zz  JJ 
+
+€€  KK ›
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\Properties\AssemblyInfo.cs

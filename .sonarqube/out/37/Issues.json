@@ -18,28 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
-                "region": {
-                  "startLine": 62,
-                  "startColumn": 13,
-                  "endLine": 62,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.cs",
                 "region": {
                   "startLine": 75,
                   "startColumn": 13,
@@ -60,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.cs",
                 "region": {
-                  "startLine": 68,
+                  "startLine": 80,
                   "startColumn": 13,
-                  "endLine": 68,
+                  "endLine": 80,
                   "endColumn": 15
                 }
               }
@@ -81,11 +60,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.cs",
                 "region": {
-                  "startLine": 73,
+                  "startLine": 81,
                   "startColumn": 13,
-                  "endLine": 73,
+                  "endLine": 81,
                   "endColumn": 15
                 }
               }
@@ -102,11 +81,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
                 "region": {
-                  "startLine": 74,
+                  "startLine": 75,
                   "startColumn": 13,
-                  "endLine": 74,
+                  "endLine": 75,
                   "endColumn": 15
                 }
               }
@@ -123,11 +102,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
                 "region": {
-                  "startLine": 68,
+                  "startLine": 69,
                   "startColumn": 13,
-                  "endLine": 68,
+                  "endLine": 69,
                   "endColumn": 15
                 }
               }
@@ -144,11 +123,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
                 "region": {
-                  "startLine": 159,
+                  "startLine": 82,
                   "startColumn": 13,
-                  "endLine": 159,
+                  "endLine": 82,
                   "endColumn": 15
                 }
               }
@@ -159,45 +138,24 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_02' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream02'.",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
                 "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "startLine": 166,
+                  "startColumn": 13,
+                  "endLine": 166,
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_11' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream11'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_11.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
+            "warningLevel": 2
           }
         },
         {
@@ -207,7 +165,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -224,16 +182,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_06' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream06'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_01' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_01.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
                 }
               }
             }
@@ -249,7 +228,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -264,97 +243,13 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_03' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream03'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_09' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream09'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_09.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 18,
-                  "endLine": 30,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -371,16 +266,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_05' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream05'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
                 }
               }
             }
@@ -392,16 +287,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_01' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream01'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
                 }
               }
             }
@@ -413,16 +308,163 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_12' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream12'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream10'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream02'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_17' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_17.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream15'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/Program.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 15
                 }
               }
             }
@@ -438,7 +480,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -455,16 +497,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_04' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream04'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream14'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
                 }
               }
             }
@@ -480,7 +522,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -497,16 +539,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_14' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream14'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream13'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
                 }
               }
             }
@@ -522,7 +564,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -543,11 +585,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
                 "region": {
-                  "startLine": 68,
+                  "startLine": 75,
                   "startColumn": 5,
-                  "endLine": 68,
+                  "endLine": 75,
                   "endColumn": 49
                 }
               }
@@ -560,58 +602,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_16' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream16'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_17' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream17'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_17.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 28
+                  "endColumn": 74
                 }
               }
             }
@@ -627,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -648,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -669,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -684,18 +684,60 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_08' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream08'.",
+          "message": "Make 'privateTrue' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.cs",
                 "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "startLine": 29,
+                  "startColumn": 18,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 17,
+                  "endLine": 29,
+                  "endColumn": 28
                 }
               }
             }
@@ -707,100 +749,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_07' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream07'.",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 7,
                   "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/Program.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 8,
-                  "endLine": 11,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_15' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream15'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_10' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream10'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_10.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE252_Unchecked_Return_Value__MemoryStream_13' to match pascal case naming rules, consider using 'Cwe252UncheckedReturnValueMemoryStream13'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_13.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 53
+                  "endColumn": 74
                 }
               }
             }
@@ -816,7 +774,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 25,
@@ -831,13 +789,55 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12' to match pascal case naming rules, consider using 'Cwe253IncorrectCheckofFunctionReturnValueFileInputStream12'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3400",
           "level": "warning",
           "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.cs",
                 "region": {
                   "startLine": 34,
                   "startColumn": 25,
@@ -852,47 +852,13 @@
           }
         },
         {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 18,
-                  "endLine": 28,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 13,
-                  "endLine": 28,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S1481",
           "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 29,
@@ -909,16 +875,16 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.cs",
                 "region": {
-                  "startLine": 45,
+                  "startLine": 48,
                   "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
+                  "endLine": 48,
+                  "endColumn": 43
                 }
               }
             }
@@ -934,7 +900,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 29,
@@ -951,284 +917,11 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_02.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_14.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 29,
-                  "endLine": 43,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_14.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_11.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 29,
-                  "endLine": 43,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_11.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 29,
-                  "endLine": 44,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 29,
-                  "endLine": 46,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_01.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 25,
-                  "endLine": 41,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_01.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 25,
-                  "endLine": 43,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_09.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 29,
-                  "endLine": 43,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_09.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_10.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 29,
-                  "endLine": 43,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_10.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.cs",
                 "region": {
                   "startLine": 49,
                   "startColumn": 29,
@@ -1245,32 +938,11 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_04.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 29,
-                  "endLine": 51,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 29,
@@ -1287,36 +959,15 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_13.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 43,
                   "startColumn": 29,
-                  "endLine": 48,
+                  "endLine": 43,
                   "endColumn": 43
                 }
               }
@@ -1329,74 +980,11 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 29,
-                  "endLine": 50,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 29,
-                  "endLine": 48,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 29,
-                  "endLine": 50,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.cs",
                 "region": {
                   "startLine": 56,
                   "startColumn": 29,
@@ -1413,32 +1001,11 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 29,
-                  "endLine": 58,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.cs",
                 "region": {
                   "startLine": 49,
                   "startColumn": 29,
@@ -1453,38 +1020,17 @@
           }
         },
         {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 29,
-                  "endLine": 51,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S1764",
           "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
                 "region": {
-                  "startLine": 65,
+                  "startLine": 28,
                   "startColumn": 18,
-                  "endLine": 65,
+                  "endLine": 28,
                   "endColumn": 19
                 }
               }
@@ -1493,11 +1039,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
                 "region": {
-                  "startLine": 65,
+                  "startLine": 28,
                   "startColumn": 13,
-                  "endLine": 65,
+                  "endLine": 28,
                   "endColumn": 14
                 }
               }
@@ -1514,227 +1060,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
-                "region": {
-                  "startLine": 98,
-                  "startColumn": 29,
-                  "endLine": 98,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 29,
-                  "endLine": 85,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3776",
-          "level": "warning",
-          "message": "Refactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 26,
-                  "endLine": 26,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 9,
-                  "endLine": 28,
-                  "endColumn": 11
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 17,
-                  "endLine": 32,
-                  "endColumn": 20
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 21,
-                  "endLine": 39,
-                  "endColumn": 26
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 17,
-                  "endLine": 49,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 17,
-                  "endLine": 53,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 9,
-                  "endLine": 59,
-                  "endColumn": 13
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 63,
-                  "startColumn": 17,
-                  "endLine": 63,
-                  "endColumn": 20
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 21,
-                  "endLine": 70,
-                  "endColumn": 26
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 78,
-                  "startColumn": 25,
-                  "endLine": 78,
-                  "endColumn": 27
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 17,
-                  "endLine": 86,
-                  "endColumn": 22
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 90,
-                  "startColumn": 17,
-                  "endLine": 90,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+1",
-              "1": "+2 (incl 1 for nesting)",
-              "10": "+2 (incl 1 for nesting)",
-              "2": "+2 (incl 1 for nesting)",
-              "3": "+2 (incl 1 for nesting)",
-              "4": "+2 (incl 1 for nesting)",
-              "5": "+1",
-              "6": "+2 (incl 1 for nesting)",
-              "7": "+2 (incl 1 for nesting)",
-              "8": "+3 (incl 2 for nesting)",
-              "9": "+2 (incl 1 for nesting)"
-            }
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_11.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 29,
-                  "endLine": 85,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 29,
@@ -1751,36 +1077,15 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10.cs",
                 "region": {
-                  "startLine": 74,
+                  "startLine": 43,
                   "startColumn": 29,
-                  "endLine": 74,
+                  "endLine": 43,
                   "endColumn": 43
                 }
               }
@@ -1797,11 +1102,32 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.cs",
                 "region": {
-                  "startLine": 79,
+                  "startLine": 48,
+                  "startColumn": 29,
+                  "endLine": 48,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_01.cs",
+                "region": {
+                  "startLine": 41,
                   "startColumn": 25,
-                  "endLine": 79,
+                  "endLine": 41,
                   "endColumn": 39
                 }
               }
@@ -1818,196 +1144,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_09.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 29,
-                  "endLine": 85,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
-                "region": {
-                  "startLine": 91,
-                  "startColumn": 29,
-                  "endLine": 91,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
-                "region": {
-                  "startLine": 91,
-                  "startColumn": 29,
-                  "endLine": 91,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
-                "region": {
-                  "startLine": 90,
-                  "startColumn": 29,
-                  "endLine": 90,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_14.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 29,
-                  "endLine": 85,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
-                "region": {
-                  "startLine": 90,
-                  "startColumn": 29,
-                  "endLine": 90,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_04.cs",
-                "region": {
-                  "startLine": 91,
-                  "startColumn": 29,
-                  "endLine": 91,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_10.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 29,
-                  "endLine": 85,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_13.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 29,
-                  "endLine": 85,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 29,
@@ -2024,407 +1161,16 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_17.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_16.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 13,
-                  "endLine": 58,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
           "message": "Remove the unused local variable 'numBytesToRead'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.cs",
                 "region": {
-                  "startLine": 85,
+                  "startLine": 92,
                   "startColumn": 29,
-                  "endLine": 85,
+                  "endLine": 92,
                   "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_16.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 29,
-                  "endLine": 43,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'n'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_16.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 29,
-                  "endLine": 45,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 112,
-                  "startColumn": 18,
-                  "endLine": 112,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 112,
-                  "startColumn": 13,
-                  "endLine": 112,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_03.cs",
-                "region": {
-                  "startLine": 127,
-                  "startColumn": 29,
-                  "endLine": 127,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_09.cs",
-                "region": {
-                  "startLine": 127,
-                  "startColumn": 29,
-                  "endLine": 127,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_08.cs",
-                "region": {
-                  "startLine": 140,
-                  "startColumn": 29,
-                  "endLine": 140,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_11.cs",
-                "region": {
-                  "startLine": 127,
-                  "startColumn": 29,
-                  "endLine": 127,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_15.cs",
-                "region": {
-                  "startLine": 135,
-                  "startColumn": 29,
-                  "endLine": 135,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_04.cs",
-                "region": {
-                  "startLine": 133,
-                  "startColumn": 29,
-                  "endLine": 133,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_07.cs",
-                "region": {
-                  "startLine": 132,
-                  "startColumn": 29,
-                  "endLine": 132,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_05.cs",
-                "region": {
-                  "startLine": 133,
-                  "startColumn": 29,
-                  "endLine": 133,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_06.cs",
-                "region": {
-                  "startLine": 132,
-                  "startColumn": 29,
-                  "endLine": 132,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_13.cs",
-                "region": {
-                  "startLine": 127,
-                  "startColumn": 29,
-                  "endLine": 127,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_10.cs",
-                "region": {
-                  "startLine": 127,
-                  "startColumn": 29,
-                  "endLine": 127,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'numBytesToRead'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_14.cs",
-                "region": {
-                  "startLine": 127,
-                  "startColumn": 29,
-                  "endLine": 127,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3923",
-          "level": "warning",
-          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
-                "region": {
-                  "startLine": 102,
-                  "startColumn": 9,
-                  "endLine": 102,
-                  "endColumn": 11
                 }
               }
             }
@@ -2440,12 +1186,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 100,
-                  "startColumn": 18,
-                  "endLine": 100,
-                  "endColumn": 23
+                  "startLine": 26,
+                  "startColumn": 26,
+                  "endLine": 26,
+                  "endColumn": 29
                 }
               }
             }
@@ -2453,132 +1199,132 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 102,
+                  "startLine": 28,
                   "startColumn": 9,
-                  "endLine": 102,
+                  "endLine": 28,
                   "endColumn": 11
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 106,
+                  "startLine": 32,
                   "startColumn": 17,
-                  "endLine": 106,
+                  "endLine": 32,
                   "endColumn": 20
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 113,
+                  "startLine": 39,
                   "startColumn": 21,
-                  "endLine": 113,
+                  "endLine": 39,
                   "endColumn": 26
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 121,
+                  "startLine": 47,
                   "startColumn": 25,
-                  "endLine": 121,
+                  "endLine": 47,
                   "endColumn": 27
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 129,
+                  "startLine": 56,
                   "startColumn": 17,
-                  "endLine": 129,
+                  "endLine": 56,
                   "endColumn": 22
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 133,
+                  "startLine": 60,
                   "startColumn": 17,
-                  "endLine": 133,
+                  "endLine": 60,
                   "endColumn": 22
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 139,
+                  "startLine": 66,
                   "startColumn": 9,
-                  "endLine": 139,
+                  "endLine": 66,
                   "endColumn": 13
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 143,
+                  "startLine": 70,
                   "startColumn": 17,
-                  "endLine": 143,
+                  "endLine": 70,
                   "endColumn": 20
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 150,
+                  "startLine": 77,
                   "startColumn": 21,
-                  "endLine": 150,
+                  "endLine": 77,
                   "endColumn": 26
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 158,
+                  "startLine": 85,
                   "startColumn": 25,
-                  "endLine": 158,
+                  "endLine": 85,
                   "endColumn": 27
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 166,
+                  "startLine": 93,
                   "startColumn": 17,
-                  "endLine": 166,
+                  "endLine": 93,
                   "endColumn": 22
                 }
               }
             },
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 170,
+                  "startLine": 97,
                   "startColumn": 17,
-                  "endLine": 170,
+                  "endLine": 97,
                   "endColumn": 22
                 }
               }
@@ -2609,11 +1355,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 117,
+                  "startLine": 43,
                   "startColumn": 29,
-                  "endLine": 117,
+                  "endLine": 43,
                   "endColumn": 43
                 }
               }
@@ -2630,11 +1376,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
                 "region": {
-                  "startLine": 154,
+                  "startLine": 81,
                   "startColumn": 29,
-                  "endLine": 154,
+                  "endLine": 81,
                   "endColumn": 43
                 }
               }
@@ -2651,11 +1397,857 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.cs",
                 "region": {
-                  "startLine": 80,
+                  "startLine": 105,
                   "startColumn": 29,
-                  "endLine": 80,
+                  "endLine": 105,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 29,
+                  "endLine": 92,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 29,
+                  "endLine": 92,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 29,
+                  "endLine": 97,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_01.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 25,
+                  "endLine": 86,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 29,
+                  "endLine": 92,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 29,
+                  "endLine": 97,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.cs",
+                "region": {
+                  "startLine": 98,
+                  "startColumn": 29,
+                  "endLine": 98,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 18,
+                  "endLine": 72,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 13,
+                  "endLine": 72,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 29,
+                  "endLine": 92,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 29,
+                  "endLine": 92,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.cs",
+                "region": {
+                  "startLine": 98,
+                  "startColumn": 29,
+                  "endLine": 98,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 29,
+                  "endLine": 92,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_17.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 29,
+                  "endLine": 43,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 29,
+                  "endLine": 147,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.cs",
+                "region": {
+                  "startLine": 139,
+                  "startColumn": 29,
+                  "endLine": 139,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.cs",
+                "region": {
+                  "startLine": 139,
+                  "startColumn": 29,
+                  "endLine": 139,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.cs",
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 29,
+                  "endLine": 140,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 18,
+                  "endLine": 119,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 13,
+                  "endLine": 119,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.cs",
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 29,
+                  "endLine": 140,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 29,
+                  "endLine": 44,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 29,
+                  "endLine": 134,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3923",
+          "level": "warning",
+          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 9,
+                  "endLine": 109,
+                  "endColumn": 11
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 18,
+                  "endLine": 107,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 9,
+                  "endLine": 109,
+                  "endColumn": 11
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 17,
+                  "endLine": 113,
+                  "endColumn": 20
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 21,
+                  "endLine": 120,
+                  "endColumn": 26
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 25,
+                  "endLine": 128,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 17,
+                  "endLine": 136,
+                  "endColumn": 22
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 17,
+                  "endLine": 140,
+                  "endColumn": 22
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 9,
+                  "endLine": 146,
+                  "endColumn": 13
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 150,
+                  "startColumn": 17,
+                  "endLine": 150,
+                  "endColumn": 20
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 21,
+                  "endLine": 157,
+                  "endColumn": 26
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 165,
+                  "startColumn": 25,
+                  "endLine": 165,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 173,
+                  "startColumn": 17,
+                  "endLine": 173,
+                  "endColumn": 22
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 177,
+                  "startColumn": 17,
+                  "endLine": 177,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+2 (incl 1 for nesting)",
+              "10": "+2 (incl 1 for nesting)",
+              "11": "+2 (incl 1 for nesting)",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+3 (incl 2 for nesting)",
+              "4": "+2 (incl 1 for nesting)",
+              "5": "+2 (incl 1 for nesting)",
+              "6": "+1",
+              "7": "+2 (incl 1 for nesting)",
+              "8": "+2 (incl 1 for nesting)",
+              "9": "+3 (incl 2 for nesting)"
+            }
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 29,
+                  "endLine": 124,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.cs",
+                "region": {
+                  "startLine": 161,
+                  "startColumn": 29,
+                  "endLine": 161,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_17.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 29,
+                  "endLine": 87,
                   "endColumn": 43
                 }
               }
@@ -2672,11 +2264,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.cs",
                 "region": {
-                  "startLine": 102,
+                  "startLine": 65,
                   "startColumn": 13,
-                  "endLine": 102,
+                  "endLine": 65,
                   "endColumn": 19
                 }
               }
@@ -2693,11 +2285,53 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
                 "region": {
-                  "startLine": 127,
+                  "startLine": 98,
                   "startColumn": 29,
-                  "endLine": 127,
+                  "endLine": 98,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 13,
+                  "endLine": 109,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 29,
+                  "endLine": 43,
                   "endColumn": 43
                 }
               }
@@ -2714,11 +2348,32 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE252_Unchecked_Return_Value/CWE252_Unchecked_Return_Value__MemoryStream_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.cs",
                 "region": {
-                  "startLine": 81,
+                  "startLine": 88,
                   "startColumn": 29,
-                  "endLine": 81,
+                  "endLine": 88,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'numBytesToRead'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE253_Incorrect_Check_of_Function_Return_Value/CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.cs",
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 29,
+                  "endLine": 142,
                   "endColumn": 43
                 }
               }

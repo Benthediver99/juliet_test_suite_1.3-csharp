@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE369_Divide_by_Zero_s01</ProjectName>
+  <ProjectName>CWE369_Divide_by_Zero_s02</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>59b268b4-1025-3249-dbf2-3143c7d853f3</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE369_Divide_by_Zero\s01\CWE369_Divide_by_Zero_s01.csproj</FullPath>
+  <ProjectGuid>1b0a2c7a-ed40-a460-a6b8-dd94dc6fc02d</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE369_Divide_by_Zero\s02\CWE369_Divide_by_Zero_s02.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\55\FilesToAnalyze.txt" />

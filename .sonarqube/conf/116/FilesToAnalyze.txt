@@ -1,4 +1,4 @@
-﻿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\CWE764_Multiple_locks__Monitor_Object_Thread_01.cs
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\Program.cs
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\Properties\AssemblyInfo.cs
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\App.config
+﻿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\Program.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\Properties\AssemblyInfo.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\App.config

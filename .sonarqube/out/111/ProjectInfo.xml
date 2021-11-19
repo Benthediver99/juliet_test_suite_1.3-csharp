@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE681_Incorrect_Conversion_Between_Numeric_Types</ProjectName>
+  <ProjectName>CWE690_NULL_Deref_From_Return</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>8888764b-b65c-eb90-26ad-b5b6048caeee</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types.csproj</FullPath>
+  <ProjectGuid>694aac24-cc20-9fba-86f5-a0463c8fc37d</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE690_NULL_Deref_From_Return\CWE690_NULL_Deref_From_Return.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\111\FilesToAnalyze.txt" />

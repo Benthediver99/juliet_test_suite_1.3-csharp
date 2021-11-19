@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE478_Missing_Default_Case_in_Switch</ProjectName>
+  <ProjectName>CWE481_Assigning_Instead_of_Comparing</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>cc5634cf-e121-7fce-e53e-7c848407f615</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch.csproj</FullPath>
+  <ProjectGuid>0951ad0b-cb3b-d585-1b22-4f3dd0f03dbc</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\77\FilesToAnalyze.txt" />

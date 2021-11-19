@@ -1,339 +1,25 @@
-Ž
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_01.cs
+È
+•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\CWE561_Dead_Code__unused_method_01_bad.cs
 
- -
+
+ 0
 
- 
+ $
 
-) ,2
-; ?      
+ "
 
-$$ 
-$$* -&& 
-$$< @&& 
-)) && 
+  ê
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\CWE561_Dead_Code__unused_method_01_good1.cs
 
-))# &2
-))5 9++ ,, .. // ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_02.cs
+
+ 2
 
- -
+ $
+ " $
 
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_03.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II ®
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_04.cs
-
- -
- )"" BB 
- *00 
-
-   
-
-  ) ,2
-  ; ?$$ %% '' (( 
-.. NN 
-
-..# &2
-..5 977 88 :: ;; 
-@@ OO 
-
-@@# &2
-@@5 9DD EE GG HH 
-
-LL 
-LL* -NN OO 
-LL< @NN OO ®
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_05.cs
-
- -
- "" BB 
- 00 
-
-   
-
-  ) ,2
-  ; ?$$ %% '' (( 
-.. NN 
-
-..# &2
-..5 977 88 :: ;; 
-@@ OO 
-
-@@# &2
-@@5 9DD EE GG HH 
-
-LL 
-LL* -NN OO 
-LL< @NN OO ¢
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_06.cs
-
- -(
- (!! // AA 
-
- 
-
-) ,2
-; ?## $$ && '' 
--- MM 
-
---# &2
---5 966 77 99 :: 
-?? NN 
-
-??# &2
-??5 9CC DD FF GG 
-
-KK 
-KK* -MM NN 
-KK< @MM NN ¢
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_07.cs
-
- -(
- !! // AA 
-
- 
-
-) ,2
-; ?## $$ && '' 
--- MM 
-
---# &2
---5 966 77 99 :: 
-?? NN 
-
-??# &2
-??5 9CC DD FF GG 
-
-KK 
-KK* -MM NN 
-KK< @MM NN ®
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_08.cs
-
- -
- *)) II 
-"" +77 
-
-'' 
-
-'') ,2
-''; ?++ ,, .. // 
-55 UU 
-
-55# &2
-555 9>> ?? AA BB 
-GG VV 
-
-GG# &2
-GG5 9KK LL NN OO 
-
-SS 
-SS* -UU VV 
-SS< @UU VV ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_09.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_10.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_11.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II Þ
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_12.cs
-
- -
-
- 
-
-) ,Z
-; ?  !! "" && '' )) ** 
-00 FF 
-
-00# &Z
-005 944 55 77 88 << == ?? @@ 
-
-DD 
-DD* -FF 
-DD< @FF ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_13.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_14.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-(( HH 
-
-((# &2
-((5 911 22 44 55 
-:: II 
-
-::# &2
-::5 9>> ?? AA BB 
-
-FF 
-FF* -HH II 
-FF< @HH II ø
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_15.cs
-
- -
-
- 
-
-) ,2
-; ?    "" ## 
-.. UU 
-
-..# &2
-..5 977 88 :: ;; 
-AA VV 
-
-AA# &2
-AA5 9FF GG II JJ 
-
-SS 
-SS* -UU VV 
-SS< @UU VV Ž
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_16.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-)) 88 
-
-))# &2
-))5 9-- .. 00 11 
-
-66 
-66* -88 
-66< @88 Î
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_17.cs
-
- -
-
- 
-
-) ,2
-; ?  !! "" 
-   
-(( 66 
-
-((# &2
-((5 9,, -- // 00 
-** ** ** 
-
-44 
-44* -66 
-44< @66 
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\Program.cs
+ !
+  €
+vC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\Program.cs
 
  
 
@@ -352,5 +38,5 @@
 mm  HH 
 ss  II 
 yy  JJ 
-  KK ˜
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\Properties\AssemblyInfo.cs
+  KK ‰
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\Properties\AssemblyInfo.cs

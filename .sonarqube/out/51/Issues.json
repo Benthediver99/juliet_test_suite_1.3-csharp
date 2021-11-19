@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_04.cs",
                 "region": {
-                  "startLine": 62,
+                  "startLine": 49,
                   "startColumn": 13,
-                  "endLine": 62,
+                  "endLine": 49,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_06.cs",
                 "region": {
-                  "startLine": 73,
+                  "startLine": 48,
                   "startColumn": 13,
-                  "endLine": 73,
+                  "endLine": 48,
                   "endColumn": 15
                 }
               }
@@ -60,7 +60,91 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_02.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 13,
+                  "endLine": 50,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
                 "region": {
                   "startLine": 74,
                   "startColumn": 13,
@@ -75,118 +159,13 @@
           }
         },
         {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02.cs",
-                "region": {
-                  "startLine": 68,
-                  "startColumn": 13,
-                  "endLine": 68,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
-                "region": {
-                  "startLine": 75,
-                  "startColumn": 13,
-                  "endLine": 75,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
-                "region": {
-                  "startLine": 68,
-                  "startColumn": 13,
-                  "endLine": 68,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
-                "region": {
-                  "startLine": 147,
-                  "startColumn": 13,
-                  "endLine": 147,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic03'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -203,16 +182,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_10' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic10'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_12' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -224,16 +203,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic13'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_06' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_06.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -245,16 +224,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_01' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic01'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_09' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_09.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -270,7 +249,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -285,13 +264,34 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_02' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic02'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_02.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -308,16 +308,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic12'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_11' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic11'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_11.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -329,16 +329,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_11' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic11'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_14' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic14'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_14.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_01' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_01.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -354,11 +375,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_05.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 27,
                   "startColumn": 18,
-                  "endLine": 30,
+                  "endLine": 27,
                   "endColumn": 29
                 }
               }
@@ -375,33 +396,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_05.cs",
                 "region": {
-                  "startLine": 31,
+                  "startLine": 28,
                   "startColumn": 18,
-                  "endLine": 31,
+                  "endLine": 28,
                   "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic05'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
                 }
               }
             }
@@ -417,7 +417,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -438,7 +438,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -459,7 +459,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -480,11 +480,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
                 "region": {
-                  "startLine": 68,
+                  "startLine": 43,
                   "startColumn": 5,
-                  "endLine": 68,
+                  "endLine": 43,
                   "endColumn": 49
                 }
               }
@@ -497,16 +497,79 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic04'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_04' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_04.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_15' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic15'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_17' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_17.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_07.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 17,
+                  "endLine": 27,
+                  "endColumn": 28
                 }
               }
             }
@@ -522,7 +585,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -543,7 +606,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -564,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -581,16 +644,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic06'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_05' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_05.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -602,16 +665,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic08'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_16' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_16.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_03' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_10' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic10'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_10.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -627,7 +732,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -644,16 +749,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic15'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_13' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic13'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_13.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -665,37 +770,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic16'.",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_07' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic07'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_07.cs",
                 "region": {
-                  "startLine": 24,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 17,
-                  "endLine": 30,
-                  "endColumn": 28
+                  "endLine": 21,
+                  "endColumn": 41
                 }
               }
             }
@@ -711,11 +795,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_08.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 27,
                   "startColumn": 25,
-                  "endLine": 30,
+                  "endLine": 27,
                   "endColumn": 43
                 }
               }
@@ -726,17 +810,38 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE336_Same_Seed_in_PRNG__basic_08' to match pascal case naming rules, consider using 'Cwe336SameSeedinPrngbasic08'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_08.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3400",
           "level": "warning",
           "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_08.cs",
                 "region": {
-                  "startLine": 35,
+                  "startLine": 32,
                   "startColumn": 25,
-                  "endLine": 35,
+                  "endLine": 32,
                   "endColumn": 44
                 }
               }
@@ -747,18 +852,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic07'.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_01.cs",
                 "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "startLine": 28,
+                  "startColumn": 25,
+                  "endLine": 28,
+                  "endColumn": 41
                 }
               }
             }
@@ -768,18 +873,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_09' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic09'.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_07.cs",
                 "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "startLine": 35,
+                  "startColumn": 29,
+                  "endLine": 35,
+                  "endColumn": 45
                 }
               }
             }
@@ -789,18 +894,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic14'.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_06.cs",
                 "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "startLine": 35,
+                  "startColumn": 29,
+                  "endLine": 35,
+                  "endColumn": 45
                 }
               }
             }
@@ -810,18 +915,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic02'.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
                 }
               }
             }
@@ -831,18 +936,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_17' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic17'.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_05.cs",
                 "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 57
+                  "startLine": 36,
+                  "startColumn": 29,
+                  "endLine": 36,
+                  "endColumn": 45
                 }
               }
             }
@@ -852,18 +957,543 @@
           }
         },
         {
-          "ruleId": "S1751",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_04.cs",
                 "region": {
-                  "startLine": 58,
-                  "startColumn": 13,
-                  "endLine": 58,
-                  "endColumn": 19
+                  "startLine": 36,
+                  "startColumn": 29,
+                  "endLine": 36,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_08.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 29,
+                  "endLine": 43,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_13.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_11.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_10.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_09.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 29,
+                  "endLine": 36,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_02.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_08.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 29,
+                  "endLine": 60,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_07.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 29,
+                  "endLine": 52,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_14.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_04.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 29,
+                  "endLine": 53,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_11.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_13.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_01.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 25,
+                  "endLine": 41,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_05.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 29,
+                  "endLine": 53,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_06.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 29,
+                  "endLine": 52,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_09.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_10.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_08.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 29,
+                  "endLine": 72,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_04.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 29,
+                  "endLine": 65,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_07.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 29,
+                  "endLine": 64,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_11.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_09.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
                 }
               }
             }
@@ -879,11 +1509,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 26,
                   "startColumn": 18,
-                  "endLine": 29,
+                  "endLine": 26,
                   "endColumn": 19
                 }
               }
@@ -892,11 +1522,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 26,
                   "startColumn": 13,
-                  "endLine": 29,
+                  "endLine": 26,
                   "endColumn": 14
                 }
               }
@@ -907,18 +1537,165 @@
           }
         },
         {
-          "ruleId": "S1751",
+          "ruleId": "S2245",
           "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_02.cs",
                 "region": {
-                  "startLine": 96,
-                  "startColumn": 13,
-                  "endLine": 96,
-                  "endColumn": 19
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_05.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 29,
+                  "endLine": 65,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_14.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 29,
+                  "endLine": 47,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_13.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_10.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_06.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 29,
+                  "endLine": 64,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 45
                 }
               }
             }
@@ -934,11 +1711,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 65,
+                  "startLine": 40,
                   "startColumn": 18,
-                  "endLine": 65,
+                  "endLine": 40,
                   "endColumn": 19
                 }
               }
@@ -947,11 +1724,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 65,
+                  "startLine": 40,
                   "startColumn": 13,
-                  "endLine": 65,
+                  "endLine": 40,
                   "endColumn": 14
                 }
               }
@@ -968,11 +1745,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 106,
+                  "startLine": 57,
                   "startColumn": 18,
-                  "endLine": 106,
+                  "endLine": 57,
                   "endColumn": 19
                 }
               }
@@ -981,12 +1758,264 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_03.cs",
                 "region": {
-                  "startLine": 106,
+                  "startLine": 57,
                   "startColumn": 13,
-                  "endLine": 106,
+                  "endLine": 57,
                   "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 29,
+                  "endLine": 49,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 29,
+                  "endLine": 56,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_14.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_02.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 29,
+                  "endLine": 59,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 29,
+                  "endLine": 53,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_16.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_16.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 29,
+                  "endLine": 43,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_15.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 29,
+                  "endLine": 67,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_17.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 29,
+                  "endLine": 42,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_17.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 29,
+                  "endLine": 30,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_16.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 13,
+                  "endLine": 33,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_16.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 13,
+                  "endLine": 47,
+                  "endColumn": 19
                 }
               }
             }
@@ -1002,11 +2031,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
                 "region": {
-                  "startLine": 96,
+                  "startLine": 47,
                   "startColumn": 9,
-                  "endLine": 96,
+                  "endLine": 47,
                   "endColumn": 11
                 }
               }
@@ -1019,15 +2048,15 @@
         {
           "ruleId": "S1871",
           "level": "warning",
-          "message": "Either merge this branch with the identical one on line 97 or change one of the implementations.",
+          "message": "Either merge this branch with the identical one on line 48 or change one of the implementations.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
                 "region": {
-                  "startLine": 128,
+                  "startLine": 55,
                   "startColumn": 9,
-                  "endLine": 157,
+                  "endLine": 60,
                   "endColumn": 10
                 }
               }
@@ -1036,11 +2065,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE336_Same_Seed_in_PRNG/CWE336_Same_Seed_in_PRNG__basic_12.cs",
                 "region": {
-                  "startLine": 97,
+                  "startLine": 48,
                   "startColumn": 9,
-                  "endLine": 126,
+                  "endLine": 53,
                   "endColumn": 10
                 }
               }
@@ -1163,6 +2192,23 @@
               "C#",
               "SonarWay",
               "MainSourceScope"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
+          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
             ]
           }
         },

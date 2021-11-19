@@ -12,13 +12,55 @@
       },
       "results": [
         {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "Field 'CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.goodLock' is never assigned to, and will always have its default value null",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 40,
+                  "endLine": 35,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "Field 'CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.badLock' is never assigned to, and will always have its default value null",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 40,
+                  "endLine": 15,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -39,7 +81,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -60,7 +102,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -75,18 +117,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S3459",
           "level": "warning",
-          "message": "Rename class 'CWE764_Multiple_locks__Monitor_Object_Thread_01' to match pascal case naming rules, consider using 'Cwe764MultiplelocksMonitorObjectThread01'.",
+          "message": "Remove unassigned field 'badLock', or set its value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/CWE764_Multiple_locks__Monitor_Object_Thread_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
                 "region": {
-                  "startLine": 12,
-                  "startColumn": 11,
-                  "endLine": 12,
-                  "endColumn": 58
+                  "startLine": 15,
+                  "startColumn": 40,
+                  "endLine": 15,
+                  "endColumn": 47
                 }
               }
             }
@@ -102,12 +144,54 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
                   "endLine": 11,
                   "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3459",
+          "level": "warning",
+          "message": "Remove unassigned field 'goodLock', or set its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 40,
+                  "endLine": 35,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE765_Multiple_Unlocks__Monitor_Object_Thread_01' to match pascal case naming rules, consider using 'Cwe765MultipleUnlocksMonitorObjectThread01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 11,
+                  "endLine": 12,
+                  "endColumn": 60
                 }
               }
             }
@@ -123,7 +207,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/CWE764_Multiple_locks__Monitor_Object_Thread_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
                 "region": {
                   "startLine": 44,
                   "startColumn": 17,
@@ -136,7 +220,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/CWE764_Multiple_locks__Monitor_Object_Thread_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 28,
@@ -157,11 +241,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/CWE764_Multiple_locks__Monitor_Object_Thread_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 24,
                   "startColumn": 17,
-                  "endLine": 25,
+                  "endLine": 24,
                   "endColumn": 25
                 }
               }
@@ -170,7 +254,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE764_Multiple_Locks/CWE764_Multiple_locks__Monitor_Object_Thread_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE765_Multiple_Unlocks/CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs",
                 "region": {
                   "startLine": 16,
                   "startColumn": 28,
@@ -186,6 +270,19 @@
         }
       ],
       "rules": {
+        "CS0649": {
+          "id": "CS0649",
+          "shortDescription": "Field is never assigned to, and will always have its default value",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
         "S101": {
           "id": "S101",
           "shortDescription": "Types should be named in PascalCase",
@@ -250,6 +347,23 @@
               "C#",
               "SonarWay",
               "MainSourceScope"
+            ]
+          }
+        },
+        "S3459": {
+          "id": "S3459",
+          "shortDescription": "Unassigned members should be removed",
+          "fullDescription": "Fields and auto-properties that are never assigned to hold the default values for their types. They are either pointless code or, more likely, mistakes. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3459",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
             ]
           }
         }

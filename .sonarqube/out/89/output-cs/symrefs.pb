@@ -1,435 +1,800 @@
-–
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs
+Ö
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_01.cs
 
- C
+ '
 
- 
+ 
 
-) ,
+   
+%% "" ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_02.cs
 
-; ?
-  
+ '
 
-"" 
-""* -$$ 
-""< @$$ 
-'' $$ 
+ 
+$$ >> 
+33 ?? 
 
-''# &
+<< ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_03.cs
 
-''5 9
-)) ++ î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs
+ '
 
- C
+ 
+$$ >> 
+33 ?? 
 
- 
+<< ¢
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_04.cs
 
-) ,
+ '
+ )   ;; 
+ *,, 
 
-; ?
-    
-&& BB 
+ 
+** DD 
+99 EE 
 
-&&# &
+BB ¢
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_05.cs
 
-&&5 9
-// 11 
-66 CC 
+ '
+    ;; 
+ ,, 
 
-66# &
+ 
+** DD 
+99 EE 
 
-665 9
-:: << 
+BB –
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_06.cs
 
-@@ 
-@@* -BB CC 
-@@< @BB CC î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs
+ '(
+ ( ++ :: 
 
- C
+ 
+)) CC 
+88 DD 
 
- 
+AA –
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_07.cs
 
-) ,
+ '(
+  ++ :: 
 
-; ?
-    
-&& BB 
+ 
+)) CC 
+88 DD 
 
-&&# &
+AA ¢
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_08.cs
 
-&&5 9
-// 11 
-66 CC 
+ '
+ *'' BB 
+   +33 
 
-66# &
+%% 
+11 KK 
+@@ LL 
 
-665 9
-:: << 
+II ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_09.cs
 
-@@ 
-@@* -BB CC 
-@@< @BB CC ¤
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs
+ '
 
- C
- )"" >> 
- *.. 
+ 
+$$ >> 
+33 ?? 
 
-   
+<< ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_10.cs
 
-  ) ,
+ '
 
-  ; ?
-$$ && 
-,, HH 
+ 
+$$ >> 
+33 ?? 
 
-,,# &
+<< ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_11.cs
 
-,,5 9
-55 77 
-<< II 
+ '
 
-<<# &
+ 
+$$ >> 
+33 ?? 
 
-<<5 9
-@@ BB 
+<< Ö
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_12.cs
 
-FF 
-FF* -HH II 
-FF< @HH II ¤
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs
+ '
 
- C
- "" >> 
- .. 
+ 
+)) 99 
 
-   
+77 ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_13.cs
 
-  ) ,
+ '
 
-  ; ?
-$$ && 
-,, HH 
+ 
+$$ >> 
+33 ?? 
 
-,,# &
+<< ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_14.cs
 
-,,5 9
-55 77 
-<< II 
+ '
 
-<<# &
+ 
+$$ >> 
+33 ?? 
 
-<<5 9
-@@ BB 
+<< ì
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_15.cs
 
-FF 
-FF* -HH II 
-FF< @HH II ˜
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs
+ '
 
- C(
- (!! -- == 
+ 
+** KK 
+:: LL 
 
- 
+II Ö
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_16.cs
 
-) ,
+ '
 
-; ?
-## %% 
-++ GG 
+ 
+%% 11 
 
-++# &
+// –
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_17.cs
 
-++5 9
-44 66 
-;; HH 
+ '
 
-;;# &
+ 
+   
+$$ // 
+&& && && 
 
-;;5 9
-?? AA 
+-- Ø
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_01.cs
 
-EE 
-EE* -GG HH 
-EE< @GG HH ˜
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs
+ )
 
- C(
- !! -- == 
+ 
 
- 
+   
+%% "" î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_02.cs
 
-) ,
+ )
 
-; ?
-## %% 
-++ GG 
+ 
+$$ >> 
+33 ?? 
 
-++# &
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_03.cs
 
-++5 9
-44 66 
-;; HH 
+ )
 
-;;# &
+ 
+$$ >> 
+33 ?? 
 
-;;5 9
-?? AA 
+<< ¤
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_04.cs
 
-EE 
-EE* -GG HH 
-EE< @GG HH ¤
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs
+ )
+ )   ;; 
+ *,, 
 
- C
- *)) EE 
-"" +55 
+ 
+** DD 
+99 EE 
 
-'' 
+BB ¤
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_05.cs
 
-'') ,
+ )
+    ;; 
+ ,, 
 
-''; ?
-++ -- 
-33 OO 
+ 
+** DD 
+99 EE 
 
-33# &
+BB ˜
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_06.cs
 
-335 9
-<< >> 
-CC PP 
+ )(
+ ( ++ :: 
 
-CC# &
+ 
+)) CC 
+88 DD 
 
-CC5 9
-GG II 
+AA ˜
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_07.cs
 
-MM 
-MM* -OO PP 
-MM< @OO PP î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs
+ )(
+  ++ :: 
 
- C
+ 
+)) CC 
+88 DD 
 
- 
+AA ¤
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_08.cs
 
-) ,
+ )
+ *'' BB 
+   +33 
 
-; ?
-    
-&& BB 
+%% 
+11 KK 
+@@ LL 
 
-&&# &
+II î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_09.cs
 
-&&5 9
-// 11 
-66 CC 
+ )
 
-66# &
+ 
+$$ >> 
+33 ?? 
 
-665 9
-:: << 
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_10.cs
 
-@@ 
-@@* -BB CC 
-@@< @BB CC î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs
+ )
 
- C
+ 
+$$ >> 
+33 ?? 
 
- 
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_11.cs
 
-) ,
+ )
 
-; ?
-    
-&& BB 
+ 
+$$ >> 
+33 ?? 
 
-&&# &
+<< Ø
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_12.cs
 
-&&5 9
-// 11 
-66 CC 
+ )
 
-66# &
+ 
+)) 99 
 
-665 9
-:: << 
+77 î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_13.cs
 
-@@ 
-@@* -BB CC 
-@@< @BB CC î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs
+ )
 
- C
+ 
+$$ >> 
+33 ?? 
 
- 
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_14.cs
 
-) ,
+ )
 
-; ?
-    
-&& BB 
+ 
+$$ >> 
+33 ?? 
 
-&&# &
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_15.cs
 
-&&5 9
-// 11 
-66 CC 
+ )
 
-66# &
+ 
+** KK 
+:: LL 
 
-665 9
-:: << 
+II Ø
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_16.cs
 
-@@ 
-@@* -BB CC 
-@@< @BB CC Â
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs
+ )
 
- C
+ 
+%% 11 
 
- 
+// ˜
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_17.cs
 
-) ,
+ )
 
-; ?
-    
-$$ && 
-,, >> 
+ 
+   
+$$ // 
+&& && && 
 
-,,# &
+-- ×
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_01.cs
 
-,,5 9
-00 22 
-66 88 
+ (
 
-<< 
-<<* ->> 
-<<< @>> î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs
+ 
 
- C
+   
+%% "" í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_02.cs
 
- 
+ (
 
-) ,
+ 
+$$ >> 
+33 ?? 
 
-; ?
-    
-&& BB 
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_03.cs
 
-&&# &
+ (
 
-&&5 9
-// 11 
-66 CC 
+ 
+$$ >> 
+33 ?? 
 
-66# &
+<< £
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_04.cs
 
-665 9
-:: << 
+ (
+ )   ;; 
+ *,, 
 
-@@ 
-@@* -BB CC 
-@@< @BB CC î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs
+ 
+** DD 
+99 EE 
 
- C
+BB £
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_05.cs
 
- 
+ (
+    ;; 
+ ,, 
 
-) ,
+ 
+** DD 
+99 EE 
 
-; ?
-    
-&& BB 
+BB —
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_06.cs
 
-&&# &
+ ((
+ ( ++ :: 
 
-&&5 9
-// 11 
-66 CC 
+ 
+)) CC 
+88 DD 
 
-66# &
+AA —
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_07.cs
 
-665 9
-:: << 
+ ((
+  ++ :: 
 
-@@ 
-@@* -BB CC 
-@@< @BB CC î
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs
+ 
+)) CC 
+88 DD 
 
- C
+AA £
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_08.cs
 
- 
+ (
+ *'' BB 
+   +33 
 
-) ,
+%% 
+11 KK 
+@@ LL 
 
-; ?
- !! 
-,, OO 
+II í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_09.cs
 
-,,# &
+ (
 
-,,5 9
-55 77 
-== PP 
+ 
+$$ >> 
+33 ?? 
 
-==# &
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_10.cs
 
-==5 9
-BB DD 
+ (
 
-MM 
-MM* -OO PP 
-MM< @OO PP –
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs
+ 
+$$ >> 
+33 ?? 
 
- C
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_11.cs
 
- 
+ (
 
-) ,
+ 
+$$ >> 
+33 ?? 
 
-; ?
-    
-'' 44 
+<< ×
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_12.cs
 
-''# &
+ (
 
-''5 9
-++ -- 
+ 
+)) 99 
 
-22 
-22* -44 
-22< @44 Ö
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs
+77 í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_13.cs
 
- C
+ (
 
- 
+ 
+$$ >> 
+33 ?? 
 
-) ,
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_14.cs
 
-; ?
-   
-    
-&& 22 
+ (
 
-&&# &
+ 
+$$ >> 
+33 ?? 
 
-&&5 9
-(( (( (( 
-** ,, 
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_15.cs
 
-00 
-00* -22 
-00< @22 ¦
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\Program.cs
+ (
+
+ 
+** KK 
+:: LL 
+
+II ×
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_16.cs
+
+ (
+
+ 
+%% 11 
+
+// —
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_17.cs
+
+ (
+
+ 
+   
+$$ // 
+&& && && 
+
+-- Ø
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_01.cs
+
+ )
+
+ 
+
+   
+%% "" î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_02.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_03.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< ¤
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_04.cs
+
+ )
+ )   ;; 
+ *,, 
+
+ 
+** DD 
+99 EE 
+
+BB ¤
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_05.cs
+
+ )
+    ;; 
+ ,, 
+
+ 
+** DD 
+99 EE 
+
+BB ˜
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_06.cs
+
+ )(
+ ( ++ :: 
+
+ 
+)) CC 
+88 DD 
+
+AA ˜
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_07.cs
+
+ )(
+  ++ :: 
+
+ 
+)) CC 
+88 DD 
+
+AA ¤
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_08.cs
+
+ )
+ *'' BB 
+   +33 
+
+%% 
+11 KK 
+@@ LL 
+
+II î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_09.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_10.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_11.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< Ø
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_12.cs
+
+ )
+
+ 
+)) 99 
+
+77 î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_13.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_14.cs
+
+ )
+
+ 
+$$ >> 
+33 ?? 
+
+<< î
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_15.cs
+
+ )
+
+ 
+** KK 
+:: LL 
+
+II Ø
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_16.cs
+
+ )
+
+ 
+%% 11 
+
+// ˜
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_17.cs
+
+ )
+
+ 
+   
+$$ // 
+&& && && 
+
+-- ×
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_01.cs
+
+ (
+
+ 
+
+   
+%% "" í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_02.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_03.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< £
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_04.cs
+
+ (
+ )   ;; 
+ *,, 
+
+ 
+** DD 
+99 EE 
+
+BB £
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_05.cs
+
+ (
+    ;; 
+ ,, 
+
+ 
+** DD 
+99 EE 
+
+BB —
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_06.cs
+
+ ((
+ ( ++ :: 
+
+ 
+)) CC 
+88 DD 
+
+AA —
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_07.cs
+
+ ((
+  ++ :: 
+
+ 
+)) CC 
+88 DD 
+
+AA £
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_08.cs
+
+ (
+ *'' BB 
+   +33 
+
+%% 
+11 KK 
+@@ LL 
+
+II í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_09.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_10.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_11.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< ×
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_12.cs
+
+ (
+
+ 
+)) 99 
+
+77 í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_13.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_14.cs
+
+ (
+
+ 
+$$ >> 
+33 ?? 
+
+<< í
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_15.cs
+
+ (
+
+ 
+** KK 
+:: LL 
+
+II ×
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_16.cs
+
+ (
+
+ 
+%% 11 
+
+// —
+šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_17.cs
+
+ (
+
+ 
+   
+$$ // 
+&& && && 
+
+-- ‘
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\Program.cs
 
  
 
@@ -444,9 +809,13 @@
 UU  DD 
 [[  EE 
 aa  FF 
-gg  GG 
-mm  HH 
-ss  II 
-yy  JJ 
-  KK ®
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\Properties\AssemblyInfo.cs
+gg  GG 
+
+ÁÁ  HH 
+
+ÇÇ  II 
+
+ÍÍ  JJ 
+
+ÓÓ  KK ’
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\Properties\AssemblyInfo.cs

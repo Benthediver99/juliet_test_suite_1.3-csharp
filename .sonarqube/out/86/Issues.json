@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs",
                 "region": {
-                  "startLine": 45,
+                  "startLine": 55,
                   "startColumn": 13,
-                  "endLine": 45,
+                  "endLine": 55,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
                 "region": {
-                  "startLine": 46,
+                  "startLine": 60,
                   "startColumn": 13,
-                  "endLine": 46,
+                  "endLine": 60,
                   "endColumn": 15
                 }
               }
@@ -60,11 +60,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 40,
+                  "startLine": 55,
                   "startColumn": 13,
-                  "endLine": 40,
+                  "endLine": 55,
                   "endColumn": 15
                 }
               }
@@ -81,11 +81,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs",
                 "region": {
-                  "startLine": 40,
+                  "startLine": 61,
                   "startColumn": 13,
-                  "endLine": 40,
+                  "endLine": 61,
                   "endColumn": 15
                 }
               }
@@ -102,11 +102,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
                 "region": {
-                  "startLine": 34,
+                  "startLine": 49,
                   "startColumn": 13,
-                  "endLine": 34,
+                  "endLine": 49,
                   "endColumn": 15
                 }
               }
@@ -123,11 +123,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
                 "region": {
-                  "startLine": 47,
+                  "startLine": 62,
                   "startColumn": 13,
-                  "endLine": 47,
+                  "endLine": 62,
                   "endColumn": 15
                 }
               }
@@ -144,11 +144,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
                 "region": {
-                  "startLine": 67,
+                  "startLine": 106,
                   "startColumn": 13,
-                  "endLine": 67,
+                  "endLine": 106,
                   "endColumn": 15
                 }
               }
@@ -161,16 +161,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_01' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine01'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -182,16 +182,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_03' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine03'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -207,7 +207,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -224,79 +224,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_02' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine02'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 18,
-                  "endLine": 27,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_10' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine10'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_10.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 18,
-                  "endLine": 28,
-                  "endColumn": 30
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -312,7 +249,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -329,16 +266,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_06' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine06'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase09'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -354,7 +333,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -369,18 +348,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_04' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine04'.",
+          "message": "Make 'privateTrue' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
                 "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 29
                 }
               }
             }
@@ -392,16 +371,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_13' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine13'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase07'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 30
                 }
               }
             }
@@ -413,16 +413,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_09' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine09'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -434,16 +434,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_15' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine15'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -459,7 +459,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -474,34 +474,13 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_12' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine12'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_12.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -518,16 +497,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_16' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine16'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase14'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -543,7 +522,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -564,11 +543,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
                 "region": {
-                  "startLine": 40,
+                  "startLine": 55,
                   "startColumn": 5,
-                  "endLine": 40,
+                  "endLine": 55,
                   "endColumn": 49
                 }
               }
@@ -581,16 +560,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_14' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine14'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -602,16 +581,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_17' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine17'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -621,39 +600,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
                 "region": {
-                  "startLine": 27,
-                  "startColumn": 17,
-                  "endLine": 27,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 8,
-                  "endLine": 11,
-                  "endColumn": 15
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -669,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -690,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -711,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -726,38 +684,17 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_07' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine07'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S3400",
           "level": "warning",
           "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
                 "region": {
-                  "startLine": 27,
+                  "startLine": 30,
                   "startColumn": 25,
-                  "endLine": 27,
+                  "endLine": 30,
                   "endColumn": 43
                 }
               }
@@ -770,16 +707,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_11' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine11'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase11'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -791,37 +728,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_08' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine08'.",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
                 "region": {
-                  "startLine": 21,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_05' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine05'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 63
+                  "endLine": 24,
+                  "endColumn": 61
                 }
               }
             }
@@ -837,12 +753,705 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 25,
+                  "endLine": 35,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/Program.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03' to match pascal case naming rules, consider using 'Cwe532InclusionofSensitiveInfoinLogDatabase03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 20,
+                  "endLine": 37,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
                 "region": {
                   "startLine": 32,
-                  "startColumn": 25,
+                  "startColumn": 20,
                   "endLine": 32,
-                  "endColumn": 44
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 20,
+                  "endLine": 38,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 43,
+                  "endLine": 49,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 20,
+                  "endLine": 49,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 43,
+                  "endLine": 48,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 20,
+                  "endLine": 37,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 43,
+                  "endLine": 48,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 16,
+                  "endLine": 30,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 39,
+                  "endLine": 41,
+                  "endColumn": 97
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 20,
+                  "endLine": 38,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 43,
+                  "endLine": 49,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 20,
+                  "endLine": 45,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 43,
+                  "endLine": 56,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
                 }
               }
             }
@@ -858,11 +1467,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 26,
+                  "startLine": 29,
                   "startColumn": 18,
-                  "endLine": 26,
+                  "endLine": 29,
                   "endColumn": 19
                 }
               }
@@ -871,11 +1480,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 26,
+                  "startLine": 29,
                   "startColumn": 13,
-                  "endLine": 26,
+                  "endLine": 29,
                   "endColumn": 14
                 }
               }
@@ -886,18 +1495,249 @@
           }
         },
         {
-          "ruleId": "S3923",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
                 "region": {
-                  "startLine": 42,
-                  "startColumn": 9,
-                  "endLine": 42,
-                  "endColumn": 11
+                  "startLine": 73,
+                  "startColumn": 20,
+                  "endLine": 73,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 16,
+                  "endLine": 54,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 20,
+                  "endLine": 66,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 20,
+                  "endLine": 65,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 20,
+                  "endLine": 66,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 20,
+                  "endLine": 65,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 20,
+                  "endLine": 88,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
                 }
               }
             }
@@ -913,11 +1753,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 37,
+                  "startLine": 52,
                   "startColumn": 18,
-                  "endLine": 37,
+                  "endLine": 52,
                   "endColumn": 19
                 }
               }
@@ -926,12 +1766,285 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 37,
+                  "startLine": 52,
                   "startColumn": 13,
-                  "endLine": 37,
+                  "endLine": 52,
                   "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs",
+                "region": {
+                  "startLine": 95,
+                  "startColumn": 20,
+                  "endLine": 95,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 20,
+                  "endLine": 87,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 20,
+                  "endLine": 88,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 20,
+                  "endLine": 87,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 20,
+                  "endLine": 72,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 20,
+                  "endLine": 89,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3923",
+          "level": "warning",
+          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 9,
+                  "endLine": 69,
+                  "endColumn": 11
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
                 }
               }
             }
@@ -947,11 +2060,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 79,
                   "startColumn": 18,
-                  "endLine": 52,
+                  "endLine": 79,
                   "endColumn": 19
                 }
               }
@@ -960,11 +2073,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 79,
                   "startColumn": 13,
-                  "endLine": 52,
+                  "endLine": 79,
                   "endColumn": 14
                 }
               }
@@ -975,18 +2088,73 @@
           }
         },
         {
-          "ruleId": "S1751",
+          "ruleId": "S2068",
           "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 13,
-                  "endLine": 30,
-                  "endColumn": 19
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1871",
+          "level": "warning",
+          "message": "Either merge this branch with the identical one on line 70 or change one of the implementations.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 9,
+                  "endLine": 102,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 9,
+                  "endLine": 85,
+                  "endColumn": 10
                 }
               }
             }
@@ -1002,11 +2170,263 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs",
                 "region": {
-                  "startLine": 42,
+                  "startLine": 45,
                   "startColumn": 13,
-                  "endLine": 42,
+                  "endLine": 45,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 20,
+                  "endLine": 66,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 20,
+                  "endLine": 90,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 20,
+                  "endLine": 55,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 20,
+                  "endLine": 33,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 43,
+                  "endLine": 44,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 20,
+                  "endLine": 82,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 43,
+                  "endLine": 43,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 20,
+                  "endLine": 56,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE532_Inclusion_of_Sensitive_Info_in_Log/CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 13,
+                  "endLine": 69,
                   "endColumn": 19
                 }
               }
@@ -1113,6 +2533,39 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
+            ]
+          }
+        },
+        "S1871": {
+          "id": "S1871",
+          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
             ]
           }
         },

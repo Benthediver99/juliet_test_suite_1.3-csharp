@@ -1,21 +1,21 @@
-¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_01.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_02.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_03.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_04.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_05.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_06.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_07.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_08.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_09.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_10.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_11.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_12.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_13.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_14.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_15.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_16.csutf-8¥
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value__MemoryStream_17.csutf-8ç
-ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\Program.csutf-8ù
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\Properties\AssemblyInfo.csutf-8b
+€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_01.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.csutf-8€
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_17.csutf-8ü
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\Program.csutf-8Ø
+•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\Properties\AssemblyInfo.csutf-8b
 WC:\Users\CyberDiver\AppData\Local\Temp\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8

@@ -1,1215 +1,617 @@
-…
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_01.cs
+ä
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_01.cs
 
- '
-
- 
- !))! -(
- ++ //? H00 '(
-. 2"") -""> B""H L
-"" &%%> G
-##  "%%: <++  "
-%%$ &''> @
-''( *)) 
-
-// 
-
-44 
-99 66 
-;; !GG! -(
-<< II MM? HNN '(
-==( +@@) ,@@= @@@F I
-@@ &CC> G
-AA  "CC: <II  "
-CC$ &EE> @
-EE( *GG 
-
-MM ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_02.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+  !!, /
+   !!< H
+!! )""" 8
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+'' 
+,, )) 
+.. #22, 2
+11 22? K
+22 )33" 8¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_02.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_03.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_03.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
+ ,
 
-oo 
+ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-tt ©
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_04.cs
+MM ò
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_04.cs
 
- '
- )## aa 
- *@@ 
+ ,
+ )## GG 
+ *33 
 
 !! 
-%% %11% 1(
-&& 33 !77C L88" +(
-''2 6**- 1**B F**L P
-**! *--B K
-++$ &--> @33$ &
---( *//B D
-//, .11 
+%%! $))0 3
+(( #))@ L
+)) -**& <
+11 UU 
+::! '>>0 6
+== #>>C O
+>> -??& <
+EE VV 
+II! 'MM0 6
+LL #MMC O
+MM -NN& <
 
-77 
->> || 
-GG %SS% 1(
-HH UU !YYC LZZ" +(
-II, /LL- 0LLA DLLJ M
-LL! *OOB K
-MM$ &OO> @UU$ &
-OO( *QQB D
-QQ, .SS 
+SS ò
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_05.cs
 
-YY 
-__ }} 
-cc %oo% 1(
-dd qq !uuC Lvv" +(
-ee, /hh- 0hhA DhhJ M
-hh! *kkB K
-ii$ &kk> @qq$ &
-kk( *mmB D
-mm, .oo 
-
-uu 
-
-zz ©
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_05.cs
-
- '
- ## aa 
- @@ 
+ ,
+ ## GG 
+ 33 
 
 !! 
-%% %11% 1(
-&& 33 !77C L88" +(
-''2 6**- 1**B F**L P
-**! *--B K
-++$ &--> @33$ &
---( *//B D
-//, .11 
+%%! $))0 3
+(( #))@ L
+)) -**& <
+11 UU 
+::! '>>0 6
+== #>>C O
+>> -??& <
+EE VV 
+II! 'MM0 6
+LL #MMC O
+MM -NN& <
 
-77 
->> || 
-GG %SS% 1(
-HH UU !YYC LZZ" +(
-II, /LL- 0LLA DLLJ M
-LL! *OOB K
-MM$ &OO> @UU$ &
-OO( *QQB D
-QQ, .SS 
+SS æ
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_06.cs
 
-YY 
-__ }} 
-cc %oo% 1(
-dd qq !uuC Lvv" +(
-ee, /hh- 0hhA DhhJ M
-hh! *kkB K
-ii$ &kk> @qq$ &
-kk( *mmB D
-mm, .oo 
-
-uu 
-
-zz 
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_06.cs
-
- '(
- ("" ?? `` 
+ ,(
+ ("" 22 FF 
 
    
-$$ %00% 1(
-%% 22 !66C L77" +(
-&&2 6))- 1))B F))L P
-))! *,,B K
-**$ &,,> @22$ &
-,,( *..B D
-.., .00 
+$$! $((0 3
+'' #((@ L
+(( -))& <
+00 TT 
+99! '==0 6
+<< #==C O
+== ->>& <
+DD UU 
+HH! 'LL0 6
+KK #LLC O
+LL -MM& <
 
-66 
-== {{ 
-FF %RR% 1(
-GG TT !XXC LYY" +(
-HH, /KK- 0KKA DKKJ M
-KK! *NNB K
-LL$ &NN> @TT$ &
-NN( *PPB D
-PP, .RR 
+RR æ
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_07.cs
 
-XX 
-^^ || 
-bb %nn% 1(
-cc pp !ttC Luu" +(
-dd, /gg- 0ggA DggJ M
-gg! *jjB K
-hh$ &jj> @pp$ &
-jj( *llB D
-ll, .nn 
-
-tt 
-
-yy 
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_07.cs
-
- '(
- "" ?? `` 
+ ,(
+ "" 22 FF 
 
    
-$$ %00% 1(
-%% 22 !66C L77" +(
-&&2 6))- 1))B F))L P
-))! *,,B K
-**$ &,,> @22$ &
-,,( *..B D
-.., .00 
+$$! $((0 3
+'' #((@ L
+(( -))& <
+00 TT 
+99! '==0 6
+<< #==C O
+== ->>& <
+DD UU 
+HH! 'LL0 6
+KK #LLC O
+LL -MM& <
 
-66 
-== {{ 
-FF %RR% 1(
-GG TT !XXC LYY" +(
-HH, /KK- 0KKA DKKJ M
-KK! *NNB K
-LL$ &NN> @TT$ &
-NN( *PPB D
-PP, .RR 
+RR ò
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_08.cs
 
-XX 
-^^ || 
-bb %nn% 1(
-cc pp !ttC Luu" +(
-dd, /gg- 0ggA DggJ M
-gg! *jjB K
-hh$ &jj> @pp$ &
-jj( *llB D
-ll, .nn 
-
-tt 
-
-yy ¯
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_08.cs
-
- '
- *** hh 
-## +GG 
+ ,
+ *** NN 
+## +:: 
 
 (( 
-,, %88% 1(
--- :: !>>C L??" +(
-..2 611- 111B F11L P
-11! *44B K
-22$ &44> @::$ &
-44( *66B D
-66, .88 
+,,! $000 3
+// #00@ L
+00 -11& <
+88 \\ 
+AA! 'EE0 6
+DD #EEC O
+EE -FF& <
+LL ]] 
+PP! 'TT0 6
+SS #TTC O
+TT -UU& <
 
->> 
-EE 
-ƒƒ 
-NN %ZZ% 1(
-OO \\ !``C Laa" +(
-PP, /SS- 0SSA DSSJ M
-SS! *VVB K
-TT$ &VV> @\\$ &
-VV( *XXB D
-XX, .ZZ 
+ZZ ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_09.cs
 
-`` 
-ff 
-„„ 
-jj %vv% 1(
-kk xx !||C L}}" +(
-ll, /oo- 0ooA DooJ M
-oo! *rrB K
-pp$ &rr> @xx$ &
-rr( *ttB D
-tt, .vv 
-
-|| 
-
- ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_09.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_10.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_10.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_11.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_11.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM è
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_12.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ¹
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_12.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+))! '--0 6
+,, #--C O
+-- -..& <
+55 OO 
+99! '==0 6
+<< #==C O
+== ->>& <
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-66 %BB% 1(
-77 DD !HHC LII" +(
-88, /;;- 0;;A D;;J M
-;;! *>>B K
-<<$ &>>> @DD$ &
->>( *@@B D
-@@, .BB 
+MM ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_13.cs
 
-HH 
-OO 
-ƒƒ 
-SS %__% 1(
-TT aa !eeC Lff" +(
-UU, /XX- 0XXA DXXJ M
-XX! *[[B K
-YY$ &[[> @aa$ &
-[[( *]]B D
-]], .__ 
-
-ee 
-jj %vv% 1(
-kk xx !||C L}}" +(
-ll, /oo- 0ooA DooJ M
-oo! *rrB K
-pp$ &rr> @xx$ &
-rr( *ttB D
-tt, .vv 
-
-|| 
-
- ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_13.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_14.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ó
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_14.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ¼
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_15.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ù
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_15.cs
-
- '
+ ,
 
  
-   %,,% 1(
-!! .. !22C L33" +(
-""2 6%%- 1%%B F%%L P
-%%! *((B K
-&&$ &((> @..$ &
-((( ***B D
-**, .,, 
+  ! $$$0 3
+## #$$@ L
+$$ -%%& <
+11 \\ 
+::! '>>0 6
+== #>>C O
+>> -??& <
+FF ]] 
+KK! 'OO0 6
+NN #OOC O
+OO -PP& <
 
-22 
->> 
-ƒƒ 
-GG %SS% 1(
-HH UU !YYC LZZ" +(
-II, /LL- 0LLA DLLJ M
-LL! *OOB K
-MM$ &OO> @UU$ &
-OO( *QQB D
-QQ, .SS 
+ZZ ä
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_16.cs
 
-YY 
-`` 
-„„ 
-ee %qq% 1(
-ff ss !wwC Lxx" +(
-gg, /jj- 0jjA DjjJ M
-jj! *mmB K
-kk$ &mm> @ss$ &
-mm( *ooB D
-oo, .qq 
-
-ww 
-
- …
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_16.cs
-
- '
+ ,
 
  
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+,, == 
+00! '440 6
+33 #44C O
+44 -55& <
 
-11 
-99 WW 
-== %II% 1(
->> KK !OOC LPP" +(
-??, /BB- 0BBA DBBJ M
-BB! *EEB K
-CC$ &EE> @KK$ &
-EE( *GGB D
-GG, .II 
+;; ¤
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__MD5_17.cs
 
-OO 
-
-UU Å
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_17.cs
-
- '
+ ,
 
  
    
- %++% 1(
-   -- !11C L22" +(
-!!2 6$$- 1$$B F$$L P
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! $##0 3
+"" ###@ L
+## -$$& <
+++ ;; 
+-- -- -- 
+//! '330 6
+22 #33C O
+33 -44& <
 
-11 
-88 UU 
-:: :: :: 
-<< %HH% 1(
-== JJ !NNC LOO" +(
->>, /AA- 0AAA DAAJ M
-AA! *DDB K
-BB$ &DD> @JJ$ &
-DD( *FFB D
-FF, .HH 
+99 å
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_01.cs
 
-NN 
-
-SS „
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_01.cs
-
- &
+ -
 
  
- !))! -(
- ++ //? H00 '(
-( +"") ,""= @""F I
-"" &%%> G
-##  "%%: <++  "
-%%$ &''> @
-''( *)) 
+ !!!, 0
+   !!= I
+!! )""" 8
 
-// 
+'' 
+,, )) 
+.. #22, 2
+11 22? K
+22 )33" 8½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_02.cs
 
-44 
-99 66 
-;; !GG! -(
-<< II MM? HNN '(
-==( +@@) ,@@= @@@F I
-@@ &CC> G
-AA  "CC: <II  "
-CC$ &EE> @
-EE( *GG 
-
-MM ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_02.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_03.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_03.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ó
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_04.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ¨
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_04.cs
-
- &
- )## aa 
- *@@ 
+ -
+ )## GG 
+ *33 
 
 !! 
-%% %11% 1(
-&& 33 !77C L88" +(
-'', /**- 0**A D**J M
-**! *--B K
-++$ &--> @33$ &
---( *//B D
-//, .11 
+%%! %))0 4
+(( #))A M
+)) -**& <
+11 UU 
+::! '>>0 6
+== #>>C O
+>> -??& <
+EE VV 
+II! 'MM0 6
+LL #MMC O
+MM -NN& <
 
-77 
->> || 
-GG %SS% 1(
-HH UU !YYC LZZ" +(
-II, /LL- 0LLA DLLJ M
-LL! *OOB K
-MM$ &OO> @UU$ &
-OO( *QQB D
-QQ, .SS 
+SS ó
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_05.cs
 
-YY 
-__ }} 
-cc %oo% 1(
-dd qq !uuC Lvv" +(
-ee, /hh- 0hhA DhhJ M
-hh! *kkB K
-ii$ &kk> @qq$ &
-kk( *mmB D
-mm, .oo 
-
-uu 
-
-zz ¨
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_05.cs
-
- &
- ## aa 
- @@ 
+ -
+ ## GG 
+ 33 
 
 !! 
-%% %11% 1(
-&& 33 !77C L88" +(
-'', /**- 0**A D**J M
-**! *--B K
-++$ &--> @33$ &
---( *//B D
-//, .11 
+%%! %))0 4
+(( #))A M
+)) -**& <
+11 UU 
+::! '>>0 6
+== #>>C O
+>> -??& <
+EE VV 
+II! 'MM0 6
+LL #MMC O
+MM -NN& <
 
-77 
->> || 
-GG %SS% 1(
-HH UU !YYC LZZ" +(
-II, /LL- 0LLA DLLJ M
-LL! *OOB K
-MM$ &OO> @UU$ &
-OO( *QQB D
-QQ, .SS 
+SS ç
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_06.cs
 
-YY 
-__ }} 
-cc %oo% 1(
-dd qq !uuC Lvv" +(
-ee, /hh- 0hhA DhhJ M
-hh! *kkB K
-ii$ &kk> @qq$ &
-kk( *mmB D
-mm, .oo 
-
-uu 
-
-zz œ
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_06.cs
-
- &(
- ("" ?? `` 
+ -(
+ ("" 22 FF 
 
    
-$$ %00% 1(
-%% 22 !66C L77" +(
-&&, /))- 0))A D))J M
-))! *,,B K
-**$ &,,> @22$ &
-,,( *..B D
-.., .00 
+$$! %((0 4
+'' #((A M
+(( -))& <
+00 TT 
+99! '==0 6
+<< #==C O
+== ->>& <
+DD UU 
+HH! 'LL0 6
+KK #LLC O
+LL -MM& <
 
-66 
-== {{ 
-FF %RR% 1(
-GG TT !XXC LYY" +(
-HH, /KK- 0KKA DKKJ M
-KK! *NNB K
-LL$ &NN> @TT$ &
-NN( *PPB D
-PP, .RR 
+RR ç
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_07.cs
 
-XX 
-^^ || 
-bb %nn% 1(
-cc pp !ttC Luu" +(
-dd, /gg- 0ggA DggJ M
-gg! *jjB K
-hh$ &jj> @pp$ &
-jj( *llB D
-ll, .nn 
-
-tt 
-
-yy œ
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_07.cs
-
- &(
- "" ?? `` 
+ -(
+ "" 22 FF 
 
    
-$$ %00% 1(
-%% 22 !66C L77" +(
-&&, /))- 0))A D))J M
-))! *,,B K
-**$ &,,> @22$ &
-,,( *..B D
-.., .00 
+$$! %((0 4
+'' #((A M
+(( -))& <
+00 TT 
+99! '==0 6
+<< #==C O
+== ->>& <
+DD UU 
+HH! 'LL0 6
+KK #LLC O
+LL -MM& <
 
-66 
-== {{ 
-FF %RR% 1(
-GG TT !XXC LYY" +(
-HH, /KK- 0KKA DKKJ M
-KK! *NNB K
-LL$ &NN> @TT$ &
-NN( *PPB D
-PP, .RR 
+RR ó
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_08.cs
 
-XX 
-^^ || 
-bb %nn% 1(
-cc pp !ttC Luu" +(
-dd, /gg- 0ggA DggJ M
-gg! *jjB K
-hh$ &jj> @pp$ &
-jj( *llB D
-ll, .nn 
-
-tt 
-
-yy ®
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_08.cs
-
- &
- *** hh 
-## +GG 
+ -
+ *** NN 
+## +:: 
 
 (( 
-,, %88% 1(
--- :: !>>C L??" +(
-.., /11- 011A D11J M
-11! *44B K
-22$ &44> @::$ &
-44( *66B D
-66, .88 
+,,! %000 4
+// #00A M
+00 -11& <
+88 \\ 
+AA! 'EE0 6
+DD #EEC O
+EE -FF& <
+LL ]] 
+PP! 'TT0 6
+SS #TTC O
+TT -UU& <
 
->> 
-EE 
-ƒƒ 
-NN %ZZ% 1(
-OO \\ !``C Laa" +(
-PP, /SS- 0SSA DSSJ M
-SS! *VVB K
-TT$ &VV> @\\$ &
-VV( *XXB D
-XX, .ZZ 
+ZZ ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_09.cs
 
-`` 
-ff 
-„„ 
-jj %vv% 1(
-kk xx !||C L}}" +(
-ll, /oo- 0ooA DooJ M
-oo! *rrB K
-pp$ &rr> @xx$ &
-rr( *ttB D
-tt, .vv 
-
-|| 
-
- ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_09.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_10.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_10.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_11.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_11.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM é
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_12.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ¸
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_12.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+))! '--0 6
+,, #--C O
+-- -..& <
+55 OO 
+99! '==0 6
+<< #==C O
+== ->>& <
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-66 %BB% 1(
-77 DD !HHC LII" +(
-88, /;;- 0;;A D;;J M
-;;! *>>B K
-<<$ &>>> @DD$ &
->>( *@@B D
-@@, .BB 
+MM ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_13.cs
 
-HH 
-OO 
-ƒƒ 
-SS %__% 1(
-TT aa !eeC Lff" +(
-UU, /XX- 0XXA DXXJ M
-XX! *[[B K
-YY$ &[[> @aa$ &
-[[( *]]B D
-]], .__ 
-
-ee 
-jj %vv% 1(
-kk xx !||C L}}" +(
-ll, /oo- 0ooA DooJ M
-oo! *rrB K
-pp$ &rr> @xx$ &
-rr( *ttB D
-tt, .vv 
-
-|| 
-
- ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_13.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_14.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_14.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ OO 
+44! '880 6
+77 #88C O
+88 -99& <
+?? PP 
+CC! 'GG0 6
+FF #GGC O
+GG -HH& <
 
-11 
-88 vv 
-AA %MM% 1(
-BB OO !SSC LTT" +(
-CC, /FF- 0FFA DFFJ M
-FF! *IIB K
-GG$ &II> @OO$ &
-II( *KKB D
-KK, .MM 
+MM ½
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_15.cs
 
-SS 
-YY ww 
-]] %ii% 1(
-^^ kk !ooC Lpp" +(
-__, /bb- 0bbA DbbJ M
-bb! *eeB K
-cc$ &ee> @kk$ &
-ee( *ggB D
-gg, .ii 
-
-oo 
-
-tt ø
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_15.cs
-
- &
+ -
 
  
-   %,,% 1(
-!! .. !22C L33" +(
-"", /%%- 0%%A D%%J M
-%%! *((B K
-&&$ &((> @..$ &
-((( ***B D
-**, .,, 
+  ! %$$0 4
+## #$$A M
+$$ -%%& <
+11 \\ 
+::! '>>0 6
+== #>>C O
+>> -??& <
+FF ]] 
+KK! 'OO0 6
+NN #OOC O
+OO -PP& <
 
-22 
->> 
-ƒƒ 
-GG %SS% 1(
-HH UU !YYC LZZ" +(
-II, /LL- 0LLA DLLJ M
-LL! *OOB K
-MM$ &OO> @UU$ &
-OO( *QQB D
-QQ, .SS 
+ZZ å
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_16.cs
 
-YY 
-`` 
-„„ 
-ee %qq% 1(
-ff ss !wwC Lxx" +(
-gg, /jj- 0jjA DjjJ M
-jj! *mmB K
-kk$ &mm> @ss$ &
-mm( *ooB D
-oo, .qq 
-
-ww 
-
- „
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_16.cs
-
- &
+ -
 
  
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+,, == 
+00! '440 6
+33 #44C O
+44 -55& <
 
-11 
-99 WW 
-== %II% 1(
->> KK !OOC LPP" +(
-??, /BB- 0BBA DBBJ M
-BB! *EEB K
-CC$ &EE> @KK$ &
-EE( *GGB D
-GG, .II 
+;; ¥
+¤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash__SHA1_17.cs
 
-OO 
-
-UU Ä
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_17.cs
-
- &
+ -
 
  
    
- %++% 1(
-   -- !11C L22" +(
-!!, /$$- 0$$A D$$J M
-$$! *''B K
-%%$ &''> @--$ &
-''( *))B D
-)), .++ 
+! %##0 4
+"" ###A M
+## -$$& <
+++ ;; 
+-- -- -- 
+//! '330 6
+22 #33C O
+33 -44& <
 
-11 
-88 UU 
-:: :: :: 
-<< %HH% 1(
-== JJ !NNC LOO" +(
->>, /AA- 0AAA DAAJ M
-AA! *DDB K
-BB$ &DD> @JJ$ &
-DD( *FFB D
-FF, .HH 
-
-NN 
-
-SS ”
-~C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\Program.cs
+99 ›
+„C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\Program.cs
 
  
 
@@ -1234,5 +636,5 @@
 
 šš  JJ 
 
-    KK ‘
-ŽC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\Properties\AssemblyInfo.cs
+    KK —
+”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\Properties\AssemblyInfo.cs

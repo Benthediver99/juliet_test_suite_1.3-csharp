@@ -1,18 +1,38 @@
- 
-óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE667_Improper_Locking\CWE667_Improper_Locking__basic_01.cs
+´
+¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\CWE674_Uncontrolled_Recursion__long_01.cs
+
+
+ 0
+% 7(( *
+ %    
++ 0  
+
+  
+    
+%% '33 :: (
+%%- 2(( .. 33 
+66 ?? 
+88 :: 
+
+== !…
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\CWE674_Uncontrolled_Recursion__missing_base_01.cs
 
 
- +
- '  %
-' . !
+ 8
+ %# , "
++ 0  - 2
+  
 
-  
- )(( ** +
-' /$$ "// %
-"" 55 
+  
+ # -
+ '''# .// $(
+- 2"" ''  ''/ 4
+'' (( 
+++ 44 
+-- //% /
 
-33 !á
-}C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE667_Improper_Locking\Program.cs
+22 !ê
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\Program.cs
 
  
 
@@ -29,7 +49,8 @@
 aa  FF 
 gg  GG 
 mm  HH 
-ss  II 
-yy  JJ 
-  KK ê
-çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE667_Improper_Locking\Properties\AssemblyInfo.cs
+tt  II 
+zz  JJ 
+
+ÄÄ  KK ñ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\Properties\AssemblyInfo.cs

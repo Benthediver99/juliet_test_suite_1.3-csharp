@@ -1,14 +1,5019 @@
-Ø
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_01.cs
+¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_01.cs
 
- =
+ =
+
+"" (
+$$ %% 99  $WW= A<
+((  ,, -- ..+ 3KK  MM  
+..! (11> E
+11( *44. 0
+44 +55 (991 =
+;;2 D==B T
+CC 'EE2 :
+PP& (RR6 8
+
+WW !
+
+[[ 
+aa ]] 
+cc ee gg= A
+
+gg !Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_02.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_03.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ Ê
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_04.cs
+
+ = 
+%% ),, 
+‚‚ 
+&& *oo 
+
+)) 2
+++ .. BB$ (dd gg= A<
+11 $55 66 77/ 7TT $VV $
+77% ,::B I
+::, .==2 4
+==# />>  ,BB5 A
+DD6 HFFF X
+LL# +NN6 >
+YY* ,[[: <
+
+gg !
+ll 
+““ (
+nn ss xx {{= A
+
+{{ !
+ 
+”” 0
+
+ 
+…… 
+‹‹ 
+ŽŽ= A
+
+ŽŽ !
+
+‘‘ Ê
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_05.cs
+
+ = 
+%% ,, 
+‚‚ 
+&& oo 
+
+)) 2
+++ .. BB$ (dd gg= A<
+11 $55 66 77/ 7TT $VV $
+77% ,::B I
+::, .==2 4
+==# />>  ,BB5 A
+DD6 HFFF X
+LL# +NN6 >
+YY* ,[[: <
+
+gg !
+ll 
+““ (
+nn ss xx {{= A
+
+{{ !
+ 
+”” 0
+
+ 
+…… 
+‹‹ 
+ŽŽ= A
+
+ŽŽ !
+
+‘‘ ¾
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_06.cs
+
+ =*
+%% (++ nn 
+ 
+
+(( 2
+** -- AA$ (cc ff= A<
+00 $44 55 66/ 7SS $UU $
+66% ,99B I
+99, .<<2 4
+<<# /==  ,AA5 A
+CC6 HEEF X
+KK# +MM6 >
+XX* ,ZZ: <
+
+ff !
+kk 
+’’ (
+mm rr ww zz= A
+
+zz !
+~~ 
+““ 0
+
+€€ 
+„„ 
+ŠŠ 
+= A
+
+ !
+
+ ¾
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_07.cs
+
+ =*
+%% ++ nn 
+ 
+
+(( 2
+** -- AA$ (cc ff= A<
+00 $44 55 66/ 7SS $UU $
+66% ,99B I
+99, .<<2 4
+<<# /==  ,AA5 A
+CC6 HEEF X
+KK# +MM6 >
+XX* ,ZZ: <
+
+ff !
+kk 
+’’ (
+mm rr ww zz= A
+
+zz !
+~~ 
+““ 0
+
+€€ 
+„„ 
+ŠŠ 
+= A
+
+ !
+
+ Ð
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_08.cs
+
+ = 
+%% *33 
+‰‰ 
+** +vv 
+
+00 2
+22 55 II$ (kk nn= A<
+88 $<< == >>/ 7[[ $]] $
+>>% ,AAB I
+AA, .DD2 4
+DD# /EE  ,II5 A
+KK6 HMMF X
+SS# +UU6 >
+``* ,bb: <
+
+nn !
+ss 
+šš *
+uu zz  
+‚‚= A
+
+‚‚ !
+
+†† 
+›› 0
+
+ˆˆ 
+ŒŒ 
+’’ 
+••= A
+
+•• !
+
+˜˜ Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_09.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_10.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_11.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ ¶
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_12.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (\\ __= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+__ !
+ee xx (
+gg kk pp ss= A
+
+ss !
+
+vv Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_13.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_14.cs
+
+ =
+
+"" 2
+$$ '' ;;$ (]] ``= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` !
+ee 
+ŒŒ (
+gg ll qq tt= A
+
+tt !
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡= A
+
+‡‡ !
+
+ŠŠ 
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_15.cs
+
+ =
+
+"" 2
+$$ (( <<$ (]] aa= A<
+++ $// 00 11/ 7NN $PP $
+11% ,44B I
+44, .772 4
+77# /88  ,<<5 A
+>>6 H@@F X
+FF# +HH6 >
+SS* ,UU: <
+
+aa !
+ff 
+ (
+hh nn rr vv= A
+
+vv !
+zz 
+ .
+|| 
+ 
+†† 
+ŠŠ= A
+
+ŠŠ !
+
+ ¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_16.cs
+
+ =
+
+"" (
+$$ '' ;;$ ([[= A<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+[[ !
+`` oo 
+bb ff jj= A
+
+jj !
+
+mm â
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_17.cs
+
+ =
+
+"" (
+$$ %% 99  $YYA E<
+((  ,, -- ..+ 3KK  MM  
+..! (11> E
+11( *44. 0
+44 +55 (991 =
+;;2 D==B T
+CC 'EE2 :
+PP& (RR6 8
+VV VV VV  
+
+YY! %
+`` nn 
+bb dd hhA E
+ee ee ee  
+
+hh! %
+
+ll ª
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_21.cs
+
+ =
+## (( 11 
+
+%% 
+'' )) ++= A
+.. )) 
+
+++ !2
+00 33 GG$ (ii kk <
+66 $:: ;; <</ 7YY $[[ $
+<<% ,??B I
+??, .BB2 4
+BB# /CC  ,GG5 A
+II6 HKKF X
+QQ# +SS6 >
+^^* ,``: < 
+oo !|| 
+…… "
+pp !
+—— 
+   
+
+rr 
+yy tt 
+
+”” uu 
+{{ }} = A
+
+‚‚ }} 
+
+ !0
+
+„„ 
+‰‰ 
+ŽŽ 
+ $
+
+–– 
+˜˜ 
+šš= A
+
+ 
+˜˜ 
+
+šš !0
+
+ŸŸ 
+££ 
+©© 
+«« Ñ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_22a.cs
+
+ >
+ &$$ 
+
+!! 
+## %% ''= A
+
+'' !
+,, +99 
+-- +CC 
+
+// 
+66 11 
+@@ 22 
+88 :: <<= A
+
+<< !
+BB DD FF= A
+
+FF !Ã
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_22b.cs
+
+ >
+
+   2
+"" %% 99$ ([[ ]] <
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,995 A
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <
+
+cc $(
+ee jj oo qq 
+
+uu $,
+ww {{ 
+ 
+ƒƒ Ž
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_31.cs
+
+ =
+
+## 
+%% YY \\ (
+'' (( <<$ (YY <
+++ $// 00 11/ 7NN $PP $
+11% ,44B I
+44, .772 4
+77# /88  ,<<5 A
+>>6 H@@F X
+FF# +HH6 >
+SS* ,UU: <
+\\ ^^A E
+
+^^! %
+
+cc 
+ii ee 
+kk pp ss 
+mm oo pp 
+ss uuA E
+
+uu! %ú
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_41.cs
+
+ =
+!! [[ 
+!!$ ($$= A
+
+$$ !
+
+'' (
+)) ** >>  $[[ <
+--  11 22 33+ 3PP  RR  
+33! (66> E
+66( *99. 0
+99 +:: (>>1 =
+@@2 DBBB T
+HH 'JJ2 :
+UU& (WW6 8
+
+__ 
+kk aa 
+dd #pp 
+dd( ,gg= A
+
+gg !
+mm oo pp ú
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_42.cs
+
+ =
+!!  [[ (
+## $$ 88  $UU <
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (881 =
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+
+YY 
+[[ ]]= A
+
+]] !
+aa $ll  
+cc ee ff 
+jj ss 
+ll nn= A
+
+nn !
+
+qq º
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_45.cs
+
+ =
+"" '' aa 
+## mm xx 
+%% bb 
+'' ))= A
+
+)) !
+
+-- (
+// 00 DD  $aa <
+33  77 88 99+ 3VV  XX  
+99! (<<> E
+<<( *??. 0
+?? +@@ (DD1 =
+FF2 DHHB T
+NN 'PP2 :
+[[& (]]6 8
+
+ff 
+ss hh 
+kk yy 
+mm oo= A
+
+oo !
+uu ww xx ‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_51a.cs
+
+ >
+
+ (
+!! "" 66  $SSI M<
+%%  )) ** +++ 3HH  JJ  
+++! (..> E
+..( *11. 0
+11 +22 (661 =
+882 D::B T
+@@ 'BB2 :
+MM& (OO6 8
+
+WW 
+]] YY 
+__ aa bbM Q£
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_51b.cs
+
+ >
+
+ 
+# '= A
+
+ !
+
+%% "
+%%' +((= A
+
+(( !‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_52a.cs
+
+ >
+
+   (
+"" ## 77  $TTI M<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccM Q‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_52b.cs
+
+ >
+
+ 
+# 'I M
+
+## "
+##' +%%M Q£
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_52c.cs
+
+ >
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_53a.cs
+
+ >
+
+   (
+"" ## 77  $TTI M<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccM Q‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_53b.cs
+
+ >
+
+ 
+# 'I M
+
+## "
+##' +%%M Q‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_53c.cs
+
+ >
+
+ 
+# 'I M
+
+## "
+##' +%%M Q£
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_53d.cs
+
+ >
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_54a.cs
+
+ >
+
+   (
+"" ## 77  $TTI M<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccM Q‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_54b.cs
+
+ >
+
+ 
+# 'I M
+
+## "
+##' +%%M Q‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_54c.cs
+
+ >
+
+ 
+# 'I M
+
+## "
+##' +%%M Q‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_54d.cs
+
+ >
+
+ 
+# 'I M
+
+## "
+##' +%%M Q£
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_54e.cs
+
+ >
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !¹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_61a.cs
+
+ >
+
+ 
+ !!= A
+
+!! !
+
+%% 
+++ '' 
+-- //= A
+
+// !õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_61b.cs
+
+ >
+
+   (
+"" ## 77  $TT <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+ZZ #
+\\ ^^ __ Ë
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_66a.cs
+
+ >
+
+   (
+"" ## 77  $UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TT UU VVI R
+
+ZZ 
+`` \\ 
+bb dd ff 
+ee ff ggM VÏ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_66b.cs
+
+ >
+
+ 
+% . 
+ !!= A
+
+!! !
+
+'' "
+'') 2)) 
+)) ++= A
+
+++ !Ÿ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_67a.cs
+
+ >2
+   YY YY& /jj jj& /
+"" ZZ "kk "
+
+%% (
+'' (( <<  $ZZ% )<
+++  // 00 11+ 3NN  PP  
+11! (44> E
+44( *77. 0
+77 +88 (<<1 =
+>>2 D@@B T
+FF 'HH2 :
+SS& (UU6 8
+YY ZZ [[I V
+
+__ 
+ee aa 
+gg ii kk% )
+jj kk llM ZÏ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_67b.cs
+
+ >
+
+ 
+b o  
+ !!= A
+
+!! !
+
+'' "
+''f s))  
+)) ++= A
+
+++ !ë
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_68a.cs
+
+ >(
+ ## 77  $aa 
+
+!! <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ £
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_68b.cs
+
+ >
+
+ 
+   = A
+
+   !
+
+&& "
+(( **= A
+
+** !‹
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_71a.cs
+
+ >
+
+   (
+"" ## 77  $TTQ U<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccU YÏ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_71b.cs
+
+ >
+
+ 
+& 0   "
+   ""= A
+
+"" !
+
+(( "
+((* 4** "
+** ,,= A
+
+,, !›
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_72a.cs
+
+ >
+
+   <
+"" ## 77  $UU !VV !WW !<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 82
+TT UU VV WW XXI V
+
+\\ 
+bb ^^ 2
+dd ff hh !ii !jj !2
+gg hh ii jj kkM ZÏ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_72b.cs
+
+ >
+
+ 
+) 6   &
+   ""= A
+
+"" !
+
+(( "
+((- :** &
+** ,,= A
+
+,, !›
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_73a.cs
+
+ >
+
+!! <
+## $$ 88  $VV #WW #XX #<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (881 =
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU &VV WW XX YYI W
+
+]] 
+cc __ 2
+ee gg ii #jj #kk #2
+hh &ii jj kk llM [Ï
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_73b.cs
+
+ >
+
+ 
+/ = !
+ !!= A
+
+!! !
+
+'' "
+''3 A)) !
+)) ++= A
+
+++ !›
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_74a.cs
+
+ >
+
+   <
+"" ## 77  $UU "VV "WW "<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 82
+TT *UU VV WW XXI W
+
+\\ 
+bb ^^ 2
+dd ff hh "ii "jj "2
+gg *hh ii jj kkM [Ï
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_74b.cs
+
+ >
+
+ 
+3 A !
+ !!= A
+
+!! !
+
+'' "
+''7 E)) !
+)) ++= A
+
+++ !å
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_75a.cs
+
+ >
+
+!! (
+## $$ 88  $\\! %<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (881 =
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+VV ]] __M [
+YY \\ 
+ZZ \\ ]]! #
+aa& 5ccZ i
+
+hh 
+nn jj 
+pp rr zz! %
+tt {{ }}Q _
+ww zz 
+xx zz {{! #
+& 5
+Z i£
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_75b.cs
+
+ >
+
+   
+  & 4((  .((3 A
+$$ ** --A E
+%% ** #(
+&&  (( )) **0 9
+
+--! %
+//& 511[ j
+
+88 "
+88* 8@@  .@@3 A
+<< BB EEA E
+== BB #(
+>>  @@ AA BB0 9
+
+EE! %
+GG& 5II[ j·
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_81a.cs
+
+ >
+
+   (
+"" ## 77  $UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TTE OUU 
+
+YY 
+__ [[ 
+aa cc ee 
+ddE Oee ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_81_bad.cs
+
+ A
+
+ 
+$ (!!= A
+
+!! !ã
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_81_base.cs
+
+ K
+
+ 
+
+$ (ü
+¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_Dictionary_81_goodG2B.cs
+
+ E
+
+ 
+$ (!!= A
+
+!! !Ÿ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_01.cs
+
+ :
+
+"" (
+$$ %% 99  $WW3 7<
+((  ,, -- ..+ 3KK  MM  
+..! (11> E
+11( *44. 0
+44 +55 (991 =
+;;2 D==B T
+CC 'EE2 :
+PP& (RR6 8
+
+WW 
+
+[[ 
+aa ]] 
+cc ee gg3 7
+
+gg ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_02.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_03.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ Ç
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_04.cs
+
+ : 
+%% ),, 
+‚‚ 
+&& *oo 
+
+)) 2
+++ .. BB$ (dd gg3 7<
+11 $55 66 77/ 7TT $VV $
+77% ,::B I
+::, .==2 4
+==# />>  ,BB5 A
+DD6 HFFF X
+LL# +NN6 >
+YY* ,[[: <
+
+gg 
+ll 
+““ (
+nn ss xx {{3 7
+
+{{ 
+ 
+”” 0
+
+ 
+…… 
+‹‹ 
+ŽŽ3 7
+
+ŽŽ 
+
+‘‘ Ç
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_05.cs
+
+ : 
+%% ,, 
+‚‚ 
+&& oo 
+
+)) 2
+++ .. BB$ (dd gg3 7<
+11 $55 66 77/ 7TT $VV $
+77% ,::B I
+::, .==2 4
+==# />>  ,BB5 A
+DD6 HFFF X
+LL# +NN6 >
+YY* ,[[: <
+
+gg 
+ll 
+““ (
+nn ss xx {{3 7
+
+{{ 
+ 
+”” 0
+
+ 
+…… 
+‹‹ 
+ŽŽ3 7
+
+ŽŽ 
+
+‘‘ »
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_06.cs
+
+ :*
+%% (++ nn 
+ 
+
+(( 2
+** -- AA$ (cc ff3 7<
+00 $44 55 66/ 7SS $UU $
+66% ,99B I
+99, .<<2 4
+<<# /==  ,AA5 A
+CC6 HEEF X
+KK# +MM6 >
+XX* ,ZZ: <
+
+ff 
+kk 
+’’ (
+mm rr ww zz3 7
+
+zz 
+~~ 
+““ 0
+
+€€ 
+„„ 
+ŠŠ 
+3 7
+
+ 
+
+ »
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_07.cs
+
+ :*
+%% ++ nn 
+ 
+
+(( 2
+** -- AA$ (cc ff3 7<
+00 $44 55 66/ 7SS $UU $
+66% ,99B I
+99, .<<2 4
+<<# /==  ,AA5 A
+CC6 HEEF X
+KK# +MM6 >
+XX* ,ZZ: <
+
+ff 
+kk 
+’’ (
+mm rr ww zz3 7
+
+zz 
+~~ 
+““ 0
+
+€€ 
+„„ 
+ŠŠ 
+3 7
+
+ 
+
+ Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_08.cs
+
+ : 
+%% *33 
+‰‰ 
+** +vv 
+
+00 2
+22 55 II$ (kk nn3 7<
+88 $<< == >>/ 7[[ $]] $
+>>% ,AAB I
+AA, .DD2 4
+DD# /EE  ,II5 A
+KK6 HMMF X
+SS# +UU6 >
+``* ,bb: <
+
+nn 
+ss 
+šš *
+uu zz  
+‚‚3 7
+
+‚‚ 
+
+†† 
+›› 0
+
+ˆˆ 
+ŒŒ 
+’’ 
+••3 7
+
+•• 
+
+˜˜ ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_09.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_10.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_11.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ ³
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_12.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (\\ __3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+__ 
+ee xx (
+gg kk pp ss3 7
+
+ss 
+
+vv ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_13.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_14.cs
+
+ :
+
+"" 2
+$$ '' ;;$ (]] ``3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+`` 
+ee 
+ŒŒ (
+gg ll qq tt3 7
+
+tt 
+xx 
+ ,
+zz ~~ 
+„„ 
+‡‡3 7
+
+‡‡ 
+
+ŠŠ 
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_15.cs
+
+ :
+
+"" 2
+$$ (( <<$ (]] aa3 7<
+++ $// 00 11/ 7NN $PP $
+11% ,44B I
+44, .772 4
+77# /88  ,<<5 A
+>>6 H@@F X
+FF# +HH6 >
+SS* ,UU: <
+
+aa 
+ff 
+ (
+hh nn rr vv3 7
+
+vv 
+zz 
+ .
+|| 
+ 
+†† 
+ŠŠ3 7
+
+ŠŠ 
+
+ Ÿ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_16.cs
+
+ :
+
+"" (
+$$ '' ;;$ ([[3 7<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;5 A
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <
+
+[[ 
+`` oo 
+bb ff jj3 7
+
+jj 
+
+mm ß
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_17.cs
+
+ :
+
+"" (
+$$ %% 99  $YY7 ;<
+((  ,, -- ..+ 3KK  MM  
+..! (11> E
+11( *44. 0
+44 +55 (991 =
+;;2 D==B T
+CC 'EE2 :
+PP& (RR6 8
+VV VV VV  
+
+YY #
+`` nn 
+bb dd hh7 ;
+ee ee ee  
+
+hh #
+
+ll §
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_21.cs
+
+ :
+## (( 11 
+
+%% 
+'' )) ++3 7
+.. )) 
+
+++ 2
+00 33 GG$ (ii kk <
+66 $:: ;; <</ 7YY $[[ $
+<<% ,??B I
+??, .BB2 4
+BB# /CC  ,GG5 A
+II6 HKKF X
+QQ# +SS6 >
+^^* ,``: < 
+oo !|| 
+…… "
+pp !
+—— 
+   
+
+rr 
+yy tt 
+
+”” uu 
+{{ }} 3 7
+
+‚‚ }} 
+
+ 0
+
+„„ 
+‰‰ 
+ŽŽ 
+ $
+
+–– 
+˜˜ 
+šš3 7
+
+ 
+˜˜ 
+
+šš 0
+
+ŸŸ 
+££ 
+©© 
+«« Î
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_22a.cs
+
+ ;
+ &$$ 
+
+!! 
+## %% ''3 7
+
+'' 
+,, +99 
+-- +CC 
+
+// 
+66 11 
+@@ 22 
+88 :: <<3 7
+
+<< 
+BB DD FF3 7
+
+FF À
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_22b.cs
+
+ ;
+
+   2
+"" %% 99$ ([[ ]] <
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,995 A
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <
+
+cc $(
+ee jj oo qq 
+
+uu $,
+ww {{ 
+ 
+ƒƒ ‹
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_31.cs
+
+ :
+
+## 
+%% YY \\ (
+'' (( <<$ (YY <
+++ $// 00 11/ 7NN $PP $
+11% ,44B I
+44, .772 4
+77# /88  ,<<5 A
+>>6 H@@F X
+FF# +HH6 >
+SS* ,UU: <
+\\ ^^7 ;
+
+^^ #
+
+cc 
+ii ee 
+kk pp ss 
+mm oo pp 
+ss uu7 ;
+
+uu #÷
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_41.cs
+
+ :
+!! [[ 
+!!$ ($$3 7
+
+$$ 
+
+'' (
+)) ** >>  $[[ <
+--  11 22 33+ 3PP  RR  
+33! (66> E
+66( *99. 0
+99 +:: (>>1 =
+@@2 DBBB T
+HH 'JJ2 :
+UU& (WW6 8
+
+__ 
+kk aa 
+dd #pp 
+dd( ,gg3 7
+
+gg 
+mm oo pp ÷
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_42.cs
+
+ :
+!!  [[ (
+## $$ 88  $UU <
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (881 =
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+
+YY 
+[[ ]]3 7
+
+]] 
+aa $ll  
+cc ee ff 
+jj ss 
+ll nn3 7
+
+nn 
+
+qq ·
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_45.cs
+
+ :
+"" '' aa 
+## mm xx 
+%% bb 
+'' ))3 7
+
+)) 
+
+-- (
+// 00 DD  $aa <
+33  77 88 99+ 3VV  XX  
+99! (<<> E
+<<( *??. 0
+?? +@@ (DD1 =
+FF2 DHHB T
+NN 'PP2 :
+[[& (]]6 8
+
+ff 
+ss hh 
+kk yy 
+mm oo3 7
+
+oo 
+uu ww xx ˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_51a.cs
+
+ ;
+
+ (
+!! "" 66  $SSF J<
+%%  )) ** +++ 3HH  JJ  
+++! (..> E
+..( *11. 0
+11 +22 (661 =
+882 D::B T
+@@ 'BB2 :
+MM& (OO6 8
+
+WW 
+]] YY 
+__ aa bbJ N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_51b.cs
+
+ ;
+
+ 
+# '3 7
+
+ 
+
+%% "
+%%' +((3 7
+
+(( ˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_52a.cs
+
+ ;
+
+   (
+"" ## 77  $TTF J<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccJ Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_52b.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_52c.cs
+
+ ;
+
+ 
+# '  3 7
+
+   
+
+&& "
+&&' +))3 7
+
+)) ˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_53a.cs
+
+ ;
+
+   (
+"" ## 77  $TTF J<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccJ Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_53b.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_53c.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_53d.cs
+
+ ;
+
+ 
+# '  3 7
+
+   
+
+&& "
+&&' +))3 7
+
+)) ˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_54a.cs
+
+ ;
+
+   (
+"" ## 77  $TTF J<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccJ Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_54b.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_54c.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_54d.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_54e.cs
+
+ ;
+
+ 
+# '  3 7
+
+   
+
+&& "
+&&' +))3 7
+
+)) ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_61a.cs
+
+ ;
+
+ 
+ !!3 7
+
+!! 
+
+%% 
+++ '' 
+-- //3 7
+
+// ò
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_61b.cs
+
+ ;
+
+   (
+"" ## 77  $TT <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+ZZ #
+\\ ^^ __ È
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_66a.cs
+
+ ;
+
+   (
+"" ## 77  $UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TT UU VVF O
+
+ZZ 
+`` \\ 
+bb dd ff 
+ee ff ggJ SÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_66b.cs
+
+ ;
+
+ 
+% . 
+ !!3 7
+
+!! 
+
+'' "
+'') 2)) 
+)) ++3 7
+
+++ œ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_67a.cs
+
+ ;2
+   YY YY& /jj jj& /
+"" ZZ "kk "
+
+%% (
+'' (( <<  $ZZ% )<
+++  // 00 11+ 3NN  PP  
+11! (44> E
+44( *77. 0
+77 +88 (<<1 =
+>>2 D@@B T
+FF 'HH2 :
+SS& (UU6 8
+YY ZZ [[F S
+
+__ 
+ee aa 
+gg ii kk% )
+jj kk llJ WÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_67b.cs
+
+ ;
+
+ 
+_ l  
+ !!3 7
+
+!! 
+
+'' "
+''c p))  
+)) ++3 7
+
+++ è
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_68a.cs
+
+ ;(
+ ## 77  $aa 
+
+!! <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ  
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_68b.cs
+
+ ;
+
+ 
+   3 7
+
+   
+
+&& "
+(( **3 7
+
+** ˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_71a.cs
+
+ ;
+
+   (
+"" ## 77  $TTN R<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+^^ ZZ 
+`` bb ccR VÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_71b.cs
+
+ ;
+
+ 
+& 0   "
+   ""3 7
+
+"" 
+
+(( "
+((* 4** "
+** ,,3 7
+
+,, ˜
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_72a.cs
+
+ ;
+
+   <
+"" ## 77  $UU !VV !WW !<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 82
+TT UU VV WW XXF S
+
+\\ 
+bb ^^ 2
+dd ff hh !ii !jj !2
+gg hh ii jj kkJ WÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_72b.cs
+
+ ;
+
+ 
+) 6   &
+   ""3 7
+
+"" 
+
+(( "
+((- :** &
+** ,,3 7
+
+,, ˜
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_73a.cs
+
+ ;
+
+!! <
+## $$ 88  $VV #WW #XX #<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (881 =
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU &VV WW XX YYF T
+
+]] 
+cc __ 2
+ee gg ii #jj #kk #2
+hh &ii jj kk llJ XÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_73b.cs
+
+ ;
+
+ 
+/ = !
+ !!3 7
+
+!! 
+
+'' "
+''3 A)) !
+)) ++3 7
+
+++ ˜
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_74a.cs
+
+ ;
+
+   <
+"" ## 77  $UU "VV "WW "<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 82
+TT *UU VV WW XXF T
+
+\\ 
+bb ^^ 2
+dd ff hh "ii "jj "2
+gg *hh ii jj kkJ XÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_74b.cs
+
+ ;
+
+ 
+3 A !
+ !!3 7
+
+!! 
+
+'' "
+''7 E)) !
+)) ++3 7
+
+++ â
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_75a.cs
+
+ ;
+
+!! (
+## $$ 88  $\\! %<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (881 =
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+VV ]] __J X
+YY \\ 
+ZZ \\ ]]! #
+aa& 5ccZ i
+
+hh 
+nn jj 
+pp rr zz! %
+tt {{ }}N \
+ww zz 
+xx zz {{! #
+& 5
+Z i 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_75b.cs
+
+ ;
+
+   
+  & 4((  .((3 A
+$$ ** --7 ;
+%% ** #(
+&&  (( )) **0 9
+
+-- #
+//& 511[ j
+
+88 "
+88* 8@@  .@@3 A
+<< BB EE7 ;
+== BB #(
+>>  @@ AA BB0 9
+
+EE #
+GG& 5II[ j´
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_81a.cs
+
+ ;
+
+   (
+"" ## 77  $UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (771 =
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TTB LUU 
+
+YY 
+__ [[ 
+aa cc ee 
+ddB Lee õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_81_bad.cs
+
+ >
+
+ 
+$ (!!3 7
+
+!! à
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_81_base.cs
+
+ H
+
+ 
+
+$ (ù
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_HashSet_81_goodG2B.cs
+
+ B
+
+ 
+$ (!!3 7
+
+!! É
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_01.cs
+
+ :
+
+ 
+   "" $$/ 3
+
+$$ 
+
+(( 
+.. ** 
+00 22 44/ 3
+
+44 ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_02.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_03.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW ß
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_04.cs
+
+ :
+!! )(( OO 
+"" *<< 
+
+%% (
+'' ++ 11 44/ 3
+
+44 
+99 `` (
+;; @@ EE HH/ 3
+
+HH 
+LL aa (
+NN RR XX [[/ 3
+
+[[ 
+
+^^ ß
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_05.cs
+
+ :
+!! (( OO 
+"" << 
+
+%% (
+'' ++ 11 44/ 3
+
+44 
+99 `` (
+;; @@ EE HH/ 3
+
+HH 
+LL aa (
+NN RR XX [[/ 3
+
+[[ 
+
+^^ Ó
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_06.cs
+
+ :(
+!! ('' ;; NN 
+
+$$ (
+&& ** 00 33/ 3
+
+33 
+88 __ (
+:: ?? DD GG/ 3
+
+GG 
+KK `` (
+MM QQ WW ZZ/ 3
+
+ZZ 
+
+]] Ó
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_07.cs
+
+ :(
+!! '' ;; NN 
+
+$$ (
+&& ** 00 33/ 3
+
+33 
+88 __ (
+:: ?? DD GG/ 3
+
+GG 
+KK `` (
+MM QQ WW ZZ/ 3
+
+ZZ 
+
+]] ß
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_08.cs
+
+ :
+!! *// VV 
+&& +CC 
+
+,, (
+.. 22 88 ;;/ 3
+
+;; 
+@@ gg (
+BB GG LL OO/ 3
+
+OO 
+SS hh (
+UU YY __ bb/ 3
+
+bb 
+
+ee ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_09.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_10.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_11.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW Ý
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_12.cs
+
+ :
+
+ (
+   $$ )) ,,/ 3
+
+,, 
+22 EE (
+44 88 == @@/ 3
+
+@@ 
+
+CC ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_13.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_14.cs
+
+ :
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW ©
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_15.cs
+
+ :
+
+ (
+   %% ** ../ 3
+
+.. 
+33 \\ (
+55 ;; ?? CC/ 3
+
+CC 
+GG ]] (
+II NN SS WW/ 3
+
+WW 
+
+ZZ É
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_16.cs
+
+ :
+
+ 
+   $$ ((/ 3
+
+(( 
+-- << 
+// 33 77/ 3
+
+77 
+
+:: ‰
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_17.cs
+
+ :
+
+ 
+   "" &&3 7
+## ## ##  
+
+&& "
+-- ;; 
+// 11 553 7
+22 22 22  
+
+55 "
+
+99 «
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_21.cs
+
+ :
+ $$ -- 
+
+!! 
+## %% ''/ 3
+** %% 
+
+'' (
+,, 00 66 88 
+<< !II RR 
+== !dd mm 
+
+?? 
+FF AA 
+aa BB 
+HH JJ LL/ 3
+OO JJ 
+
+LL (
+QQ VV [[ ]] 
+cc ee gg/ 3
+jj ee 
+
+gg (
+ll pp vv xx Î
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_22a.cs
+
+ ;
+ &$$ 
+
+!! 
+## %% ''/ 3
+
+'' 
+,, +99 
+-- +CC 
+
+// 
+66 11 
+@@ 22 
+88 :: <</ 3
+
+<< 
+BB DD FF/ 3
+
+FF æ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_22b.cs
+
+ ;
+
+ (
+ "" (( ** 
+
+00 $(
+22 77 << >> 
+
+BB $(
+DD HH NN PP µ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_31.cs
+
+ :
+
+ 
+!! && )) 
+## %% && 
+)) ++3 7
+
+++ "
+
+00 
+66 22 
+88 == @@ 
+:: << == 
+@@ BB3 7
+
+BB "¡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_41.cs
+
+ :
+ (( 
+$ (  / 3
+
+   
+
+## 
+%% '' (( 
+
+,, 
+88 .. 
+11 #== 
+11( ,44/ 3
+
+44 
+:: << == ¡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_42.cs
+
+ :
+  (( 
+ !! "" 
+
+&& 
+(( **/ 3
+
+** 
+.. $99  
+00 22 33 
+77 @@ 
+99 ;;/ 3
+
+;; 
+
+>> á
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_45.cs
+
+ :
+ ## .. 
+ :: EE 
+!! // 
+## %%/ 3
+
+%% 
+
+)) 
+++ -- .. 
+
+33 
+@@ 55 
+88 FF 
+:: <</ 3
+
+<< 
+BB DD EE ²
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_51a.cs
+
+ ;
+
+ 
+    F J
+
+$$ 
+** && 
+,, .. //J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_51b.cs
+
+ ;
+
+ 
+# '/ 3
+
+ 
+
+%% "
+%%' +((/ 3
+
+(( ²
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_52a.cs
+
+ ;
+
+ 
+    !!F J
+
+%% 
+++ '' 
+-- // 00J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_52b.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_52c.cs
+
+ ;
+
+ 
+# '  / 3
+
+   
+
+&& "
+&&' +))/ 3
+
+)) ²
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_53a.cs
+
+ ;
+
+ 
+    !!F J
+
+%% 
+++ '' 
+-- // 00J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_53b.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_53c.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_53d.cs
+
+ ;
+
+ 
+# '  / 3
+
+   
+
+&& "
+&&' +))/ 3
+
+)) ²
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_54a.cs
+
+ ;
+
+ 
+    !!F J
+
+%% 
+++ '' 
+-- // 00J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_54b.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_54c.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J Nˆ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_54d.cs
+
+ ;
+
+ 
+# 'F J
+
+## "
+##' +%%J N 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_54e.cs
+
+ ;
+
+ 
+# '  / 3
+
+   
+
+&& "
+&&' +))/ 3
+
+)) ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_61a.cs
+
+ ;
+
+ 
+ !!/ 3
+
+!! 
+
+%% 
+++ '' 
+-- /// 3
+
+// œ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_61b.cs
+
+ ;
+
+ 
+    !! 
+
+'' #
+)) ++ ,, ò
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_66a.cs
+
+ ;
+
+ 
+    "" 
+!! "" ##F O
+
+'' 
+-- )) 
+// 11 33 
+22 33 44J SÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_66b.cs
+
+ ;
+
+ 
+% . 
+ !!/ 3
+
+!! 
+
+'' "
+'') 2)) 
+)) ++/ 3
+
+++ Æ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_67a.cs
+
+ ;2
+ && &&& /77 77& /
+ '' "88 "
+
+!! 
+## %% ''% )
+&& '' ((F S
+
+,, 
+22 .. 
+44 66 88% )
+77 88 99J WÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_67b.cs
+
+ ;
+
+ 
+_ l  
+ !!/ 3
+
+!! 
+
+'' "
+''c p))  
+)) ++/ 3
+
+++ ’
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_68a.cs
+
+ ;
+    .. 
+
+ 
+
+%% 
+++ ''  
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_68b.cs
+
+ ;
+
+ 
+   / 3
+
+   
+
+&& "
+(( **/ 3
+
+** ²
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_71a.cs
+
+ ;
+
+ 
+    !!N R
+
+%% 
+++ '' 
+-- // 00R VÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_71b.cs
+
+ ;
+
+ 
+& 0   "
+   ""/ 3
+
+"" 
+
+(( "
+((* 4** "
+** ,,/ 3
+
+,, Â
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_72a.cs
+
+ ;
+
+ 2
+    "" !## !$$ !2
+!! "" ## $$ %%F S
+
+)) 
+// ++ 2
+11 33 55 !66 !77 !2
+44 55 66 77 88J WÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_72b.cs
+
+ ;
+
+ 
+) 6 &
+ !!/ 3
+
+!! 
+
+'' "
+''- :)) &
+)) ++/ 3
+
+++ Â
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_73a.cs
+
+ ;
+
+ 2
+ !! ## #$$ #%% #2
+"" &## $$ %% &&F T
+
+** 
+00 ,, 2
+22 44 66 #77 #88 #2
+55 &66 77 88 99J XÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_73b.cs
+
+ ;
+
+ 
+/ =   !
+   ""/ 3
+
+"" 
+
+(( "
+((3 A** !
+** ,,/ 3
+
+,, Â
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_74a.cs
+
+ ;
+
+ 2
+    "" "## "$$ "2
+!! *"" ## $$ %%F T
+
+)) 
+// ++ 2
+11 33 55 "66 "77 "2
+44 *55 66 77 88J XÌ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_74b.cs
+
+ ;
+
+ 
+3 A   !
+   ""/ 3
+
+"" 
+
+(( "
+((7 E** !
+** ,,/ 3
+
+,, Š
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_75a.cs
+
+ ;
+
+ 
+   "" **! %
+$$ ++ --J X
+'' ** 
+(( ** ++! #
+//& 511Z i
+
+66 
+<< 88 
+>> @@ HH! %
+BB II KKN \
+EE HH 
+FF HH II! #
+MM& 5OOZ i 
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_75b.cs
+
+ ;
+
+   
+  & 4((  .((3 A
+$$ ** --3 7
+%% ** #(
+&&  (( )) **0 9
+
+-- "
+//& 511[ j
+
+88 "
+88* 8@@  .@@3 A
+<< BB EE3 7
+== BB #(
+>>  @@ AA BB0 9
+
+EE "
+GG& 5II[ jÞ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_81a.cs
+
+ ;
+
+ 
+    "" 
+!!B L"" 
+
+&& 
+,, (( 
+.. 00 22 
+11B L22 õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_81_bad.cs
+
+ >
+
+ 
+$ (!!/ 3
+
+!! à
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_81_base.cs
+
+ H
+
+ 
+
+$ (ù
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_ArrayList_81_goodG2B.cs
+
+ B
+
+ 
+$ (!!/ 3
+
+!! Ê
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_01.cs
+
+ ;
+
+ 
+   "" $$= A
+
+$$ !
+
+(( 
+.. ** 
+00 22 44= A
+
+44 !ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_02.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_03.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW à
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_04.cs
+
+ ;
+!! )(( OO 
+"" *<< 
+
+%% (
+'' ++ 11 44= A
+
+44 !
+99 `` (
+;; @@ EE HH= A
+
+HH !
+LL aa (
+NN RR XX [[= A
+
+[[ !
+
+^^ à
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_05.cs
+
+ ;
+!! (( OO 
+"" << 
+
+%% (
+'' ++ 11 44= A
+
+44 !
+99 `` (
+;; @@ EE HH= A
+
+HH !
+LL aa (
+NN RR XX [[= A
+
+[[ !
+
+^^ Ô
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_06.cs
+
+ ;(
+!! ('' ;; NN 
+
+$$ (
+&& ** 00 33= A
+
+33 !
+88 __ (
+:: ?? DD GG= A
+
+GG !
+KK `` (
+MM QQ WW ZZ= A
+
+ZZ !
+
+]] Ô
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_07.cs
+
+ ;(
+!! '' ;; NN 
+
+$$ (
+&& ** 00 33= A
+
+33 !
+88 __ (
+:: ?? DD GG= A
+
+GG !
+KK `` (
+MM QQ WW ZZ= A
+
+ZZ !
+
+]] à
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_08.cs
+
+ ;
+!! *// VV 
+&& +CC 
+
+,, (
+.. 22 88 ;;= A
+
+;; !
+@@ gg (
+BB GG LL OO= A
+
+OO !
+SS hh (
+UU YY __ bb= A
+
+bb !
+
+ee ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_09.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_10.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_11.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW Þ
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_12.cs
+
+ ;
+
+ (
+   $$ )) ,,= A
+
+,, !
+22 EE (
+44 88 == @@= A
+
+@@ !
+
+CC ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_13.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_14.cs
+
+ ;
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ª
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_15.cs
+
+ ;
+
+ (
+   %% ** ..= A
+
+.. !
+33 \\ (
+55 ;; ?? CC= A
+
+CC !
+GG ]] (
+II NN SS WW= A
+
+WW !
+
+ZZ Ê
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_16.cs
+
+ ;
+
+ 
+   $$ ((= A
+
+(( !
+-- << 
+// 33 77= A
+
+77 !
+
+:: Š
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_17.cs
+
+ ;
+
+ 
+   "" &&A E
+## ## ##  
+
+&&! %
+-- ;; 
+// 11 55A E
+22 22 22  
+
+55! %
+
+99 ¬
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_21.cs
+
+ ;
+ $$ -- 
+
+!! 
+## %% ''= A
+** %% 
+
+'' !(
+,, 00 66 88 
+<< !II RR 
+== !dd mm 
+
+?? 
+FF AA 
+aa BB 
+HH JJ LL= A
+OO JJ 
+
+LL !(
+QQ VV [[ ]] 
+cc ee gg= A
+jj ee 
+
+gg !(
+ll pp vv xx Ï
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_22a.cs
+
+ <
+ &$$ 
+
+!! 
+## %% ''= A
+
+'' !
+,, +99 
+-- +CC 
+
+// 
+66 11 
+@@ 22 
+88 :: <<= A
+
+<< !
+BB DD FF= A
+
+FF !ç
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_22b.cs
+
+ <
+
+ (
+ "" (( ** 
+
+00 $(
+22 77 << >> 
+
+BB $(
+DD HH NN PP ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_31.cs
+
+ ;
+
+ 
+!! && )) 
+## %% && 
+)) ++A E
+
+++! %
+
+00 
+66 22 
+88 == @@ 
+:: << == 
+@@ BBA E
+
+BB! %¢
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_41.cs
+
+ ;
+ (( 
+$ (  = A
+
+   !
+
+## 
+%% '' (( 
+
+,, 
+88 .. 
+11 #== 
+11( ,44= A
+
+44 !
+:: << == ¢
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_42.cs
+
+ ;
+  (( 
+ !! "" 
+
+&& 
+(( **= A
+
+** !
+.. $99  
+00 22 33 
+77 @@ 
+99 ;;= A
+
+;; !
+
+>> â
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_45.cs
+
+ ;
+ ## .. 
+ :: EE 
+!! // 
+## %%= A
+
+%% !
+
+)) 
+++ -- .. 
+
+33 
+@@ 55 
+88 FF 
+:: <<= A
+
+<< !
+BB DD EE ³
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_51a.cs
+
+ <
+
+ 
+    G K
+
+$$ 
+** && 
+,, .. //K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_51b.cs
+
+ <
+
+ 
+# '= A
+
+ !
+
+%% "
+%%' +((= A
+
+(( !³
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_52a.cs
+
+ <
+
+ 
+    !!G K
+
+%% 
+++ '' 
+-- // 00K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_52b.cs
+
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_52c.cs
+
+ <
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !³
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_53a.cs
+
+ <
+
+ 
+    !!G K
+
+%% 
+++ '' 
+-- // 00K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_53b.cs
+
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_53c.cs
+
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_53d.cs
+
+ <
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !³
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_54a.cs
+
+ <
+
+ 
+    !!G K
+
+%% 
+++ '' 
+-- // 00K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_54b.cs
+
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_54c.cs
+
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_54d.cs
+
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_54e.cs
+
+ <
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_61a.cs
+
+ <
+
+ 
+ !!= A
+
+!! !
+
+%% 
+++ '' 
+-- //= A
+
+// !
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_61b.cs
+
+ <
+
+ 
+    !! 
+
+'' #
+)) ++ ,, ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_66a.cs
+
+ <
+
+ 
+    "" 
+!! "" ##G P
+
+'' 
+-- )) 
+// 11 33 
+22 33 44K TÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_66b.cs
+
+ <
+
+ 
+% . 
+ !!= A
+
+!! !
+
+'' "
+'') 2)) 
+)) ++= A
+
+++ !Ç
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_67a.cs
+
+ <2
+ && &&& /77 77& /
+ '' "88 "
+
+!! 
+## %% ''% )
+&& '' ((G T
+
+,, 
+22 .. 
+44 66 88% )
+77 88 99K XÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_67b.cs
+
+ <
+
+ 
+` m  
+ !!= A
+
+!! !
+
+'' "
+''d q))  
+)) ++= A
+
+++ !“
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_68a.cs
+
+ <
+    .. 
+
+ 
+
+%% 
+++ '' ¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_68b.cs
+
+ <
+
+ 
+   = A
+
+   !
+
+&& "
+(( **= A
+
+** !³
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_71a.cs
+
+ <
+
+ 
+    !!O S
+
+%% 
+++ '' 
+-- // 00S WÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_71b.cs
+
+ <
+
+ 
+& 0   "
+   ""= A
+
+"" !
+
+(( "
+((* 4** "
+** ,,= A
+
+,, !Ã
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_72a.cs
+
+ <
+
+ 2
+    "" !## !$$ !2
+!! "" ## $$ %%G T
+
+)) 
+// ++ 2
+11 33 55 !66 !77 !2
+44 55 66 77 88K XÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_72b.cs
+
+ <
+
+ 
+) 6   &
+   ""= A
+
+"" !
+
+(( "
+((- :** &
+** ,,= A
+
+,, !Ã
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_73a.cs
+
+ <
+
+ 2
+ !! ## #$$ #%% #2
+"" &## $$ %% &&G U
+
+** 
+00 ,, 2
+22 44 66 #77 #88 #2
+55 &66 77 88 99K YÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_73b.cs
+
+ <
+
+ 
+/ = !
+ !!= A
+
+!! !
+
+'' "
+''3 A)) !
+)) ++= A
+
+++ !Ã
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_74a.cs
+
+ <
+
+ 2
+    "" "## "$$ "2
+!! *"" ## $$ %%G U
+
+)) 
+// ++ 2
+11 33 55 "66 "77 "2
+44 *55 66 77 88K YÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_74b.cs
+
+ <
+
+ 
+3 A !
+ !!= A
+
+!! !
+
+'' "
+''7 E)) !
+)) ++= A
+
+++ !‹
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_75a.cs
+
+ <
+
+ 
+   "" **! %
+$$ ++ --K Y
+'' ** 
+(( ** ++! #
+//& 511Z i
+
+66 
+<< 88 
+>> @@ HH! %
+BB II KKO ]
+EE HH 
+FF HH II! #
+MM& 5OOZ i¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_75b.cs
+
+ <
+
+   
+  & 4((  .((3 A
+$$ ** --A E
+%% ** #(
+&&  (( )) **0 9
+
+--! %
+//& 511[ j
+
+88 "
+88* 8@@  .@@3 A
+<< BB EEA E
+== BB #(
+>>  @@ AA BB0 9
+
+EE! %
+GG& 5II[ jß
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_81a.cs
+
+ <
+
+ 
+    "" 
+!!C M"" 
+
+&& 
+,, (( 
+.. 00 22 
+11C M22 ö
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_81_bad.cs
+
+ ?
+
+ 
+$ (!!= A
+
+!! !á
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_81_base.cs
+
+ I
+
+ 
+
+$ (ú
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_Dictionary_81_goodG2B.cs
+
+ C
+
+ 
+$ (!!= A
+
+!! !Ç
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_01.cs
+
+ 8
+
+ 
+   "" $$3 7
+
+$$ 
+
+(( 
+.. ** 
+00 22 443 7
+
+44 §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_02.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_03.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW Ý
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_04.cs
+
+ 8
+!! )(( OO 
+"" *<< 
+
+%% (
+'' ++ 11 443 7
+
+44 
+99 `` (
+;; @@ EE HH3 7
+
+HH 
+LL aa (
+NN RR XX [[3 7
+
+[[ 
+
+^^ Ý
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_05.cs
+
+ 8
+!! (( OO 
+"" << 
+
+%% (
+'' ++ 11 443 7
+
+44 
+99 `` (
+;; @@ EE HH3 7
+
+HH 
+LL aa (
+NN RR XX [[3 7
+
+[[ 
+
+^^ Ñ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_06.cs
+
+ 8(
+!! ('' ;; NN 
+
+$$ (
+&& ** 00 333 7
+
+33 
+88 __ (
+:: ?? DD GG3 7
+
+GG 
+KK `` (
+MM QQ WW ZZ3 7
+
+ZZ 
+
+]] Ñ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_07.cs
+
+ 8(
+!! '' ;; NN 
+
+$$ (
+&& ** 00 333 7
+
+33 
+88 __ (
+:: ?? DD GG3 7
+
+GG 
+KK `` (
+MM QQ WW ZZ3 7
+
+ZZ 
+
+]] Ý
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_08.cs
+
+ 8
+!! *// VV 
+&& +CC 
+
+,, (
+.. 22 88 ;;3 7
+
+;; 
+@@ gg (
+BB GG LL OO3 7
+
+OO 
+SS hh (
+UU YY __ bb3 7
+
+bb 
+
+ee §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_09.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_10.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_11.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW Û
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_12.cs
+
+ 8
+
+ (
+   $$ )) ,,3 7
+
+,, 
+22 EE (
+44 88 == @@3 7
+
+@@ 
+
+CC §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_13.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_14.cs
+
+ 8
+
+ (
+   $$ ** --3 7
+
+-- 
+22 YY (
+44 99 >> AA3 7
+
+AA 
+EE ZZ (
+GG KK QQ TT3 7
+
+TT 
+
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_15.cs
+
+ 8
+
+ (
+   %% ** ..3 7
+
+.. 
+33 \\ (
+55 ;; ?? CC3 7
+
+CC 
+GG ]] (
+II NN SS WW3 7
+
+WW 
+
+ZZ Ç
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_16.cs
+
+ 8
+
+ 
+   $$ ((3 7
+
+(( 
+-- << 
+// 33 773 7
+
+77 
+
+:: ‡
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_17.cs
+
+ 8
+
+ 
+   "" &&7 ;
+## ## ##  
+
+&& #
+-- ;; 
+// 11 557 ;
+22 22 22  
+
+55 #
+
+99 ©
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_21.cs
+
+ 8
+ $$ -- 
+
+!! 
+## %% ''3 7
+** %% 
+
+'' (
+,, 00 66 88 
+<< !II RR 
+== !dd mm 
+
+?? 
+FF AA 
+aa BB 
+HH JJ LL3 7
+OO JJ 
+
+LL (
+QQ VV [[ ]] 
+cc ee gg3 7
+jj ee 
+
+gg (
+ll pp vv xx Ì
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_22a.cs
+
+ 9
+ &$$ 
+
+!! 
+## %% ''3 7
+
+'' 
+,, +99 
+-- +CC 
+
+// 
+66 11 
+@@ 22 
+88 :: <<3 7
+
+<< 
+BB DD FF3 7
+
+FF ä
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_22b.cs
+
+ 9
+
+ (
+ "" (( ** 
+
+00 $(
+22 77 << >> 
+
+BB $(
+DD HH NN PP ³
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_31.cs
+
+ 8
+
+ 
+!! && )) 
+## %% && 
+)) ++7 ;
+
+++ #
+
+00 
+66 22 
+88 == @@ 
+:: << == 
+@@ BB7 ;
+
+BB #Ÿ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_41.cs
+
+ 8
+ (( 
+$ (  3 7
+
+   
+
+## 
+%% '' (( 
+
+,, 
+88 .. 
+11 #== 
+11( ,443 7
+
+44 
+:: << == Ÿ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_42.cs
+
+ 8
+  (( 
+ !! "" 
+
+&& 
+(( **3 7
+
+** 
+.. $99  
+00 22 33 
+77 @@ 
+99 ;;3 7
+
+;; 
+
+>> ß
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_45.cs
+
+ 8
+ ## .. 
+ :: EE 
+!! // 
+## %%3 7
+
+%% 
+
+)) 
+++ -- .. 
+
+33 
+@@ 55 
+88 FF 
+:: <<3 7
+
+<< 
+BB DD EE °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_51a.cs
+
+ 9
+
+ 
+    D H
+
+$$ 
+** && 
+,, .. //H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_51b.cs
+
+ 9
+
+ 
+# '3 7
+
+ 
+
+%% "
+%%' +((3 7
+
+(( °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_52a.cs
+
+ 9
+
+ 
+    !!D H
+
+%% 
+++ '' 
+-- // 00H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_52b.cs
+
+ 9
+
+ 
+# 'D H
+
+## "
+##' +%%H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_52c.cs
+
+ 9
+
+ 
+# '  3 7
+
+   
+
+&& "
+&&' +))3 7
+
+)) °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_53a.cs
+
+ 9
+
+ 
+    !!D H
+
+%% 
+++ '' 
+-- // 00H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_53b.cs
+
+ 9
+
+ 
+# 'D H
+
+## "
+##' +%%H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_53c.cs
+
+ 9
+
+ 
+# 'D H
+
+## "
+##' +%%H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_53d.cs
+
+ 9
+
+ 
+# '  3 7
+
+   
+
+&& "
+&&' +))3 7
+
+)) °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_54a.cs
+
+ 9
+
+ 
+    !!D H
+
+%% 
+++ '' 
+-- // 00H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_54b.cs
+
+ 9
+
+ 
+# 'D H
+
+## "
+##' +%%H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_54c.cs
+
+ 9
+
+ 
+# 'D H
+
+## "
+##' +%%H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_54d.cs
+
+ 9
+
+ 
+# 'D H
+
+## "
+##' +%%H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_54e.cs
+
+ 9
+
+ 
+# '  3 7
+
+   
+
+&& "
+&&' +))3 7
+
+)) ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_61a.cs
+
+ 9
+
+ 
+ !!3 7
+
+!! 
+
+%% 
+++ '' 
+-- //3 7
+
+// š
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_61b.cs
+
+ 9
+
+ 
+    !! 
+
+'' #
+)) ++ ,, ð
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_66a.cs
+
+ 9
+
+ 
+    "" 
+!! "" ##D M
+
+'' 
+-- )) 
+// 11 33 
+22 33 44H QÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_66b.cs
+
+ 9
+
+ 
+% . 
+ !!3 7
+
+!! 
+
+'' "
+'') 2)) 
+)) ++3 7
+
+++ Ä
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_67a.cs
+
+ 92
+ && &&& /77 77& /
+ '' "88 "
+
+!! 
+## %% ''% )
+&& '' ((D Q
+
+,, 
+22 .. 
+44 66 88% )
+77 88 99H UÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_67b.cs
+
+ 9
+
+ 
+] j  
+ !!3 7
+
+!! 
+
+'' "
+''a n))  
+)) ++3 7
+
+++ 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_68a.cs
+
+ 9
+    .. 
+
+ 
+
+%% 
+++ '' ž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_68b.cs
+
+ 9
+
+ 
+   3 7
+
+   
+
+&& "
+(( **3 7
+
+** °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_71a.cs
+
+ 9
+
+ 
+    !!L P
+
+%% 
+++ '' 
+-- // 00P TÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_71b.cs
+
+ 9
+
+ 
+& 0   "
+   ""3 7
+
+"" 
+
+(( "
+((* 4** "
+** ,,3 7
+
+,, À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_72a.cs
+
+ 9
+
+ 2
+    "" !## !$$ !2
+!! "" ## $$ %%D Q
+
+)) 
+// ++ 2
+11 33 55 !66 !77 !2
+44 55 66 77 88H UÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_72b.cs
+
+ 9
+
+ 
+) 6   &
+   ""3 7
+
+"" 
+
+(( "
+((- :** &
+** ,,3 7
+
+,, À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_73a.cs
+
+ 9
+
+ 2
+ !! ## #$$ #%% #2
+"" &## $$ %% &&D R
+
+** 
+00 ,, 2
+22 44 66 #77 #88 #2
+55 &66 77 88 99H VÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_73b.cs
+
+ 9
+
+ 
+/ = !
+ !!3 7
+
+!! 
+
+'' "
+''3 A)) !
+)) ++3 7
+
+++ À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_74a.cs
+
+ 9
+
+ 2
+    "" "## "$$ "2
+!! *"" ## $$ %%D R
+
+)) 
+// ++ 2
+11 33 55 "66 "77 "2
+44 *55 66 77 88H VÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_74b.cs
+
+ 9
+
+ 
+3 A !
+ !!3 7
+
+!! 
+
+'' "
+''7 E)) !
+)) ++3 7
+
+++ ˆ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_75a.cs
+
+ 9
+
+ 
+   "" **! %
+$$ ++ --H V
+'' ** 
+(( ** ++! #
+//& 511Z i
+
+66 
+<< 88 
+>> @@ HH! %
+BB II KKL Z
+EE HH 
+FF HH II! #
+MM& 5OOZ iž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_75b.cs
+
+ 9
+
+   
+  & 4((  .((3 A
+$$ ** --7 ;
+%% ** #(
+&&  (( )) **0 9
+
+-- #
+//& 511[ j
+
+88 "
+88* 8@@  .@@3 A
+<< BB EE7 ;
+== BB #(
+>>  @@ AA BB0 9
+
+EE #
+GG& 5II[ jÜ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_81a.cs
+
+ 9
+
+ 
+    "" 
+!!@ J"" 
+
+&& 
+,, (( 
+.. 00 22 
+11@ J22 ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_81_bad.cs
+
+ <
+
+ 
+$ (!!3 7
+
+!! Þ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_81_base.cs
+
+ F
+
+ 
+
+$ (÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__MaxValue_HashSet_81_goodG2B.cs
+
+ @
+
+ 
+$ (!!3 7
+
+!! Ö
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_01.cs
+
+ ;
 
 !! (
 ## $$ 88 FF/ 3(
 )) #11 $44  88) 5
-++! (..> E
-..( *11' )
-::* <<<: L
+**! ',,> D
+,,( *11' )
+::+ =<<: L
 @@ 'BB2 :
 
 FF 
@@ -17,17 +5022,17 @@
 PP LL 
 RR TT VV/ 3
 
-VV ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_02.cs
+VV ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_02.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -40,17 +5045,17 @@
 
 vv 
 
-yy ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_03.cs
+yy ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_03.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -63,19 +5068,19 @@
 
 vv 
 
-yy ô
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_04.cs
+yy ò
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_04.cs
 
- =
+ ;
 $$ )++ qq 
 %% *^^ 
 
 (( 2
 ** -- AA  SS VV/ 3(
 22 ':: (== $AA- 9
-44% ,77B I
-77, .::+ -
-CC. @EE> P
+33% +55B H
+55, .::+ -
+CC/ AEE> P
 II# +KK6 >
 
 VV 
@@ -90,19 +5095,19 @@
 
 }} 
 
-€€ ô
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_05.cs
+€€ ò
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_05.cs
 
- =
+ ;
 $$ ++ qq 
 %% ^^ 
 
 (( 2
 ** -- AA  SS VV/ 3(
 22 ':: (== $AA- 9
-44% ,77B I
-77, .::+ -
-CC. @EE> P
+33% +55B H
+55, .::+ -
+CC/ AEE> P
 II# +KK6 >
 
 VV 
@@ -117,18 +5122,18 @@
 
 }} 
 
-€€ æ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_06.cs
+€€ ä
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_06.cs
 
- =(
+ ;(
 $$ (** ]] pp 
 
 '' 2
 )) ,, @@  RR UU/ 3(
 11 '99 (<< $@@- 9
-33% ,66B I
-66, .99+ -
-BB. @DD> P
+22% +44B H
+44, .99+ -
+BB/ ADD> P
 HH# +JJ6 >
 
 UU 
@@ -143,18 +5148,18 @@
 
 || 
 
- æ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_07.cs
+ ä
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_07.cs
 
- =(
+ ;(
 $$ ** ]] pp 
 
 '' 2
 )) ,, @@  RR UU/ 3(
 11 '99 (<< $@@- 9
-33% ,66B I
-66, .99+ -
-BB. @DD> P
+22% +44B H
+44, .99+ -
+BB/ ADD> P
 HH# +JJ6 >
 
 UU 
@@ -169,19 +5174,19 @@
 
 || 
 
- ú
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_08.cs
+ ø
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_08.cs
 
- =
+ ;
 $$ *22 xx 
 )) +ee 
 
 // 2
 11 44 HH  ZZ ]]/ 3(
 99 'AA (DD $HH- 9
-;;% ,>>B I
->>, .AA+ -
-JJ. @LL> P
+::% +<<B H
+<<, .AA+ -
+JJ/ ALL> P
 PP# +RR6 >
 
 ]] 
@@ -198,17 +5203,17 @@
 
 „„ 
 
-‡‡ ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_09.cs
+‡‡ ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_09.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -221,17 +5226,17 @@
 
 vv 
 
-yy ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_10.cs
+yy ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_10.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -244,17 +5249,17 @@
 
 vv 
 
-yy ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_11.cs
+yy ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_11.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -267,17 +5272,17 @@
 
 vv 
 
-yy ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_12.cs
+yy ê
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_12.cs
 
- =
+ ;
 
 !! 2
 ## && ::  KK NN/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 NN 
@@ -286,17 +5291,17 @@
 
 bb 
 
-ee ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_13.cs
+ee ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_13.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -309,17 +5314,17 @@
 
 vv 
 
-yy ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_14.cs
+yy ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_14.cs
 
- =
+ ;
 
 !! 2
 ## && ::  LL OO/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -332,17 +5337,17 @@
 
 vv 
 
-yy ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_15.cs
+yy ¶
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_15.cs
 
- =
+ ;
 
 !! 2
 ## '' ;;  LL PP/ 3(
 ,, '44 (77 $;;- 9
-..% ,11B I
-11, .44+ -
-==. @??> P
+--% +//B H
+//, .44+ -
+==/ A??> P
 CC# +EE6 >
 
 PP 
@@ -355,17 +5360,17 @@
 
 yy 
 
-|| Ø
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_16.cs
+|| Ö
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_16.cs
 
- =
+ ;
 
 !! (
 ## && ::  JJ/ 3(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 JJ 
@@ -374,17 +5379,17 @@
 
 YY 
 
-\\ ˜
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_17.cs
+\\ –
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_17.cs
 
- =
+ ;
 
 !! (
 ## $$ 88 HH3 7(
 )) #11 $44  88) 5
-++! (..> E
-..( *11' )
-::* <<<: L
+**! ',,> D
+,,( *11' )
+::+ =<<: L
 @@ 'BB2 :
 EE EE EE  
 
@@ -395,10 +5400,10 @@
 
 WW "
 
-[[ Ô
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_21.cs
+[[ Ò
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_21.cs
 
- =
+ ;
 "" '' 00 
 
 $$ 
@@ -408,9 +5413,9 @@
 ** 2
 // 22 FF  XX ZZ (
 77 '?? (BB $FF- 9
-99% ,<<B I
-<<, .??+ -
-HH. @JJ> P
+88% +::B H
+::, .??+ -
+HH/ AJJ> P
 NN# +PP6 >
 ^^ !kk tt "
 __ !
@@ -439,10 +5444,10 @@
 ŽŽ 
 ’’ 
 ˜˜ 
-šš Ñ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_22a.cs
+šš Ï
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_22a.cs
 
- >
+ <
  &$$ 
 
 !! 
@@ -460,35 +5465,35 @@
 << 
 BB DD FF/ 3
 
-FF õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_22b.cs
+FF ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_22b.cs
 
- >
+ <
 
  2
 !! $$ 88  JJ LL (
 )) '11 (44 $88- 9
-++% ,..B I
-.., .11+ -
-::. @<<> P
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
 @@# +BB6 >
 
 RR $(
 TT YY ^^ `` 
 
 dd $(
-ff jj pp rr Ä
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_31.cs
+ff jj pp rr Â
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_31.cs
 
- =
+ ;
 
 "" 
 $$ HH KK (
 && '' ;;  HH (
 ,, '44 (77 $;;- 9
-..% ,11B I
-11, .44+ -
-==. @??> P
+--% +//B H
+//, .44+ -
+==/ A??> P
 CC# +EE6 >
 KK MM3 7
 
@@ -500,10 +5505,10 @@
 \\ ^^ __ 
 bb dd3 7
 
-dd "°
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_41.cs
+dd "®
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_41.cs
 
- =
+ ;
    JJ 
   $ (##/ 3
 
@@ -512,9 +5517,9 @@
 && (
 (( )) == JJ (
 .. #66 $99  ==) 5
-00! (33> E
-33( *66' )
-??* <AA: L
+//! '11> D
+11( *66' )
+??+ =AA: L
 EE 'GG2 :
 
 NN 
@@ -523,16 +5528,16 @@
 SS( ,VV/ 3
 
 VV 
-\\ ^^ __ °
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_42.cs
+\\ ^^ __ ®
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_42.cs
 
- =
+ ;
     JJ (
 "" ## 77 DD (
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :
 
 HH 
@@ -546,10 +5551,10 @@
 
 ]] 
 
-`` ð
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_45.cs
+`` î
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_45.cs
 
- =
+ ;
 !! && PP 
 "" \\ gg 
 $$ QQ 
@@ -560,9 +5565,9 @@
 ,, (
 .. // CC PP (
 44 #<< $??  CC) 5
-66! (99> E
-99( *<<' )
-EE* <GG: L
+55! '77> D
+77( *<<' )
+EE+ =GG: L
 KK 'MM2 :
 
 UU 
@@ -571,25 +5576,25 @@
 \\ ^^/ 3
 
 ^^ 
-dd ff gg Á
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_51a.cs
+dd ff gg ¿
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_51a.cs
 
- >
+ <
 
  (
-   !! 55 BBI M(
+   !! 55 BBG K(
 && #.. $11  55) 5
-((! (++> E
-++( *..' )
-77* <99: L
+''! '))> D
+))( *..' )
+77+ =99: L
 == '??2 :
 
 FF 
 LL HH 
-NN PP QQM Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_51b.cs
+NN PP QQK O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_51b.cs
 
- >
+ <
 
  
 # '/ 3
@@ -599,34 +5604,34 @@
 %% "
 %%' +((/ 3
 
-(( Á
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_52a.cs
+(( ¿
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_52a.cs
 
- >
+ <
 
  (
-!! "" 66 CCI M(
+!! "" 66 CCG K(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRM Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_52b.cs
+OO QQ RRK O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_52b.cs
 
- >
+ <
 
  
-# 'I M
+# 'G K
 
 ## "
-##' +%%M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_52c.cs
+##' +%%K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_52c.cs
 
- >
+ <
 
  
 # '  / 3
@@ -636,43 +5641,43 @@
 && "
 &&' +))/ 3
 
-)) Á
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_53a.cs
+)) ¿
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_53a.cs
 
- >
+ <
 
  (
-!! "" 66 CCI M(
+!! "" 66 CCG K(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRM Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_53b.cs
+OO QQ RRK O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_53b.cs
 
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_53c.cs
-
- >
+ <
 
  
-# 'I M
+# 'G K
 
 ## "
-##' +%%M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_53d.cs
+##' +%%K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_53c.cs
 
- >
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_53d.cs
+
+ <
 
  
 # '  / 3
@@ -682,52 +5687,52 @@
 && "
 &&' +))/ 3
 
-)) Á
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_54a.cs
+)) ¿
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_54a.cs
 
- >
+ <
 
  (
-!! "" 66 CCI M(
+!! "" 66 CCG K(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRM Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_54b.cs
+OO QQ RRK O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_54b.cs
 
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_54c.cs
-
- >
+ <
 
  
-# 'I M
+# 'G K
 
 ## "
-##' +%%M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_54d.cs
+##' +%%K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_54c.cs
 
- >
+ <
 
  
-# 'I M
+# 'G K
 
 ## "
-##' +%%M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_54e.cs
+##' +%%K O‰
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_54d.cs
 
- >
+ <
+
+ 
+# 'G K
+
+## "
+##' +%%K O¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_54e.cs
+
+ <
 
  
 # '  / 3
@@ -737,10 +5742,10 @@
 && "
 &&' +))/ 3
 
-)) ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_61a.cs
+)) ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_61a.cs
 
- >
+ <
 
  
  !!/ 3
@@ -751,41 +5756,41 @@
 ++ '' 
 -- /// 3
 
-// «
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_61b.cs
+// ©
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_61b.cs
 
- >
+ <
 
  (
 !! "" 66 CC (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 II #
-KK MM NN 
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_66a.cs
+KK MM NN ÿ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_66a.cs
 
- >
+ <
 
  (
 !! "" 66 DD (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
-CC DD EEI R
+CC DD EEG P
 
 II 
 OO KK 
 QQ SS UU 
-TT UU VVM VÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_66b.cs
+TT UU VVK TÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_66b.cs
 
- >
+ <
 
  
 % . 
@@ -797,58 +5802,58 @@
 '') 2)) 
 )) ++/ 3
 
-++ Õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_67a.cs
+++ Ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_67a.cs
 
- >2
+ <2
  HH HH& /YY YY& /
 !! II "ZZ "
 
 $$ (
 && '' ;; II% )(
 ,, #44 $77  ;;) 5
-..! (11> E
-11( *44' )
-==* <??: L
+--! '//> D
+//( *44' )
+==+ =??: L
 CC 'EE2 :
-HH II JJI V
+HH II JJG T
 
 NN 
 TT PP 
 VV XX ZZ% )
-YY ZZ [[M ZÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_67b.cs
+YY ZZ [[K XÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_67b.cs
 
- >
+ <
 
  
-b o  
+` m  
  !!/ 3
 
 !! 
 
 '' "
-''f s))  
+''d q))  
 )) ++/ 3
 
-++ ¡
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_68a.cs
+++ Ÿ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_68a.cs
 
- >(
+ <(
  "" 66 PP 
 
    (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
-MM II £
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_68b.cs
+MM II ¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_68b.cs
 
- >
+ <
 
  
    / 3
@@ -858,25 +5863,25 @@
 && "
 (( **/ 3
 
-** Á
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_71a.cs
+** ¿
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_71a.cs
 
- >
+ <
 
  (
-!! "" 66 CCQ U(
+!! "" 66 CCO S(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRU YÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_71b.cs
+OO QQ RRS WÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_71b.cs
 
- >
+ <
 
  
 & 0   "
@@ -888,27 +5893,27 @@
 ((* 4** "
 ** ,,/ 3
 
-,, Ñ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_72a.cs
+,, Ï
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_72a.cs
 
- >
+ <
 
  <
 !! "" 66 DD !EE !FF !(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :2
-CC DD EE FF GGI V
+CC DD EE FF GGG T
 
 KK 
 QQ MM 2
 SS UU WW !XX !YY !2
-VV WW XX YY ZZM ZÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_72b.cs
+VV WW XX YY ZZK XÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_72b.cs
 
- >
+ <
 
  
 ) 6 &
@@ -920,27 +5925,27 @@
 ''- :)) &
 )) ++/ 3
 
-++ Ñ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_73a.cs
+++ Ï
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_73a.cs
 
- >
+ <
 
    <
 "" ## 77 EE #FF #GG #(
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :2
-DD &EE FF GG HHI W
+DD &EE FF GG HHG U
 
 LL 
 RR NN 2
 TT VV XX #YY #ZZ #2
-WW &XX YY ZZ [[M [Ï
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_73b.cs
+WW &XX YY ZZ [[K YÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_73b.cs
 
- >
+ <
 
  
 / =   !
@@ -952,27 +5957,27 @@
 ((3 A** !
 ** ,,/ 3
 
-,, Ñ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_74a.cs
+,, Ï
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_74a.cs
 
- >
+ <
 
  <
 !! "" 66 DD "EE "FF "(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :2
-CC *DD EE FF GGI W
+CC *DD EE FF GGG U
 
 KK 
 QQ MM 2
 SS UU WW "XX "YY "2
-VV *WW XX YY ZZM [Ï
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_74b.cs
+VV *WW XX YY ZZK YÍ
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_74b.cs
 
- >
+ <
 
  
 3 A   !
@@ -984,19 +5989,19 @@
 ((7 E** !
 ** ,,/ 3
 
-,, ™
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_75a.cs
+,, —
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_75a.cs
 
- >
+ <
 
    (
 "" ## 77 KK! %(
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :
-EE LL NNM [
+EE LL NNK Y
 HH KK 
 II KK LL! #
 PP& 5RRZ i
@@ -1004,13 +6009,13 @@
 WW 
 ]] YY 
 __ aa ii! %
-cc jj llQ _
+cc jj llO ]
 ff ii 
 gg ii jj! #
-nn& 5ppZ i£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_75b.cs
+nn& 5ppZ i¡
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_75b.cs
 
- >
+ <
 
    
   & 4((  .((3 A
@@ -1028,57 +6033,57 @@
 >>  @@ AA BB0 9
 
 EE "
-GG& 5II[ jí
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_81a.cs
+GG& 5II[ jë
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_81a.cs
 
- >
+ <
 
  (
 !! "" 66 DD (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
-CCE ODD 
+CCC MDD 
 
 HH 
 NN JJ 
 PP RR TT 
-SSE OTT ø
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_81_bad.cs
+SSC MTT ö
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_81_bad.cs
 
- A
+ ?
 
  
 $ (!!/ 3
 
-!! ã
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_81_base.cs
+!! á
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_81_base.cs
 
- K
+ I
 
  
 
-$ (ü
-¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_ArrayList_81_goodG2B.cs
+$ (ú
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_ArrayList_81_goodG2B.cs
 
- E
+ C
 
  
 $ (!!/ 3
 
-!! Ù
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_01.cs
+!! ×
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_01.cs
 
- >
+ <
 
 !! (
 ## $$ 88 FF= A(
 )) #11 $44  88) 5
-++! (..> E
-..( *11' )
-::* <<<: L
+**! ',,> D
+,,( *11' )
+::+ =<<: L
 @@ 'BB2 :
 
 FF !
@@ -1087,17 +6092,17 @@
 PP LL 
 RR TT VV= A
 
-VV !¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_02.cs
+VV !·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_02.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1110,17 +6115,17 @@
 
 vv !
 
-yy ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_03.cs
+yy ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_03.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1133,19 +6138,19 @@
 
 vv !
 
-yy õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_04.cs
+yy ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_04.cs
 
- >
+ <
 $$ )++ qq 
 %% *^^ 
 
 (( 2
 ** -- AA  SS VV= A(
 22 ':: (== $AA- 9
-44% ,77B I
-77, .::+ -
-CC. @EE> P
+33% +55B H
+55, .::+ -
+CC/ AEE> P
 II# +KK6 >
 
 VV !
@@ -1160,19 +6165,19 @@
 
 }} !
 
-€€ õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_05.cs
+€€ ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_05.cs
 
- >
+ <
 $$ ++ qq 
 %% ^^ 
 
 (( 2
 ** -- AA  SS VV= A(
 22 ':: (== $AA- 9
-44% ,77B I
-77, .::+ -
-CC. @EE> P
+33% +55B H
+55, .::+ -
+CC/ AEE> P
 II# +KK6 >
 
 VV !
@@ -1187,18 +6192,18 @@
 
 }} !
 
-€€ ç
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_06.cs
+€€ å
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_06.cs
 
- >(
+ <(
 $$ (** ]] pp 
 
 '' 2
 )) ,, @@  RR UU= A(
 11 '99 (<< $@@- 9
-33% ,66B I
-66, .99+ -
-BB. @DD> P
+22% +44B H
+44, .99+ -
+BB/ ADD> P
 HH# +JJ6 >
 
 UU !
@@ -1213,18 +6218,18 @@
 
 || !
 
- ç
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_07.cs
+ å
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_07.cs
 
- >(
+ <(
 $$ ** ]] pp 
 
 '' 2
 )) ,, @@  RR UU= A(
 11 '99 (<< $@@- 9
-33% ,66B I
-66, .99+ -
-BB. @DD> P
+22% +44B H
+44, .99+ -
+BB/ ADD> P
 HH# +JJ6 >
 
 UU !
@@ -1239,19 +6244,19 @@
 
 || !
 
- û
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_08.cs
+ ù
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_08.cs
 
- >
+ <
 $$ *22 xx 
 )) +ee 
 
 // 2
 11 44 HH  ZZ ]]= A(
 99 'AA (DD $HH- 9
-;;% ,>>B I
->>, .AA+ -
-JJ. @LL> P
+::% +<<B H
+<<, .AA+ -
+JJ/ ALL> P
 PP# +RR6 >
 
 ]] !
@@ -1268,17 +6273,17 @@
 
 „„ !
 
-‡‡ ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_09.cs
+‡‡ ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_09.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1291,17 +6296,17 @@
 
 vv !
 
-yy ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_10.cs
+yy ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_10.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1314,17 +6319,17 @@
 
 vv !
 
-yy ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_11.cs
+yy ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_11.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1337,17 +6342,17 @@
 
 vv !
 
-yy í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_12.cs
+yy ë
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_12.cs
 
- >
+ <
 
 !! 2
 ## && ::  KK NN= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 NN !
@@ -1356,17 +6361,17 @@
 
 bb !
 
-ee ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_13.cs
+ee ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_13.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1379,17 +6384,17 @@
 
 vv !
 
-yy ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_14.cs
+yy ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_14.cs
 
- >
+ <
 
 !! 2
 ## && ::  LL OO= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO !
@@ -1402,17 +6407,17 @@
 
 vv !
 
-yy ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_15.cs
+yy ·
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_15.cs
 
- >
+ <
 
 !! 2
 ## '' ;;  LL PP= A(
 ,, '44 (77 $;;- 9
-..% ,11B I
-11, .44+ -
-==. @??> P
+--% +//B H
+//, .44+ -
+==/ A??> P
 CC# +EE6 >
 
 PP !
@@ -1425,17 +6430,17 @@
 
 yy !
 
-|| Ù
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_16.cs
+|| ×
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_16.cs
 
- >
+ <
 
 !! (
 ## && ::  JJ= A(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 JJ !
@@ -1444,17 +6449,17 @@
 
 YY !
 
-\\ ™
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_17.cs
+\\ —
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_17.cs
 
- >
+ <
 
 !! (
 ## $$ 88 HHA E(
 )) #11 $44  88) 5
-++! (..> E
-..( *11' )
-::* <<<: L
+**! ',,> D
+,,( *11' )
+::+ =<<: L
 @@ 'BB2 :
 EE EE EE  
 
@@ -1465,10 +6470,10 @@
 
 WW! %
 
-[[ Õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_21.cs
+[[ Ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_21.cs
 
- >
+ <
 "" '' 00 
 
 $$ 
@@ -1478,9 +6483,9 @@
 ** !2
 // 22 FF  XX ZZ (
 77 '?? (BB $FF- 9
-99% ,<<B I
-<<, .??+ -
-HH. @JJ> P
+88% +::B H
+::, .??+ -
+HH/ AJJ> P
 NN# +PP6 >
 ^^ !kk tt "
 __ !
@@ -1509,10 +6514,10 @@
 ŽŽ 
 ’’ 
 ˜˜ 
-šš Ò
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_22a.cs
+šš Ð
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_22a.cs
 
- ?
+ =
  &$$ 
 
 !! 
@@ -1530,35 +6535,35 @@
 << !
 BB DD FF= A
 
-FF !ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_22b.cs
+FF !ô
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_22b.cs
 
- ?
+ =
 
  2
 !! $$ 88  JJ LL (
 )) '11 (44 $88- 9
-++% ,..B I
-.., .11+ -
-::. @<<> P
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
 @@# +BB6 >
 
 RR $(
 TT YY ^^ `` 
 
 dd $(
-ff jj pp rr Å
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_31.cs
+ff jj pp rr Ã
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_31.cs
 
- >
+ <
 
 "" 
 $$ HH KK (
 && '' ;;  HH (
 ,, '44 (77 $;;- 9
-..% ,11B I
-11, .44+ -
-==. @??> P
+--% +//B H
+//, .44+ -
+==/ A??> P
 CC# +EE6 >
 KK MMA E
 
@@ -1570,10 +6575,10 @@
 \\ ^^ __ 
 bb ddA E
 
-dd! %±
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_41.cs
+dd! %¯
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_41.cs
 
- >
+ <
    JJ 
   $ (##= A
 
@@ -1582,9 +6587,9 @@
 && (
 (( )) == JJ (
 .. #66 $99  ==) 5
-00! (33> E
-33( *66' )
-??* <AA: L
+//! '11> D
+11( *66' )
+??+ =AA: L
 EE 'GG2 :
 
 NN 
@@ -1593,16 +6598,16 @@
 SS( ,VV= A
 
 VV !
-\\ ^^ __ ±
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_42.cs
+\\ ^^ __ ¯
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_42.cs
 
- >
+ <
     JJ (
 "" ## 77 DD (
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :
 
 HH 
@@ -1616,10 +6621,10 @@
 
 ]] !
 
-`` ñ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_45.cs
+`` ï
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_45.cs
 
- >
+ <
 !! && PP 
 "" \\ gg 
 $$ QQ 
@@ -1630,9 +6635,9 @@
 ,, (
 .. // CC PP (
 44 #<< $??  CC) 5
-66! (99> E
-99( *<<' )
-EE* <GG: L
+55! '77> D
+77( *<<' )
+EE+ =GG: L
 KK 'MM2 :
 
 UU 
@@ -1641,25 +6646,25 @@
 \\ ^^= A
 
 ^^ !
-dd ff gg Â
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_51a.cs
+dd ff gg À
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_51a.cs
 
- ?
+ =
 
  (
-   !! 55 BBJ N(
+   !! 55 BBH L(
 && #.. $11  55) 5
-((! (++> E
-++( *..' )
-77* <99: L
+''! '))> D
+))( *..' )
+77+ =99: L
 == '??2 :
 
 FF 
 LL HH 
-NN PP QQN R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_51b.cs
+NN PP QQL P¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_51b.cs
 
- ?
+ =
 
  
 # '= A
@@ -1669,34 +6674,34 @@
 %% "
 %%' +((= A
 
-(( !Â
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_52a.cs
+(( !À
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_52a.cs
 
- ?
+ =
 
  (
-!! "" 66 CCJ N(
+!! "" 66 CCH L(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRN RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_52b.cs
+OO QQ RRL PŠ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_52b.cs
 
- ?
+ =
 
  
-# 'J N
+# 'H L
 
 ## "
-##' +%%N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_52c.cs
+##' +%%L P¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_52c.cs
 
- ?
+ =
 
  
 # '  = A
@@ -1706,43 +6711,43 @@
 && "
 &&' +))= A
 
-)) !Â
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_53a.cs
+)) !À
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_53a.cs
 
- ?
+ =
 
  (
-!! "" 66 CCJ N(
+!! "" 66 CCH L(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRN RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_53b.cs
+OO QQ RRL PŠ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_53b.cs
 
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_53c.cs
-
- ?
+ =
 
  
-# 'J N
+# 'H L
 
 ## "
-##' +%%N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_53d.cs
+##' +%%L PŠ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_53c.cs
 
- ?
+ =
+
+ 
+# 'H L
+
+## "
+##' +%%L P¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_53d.cs
+
+ =
 
  
 # '  = A
@@ -1752,52 +6757,52 @@
 && "
 &&' +))= A
 
-)) !Â
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_54a.cs
+)) !À
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_54a.cs
 
- ?
+ =
 
  (
-!! "" 66 CCJ N(
+!! "" 66 CCH L(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRN RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_54b.cs
+OO QQ RRL PŠ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_54b.cs
 
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_54c.cs
-
- ?
+ =
 
  
-# 'J N
+# 'H L
 
 ## "
-##' +%%N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_54d.cs
+##' +%%L PŠ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_54c.cs
 
- ?
+ =
 
  
-# 'J N
+# 'H L
 
 ## "
-##' +%%N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_54e.cs
+##' +%%L PŠ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_54d.cs
 
- ?
+ =
+
+ 
+# 'H L
+
+## "
+##' +%%L P¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_54e.cs
+
+ =
 
  
 # '  = A
@@ -1807,10 +6812,10 @@
 && "
 &&' +))= A
 
-)) !º
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_61a.cs
+)) !¸
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_61a.cs
 
- ?
+ =
 
  
  !!= A
@@ -1821,41 +6826,41 @@
 ++ '' 
 -- //= A
 
-// !¬
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_61b.cs
+// !ª
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_61b.cs
 
- ?
+ =
 
  (
 !! "" 66 CC (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 II #
-KK MM NN ‚
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_66a.cs
+KK MM NN €
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_66a.cs
 
- ?
+ =
 
  (
 !! "" 66 DD (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
-CC DD EEJ S
+CC DD EEH Q
 
 II 
 OO KK 
 QQ SS UU 
-TT UU VVN WÐ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_66b.cs
+TT UU VVL UÎ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_66b.cs
 
- ?
+ =
 
  
 % . 
@@ -1867,58 +6872,58 @@
 '') 2)) 
 )) ++= A
 
-++ !Ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_67a.cs
+++ !Ô
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_67a.cs
 
- ?2
+ =2
  HH HH& /YY YY& /
 !! II "ZZ "
 
 $$ (
 && '' ;; II% )(
 ,, #44 $77  ;;) 5
-..! (11> E
-11( *44' )
-==* <??: L
+--! '//> D
+//( *44' )
+==+ =??: L
 CC 'EE2 :
-HH II JJJ W
+HH II JJH U
 
 NN 
 TT PP 
 VV XX ZZ% )
-YY ZZ [[N [Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_67b.cs
+YY ZZ [[L YÎ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_67b.cs
 
- ?
+ =
 
  
-c p  
+a n  
  !!= A
 
 !! !
 
 '' "
-''g t))  
+''e r))  
 )) ++= A
 
-++ !¢
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_68a.cs
+++ ! 
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_68a.cs
 
- ?(
+ =(
  "" 66 PP 
 
    (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
-MM II ¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_68b.cs
+MM II ¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_68b.cs
 
- ?
+ =
 
  
    = A
@@ -1928,25 +6933,25 @@
 && "
 (( **= A
 
-** !Â
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_71a.cs
+** !À
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_71a.cs
 
- ?
+ =
 
  (
-!! "" 66 CCR V(
+!! "" 66 CCP T(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRV ZÐ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_71b.cs
+OO QQ RRT XÎ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_71b.cs
 
- ?
+ =
 
  
 & 0   "
@@ -1958,27 +6963,27 @@
 ((* 4** "
 ** ,,= A
 
-,, !Ò
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_72a.cs
+,, !Ð
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_72a.cs
 
- ?
+ =
 
  <
 !! "" 66 DD !EE !FF !(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :2
-CC DD EE FF GGJ W
+CC DD EE FF GGH U
 
 KK 
 QQ MM 2
 SS UU WW !XX !YY !2
-VV WW XX YY ZZN [Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_72b.cs
+VV WW XX YY ZZL YÎ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_72b.cs
 
- ?
+ =
 
  
 ) 6   &
@@ -1990,27 +6995,27 @@
 ((- :** &
 ** ,,= A
 
-,, !Ò
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_73a.cs
+,, !Ð
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_73a.cs
 
- ?
+ =
 
    <
 "" ## 77 EE #FF #GG #(
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :2
-DD &EE FF GG HHJ X
+DD &EE FF GG HHH V
 
 LL 
 RR NN 2
 TT VV XX #YY #ZZ #2
-WW &XX YY ZZ [[N \Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_73b.cs
+WW &XX YY ZZ [[L ZÎ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_73b.cs
 
- ?
+ =
 
  
 / = !
@@ -2022,27 +7027,27 @@
 ''3 A)) !
 )) ++= A
 
-++ !Ò
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_74a.cs
+++ !Ð
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_74a.cs
 
- ?
+ =
 
  <
 !! "" 66 DD "EE "FF "(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :2
-CC *DD EE FF GGJ X
+CC *DD EE FF GGH V
 
 KK 
 QQ MM 2
 SS UU WW "XX "YY "2
-VV *WW XX YY ZZN \Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_74b.cs
+VV *WW XX YY ZZL ZÎ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_74b.cs
 
- ?
+ =
 
  
 3 A !
@@ -2054,19 +7059,19 @@
 ''7 E)) !
 )) ++= A
 
-++ !š
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_75a.cs
+++ !˜
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_75a.cs
 
- ?
+ =
 
    (
 "" ## 77 KK! %(
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :
-EE LL NNN \
+EE LL NNL Z
 HH KK 
 II KK LL! #
 PP& 5RRZ i
@@ -2074,13 +7079,13 @@
 WW 
 ]] YY 
 __ aa ii! %
-cc jj llR `
+cc jj llP ^
 ff ii 
 gg ii jj! #
-nn& 5ppZ i¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_75b.cs
+nn& 5ppZ i¢
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_75b.cs
 
- ?
+ =
 
    
   & 4((  .((3 A
@@ -2098,57 +7103,57 @@
 >>  @@ AA BB0 9
 
 EE! %
-GG& 5II[ jî
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_81a.cs
+GG& 5II[ jì
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_81a.cs
 
- ?
+ =
 
  (
 !! "" 66 DD (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
-CCF PDD 
+CCD NDD 
 
 HH 
 NN JJ 
 PP RR TT 
-SSF PTT ù
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_81_bad.cs
+SSD NTT ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_81_bad.cs
 
- B
+ @
 
  
 $ (!!= A
 
-!! !ä
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_81_base.cs
+!! !â
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_81_base.cs
 
- L
+ J
 
  
 
-$ (ý
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_Dictionary_81_goodG2B.cs
+$ (û
+¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_Dictionary_81_goodG2B.cs
 
- F
+ D
 
  
 $ (!!= A
 
-!! !Ö
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_01.cs
+!! !Ô
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_01.cs
 
- ;
+ 9
 
 !! (
 ## $$ 88 FF3 7(
 )) #11 $44  88) 5
-++! (..> E
-..( *11' )
-::* <<<: L
+**! ',,> D
+,,( *11' )
+::+ =<<: L
 @@ 'BB2 :
 
 FF 
@@ -2157,17 +7162,17 @@
 PP LL 
 RR TT VV3 7
 
-VV ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_02.cs
+VV ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_02.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2180,17 +7185,17 @@
 
 vv 
 
-yy ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_03.cs
+yy ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_03.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2203,19 +7208,19 @@
 
 vv 
 
-yy ò
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_04.cs
+yy ð
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_04.cs
 
- ;
+ 9
 $$ )++ qq 
 %% *^^ 
 
 (( 2
 ** -- AA  SS VV3 7(
 22 ':: (== $AA- 9
-44% ,77B I
-77, .::+ -
-CC. @EE> P
+33% +55B H
+55, .::+ -
+CC/ AEE> P
 II# +KK6 >
 
 VV 
@@ -2230,19 +7235,19 @@
 
 }} 
 
-€€ ò
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_05.cs
+€€ ð
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_05.cs
 
- ;
+ 9
 $$ ++ qq 
 %% ^^ 
 
 (( 2
 ** -- AA  SS VV3 7(
 22 ':: (== $AA- 9
-44% ,77B I
-77, .::+ -
-CC. @EE> P
+33% +55B H
+55, .::+ -
+CC/ AEE> P
 II# +KK6 >
 
 VV 
@@ -2257,18 +7262,18 @@
 
 }} 
 
-€€ ä
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_06.cs
+€€ â
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_06.cs
 
- ;(
+ 9(
 $$ (** ]] pp 
 
 '' 2
 )) ,, @@  RR UU3 7(
 11 '99 (<< $@@- 9
-33% ,66B I
-66, .99+ -
-BB. @DD> P
+22% +44B H
+44, .99+ -
+BB/ ADD> P
 HH# +JJ6 >
 
 UU 
@@ -2283,18 +7288,18 @@
 
 || 
 
- ä
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_07.cs
+ â
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_07.cs
 
- ;(
+ 9(
 $$ ** ]] pp 
 
 '' 2
 )) ,, @@  RR UU3 7(
 11 '99 (<< $@@- 9
-33% ,66B I
-66, .99+ -
-BB. @DD> P
+22% +44B H
+44, .99+ -
+BB/ ADD> P
 HH# +JJ6 >
 
 UU 
@@ -2309,19 +7314,19 @@
 
 || 
 
- ø
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_08.cs
+ ö
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_08.cs
 
- ;
+ 9
 $$ *22 xx 
 )) +ee 
 
 // 2
 11 44 HH  ZZ ]]3 7(
 99 'AA (DD $HH- 9
-;;% ,>>B I
->>, .AA+ -
-JJ. @LL> P
+::% +<<B H
+<<, .AA+ -
+JJ/ ALL> P
 PP# +RR6 >
 
 ]] 
@@ -2338,17 +7343,17 @@
 
 „„ 
 
-‡‡ ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_09.cs
+‡‡ ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_09.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2361,17 +7366,17 @@
 
 vv 
 
-yy ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_10.cs
+yy ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_10.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2384,17 +7389,17 @@
 
 vv 
 
-yy ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_11.cs
+yy ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_11.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2407,17 +7412,17 @@
 
 vv 
 
-yy ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_12.cs
+yy è
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_12.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  KK NN3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 NN 
@@ -2426,17 +7431,17 @@
 
 bb 
 
-ee ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_13.cs
+ee ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_13.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2449,17 +7454,17 @@
 
 vv 
 
-yy ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_14.cs
+yy ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_14.cs
 
- ;
+ 9
 
 !! 2
 ## && ::  LL OO3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 OO 
@@ -2472,17 +7477,17 @@
 
 vv 
 
-yy ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_15.cs
+yy ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_15.cs
 
- ;
+ 9
 
 !! 2
 ## '' ;;  LL PP3 7(
 ,, '44 (77 $;;- 9
-..% ,11B I
-11, .44+ -
-==. @??> P
+--% +//B H
+//, .44+ -
+==/ A??> P
 CC# +EE6 >
 
 PP 
@@ -2495,17 +7500,17 @@
 
 yy 
 
-|| Ö
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_16.cs
+|| Ô
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_16.cs
 
- ;
+ 9
 
 !! (
 ## && ::  JJ3 7(
 ++ '33 (66 $::- 9
---% ,00B I
-00, .33+ -
-<<. @>>> P
+,,% +..B H
+.., .33+ -
+<</ A>>> P
 BB# +DD6 >
 
 JJ 
@@ -2514,17 +7519,17 @@
 
 YY 
 
-\\ –
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_17.cs
+\\ ”
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_17.cs
 
- ;
+ 9
 
 !! (
 ## $$ 88 HH7 ;(
 )) #11 $44  88) 5
-++! (..> E
-..( *11' )
-::* <<<: L
+**! ',,> D
+,,( *11' )
+::+ =<<: L
 @@ 'BB2 :
 EE EE EE  
 
@@ -2535,10 +7540,10 @@
 
 WW #
 
-[[ Ò
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_21.cs
+[[ Ð
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_21.cs
 
- ;
+ 9
 "" '' 00 
 
 $$ 
@@ -2548,9 +7553,9 @@
 ** 2
 // 22 FF  XX ZZ (
 77 '?? (BB $FF- 9
-99% ,<<B I
-<<, .??+ -
-HH. @JJ> P
+88% +::B H
+::, .??+ -
+HH/ AJJ> P
 NN# +PP6 >
 ^^ !kk tt "
 __ !
@@ -2579,10 +7584,10 @@
 ŽŽ 
 ’’ 
 ˜˜ 
-šš Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_22a.cs
+šš Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_22a.cs
 
- <
+ :
  &$$ 
 
 !! 
@@ -2600,35 +7605,35 @@
 << 
 BB DD FF3 7
 
-FF ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_22b.cs
+FF ñ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_22b.cs
 
- <
+ :
 
  2
 !! $$ 88  JJ LL (
 )) '11 (44 $88- 9
-++% ,..B I
-.., .11+ -
-::. @<<> P
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
 @@# +BB6 >
 
 RR $(
 TT YY ^^ `` 
 
 dd $(
-ff jj pp rr Â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_31.cs
+ff jj pp rr À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_31.cs
 
- ;
+ 9
 
 "" 
 $$ HH KK (
 && '' ;;  HH (
 ,, '44 (77 $;;- 9
-..% ,11B I
-11, .44+ -
-==. @??> P
+--% +//B H
+//, .44+ -
+==/ A??> P
 CC# +EE6 >
 KK MM7 ;
 
@@ -2640,10 +7645,10 @@
 \\ ^^ __ 
 bb dd7 ;
 
-dd #®
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_41.cs
+dd #¬
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_41.cs
 
- ;
+ 9
    JJ 
   $ (##3 7
 
@@ -2652,9 +7657,9 @@
 && (
 (( )) == JJ (
 .. #66 $99  ==) 5
-00! (33> E
-33( *66' )
-??* <AA: L
+//! '11> D
+11( *66' )
+??+ =AA: L
 EE 'GG2 :
 
 NN 
@@ -2663,16 +7668,16 @@
 SS( ,VV3 7
 
 VV 
-\\ ^^ __ ®
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_42.cs
+\\ ^^ __ ¬
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_42.cs
 
- ;
+ 9
     JJ (
 "" ## 77 DD (
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :
 
 HH 
@@ -2686,10 +7691,10 @@
 
 ]] 
 
-`` î
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_45.cs
+`` ì
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_45.cs
 
- ;
+ 9
 !! && PP 
 "" \\ gg 
 $$ QQ 
@@ -2700,9 +7705,9 @@
 ,, (
 .. // CC PP (
 44 #<< $??  CC) 5
-66! (99> E
-99( *<<' )
-EE* <GG: L
+55! '77> D
+77( *<<' )
+EE+ =GG: L
 KK 'MM2 :
 
 UU 
@@ -2711,25 +7716,25 @@
 \\ ^^3 7
 
 ^^ 
-dd ff gg ¿
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_51a.cs
+dd ff gg ½
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_51a.cs
 
- <
+ :
 
  (
-   !! 55 BBG K(
+   !! 55 BBE I(
 && #.. $11  55) 5
-((! (++> E
-++( *..' )
-77* <99: L
+''! '))> D
+))( *..' )
+77+ =99: L
 == '??2 :
 
 FF 
 LL HH 
-NN PP QQK O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_51b.cs
+NN PP QQI MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_51b.cs
 
- <
+ :
 
  
 # '3 7
@@ -2739,34 +7744,34 @@
 %% "
 %%' +((3 7
 
-(( ¿
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_52a.cs
+(( ½
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_52a.cs
 
- <
+ :
 
  (
-!! "" 66 CCG K(
+!! "" 66 CCE I(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRK O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_52b.cs
+OO QQ RRI M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_52b.cs
 
- <
+ :
 
  
-# 'G K
+# 'E I
 
 ## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_52c.cs
+##' +%%I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_52c.cs
 
- <
+ :
 
  
 # '  3 7
@@ -2776,43 +7781,43 @@
 && "
 &&' +))3 7
 
-)) ¿
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_53a.cs
+)) ½
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_53a.cs
 
- <
+ :
 
  (
-!! "" 66 CCG K(
+!! "" 66 CCE I(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRK O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_53b.cs
+OO QQ RRI M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_53b.cs
 
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_53c.cs
-
- <
+ :
 
  
-# 'G K
+# 'E I
 
 ## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_53d.cs
+##' +%%I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_53c.cs
 
- <
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_53d.cs
+
+ :
 
  
 # '  3 7
@@ -2822,52 +7827,52 @@
 && "
 &&' +))3 7
 
-)) ¿
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_54a.cs
+)) ½
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_54a.cs
 
- <
+ :
 
  (
-!! "" 66 CCG K(
+!! "" 66 CCE I(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRK O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_54b.cs
+OO QQ RRI M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_54b.cs
 
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_54c.cs
-
- <
+ :
 
  
-# 'G K
+# 'E I
 
 ## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_54d.cs
+##' +%%I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_54c.cs
 
- <
+ :
 
  
-# 'G K
+# 'E I
 
 ## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_54e.cs
+##' +%%I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_54d.cs
 
- <
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_54e.cs
+
+ :
 
  
 # '  3 7
@@ -2877,10 +7882,10 @@
 && "
 &&' +))3 7
 
-)) ·
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_61a.cs
+)) µ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_61a.cs
 
- <
+ :
 
  
  !!3 7
@@ -2891,41 +7896,41 @@
 ++ '' 
 -- //3 7
 
-// ©
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_61b.cs
+// §
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_61b.cs
 
- <
+ :
 
  (
 !! "" 66 CC (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 II #
-KK MM NN ÿ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_66a.cs
+KK MM NN ý
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_66a.cs
 
- <
+ :
 
  (
 !! "" 66 DD (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
-CC DD EEG P
+CC DD EEE N
 
 II 
 OO KK 
 QQ SS UU 
-TT UU VVK TÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_66b.cs
+TT UU VVI RË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_66b.cs
 
- <
+ :
 
  
 % . 
@@ -2937,58 +7942,58 @@
 '') 2)) 
 )) ++3 7
 
-++ Ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_67a.cs
+++ Ñ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_67a.cs
 
- <2
+ :2
  HH HH& /YY YY& /
 !! II "ZZ "
 
 $$ (
 && '' ;; II% )(
 ,, #44 $77  ;;) 5
-..! (11> E
-11( *44' )
-==* <??: L
+--! '//> D
+//( *44' )
+==+ =??: L
 CC 'EE2 :
-HH II JJG T
+HH II JJE R
 
 NN 
 TT PP 
 VV XX ZZ% )
-YY ZZ [[K XÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_67b.cs
+YY ZZ [[I VË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_67b.cs
 
- <
+ :
 
  
-` m  
+^ k  
  !!3 7
 
 !! 
 
 '' "
-''d q))  
+''b o))  
 )) ++3 7
 
-++ Ÿ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_68a.cs
+++ 
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_68a.cs
 
- <(
+ :(
  "" 66 PP 
 
    (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
-MM II ¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_68b.cs
+MM II Ÿ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_68b.cs
 
- <
+ :
 
  
    3 7
@@ -2998,25 +8003,25 @@
 && "
 (( **3 7
 
-** ¿
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_71a.cs
+** ½
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_71a.cs
 
- <
+ :
 
  (
-!! "" 66 CCO S(
+!! "" 66 CCM Q(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
 
 GG 
 MM II 
-OO QQ RRS WÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_71b.cs
+OO QQ RRQ UË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_71b.cs
 
- <
+ :
 
  
 & 0   "
@@ -3028,27 +8033,27 @@
 ((* 4** "
 ** ,,3 7
 
-,, Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_72a.cs
+,, Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_72a.cs
 
- <
+ :
 
  <
 !! "" 66 DD !EE !FF !(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :2
-CC DD EE FF GGG T
+CC DD EE FF GGE R
 
 KK 
 QQ MM 2
 SS UU WW !XX !YY !2
-VV WW XX YY ZZK XÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_72b.cs
+VV WW XX YY ZZI VË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_72b.cs
 
- <
+ :
 
  
 ) 6   &
@@ -3060,27 +8065,27 @@
 ((- :** &
 ** ,,3 7
 
-,, Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_73a.cs
+,, Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_73a.cs
 
- <
+ :
 
    <
 "" ## 77 EE #FF #GG #(
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :2
-DD &EE FF GG HHG U
+DD &EE FF GG HHE S
 
 LL 
 RR NN 2
 TT VV XX #YY #ZZ #2
-WW &XX YY ZZ [[K YÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_73b.cs
+WW &XX YY ZZ [[I WË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_73b.cs
 
- <
+ :
 
  
 / = !
@@ -3092,27 +8097,27 @@
 ''3 A)) !
 )) ++3 7
 
-++ Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_74a.cs
+++ Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_74a.cs
 
- <
+ :
 
  <
 !! "" 66 DD "EE "FF "(
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :2
-CC *DD EE FF GGG U
+CC *DD EE FF GGE S
 
 KK 
 QQ MM 2
 SS UU WW "XX "YY "2
-VV *WW XX YY ZZK YÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_74b.cs
+VV *WW XX YY ZZI WË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_74b.cs
 
- <
+ :
 
  
 3 A !
@@ -3124,19 +8129,19 @@
 ''7 E)) !
 )) ++3 7
 
-++ —
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_75a.cs
+++ •
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_75a.cs
 
- <
+ :
 
    (
 "" ## 77 KK! %(
 (( #00 $33  77) 5
-**! (--> E
---( *00' )
-99* <;;: L
+))! '++> D
+++( *00' )
+99+ =;;: L
 ?? 'AA2 :
-EE LL NNK Y
+EE LL NNI W
 HH KK 
 II KK LL! #
 PP& 5RRZ i
@@ -3144,13 +8149,13 @@
 WW 
 ]] YY 
 __ aa ii! %
-cc jj llO ]
+cc jj llM [
 ff ii 
 gg ii jj! #
-nn& 5ppZ i¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_75b.cs
+nn& 5ppZ iŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_75b.cs
 
- <
+ :
 
    
   & 4((  .((3 A
@@ -3168,1113 +8173,1426 @@
 >>  @@ AA BB0 9
 
 EE #
-GG& 5II[ jë
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_81a.cs
+GG& 5II[ jé
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_81a.cs
 
- <
+ :
 
  (
 !! "" 66 DD (
 '' #// $22  66) 5
-))! (,,> E
-,,( *//' )
-88* <::: L
+((! '**> D
+**( *//' )
+88+ =::: L
 >> '@@2 :
-CCC MDD 
+CCA KDD 
 
 HH 
 NN JJ 
 PP RR TT 
-SSC MTT ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_81_bad.cs
+SSA KTT ô
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_81_bad.cs
 
- ?
+ =
 
  
 $ (!!3 7
 
-!! á
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_81_base.cs
+!! ß
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_81_base.cs
 
- I
+ G
 
  
 
-$ (ú
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Connect_tcp_HashSet_81_goodG2B.cs
+$ (ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__NetClient_HashSet_81_goodG2B.cs
 
- C
+ A
 
  
 $ (!!3 7
 
-!! ÿ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_01.cs
+!! ë
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_01.cs
 
- :
+ @
 
-   (
-"" ## 99$ (JJ/ 3
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
+ 
+) ,%%" %
 
-JJ 
+; ?(
+!! "" (( 00/ 3
+%% ((! -
+**# 5,,2 D
 
-NN 
-TT PP 
-VV XX ZZ/ 3
+00 
 
-ZZ á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_02.cs
+44 
+44* -66 
+44< @66 
+:: 66 
 
- :
+::% (
 
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+::7 ;
+<< >> @@/ 3
 
-SS 
-XX  (
-ZZ __ dd gg/ 3
+@@ ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_02.cs
 
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
+ @
 
-zz 
+ 
+) ,''& )
 
-}} á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_03.cs
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
 
- :
+99 
+>> ee 
 
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+>>& )
 
-SS 
-XX  (
-ZZ __ dd gg/ 3
+>>8 <(
+@@ EE JJ MM/ 3
 
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
+MM 
+QQ ff 
 
-zz 
+QQ& )
 
-}} Ÿ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_04.cs
+QQ8 <(
+SS WW ]] ``/ 3
 
- :
-## )** uu 
-$$ *bb 
+`` 
 
-'' 2
-)) ,, BB( ,WW ZZ/ 3
-22) 344 "66I S(
-66* 188 #99 #::6 =
-::1 3==6 8
-==' 3>>$ 0BB9 E
-DD; MFFJ \
-MM$ -OO6 ?
+cc 
+cc* -ee ff 
+cc< @ee ff ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_03.cs
 
-ZZ 
-__ 
-†† (
-aa ff kk nn/ 3
+ @
 
-nn 
-rr 
-‡‡ *
-tt xx ~~ 
-/ 3
+ 
+) ,''& )
 
- 
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
 
-„„ Ÿ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_05.cs
+99 
+>> ee 
 
- :
-## ** uu 
-$$ bb 
+>>& )
 
-'' 2
-)) ,, BB( ,WW ZZ/ 3
-22) 344 "66I S(
-66* 188 #99 #::6 =
-::1 3==6 8
-==' 3>>$ 0BB9 E
-DD; MFFJ \
-MM$ -OO6 ?
+>>8 <(
+@@ EE JJ MM/ 3
 
-ZZ 
-__ 
-†† (
-aa ff kk nn/ 3
+MM 
+QQ ff 
 
-nn 
-rr 
-‡‡ *
-tt xx ~~ 
-/ 3
+QQ& )
 
- 
+QQ8 <(
+SS WW ]] ``/ 3
 
-„„ “
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_06.cs
+`` 
 
- :(
-## ()) aa tt 
+cc 
+cc* -ee ff 
+cc< @ee ff ­
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_04.cs
 
-&& 2
-(( ++ AA( ,VV YY/ 3
-11) 333 "55I S(
-55* 177 #88 #996 =
-991 3<<6 8
-<<' 3==$ 0AA9 E
-CC; MEEJ \
-LL$ -NN6 ?
+ @
+"" ))) [[ 
+## *HH 
 
-YY 
-^^ 
-…… (
-`` ee jj mm/ 3
+&& 
+&&) ,..& )
 
-mm 
-qq 
-†† *
-ss ww }} 
-€€/ 3
+&&; ?2
+(( ++ 11 == @@/ 3
+.. #11% 1
+33' 9556 H
 
-€€ 
+@@ 
+EE ll 
 
-ƒƒ “
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_07.cs
+EE& )
 
- :(
-## )) aa tt 
+EE8 <(
+GG LL QQ TT/ 3
 
-&& 2
-(( ++ AA( ,VV YY/ 3
-11) 333 "55I S(
-55* 177 #88 #996 =
-991 3<<6 8
-<<' 3==$ 0AA9 E
-CC; MEEJ \
-LL$ -NN6 ?
+TT 
+XX mm 
 
-YY 
-^^ 
-…… (
-`` ee jj mm/ 3
+XX& )
 
-mm 
-qq 
-†† *
-ss ww }} 
-€€/ 3
+XX8 <(
+ZZ ^^ dd gg/ 3
 
-€€ 
+gg 
 
-ƒƒ ¡
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_08.cs
+jj 
+jj* -ll mm 
+jj< @ll mm ­
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_05.cs
 
- :
-## *11 || 
-(( +ii 
+ @
+"" )) [[ 
+## HH 
 
-.. 2
-00 33 II( ,^^ aa/ 3
-99) 3;; "==I S(
-==* 1?? #@@ #AA6 =
-AA1 3DD6 8
-DD' 3EE$ 0II9 E
-KK; MMMJ \
-TT$ -VV6 ?
+&& 
+&&) ,..& )
 
-aa 
-ff 
- (
-hh mm rr uu/ 3
+&&; ?2
+(( ++ 11 == @@/ 3
+.. #11% 1
+33' 9556 H
 
-uu 
-yy 
-ŽŽ ,
-{{  
-…… 
-ˆˆ/ 3
+@@ 
+EE ll 
 
-ˆˆ 
+EE& )
 
-‹‹ á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_09.cs
+EE8 <(
+GG LL QQ TT/ 3
 
- :
+TT 
+XX mm 
 
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+XX& )
+
+XX8 <(
+ZZ ^^ dd gg/ 3
+
+gg 
+
+jj 
+jj* -ll mm 
+jj< @ll mm ¡
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_06.cs
+
+ @(
+"" ((( GG ZZ 
+
+%% 
+%%) ,--& )
+
+%%; ?2
+'' ** 00 << ??/ 3
+-- #00% 1
+22' 9446 H
+
+?? 
+DD kk 
+
+DD& )
+
+DD8 <(
+FF KK PP SS/ 3
 
 SS 
-XX  (
-ZZ __ dd gg/ 3
+WW ll 
 
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
+WW& )
 
-zz 
-
-}} á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_10.cs
-
- :
-
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-SS 
-XX  (
-ZZ __ dd gg/ 3
-
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
-
-zz 
-
-}} á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_11.cs
-
- :
-
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-SS 
-XX  (
-ZZ __ dd gg/ 3
-
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
-
-zz 
-
-}} “
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_12.cs
-
- :
-
-   2
-"" %% ;;( ,OO RR/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-RR 
-XX kk (
-ZZ ^^ cc ff/ 3
+WW8 <(
+YY ]] cc ff/ 3
 
 ff 
 
-ii á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_13.cs
+ii 
+ii* -kk ll 
+ii< @kk ll ¡
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_07.cs
 
- :
+ @(
+"" (( GG ZZ 
 
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+%% 
+%%) ,--& )
 
-SS 
-XX  (
-ZZ __ dd gg/ 3
+%%; ?2
+'' ** 00 << ??/ 3
+-- #00% 1
+22' 9446 H
 
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
+?? 
+DD kk 
 
-zz 
+DD& )
 
-}} á
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_14.cs
-
- :
-
-   2
-"" %% ;;( ,PP SS/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+DD8 <(
+FF KK PP SS/ 3
 
 SS 
-XX  (
-ZZ __ dd gg/ 3
+WW ll 
 
-gg 
-kk 
-€€ (
-mm qq ww zz/ 3
+WW& )
 
-zz 
+WW8 <(
+YY ]] cc ff/ 3
 
-}} å
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_15.cs
+ff 
 
- :
+ii 
+ii* -kk ll 
+ii< @kk ll ­
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_08.cs
 
-   2
-"" && <<( ,PP TT/ 3
-,,) 3.. "00I S(
-00* 122 #33 #446 =
-441 3776 8
-77' 388$ 0<<9 E
->>; M@@J \
-GG$ -II6 ?
+ @
+"" *00 bb 
+'' +OO 
 
-TT 
-YY 
-‚‚ (
-[[ aa ee ii/ 3
+-- 
+--) ,55& )
 
-ii 
-mm 
-ƒƒ (
-oo tt yy }}/ 3
+--; ?2
+// 22 88 DD GG/ 3
+55 #88% 1
+::' 9<<6 H
 
-}} 
+GG 
+LL ss 
 
-€€ ÿ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_16.cs
+LL& )
 
- :
+LL8 <(
+NN SS XX [[/ 3
 
-   (
-"" %% ;;( ,NN/ 3
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+[[ 
+__ tt 
 
-NN 
-SS bb 
-UU YY ]]/ 3
+__& )
 
-]] 
+__8 <(
+aa ee kk nn/ 3
 
-`` ¿
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_17.cs
+nn 
 
- :
+qq 
+qq* -ss tt 
+qq< @ss tt ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_09.cs
 
-   (
-"" ## 99$ (LL3 7
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
-II II II  
+ @
 
-LL "
-SS aa 
-UU WW [[3 7
-XX XX XX  
+ 
+) ,''& )
 
-[[ "
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
 
-__ ÿ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_21.cs
+99 
+>> ee 
 
- :
-!! && // 
+>>& )
 
-## 
-%% '' ))/ 3
-,, '' 
+>>8 <(
+@@ EE JJ MM/ 3
 
-)) 2
-.. 11 GG( ,\\ ^^ 
-77) 399 ";;I S(
-;;* 1== #>> #??6 =
-??1 3BB6 8
-BB' 3CC$ 0GG9 E
-II; MKKJ \
-RR$ -TT6 ?
-bb !oo xx "
-cc !
-ŠŠ 
-““ 
+MM 
+QQ ff 
 
-ee 
-ll gg 
+QQ& )
 
-‡‡ hh 
-nn pp rr/ 3
-uu pp 
+QQ8 <(
+SS WW ]] ``/ 3
 
-rr ,
-ww || 
- 
-ƒƒ $
+`` 
 
-‰‰ 
-‹‹ 
-/ 3
+cc 
+cc* -ee ff 
+cc< @ee ff ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_10.cs
 
- 
-‹‹ 
+ @
 
- 0
+ 
+) ,''& )
 
-’’ 
-–– 
-œœ 
-žž Î
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_22a.cs
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
 
- ;
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM/ 3
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``/ 3
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_11.cs
+
+ @
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
+
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM/ 3
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``/ 3
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff ÿ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_12.cs
+
+ @
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 55 88/ 3
+'' #**% 1
+,,' 9..6 H
+
+88 
+>> QQ 
+
+>>% (
+
+>>7 ;(
+@@ DD II LL/ 3
+
+LL 
+
+OO 
+OO* -QQ 
+OO< @QQ ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_13.cs
+
+ @
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
+
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM/ 3
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``/ 3
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_14.cs
+
+ @
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 99/ 3
+'' #**% 1
+,,' 9..6 H
+
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM/ 3
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``/ 3
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff ÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_15.cs
+
+ @
+
+ 
+) ,((& )
+
+; ?2
+!! %% ++ 66 ::/ 3
+(( #++% 1
+--' 9//6 H
+
+:: 
+?? hh 
+
+??& )
+
+??8 <(
+AA GG KK OO/ 3
+
+OO 
+SS ii 
+
+SS& )
+
+SS8 <(
+UU ZZ __ cc/ 3
+
+cc 
+
+ff 
+ff* -hh ii 
+ff< @hh ii ë
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_16.cs
+
+ @
+
+ 
+) ,''& )
+
+; ?(
+!! $$ ** 44/ 3
+'' #**% 1
+,,' 9..6 H
+
+44 
+99 HH 
+
+99% (
+
+997 ;
+;; ?? CC/ 3
+
+CC 
+
+FF 
+FF* -HH 
+FF< @HH «
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_17.cs
+
+ @
+
+ 
+) ,%%" %
+
+; ?(
+!! "" (( 223 7
+%% ((! -
+**# 5,,2 D
+// // //  
+
+22 "
+99 GG 
+
+99% (
+
+997 ;
+;; == AA3 7
+>> >> >>  
+
+AA "
+
+EE 
+EE* -GG 
+EE< @GG 
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_21.cs
+
+ @
+   %% .. 
+
+"" 
+"") ,&& 
+""; ?&& #
+$$ && ((/ 3
+++ && 
+
+(( 
+++' *33& )
+
+++9 =2
+-- 00 66 BB DD 
+33 #66% 1
+88' 9::6 H
+HH !UU ^^ 
+II !pp yy 
+
+KK 
+KK* -MM NN 
+KK< @MM NN 
+RR MM 
+mm NN 
+RR& )VV "
+RR8 <VV$ (
+TT VV XX/ 3
+[[ VV 
+
+XX 
+
+[[, /
+
+[[> B(
+]] bb gg ii 
+mm& )qq "
+mm8 <qq$ (
+oo qq ss/ 3
+vv qq 
+
+ss 
+
+vv, /
+
+vv> B,
+xx || 
+‚‚ 
+„„ ˜
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_22a.cs
+
+ A
  &$$ 
 
-!! 
+!! 
+!!) ,%%U X
+!!; ?%%Z ^
 ## %% ''/ 3
 
 '' 
 ,, +99 
 -- +CC 
 
-// 
+// 
+//* -11 22 
+//< @11 22 
 66 11 
-@@ 22 
+@@ 22 
+66& )::Z ]
+668 <::_ c
 88 :: <</ 3
 
-<< 
+<< 
+@@& )DDZ ]
+@@8 <DD_ c
 BB DD FF/ 3
 
-FF œ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_22b.cs
+FF ô
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_22b.cs
 
- ;
+ A
 
- 2
-   ## 99( ,NN PP 
-))) 3++ "--I S(
---* 1// #00 #116 =
-111 3446 8
-44' 355$ 0999 E
-;;; M==J \
-DD$ -FF6 ?
+ 
+, /%%& )
 
-VV $(
-XX ]] bb dd 
+> B2
+ "" (( 44 66 
+%% #((% 1
+**' 9,,6 H
 
-hh $(
-jj nn tt vv ë
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_31.cs
+<< $
 
- :
+<<1 4
 
-!! 
-## LL OO (
-%% && <<( ,LL 
-,,) 3.. "00I S(
-00* 122 #33 #446 =
-441 3776 8
-77' 388$ 0<<9 E
->>; M@@J \
-GG$ -II6 ?
-OO QQ3 7
+<<C G(
+>> CC HH JJ 
 
-QQ "
+NN $
 
-VV 
-\\ XX 
-^^ cc ff 
-`` bb cc 
-ff hh3 7
+NN1 4
 
-hh "×
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_41.cs
+NNC G(
+PP TT ZZ \\ ×
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_31.cs
 
- :
- NN 
-$ (""/ 3
+ @
 
-"" 
+   
+  ) ,((& )
 
-%% (
-'' (( >>$ (NN 
-..% /00 22E O(
-22& -44 55 662 9
-66- /992 4
-99# /::  ,>>5 A
-@@7 IBBF X
-II  )KK2 ;
+  ; ?
+"" 22 55 (
+$$ %% ++ 22 
+(( #++% 1
+--' 9//6 H
+55 773 7
 
-RR 
-^^ TT 
-WW #cc 
-WW( ,ZZ/ 3
+77 "
 
-ZZ 
-`` bb cc ×
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_42.cs
+<< 
+<<* ->> 
+<<< @>> 
+BB >> 
 
- :
-  NN (
-!! "" 88$ (HH 
-((% /** ,,E O(
-,,& -.. // 002 9
-00- /332 4
-33# /44  ,885 A
-::7 I<<F X
-CC  )EE2 ;
+BB% (
 
-LL 
-NN PP/ 3
+BB7 ;
+DD II LL 
+FF HH II 
+LL NN3 7
 
-PP 
-TT $__  
-VV XX YY 
-]] ff 
-__ aa/ 3
+NN "›
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_41.cs
 
-aa 
+ @
+ 44 
+$ (!!/ 3
 
-dd —
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_45.cs
+7 :
 
- :
-   %% TT 
-!! `` kk 
-## UU 
-%% ''/ 3
+I M
 
-'' 
+!! 
 
-++ (
--- .. DD$ (TT 
-44% /66 88E O(
-88& -:: ;; <<2 9
-<<- /??2 4
-??# /@@  ,DD5 A
-FF7 IHHF X
-OO  )QQ2 ;
+$$ 
+$$) ,**" %44 
+$$; ?44  (
+&& '' -- 44 
+** --! -
+//# 5112 D
 
-YY 
-ff [[ 
-^^ ll 
-`` bb/ 3
+88 
+88* -:: 
+88< @:: 
+DD :: 
+== #II 
+==( ,@@/ 3
 
-bb 
-hh jj kk è
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_51a.cs
+==; >
 
- ;
+==M Q
 
- (
-    66$ (FFF J
-&&% /(( **E O(
-**& -,, -- ..2 9
-..- /112 4
-11# /22  ,665 A
-887 I::F X
-AA  )CC2 ;
+@@ 
+DD, /II 
+DD> BII  $
+FF HH II ›
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_42.cs
+
+ @
+  44 
+- 0$$" %
+
+? C(
+   !! '' .. 
+$$ ''! -
+))# 5++2 D
+
+22 
+22) ,44  
+22; ?44" &
+44 66/ 3
+
+66 
+:: $EE  
+
+::1 4
+
+::C G
+<< >> ?? 
+CC LL 
+CC, /EE! $
+CC> BEE& *
+EE GG/ 3
+
+GG 
 
 JJ 
-PP LL 
-RR TT UUJ N 
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_51b.cs
+JJ* -LL 
+JJ< @LL Û
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_45.cs
 
- ;
+ @
+ $$ :: 
+   FF QQ 
+"" ;; 
+
+""% (
+
+""7 ;
+$$ &&/ 3
+
+&& 
+
+** 
+**) ,00" %;; 
+**; ?;; (
+,, -- 33 :: 
+00 33! -
+55# 5772 D
+
+?? 
+??* -AA 
+??< @AA 
+LL AA 
+DD RR 
+
+DD) ,
+
+DD; ?
+FF HH/ 3
+
+HH 
+LL% (RR 
+LL7 ;RR 
+NN PP QQ ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_51a.cs
+
+ A
+
+ 
+) ,""" %,,S V
+; ?,,X \(
+  %% ,,L P
+"" %%! -
+''# 5))2 D
+
+00 
+00* -22 
+00< @22 
+66 22 
+66% (;;W Z
+667 ;;;\ `
+88 :: ;;P TÖ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_51b.cs
+
+ A
 
  
 # '/ 3
+
+6 9
+
+H L
 
  
 
 %% "
 %%' +((/ 3
 
-(( è
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_52a.cs
+%%: =
 
- ;
+%%L P
 
- (
-   !! 77$ (GGF J
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+(( ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_52a.cs
 
-KK 
-QQ MM 
-SS UU VVJ Nˆ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_52b.cs
+ A
 
- ;
+ 
+) ,##" %--S V
+; ?--X \(
+    && --L P
+## &&! -
+((# 5**2 D
+
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<W Z
+777 ;<<\ `
+99 ;; <<P Tæ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_52b.cs
+
+ A
 
  
-# 'F J
+# 'L P
+6 9S V
+H LX \
 
 ## "
-##' +%%J N 
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_52c.cs
+##' +%%P T
+##: =%%W Z
+##L P%%\ `Ö
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_52c.cs
 
- ;
+ A
 
  
 # '  / 3
+
+6 9
+
+H L
 
    
 
 && "
 &&' +))/ 3
 
-)) è
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_53a.cs
+&&: =
 
- ;
+&&L P
 
- (
-   !! 77$ (GGF J
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+)) ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_53a.cs
 
-KK 
-QQ MM 
-SS UU VVJ Nˆ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_53b.cs
+ A
 
- ;
+ 
+) ,##" %--S V
+; ?--X \(
+    && --L P
+## &&! -
+((# 5**2 D
 
- 
-# 'F J
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<W Z
+777 ;<<\ `
+99 ;; <<P Tæ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_53b.cs
 
-## "
-##' +%%J Nˆ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_53c.cs
-
- ;
+ A
 
  
-# 'F J
+# 'L P
+6 9S V
+H LX \
 
 ## "
-##' +%%J N 
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_53d.cs
+##' +%%P T
+##: =%%W Z
+##L P%%\ `æ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_53c.cs
 
- ;
+ A
+
+ 
+# 'L P
+6 9S V
+H LX \
+
+## "
+##' +%%P T
+##: =%%W Z
+##L P%%\ `Ö
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_53d.cs
+
+ A
 
  
 # '  / 3
+
+6 9
+
+H L
 
    
 
 && "
 &&' +))/ 3
 
-)) è
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_54a.cs
+&&: =
 
- ;
+&&L P
 
- (
-   !! 77$ (GGF J
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+)) ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_54a.cs
 
-KK 
-QQ MM 
-SS UU VVJ Nˆ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_54b.cs
+ A
 
- ;
+ 
+) ,##" %--S V
+; ?--X \(
+    && --L P
+## &&! -
+((# 5**2 D
 
- 
-# 'F J
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<W Z
+777 ;<<\ `
+99 ;; <<P Tæ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_54b.cs
 
-## "
-##' +%%J Nˆ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_54c.cs
-
- ;
+ A
 
  
-# 'F J
+# 'L P
+6 9S V
+H LX \
 
 ## "
-##' +%%J Nˆ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_54d.cs
+##' +%%P T
+##: =%%W Z
+##L P%%\ `æ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_54c.cs
 
- ;
+ A
 
  
-# 'F J
+# 'L P
+6 9S V
+H LX \
 
 ## "
-##' +%%J N 
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_54e.cs
+##' +%%P T
+##: =%%W Z
+##L P%%\ `æ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_54d.cs
 
- ;
+ A
+
+ 
+# 'L P
+6 9S V
+H LX \
+
+## "
+##' +%%P T
+##: =%%W Z
+##L P%%\ `Ö
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_54e.cs
+
+ A
 
  
 # '  / 3
+
+6 9
+
+H L
 
    
 
 && "
 &&' +))/ 3
 
-)) ¶
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_61a.cs
+&&: =
 
- ;
+&&L P
+
+)) À
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_61a.cs
+
+ A
 
  
+) ,Y \
+; ?^ b
  !!/ 3
 
 !! 
 
 %% 
+%%* -'' 
+%%< @'' 
 ++ '' 
+++, /--] `
+++> B--b f
 -- /// 3
 
-// Ò
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_61b.cs
+// ’
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_61b.cs
 
- ;
+ A
 
- (
-   !! 77$ (GG 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+, /##" %
 
-MM #
-OO QQ RR ¨
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_66a.cs
+> B(
+    && -- 
+## &&! -
+((# 5**2 D
 
- ;
+33 #
 
- (
-   !! 77$ (HH 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
-GG HH IIF O
+330 3
 
-MM 
-SS OO 
-UU WW YY 
-XX YY ZZJ SÌ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_66b.cs
+33B F
+55 77 88 ¼
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_66a.cs
 
- ;
+ A
+
+ 
+* -##" %//X [
+< @//] a(
+    && .. 
+## &&! -
+((# 5**2 D
+-- .. //L U
+
+33 
+33* -55 
+33< @55 
+99 55 
+99, /@@\ _
+99> B@@a e
+;; == ?? 
+>> ?? @@P Y‚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_66b.cs
+
+ A
 
  
-% . 
+% . 
+
+= @
+
+O S
  !!/ 3
 
 !! 
 
 '' "
-'') 2)) 
+'') 2)) 
+
+''A D
+
+''S W
 )) ++/ 3
 
-++ ü
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_67a.cs
+++ 
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_67a.cs
 
- ;2
- LL LL& /]] ]]& /
-   MM "^^ "
+ A2
+ 22 22& /CC CC& /
+ 33 "DD "
 
-## (
-%% && <<$ (MM% )
-,,% /.. 00E O(
-00& -22 33 442 9
-44- /772 4
-77# /88  ,<<5 A
->>7 I@@F X
-GG  )II2 ;
-LL MM NNF S
+"" 
+"") ,((" %44\ _
+""; ?44a e(
+$$ %% ++ 33% )
+(( ++! -
+--# 5//2 D
+22 33 44L Y
 
-RR 
-XX TT 
-ZZ \\ ^^% )
-]] ^^ __J WÌ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_67b.cs
+88 
+88* -:: 
+88< @:: 
+>> :: 
+>>, /EE` c
+>>> BEEe i
+@@ BB DD% )
+CC DD EEP ]Š
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_67b.cs
 
- ;
+ A
 
  
-_ l  
+e r  
+
+ „
+
+“ —
  !!/ 3
 
 !! 
 
 '' "
-''c p))  
+''i v))  
+
+''… ˆ
+
+''— ›
 )) ++/ 3
 
-++ È
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_68a.cs
+++ Ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_68a.cs
 
- ;(
- !! 77$ (TT 
+ A(
+    && :: 
 
- 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+) ,##" %--L O
+; ?--Q U
+## &&! -
+((# 5**2 D
 
-KK 
-QQ MM  
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_68b.cs
+11 
+11* -33 
+11< @33 
+77 33 
+77, /;;P S
+77> B;;U YÖ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_68b.cs
 
- ;
+ A
 
- 
+ 
+
++ .
+
+= A
    / 3
 
    
 
-&& "
+&& "
+
+&&/ 2
+
+&&A E
 (( **/ 3
 
-** è
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_71a.cs
+** ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_71a.cs
 
- ;
+ A
 
- (
-   !! 77$ (GGN R
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+) ,##" %--[ ^
+; ?--` d(
+    && --T X
+## &&! -
+((# 5**2 D
 
-KK 
-QQ MM 
-SS UU VVR VÌ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_71b.cs
+11 
+11* -33 
+11< @33 
+77 33 
+77, /<<_ b
+77> B<<d h
+99 ;; <<X \‚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_71b.cs
 
- ;
+ A
 
  
-& 0   "
+& 0   "
+
+? B
+
+Q U
    ""/ 3
 
 "" 
 
 (( "
-((* 4** "
+((* 4** "
+
+((C F
+
+((U Y
 ** ,,/ 3
 
-,, ø
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_72a.cs
+,, Œ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_72a.cs
 
- ;
+ A
 
- <
-   !! 77$ (HH !II !JJ !
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;2
-GG HH II JJ KKF S
+ 
+) ,##" %11\ _
+; ?11a e<
+    && .. !// !00 !
+## &&! -
+((# 5**2 D2
+-- .. // 00 11L Y
 
-OO 
-UU QQ 2
-WW YY [[ !\\ !]] !2
-ZZ [[ \\ ]] ^^J WÌ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_72b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /DD` c
+;;> BDDe i2
+== ?? AA !BB !CC !2
+@@ AA BB CC DDP ]‚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_72b.cs
 
- ;
+ A
 
  
-) 6 &
+) 6 &
+
+E H
+
+W [
  !!/ 3
 
 !! 
 
 '' "
-''- :)) &
+''- :)) &
+
+''I L
+
+''[ _
 )) ++/ 3
 
-++ ø
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_73a.cs
+++ Œ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_73a.cs
 
- ;
+ A
 
- <
-!! "" 88$ (II #JJ #KK #
-((% /** ,,E O(
-,,& -.. // 002 9
-00- /332 4
-33# /44  ,885 A
-::7 I<<F X
-CC  )EE2 ;2
-HH &II JJ KK LLF T
+ 
+) ,$$" %22] `
+; ?22b f<
+   !! '' // #00 #11 #
+$$ ''! -
+))# 5++2 D2
+.. &// 00 11 22L Z
 
-PP 
-VV RR 2
-XX ZZ \\ #]] #^^ #2
-[[ &\\ ]] ^^ __J XÌ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_73b.cs
+66 
+66* -88 
+66< @88 
+<< 88 
+<<, /EEa d
+<<> BEEf j2
+>> @@ BB #CC #DD #2
+AA &BB CC DD EEP ^‚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_73b.cs
 
- ;
+ A
 
  
-/ =   !
+/ =   !
+
+L O
+
+^ b
    ""/ 3
 
 "" 
 
 (( "
-((3 A** !
+((3 A** !
+
+((P S
+
+((b f
 ** ,,/ 3
 
-,, ø
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_74a.cs
+,, Œ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_74a.cs
 
- ;
+ A
 
- <
-   !! 77$ (HH "II "JJ "
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;2
-GG *HH II JJ KKF T
+ 
+) ,##" %11] `
+; ?11b f<
+    && .. "// "00 "
+## &&! -
+((# 5**2 D2
+-- *.. // 00 11L Z
 
-OO 
-UU QQ 2
-WW YY [[ "\\ "]] "2
-ZZ *[[ \\ ]] ^^J XÌ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_74b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /DDa d
+;;> BDDf j2
+== ?? AA "BB "CC "2
+@@ *AA BB CC DDP ^‚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_74b.cs
 
- ;
+ A
 
  
-3 A   !
+3 A   !
+
+P S
+
+b f
    ""/ 3
 
 "" 
 
 (( "
-((7 E** !
+((7 E** !
+
+((T W
+
+((f j
 ** ,,/ 3
 
-,, À
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_75a.cs
+,, Ô
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_75a.cs
 
- ;
+ A
 
-   (
-"" ## 99$ (PP! %
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
-JJ QQ SSJ X
-MM PP 
-NN PP QQ! #
-UU& 5WWZ i
+ 
+) ,%%" %99a d
+; ?99f j(
+!! "" (( 66! %
+%% ((! -
+**# 5,,2 D
+00 77 99P ^
+33 66 
+44 66 77! #
+;;& 5==Z i
 
-\\ 
-bb ^^ 
-dd ff nn! %
-hh oo qqN \
-kk nn 
-ll nn oo! #
-ss& 5uuZ i 
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_75b.cs
+BB 
+BB* -DD 
+BB< @DD 
+HH DD 
+HH, /WWe h
+HH> BWWj n
+JJ LL TT! %
+NN UU WWT b
+QQ TT 
+RR TT UU! #
+YY& 5[[Z iÖ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_75b.cs
 
- ;
+ A
 
    
-  & 4((  .((3 A
+  & 4((  .((3 A
+
+  C F
+
+  U Y
 $$ ** --3 7
 %% ** #(
 &&  (( )) **0 9
@@ -4283,1120 +9601,1451 @@
 //& 511[ j
 
 88 "
-88* 8@@  .@@3 A
+88* 8@@  .@@3 A
+
+88G J
+
+88Y ]
 << BB EE3 7
 == BB #(
 >>  @@ AA BB0 9
 
 EE "
-GG& 5II[ j”
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_81a.cs
+GG& 5II[ j¨
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_81a.cs
 
- ;
+ A
 
- (
-   !! 77$ (HH 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
-GGB LHH 
+ 
+) ,##" %..! $
+; ?..& *(
+    && .. 
+## &&! -
+((# 5**2 D
+--H R.. 
 
-LL 
-RR NN 
-TT VV XX 
-WWB LXX õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_81_bad.cs
+22 
+22* -44 
+22< @44 
+88 44 
+88% (>>! $
+887 ;>>& *
+:: << >> 
+==H R>> “
+¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_81_bad.cs
 
- >
+ D
 
  
 $ (!!/ 3
 
-!! à
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_81_base.cs
+7 :
 
- H
+I M
+
+!! þ
+¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_81_base.cs
+
+ N
 
  
 
-$ (ù
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_ArrayList_81_goodG2B.cs
+$ (
 
- B
+7 :
+
+I M—
+ÂC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_ArrayList_81_goodG2B.cs
+
+ H
 
  
 $ (!!/ 3
 
-!! €
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_01.cs
+7 :
 
- ;
+I M
 
-   (
-"" ## 99$ (JJ= A
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
+!! ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_01.cs
 
-JJ !
+ A
 
-NN 
-TT PP 
-VV XX ZZ= A
+ 
+) ,%%" %
 
-ZZ !â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_02.cs
+; ?(
+!! "" (( 00= A
+%% ((! -
+**# 5,,2 D
 
- ;
+00 !
 
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+44 
+44* -66 
+44< @66 
+:: 66 
 
-SS !
-XX  (
-ZZ __ dd gg= A
+::% (
 
-gg !
-kk 
-€€ (
-mm qq ww zz= A
+::7 ;
+<< >> @@= A
 
-zz !
+@@ !ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_02.cs
 
-}} â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_03.cs
+ A
 
- ;
+ 
+) ,''& )
 
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
 
-SS !
-XX  (
-ZZ __ dd gg= A
+99 !
+>> ee 
 
-gg !
-kk 
-€€ (
-mm qq ww zz= A
+>>& )
 
-zz !
+>>8 <(
+@@ EE JJ MM= A
 
-}}  
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_04.cs
+MM !
+QQ ff 
 
- ;
-## )** uu 
-$$ *bb 
+QQ& )
 
-'' 2
-)) ,, BB( ,WW ZZ= A
-22) 344 "66I S(
-66* 188 #99 #::6 =
-::1 3==6 8
-==' 3>>$ 0BB9 E
-DD; MFFJ \
-MM$ -OO6 ?
+QQ8 <(
+SS WW ]] ``= A
 
-ZZ !
-__ 
-†† (
-aa ff kk nn= A
+`` !
 
-nn !
-rr 
-‡‡ *
-tt xx ~~ 
-= A
+cc 
+cc* -ee ff 
+cc< @ee ff ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_03.cs
 
- !
+ A
 
-„„  
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_05.cs
+ 
+) ,''& )
 
- ;
-## ** uu 
-$$ bb 
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
 
-'' 2
-)) ,, BB( ,WW ZZ= A
-22) 344 "66I S(
-66* 188 #99 #::6 =
-::1 3==6 8
-==' 3>>$ 0BB9 E
-DD; MFFJ \
-MM$ -OO6 ?
+99 !
+>> ee 
 
-ZZ !
-__ 
-†† (
-aa ff kk nn= A
+>>& )
 
-nn !
-rr 
-‡‡ *
-tt xx ~~ 
-= A
+>>8 <(
+@@ EE JJ MM= A
 
- !
+MM !
+QQ ff 
 
-„„ ”
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_06.cs
+QQ& )
 
- ;(
-## ()) aa tt 
+QQ8 <(
+SS WW ]] ``= A
 
-&& 2
-(( ++ AA( ,VV YY= A
-11) 333 "55I S(
-55* 177 #88 #996 =
-991 3<<6 8
-<<' 3==$ 0AA9 E
-CC; MEEJ \
-LL$ -NN6 ?
+`` !
 
-YY !
-^^ 
-…… (
-`` ee jj mm= A
+cc 
+cc* -ee ff 
+cc< @ee ff ®
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_04.cs
 
-mm !
-qq 
-†† *
-ss ww }} 
-€€= A
+ A
+"" ))) [[ 
+## *HH 
 
-€€ !
+&& 
+&&) ,..& )
 
-ƒƒ ”
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_07.cs
+&&; ?2
+(( ++ 11 == @@= A
+.. #11% 1
+33' 9556 H
 
- ;(
-## )) aa tt 
+@@ !
+EE ll 
 
-&& 2
-(( ++ AA( ,VV YY= A
-11) 333 "55I S(
-55* 177 #88 #996 =
-991 3<<6 8
-<<' 3==$ 0AA9 E
-CC; MEEJ \
-LL$ -NN6 ?
+EE& )
 
-YY !
-^^ 
-…… (
-`` ee jj mm= A
+EE8 <(
+GG LL QQ TT= A
 
-mm !
-qq 
-†† *
-ss ww }} 
-€€= A
+TT !
+XX mm 
 
-€€ !
+XX& )
 
-ƒƒ ¢
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_08.cs
+XX8 <(
+ZZ ^^ dd gg= A
 
- ;
-## *11 || 
-(( +ii 
+gg !
 
-.. 2
-00 33 II( ,^^ aa= A
-99) 3;; "==I S(
-==* 1?? #@@ #AA6 =
-AA1 3DD6 8
-DD' 3EE$ 0II9 E
-KK; MMMJ \
-TT$ -VV6 ?
+jj 
+jj* -ll mm 
+jj< @ll mm ®
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_05.cs
 
-aa !
-ff 
- (
-hh mm rr uu= A
+ A
+"" )) [[ 
+## HH 
 
-uu !
-yy 
-ŽŽ ,
-{{  
-…… 
-ˆˆ= A
+&& 
+&&) ,..& )
 
-ˆˆ !
+&&; ?2
+(( ++ 11 == @@= A
+.. #11% 1
+33' 9556 H
 
-‹‹ â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_09.cs
+@@ !
+EE ll 
 
- ;
+EE& )
 
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+EE8 <(
+GG LL QQ TT= A
+
+TT !
+XX mm 
+
+XX& )
+
+XX8 <(
+ZZ ^^ dd gg= A
+
+gg !
+
+jj 
+jj* -ll mm 
+jj< @ll mm ¢
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_06.cs
+
+ A(
+"" ((( GG ZZ 
+
+%% 
+%%) ,--& )
+
+%%; ?2
+'' ** 00 << ??= A
+-- #00% 1
+22' 9446 H
+
+?? !
+DD kk 
+
+DD& )
+
+DD8 <(
+FF KK PP SS= A
 
 SS !
-XX  (
-ZZ __ dd gg= A
+WW ll 
 
-gg !
-kk 
-€€ (
-mm qq ww zz= A
+WW& )
 
-zz !
-
-}} â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_10.cs
-
- ;
-
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-SS !
-XX  (
-ZZ __ dd gg= A
-
-gg !
-kk 
-€€ (
-mm qq ww zz= A
-
-zz !
-
-}} â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_11.cs
-
- ;
-
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-SS !
-XX  (
-ZZ __ dd gg= A
-
-gg !
-kk 
-€€ (
-mm qq ww zz= A
-
-zz !
-
-}} ”
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_12.cs
-
- ;
-
-   2
-"" %% ;;( ,OO RR= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-RR !
-XX kk (
-ZZ ^^ cc ff= A
+WW8 <(
+YY ]] cc ff= A
 
 ff !
 
-ii â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_13.cs
+ii 
+ii* -kk ll 
+ii< @kk ll ¢
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_07.cs
 
- ;
+ A(
+"" (( GG ZZ 
 
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+%% 
+%%) ,--& )
 
-SS !
-XX  (
-ZZ __ dd gg= A
+%%; ?2
+'' ** 00 << ??= A
+-- #00% 1
+22' 9446 H
 
-gg !
-kk 
-€€ (
-mm qq ww zz= A
+?? !
+DD kk 
 
-zz !
+DD& )
 
-}} â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_14.cs
-
- ;
-
-   2
-"" %% ;;( ,PP SS= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+DD8 <(
+FF KK PP SS= A
 
 SS !
-XX  (
-ZZ __ dd gg= A
+WW ll 
 
-gg !
-kk 
-€€ (
-mm qq ww zz= A
+WW& )
 
-zz !
+WW8 <(
+YY ]] cc ff= A
 
-}} æ
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_15.cs
+ff !
 
- ;
+ii 
+ii* -kk ll 
+ii< @kk ll ®
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_08.cs
 
-   2
-"" && <<( ,PP TT= A
-,,) 3.. "00I S(
-00* 122 #33 #446 =
-441 3776 8
-77' 388$ 0<<9 E
->>; M@@J \
-GG$ -II6 ?
+ A
+"" *00 bb 
+'' +OO 
 
-TT !
-YY 
-‚‚ (
-[[ aa ee ii= A
+-- 
+--) ,55& )
 
-ii !
-mm 
-ƒƒ (
-oo tt yy }}= A
+--; ?2
+// 22 88 DD GG= A
+55 #88% 1
+::' 9<<6 H
 
-}} !
+GG !
+LL ss 
 
-€€ €
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_16.cs
+LL& )
 
- ;
+LL8 <(
+NN SS XX [[= A
 
-   (
-"" %% ;;( ,NN= A
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+[[ !
+__ tt 
 
-NN !
-SS bb 
-UU YY ]]= A
+__& )
 
-]] !
+__8 <(
+aa ee kk nn= A
 
-`` À
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_17.cs
+nn !
 
- ;
+qq 
+qq* -ss tt 
+qq< @ss tt ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_09.cs
 
-   (
-"" ## 99$ (LLA E
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
-II II II  
+ A
 
-LL! %
-SS aa 
-UU WW [[A E
-XX XX XX  
+ 
+) ,''& )
 
-[[! %
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
 
-__ €
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_21.cs
+99 !
+>> ee 
 
- ;
-!! && // 
+>>& )
 
-## 
-%% '' ))= A
-,, '' 
+>>8 <(
+@@ EE JJ MM= A
 
-)) !2
-.. 11 GG( ,\\ ^^ 
-77) 399 ";;I S(
-;;* 1== #>> #??6 =
-??1 3BB6 8
-BB' 3CC$ 0GG9 E
-II; MKKJ \
-RR$ -TT6 ?
-bb !oo xx "
-cc !
-ŠŠ 
-““ 
+MM !
+QQ ff 
 
-ee 
-ll gg 
+QQ& )
 
-‡‡ hh 
-nn pp rr= A
-uu pp 
+QQ8 <(
+SS WW ]] ``= A
 
-rr !,
-ww || 
- 
-ƒƒ $
+`` !
 
-‰‰ 
-‹‹ 
-= A
+cc 
+cc* -ee ff 
+cc< @ee ff ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_10.cs
 
- 
-‹‹ 
+ A
 
- !0
+ 
+) ,''& )
 
-’’ 
-–– 
-œœ 
-žž Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_22a.cs
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
 
- <
+99 !
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM= A
+
+MM !
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``= A
+
+`` !
+
+cc 
+cc* -ee ff 
+cc< @ee ff ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_11.cs
+
+ A
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
+
+99 !
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM= A
+
+MM !
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``= A
+
+`` !
+
+cc 
+cc* -ee ff 
+cc< @ee ff €
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_12.cs
+
+ A
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 55 88= A
+'' #**% 1
+,,' 9..6 H
+
+88 !
+>> QQ 
+
+>>% (
+
+>>7 ;(
+@@ DD II LL= A
+
+LL !
+
+OO 
+OO* -QQ 
+OO< @QQ ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_13.cs
+
+ A
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
+
+99 !
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM= A
+
+MM !
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``= A
+
+`` !
+
+cc 
+cc* -ee ff 
+cc< @ee ff ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_14.cs
+
+ A
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 99= A
+'' #**% 1
+,,' 9..6 H
+
+99 !
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM= A
+
+MM !
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``= A
+
+`` !
+
+cc 
+cc* -ee ff 
+cc< @ee ff ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_15.cs
+
+ A
+
+ 
+) ,((& )
+
+; ?2
+!! %% ++ 66 ::= A
+(( #++% 1
+--' 9//6 H
+
+:: !
+?? hh 
+
+??& )
+
+??8 <(
+AA GG KK OO= A
+
+OO !
+SS ii 
+
+SS& )
+
+SS8 <(
+UU ZZ __ cc= A
+
+cc !
+
+ff 
+ff* -hh ii 
+ff< @hh ii ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_16.cs
+
+ A
+
+ 
+) ,''& )
+
+; ?(
+!! $$ ** 44= A
+'' #**% 1
+,,' 9..6 H
+
+44 !
+99 HH 
+
+99% (
+
+997 ;
+;; ?? CC= A
+
+CC !
+
+FF 
+FF* -HH 
+FF< @HH ¬
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_17.cs
+
+ A
+
+ 
+) ,%%" %
+
+; ?(
+!! "" (( 22A E
+%% ((! -
+**# 5,,2 D
+// // //  
+
+22! %
+99 GG 
+
+99% (
+
+997 ;
+;; == AAA E
+>> >> >>  
+
+AA! %
+
+EE 
+EE* -GG 
+EE< @GG ‚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_21.cs
+
+ A
+   %% .. 
+
+"" 
+"") ,&& 
+""; ?&& #
+$$ && ((= A
+++ && 
+
+(( !
+++' *33& )
+
+++9 =2
+-- 00 66 BB DD 
+33 #66% 1
+88' 9::6 H
+HH !UU ^^ 
+II !pp yy 
+
+KK 
+KK* -MM NN 
+KK< @MM NN 
+RR MM 
+mm NN 
+RR& )VV "
+RR8 <VV$ (
+TT VV XX= A
+[[ VV 
+
+XX !
+
+[[, /
+
+[[> B(
+]] bb gg ii 
+mm& )qq "
+mm8 <qq$ (
+oo qq ss= A
+vv qq 
+
+ss !
+
+vv, /
+
+vv> B,
+xx || 
+‚‚ 
+„„ ™
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_22a.cs
+
+ B
  &$$ 
 
-!! 
+!! 
+!!) ,%%V Y
+!!; ?%%[ _
 ## %% ''= A
 
 '' !
 ,, +99 
 -- +CC 
 
-// 
+// 
+//* -11 22 
+//< @11 22 
 66 11 
-@@ 22 
+@@ 22 
+66& )::[ ^
+668 <::` d
 88 :: <<= A
 
-<< !
+<< !
+@@& )DD[ ^
+@@8 <DD` d
 BB DD FF= A
 
-FF !
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_22b.cs
+FF !õ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_22b.cs
 
- <
+ B
 
- 2
-   ## 99( ,NN PP 
-))) 3++ "--I S(
---* 1// #00 #116 =
-111 3446 8
-44' 355$ 0999 E
-;;; M==J \
-DD$ -FF6 ?
+ 
+, /%%& )
 
-VV $(
-XX ]] bb dd 
+> B2
+ "" (( 44 66 
+%% #((% 1
+**' 9,,6 H
 
-hh $(
-jj nn tt vv ì
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_31.cs
+<< $
 
- ;
+<<1 4
 
-!! 
-## LL OO (
-%% && <<( ,LL 
-,,) 3.. "00I S(
-00* 122 #33 #446 =
-441 3776 8
-77' 388$ 0<<9 E
->>; M@@J \
-GG$ -II6 ?
-OO QQA E
+<<C G(
+>> CC HH JJ 
 
-QQ! %
+NN $
 
-VV 
-\\ XX 
-^^ cc ff 
-`` bb cc 
-ff hhA E
+NN1 4
 
-hh! %Ø
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_41.cs
+NNC G(
+PP TT ZZ \\ Ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_31.cs
 
- ;
- NN 
-$ (""= A
+ A
 
-"" !
+   
+  ) ,((& )
 
-%% (
-'' (( >>$ (NN 
-..% /00 22E O(
-22& -44 55 662 9
-66- /992 4
-99# /::  ,>>5 A
-@@7 IBBF X
-II  )KK2 ;
+  ; ?
+"" 22 55 (
+$$ %% ++ 22 
+(( #++% 1
+--' 9//6 H
+55 77A E
 
-RR 
-^^ TT 
-WW #cc 
-WW( ,ZZ= A
+77! %
 
-ZZ !
-`` bb cc Ø
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_42.cs
+<< 
+<<* ->> 
+<<< @>> 
+BB >> 
 
- ;
-  NN (
-!! "" 88$ (HH 
-((% /** ,,E O(
-,,& -.. // 002 9
-00- /332 4
-33# /44  ,885 A
-::7 I<<F X
-CC  )EE2 ;
+BB% (
 
-LL 
-NN PP= A
+BB7 ;
+DD II LL 
+FF HH II 
+LL NNA E
 
-PP !
-TT $__  
-VV XX YY 
-]] ff 
-__ aa= A
+NN! %œ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_41.cs
 
-aa !
+ A
+ 44 
+$ (!!= A
 
-dd ˜
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_45.cs
+7 :
 
- ;
-   %% TT 
-!! `` kk 
-## UU 
-%% ''= A
+I M
 
-'' !
+!! !
 
-++ (
--- .. DD$ (TT 
-44% /66 88E O(
-88& -:: ;; <<2 9
-<<- /??2 4
-??# /@@  ,DD5 A
-FF7 IHHF X
-OO  )QQ2 ;
+$$ 
+$$) ,**" %44 
+$$; ?44  (
+&& '' -- 44 
+** --! -
+//# 5112 D
 
-YY 
-ff [[ 
-^^ ll 
-`` bb= A
+88 
+88* -:: 
+88< @:: 
+DD :: 
+== #II 
+==( ,@@= A
 
-bb !
-hh jj kk é
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_51a.cs
+==; >
 
- <
+==M Q
 
- (
-    66$ (FFG K
-&&% /(( **E O(
-**& -,, -- ..2 9
-..- /112 4
-11# /22  ,665 A
-887 I::F X
-AA  )CC2 ;
+@@ !
+DD, /II 
+DD> BII  $
+FF HH II œ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_42.cs
+
+ A
+  44 
+- 0$$" %
+
+? C(
+   !! '' .. 
+$$ ''! -
+))# 5++2 D
+
+22 
+22) ,44  
+22; ?44" &
+44 66= A
+
+66 !
+:: $EE  
+
+::1 4
+
+::C G
+<< >> ?? 
+CC LL 
+CC, /EE! $
+CC> BEE& *
+EE GG= A
+
+GG !
 
 JJ 
-PP LL 
-RR TT UUK O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_51b.cs
+JJ* -LL 
+JJ< @LL Ü
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_45.cs
 
- <
+ A
+ $$ :: 
+   FF QQ 
+"" ;; 
+
+""% (
+
+""7 ;
+$$ &&= A
+
+&& !
+
+** 
+**) ,00" %;; 
+**; ?;; (
+,, -- 33 :: 
+00 33! -
+55# 5772 D
+
+?? 
+??* -AA 
+??< @AA 
+LL AA 
+DD RR 
+
+DD) ,
+
+DD; ?
+FF HH= A
+
+HH !
+LL% (RR 
+LL7 ;RR 
+NN PP QQ ý
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_51a.cs
+
+ B
+
+ 
+) ,""" %,,T W
+; ?,,Y ](
+  %% ,,M Q
+"" %%! -
+''# 5))2 D
+
+00 
+00* -22 
+00< @22 
+66 22 
+66% (;;X [
+667 ;;;] a
+88 :: ;;Q U×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_51b.cs
+
+ B
 
  
 # '= A
+
+6 9
+
+H L
 
  !
 
 %% "
 %%' +((= A
 
-(( !é
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_52a.cs
+%%: =
 
- <
+%%L P
 
- (
-   !! 77$ (GGG K
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+(( !ý
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_52a.cs
 
-KK 
-QQ MM 
-SS UU VVK O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_52b.cs
+ B
 
- <
+ 
+) ,##" %--T W
+; ?--Y ](
+    && --M Q
+## &&! -
+((# 5**2 D
+
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<X [
+777 ;<<] a
+99 ;; <<Q Uç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_52b.cs
+
+ B
 
  
-# 'G K
+# 'M Q
+6 9T W
+H LY ]
 
 ## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_52c.cs
+##' +%%Q U
+##: =%%X [
+##L P%%] a×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_52c.cs
 
- <
+ B
 
  
 # '  = A
+
+6 9
+
+H L
 
    !
 
 && "
 &&' +))= A
 
-)) !é
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_53a.cs
+&&: =
 
- <
+&&L P
 
- (
-   !! 77$ (GGG K
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+)) !ý
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_53a.cs
 
-KK 
-QQ MM 
-SS UU VVK O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_53b.cs
+ B
 
- <
+ 
+) ,##" %--T W
+; ?--Y ](
+    && --M Q
+## &&! -
+((# 5**2 D
 
- 
-# 'G K
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<X [
+777 ;<<] a
+99 ;; <<Q Uç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_53b.cs
 
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_53c.cs
-
- <
+ B
 
  
-# 'G K
+# 'M Q
+6 9T W
+H LY ]
 
 ## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_53d.cs
+##' +%%Q U
+##: =%%X [
+##L P%%] aç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_53c.cs
 
- <
+ B
+
+ 
+# 'M Q
+6 9T W
+H LY ]
+
+## "
+##' +%%Q U
+##: =%%X [
+##L P%%] a×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_53d.cs
+
+ B
 
  
 # '  = A
+
+6 9
+
+H L
 
    !
 
 && "
 &&' +))= A
 
-)) !é
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_54a.cs
+&&: =
 
- <
+&&L P
 
- (
-   !! 77$ (GGG K
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+)) !ý
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_54a.cs
 
-KK 
-QQ MM 
-SS UU VVK O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_54b.cs
+ B
 
- <
+ 
+) ,##" %--T W
+; ?--Y ](
+    && --M Q
+## &&! -
+((# 5**2 D
 
- 
-# 'G K
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<X [
+777 ;<<] a
+99 ;; <<Q Uç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_54b.cs
 
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_54c.cs
-
- <
+ B
 
  
-# 'G K
+# 'M Q
+6 9T W
+H LY ]
 
 ## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_54d.cs
+##' +%%Q U
+##: =%%X [
+##L P%%] aç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_54c.cs
 
- <
+ B
 
  
-# 'G K
+# 'M Q
+6 9T W
+H LY ]
 
 ## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_54e.cs
+##' +%%Q U
+##: =%%X [
+##L P%%] aç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_54d.cs
 
- <
+ B
+
+ 
+# 'M Q
+6 9T W
+H LY ]
+
+## "
+##' +%%Q U
+##: =%%X [
+##L P%%] a×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_54e.cs
+
+ B
 
  
 # '  = A
+
+6 9
+
+H L
 
    !
 
 && "
 &&' +))= A
 
-)) !·
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_61a.cs
+&&: =
 
- <
+&&L P
+
+)) !Á
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_61a.cs
+
+ B
 
  
+) ,Z ]
+; ?_ c
  !!= A
 
 !! !
 
 %% 
+%%* -'' 
+%%< @'' 
 ++ '' 
+++, /--^ a
+++> B--c g
 -- //= A
 
-// !Ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_61b.cs
+// !“
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_61b.cs
 
- <
+ B
 
- (
-   !! 77$ (GG 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+, /##" %
 
-MM #
-OO QQ RR ©
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_66a.cs
+> B(
+    && -- 
+## &&! -
+((# 5**2 D
 
- <
+33 #
 
- (
-   !! 77$ (HH 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
-GG HH IIG P
+330 3
 
-MM 
-SS OO 
-UU WW YY 
-XX YY ZZK TÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_66b.cs
+33B F
+55 77 88 ½
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_66a.cs
 
- <
+ B
+
+ 
+* -##" %//Y \
+< @//^ b(
+    && .. 
+## &&! -
+((# 5**2 D
+-- .. //M V
+
+33 
+33* -55 
+33< @55 
+99 55 
+99, /@@] `
+99> B@@b f
+;; == ?? 
+>> ?? @@Q Zƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_66b.cs
+
+ B
 
  
-% . 
+% . 
+
+= @
+
+O S
  !!= A
 
 !! !
 
 '' "
-'') 2)) 
+'') 2)) 
+
+''A D
+
+''S W
 )) ++= A
 
-++ !ý
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_67a.cs
+++ !‘
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_67a.cs
 
- <2
- LL LL& /]] ]]& /
-   MM "^^ "
+ B2
+ 22 22& /CC CC& /
+ 33 "DD "
 
-## (
-%% && <<$ (MM% )
-,,% /.. 00E O(
-00& -22 33 442 9
-44- /772 4
-77# /88  ,<<5 A
->>7 I@@F X
-GG  )II2 ;
-LL MM NNG T
+"" 
+"") ,((" %44] `
+""; ?44b f(
+$$ %% ++ 33% )
+(( ++! -
+--# 5//2 D
+22 33 44M Z
 
-RR 
-XX TT 
-ZZ \\ ^^% )
-]] ^^ __K XÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_67b.cs
+88 
+88* -:: 
+88< @:: 
+>> :: 
+>>, /EEa d
+>>> BEEf j
+@@ BB DD% )
+CC DD EEQ ^‹
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_67b.cs
 
- <
+ B
 
  
-` m  
+f s  
+
+‚ …
+
+” ˜
  !!= A
 
 !! !
 
 '' "
-''d q))  
+''j w))  
+
+''† ‰
+
+''˜ œ
 )) ++= A
 
-++ !É
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_68a.cs
+++ !Ý
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_68a.cs
 
- <(
- !! 77$ (TT 
+ B(
+    && :: 
 
- 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+) ,##" %--M P
+; ?--R V
+## &&! -
+((# 5**2 D
 
-KK 
-QQ MM ¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_68b.cs
+11 
+11* -33 
+11< @33 
+77 33 
+77, /;;Q T
+77> B;;V Z×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_68b.cs
 
- <
+ B
 
- 
+ 
+
++ .
+
+= A
    = A
 
    !
 
-&& "
+&& "
+
+&&/ 2
+
+&&A E
 (( **= A
 
-** !é
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_71a.cs
+** !ý
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_71a.cs
 
- <
+ B
 
- (
-   !! 77$ (GGO S
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+) ,##" %--\ _
+; ?--a e(
+    && --U Y
+## &&! -
+((# 5**2 D
 
-KK 
-QQ MM 
-SS UU VVS WÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_71b.cs
+11 
+11* -33 
+11< @33 
+77 33 
+77, /<<` c
+77> B<<e i
+99 ;; <<Y ]ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_71b.cs
 
- <
+ B
 
  
-& 0   "
+& 0   "
+
+? B
+
+Q U
    ""= A
 
 "" !
 
 (( "
-((* 4** "
+((* 4** "
+
+((C F
+
+((U Y
 ** ,,= A
 
-,, !ù
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_72a.cs
+,, !
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_72a.cs
 
- <
+ B
 
- <
-   !! 77$ (HH !II !JJ !
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;2
-GG HH II JJ KKG T
+ 
+) ,##" %11] `
+; ?11b f<
+    && .. !// !00 !
+## &&! -
+((# 5**2 D2
+-- .. // 00 11M Z
 
-OO 
-UU QQ 2
-WW YY [[ !\\ !]] !2
-ZZ [[ \\ ]] ^^K XÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_72b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /DDa d
+;;> BDDf j2
+== ?? AA !BB !CC !2
+@@ AA BB CC DDQ ^ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_72b.cs
 
- <
+ B
 
  
-) 6   &
+) 6   &
+
+E H
+
+W [
    ""= A
 
 "" !
 
 (( "
-((- :** &
+((- :** &
+
+((I L
+
+(([ _
 ** ,,= A
 
-,, !ù
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_73a.cs
+,, !
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_73a.cs
 
- <
+ B
 
- <
-!! "" 88$ (II #JJ #KK #
-((% /** ,,E O(
-,,& -.. // 002 9
-00- /332 4
-33# /44  ,885 A
-::7 I<<F X
-CC  )EE2 ;2
-HH &II JJ KK LLG U
+ 
+) ,$$" %22^ a
+; ?22c g<
+   !! '' // #00 #11 #
+$$ ''! -
+))# 5++2 D2
+.. &// 00 11 22M [
 
-PP 
-VV RR 2
-XX ZZ \\ #]] #^^ #2
-[[ &\\ ]] ^^ __K YÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_73b.cs
+66 
+66* -88 
+66< @88 
+<< 88 
+<<, /EEb e
+<<> BEEg k2
+>> @@ BB #CC #DD #2
+AA &BB CC DD EEQ _ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_73b.cs
 
- <
+ B
 
  
-/ = !
+/ = !
+
+L O
+
+^ b
  !!= A
 
 !! !
 
 '' "
-''3 A)) !
+''3 A)) !
+
+''P S
+
+''b f
 )) ++= A
 
-++ !ù
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_74a.cs
+++ !
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_74a.cs
 
- <
+ B
 
- <
-   !! 77$ (HH "II "JJ "
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;2
-GG *HH II JJ KKG U
+ 
+) ,##" %11^ a
+; ?11c g<
+    && .. "// "00 "
+## &&! -
+((# 5**2 D2
+-- *.. // 00 11M [
 
-OO 
-UU QQ 2
-WW YY [[ "\\ "]] "2
-ZZ *[[ \\ ]] ^^K YÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_74b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /DDb e
+;;> BDDg k2
+== ?? AA "BB "CC "2
+@@ *AA BB CC DDQ _ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_74b.cs
 
- <
+ B
 
  
-3 A !
+3 A !
+
+P S
+
+b f
  !!= A
 
 !! !
 
 '' "
-''7 E)) !
+''7 E)) !
+
+''T W
+
+''f j
 )) ++= A
 
-++ !Á
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_75a.cs
+++ !Õ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_75a.cs
 
- <
+ B
 
-   (
-"" ## 99$ (PP! %
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
-JJ QQ SSK Y
-MM PP 
-NN PP QQ! #
-UU& 5WWZ i
+ 
+) ,%%" %99b e
+; ?99g k(
+!! "" (( 66! %
+%% ((! -
+**# 5,,2 D
+00 77 99Q _
+33 66 
+44 66 77! #
+;;& 5==Z i
 
-\\ 
-bb ^^ 
-dd ff nn! %
-hh oo qqO ]
-kk nn 
-ll nn oo! #
-ss& 5uuZ i¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_75b.cs
+BB 
+BB* -DD 
+BB< @DD 
+HH DD 
+HH, /WWf i
+HH> BWWk o
+JJ LL TT! %
+NN UU WWU c
+QQ TT 
+RR TT UU! #
+YY& 5[[Z i×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_75b.cs
 
- <
+ B
 
    
-  & 4((  .((3 A
+  & 4((  .((3 A
+
+  C F
+
+  U Y
 $$ ** --A E
 %% ** #(
 &&  (( )) **0 9
@@ -5405,1120 +11054,1450 @@
 //& 511[ j
 
 88 "
-88* 8@@  .@@3 A
+88* 8@@  .@@3 A
+
+88G J
+
+88Y ]
 << BB EEA E
 == BB #(
 >>  @@ AA BB0 9
 
 EE! %
-GG& 5II[ j•
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_81a.cs
+GG& 5II[ j©
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_81a.cs
 
- <
+ B
 
- (
-   !! 77$ (HH 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
-GGC MHH 
+ 
+) ,##" %..! $
+; ?..& *(
+    && .. 
+## &&! -
+((# 5**2 D
+--I S.. 
 
-LL 
-RR NN 
-TT VV XX 
-WWC MXX ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_81_bad.cs
+22 
+22* -44 
+22< @44 
+88 44 
+88% (>>! $
+887 ;>>& *
+:: << >> 
+==I S>> ”
+¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_81_bad.cs
 
- ?
+ E
 
  
 $ (!!= A
 
-!! !á
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_81_base.cs
+7 :
 
- I
+I M
+
+!! !ÿ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_81_base.cs
+
+ O
 
  
 
-$ (ú
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_Dictionary_81_goodG2B.cs
+$ (
 
- C
+7 :
+
+I M˜
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_Dictionary_81_goodG2B.cs
+
+ I
 
  
 $ (!!= A
 
-!! !ý
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_01.cs
+7 :
 
- 8
+I M
 
-   (
-"" ## 99$ (JJ3 7
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
+!! !é
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_01.cs
 
-JJ 
+ >
 
-NN 
-TT PP 
-VV XX ZZ3 7
+ 
+) ,%%" %
 
-ZZ ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_02.cs
+; ?(
+!! "" (( 003 7
+%% ((! -
+**# 5,,2 D
 
- 8
+00 
 
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+44 
+44* -66 
+44< @66 
+:: 66 
 
-SS 
-XX  (
-ZZ __ dd gg3 7
+::% (
 
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
+::7 ;
+<< >> @@3 7
 
-zz 
+@@ õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_02.cs
 
-}} ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_03.cs
+ >
 
- 8
+ 
+) ,''& )
 
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
 
-SS 
-XX  (
-ZZ __ dd gg3 7
+99 
+>> ee 
 
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
+>>& )
 
-zz 
+>>8 <(
+@@ EE JJ MM3 7
 
-}} 
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_04.cs
+MM 
+QQ ff 
 
- 8
-## )** uu 
-$$ *bb 
+QQ& )
 
-'' 2
-)) ,, BB( ,WW ZZ3 7
-22) 344 "66I S(
-66* 188 #99 #::6 =
-::1 3==6 8
-==' 3>>$ 0BB9 E
-DD; MFFJ \
-MM$ -OO6 ?
+QQ8 <(
+SS WW ]] ``3 7
 
-ZZ 
-__ 
-†† (
-aa ff kk nn3 7
+`` 
 
-nn 
-rr 
-‡‡ *
-tt xx ~~ 
-3 7
+cc 
+cc* -ee ff 
+cc< @ee ff õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_03.cs
 
- 
+ >
 
-„„ 
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_05.cs
+ 
+) ,''& )
 
- 8
-## ** uu 
-$$ bb 
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
 
-'' 2
-)) ,, BB( ,WW ZZ3 7
-22) 344 "66I S(
-66* 188 #99 #::6 =
-::1 3==6 8
-==' 3>>$ 0BB9 E
-DD; MFFJ \
-MM$ -OO6 ?
+99 
+>> ee 
 
-ZZ 
-__ 
-†† (
-aa ff kk nn3 7
+>>& )
 
-nn 
-rr 
-‡‡ *
-tt xx ~~ 
-3 7
+>>8 <(
+@@ EE JJ MM3 7
 
- 
+MM 
+QQ ff 
 
-„„ ‘
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_06.cs
+QQ& )
 
- 8(
-## ()) aa tt 
+QQ8 <(
+SS WW ]] ``3 7
 
-&& 2
-(( ++ AA( ,VV YY3 7
-11) 333 "55I S(
-55* 177 #88 #996 =
-991 3<<6 8
-<<' 3==$ 0AA9 E
-CC; MEEJ \
-LL$ -NN6 ?
+`` 
 
-YY 
-^^ 
-…… (
-`` ee jj mm3 7
+cc 
+cc* -ee ff 
+cc< @ee ff «
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_04.cs
 
-mm 
-qq 
-†† *
-ss ww }} 
-€€3 7
+ >
+"" ))) [[ 
+## *HH 
 
-€€ 
+&& 
+&&) ,..& )
 
-ƒƒ ‘
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_07.cs
+&&; ?2
+(( ++ 11 == @@3 7
+.. #11% 1
+33' 9556 H
 
- 8(
-## )) aa tt 
+@@ 
+EE ll 
 
-&& 2
-(( ++ AA( ,VV YY3 7
-11) 333 "55I S(
-55* 177 #88 #996 =
-991 3<<6 8
-<<' 3==$ 0AA9 E
-CC; MEEJ \
-LL$ -NN6 ?
+EE& )
 
-YY 
-^^ 
-…… (
-`` ee jj mm3 7
+EE8 <(
+GG LL QQ TT3 7
 
-mm 
-qq 
-†† *
-ss ww }} 
-€€3 7
+TT 
+XX mm 
 
-€€ 
+XX& )
 
-ƒƒ Ÿ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_08.cs
+XX8 <(
+ZZ ^^ dd gg3 7
 
- 8
-## *11 || 
-(( +ii 
+gg 
 
-.. 2
-00 33 II( ,^^ aa3 7
-99) 3;; "==I S(
-==* 1?? #@@ #AA6 =
-AA1 3DD6 8
-DD' 3EE$ 0II9 E
-KK; MMMJ \
-TT$ -VV6 ?
+jj 
+jj* -ll mm 
+jj< @ll mm «
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_05.cs
 
-aa 
-ff 
- (
-hh mm rr uu3 7
+ >
+"" )) [[ 
+## HH 
 
-uu 
-yy 
-ŽŽ ,
-{{  
-…… 
-ˆˆ3 7
+&& 
+&&) ,..& )
 
-ˆˆ 
+&&; ?2
+(( ++ 11 == @@3 7
+.. #11% 1
+33' 9556 H
 
-‹‹ ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_09.cs
+@@ 
+EE ll 
 
- 8
+EE& )
 
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+EE8 <(
+GG LL QQ TT3 7
+
+TT 
+XX mm 
+
+XX& )
+
+XX8 <(
+ZZ ^^ dd gg3 7
+
+gg 
+
+jj 
+jj* -ll mm 
+jj< @ll mm Ÿ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_06.cs
+
+ >(
+"" ((( GG ZZ 
+
+%% 
+%%) ,--& )
+
+%%; ?2
+'' ** 00 << ??3 7
+-- #00% 1
+22' 9446 H
+
+?? 
+DD kk 
+
+DD& )
+
+DD8 <(
+FF KK PP SS3 7
 
 SS 
-XX  (
-ZZ __ dd gg3 7
+WW ll 
 
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
+WW& )
 
-zz 
-
-}} ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_10.cs
-
- 8
-
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-SS 
-XX  (
-ZZ __ dd gg3 7
-
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
-
-zz 
-
-}} ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_11.cs
-
- 8
-
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-SS 
-XX  (
-ZZ __ dd gg3 7
-
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
-
-zz 
-
-}} ‘
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_12.cs
-
- 8
-
-   2
-"" %% ;;( ,OO RR3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
-
-RR 
-XX kk (
-ZZ ^^ cc ff3 7
+WW8 <(
+YY ]] cc ff3 7
 
 ff 
 
-ii ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_13.cs
+ii 
+ii* -kk ll 
+ii< @kk ll Ÿ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_07.cs
 
- 8
+ >(
+"" (( GG ZZ 
 
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+%% 
+%%) ,--& )
 
-SS 
-XX  (
-ZZ __ dd gg3 7
+%%; ?2
+'' ** 00 << ??3 7
+-- #00% 1
+22' 9446 H
 
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
+?? 
+DD kk 
 
-zz 
+DD& )
 
-}} ß
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_14.cs
-
- 8
-
-   2
-"" %% ;;( ,PP SS3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+DD8 <(
+FF KK PP SS3 7
 
 SS 
-XX  (
-ZZ __ dd gg3 7
+WW ll 
 
-gg 
-kk 
-€€ (
-mm qq ww zz3 7
+WW& )
 
-zz 
+WW8 <(
+YY ]] cc ff3 7
 
-}} ã
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_15.cs
+ff 
 
- 8
+ii 
+ii* -kk ll 
+ii< @kk ll «
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_08.cs
 
-   2
-"" && <<( ,PP TT3 7
-,,) 3.. "00I S(
-00* 122 #33 #446 =
-441 3776 8
-77' 388$ 0<<9 E
->>; M@@J \
-GG$ -II6 ?
+ >
+"" *00 bb 
+'' +OO 
 
-TT 
-YY 
-‚‚ (
-[[ aa ee ii3 7
+-- 
+--) ,55& )
 
-ii 
-mm 
-ƒƒ (
-oo tt yy }}3 7
+--; ?2
+// 22 88 DD GG3 7
+55 #88% 1
+::' 9<<6 H
 
-}} 
+GG 
+LL ss 
 
-€€ ý
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_16.cs
+LL& )
 
- 8
+LL8 <(
+NN SS XX [[3 7
 
-   (
-"" %% ;;( ,NN3 7
-++) 3-- "//I S(
-//* 111 #22 #336 =
-331 3666 8
-66' 377$ 0;;9 E
-==; M??J \
-FF$ -HH6 ?
+[[ 
+__ tt 
 
-NN 
-SS bb 
-UU YY ]]3 7
+__& )
 
-]] 
+__8 <(
+aa ee kk nn3 7
 
-`` ½
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_17.cs
+nn 
 
- 8
+qq 
+qq* -ss tt 
+qq< @ss tt õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_09.cs
 
-   (
-"" ## 99$ (LL7 ;
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
-II II II  
+ >
 
-LL #
-SS aa 
-UU WW [[7 ;
-XX XX XX  
+ 
+) ,''& )
 
-[[ #
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
 
-__ ý
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_21.cs
+99 
+>> ee 
 
- 8
-!! && // 
+>>& )
 
-## 
-%% '' ))3 7
-,, '' 
+>>8 <(
+@@ EE JJ MM3 7
 
-)) 2
-.. 11 GG( ,\\ ^^ 
-77) 399 ";;I S(
-;;* 1== #>> #??6 =
-??1 3BB6 8
-BB' 3CC$ 0GG9 E
-II; MKKJ \
-RR$ -TT6 ?
-bb !oo xx "
-cc !
-ŠŠ 
-““ 
+MM 
+QQ ff 
 
-ee 
-ll gg 
+QQ& )
 
-‡‡ hh 
-nn pp rr3 7
-uu pp 
+QQ8 <(
+SS WW ]] ``3 7
 
-rr ,
-ww || 
- 
-ƒƒ $
+`` 
 
-‰‰ 
-‹‹ 
-3 7
+cc 
+cc* -ee ff 
+cc< @ee ff õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_10.cs
 
- 
-‹‹ 
+ >
 
- 0
+ 
+) ,''& )
 
-’’ 
-–– 
-œœ 
-žž Ì
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_22a.cs
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
 
- 9
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM3 7
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``3 7
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_11.cs
+
+ >
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
+
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM3 7
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``3 7
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff ý
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_12.cs
+
+ >
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 55 883 7
+'' #**% 1
+,,' 9..6 H
+
+88 
+>> QQ 
+
+>>% (
+
+>>7 ;(
+@@ DD II LL3 7
+
+LL 
+
+OO 
+OO* -QQ 
+OO< @QQ õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_13.cs
+
+ >
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
+
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM3 7
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``3 7
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_14.cs
+
+ >
+
+ 
+) ,''& )
+
+; ?2
+!! $$ ** 66 993 7
+'' #**% 1
+,,' 9..6 H
+
+99 
+>> ee 
+
+>>& )
+
+>>8 <(
+@@ EE JJ MM3 7
+
+MM 
+QQ ff 
+
+QQ& )
+
+QQ8 <(
+SS WW ]] ``3 7
+
+`` 
+
+cc 
+cc* -ee ff 
+cc< @ee ff õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_15.cs
+
+ >
+
+ 
+) ,((& )
+
+; ?2
+!! %% ++ 66 ::3 7
+(( #++% 1
+--' 9//6 H
+
+:: 
+?? hh 
+
+??& )
+
+??8 <(
+AA GG KK OO3 7
+
+OO 
+SS ii 
+
+SS& )
+
+SS8 <(
+UU ZZ __ cc3 7
+
+cc 
+
+ff 
+ff* -hh ii 
+ff< @hh ii é
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_16.cs
+
+ >
+
+ 
+) ,''& )
+
+; ?(
+!! $$ ** 443 7
+'' #**% 1
+,,' 9..6 H
+
+44 
+99 HH 
+
+99% (
+
+997 ;
+;; ?? CC3 7
+
+CC 
+
+FF 
+FF* -HH 
+FF< @HH ©
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_17.cs
+
+ >
+
+ 
+) ,%%" %
+
+; ?(
+!! "" (( 227 ;
+%% ((! -
+**# 5,,2 D
+// // //  
+
+22 #
+99 GG 
+
+99% (
+
+997 ;
+;; == AA7 ;
+>> >> >>  
+
+AA #
+
+EE 
+EE* -GG 
+EE< @GG ÿ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_21.cs
+
+ >
+   %% .. 
+
+"" 
+"") ,&& 
+""; ?&& #
+$$ && ((3 7
+++ && 
+
+(( 
+++' *33& )
+
+++9 =2
+-- 00 66 BB DD 
+33 #66% 1
+88' 9::6 H
+HH !UU ^^ 
+II !pp yy 
+
+KK 
+KK* -MM NN 
+KK< @MM NN 
+RR MM 
+mm NN 
+RR& )VV "
+RR8 <VV$ (
+TT VV XX3 7
+[[ VV 
+
+XX 
+
+[[, /
+
+[[> B(
+]] bb gg ii 
+mm& )qq "
+mm8 <qq$ (
+oo qq ss3 7
+vv qq 
+
+ss 
+
+vv, /
+
+vv> B,
+xx || 
+‚‚ 
+„„ –
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_22a.cs
+
+ ?
  &$$ 
 
-!! 
+!! 
+!!) ,%%S V
+!!; ?%%X \
 ## %% ''3 7
 
 '' 
 ,, +99 
 -- +CC 
 
-// 
+// 
+//* -11 22 
+//< @11 22 
 66 11 
-@@ 22 
+@@ 22 
+66& )::X [
+668 <::] a
 88 :: <<3 7
 
-<< 
+<< 
+@@& )DDX [
+@@8 <DD] a
 BB DD FF3 7
 
-FF š
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_22b.cs
+FF ò
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_22b.cs
 
- 9
+ ?
 
- 2
-   ## 99( ,NN PP 
-))) 3++ "--I S(
---* 1// #00 #116 =
-111 3446 8
-44' 355$ 0999 E
-;;; M==J \
-DD$ -FF6 ?
+ 
+, /%%& )
 
-VV $(
-XX ]] bb dd 
+> B2
+ "" (( 44 66 
+%% #((% 1
+**' 9,,6 H
 
-hh $(
-jj nn tt vv é
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_31.cs
+<< $
 
- 8
+<<1 4
 
-!! 
-## LL OO (
-%% && <<( ,LL 
-,,) 3.. "00I S(
-00* 122 #33 #446 =
-441 3776 8
-77' 388$ 0<<9 E
->>; M@@J \
-GG$ -II6 ?
-OO QQ7 ;
+<<C G(
+>> CC HH JJ 
 
-QQ #
+NN $
 
-VV 
-\\ XX 
-^^ cc ff 
-`` bb cc 
-ff hh7 ;
+NN1 4
 
-hh #Õ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_41.cs
+NNC G(
+PP TT ZZ \\ Õ
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_31.cs
 
- 8
- NN 
-$ (""3 7
+ >
 
-"" 
+   
+  ) ,((& )
 
-%% (
-'' (( >>$ (NN 
-..% /00 22E O(
-22& -44 55 662 9
-66- /992 4
-99# /::  ,>>5 A
-@@7 IBBF X
-II  )KK2 ;
+  ; ?
+"" 22 55 (
+$$ %% ++ 22 
+(( #++% 1
+--' 9//6 H
+55 777 ;
 
-RR 
-^^ TT 
-WW #cc 
-WW( ,ZZ3 7
+77 #
 
-ZZ 
-`` bb cc Õ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_42.cs
+<< 
+<<* ->> 
+<<< @>> 
+BB >> 
 
- 8
-  NN (
-!! "" 88$ (HH 
-((% /** ,,E O(
-,,& -.. // 002 9
-00- /332 4
-33# /44  ,885 A
-::7 I<<F X
-CC  )EE2 ;
+BB% (
 
-LL 
-NN PP3 7
+BB7 ;
+DD II LL 
+FF HH II 
+LL NN7 ;
 
-PP 
-TT $__  
-VV XX YY 
-]] ff 
-__ aa3 7
+NN #™
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_41.cs
 
-aa 
+ >
+ 44 
+$ (!!3 7
 
-dd •
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_45.cs
+7 :
 
- 8
-   %% TT 
-!! `` kk 
-## UU 
-%% ''3 7
+I M
 
-'' 
+!! 
 
-++ (
--- .. DD$ (TT 
-44% /66 88E O(
-88& -:: ;; <<2 9
-<<- /??2 4
-??# /@@  ,DD5 A
-FF7 IHHF X
-OO  )QQ2 ;
+$$ 
+$$) ,**" %44 
+$$; ?44  (
+&& '' -- 44 
+** --! -
+//# 5112 D
 
-YY 
-ff [[ 
-^^ ll 
-`` bb3 7
+88 
+88* -:: 
+88< @:: 
+DD :: 
+== #II 
+==( ,@@3 7
 
-bb 
-hh jj kk æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_51a.cs
+==; >
 
- 9
+==M Q
 
- (
-    66$ (FFD H
-&&% /(( **E O(
-**& -,, -- ..2 9
-..- /112 4
-11# /22  ,665 A
-887 I::F X
-AA  )CC2 ;
+@@ 
+DD, /II 
+DD> BII  $
+FF HH II ™
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_42.cs
+
+ >
+  44 
+- 0$$" %
+
+? C(
+   !! '' .. 
+$$ ''! -
+))# 5++2 D
+
+22 
+22) ,44  
+22; ?44" &
+44 663 7
+
+66 
+:: $EE  
+
+::1 4
+
+::C G
+<< >> ?? 
+CC LL 
+CC, /EE! $
+CC> BEE& *
+EE GG3 7
+
+GG 
 
 JJ 
-PP LL 
-RR TT UUH Lž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_51b.cs
+JJ* -LL 
+JJ< @LL Ù
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_45.cs
 
- 9
+ >
+ $$ :: 
+   FF QQ 
+"" ;; 
+
+""% (
+
+""7 ;
+$$ &&3 7
+
+&& 
+
+** 
+**) ,00" %;; 
+**; ?;; (
+,, -- 33 :: 
+00 33! -
+55# 5772 D
+
+?? 
+??* -AA 
+??< @AA 
+LL AA 
+DD RR 
+
+DD) ,
+
+DD; ?
+FF HH3 7
+
+HH 
+LL% (RR 
+LL7 ;RR 
+NN PP QQ ú
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_51a.cs
+
+ ?
+
+ 
+) ,""" %,,Q T
+; ?,,V Z(
+  %% ,,J N
+"" %%! -
+''# 5))2 D
+
+00 
+00* -22 
+00< @22 
+66 22 
+66% (;;U X
+667 ;;;Z ^
+88 :: ;;N RÔ
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_51b.cs
+
+ ?
 
  
 # '3 7
+
+6 9
+
+H L
 
  
 
 %% "
 %%' +((3 7
 
-(( æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_52a.cs
+%%: =
 
- 9
+%%L P
 
- (
-   !! 77$ (GGD H
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+(( ú
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_52a.cs
 
-KK 
-QQ MM 
-SS UU VVH L†
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_52b.cs
+ ?
 
- 9
+ 
+) ,##" %--Q T
+; ?--V Z(
+    && --J N
+## &&! -
+((# 5**2 D
+
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<U X
+777 ;<<Z ^
+99 ;; <<N Rä
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_52b.cs
+
+ ?
 
  
-# 'D H
+# 'J N
+6 9Q T
+H LV Z
 
 ## "
-##' +%%H Lž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_52c.cs
+##' +%%N R
+##: =%%U X
+##L P%%Z ^Ô
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_52c.cs
 
- 9
+ ?
 
  
 # '  3 7
+
+6 9
+
+H L
 
    
 
 && "
 &&' +))3 7
 
-)) æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_53a.cs
+&&: =
 
- 9
+&&L P
 
- (
-   !! 77$ (GGD H
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+)) ú
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_53a.cs
 
-KK 
-QQ MM 
-SS UU VVH L†
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_53b.cs
+ ?
 
- 9
+ 
+) ,##" %--Q T
+; ?--V Z(
+    && --J N
+## &&! -
+((# 5**2 D
 
- 
-# 'D H
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<U X
+777 ;<<Z ^
+99 ;; <<N Rä
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_53b.cs
 
-## "
-##' +%%H L†
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_53c.cs
-
- 9
+ ?
 
  
-# 'D H
+# 'J N
+6 9Q T
+H LV Z
 
 ## "
-##' +%%H Lž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_53d.cs
+##' +%%N R
+##: =%%U X
+##L P%%Z ^ä
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_53c.cs
 
- 9
+ ?
+
+ 
+# 'J N
+6 9Q T
+H LV Z
+
+## "
+##' +%%N R
+##: =%%U X
+##L P%%Z ^Ô
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_53d.cs
+
+ ?
 
  
 # '  3 7
+
+6 9
+
+H L
 
    
 
 && "
 &&' +))3 7
 
-)) æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_54a.cs
+&&: =
 
- 9
+&&L P
 
- (
-   !! 77$ (GGD H
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+)) ú
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_54a.cs
 
-KK 
-QQ MM 
-SS UU VVH L†
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_54b.cs
+ ?
 
- 9
+ 
+) ,##" %--Q T
+; ?--V Z(
+    && --J N
+## &&! -
+((# 5**2 D
 
- 
-# 'D H
+11 
+11* -33 
+11< @33 
+77 33 
+77% (<<U X
+777 ;<<Z ^
+99 ;; <<N Rä
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_54b.cs
 
-## "
-##' +%%H L†
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_54c.cs
-
- 9
+ ?
 
  
-# 'D H
+# 'J N
+6 9Q T
+H LV Z
 
 ## "
-##' +%%H L†
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_54d.cs
+##' +%%N R
+##: =%%U X
+##L P%%Z ^ä
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_54c.cs
 
- 9
+ ?
 
  
-# 'D H
+# 'J N
+6 9Q T
+H LV Z
 
 ## "
-##' +%%H Lž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_54e.cs
+##' +%%N R
+##: =%%U X
+##L P%%Z ^ä
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_54d.cs
 
- 9
+ ?
+
+ 
+# 'J N
+6 9Q T
+H LV Z
+
+## "
+##' +%%N R
+##: =%%U X
+##L P%%Z ^Ô
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_54e.cs
+
+ ?
 
  
 # '  3 7
+
+6 9
+
+H L
 
    
 
 && "
 &&' +))3 7
 
-)) ´
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_61a.cs
+&&: =
 
- 9
+&&L P
+
+)) ¾
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_61a.cs
+
+ ?
 
  
+) ,W Z
+; ?\ `
  !!3 7
 
 !! 
 
 %% 
+%%* -'' 
+%%< @'' 
 ++ '' 
+++, /--[ ^
+++> B--` d
 -- //3 7
 
-// Ð
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_61b.cs
+// 
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_61b.cs
 
- 9
+ ?
 
- (
-   !! 77$ (GG 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+, /##" %
 
-MM #
-OO QQ RR ¦
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_66a.cs
+> B(
+    && -- 
+## &&! -
+((# 5**2 D
 
- 9
+33 #
 
- (
-   !! 77$ (HH 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
-GG HH IID M
+330 3
 
-MM 
-SS OO 
-UU WW YY 
-XX YY ZZH QÊ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_66b.cs
+33B F
+55 77 88 º
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_66a.cs
 
- 9
+ ?
+
+ 
+* -##" %//V Y
+< @//[ _(
+    && .. 
+## &&! -
+((# 5**2 D
+-- .. //J S
+
+33 
+33* -55 
+33< @55 
+99 55 
+99, /@@Z ]
+99> B@@_ c
+;; == ?? 
+>> ?? @@N W€
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_66b.cs
+
+ ?
 
  
-% . 
+% . 
+
+= @
+
+O S
  !!3 7
 
 !! 
 
 '' "
-'') 2)) 
+'') 2)) 
+
+''A D
+
+''S W
 )) ++3 7
 
-++ ú
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_67a.cs
+++ Ž
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_67a.cs
 
- 92
- LL LL& /]] ]]& /
-   MM "^^ "
+ ?2
+ 22 22& /CC CC& /
+ 33 "DD "
 
-## (
-%% && <<$ (MM% )
-,,% /.. 00E O(
-00& -22 33 442 9
-44- /772 4
-77# /88  ,<<5 A
->>7 I@@F X
-GG  )II2 ;
-LL MM NND Q
+"" 
+"") ,((" %44Z ]
+""; ?44_ c(
+$$ %% ++ 33% )
+(( ++! -
+--# 5//2 D
+22 33 44J W
 
-RR 
-XX TT 
-ZZ \\ ^^% )
-]] ^^ __H UÊ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_67b.cs
+88 
+88* -:: 
+88< @:: 
+>> :: 
+>>, /EE^ a
+>>> BEEc g
+@@ BB DD% )
+CC DD EEN [‡
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_67b.cs
 
- 9
+ ?
 
  
-] j  
+c p  
+	 ‚
+
+‘ •
  !!3 7
 
 !! 
 
 '' "
-''a n))  
+''g t))  
+
+''ƒ †
+
+''• ™
 )) ++3 7
 
-++ Æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_68a.cs
+++ Ú
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_68a.cs
 
- 9(
- !! 77$ (TT 
+ ?(
+    && :: 
 
- 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+) ,##" %--J M
+; ?--O S
+## &&! -
+((# 5**2 D
 
-KK 
-QQ MM ž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_68b.cs
+11 
+11* -33 
+11< @33 
+77 33 
+77, /;;N Q
+77> B;;S WÔ
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_68b.cs
 
- 9
+ ?
 
- 
+ 
+
++ .
+
+= A
    3 7
 
    
 
-&& "
+&& "
+
+&&/ 2
+
+&&A E
 (( **3 7
 
-** æ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_71a.cs
+** ú
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_71a.cs
 
- 9
+ ?
 
- (
-   !! 77$ (GGL P
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
+ 
+) ,##" %--Y \
+; ?--^ b(
+    && --R V
+## &&! -
+((# 5**2 D
 
-KK 
-QQ MM 
-SS UU VVP TÊ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_71b.cs
+11 
+11* -33 
+11< @33 
+77 33 
+77, /<<] `
+77> B<<b f
+99 ;; <<V Z€
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_71b.cs
 
- 9
+ ?
 
  
-& 0   "
+& 0   "
+
+? B
+
+Q U
    ""3 7
 
 "" 
 
 (( "
-((* 4** "
+((* 4** "
+
+((C F
+
+((U Y
 ** ,,3 7
 
-,, ö
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_72a.cs
+,, Š
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_72a.cs
 
- 9
+ ?
 
- <
-   !! 77$ (HH !II !JJ !
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;2
-GG HH II JJ KKD Q
+ 
+) ,##" %11Z ]
+; ?11_ c<
+    && .. !// !00 !
+## &&! -
+((# 5**2 D2
+-- .. // 00 11J W
 
-OO 
-UU QQ 2
-WW YY [[ !\\ !]] !2
-ZZ [[ \\ ]] ^^H UÊ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_72b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /DD^ a
+;;> BDDc g2
+== ?? AA !BB !CC !2
+@@ AA BB CC DDN [€
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_72b.cs
 
- 9
+ ?
 
  
-) 6   &
+) 6   &
+
+E H
+
+W [
    ""3 7
 
 "" 
 
 (( "
-((- :** &
+((- :** &
+
+((I L
+
+(([ _
 ** ,,3 7
 
-,, ö
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_73a.cs
+,, Š
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_73a.cs
 
- 9
+ ?
 
- <
-!! "" 88$ (II #JJ #KK #
-((% /** ,,E O(
-,,& -.. // 002 9
-00- /332 4
-33# /44  ,885 A
-::7 I<<F X
-CC  )EE2 ;2
-HH &II JJ KK LLD R
+ 
+) ,$$" %22[ ^
+; ?22` d<
+   !! '' // #00 #11 #
+$$ ''! -
+))# 5++2 D2
+.. &// 00 11 22J X
 
-PP 
-VV RR 2
-XX ZZ \\ #]] #^^ #2
-[[ &\\ ]] ^^ __H VÊ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_73b.cs
+66 
+66* -88 
+66< @88 
+<< 88 
+<<, /EE_ b
+<<> BEEd h2
+>> @@ BB #CC #DD #2
+AA &BB CC DD EEN \€
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_73b.cs
 
- 9
+ ?
 
  
-/ = !
+/ = !
+
+L O
+
+^ b
  !!3 7
 
 !! 
 
 '' "
-''3 A)) !
+''3 A)) !
+
+''P S
+
+''b f
 )) ++3 7
 
-++ ö
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_74a.cs
+++ Š
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_74a.cs
 
- 9
+ ?
 
- <
-   !! 77$ (HH "II "JJ "
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;2
-GG *HH II JJ KKD R
+ 
+) ,##" %11[ ^
+; ?11` d<
+    && .. "// "00 "
+## &&! -
+((# 5**2 D2
+-- *.. // 00 11J X
 
-OO 
-UU QQ 2
-WW YY [[ "\\ "]] "2
-ZZ *[[ \\ ]] ^^H VÊ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_74b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /DD_ b
+;;> BDDd h2
+== ?? AA "BB "CC "2
+@@ *AA BB CC DDN \€
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_74b.cs
 
- 9
+ ?
 
  
-3 A !
+3 A !
+
+P S
+
+b f
  !!3 7
 
 !! 
 
 '' "
-''7 E)) !
+''7 E)) !
+
+''T W
+
+''f j
 )) ++3 7
 
-++ ¾
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_75a.cs
+++ Ò
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_75a.cs
 
- 9
+ ?
 
-   (
-"" ## 99$ (PP! %
-))% /++ --E O(
---& -// 00 112 9
-11- /442 4
-44# /55  ,995 A
-;;7 I==F X
-DD  )FF2 ;
-JJ QQ SSH V
-MM PP 
-NN PP QQ! #
-UU& 5WWZ i
+ 
+) ,%%" %99_ b
+; ?99d h(
+!! "" (( 66! %
+%% ((! -
+**# 5,,2 D
+00 77 99N \
+33 66 
+44 66 77! #
+;;& 5==Z i
 
-\\ 
-bb ^^ 
-dd ff nn! %
-hh oo qqL Z
-kk nn 
-ll nn oo! #
-ss& 5uuZ iž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_75b.cs
+BB 
+BB* -DD 
+BB< @DD 
+HH DD 
+HH, /WWc f
+HH> BWWh l
+JJ LL TT! %
+NN UU WWR `
+QQ TT 
+RR TT UU! #
+YY& 5[[Z iÔ
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_75b.cs
 
- 9
+ ?
 
    
-  & 4((  .((3 A
+  & 4((  .((3 A
+
+  C F
+
+  U Y
 $$ ** --7 ;
 %% ** #(
 &&  (( )) **0 9
@@ -6527,6488 +12506,595 @@
 //& 511[ j
 
 88 "
-88* 8@@  .@@3 A
+88* 8@@  .@@3 A
+
+88G J
+
+88Y ]
 << BB EE7 ;
 == BB #(
 >>  @@ AA BB0 9
 
 EE #
-GG& 5II[ j’
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_81a.cs
+GG& 5II[ j¦
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_81a.cs
 
- 9
-
- (
-   !! 77$ (HH 
-''% /)) ++E O(
-++& --- .. //2 9
-//- /222 4
-22# /33  ,775 A
-997 I;;F X
-BB  )DD2 ;
-GG@ JHH 
-
-LL 
-RR NN 
-TT VV XX 
-WW@ JXX ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_81_bad.cs
-
- <
-
- 
-$ (!!3 7
-
-!! Þ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_81_base.cs
-
- F
-
- 
-
-$ (÷
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Database_HashSet_81_goodG2B.cs
-
- @
-
- 
-$ (!!3 7
-
-!! Œ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_01.cs
-
- =
-
- (
-   !! ** 33/ 3
-%% && **% 1
-,,' 9..6 H
-
-33 
-
-77 
-== 99 
-?? AA CC/ 3
-
-CC ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_02.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_03.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff ¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_04.cs
-
- =
-!! )(( ^^ 
-"" *KK 
-
-%% 2
-'' ** 33 @@ CC/ 3
-.. #//  33) 5
-55+ =77: L
-
-CC 
-HH oo (
-JJ OO TT WW/ 3
-
-WW 
-[[ pp (
-]] aa gg jj/ 3
-
-jj 
-
-mm ¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_05.cs
-
- =
-!! (( ^^ 
-"" KK 
-
-%% 2
-'' ** 33 @@ CC/ 3
-.. #//  33) 5
-55+ =77: L
-
-CC 
-HH oo (
-JJ OO TT WW/ 3
-
-WW 
-[[ pp (
-]] aa gg jj/ 3
-
-jj 
-
-mm –
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_06.cs
-
- =(
-!! ('' JJ ]] 
-
-$$ 2
-&& )) 22 ?? BB/ 3
--- #..  22) 5
-44+ =66: L
-
-BB 
-GG nn (
-II NN SS VV/ 3
-
-VV 
-ZZ oo (
-\\ `` ff ii/ 3
-
-ii 
-
-ll –
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_07.cs
-
- =(
-!! '' JJ ]] 
-
-$$ 2
-&& )) 22 ?? BB/ 3
--- #..  22) 5
-44+ =66: L
-
-BB 
-GG nn (
-II NN SS VV/ 3
-
-VV 
-ZZ oo (
-\\ `` ff ii/ 3
-
-ii 
-
-ll ¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_08.cs
-
- =
-!! *// ee 
-&& +RR 
-
-,, 2
-.. 11 :: GG JJ/ 3
-55 #66  ::) 5
-<<+ =>>: L
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_09.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_10.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_11.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff  
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_12.cs
-
- =
-
- 2
-   ## ,, 88 ;;/ 3
-'' #((  ,,) 5
-..+ =00: L
-
-;; 
-AA TT (
-CC GG LL OO/ 3
-
-OO 
-
-RR ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_13.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_14.cs
-
- =
-
- 2
-   ## ,, 99 <</ 3
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP/ 3
-
-PP 
-TT ii (
-VV ZZ `` cc/ 3
-
-cc 
-
-ff ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_15.cs
-
- =
-
- 2
-   $$ -- 99 ==/ 3
-(( #))  --) 5
-//+ =11: L
-
-== 
-BB kk (
-DD JJ NN RR/ 3
-
-RR 
-VV ll (
-XX ]] bb ff/ 3
-
-ff 
-
-ii Œ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_16.cs
-
- =
-
- (
-   ## ,, 77/ 3
-'' #((  ,,) 5
-..+ =00: L
-
-77 
-<< KK 
->> BB FF/ 3
-
-FF 
-
-II Ì
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_17.cs
-
- =
-
- (
-   !! ** 553 7
-%% && **% 1
-,,' 9..6 H
-22 22 22  
-
-55 "
-<< JJ 
->> @@ DD3 7
-AA AA AA  
-
-DD "
-
-HH ò
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_21.cs
-
- =
- $$ -- 
-
-!! 
-## %% ''/ 3
-** %% 
-
-'' 2
-,, // 88 EE GG 
-33 #44  88) 5
-::+ =<<: L
-KK !XX aa 
-LL !ss || 
-
-NN 
-UU PP 
-pp QQ 
-WW YY [[/ 3
-^^ YY 
-
-[[ (
-`` ee jj ll 
-rr tt vv/ 3
-yy tt 
-
-vv ,
-{{  
-…… 
-‡‡ Ñ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_22a.cs
-
- >
- &$$ 
-
-!! 
-## %% ''/ 3
-
-'' 
-,, +99 
--- +CC 
-
-// 
-66 11 
-@@ 22 
-88 :: <</ 3
-
-<< 
-BB DD FF/ 3
-
-FF ©
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_22b.cs
-
- >
-
- 2
- !! ** 77 99 
-%% #&&  **) 5
-,,+ =..: L
-
-?? $(
-AA FF KK MM 
-
-QQ $(
-SS WW ]] __ ø
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_31.cs
-
- =
-
- 
-!! 55 88 (
-## $$ -- 55 
-(( #))  --) 5
-//+ =11: L
-88 ::3 7
-
-:: "
-
-?? 
-EE AA 
-GG LL OO 
-II KK LL 
-OO QQ3 7
-
-QQ "ä
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_41.cs
-
- =
- 77 
-$ (  / 3
-
-   
-
-## (
-%% && // 77 
-** ++ //% 1
-11' 9336 H
-
-;; 
-GG == 
-@@ #LL 
-@@( ,CC/ 3
-
-CC 
-II KK LL ä
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_42.cs
-
- =
-  77 (
-    )) 11 
-$$ %% ))% 1
-++' 9--6 H
-
-55 
-77 99/ 3
-
-99 
-== $HH  
-?? AA BB 
-FF OO 
-HH JJ/ 3
-
-JJ 
-
-MM ¤
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_45.cs
-
- =
- ## == 
- II TT 
-!! >> 
-## %%/ 3
-
-%% 
-
-)) (
-++ ,, 55 == 
-00 11 55% 1
-77' 9996 H
-
-BB 
-OO DD 
-GG UU 
-II KK/ 3
-
-KK 
-QQ SS TT õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_51a.cs
-
- >
-
- (
-  '' //I M
-"" ## ''% 1
-))' 9++6 H
-
-33 
-99 55 
-;; == >>M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_51b.cs
-
- >
-
- 
-# '/ 3
-
- 
-
-%% "
-%%' +((/ 3
-
-(( õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_52a.cs
-
- >
-
- (
-  (( 00I M
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_52b.cs
-
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_52c.cs
-
- >
-
- 
-# '  / 3
-
-   
-
-&& "
-&&' +))/ 3
-
-)) õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_53a.cs
-
- >
-
- (
-  (( 00I M
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_53b.cs
-
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_53c.cs
-
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_53d.cs
-
- >
-
- 
-# '  / 3
-
-   
-
-&& "
-&&' +))/ 3
-
-)) õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_54a.cs
-
- >
-
- (
-  (( 00I M
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_54b.cs
-
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_54c.cs
-
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q‹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_54d.cs
-
- >
-
- 
-# 'I M
-
-## "
-##' +%%M Q£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_54e.cs
-
- >
-
- 
-# '  / 3
-
-   
-
-&& "
-&&' +))/ 3
-
-)) ¹
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_61a.cs
-
- >
-
- 
- !!/ 3
-
-!! 
-
-%% 
-++ '' 
--- /// 3
-
-// ß
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_61b.cs
-
- >
-
- (
-  (( 00 
-## $$ ((% 1
-**' 9,,6 H
-
-66 #
-88 :: ;; µ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_66a.cs
-
- >
-
- (
-  (( 11 
-## $$ ((% 1
-**' 9,,6 H
-00 11 22I R
-
-66 
-<< 88 
->> @@ BB 
-AA BB CCM VÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_66b.cs
-
- >
-
- 
-% . 
- !!/ 3
-
-!! 
-
-'' "
-'') 2)) 
-)) ++/ 3
-
-++ ‰
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_67a.cs
-
- >2
- 55 55& /FF FF& /
- 66 "GG "
-
-!! (
-## $$ -- 66% )
-(( )) --% 1
-//' 9116 H
-55 66 77I V
-
-;; 
-AA == 
-CC EE GG% )
-FF GG HHM ZÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_67b.cs
-
- >
-
- 
-b o  
- !!/ 3
-
-!! 
-
-'' "
-''f s))  
-)) ++/ 3
-
-++ Õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_68a.cs
-
- >(
-  (( == 
+ ?
 
  
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 £
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_68b.cs
-
- >
-
- 
-   / 3
-
-   
-
-&& "
-(( **/ 3
-
-** õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_71a.cs
-
- >
-
- (
-  (( 00Q U
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??U YÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_71b.cs
-
- >
-
- 
-& 0   "
-   ""/ 3
-
-"" 
-
-(( "
-((* 4** "
-** ,,/ 3
-
-,, …
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_72a.cs
-
- >
-
- <
-  (( 11 !22 !33 !
-## $$ ((% 1
-**' 9,,6 H2
-00 11 22 33 44I V
-
-88 
->> :: 2
-@@ BB DD !EE !FF !2
-CC DD EE FF GGM ZÏ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_72b.cs
-
- >
-
- 
-) 6 &
- !!/ 3
-
-!! 
-
-'' "
-''- :)) &
-)) ++/ 3
-
-++ …
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_73a.cs
-
- >
-
- <
-    )) 22 #33 #44 #
-$$ %% ))% 1
-++' 9--6 H2
-11 &22 33 44 55I W
-
-99 
-?? ;; 2
-AA CC EE #FF #GG #2
-DD &EE FF GG HHM [Ï
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_73b.cs
-
- >
-
- 
-/ =   !
-   ""/ 3
-
-"" 
-
-(( "
-((3 A** !
-** ,,/ 3
-
-,, …
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_74a.cs
-
- >
-
- <
-  (( 11 "22 "33 "
-## $$ ((% 1
-**' 9,,6 H2
-00 *11 22 33 44I W
-
-88 
->> :: 2
-@@ BB DD "EE "FF "2
-CC *DD EE FF GGM [Ï
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_74b.cs
-
- >
-
- 
-3 A   !
-   ""/ 3
-
-"" 
-
-(( "
-((7 E** !
-** ,,/ 3
-
-,, Í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_75a.cs
-
- >
-
- (
-   !! ** 99! %
-%% && **% 1
-,,' 9..6 H
-33 :: <<M [
-66 99 
-77 99 ::! #
->>& 5@@Z i
-
-EE 
-KK GG 
-MM OO WW! %
-QQ XX ZZQ _
-TT WW 
-UU WW XX! #
-\\& 5^^Z i£
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_75b.cs
-
- >
-
-   
-  & 4((  .((3 A
-$$ ** --3 7
-%% ** #(
-&&  (( )) **0 9
-
--- "
-//& 511[ j
-
-88 "
-88* 8@@  .@@3 A
-<< BB EE3 7
-== BB #(
->>  @@ AA BB0 9
-
-EE "
-GG& 5II[ j¡
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_81a.cs
-
- >
-
- (
-  (( 11 
-## $$ ((% 1
-**' 9,,6 H
-00E O11 
-
-55 
-;; 77 
-== ?? AA 
-@@E OAA ø
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_81_bad.cs
-
- A
-
- 
-$ (!!/ 3
-
-!! ã
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_81_base.cs
-
- K
-
- 
-
-$ (ü
-¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_ArrayList_81_goodG2B.cs
-
- E
-
- 
-$ (!!/ 3
-
-!! 
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_01.cs
-
- >
-
- (
-   !! ** 33= A
-%% && **% 1
-,,' 9..6 H
-
-33 !
-
-77 
-== 99 
-?? AA CC= A
-
-CC !í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_02.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_03.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff £
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_04.cs
-
- >
-!! )(( ^^ 
-"" *KK 
-
-%% 2
-'' ** 33 @@ CC= A
-.. #//  33) 5
-55+ =77: L
-
-CC !
-HH oo (
-JJ OO TT WW= A
-
-WW !
-[[ pp (
-]] aa gg jj= A
-
-jj !
-
-mm £
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_05.cs
-
- >
-!! (( ^^ 
-"" KK 
-
-%% 2
-'' ** 33 @@ CC= A
-.. #//  33) 5
-55+ =77: L
-
-CC !
-HH oo (
-JJ OO TT WW= A
-
-WW !
-[[ pp (
-]] aa gg jj= A
-
-jj !
-
-mm —
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_06.cs
-
- >(
-!! ('' JJ ]] 
-
-$$ 2
-&& )) 22 ?? BB= A
--- #..  22) 5
-44+ =66: L
-
-BB !
-GG nn (
-II NN SS VV= A
-
-VV !
-ZZ oo (
-\\ `` ff ii= A
-
-ii !
-
-ll —
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_07.cs
-
- >(
-!! '' JJ ]] 
-
-$$ 2
-&& )) 22 ?? BB= A
--- #..  22) 5
-44+ =66: L
-
-BB !
-GG nn (
-II NN SS VV= A
-
-VV !
-ZZ oo (
-\\ `` ff ii= A
-
-ii !
-
-ll £
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_08.cs
-
- >
-!! *// ee 
-&& +RR 
-
-,, 2
-.. 11 :: GG JJ= A
-55 #66  ::) 5
-<<+ =>>: L
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_09.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_10.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_11.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff ¡
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_12.cs
-
- >
-
- 2
-   ## ,, 88 ;;= A
-'' #((  ,,) 5
-..+ =00: L
-
-;; !
-AA TT (
-CC GG LL OO= A
-
-OO !
-
-RR í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_13.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_14.cs
-
- >
-
- 2
-   ## ,, 99 <<= A
-'' #((  ,,) 5
-..+ =00: L
-
-<< !
-AA hh (
-CC HH MM PP= A
-
-PP !
-TT ii (
-VV ZZ `` cc= A
-
-cc !
-
-ff í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_15.cs
-
- >
-
- 2
-   $$ -- 99 === A
-(( #))  --) 5
-//+ =11: L
-
-== !
-BB kk (
-DD JJ NN RR= A
-
-RR !
-VV ll (
-XX ]] bb ff= A
-
-ff !
-
-ii 
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_16.cs
-
- >
-
- (
-   ## ,, 77= A
-'' #((  ,,) 5
-..+ =00: L
-
-77 !
-<< KK 
->> BB FF= A
-
-FF !
-
-II Í
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_17.cs
-
- >
-
- (
-   !! ** 55A E
-%% && **% 1
-,,' 9..6 H
-22 22 22  
-
-55! %
-<< JJ 
->> @@ DDA E
-AA AA AA  
-
-DD! %
-
-HH ó
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_21.cs
-
- >
- $$ -- 
-
-!! 
-## %% ''= A
-** %% 
-
-'' !2
-,, // 88 EE GG 
-33 #44  88) 5
-::+ =<<: L
-KK !XX aa 
-LL !ss || 
-
-NN 
-UU PP 
-pp QQ 
-WW YY [[= A
-^^ YY 
-
-[[ !(
-`` ee jj ll 
-rr tt vv= A
-yy tt 
-
-vv !,
-{{  
-…… 
-‡‡ Ò
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_22a.cs
-
- ?
- &$$ 
-
-!! 
-## %% ''= A
-
-'' !
-,, +99 
--- +CC 
-
-// 
-66 11 
-@@ 22 
-88 :: <<= A
-
-<< !
-BB DD FF= A
-
-FF !ª
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_22b.cs
-
- ?
-
- 2
- !! ** 77 99 
-%% #&&  **) 5
-,,+ =..: L
-
-?? $(
-AA FF KK MM 
-
-QQ $(
-SS WW ]] __ ù
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_31.cs
-
- >
-
- 
-!! 55 88 (
-## $$ -- 55 
-(( #))  --) 5
-//+ =11: L
-88 ::A E
-
-::! %
-
-?? 
-EE AA 
-GG LL OO 
-II KK LL 
-OO QQA E
-
-QQ! %å
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_41.cs
-
- >
- 77 
-$ (  = A
-
-   !
-
-## (
-%% && // 77 
-** ++ //% 1
-11' 9336 H
-
-;; 
-GG == 
-@@ #LL 
-@@( ,CC= A
-
-CC !
-II KK LL å
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_42.cs
-
- >
-  77 (
-    )) 11 
-$$ %% ))% 1
-++' 9--6 H
-
-55 
-77 99= A
-
-99 !
-== $HH  
-?? AA BB 
-FF OO 
-HH JJ= A
-
-JJ !
-
-MM ¥
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_45.cs
-
- >
- ## == 
- II TT 
-!! >> 
-## %%= A
-
-%% !
-
-)) (
-++ ,, 55 == 
-00 11 55% 1
-77' 9996 H
-
-BB 
-OO DD 
-GG UU 
-II KK= A
-
-KK !
-QQ SS TT ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_51a.cs
-
- ?
-
- (
-  '' //J N
-"" ## ''% 1
-))' 9++6 H
-
-33 
-99 55 
-;; == >>N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_51b.cs
-
- ?
-
- 
-# '= A
-
- !
-
-%% "
-%%' +((= A
-
-(( !ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_52a.cs
-
- ?
-
- (
-  (( 00J N
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_52b.cs
-
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_52c.cs
-
- ?
-
- 
-# '  = A
-
-   !
-
-&& "
-&&' +))= A
-
-)) !ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_53a.cs
-
- ?
-
- (
-  (( 00J N
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_53b.cs
-
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_53c.cs
-
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_53d.cs
-
- ?
-
- 
-# '  = A
-
-   !
-
-&& "
-&&' +))= A
-
-)) !ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_54a.cs
-
- ?
-
- (
-  (( 00J N
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_54b.cs
-
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_54c.cs
-
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N RŒ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_54d.cs
-
- ?
-
- 
-# 'J N
-
-## "
-##' +%%N R¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_54e.cs
-
- ?
-
- 
-# '  = A
-
-   !
-
-&& "
-&&' +))= A
-
-)) !º
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_61a.cs
-
- ?
-
- 
- !!= A
-
-!! !
-
-%% 
-++ '' 
--- //= A
-
-// !à
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_61b.cs
-
- ?
-
- (
-  (( 00 
-## $$ ((% 1
-**' 9,,6 H
-
-66 #
-88 :: ;; ¶
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_66a.cs
-
- ?
-
- (
-  (( 11 
-## $$ ((% 1
-**' 9,,6 H
-00 11 22J S
-
-66 
-<< 88 
->> @@ BB 
-AA BB CCN WÐ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_66b.cs
-
- ?
-
- 
-% . 
- !!= A
-
-!! !
-
-'' "
-'') 2)) 
-)) ++= A
-
-++ !Š
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_67a.cs
-
- ?2
- 55 55& /FF FF& /
- 66 "GG "
-
-!! (
-## $$ -- 66% )
-(( )) --% 1
-//' 9116 H
-55 66 77J W
-
-;; 
-AA == 
-CC EE GG% )
-FF GG HHN [Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_67b.cs
-
- ?
-
- 
-c p  
- !!= A
-
-!! !
-
-'' "
-''g t))  
-)) ++= A
-
-++ !Ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_68a.cs
-
- ?(
-  (( == 
-
- 
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 ¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_68b.cs
-
- ?
-
- 
-   = A
-
-   !
-
-&& "
-(( **= A
-
-** !ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_71a.cs
-
- ?
-
- (
-  (( 00R V
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??V ZÐ
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_71b.cs
-
- ?
-
- 
-& 0   "
-   ""= A
-
-"" !
-
-(( "
-((* 4** "
-** ,,= A
-
-,, !†
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_72a.cs
-
- ?
-
- <
-  (( 11 !22 !33 !
-## $$ ((% 1
-**' 9,,6 H2
-00 11 22 33 44J W
-
-88 
->> :: 2
-@@ BB DD !EE !FF !2
-CC DD EE FF GGN [Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_72b.cs
-
- ?
-
- 
-) 6   &
-   ""= A
-
-"" !
-
-(( "
-((- :** &
-** ,,= A
-
-,, !†
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_73a.cs
-
- ?
-
- <
-    )) 22 #33 #44 #
-$$ %% ))% 1
-++' 9--6 H2
-11 &22 33 44 55J X
-
-99 
-?? ;; 2
-AA CC EE #FF #GG #2
-DD &EE FF GG HHN \Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_73b.cs
-
- ?
-
- 
-/ = !
- !!= A
-
-!! !
-
-'' "
-''3 A)) !
-)) ++= A
-
-++ !†
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_74a.cs
-
- ?
-
- <
-  (( 11 "22 "33 "
-## $$ ((% 1
-**' 9,,6 H2
-00 *11 22 33 44J X
-
-88 
->> :: 2
-@@ BB DD "EE "FF "2
-CC *DD EE FF GGN \Ð
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_74b.cs
-
- ?
-
- 
-3 A !
- !!= A
-
-!! !
-
-'' "
-''7 E)) !
-)) ++= A
-
-++ !Î
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_75a.cs
-
- ?
-
- (
-   !! ** 99! %
-%% && **% 1
-,,' 9..6 H
-33 :: <<N \
-66 99 
-77 99 ::! #
->>& 5@@Z i
-
-EE 
-KK GG 
-MM OO WW! %
-QQ XX ZZR `
-TT WW 
-UU WW XX! #
-\\& 5^^Z i¤
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_75b.cs
-
- ?
-
-   
-  & 4((  .((3 A
-$$ ** --A E
-%% ** #(
-&&  (( )) **0 9
-
---! %
-//& 511[ j
-
-88 "
-88* 8@@  .@@3 A
-<< BB EEA E
-== BB #(
->>  @@ AA BB0 9
-
-EE! %
-GG& 5II[ j¢
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_81a.cs
-
- ?
-
- (
-  (( 11 
-## $$ ((% 1
-**' 9,,6 H
-00F P11 
-
-55 
-;; 77 
-== ?? AA 
-@@F PAA ù
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_81_bad.cs
+) ,##" %..! $
+; ?..& *(
+    && .. 
+## &&! -
+((# 5**2 D
+--F P.. 
+
+22 
+22* -44 
+22< @44 
+88 44 
+88% (>>! $
+887 ;>>& *
+:: << >> 
+==F P>> ‘
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_81_bad.cs
 
  B
 
  
-$ (!!= A
+$ (!!3 7
 
-!! !ä
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_81_base.cs
+7 :
+
+I M
+
+!! ü
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_81_base.cs
 
  L
 
  
 
-$ (ý
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_Dictionary_81_goodG2B.cs
+$ (
+
+7 :
+
+I M•
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Params_Get_Web_HashSet_81_goodG2B.cs
 
  F
 
  
-$ (!!= A
+$ (!!3 7
 
-!! !Š
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_01.cs
+7 :
 
- ;
+I M
 
- (
-   !! ** 333 7
-%% && **% 1
-,,' 9..6 H
+!! à
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_01.cs
 
-33 
-
-77 
-== 99 
-?? AA CC3 7
-
-CC ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_02.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_03.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff  
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_04.cs
-
- ;
-!! )(( ^^ 
-"" *KK 
-
-%% 2
-'' ** 33 @@ CC3 7
-.. #//  33) 5
-55+ =77: L
-
-CC 
-HH oo (
-JJ OO TT WW3 7
-
-WW 
-[[ pp (
-]] aa gg jj3 7
-
-jj 
-
-mm  
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_05.cs
-
- ;
-!! (( ^^ 
-"" KK 
-
-%% 2
-'' ** 33 @@ CC3 7
-.. #//  33) 5
-55+ =77: L
-
-CC 
-HH oo (
-JJ OO TT WW3 7
-
-WW 
-[[ pp (
-]] aa gg jj3 7
-
-jj 
-
-mm ”
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_06.cs
-
- ;(
-!! ('' JJ ]] 
-
-$$ 2
-&& )) 22 ?? BB3 7
--- #..  22) 5
-44+ =66: L
-
-BB 
-GG nn (
-II NN SS VV3 7
-
-VV 
-ZZ oo (
-\\ `` ff ii3 7
-
-ii 
-
-ll ”
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_07.cs
-
- ;(
-!! '' JJ ]] 
-
-$$ 2
-&& )) 22 ?? BB3 7
--- #..  22) 5
-44+ =66: L
-
-BB 
-GG nn (
-II NN SS VV3 7
-
-VV 
-ZZ oo (
-\\ `` ff ii3 7
-
-ii 
-
-ll  
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_08.cs
-
- ;
-!! *// ee 
-&& +RR 
-
-,, 2
-.. 11 :: GG JJ3 7
-55 #66  ::) 5
-<<+ =>>: L
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_09.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_10.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_11.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff ž
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_12.cs
-
- ;
-
- 2
-   ## ,, 88 ;;3 7
-'' #((  ,,) 5
-..+ =00: L
-
-;; 
-AA TT (
-CC GG LL OO3 7
-
-OO 
-
-RR ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_13.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_14.cs
-
- ;
-
- 2
-   ## ,, 99 <<3 7
-'' #((  ,,) 5
-..+ =00: L
-
-<< 
-AA hh (
-CC HH MM PP3 7
-
-PP 
-TT ii (
-VV ZZ `` cc3 7
-
-cc 
-
-ff ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_15.cs
-
- ;
-
- 2
-   $$ -- 99 ==3 7
-(( #))  --) 5
-//+ =11: L
-
-== 
-BB kk (
-DD JJ NN RR3 7
-
-RR 
-VV ll (
-XX ]] bb ff3 7
-
-ff 
-
-ii Š
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_16.cs
-
- ;
-
- (
-   ## ,, 773 7
-'' #((  ,,) 5
-..+ =00: L
-
-77 
-<< KK 
->> BB FF3 7
-
-FF 
-
-II Ê
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_17.cs
-
- ;
-
- (
-   !! ** 557 ;
-%% && **% 1
-,,' 9..6 H
-22 22 22  
-
-55 #
-<< JJ 
->> @@ DD7 ;
-AA AA AA  
-
-DD #
-
-HH ð
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_21.cs
-
- ;
- $$ -- 
-
-!! 
-## %% ''3 7
-** %% 
-
-'' 2
-,, // 88 EE GG 
-33 #44  88) 5
-::+ =<<: L
-KK !XX aa 
-LL !ss || 
-
-NN 
-UU PP 
-pp QQ 
-WW YY [[3 7
-^^ YY 
-
-[[ (
-`` ee jj ll 
-rr tt vv3 7
-yy tt 
-
-vv ,
-{{  
-…… 
-‡‡ Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_22a.cs
-
- <
- &$$ 
-
-!! 
-## %% ''3 7
-
-'' 
-,, +99 
--- +CC 
-
-// 
-66 11 
-@@ 22 
-88 :: <<3 7
-
-<< 
-BB DD FF3 7
-
-FF §
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_22b.cs
-
- <
-
- 2
- !! ** 77 99 
-%% #&&  **) 5
-,,+ =..: L
-
-?? $(
-AA FF KK MM 
-
-QQ $(
-SS WW ]] __ ö
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_31.cs
-
- ;
+ A
 
  
-!! 55 88 (
-## $$ -- 55 
-(( #))  --) 5
-//+ =11: L
-88 ::7 ;
-
-:: #
-
-?? 
-EE AA 
-GG LL OO 
-II KK LL 
-OO QQ7 ;
-
-QQ #â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_41.cs
-
- ;
- 77 
-$ (  3 7
-
-   
-
-## (
-%% && // 77 
-** ++ //% 1
-11' 9336 H
-
-;; 
-GG == 
-@@ #LL 
-@@( ,CC3 7
-
-CC 
-II KK LL â
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_42.cs
-
- ;
-  77 (
-    )) 11 
-$$ %% ))% 1
-++' 9--6 H
-
-55 
-77 993 7
-
-99 
-== $HH  
-?? AA BB 
-FF OO 
-HH JJ3 7
-
-JJ 
-
-MM ¢
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_45.cs
-
- ;
- ## == 
- II TT 
-!! >> 
-## %%3 7
-
-%% 
-
-)) (
-++ ,, 55 == 
-00 11 55% 1
-77' 9996 H
-
-BB 
-OO DD 
-GG UU 
-II KK3 7
-
-KK 
-QQ SS TT ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_51a.cs
-
- <
-
- (
-  '' //G K
-"" ## ''% 1
-))' 9++6 H
-
-33 
-99 55 
-;; == >>K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_51b.cs
-
- <
-
- 
-# '3 7
-
- 
-
-%% "
-%%' +((3 7
-
-(( ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_52a.cs
-
- <
-
- (
-  (( 00G K
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_52b.cs
-
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_52c.cs
-
- <
-
- 
-# '  3 7
-
-   
-
-&& "
-&&' +))3 7
-
-)) ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_53a.cs
-
- <
-
- (
-  (( 00G K
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_53b.cs
-
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_53c.cs
-
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_53d.cs
-
- <
-
- 
-# '  3 7
-
-   
-
-&& "
-&&' +))3 7
-
-)) ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_54a.cs
-
- <
-
- (
-  (( 00G K
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_54b.cs
-
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_54c.cs
-
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O‰
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_54d.cs
-
- <
-
- 
-# 'G K
-
-## "
-##' +%%K O¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_54e.cs
-
- <
-
- 
-# '  3 7
-
-   
-
-&& "
-&&' +))3 7
-
-)) ·
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_61a.cs
-
- <
-
- 
- !!3 7
-
-!! 
-
-%% 
-++ '' 
--- //3 7
-
-// Ý
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_61b.cs
-
- <
-
- (
-  (( 00 
-## $$ ((% 1
-**' 9,,6 H
-
-66 #
-88 :: ;; ³
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_66a.cs
-
- <
-
- (
-  (( 11 
-## $$ ((% 1
-**' 9,,6 H
-00 11 22G P
-
-66 
-<< 88 
->> @@ BB 
-AA BB CCK TÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_66b.cs
-
- <
-
- 
-% . 
- !!3 7
-
-!! 
-
-'' "
-'') 2)) 
-)) ++3 7
-
-++ ‡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_67a.cs
-
- <2
- 55 55& /FF FF& /
- 66 "GG "
-
-!! (
-## $$ -- 66% )
-(( )) --% 1
-//' 9116 H
-55 66 77G T
-
-;; 
-AA == 
-CC EE GG% )
-FF GG HHK XÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_67b.cs
-
- <
-
- 
-` m  
- !!3 7
-
-!! 
-
-'' "
-''d q))  
-)) ++3 7
-
-++ Ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_68a.cs
-
- <(
-  (( == 
-
- 
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 ¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_68b.cs
-
- <
-
- 
-   3 7
-
-   
-
-&& "
-(( **3 7
-
-** ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_71a.cs
-
- <
-
- (
-  (( 00O S
-## $$ ((% 1
-**' 9,,6 H
-
-44 
-:: 66 
-<< >> ??S WÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_71b.cs
-
- <
-
- 
-& 0   "
-   ""3 7
-
-"" 
-
-(( "
-((* 4** "
-** ,,3 7
-
-,, ƒ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_72a.cs
-
- <
-
- <
-  (( 11 !22 !33 !
-## $$ ((% 1
-**' 9,,6 H2
-00 11 22 33 44G T
-
-88 
->> :: 2
-@@ BB DD !EE !FF !2
-CC DD EE FF GGK XÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_72b.cs
-
- <
-
- 
-) 6   &
-   ""3 7
-
-"" 
-
-(( "
-((- :** &
-** ,,3 7
-
-,, ƒ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_73a.cs
-
- <
-
- <
-    )) 22 #33 #44 #
-$$ %% ))% 1
-++' 9--6 H2
-11 &22 33 44 55G U
-
-99 
-?? ;; 2
-AA CC EE #FF #GG #2
-DD &EE FF GG HHK YÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_73b.cs
-
- <
-
- 
-/ = !
- !!3 7
-
-!! 
-
-'' "
-''3 A)) !
-)) ++3 7
-
-++ ƒ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_74a.cs
-
- <
-
- <
-  (( 11 "22 "33 "
-## $$ ((% 1
-**' 9,,6 H2
-00 *11 22 33 44G U
-
-88 
->> :: 2
-@@ BB DD "EE "FF "2
-CC *DD EE FF GGK YÍ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_74b.cs
-
- <
-
- 
-3 A !
- !!3 7
-
-!! 
-
-'' "
-''7 E)) !
-)) ++3 7
-
-++ Ë
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_75a.cs
-
- <
-
- (
-   !! ** 99! %
-%% && **% 1
-,,' 9..6 H
-33 :: <<K Y
-66 99 
-77 99 ::! #
->>& 5@@Z i
-
-EE 
-KK GG 
-MM OO WW! %
-QQ XX ZZO ]
-TT WW 
-UU WW XX! #
-\\& 5^^Z i¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_75b.cs
-
- <
-
-   
-  & 4((  .((3 A
-$$ ** --7 ;
-%% ** #(
-&&  (( )) **0 9
-
--- #
-//& 511[ j
-
-88 "
-88* 8@@  .@@3 A
-<< BB EE7 ;
-== BB #(
->>  @@ AA BB0 9
-
-EE #
-GG& 5II[ jŸ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_81a.cs
-
- <
-
- (
-  (( 11 
-## $$ ((% 1
-**' 9,,6 H
-00C M11 
-
-55 
-;; 77 
-== ?? AA 
-@@C MAA ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_81_bad.cs
-
- ?
-
- 
-$ (!!3 7
-
-!! á
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_81_base.cs
-
- I
-
- 
-
-$ (ú
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Environment_HashSet_81_goodG2B.cs
-
- C
-
- 
-$ (!!3 7
-
-!! ±
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_01.cs
-
- 6
-
-   (
-"" ## 22  AA/ 3
-(($ &--* ,
--- '.. $22- 9
-44/ A66> P
-;; '==2 :
-
-AA 
-
-EE 
-KK GG 
-MM OO QQ/ 3
-
-QQ ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_02.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_03.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt Ç
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_04.cs
-
- 6
-## )** ll 
-$$ *YY 
-
-'' 2
-)) ,, ;;  $NN QQ/ 3
-11( *66. 0
-66 +77 (;;1 =
-==3 E??B T
-DD# +FF6 >
-
-QQ 
-VV }} (
-XX ]] bb ee/ 3
-
-ee 
-ii ~~ (
-kk oo uu xx/ 3
-
-xx 
-
-{{ Ç
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_05.cs
-
- 6
-## ** ll 
-$$ YY 
-
-'' 2
-)) ,, ;;  $NN QQ/ 3
-11( *66. 0
-66 +77 (;;1 =
-==3 E??B T
-DD# +FF6 >
-
-QQ 
-VV }} (
-XX ]] bb ee/ 3
-
-ee 
-ii ~~ (
-kk oo uu xx/ 3
-
-xx 
-
-{{ »
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_06.cs
-
- 6(
-## ()) XX kk 
-
-&& 2
-(( ++ ::  $MM PP/ 3
-00( *55. 0
-55 +66 (::1 =
-<<3 E>>B T
-CC# +EE6 >
-
-PP 
-UU || (
-WW \\ aa dd/ 3
-
-dd 
-hh }} (
-jj nn tt ww/ 3
-
-ww 
-
-zz »
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_07.cs
-
- 6(
-## )) XX kk 
-
-&& 2
-(( ++ ::  $MM PP/ 3
-00( *55. 0
-55 +66 (::1 =
-<<3 E>>B T
-CC# +EE6 >
-
-PP 
-UU || (
-WW \\ aa dd/ 3
-
-dd 
-hh }} (
-jj nn tt ww/ 3
-
-ww 
-
-zz Í
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_08.cs
-
- 6
-## *11 ss 
-(( +`` 
-
-.. 2
-00 33 BB  $UU XX/ 3
-88( *==. 0
-== +>> (BB1 =
-DD3 EFFB T
-KK# +MM6 >
-
-XX 
-]] 
-„„ (
-__ dd ii ll/ 3
-
-ll 
-pp 
-…… (
-rr vv || / 3
-
- 
-
-‚‚ ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_09.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_10.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_11.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt Å
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_12.cs
-
- 6
-
-   2
-"" %% 44  $FF II/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-II 
-OO bb (
-QQ UU ZZ ]]/ 3
-
-]] 
-
-`` ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_13.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_14.cs
-
- 6
-
-   2
-"" %% 44  $GG JJ/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^/ 3
-
-^^ 
-bb ww (
-dd hh nn qq/ 3
-
-qq 
-
-tt ‘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_15.cs
-
- 6
-
-   2
-"" && 55  $GG KK/ 3
-++( *00. 0
-00 +11 (551 =
-773 E99B T
->># +@@6 >
-
-KK 
-PP yy (
-RR XX \\ ``/ 3
-
-`` 
-dd zz (
-ff kk pp tt/ 3
-
-tt 
-
-ww ±
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_16.cs
-
- 6
-
-   (
-"" %% 44  $EE/ 3
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-EE 
-JJ YY 
-LL PP TT/ 3
-
-TT 
-
-WW ñ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_17.cs
-
- 6
-
-   (
-"" ## 22  CC3 7
-(($ &--* ,
--- '.. $22- 9
-44/ A66> P
-;; '==2 :
-@@ @@ @@  
-
-CC "
-JJ XX 
-LL NN RR3 7
-OO OO OO  
-
-RR "
-
-VV «
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_21.cs
-
- 6
-!! && // 
-
-## 
-%% '' ))/ 3
-,, '' 
-
-)) 2
-.. 11 @@  $SS UU 
-66( *;;. 0
-;; +<< (@@1 =
-BB3 EDDB T
-II# +KK6 >
-YY !ff oo "
-ZZ !
- 
-ŠŠ 
-
-\\ 
-cc ^^ 
-~~ __ 
-ee gg ii/ 3
-ll gg 
-
-ii (
-nn ss xx zz $
-
-€€ 
-‚‚ 
-„„/ 3
-
-‡‡ 
-‚‚ 
-
-„„ 0
-
-‰‰ 
- 
-““ 
-•• Ê
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_22a.cs
-
- 7
- &$$ 
-
-!! 
-## %% ''/ 3
-
-'' 
-,, +99 
--- +CC 
-
-// 
-66 11 
-@@ 22 
-88 :: <</ 3
-
-<< 
-BB DD FF/ 3
-
-FF Î
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_22b.cs
-
- 7
-
- 2
-   ## 22  $EE GG 
-((( *--. 0
--- +.. (221 =
-443 E66B T
-;;# +==6 >
-
-MM $(
-OO TT YY [[ 
-
-__ $(
-aa ee kk mm 
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_31.cs
-
- 6
-
-!! 
-## CC FF (
-%% && 55  $CC 
-++( *00. 0
-00 +11 (551 =
-773 E99B T
->># +@@6 >
-FF HH3 7
-
-HH "
-
-MM 
-SS OO 
-UU ZZ ]] 
-WW YY ZZ 
-]] __3 7
-
-__ "‰
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_41.cs
-
- 6
- EE 
-$ (""/ 3
-
-"" 
-
-%% (
-'' (( 77  EE 
---$ &22* ,
-22 '33 $77- 9
-99/ A;;> P
-@@ 'BB2 :
-
-II 
-UU KK 
-NN #ZZ 
-NN( ,QQ/ 3
-
-QQ 
-WW YY ZZ ‰
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_42.cs
-
- 6
-  EE (
-!! "" 11  ?? 
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :
-
-CC 
-EE GG/ 3
-
-GG 
-KK $VV  
-MM OO PP 
-TT ]] 
-VV XX/ 3
-
-XX 
-
-[[ É
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_45.cs
-
- 6
-   %% KK 
-!! WW bb 
-## LL 
-%% ''/ 3
-
-'' 
-
-++ (
--- .. ==  KK 
-33$ &88* ,
-88 '99 $==- 9
-??/ AAA> P
-FF 'HH2 :
-
-PP 
-]] RR 
-UU cc 
-WW YY/ 3
-
-YY 
-__ aa bb š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_51a.cs
-
- 7
-
- (
-    //  ==B F
-%%$ &*** ,
-** '++ $//- 9
-11/ A33> P
-88 '::2 :
-
-AA 
-GG CC 
-II KK LLF Jœ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_51b.cs
-
- 7
-
- 
-# '/ 3
-
- 
-
-%% "
-%%' +((/ 3
-
-(( š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_52a.cs
-
- 7
-
- (
-   !! 00  >>B F
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMF J„
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_52b.cs
-
- 7
-
- 
-# 'B F
-
-## "
-##' +%%F Jœ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_52c.cs
-
- 7
-
- 
-# '  / 3
-
-   
-
-&& "
-&&' +))/ 3
-
-)) š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_53a.cs
-
- 7
-
- (
-   !! 00  >>B F
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMF J„
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_53b.cs
-
- 7
-
- 
-# 'B F
-
-## "
-##' +%%F J„
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_53c.cs
-
- 7
-
- 
-# 'B F
-
-## "
-##' +%%F Jœ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_53d.cs
-
- 7
-
- 
-# '  / 3
-
-   
-
-&& "
-&&' +))/ 3
-
-)) š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_54a.cs
-
- 7
-
- (
-   !! 00  >>B F
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMF J„
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_54b.cs
-
- 7
-
- 
-# 'B F
-
-## "
-##' +%%F J„
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_54c.cs
-
- 7
-
- 
-# 'B F
-
-## "
-##' +%%F J„
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_54d.cs
-
- 7
-
- 
-# 'B F
-
-## "
-##' +%%F Jœ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_54e.cs
-
- 7
-
- 
-# '  / 3
-
-   
-
-&& "
-&&' +))/ 3
-
-)) ²
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_61a.cs
-
- 7
-
- 
- !!/ 3
-
-!! 
-
-%% 
-++ '' 
--- /// 3
-
-// „
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_61b.cs
-
- 7
-
- (
-   !! 00  >> 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-DD #
-FF HH II Ú
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_66a.cs
-
- 7
-
- (
-   !! 00  ?? 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
->> ?? @@B K
-
-DD 
-JJ FF 
-LL NN PP 
-OO PP QQF OÈ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_66b.cs
-
- 7
-
- 
-% . 
- !!/ 3
-
-!! 
-
-'' "
-'') 2)) 
-)) ++/ 3
-
-++ ®
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_67a.cs
-
- 72
- CC CC& /TT TT& /
-   DD "UU "
-
-## (
-%% && 55  DD% )
-++$ &00* ,
-00 '11 $55- 9
-77/ A99> P
->> '@@2 :
-CC DD EEB O
-
-II 
-OO KK 
-QQ SS UU% )
-TT UU VVF SÈ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_67b.cs
-
- 7
-
- 
-[ h  
- !!/ 3
-
-!! 
-
-'' "
-''_ l))  
-)) ++/ 3
-
-++ ú
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_68a.cs
-
- 7(
- !! 00  KK 
-
- 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD œ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_68b.cs
-
- 7
-
- 
-   / 3
-
-   
-
-&& "
-(( **/ 3
-
-** š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_71a.cs
-
- 7
-
- (
-   !! 00  >>J N
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMN RÈ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_71b.cs
-
- 7
-
- 
-& 0   "
-   ""/ 3
-
-"" 
-
-(( "
-((* 4** "
-** ,,/ 3
-
-,, ª
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_72a.cs
-
- 7
-
- <
-   !! 00  ?? !@@ !AA !
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :2
->> ?? @@ AA BBB O
-
-FF 
-LL HH 2
-NN PP RR !SS !TT !2
-QQ RR SS TT UUF SÈ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_72b.cs
-
- 7
-
- 
-) 6 &
- !!/ 3
-
-!! 
-
-'' "
-''- :)) &
-)) ++/ 3
-
-++ ª
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_73a.cs
-
- 7
-
- <
-!! "" 11  @@ #AA #BB #
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :2
-?? &@@ AA BB CCB P
-
-GG 
-MM II 2
-OO QQ SS #TT #UU #2
-RR &SS TT UU VVF TÈ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_73b.cs
-
- 7
-
- 
-/ =   !
-   ""/ 3
-
-"" 
-
-(( "
-((3 A** !
-** ,,/ 3
-
-,, ª
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_74a.cs
-
- 7
-
- <
-   !! 00  ?? "@@ "AA "
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :2
->> *?? @@ AA BBB P
-
-FF 
-LL HH 2
-NN PP RR "SS "TT "2
-QQ *RR SS TT UUF TÈ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_74b.cs
-
- 7
-
- 
-3 A   !
-   ""/ 3
-
-"" 
-
-(( "
-((7 E** !
-** ,,/ 3
-
-,, ò
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_75a.cs
-
- 7
-
- (
-!! "" 11  FF! %
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :
-@@ GG IIF T
-CC FF 
-DD FF GG! #
-KK& 5MMZ i
-
-RR 
-XX TT 
-ZZ \\ dd! %
-^^ ee ggJ X
-aa dd 
-bb dd ee! #
-ii& 5kkZ iœ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_75b.cs
-
- 7
-
-   
-  & 4((  .((3 A
-$$ ** --3 7
-%% ** #(
-&&  (( )) **0 9
-
--- "
-//& 511[ j
-
-88 "
-88* 8@@  .@@3 A
-<< BB EE3 7
-== BB #(
->>  @@ AA BB0 9
-
-EE "
-GG& 5II[ jÆ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_81a.cs
-
- 7
-
- (
-   !! 00  ?? 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
->>> H?? 
-
-CC 
-II EE 
-KK MM OO 
-NN> HOO ñ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_81_bad.cs
-
- :
-
- 
-$ (!!/ 3
-
-!! Ü
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_81_base.cs
-
- D
-
- 
-
-$ (õ
-¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_ArrayList_81_goodG2B.cs
-
- >
-
- 
-$ (!!/ 3
-
-!! ²
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_01.cs
-
- 7
-
-   (
-"" ## 22  AA= A
-(($ &--* ,
--- '.. $22- 9
-44/ A66> P
-;; '==2 :
-
-AA !
-
-EE 
-KK GG 
-MM OO QQ= A
-
-QQ !’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_02.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_03.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt È
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_04.cs
-
- 7
-## )** ll 
-$$ *YY 
-
-'' 2
-)) ,, ;;  $NN QQ= A
-11( *66. 0
-66 +77 (;;1 =
-==3 E??B T
-DD# +FF6 >
-
-QQ !
-VV }} (
-XX ]] bb ee= A
-
-ee !
-ii ~~ (
-kk oo uu xx= A
-
-xx !
-
-{{ È
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_05.cs
-
- 7
-## ** ll 
-$$ YY 
-
-'' 2
-)) ,, ;;  $NN QQ= A
-11( *66. 0
-66 +77 (;;1 =
-==3 E??B T
-DD# +FF6 >
-
-QQ !
-VV }} (
-XX ]] bb ee= A
-
-ee !
-ii ~~ (
-kk oo uu xx= A
-
-xx !
-
-{{ ¼
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_06.cs
-
- 7(
-## ()) XX kk 
-
-&& 2
-(( ++ ::  $MM PP= A
-00( *55. 0
-55 +66 (::1 =
-<<3 E>>B T
-CC# +EE6 >
-
-PP !
-UU || (
-WW \\ aa dd= A
-
-dd !
-hh }} (
-jj nn tt ww= A
-
-ww !
-
-zz ¼
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_07.cs
-
- 7(
-## )) XX kk 
-
-&& 2
-(( ++ ::  $MM PP= A
-00( *55. 0
-55 +66 (::1 =
-<<3 E>>B T
-CC# +EE6 >
-
-PP !
-UU || (
-WW \\ aa dd= A
-
-dd !
-hh }} (
-jj nn tt ww= A
-
-ww !
-
-zz Î
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_08.cs
-
- 7
-## *11 ss 
-(( +`` 
-
-.. 2
-00 33 BB  $UU XX= A
-88( *==. 0
-== +>> (BB1 =
-DD3 EFFB T
-KK# +MM6 >
-
-XX !
-]] 
-„„ (
-__ dd ii ll= A
-
-ll !
-pp 
-…… (
-rr vv || = A
-
- !
-
-‚‚ ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_09.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_10.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_11.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt Æ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_12.cs
-
- 7
-
-   2
-"" %% 44  $FF II= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-II !
-OO bb (
-QQ UU ZZ ]]= A
-
-]] !
-
-`` ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_13.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_14.cs
-
- 7
-
-   2
-"" %% 44  $GG JJ= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ !
-OO vv (
-QQ VV [[ ^^= A
-
-^^ !
-bb ww (
-dd hh nn qq= A
-
-qq !
-
-tt ’
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_15.cs
-
- 7
-
-   2
-"" && 55  $GG KK= A
-++( *00. 0
-00 +11 (551 =
-773 E99B T
->># +@@6 >
-
-KK !
-PP yy (
-RR XX \\ ``= A
-
-`` !
-dd zz (
-ff kk pp tt= A
-
-tt !
-
-ww ²
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_16.cs
-
- 7
-
-   (
-"" %% 44  $EE= A
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-EE !
-JJ YY 
-LL PP TT= A
-
-TT !
-
-WW ò
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_17.cs
-
- 7
-
-   (
-"" ## 22  CCA E
-(($ &--* ,
--- '.. $22- 9
-44/ A66> P
-;; '==2 :
-@@ @@ @@  
-
-CC! %
-JJ XX 
-LL NN RRA E
-OO OO OO  
-
-RR! %
-
-VV ¬
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_21.cs
-
- 7
-!! && // 
-
-## 
-%% '' ))= A
-,, '' 
-
-)) !2
-.. 11 @@  $SS UU 
-66( *;;. 0
-;; +<< (@@1 =
-BB3 EDDB T
-II# +KK6 >
-YY !ff oo "
-ZZ !
- 
-ŠŠ 
-
-\\ 
-cc ^^ 
-~~ __ 
-ee gg ii= A
-ll gg 
-
-ii !(
-nn ss xx zz $
-
-€€ 
-‚‚ 
-„„= A
-
-‡‡ 
-‚‚ 
-
-„„ !0
-
-‰‰ 
- 
-““ 
-•• Ë
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_22a.cs
-
- 8
- &$$ 
-
-!! 
-## %% ''= A
-
-'' !
-,, +99 
--- +CC 
-
-// 
-66 11 
-@@ 22 
-88 :: <<= A
-
-<< !
-BB DD FF= A
-
-FF !Ï
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_22b.cs
-
- 8
-
- 2
-   ## 22  $EE GG 
-((( *--. 0
--- +.. (221 =
-443 E66B T
-;;# +==6 >
-
-MM $(
-OO TT YY [[ 
-
-__ $(
-aa ee kk mm ž
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_31.cs
-
- 7
-
-!! 
-## CC FF (
-%% && 55  $CC 
-++( *00. 0
-00 +11 (551 =
-773 E99B T
->># +@@6 >
-FF HHA E
-
-HH! %
-
-MM 
-SS OO 
-UU ZZ ]] 
-WW YY ZZ 
-]] __A E
-
-__! %Š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_41.cs
-
- 7
- EE 
-$ (""= A
-
-"" !
-
-%% (
-'' (( 77  EE 
---$ &22* ,
-22 '33 $77- 9
-99/ A;;> P
-@@ 'BB2 :
-
-II 
-UU KK 
-NN #ZZ 
-NN( ,QQ= A
-
-QQ !
-WW YY ZZ Š
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_42.cs
-
- 7
-  EE (
-!! "" 11  ?? 
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :
-
-CC 
-EE GG= A
-
-GG !
-KK $VV  
-MM OO PP 
-TT ]] 
-VV XX= A
-
-XX !
-
-[[ Ê
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_45.cs
-
- 7
-   %% KK 
-!! WW bb 
-## LL 
-%% ''= A
-
-'' !
-
-++ (
--- .. ==  KK 
-33$ &88* ,
-88 '99 $==- 9
-??/ AAA> P
-FF 'HH2 :
-
-PP 
-]] RR 
-UU cc 
-WW YY= A
-
-YY !
-__ aa bb ›
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_51a.cs
-
- 8
-
- (
-    //  ==C G
-%%$ &*** ,
-** '++ $//- 9
-11/ A33> P
-88 '::2 :
-
-AA 
-GG CC 
-II KK LLG K
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_51b.cs
-
- 8
-
- 
-# '= A
-
- !
-
-%% "
-%%' +((= A
-
-(( !›
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_52a.cs
-
- 8
-
- (
-   !! 00  >>C G
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMG K…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_52b.cs
-
- 8
-
- 
-# 'C G
-
-## "
-##' +%%G K
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_52c.cs
-
- 8
-
- 
-# '  = A
-
-   !
-
-&& "
-&&' +))= A
-
-)) !›
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_53a.cs
-
- 8
-
- (
-   !! 00  >>C G
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMG K…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_53b.cs
-
- 8
-
- 
-# 'C G
-
-## "
-##' +%%G K…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_53c.cs
-
- 8
-
- 
-# 'C G
-
-## "
-##' +%%G K
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_53d.cs
-
- 8
-
- 
-# '  = A
-
-   !
-
-&& "
-&&' +))= A
-
-)) !›
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_54a.cs
-
- 8
-
- (
-   !! 00  >>C G
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMG K…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_54b.cs
-
- 8
-
- 
-# 'C G
-
-## "
-##' +%%G K…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_54c.cs
-
- 8
-
- 
-# 'C G
-
-## "
-##' +%%G K…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_54d.cs
-
- 8
-
- 
-# 'C G
-
-## "
-##' +%%G K
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_54e.cs
-
- 8
-
- 
-# '  = A
-
-   !
-
-&& "
-&&' +))= A
-
-)) !³
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_61a.cs
-
- 8
-
- 
- !!= A
-
-!! !
-
-%% 
-++ '' 
--- //= A
-
-// !…
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_61b.cs
-
- 8
-
- (
-   !! 00  >> 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-DD #
-FF HH II Û
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_66a.cs
-
- 8
-
- (
-   !! 00  ?? 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
->> ?? @@C L
-
-DD 
-JJ FF 
-LL NN PP 
-OO PP QQG PÉ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_66b.cs
-
- 8
-
- 
-% . 
- !!= A
-
-!! !
-
-'' "
-'') 2)) 
-)) ++= A
-
-++ !¯
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_67a.cs
-
- 82
- CC CC& /TT TT& /
-   DD "UU "
-
-## (
-%% && 55  DD% )
-++$ &00* ,
-00 '11 $55- 9
-77/ A99> P
->> '@@2 :
-CC DD EEC P
-
-II 
-OO KK 
-QQ SS UU% )
-TT UU VVG TÉ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_67b.cs
-
- 8
-
- 
-\ i  
- !!= A
-
-!! !
-
-'' "
-''` m))  
-)) ++= A
-
-++ !û
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_68a.cs
-
- 8(
- !! 00  KK 
-
- 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_68b.cs
-
- 8
-
- 
-   = A
-
-   !
-
-&& "
-(( **= A
-
-** !›
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_71a.cs
-
- 8
-
- (
-   !! 00  >>K O
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMO SÉ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_71b.cs
-
- 8
-
- 
-& 0   "
-   ""= A
-
-"" !
-
-(( "
-((* 4** "
-** ,,= A
-
-,, !«
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_72a.cs
-
- 8
-
- <
-   !! 00  ?? !@@ !AA !
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :2
->> ?? @@ AA BBC P
-
-FF 
-LL HH 2
-NN PP RR !SS !TT !2
-QQ RR SS TT UUG TÉ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_72b.cs
-
- 8
-
- 
-) 6   &
-   ""= A
-
-"" !
-
-(( "
-((- :** &
-** ,,= A
-
-,, !«
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_73a.cs
-
- 8
-
- <
-!! "" 11  @@ #AA #BB #
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :2
-?? &@@ AA BB CCC Q
-
-GG 
-MM II 2
-OO QQ SS #TT #UU #2
-RR &SS TT UU VVG UÉ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_73b.cs
-
- 8
-
- 
-/ = !
- !!= A
-
-!! !
-
-'' "
-''3 A)) !
-)) ++= A
-
-++ !«
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_74a.cs
-
- 8
-
- <
-   !! 00  ?? "@@ "AA "
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :2
->> *?? @@ AA BBC Q
-
-FF 
-LL HH 2
-NN PP RR "SS "TT "2
-QQ *RR SS TT UUG UÉ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_74b.cs
-
- 8
-
- 
-3 A !
- !!= A
-
-!! !
-
-'' "
-''7 E)) !
-)) ++= A
-
-++ !ó
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_75a.cs
-
- 8
-
- (
-!! "" 11  FF! %
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :
-@@ GG IIG U
-CC FF 
-DD FF GG! #
-KK& 5MMZ i
-
-RR 
-XX TT 
-ZZ \\ dd! %
-^^ ee ggK Y
-aa dd 
-bb dd ee! #
-ii& 5kkZ i
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_75b.cs
-
- 8
-
-   
-  & 4((  .((3 A
-$$ ** --A E
-%% ** #(
-&&  (( )) **0 9
-
---! %
-//& 511[ j
-
-88 "
-88* 8@@  .@@3 A
-<< BB EEA E
-== BB #(
->>  @@ AA BB0 9
-
-EE! %
-GG& 5II[ jÇ
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_81a.cs
-
- 8
-
- (
-   !! 00  ?? 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
->>? I?? 
-
-CC 
-II EE 
-KK MM OO 
-NN? IOO ò
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_81_bad.cs
-
- ;
-
- 
-$ (!!= A
-
-!! !Ý
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_81_base.cs
-
- E
-
- 
-
-$ (ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_Dictionary_81_goodG2B.cs
-
- ?
-
- 
-$ (!!= A
-
-!! !¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_01.cs
-
- 4
-
-   (
-"" ## 22  AA3 7
-(($ &--* ,
--- '.. $22- 9
-44/ A66> P
-;; '==2 :
-
-AA 
-
-EE 
-KK GG 
-MM OO QQ3 7
-
-QQ 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_02.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_03.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt Å
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_04.cs
-
- 4
-## )** ll 
-$$ *YY 
-
-'' 2
-)) ,, ;;  $NN QQ3 7
-11( *66. 0
-66 +77 (;;1 =
-==3 E??B T
-DD# +FF6 >
-
-QQ 
-VV }} (
-XX ]] bb ee3 7
-
-ee 
-ii ~~ (
-kk oo uu xx3 7
-
-xx 
-
-{{ Å
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_05.cs
-
- 4
-## ** ll 
-$$ YY 
-
-'' 2
-)) ,, ;;  $NN QQ3 7
-11( *66. 0
-66 +77 (;;1 =
-==3 E??B T
-DD# +FF6 >
-
-QQ 
-VV }} (
-XX ]] bb ee3 7
-
-ee 
-ii ~~ (
-kk oo uu xx3 7
-
-xx 
-
-{{ ¹
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_06.cs
-
- 4(
-## ()) XX kk 
-
-&& 2
-(( ++ ::  $MM PP3 7
-00( *55. 0
-55 +66 (::1 =
-<<3 E>>B T
-CC# +EE6 >
-
-PP 
-UU || (
-WW \\ aa dd3 7
-
-dd 
-hh }} (
-jj nn tt ww3 7
-
-ww 
-
-zz ¹
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_07.cs
-
- 4(
-## )) XX kk 
-
-&& 2
-(( ++ ::  $MM PP3 7
-00( *55. 0
-55 +66 (::1 =
-<<3 E>>B T
-CC# +EE6 >
-
-PP 
-UU || (
-WW \\ aa dd3 7
-
-dd 
-hh }} (
-jj nn tt ww3 7
-
-ww 
-
-zz Ë
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_08.cs
-
- 4
-## *11 ss 
-(( +`` 
-
-.. 2
-00 33 BB  $UU XX3 7
-88( *==. 0
-== +>> (BB1 =
-DD3 EFFB T
-KK# +MM6 >
-
-XX 
-]] 
-„„ (
-__ dd ii ll3 7
-
-ll 
-pp 
-…… (
-rr vv || 3 7
-
- 
-
-‚‚ 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_09.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_10.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_11.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt Ã
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_12.cs
-
- 4
-
-   2
-"" %% 44  $FF II3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-II 
-OO bb (
-QQ UU ZZ ]]3 7
-
-]] 
-
-`` 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_13.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_14.cs
-
- 4
-
-   2
-"" %% 44  $GG JJ3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-JJ 
-OO vv (
-QQ VV [[ ^^3 7
-
-^^ 
-bb ww (
-dd hh nn qq3 7
-
-qq 
-
-tt 
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_15.cs
-
- 4
-
-   2
-"" && 55  $GG KK3 7
-++( *00. 0
-00 +11 (551 =
-773 E99B T
->># +@@6 >
-
-KK 
-PP yy (
-RR XX \\ ``3 7
-
-`` 
-dd zz (
-ff kk pp tt3 7
-
-tt 
-
-ww ¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_16.cs
-
- 4
-
-   (
-"" %% 44  $EE3 7
-**( *//. 0
-// +00 (441 =
-663 E88B T
-==# +??6 >
-
-EE 
-JJ YY 
-LL PP TT3 7
-
-TT 
-
-WW ï
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_17.cs
-
- 4
-
-   (
-"" ## 22  CC7 ;
-(($ &--* ,
--- '.. $22- 9
-44/ A66> P
-;; '==2 :
-@@ @@ @@  
-
-CC #
-JJ XX 
-LL NN RR7 ;
-OO OO OO  
-
-RR #
-
-VV ©
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_21.cs
-
- 4
-!! && // 
-
-## 
-%% '' ))3 7
-,, '' 
-
-)) 2
-.. 11 @@  $SS UU 
-66( *;;. 0
-;; +<< (@@1 =
-BB3 EDDB T
-II# +KK6 >
-YY !ff oo "
-ZZ !
- 
-ŠŠ 
-
-\\ 
-cc ^^ 
-~~ __ 
-ee gg ii3 7
-ll gg 
-
-ii (
-nn ss xx zz $
-
-€€ 
-‚‚ 
-„„3 7
-
-‡‡ 
-‚‚ 
-
-„„ 0
-
-‰‰ 
- 
-““ 
-•• È
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_22a.cs
-
- 5
- &$$ 
-
-!! 
-## %% ''3 7
-
-'' 
-,, +99 
--- +CC 
-
-// 
-66 11 
-@@ 22 
-88 :: <<3 7
-
-<< 
-BB DD FF3 7
-
-FF Ì
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_22b.cs
-
- 5
-
- 2
-   ## 22  $EE GG 
-((( *--. 0
--- +.. (221 =
-443 E66B T
-;;# +==6 >
-
-MM $(
-OO TT YY [[ 
-
-__ $(
-aa ee kk mm ›
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_31.cs
-
- 4
-
-!! 
-## CC FF (
-%% && 55  $CC 
-++( *00. 0
-00 +11 (551 =
-773 E99B T
->># +@@6 >
-FF HH7 ;
-
-HH #
-
-MM 
-SS OO 
-UU ZZ ]] 
-WW YY ZZ 
-]] __7 ;
-
-__ #‡
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_41.cs
-
- 4
- EE 
-$ (""3 7
-
-"" 
-
-%% (
-'' (( 77  EE 
---$ &22* ,
-22 '33 $77- 9
-99/ A;;> P
-@@ 'BB2 :
-
-II 
-UU KK 
-NN #ZZ 
-NN( ,QQ3 7
-
-QQ 
-WW YY ZZ ‡
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_42.cs
-
- 4
-  EE (
-!! "" 11  ?? 
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :
-
-CC 
-EE GG3 7
-
-GG 
-KK $VV  
-MM OO PP 
-TT ]] 
-VV XX3 7
-
-XX 
-
-[[ Ç
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_45.cs
-
- 4
-   %% KK 
-!! WW bb 
-## LL 
-%% ''3 7
-
-'' 
-
-++ (
--- .. ==  KK 
-33$ &88* ,
-88 '99 $==- 9
-??/ AAA> P
-FF 'HH2 :
-
-PP 
-]] RR 
-UU cc 
-WW YY3 7
-
-YY 
-__ aa bb ˜
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_51a.cs
-
- 5
-
- (
-    //  ==@ D
-%%$ &*** ,
-** '++ $//- 9
-11/ A33> P
-88 '::2 :
-
-AA 
-GG CC 
-II KK LLD Hš
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_51b.cs
-
- 5
-
- 
-# '3 7
-
- 
-
-%% "
-%%' +((3 7
-
-(( ˜
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_52a.cs
-
- 5
-
- (
-   !! 00  >>@ D
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMD H‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_52b.cs
-
- 5
-
- 
-# '@ D
-
-## "
-##' +%%D Hš
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_52c.cs
-
- 5
-
- 
-# '  3 7
-
-   
-
-&& "
-&&' +))3 7
-
-)) ˜
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_53a.cs
-
- 5
-
- (
-   !! 00  >>@ D
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMD H‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_53b.cs
-
- 5
-
- 
-# '@ D
-
-## "
-##' +%%D H‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_53c.cs
-
- 5
-
- 
-# '@ D
-
-## "
-##' +%%D Hš
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_53d.cs
-
- 5
-
- 
-# '  3 7
-
-   
-
-&& "
-&&' +))3 7
-
-)) ˜
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_54a.cs
-
- 5
-
- (
-   !! 00  >>@ D
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MMD H‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_54b.cs
-
- 5
-
- 
-# '@ D
-
-## "
-##' +%%D H‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_54c.cs
-
- 5
-
- 
-# '@ D
-
-## "
-##' +%%D H‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_54d.cs
-
- 5
-
- 
-# '@ D
-
-## "
-##' +%%D Hš
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_54e.cs
-
- 5
-
- 
-# '  3 7
-
-   
-
-&& "
-&&' +))3 7
-
-)) °
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_61a.cs
-
- 5
-
- 
- !!3 7
-
-!! 
-
-%% 
-++ '' 
--- //3 7
-
-// ‚
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_61b.cs
-
- 5
-
- (
-   !! 00  >> 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-DD #
-FF HH II Ø
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_66a.cs
-
- 5
-
- (
-   !! 00  ?? 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
->> ?? @@@ I
-
-DD 
-JJ FF 
-LL NN PP 
-OO PP QQD MÆ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_66b.cs
-
- 5
-
- 
-% . 
- !!3 7
-
-!! 
-
-'' "
-'') 2)) 
-)) ++3 7
-
-++ ¬
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_67a.cs
-
- 52
- CC CC& /TT TT& /
-   DD "UU "
-
-## (
-%% && 55  DD% )
-++$ &00* ,
-00 '11 $55- 9
-77/ A99> P
->> '@@2 :
-CC DD EE@ M
-
-II 
-OO KK 
-QQ SS UU% )
-TT UU VVD QÆ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_67b.cs
-
- 5
-
- 
-Y f  
- !!3 7
-
-!! 
-
-'' "
-''] j))  
-)) ++3 7
-
-++ ø
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_68a.cs
-
- 5(
- !! 00  KK 
-
- 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD š
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_68b.cs
-
- 5
-
- 
-   3 7
-
-   
-
-&& "
-(( **3 7
-
-** ˜
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_71a.cs
-
- 5
-
- (
-   !! 00  >>H L
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
-
-BB 
-HH DD 
-JJ LL MML PÆ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_71b.cs
-
- 5
-
- 
-& 0   "
-   ""3 7
-
-"" 
-
-(( "
-((* 4** "
-** ,,3 7
-
-,, ¨
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_72a.cs
-
- 5
-
- <
-   !! 00  ?? !@@ !AA !
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :2
->> ?? @@ AA BB@ M
-
-FF 
-LL HH 2
-NN PP RR !SS !TT !2
-QQ RR SS TT UUD QÆ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_72b.cs
-
- 5
-
- 
-) 6   &
-   ""3 7
-
-"" 
-
-(( "
-((- :** &
-** ,,3 7
-
-,, ¨
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_73a.cs
-
- 5
-
- <
-!! "" 11  @@ #AA #BB #
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :2
-?? &@@ AA BB CC@ N
-
-GG 
-MM II 2
-OO QQ SS #TT #UU #2
-RR &SS TT UU VVD RÆ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_73b.cs
-
- 5
-
- 
-/ = !
- !!3 7
-
-!! 
-
-'' "
-''3 A)) !
-)) ++3 7
-
-++ ¨
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_74a.cs
-
- 5
-
- <
-   !! 00  ?? "@@ "AA "
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :2
->> *?? @@ AA BB@ N
-
-FF 
-LL HH 2
-NN PP RR "SS "TT "2
-QQ *RR SS TT UUD RÆ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_74b.cs
-
- 5
-
- 
-3 A !
- !!3 7
-
-!! 
-
-'' "
-''7 E)) !
-)) ++3 7
-
-++ ð
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_75a.cs
-
- 5
-
- (
-!! "" 11  FF! %
-''$ &,,* ,
-,, '-- $11- 9
-33/ A55> P
-:: '<<2 :
-@@ GG IID R
-CC FF 
-DD FF GG! #
-KK& 5MMZ i
-
-RR 
-XX TT 
-ZZ \\ dd! %
-^^ ee ggH V
-aa dd 
-bb dd ee! #
-ii& 5kkZ iš
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_75b.cs
-
- 5
-
-   
-  & 4((  .((3 A
-$$ ** --7 ;
-%% ** #(
-&&  (( )) **0 9
-
--- #
-//& 511[ j
-
-88 "
-88* 8@@  .@@3 A
-<< BB EE7 ;
-== BB #(
->>  @@ AA BB0 9
-
-EE #
-GG& 5II[ jÄ
-¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_81a.cs
-
- 5
-
- (
-   !! 00  ?? 
-&&$ &++* ,
-++ ',, $00- 9
-22/ A44> P
-99 ';;2 :
->>< F?? 
-
-CC 
-II EE 
-KK MM OO 
-NN< FOO ï
-²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_81_bad.cs
-
- 8
-
- 
-$ (!!3 7
-
-!! Ú
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_81_base.cs
-
- B
-
- 
-
-$ (ó
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__File_HashSet_81_goodG2B.cs
-
- <
-
- 
-$ (!!3 7
-
-!! Œ
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_01.cs
-
- A
-
- 
-) ,%%1 4
+) ,%% ))% (
 
 ; ?(
-!! "" ,, 55/ 3
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
+!! "" )) 22/ 3
+++' 9--6 H
 
-55 
+22 
 
-99 
-99* -;; 
-99< @;; 
-?? ;; 
+66 
+66* -88 
+66< @88 
+<< 88 
 
-??% (
+<<% (
 
-??7 ;
-AA CC EE/ 3
+<<7 ;
+>> @@ BB/ 3
 
-EE ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_02.cs
+BB ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_02.cs
 
  A
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
 ; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
 
->> 
-CC jj 
+;; 
+@@ gg 
 
-CC& )
+@@& )
 
-CC8 <(
-EE JJ OO RR/ 3
+@@8 <(
+BB GG LL OO/ 3
 
-RR 
-VV kk 
+OO 
+SS hh 
 
-VV& )
+SS& )
 
-VV8 <(
-XX \\ bb ee/ 3
+SS8 <(
+UU YY __ bb/ 3
 
-ee 
+bb 
 
-hh 
-hh* -jj kk 
-hh< @jj kk ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_03.cs
+ee 
+ee* -gg hh 
+ee< @gg hh ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_03.cs
 
  A
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
 ; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
 
->> 
-CC jj 
+;; 
+@@ gg 
 
-CC& )
+@@& )
 
-CC8 <(
-EE JJ OO RR/ 3
+@@8 <(
+BB GG LL OO/ 3
 
-RR 
-VV kk 
+OO 
+SS hh 
 
-VV& )
+SS& )
 
-VV8 <(
-XX \\ bb ee/ 3
+SS8 <(
+UU YY __ bb/ 3
 
-ee 
+bb 
 
-hh 
-hh* -jj kk 
-hh< @jj kk Î
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_04.cs
+ee 
+ee* -gg hh 
+ee< @gg hh ¢
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_04.cs
 
  A
-"" ))) `` 
-## *MM 
+"" ))) ]] 
+## *JJ 
 
-&& 
-&&) ,..5 8
+&& 
+&&) ,.. 22) ,
 
 &&; ?2
-(( ++ 55 BB EE/ 3
-..% 2// !22* 7
-22 '55) 5
-77+ =99: L
+(( ++ 22 ?? BB/ 3
+44+ =66: L
 
-EE 
-JJ qq 
+BB 
+GG nn 
 
-JJ& )
+GG& )
 
-JJ8 <(
-LL QQ VV YY/ 3
+GG8 <(
+II NN SS VV/ 3
 
-YY 
-]] rr 
+VV 
+ZZ oo 
 
-]]& )
+ZZ& )
 
-]]8 <(
-__ cc ii ll/ 3
+ZZ8 <(
+\\ `` ff ii/ 3
 
-ll 
+ii 
 
-oo 
-oo* -qq rr 
-oo< @qq rr Î
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_05.cs
+ll 
+ll* -nn oo 
+ll< @nn oo ¢
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_05.cs
 
  A
-"" )) `` 
-## MM 
+"" )) ]] 
+## JJ 
 
-&& 
-&&) ,..5 8
+&& 
+&&) ,.. 22) ,
 
 &&; ?2
-(( ++ 55 BB EE/ 3
-..% 2// !22* 7
-22 '55) 5
-77+ =99: L
+(( ++ 22 ?? BB/ 3
+44+ =66: L
 
-EE 
-JJ qq 
+BB 
+GG nn 
 
-JJ& )
+GG& )
 
-JJ8 <(
-LL QQ VV YY/ 3
+GG8 <(
+II NN SS VV/ 3
 
-YY 
-]] rr 
+VV 
+ZZ oo 
 
-]]& )
+ZZ& )
 
-]]8 <(
-__ cc ii ll/ 3
+ZZ8 <(
+\\ `` ff ii/ 3
 
-ll 
+ii 
 
-oo 
-oo* -qq rr 
-oo< @qq rr Â
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_06.cs
+ll 
+ll* -nn oo 
+ll< @nn oo –
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_06.cs
 
  A(
-"" ((( LL __ 
+"" ((( II \\ 
 
-%% 
-%%) ,--5 8
-
-%%; ?2
-'' ** 44 AA DD/ 3
---% 2.. !11* 7
-11 '44) 5
-66+ =88: L
-
-DD 
-II pp 
-
-II& )
-
-II8 <(
-KK PP UU XX/ 3
-
-XX 
-\\ qq 
-
-\\& )
-
-\\8 <(
-^^ bb hh kk/ 3
-
-kk 
-
-nn 
-nn* -pp qq 
-nn< @pp qq Â
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_07.cs
-
- A(
-"" (( LL __ 
-
-%% 
-%%) ,--5 8
+%% 
+%%) ,-- 11) ,
 
 %%; ?2
-'' ** 44 AA DD/ 3
---% 2.. !11* 7
-11 '44) 5
-66+ =88: L
+'' ** 11 >> AA/ 3
+33+ =55: L
 
-DD 
-II pp 
+AA 
+FF mm 
 
-II& )
+FF& )
 
-II8 <(
-KK PP UU XX/ 3
+FF8 <(
+HH MM RR UU/ 3
 
-XX 
-\\ qq 
+UU 
+YY nn 
 
-\\& )
+YY& )
 
-\\8 <(
-^^ bb hh kk/ 3
-
-kk 
-
-nn 
-nn* -pp qq 
-nn< @pp qq Î
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_08.cs
-
- A
-"" *00 gg 
-'' +TT 
-
--- 
---) ,555 8
-
---; ?2
-// 22 << II LL/ 3
-55% 266 !99* 7
-99 '<<) 5
->>+ =@@: L
-
-LL 
-QQ xx 
-
-QQ& )
-
-QQ8 <(
-SS XX ]] ``/ 3
-
-`` 
-dd yy 
-
-dd& )
-
-dd8 <(
-ff jj pp ss/ 3
-
-ss 
-
-vv 
-vv* -xx yy 
-vv< @xx yy ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_09.cs
-
- A
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR/ 3
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee/ 3
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_10.cs
-
- A
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR/ 3
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee/ 3
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_11.cs
-
- A
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR/ 3
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee/ 3
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk  
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_12.cs
-
- A
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. :: ==/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
-== 
-CC VV 
-
-CC% (
-
-CC7 ;(
-EE II NN QQ/ 3
-
-QQ 
-
-TT 
-TT* -VV 
-TT< @VV ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_13.cs
-
- A
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR/ 3
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee/ 3
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_14.cs
-
- A
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR/ 3
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee/ 3
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk ˜
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_15.cs
-
- A
-
- 
-) ,((5 8
-
-; ?2
-!! %% // ;; ??/ 3
-((% 2)) !,,* 7
-,, '//) 5
-11+ =33: L
-
-?? 
-DD mm 
-
-DD& )
-
-DD8 <(
-FF LL PP TT/ 3
-
-TT 
-XX nn 
-
-XX& )
-
-XX8 <(
-ZZ __ dd hh/ 3
+YY8 <(
+[[ __ ee hh/ 3
 
 hh 
 
 kk 
 kk* -mm nn 
-kk< @mm nn Œ
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_16.cs
+kk< @mm nn –
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_07.cs
+
+ A(
+"" (( II \\ 
+
+%% 
+%%) ,-- 11) ,
+
+%%; ?2
+'' ** 11 >> AA/ 3
+33+ =55: L
+
+AA 
+FF mm 
+
+FF& )
+
+FF8 <(
+HH MM RR UU/ 3
+
+UU 
+YY nn 
+
+YY& )
+
+YY8 <(
+[[ __ ee hh/ 3
+
+hh 
+
+kk 
+kk* -mm nn 
+kk< @mm nn ¢
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_08.cs
+
+ A
+"" *00 dd 
+'' +QQ 
+
+-- 
+--) ,55 99) ,
+
+--; ?2
+// 22 99 FF II/ 3
+;;+ ===: L
+
+II 
+NN uu 
+
+NN& )
+
+NN8 <(
+PP UU ZZ ]]/ 3
+
+]] 
+aa vv 
+
+aa& )
+
+aa8 <(
+cc gg mm pp/ 3
+
+pp 
+
+ss 
+ss* -uu vv 
+ss< @uu vv ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_09.cs
 
  A
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
-; ?(
-!! $$ .. 99/ 3
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+; ?2
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
 
-99 
->> MM 
+;; 
+@@ gg 
 
->>% (
+@@& )
 
->>7 ;
-@@ DD HH/ 3
+@@8 <(
+BB GG LL OO/ 3
 
-HH 
+OO 
+SS hh 
 
-KK 
-KK* -MM 
-KK< @MM Ì
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_17.cs
+SS& )
+
+SS8 <(
+UU YY __ bb/ 3
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_10.cs
 
  A
 
- 
-) ,%%1 4
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO/ 3
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb/ 3
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_11.cs
+
+ A
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO/ 3
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb/ 3
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ô
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_12.cs
+
+ A
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 77 ::/ 3
+--+ =//: L
+
+:: 
+@@ SS 
+
+@@% (
+
+@@7 ;(
+BB FF KK NN/ 3
+
+NN 
+
+QQ 
+QQ* -SS 
+QQ< @SS ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_13.cs
+
+ A
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO/ 3
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb/ 3
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_14.cs
+
+ A
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;/ 3
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO/ 3
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb/ 3
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_15.cs
+
+ A
+
+ 
+) ,(( ,,) ,
+
+; ?2
+!! %% ,, 88 <</ 3
+..+ =00: L
+
+<< 
+AA jj 
+
+AA& )
+
+AA8 <(
+CC II MM QQ/ 3
+
+QQ 
+UU kk 
+
+UU& )
+
+UU8 <(
+WW \\ aa ee/ 3
+
+ee 
+
+hh 
+hh* -jj kk 
+hh< @jj kk à
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_16.cs
+
+ A
+
+ 
+) ,'' ++) ,
 
 ; ?(
-!! "" ,, 773 7
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
-44 44 44  
+!! $$ ++ 66/ 3
+--+ =//: L
 
-77 "
->> LL 
+66 
+;; JJ 
 
->>% (
+;;% (
 
->>7 ;
-@@ BB FF3 7
-CC CC CC  
+;;7 ;
+== AA EE/ 3
 
-FF "
+EE 
 
-JJ 
-JJ* -LL 
-JJ< @LL ¤
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_21.cs
+HH 
+HH* -JJ 
+HH< @JJ  
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_17.cs
+
+ A
+
+ 
+) ,%% ))% (
+
+; ?(
+!! "" )) 443 7
+++' 9--6 H
+11 11 11  
+
+44 "
+;; II 
+
+;;% (
+
+;;7 ;
+== ?? CC3 7
+@@ @@ @@  
+
+CC "
+
+GG 
+GG* -II 
+GG< @II ö
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_21.cs
 
  A
    %% .. 
@@ -13019,48 +13105,45 @@
 $$ && ((/ 3
 ++ && 
 
-(( 
-++' *335 8
+(( 
+++' *33 77) ,
 
 ++9 =2
--- 00 :: GG II 
-33% 244 !77* 7
-77 '::) 5
-<<+ =>>: L
-MM !ZZ cc 
-NN !uu ~~ 
+-- 00 77 DD FF 
+99+ =;;: L
+JJ !WW `` 
+KK !rr {{ 
 
-PP 
-PP* -RR SS 
-PP< @RR SS 
-WW RR 
-rr SS 
-WW& )[[ "
-WW8 <[[$ (
-YY [[ ]]/ 3
-`` [[ 
+MM 
+MM* -OO PP 
+MM< @OO PP 
+TT OO 
+oo PP 
+TT& )XX "
+TT8 <XX$ (
+VV XX ZZ/ 3
+]] XX 
 
-]] 
+ZZ 
 
-``, /
+]], /
 
-``> B(
-bb gg ll nn 
-rr& )vv "
-rr8 <vv$ (
-tt vv xx/ 3
-{{ vv 
+]]> B(
+__ dd ii kk 
+oo& )ss "
+oo8 <ss$ (
+qq ss uu/ 3
+xx ss 
 
-xx 
+uu 
 
-{{, /
+xx, /
 
-{{> B.
-}} 
- 
-‡‡ 
-‰‰ ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_22a.cs
+xx> B,
+zz ~~ 
+„„ 
+†† ™
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_22a.cs
 
  B
  &$$ 
@@ -13088,67 +13171,63 @@
 @@8 <DD` d
 BB DD FF/ 3
 
-FF •
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_22b.cs
+FF é
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_22b.cs
 
  B
 
- 
-, /%%5 8
+ 
+, /%% ))) ,
 
 > B2
- "" ,, 99 ;; 
-%%% 2&& !))* 7
-)) ',,) 5
-..+ =00: L
+ "" )) 66 88 
++++ =--: L
 
-AA $
+>> $
 
-AA1 4
+>>1 4
 
-AAC G(
-CC HH MM OO 
+>>C G(
+@@ EE JJ LL 
 
-SS $
+PP $
 
-SS1 4
+PP1 4
 
-SSC G(
-UU YY __ aa ø
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_31.cs
+PPC G(
+RR VV \\ ^^ Ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_31.cs
 
  A
 
-   
-  ) ,((5 8
+   
+  ) ,(( ,,) ,
 
   ; ?
-"" 77 :: (
-$$ %% // 77 
-((% 2)) !,,* 7
-,, '//) 5
-11+ =33: L
-:: <<3 7
+"" 44 77 (
+$$ %% ,, 44 
+..+ =00: L
+77 993 7
 
-<< "
+99 "
 
-AA 
-AA* -CC 
-AA< @CC 
-GG CC 
+>> 
+>>* -@@ 
+>>< @@@ 
+DD @@ 
 
-GG% (
+DD% (
 
-GG7 ;
-II NN QQ 
-KK MM NN 
-QQ SS3 7
+DD7 ;
+FF KK NN 
+HH JJ KK 
+NN PP3 7
 
-SS "¼
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_41.cs
+PP "
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_41.cs
 
  A
- 99 
+ 66 
 $ (!!/ 3
 
 7 :
@@ -13157,69 +13236,65 @@
 
 !! 
 
-$$ 
-$$) ,**1 499 
-$$; ?99  (
-&& '' 11 99 
-**! .++ ..& 3
-.. #11% 1
-33' 9556 H
+$$ (
+$$) ,** ..% (66 
+$$; ?66  (
+&& '' .. 66 
+00' 9226 H
 
-== 
-==* -?? 
-==< @?? 
-II ?? 
-BB #NN 
-BB( ,EE/ 3
+:: 
+::* -<< 
+::< @<< 
+FF << 
+?? #KK 
+??( ,BB/ 3
 
-BB; >
+??; >
 
-BBM Q
+??M Q
 
-EE 
-II, /NN 
-II> BNN  $
-KK MM NN ¼
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_42.cs
+BB 
+FF, /KK 
+FF> BKK  $
+HH JJ KK 
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_42.cs
 
  A
-  99 
-- 0$$1 4
+  66 
+- 0$$ ((% (
 
 ? C(
-   !! ++ 33 
-$$! .%% ((& 3
-(( #++% 1
---' 9//6 H
+   !! (( 00 
+**' 9,,6 H
 
-77 
-77) ,99  
-77; ?99" &
-99 ;;/ 3
+44 
+44) ,66  
+44; ?66" &
+66 88/ 3
 
-;; 
-?? $JJ  
+88 
+<< $GG  
 
-??1 4
+<<1 4
 
-??C G
-AA CC DD 
-HH QQ 
-HH, /JJ! $
-HH> BJJ& *
-JJ LL/ 3
+<<C G
+>> @@ AA 
+EE NN 
+EE, /GG! $
+EE> BGG& *
+GG II/ 3
 
-LL 
+II 
 
-OO 
-OO* -QQ 
-OO< @QQ ü
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_45.cs
+LL 
+LL* -NN 
+LL< @NN Ð
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_45.cs
 
  A
- $$ ?? 
-   KK VV 
-"" @@ 
+ $$ << 
+   HH SS 
+"" == 
 
 ""% (
 
@@ -13228,49 +13303,45 @@
 
 && 
 
-** 
-**) ,001 4@@ 
-**; ?@@ (
-,, -- 77 ?? 
-00! .11 44& 3
-44 #77% 1
-99' 9;;6 H
+** (
+**) ,00 44% (== 
+**; ?== (
+,, -- 44 << 
+66' 9886 H
 
-DD 
-DD* -FF 
-DD< @FF 
-QQ FF 
-II WW 
+AA 
+AA* -CC 
+AA< @CC 
+NN CC 
+FF TT 
 
-II) ,
+FF) ,
 
-II; ?
-KK MM/ 3
+FF; ?
+HH JJ/ 3
 
-MM 
-QQ% (WW 
-QQ7 ;WW 
-SS UU VV 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_51a.cs
+JJ 
+NN% (TT 
+NN7 ;TT 
+PP RR SS ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_51a.cs
 
  B
 
- 
-) ,""1 411T W
-; ?11Y ](
-  )) 11M Q
-""! .## &&& 3
-&& #))% 1
-++' 9--6 H
+ (
+) ,"" &&% (..T W
+; ?..Y ](
+  && ..M Q
+((' 9**6 H
 
-55 
-55* -77 
-55< @77 
-;; 77 
-;;% (@@X [
-;;7 ;@@] a
-== ?? @@Q U×
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_51b.cs
+22 
+22* -44 
+22< @44 
+88 44 
+88% (==X [
+887 ;==] a
+:: << ==Q U×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_51b.cs
 
  B
 
@@ -13290,27 +13361,25 @@
 
 %%L P
 
-(( 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_52a.cs
+(( ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_52a.cs
 
  B
 
- 
-) ,##1 422T W
-; ?22Y ](
-    ** 22M Q
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//T W
+; ?//Y ](
+    '' //M Q
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAX [
-<<7 ;AA] a
->> @@ AAQ Uç
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_52b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>X [
+997 ;>>] a
+;; == >>Q Uç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_52b.cs
 
  B
 
@@ -13323,7 +13392,7 @@
 ##' +%%Q U
 ##: =%%X [
 ##L P%%] a×
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_52c.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_52c.cs
 
  B
 
@@ -13343,27 +13412,25 @@
 
 &&L P
 
-)) 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_53a.cs
+)) ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_53a.cs
 
  B
 
- 
-) ,##1 422T W
-; ?22Y ](
-    ** 22M Q
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//T W
+; ?//Y ](
+    '' //M Q
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAX [
-<<7 ;AA] a
->> @@ AAQ Uç
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_53b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>X [
+997 ;>>] a
+;; == >>Q Uç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_53b.cs
 
  B
 
@@ -13376,7 +13443,7 @@
 ##' +%%Q U
 ##: =%%X [
 ##L P%%] aç
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_53c.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_53c.cs
 
  B
 
@@ -13389,7 +13456,7 @@
 ##' +%%Q U
 ##: =%%X [
 ##L P%%] a×
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_53d.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_53d.cs
 
  B
 
@@ -13409,27 +13476,25 @@
 
 &&L P
 
-)) 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_54a.cs
+)) ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_54a.cs
 
  B
 
- 
-) ,##1 422T W
-; ?22Y ](
-    ** 22M Q
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//T W
+; ?//Y ](
+    '' //M Q
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAX [
-<<7 ;AA] a
->> @@ AAQ Uç
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_54b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>X [
+997 ;>>] a
+;; == >>Q Uç
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_54b.cs
 
  B
 
@@ -13442,7 +13507,7 @@
 ##' +%%Q U
 ##: =%%X [
 ##L P%%] aç
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_54c.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_54c.cs
 
  B
 
@@ -13455,7 +13520,7 @@
 ##' +%%Q U
 ##: =%%X [
 ##L P%%] aç
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_54d.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_54d.cs
 
  B
 
@@ -13468,7 +13533,7 @@
 ##' +%%Q U
 ##: =%%X [
 ##L P%%] a×
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_54e.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_54e.cs
 
  B
 
@@ -13489,7 +13554,7 @@
 &&L P
 
 )) Á
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_61a.cs
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_61a.cs
 
  B
 
@@ -13508,48 +13573,44 @@
 ++> B--c g
 -- /// 3
 
-// ³
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_61b.cs
+// ‡
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_61b.cs
 
  B
 
- 
-, /##1 4
+ 
+, /## ''% (
 
 > B(
-    ** 22 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+    '' // 
+))' 9++6 H
 
-88 #
+55 #
 
-880 3
+550 3
 
-88B F
-:: << == Ý
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_66a.cs
+55B F
+77 99 :: ±
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_66a.cs
 
  B
 
- 
-* -##1 444Y \
-< @44^ b(
-    ** 33 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
-22 33 44M V
+ (
+* -## ''% (11Y \
+< @11^ b(
+    '' 00 
+))' 9++6 H
+// 00 11M V
 
-88 
-88* -:: 
-88< @:: 
->> :: 
->>, /EE] `
->>> BEEb f
-@@ BB DD 
-CC DD EEQ Zƒ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_66b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /BB] `
+;;> BBBb f
+== ?? AA 
+@@ AA BBQ Zƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_66b.cs
 
  B
 
@@ -13571,31 +13632,29 @@
 ''S W
 )) ++/ 3
 
-++ ±
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_67a.cs
+++ …
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_67a.cs
 
  B2
- 77 77& /HH HH& /
- 88 "II "
+ 44 44& /EE EE& /
+ 55 "FF "
 
-"" 
-"") ,((1 499] `
-""; ?99b f(
-$$ %% // 88% )
-((! .)) ,,& 3
-,, #//% 1
-11' 9336 H
-77 88 99M Z
+"" (
+"") ,(( ,,% (66] `
+""; ?66b f(
+$$ %% ,, 55% )
+..' 9006 H
+44 55 66M Z
 
-== 
-==* -?? 
-==< @?? 
-CC ?? 
-CC, /JJa d
-CC> BJJf j
-EE GG II% )
-HH II JJQ ^‹
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_67b.cs
+:: 
+::* -<< 
+::< @<< 
+@@ << 
+@@, /GGa d
+@@> BGGf j
+BB DD FF% )
+EE FF GGQ ^‹
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_67b.cs
 
  B
 
@@ -13617,26 +13676,24 @@
 ''˜ œ
 )) ++/ 3
 
-++ ý
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_68a.cs
+++ Ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_68a.cs
 
  B(
-    ** ?? 
+    '' << 
 
- 
-) ,##1 422M P
-; ?22R V
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//M P
+; ?//R V
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<, /@@Q T
-<<> B@@V Z×
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_68b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99, /==Q T
+99> B==V Z×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_68b.cs
 
  B
 
@@ -13656,27 +13713,25 @@
 &&A E
 (( **/ 3
 
-** 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_71a.cs
+** ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_71a.cs
 
  B
 
- 
-) ,##1 422\ _
-; ?22a e(
-    ** 22U Y
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//\ _
+; ?//a e(
+    '' //U Y
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<, /AA` c
-<<> BAAe i
->> @@ AAY ]ƒ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_71b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99, />>` c
+99> B>>e i
+;; == >>Y ]ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_71b.cs
 
  B
 
@@ -13698,29 +13753,27 @@
 ((U Y
 ** ,,/ 3
 
-,, ­
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_72a.cs
+,, 
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_72a.cs
 
  B
 
- 
-) ,##1 466] `
-; ?66b f<
-    ** 33 !44 !55 !
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H2
-22 33 44 55 66M Z
+ (
+) ,## ''% (33] `
+; ?33b f<
+    '' 00 !11 !22 !
+))' 9++6 H2
+// 00 11 22 33M Z
 
-:: 
-::* -<< 
-::< @<< 
-@@ << 
-@@, /IIa d
-@@> BIIf j2
-BB DD FF !GG !HH !2
-EE FF GG HH IIQ ^ƒ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_72b.cs
+77 
+77* -99 
+77< @99 
+== 99 
+==, /FFa d
+==> BFFf j2
+?? AA CC !DD !EE !2
+BB CC DD EE FFQ ^ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_72b.cs
 
  B
 
@@ -13742,29 +13795,27 @@
 ''[ _
 )) ++/ 3
 
-++ ­
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_73a.cs
+++ 
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_73a.cs
 
  B
 
- 
-) ,$$1 477^ a
-; ?77c g<
-   !! ++ 44 #55 #66 #
-$$! .%% ((& 3
-(( #++% 1
---' 9//6 H2
-33 &44 55 66 77M [
+ (
+) ,$$ ((% (44^ a
+; ?44c g<
+   !! (( 11 #22 #33 #
+**' 9,,6 H2
+00 &11 22 33 44M [
 
-;; 
-;;* -== 
-;;< @== 
-AA == 
-AA, /JJb e
-AA> BJJg k2
-CC EE GG #HH #II #2
-FF &GG HH II JJQ _ƒ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_73b.cs
+88 
+88* -:: 
+88< @:: 
+>> :: 
+>>, /GGb e
+>>> BGGg k2
+@@ BB DD #EE #FF #2
+CC &DD EE FF GGQ _ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_73b.cs
 
  B
 
@@ -13786,29 +13837,27 @@
 ((b f
 ** ,,/ 3
 
-,, ­
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_74a.cs
+,, 
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_74a.cs
 
  B
 
- 
-) ,##1 466^ a
-; ?66c g<
-    ** 33 "44 "55 "
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H2
-22 *33 44 55 66M [
+ (
+) ,## ''% (33^ a
+; ?33c g<
+    '' 00 "11 "22 "
+))' 9++6 H2
+// *00 11 22 33M [
 
-:: 
-::* -<< 
-::< @<< 
-@@ << 
-@@, /IIb e
-@@> BIIg k2
-BB DD FF "GG "HH "2
-EE *FF GG HH IIQ _ƒ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_74b.cs
+77 
+77* -99 
+77< @99 
+== 99 
+==, /FFb e
+==> BFFg k2
+?? AA CC "DD "EE "2
+BB *CC DD EE FFQ _ƒ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_74b.cs
 
  B
 
@@ -13830,35 +13879,33 @@
 ((f j
 ** ,,/ 3
 
-,, õ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_75a.cs
+,, É
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_75a.cs
 
  B
 
- 
-) ,%%1 4>>b e
-; ?>>g k(
-!! "" ,, ;;! %
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
-55 << >>Q _
-88 ;; 
-99 ;; <<! #
-@@& 5BBZ i
+ (
+) ,%% ))% (;;b e
+; ?;;g k(
+!! "" )) 88! %
+++' 9--6 H
+22 99 ;;Q _
+55 88 
+66 88 99! #
+==& 5??Z i
 
-GG 
-GG* -II 
-GG< @II 
-MM II 
-MM, /\\f i
-MM> B\\k o
-OO QQ YY! %
-SS ZZ \\U c
-VV YY 
-WW YY ZZ! #
-^^& 5``Z i×
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_75b.cs
+DD 
+DD* -FF 
+DD< @FF 
+JJ FF 
+JJ, /YYf i
+JJ> BYYk o
+LL NN VV! %
+PP WW YYU c
+SS VV 
+TT VV WW! #
+[[& 5]]Z i×
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_75b.cs
 
  B
 
@@ -13886,29 +13933,27 @@
 >>  @@ AA BB0 9
 
 EE "
-GG& 5II[ jÉ
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_81a.cs
+GG& 5II[ j
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_81a.cs
 
  B
 
- 
-) ,##1 433! $
-; ?33& *(
-    ** 33 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
-22I S33 
+ (
+) ,## ''% (00! $
+; ?00& *(
+    '' 00 
+))' 9++6 H
+//I S00 
 
-77 
-77* -99 
-77< @99 
-== 99 
-==% (CC! $
-==7 ;CC& *
-?? AA CC 
-BBI SCC ”
-¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_81_bad.cs
+44 
+44* -66 
+44< @66 
+:: 66 
+::% (@@! $
+::7 ;@@& *
+<< >> @@ 
+??I S@@ ”
+¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_81_bad.cs
 
  E
 
@@ -13920,7 +13965,7 @@
 I M
 
 !! ÿ
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_81_base.cs
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_81_base.cs
 
  O
 
@@ -13931,7 +13976,7 @@
 7 :
 
 I M˜
-ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_ArrayList_81_goodG2B.cs
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_ArrayList_81_goodG2B.cs
 
  I
 
@@ -13942,564 +13987,530 @@
 
 I M
 
-!! 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_01.cs
+!! á
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_01.cs
 
  B
 
- 
-) ,%%1 4
+ 
+) ,%% ))% (
 
 ; ?(
-!! "" ,, 55= A
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
+!! "" )) 22= A
+++' 9--6 H
 
-55 !
+22 !
 
-99 
-99* -;; 
-99< @;; 
-?? ;; 
+66 
+66* -88 
+66< @88 
+<< 88 
 
-??% (
+<<% (
 
-??7 ;
-AA CC EE= A
+<<7 ;
+>> @@ BB= A
 
-EE !™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_02.cs
+BB !í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_02.cs
 
  B
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
 ; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+!! $$ ++ 88 ;;= A
+--+ =//: L
 
->> !
-CC jj 
+;; !
+@@ gg 
 
-CC& )
+@@& )
 
-CC8 <(
-EE JJ OO RR= A
+@@8 <(
+BB GG LL OO= A
 
-RR !
-VV kk 
+OO !
+SS hh 
 
-VV& )
+SS& )
 
-VV8 <(
-XX \\ bb ee= A
+SS8 <(
+UU YY __ bb= A
 
-ee !
+bb !
 
-hh 
-hh* -jj kk 
-hh< @jj kk ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_03.cs
+ee 
+ee* -gg hh 
+ee< @gg hh í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_03.cs
 
  B
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
 ; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+!! $$ ++ 88 ;;= A
+--+ =//: L
 
->> !
-CC jj 
+;; !
+@@ gg 
 
-CC& )
+@@& )
 
-CC8 <(
-EE JJ OO RR= A
+@@8 <(
+BB GG LL OO= A
 
-RR !
-VV kk 
+OO !
+SS hh 
 
-VV& )
+SS& )
 
-VV8 <(
-XX \\ bb ee= A
+SS8 <(
+UU YY __ bb= A
 
-ee !
+bb !
 
-hh 
-hh* -jj kk 
-hh< @jj kk Ï
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_04.cs
+ee 
+ee* -gg hh 
+ee< @gg hh £
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_04.cs
 
  B
-"" ))) `` 
-## *MM 
+"" ))) ]] 
+## *JJ 
 
-&& 
-&&) ,..5 8
+&& 
+&&) ,.. 22) ,
 
 &&; ?2
-(( ++ 55 BB EE= A
-..% 2// !22* 7
-22 '55) 5
-77+ =99: L
+(( ++ 22 ?? BB= A
+44+ =66: L
 
-EE !
-JJ qq 
+BB !
+GG nn 
 
-JJ& )
+GG& )
 
-JJ8 <(
-LL QQ VV YY= A
+GG8 <(
+II NN SS VV= A
 
-YY !
-]] rr 
+VV !
+ZZ oo 
 
-]]& )
+ZZ& )
 
-]]8 <(
-__ cc ii ll= A
+ZZ8 <(
+\\ `` ff ii= A
 
-ll !
+ii !
 
-oo 
-oo* -qq rr 
-oo< @qq rr Ï
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_05.cs
+ll 
+ll* -nn oo 
+ll< @nn oo £
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_05.cs
 
  B
-"" )) `` 
-## MM 
+"" )) ]] 
+## JJ 
 
-&& 
-&&) ,..5 8
+&& 
+&&) ,.. 22) ,
 
 &&; ?2
-(( ++ 55 BB EE= A
-..% 2// !22* 7
-22 '55) 5
-77+ =99: L
+(( ++ 22 ?? BB= A
+44+ =66: L
 
-EE !
-JJ qq 
+BB !
+GG nn 
 
-JJ& )
+GG& )
 
-JJ8 <(
-LL QQ VV YY= A
+GG8 <(
+II NN SS VV= A
 
-YY !
-]] rr 
+VV !
+ZZ oo 
 
-]]& )
+ZZ& )
 
-]]8 <(
-__ cc ii ll= A
+ZZ8 <(
+\\ `` ff ii= A
 
-ll !
+ii !
 
-oo 
-oo* -qq rr 
-oo< @qq rr Ã
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_06.cs
+ll 
+ll* -nn oo 
+ll< @nn oo —
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_06.cs
 
  B(
-"" ((( LL __ 
+"" ((( II \\ 
 
-%% 
-%%) ,--5 8
-
-%%; ?2
-'' ** 44 AA DD= A
---% 2.. !11* 7
-11 '44) 5
-66+ =88: L
-
-DD !
-II pp 
-
-II& )
-
-II8 <(
-KK PP UU XX= A
-
-XX !
-\\ qq 
-
-\\& )
-
-\\8 <(
-^^ bb hh kk= A
-
-kk !
-
-nn 
-nn* -pp qq 
-nn< @pp qq Ã
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_07.cs
-
- B(
-"" (( LL __ 
-
-%% 
-%%) ,--5 8
+%% 
+%%) ,-- 11) ,
 
 %%; ?2
-'' ** 44 AA DD= A
---% 2.. !11* 7
-11 '44) 5
-66+ =88: L
+'' ** 11 >> AA= A
+33+ =55: L
 
-DD !
-II pp 
+AA !
+FF mm 
 
-II& )
+FF& )
 
-II8 <(
-KK PP UU XX= A
+FF8 <(
+HH MM RR UU= A
 
-XX !
-\\ qq 
+UU !
+YY nn 
 
-\\& )
+YY& )
 
-\\8 <(
-^^ bb hh kk= A
-
-kk !
-
-nn 
-nn* -pp qq 
-nn< @pp qq Ï
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_08.cs
-
- B
-"" *00 gg 
-'' +TT 
-
--- 
---) ,555 8
-
---; ?2
-// 22 << II LL= A
-55% 266 !99* 7
-99 '<<) 5
->>+ =@@: L
-
-LL !
-QQ xx 
-
-QQ& )
-
-QQ8 <(
-SS XX ]] ``= A
-
-`` !
-dd yy 
-
-dd& )
-
-dd8 <(
-ff jj pp ss= A
-
-ss !
-
-vv 
-vv* -xx yy 
-vv< @xx yy ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_09.cs
-
- B
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> !
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR= A
-
-RR !
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee= A
-
-ee !
-
-hh 
-hh* -jj kk 
-hh< @jj kk ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_10.cs
-
- B
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> !
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR= A
-
-RR !
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee= A
-
-ee !
-
-hh 
-hh* -jj kk 
-hh< @jj kk ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_11.cs
-
- B
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> !
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR= A
-
-RR !
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee= A
-
-ee !
-
-hh 
-hh* -jj kk 
-hh< @jj kk ¡
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_12.cs
-
- B
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. :: === A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
-== !
-CC VV 
-
-CC% (
-
-CC7 ;(
-EE II NN QQ= A
-
-QQ !
-
-TT 
-TT* -VV 
-TT< @VV ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_13.cs
-
- B
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> !
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR= A
-
-RR !
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee= A
-
-ee !
-
-hh 
-hh* -jj kk 
-hh< @jj kk ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_14.cs
-
- B
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> !
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR= A
-
-RR !
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee= A
-
-ee !
-
-hh 
-hh* -jj kk 
-hh< @jj kk ™
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_15.cs
-
- B
-
- 
-) ,((5 8
-
-; ?2
-!! %% // ;; ??= A
-((% 2)) !,,* 7
-,, '//) 5
-11+ =33: L
-
-?? !
-DD mm 
-
-DD& )
-
-DD8 <(
-FF LL PP TT= A
-
-TT !
-XX nn 
-
-XX& )
-
-XX8 <(
-ZZ __ dd hh= A
+YY8 <(
+[[ __ ee hh= A
 
 hh !
 
 kk 
 kk* -mm nn 
-kk< @mm nn 
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_16.cs
+kk< @mm nn —
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_07.cs
+
+ B(
+"" (( II \\ 
+
+%% 
+%%) ,-- 11) ,
+
+%%; ?2
+'' ** 11 >> AA= A
+33+ =55: L
+
+AA !
+FF mm 
+
+FF& )
+
+FF8 <(
+HH MM RR UU= A
+
+UU !
+YY nn 
+
+YY& )
+
+YY8 <(
+[[ __ ee hh= A
+
+hh !
+
+kk 
+kk* -mm nn 
+kk< @mm nn £
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_08.cs
+
+ B
+"" *00 dd 
+'' +QQ 
+
+-- 
+--) ,55 99) ,
+
+--; ?2
+// 22 99 FF II= A
+;;+ ===: L
+
+II !
+NN uu 
+
+NN& )
+
+NN8 <(
+PP UU ZZ ]]= A
+
+]] !
+aa vv 
+
+aa& )
+
+aa8 <(
+cc gg mm pp= A
+
+pp !
+
+ss 
+ss* -uu vv 
+ss< @uu vv í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_09.cs
 
  B
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
-; ?(
-!! $$ .. 99= A
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+; ?2
+!! $$ ++ 88 ;;= A
+--+ =//: L
 
-99 !
->> MM 
+;; !
+@@ gg 
 
->>% (
+@@& )
 
->>7 ;
-@@ DD HH= A
+@@8 <(
+BB GG LL OO= A
 
-HH !
+OO !
+SS hh 
 
-KK 
-KK* -MM 
-KK< @MM Í
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_17.cs
+SS& )
+
+SS8 <(
+UU YY __ bb= A
+
+bb !
+
+ee 
+ee* -gg hh 
+ee< @gg hh í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_10.cs
 
  B
 
- 
-) ,%%1 4
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;= A
+--+ =//: L
+
+;; !
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO= A
+
+OO !
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb= A
+
+bb !
+
+ee 
+ee* -gg hh 
+ee< @gg hh í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_11.cs
+
+ B
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;= A
+--+ =//: L
+
+;; !
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO= A
+
+OO !
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb= A
+
+bb !
+
+ee 
+ee* -gg hh 
+ee< @gg hh õ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_12.cs
+
+ B
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 77 ::= A
+--+ =//: L
+
+:: !
+@@ SS 
+
+@@% (
+
+@@7 ;(
+BB FF KK NN= A
+
+NN !
+
+QQ 
+QQ* -SS 
+QQ< @SS í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_13.cs
+
+ B
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;= A
+--+ =//: L
+
+;; !
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO= A
+
+OO !
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb= A
+
+bb !
+
+ee 
+ee* -gg hh 
+ee< @gg hh í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_14.cs
+
+ B
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;= A
+--+ =//: L
+
+;; !
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO= A
+
+OO !
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb= A
+
+bb !
+
+ee 
+ee* -gg hh 
+ee< @gg hh í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_15.cs
+
+ B
+
+ 
+) ,(( ,,) ,
+
+; ?2
+!! %% ,, 88 <<= A
+..+ =00: L
+
+<< !
+AA jj 
+
+AA& )
+
+AA8 <(
+CC II MM QQ= A
+
+QQ !
+UU kk 
+
+UU& )
+
+UU8 <(
+WW \\ aa ee= A
+
+ee !
+
+hh 
+hh* -jj kk 
+hh< @jj kk á
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_16.cs
+
+ B
+
+ 
+) ,'' ++) ,
 
 ; ?(
-!! "" ,, 77A E
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
-44 44 44  
+!! $$ ++ 66= A
+--+ =//: L
 
-77! %
->> LL 
+66 !
+;; JJ 
 
->>% (
+;;% (
 
->>7 ;
-@@ BB FFA E
-CC CC CC  
+;;7 ;
+== AA EE= A
 
-FF! %
+EE !
 
-JJ 
-JJ* -LL 
-JJ< @LL ¥
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_21.cs
+HH 
+HH* -JJ 
+HH< @JJ ¡
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_17.cs
+
+ B
+
+ 
+) ,%% ))% (
+
+; ?(
+!! "" )) 44A E
+++' 9--6 H
+11 11 11  
+
+44! %
+;; II 
+
+;;% (
+
+;;7 ;
+== ?? CCA E
+@@ @@ @@  
+
+CC! %
+
+GG 
+GG* -II 
+GG< @II ÷
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_21.cs
 
  B
    %% .. 
@@ -14510,48 +14521,45 @@
 $$ && ((= A
 ++ && 
 
-(( !
-++' *335 8
+(( !
+++' *33 77) ,
 
 ++9 =2
--- 00 :: GG II 
-33% 244 !77* 7
-77 '::) 5
-<<+ =>>: L
-MM !ZZ cc 
-NN !uu ~~ 
+-- 00 77 DD FF 
+99+ =;;: L
+JJ !WW `` 
+KK !rr {{ 
 
-PP 
-PP* -RR SS 
-PP< @RR SS 
-WW RR 
-rr SS 
-WW& )[[ "
-WW8 <[[$ (
-YY [[ ]]= A
-`` [[ 
+MM 
+MM* -OO PP 
+MM< @OO PP 
+TT OO 
+oo PP 
+TT& )XX "
+TT8 <XX$ (
+VV XX ZZ= A
+]] XX 
 
-]] !
+ZZ !
 
-``, /
+]], /
 
-``> B(
-bb gg ll nn 
-rr& )vv "
-rr8 <vv$ (
-tt vv xx= A
-{{ vv 
+]]> B(
+__ dd ii kk 
+oo& )ss "
+oo8 <ss$ (
+qq ss uu= A
+xx ss 
 
-xx !
+uu !
 
-{{, /
+xx, /
 
-{{> B.
-}} 
- 
-‡‡ 
-‰‰ š
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_22a.cs
+xx> B,
+zz ~~ 
+„„ 
+†† š
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_22a.cs
 
  C
  &$$ 
@@ -14579,67 +14587,63 @@
 @@8 <DDa e
 BB DD FF= A
 
-FF !–
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_22b.cs
+FF !ê
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_22b.cs
 
  C
 
- 
-, /%%5 8
+ 
+, /%% ))) ,
 
 > B2
- "" ,, 99 ;; 
-%%% 2&& !))* 7
-)) ',,) 5
-..+ =00: L
+ "" )) 66 88 
++++ =--: L
 
-AA $
+>> $
 
-AA1 4
+>>1 4
 
-AAC G(
-CC HH MM OO 
+>>C G(
+@@ EE JJ LL 
 
-SS $
+PP $
 
-SS1 4
+PP1 4
 
-SSC G(
-UU YY __ aa ù
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_31.cs
+PPC G(
+RR VV \\ ^^ Í
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_31.cs
 
  B
 
-   
-  ) ,((5 8
+   
+  ) ,(( ,,) ,
 
   ; ?
-"" 77 :: (
-$$ %% // 77 
-((% 2)) !,,* 7
-,, '//) 5
-11+ =33: L
-:: <<A E
+"" 44 77 (
+$$ %% ,, 44 
+..+ =00: L
+77 99A E
 
-<<! %
+99! %
 
-AA 
-AA* -CC 
-AA< @CC 
-GG CC 
+>> 
+>>* -@@ 
+>>< @@@ 
+DD @@ 
 
-GG% (
+DD% (
 
-GG7 ;
-II NN QQ 
-KK MM NN 
-QQ SSA E
+DD7 ;
+FF KK NN 
+HH JJ KK 
+NN PPA E
 
-SS! %½
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_41.cs
+PP! %‘
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_41.cs
 
  B
- 99 
+ 66 
 $ (!!= A
 
 7 :
@@ -14648,69 +14652,65 @@
 
 !! !
 
-$$ 
-$$) ,**1 499 
-$$; ?99  (
-&& '' 11 99 
-**! .++ ..& 3
-.. #11% 1
-33' 9556 H
+$$ (
+$$) ,** ..% (66 
+$$; ?66  (
+&& '' .. 66 
+00' 9226 H
 
-== 
-==* -?? 
-==< @?? 
-II ?? 
-BB #NN 
-BB( ,EE= A
+:: 
+::* -<< 
+::< @<< 
+FF << 
+?? #KK 
+??( ,BB= A
 
-BB; >
+??; >
 
-BBM Q
+??M Q
 
-EE !
-II, /NN 
-II> BNN  $
-KK MM NN ½
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_42.cs
+BB !
+FF, /KK 
+FF> BKK  $
+HH JJ KK ‘
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_42.cs
 
  B
-  99 
-- 0$$1 4
+  66 
+- 0$$ ((% (
 
 ? C(
-   !! ++ 33 
-$$! .%% ((& 3
-(( #++% 1
---' 9//6 H
+   !! (( 00 
+**' 9,,6 H
 
-77 
-77) ,99  
-77; ?99" &
-99 ;;= A
+44 
+44) ,66  
+44; ?66" &
+66 88= A
 
-;; !
-?? $JJ  
+88 !
+<< $GG  
 
-??1 4
+<<1 4
 
-??C G
-AA CC DD 
-HH QQ 
-HH, /JJ! $
-HH> BJJ& *
-JJ LL= A
+<<C G
+>> @@ AA 
+EE NN 
+EE, /GG! $
+EE> BGG& *
+GG II= A
 
-LL !
+II !
 
-OO 
-OO* -QQ 
-OO< @QQ ý
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_45.cs
+LL 
+LL* -NN 
+LL< @NN Ñ
+¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_45.cs
 
  B
- $$ ?? 
-   KK VV 
-"" @@ 
+ $$ << 
+   HH SS 
+"" == 
 
 ""% (
 
@@ -14719,49 +14719,45 @@
 
 && !
 
-** 
-**) ,001 4@@ 
-**; ?@@ (
-,, -- 77 ?? 
-00! .11 44& 3
-44 #77% 1
-99' 9;;6 H
+** (
+**) ,00 44% (== 
+**; ?== (
+,, -- 44 << 
+66' 9886 H
 
-DD 
-DD* -FF 
-DD< @FF 
-QQ FF 
-II WW 
+AA 
+AA* -CC 
+AA< @CC 
+NN CC 
+FF TT 
 
-II) ,
+FF) ,
 
-II; ?
-KK MM= A
+FF; ?
+HH JJ= A
 
-MM !
-QQ% (WW 
-QQ7 ;WW 
-SS UU VV ž
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_51a.cs
+JJ !
+NN% (TT 
+NN7 ;TT 
+PP RR SS ò
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_51a.cs
 
  C
 
- 
-) ,""1 411U X
-; ?11Z ^(
-  )) 11N R
-""! .## &&& 3
-&& #))% 1
-++' 9--6 H
+ (
+) ,"" &&% (..U X
+; ?..Z ^(
+  && ..N R
+((' 9**6 H
 
-55 
-55* -77 
-55< @77 
-;; 77 
-;;% (@@Y \
-;;7 ;@@^ b
-== ?? @@R VØ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_51b.cs
+22 
+22* -44 
+22< @44 
+88 44 
+88% (==Y \
+887 ;==^ b
+:: << ==R VØ
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_51b.cs
 
  C
 
@@ -14781,27 +14777,25 @@
 
 %%L P
 
-(( !ž
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_52a.cs
+(( !ò
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_52a.cs
 
  C
 
- 
-) ,##1 422U X
-; ?22Z ^(
-    ** 22N R
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//U X
+; ?//Z ^(
+    '' //N R
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAY \
-<<7 ;AA^ b
->> @@ AAR Vè
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_52b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>Y \
+997 ;>>^ b
+;; == >>R Vè
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_52b.cs
 
  C
 
@@ -14814,7 +14808,7 @@
 ##' +%%R V
 ##: =%%Y \
 ##L P%%^ bØ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_52c.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_52c.cs
 
  C
 
@@ -14834,27 +14828,25 @@
 
 &&L P
 
-)) !ž
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_53a.cs
+)) !ò
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_53a.cs
 
  C
 
- 
-) ,##1 422U X
-; ?22Z ^(
-    ** 22N R
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//U X
+; ?//Z ^(
+    '' //N R
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAY \
-<<7 ;AA^ b
->> @@ AAR Vè
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_53b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>Y \
+997 ;>>^ b
+;; == >>R Vè
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_53b.cs
 
  C
 
@@ -14867,7 +14859,7 @@
 ##' +%%R V
 ##: =%%Y \
 ##L P%%^ bè
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_53c.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_53c.cs
 
  C
 
@@ -14880,7 +14872,7 @@
 ##' +%%R V
 ##: =%%Y \
 ##L P%%^ bØ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_53d.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_53d.cs
 
  C
 
@@ -14900,27 +14892,25 @@
 
 &&L P
 
-)) !ž
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_54a.cs
+)) !ò
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_54a.cs
 
  C
 
- 
-) ,##1 422U X
-; ?22Z ^(
-    ** 22N R
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//U X
+; ?//Z ^(
+    '' //N R
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAY \
-<<7 ;AA^ b
->> @@ AAR Vè
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_54b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>Y \
+997 ;>>^ b
+;; == >>R Vè
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_54b.cs
 
  C
 
@@ -14933,7 +14923,7 @@
 ##' +%%R V
 ##: =%%Y \
 ##L P%%^ bè
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_54c.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_54c.cs
 
  C
 
@@ -14946,7 +14936,7 @@
 ##' +%%R V
 ##: =%%Y \
 ##L P%%^ bè
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_54d.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_54d.cs
 
  C
 
@@ -14959,7 +14949,7 @@
 ##' +%%R V
 ##: =%%Y \
 ##L P%%^ bØ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_54e.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_54e.cs
 
  C
 
@@ -14980,7 +14970,7 @@
 &&L P
 
 )) !Â
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_61a.cs
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_61a.cs
 
  C
 
@@ -14999,48 +14989,44 @@
 ++> B--d h
 -- //= A
 
-// !´
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_61b.cs
+// !ˆ
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_61b.cs
 
  C
 
- 
-, /##1 4
+ 
+, /## ''% (
 
 > B(
-    ** 22 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+    '' // 
+))' 9++6 H
 
-88 #
+55 #
 
-880 3
+550 3
 
-88B F
-:: << == Þ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_66a.cs
+55B F
+77 99 :: ²
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_66a.cs
 
  C
 
- 
-* -##1 444Z ]
-< @44_ c(
-    ** 33 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
-22 33 44N W
+ (
+* -## ''% (11Z ]
+< @11_ c(
+    '' 00 
+))' 9++6 H
+// 00 11N W
 
-88 
-88* -:: 
-88< @:: 
->> :: 
->>, /EE^ a
->>> BEEc g
-@@ BB DD 
-CC DD EER [„
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_66b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /BB^ a
+;;> BBBc g
+== ?? AA 
+@@ AA BBR [„
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_66b.cs
 
  C
 
@@ -15062,31 +15048,29 @@
 ''S W
 )) ++= A
 
-++ !²
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_67a.cs
+++ !†
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_67a.cs
 
  C2
- 77 77& /HH HH& /
- 88 "II "
+ 44 44& /EE EE& /
+ 55 "FF "
 
-"" 
-"") ,((1 499^ a
-""; ?99c g(
-$$ %% // 88% )
-((! .)) ,,& 3
-,, #//% 1
-11' 9336 H
-77 88 99N [
+"" (
+"") ,(( ,,% (66^ a
+""; ?66c g(
+$$ %% ,, 55% )
+..' 9006 H
+44 55 66N [
 
-== 
-==* -?? 
-==< @?? 
-CC ?? 
-CC, /JJb e
-CC> BJJg k
-EE GG II% )
-HH II JJR _Œ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_67b.cs
+:: 
+::* -<< 
+::< @<< 
+@@ << 
+@@, /GGb e
+@@> BGGg k
+BB DD FF% )
+EE FF GGR _Œ
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_67b.cs
 
  C
 
@@ -15108,26 +15092,24 @@
 ''™ 
 )) ++= A
 
-++ !þ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_68a.cs
+++ !Ò
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_68a.cs
 
  C(
-    ** ?? 
+    '' << 
 
- 
-) ,##1 422N Q
-; ?22S W
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//N Q
+; ?//S W
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<, /@@R U
-<<> B@@W [Ø
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_68b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99, /==R U
+99> B==W [Ø
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_68b.cs
 
  C
 
@@ -15147,27 +15129,25 @@
 &&A E
 (( **= A
 
-** !ž
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_71a.cs
+** !ò
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_71a.cs
 
  C
 
- 
-) ,##1 422] `
-; ?22b f(
-    ** 22V Z
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//] `
+; ?//b f(
+    '' //V Z
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<, /AAa d
-<<> BAAf j
->> @@ AAZ ^„
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_71b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99, />>a d
+99> B>>f j
+;; == >>Z ^„
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_71b.cs
 
  C
 
@@ -15189,29 +15169,27 @@
 ((U Y
 ** ,,= A
 
-,, !®
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_72a.cs
+,, !‚
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_72a.cs
 
  C
 
- 
-) ,##1 466^ a
-; ?66c g<
-    ** 33 !44 !55 !
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H2
-22 33 44 55 66N [
+ (
+) ,## ''% (33^ a
+; ?33c g<
+    '' 00 !11 !22 !
+))' 9++6 H2
+// 00 11 22 33N [
 
-:: 
-::* -<< 
-::< @<< 
-@@ << 
-@@, /IIb e
-@@> BIIg k2
-BB DD FF !GG !HH !2
-EE FF GG HH IIR _„
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_72b.cs
+77 
+77* -99 
+77< @99 
+== 99 
+==, /FFb e
+==> BFFg k2
+?? AA CC !DD !EE !2
+BB CC DD EE FFR _„
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_72b.cs
 
  C
 
@@ -15233,29 +15211,27 @@
 (([ _
 ** ,,= A
 
-,, !®
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_73a.cs
+,, !‚
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_73a.cs
 
  C
 
- 
-) ,$$1 477_ b
-; ?77d h<
-   !! ++ 44 #55 #66 #
-$$! .%% ((& 3
-(( #++% 1
---' 9//6 H2
-33 &44 55 66 77N \
+ (
+) ,$$ ((% (44_ b
+; ?44d h<
+   !! (( 11 #22 #33 #
+**' 9,,6 H2
+00 &11 22 33 44N \
 
-;; 
-;;* -== 
-;;< @== 
-AA == 
-AA, /JJc f
-AA> BJJh l2
-CC EE GG #HH #II #2
-FF &GG HH II JJR `„
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_73b.cs
+88 
+88* -:: 
+88< @:: 
+>> :: 
+>>, /GGc f
+>>> BGGh l2
+@@ BB DD #EE #FF #2
+CC &DD EE FF GGR `„
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_73b.cs
 
  C
 
@@ -15277,29 +15253,27 @@
 ''b f
 )) ++= A
 
-++ !®
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_74a.cs
+++ !‚
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_74a.cs
 
  C
 
- 
-) ,##1 466_ b
-; ?66d h<
-    ** 33 "44 "55 "
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H2
-22 *33 44 55 66N \
+ (
+) ,## ''% (33_ b
+; ?33d h<
+    '' 00 "11 "22 "
+))' 9++6 H2
+// *00 11 22 33N \
 
-:: 
-::* -<< 
-::< @<< 
-@@ << 
-@@, /IIc f
-@@> BIIh l2
-BB DD FF "GG "HH "2
-EE *FF GG HH IIR `„
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_74b.cs
+77 
+77* -99 
+77< @99 
+== 99 
+==, /FFc f
+==> BFFh l2
+?? AA CC "DD "EE "2
+BB *CC DD EE FFR `„
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_74b.cs
 
  C
 
@@ -15321,35 +15295,33 @@
 ''f j
 )) ++= A
 
-++ !ö
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_75a.cs
+++ !Ê
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_75a.cs
 
  C
 
- 
-) ,%%1 4>>c f
-; ?>>h l(
-!! "" ,, ;;! %
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
-55 << >>R `
-88 ;; 
-99 ;; <<! #
-@@& 5BBZ i
+ (
+) ,%% ))% (;;c f
+; ?;;h l(
+!! "" )) 88! %
+++' 9--6 H
+22 99 ;;R `
+55 88 
+66 88 99! #
+==& 5??Z i
 
-GG 
-GG* -II 
-GG< @II 
-MM II 
-MM, /\\g j
-MM> B\\l p
-OO QQ YY! %
-SS ZZ \\V d
-VV YY 
-WW YY ZZ! #
-^^& 5``Z iØ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_75b.cs
+DD 
+DD* -FF 
+DD< @FF 
+JJ FF 
+JJ, /YYg j
+JJ> BYYl p
+LL NN VV! %
+PP WW YYV d
+SS VV 
+TT VV WW! #
+[[& 5]]Z iØ
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_75b.cs
 
  C
 
@@ -15377,29 +15349,27 @@
 >>  @@ AA BB0 9
 
 EE! %
-GG& 5II[ jÊ
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_81a.cs
+GG& 5II[ jž
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_81a.cs
 
  C
 
- 
-) ,##1 433! $
-; ?33& *(
-    ** 33 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
-22J T33 
+ (
+) ,## ''% (00! $
+; ?00& *(
+    '' 00 
+))' 9++6 H
+//J T00 
 
-77 
-77* -99 
-77< @99 
-== 99 
-==% (CC! $
-==7 ;CC& *
-?? AA CC 
-BBJ TCC •
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_81_bad.cs
+44 
+44* -66 
+44< @66 
+:: 66 
+::% (@@! $
+::7 ;@@& *
+<< >> @@ 
+??J T@@ •
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_81_bad.cs
 
  F
 
@@ -15411,7 +15381,7 @@
 I M
 
 !! !€
-ÁC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_81_base.cs
+ÁC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_81_base.cs
 
  P
 
@@ -15422,7 +15392,7 @@
 7 :
 
 I M™
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_Dictionary_81_goodG2B.cs
+ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_Dictionary_81_goodG2B.cs
 
  J
 
@@ -15433,564 +15403,530 @@
 
 I M
 
-!! !Š
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_01.cs
+!! !Þ
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_01.cs
 
  ?
 
- 
-) ,%%1 4
+ 
+) ,%% ))% (
 
 ; ?(
-!! "" ,, 553 7
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
+!! "" )) 223 7
+++' 9--6 H
 
-55 
+22 
 
-99 
-99* -;; 
-99< @;; 
-?? ;; 
+66 
+66* -88 
+66< @88 
+<< 88 
 
-??% (
+<<% (
 
-??7 ;
-AA CC EE3 7
+<<7 ;
+>> @@ BB3 7
 
-EE –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_02.cs
+BB ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_02.cs
 
  ?
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
 ; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+!! $$ ++ 88 ;;3 7
+--+ =//: L
 
->> 
-CC jj 
+;; 
+@@ gg 
 
-CC& )
+@@& )
 
-CC8 <(
-EE JJ OO RR3 7
+@@8 <(
+BB GG LL OO3 7
 
-RR 
-VV kk 
+OO 
+SS hh 
 
-VV& )
+SS& )
 
-VV8 <(
-XX \\ bb ee3 7
+SS8 <(
+UU YY __ bb3 7
 
-ee 
+bb 
 
-hh 
-hh* -jj kk 
-hh< @jj kk –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_03.cs
+ee 
+ee* -gg hh 
+ee< @gg hh ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_03.cs
 
  ?
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
 ; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+!! $$ ++ 88 ;;3 7
+--+ =//: L
 
->> 
-CC jj 
+;; 
+@@ gg 
 
-CC& )
+@@& )
 
-CC8 <(
-EE JJ OO RR3 7
+@@8 <(
+BB GG LL OO3 7
 
-RR 
-VV kk 
+OO 
+SS hh 
 
-VV& )
+SS& )
 
-VV8 <(
-XX \\ bb ee3 7
+SS8 <(
+UU YY __ bb3 7
 
-ee 
+bb 
 
-hh 
-hh* -jj kk 
-hh< @jj kk Ì
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_04.cs
+ee 
+ee* -gg hh 
+ee< @gg hh  
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_04.cs
 
  ?
-"" ))) `` 
-## *MM 
+"" ))) ]] 
+## *JJ 
 
-&& 
-&&) ,..5 8
+&& 
+&&) ,.. 22) ,
 
 &&; ?2
-(( ++ 55 BB EE3 7
-..% 2// !22* 7
-22 '55) 5
-77+ =99: L
+(( ++ 22 ?? BB3 7
+44+ =66: L
 
-EE 
-JJ qq 
+BB 
+GG nn 
 
-JJ& )
+GG& )
 
-JJ8 <(
-LL QQ VV YY3 7
+GG8 <(
+II NN SS VV3 7
 
-YY 
-]] rr 
+VV 
+ZZ oo 
 
-]]& )
+ZZ& )
 
-]]8 <(
-__ cc ii ll3 7
+ZZ8 <(
+\\ `` ff ii3 7
 
-ll 
+ii 
 
-oo 
-oo* -qq rr 
-oo< @qq rr Ì
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_05.cs
+ll 
+ll* -nn oo 
+ll< @nn oo  
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_05.cs
 
  ?
-"" )) `` 
-## MM 
+"" )) ]] 
+## JJ 
 
-&& 
-&&) ,..5 8
+&& 
+&&) ,.. 22) ,
 
 &&; ?2
-(( ++ 55 BB EE3 7
-..% 2// !22* 7
-22 '55) 5
-77+ =99: L
+(( ++ 22 ?? BB3 7
+44+ =66: L
 
-EE 
-JJ qq 
+BB 
+GG nn 
 
-JJ& )
+GG& )
 
-JJ8 <(
-LL QQ VV YY3 7
+GG8 <(
+II NN SS VV3 7
 
-YY 
-]] rr 
+VV 
+ZZ oo 
 
-]]& )
+ZZ& )
 
-]]8 <(
-__ cc ii ll3 7
+ZZ8 <(
+\\ `` ff ii3 7
 
-ll 
+ii 
 
-oo 
-oo* -qq rr 
-oo< @qq rr À
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_06.cs
+ll 
+ll* -nn oo 
+ll< @nn oo ”
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_06.cs
 
  ?(
-"" ((( LL __ 
+"" ((( II \\ 
 
-%% 
-%%) ,--5 8
-
-%%; ?2
-'' ** 44 AA DD3 7
---% 2.. !11* 7
-11 '44) 5
-66+ =88: L
-
-DD 
-II pp 
-
-II& )
-
-II8 <(
-KK PP UU XX3 7
-
-XX 
-\\ qq 
-
-\\& )
-
-\\8 <(
-^^ bb hh kk3 7
-
-kk 
-
-nn 
-nn* -pp qq 
-nn< @pp qq À
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_07.cs
-
- ?(
-"" (( LL __ 
-
-%% 
-%%) ,--5 8
+%% 
+%%) ,-- 11) ,
 
 %%; ?2
-'' ** 44 AA DD3 7
---% 2.. !11* 7
-11 '44) 5
-66+ =88: L
+'' ** 11 >> AA3 7
+33+ =55: L
 
-DD 
-II pp 
+AA 
+FF mm 
 
-II& )
+FF& )
 
-II8 <(
-KK PP UU XX3 7
+FF8 <(
+HH MM RR UU3 7
 
-XX 
-\\ qq 
+UU 
+YY nn 
 
-\\& )
+YY& )
 
-\\8 <(
-^^ bb hh kk3 7
-
-kk 
-
-nn 
-nn* -pp qq 
-nn< @pp qq Ì
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_08.cs
-
- ?
-"" *00 gg 
-'' +TT 
-
--- 
---) ,555 8
-
---; ?2
-// 22 << II LL3 7
-55% 266 !99* 7
-99 '<<) 5
->>+ =@@: L
-
-LL 
-QQ xx 
-
-QQ& )
-
-QQ8 <(
-SS XX ]] ``3 7
-
-`` 
-dd yy 
-
-dd& )
-
-dd8 <(
-ff jj pp ss3 7
-
-ss 
-
-vv 
-vv* -xx yy 
-vv< @xx yy –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_09.cs
-
- ?
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR3 7
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee3 7
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_10.cs
-
- ?
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR3 7
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee3 7
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_11.cs
-
- ?
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR3 7
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee3 7
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk ž
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_12.cs
-
- ?
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. :: ==3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
-== 
-CC VV 
-
-CC% (
-
-CC7 ;(
-EE II NN QQ3 7
-
-QQ 
-
-TT 
-TT* -VV 
-TT< @VV –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_13.cs
-
- ?
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR3 7
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee3 7
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_14.cs
-
- ?
-
- 
-) ,''5 8
-
-; ?2
-!! $$ .. ;; >>3 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
-
->> 
-CC jj 
-
-CC& )
-
-CC8 <(
-EE JJ OO RR3 7
-
-RR 
-VV kk 
-
-VV& )
-
-VV8 <(
-XX \\ bb ee3 7
-
-ee 
-
-hh 
-hh* -jj kk 
-hh< @jj kk –
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_15.cs
-
- ?
-
- 
-) ,((5 8
-
-; ?2
-!! %% // ;; ??3 7
-((% 2)) !,,* 7
-,, '//) 5
-11+ =33: L
-
-?? 
-DD mm 
-
-DD& )
-
-DD8 <(
-FF LL PP TT3 7
-
-TT 
-XX nn 
-
-XX& )
-
-XX8 <(
-ZZ __ dd hh3 7
+YY8 <(
+[[ __ ee hh3 7
 
 hh 
 
 kk 
 kk* -mm nn 
-kk< @mm nn Š
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_16.cs
+kk< @mm nn ”
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_07.cs
+
+ ?(
+"" (( II \\ 
+
+%% 
+%%) ,-- 11) ,
+
+%%; ?2
+'' ** 11 >> AA3 7
+33+ =55: L
+
+AA 
+FF mm 
+
+FF& )
+
+FF8 <(
+HH MM RR UU3 7
+
+UU 
+YY nn 
+
+YY& )
+
+YY8 <(
+[[ __ ee hh3 7
+
+hh 
+
+kk 
+kk* -mm nn 
+kk< @mm nn  
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_08.cs
+
+ ?
+"" *00 dd 
+'' +QQ 
+
+-- 
+--) ,55 99) ,
+
+--; ?2
+// 22 99 FF II3 7
+;;+ ===: L
+
+II 
+NN uu 
+
+NN& )
+
+NN8 <(
+PP UU ZZ ]]3 7
+
+]] 
+aa vv 
+
+aa& )
+
+aa8 <(
+cc gg mm pp3 7
+
+pp 
+
+ss 
+ss* -uu vv 
+ss< @uu vv ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_09.cs
 
  ?
 
- 
-) ,''5 8
+ 
+) ,'' ++) ,
 
-; ?(
-!! $$ .. 993 7
-''% 2(( !++* 7
-++ '..) 5
-00+ =22: L
+; ?2
+!! $$ ++ 88 ;;3 7
+--+ =//: L
 
-99 
->> MM 
+;; 
+@@ gg 
 
->>% (
+@@& )
 
->>7 ;
-@@ DD HH3 7
+@@8 <(
+BB GG LL OO3 7
 
-HH 
+OO 
+SS hh 
 
-KK 
-KK* -MM 
-KK< @MM Ê
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_17.cs
+SS& )
+
+SS8 <(
+UU YY __ bb3 7
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_10.cs
 
  ?
 
- 
-) ,%%1 4
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;3 7
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO3 7
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb3 7
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_11.cs
+
+ ?
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;3 7
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO3 7
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb3 7
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ò
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_12.cs
+
+ ?
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 77 ::3 7
+--+ =//: L
+
+:: 
+@@ SS 
+
+@@% (
+
+@@7 ;(
+BB FF KK NN3 7
+
+NN 
+
+QQ 
+QQ* -SS 
+QQ< @SS ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_13.cs
+
+ ?
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;3 7
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO3 7
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb3 7
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_14.cs
+
+ ?
+
+ 
+) ,'' ++) ,
+
+; ?2
+!! $$ ++ 88 ;;3 7
+--+ =//: L
+
+;; 
+@@ gg 
+
+@@& )
+
+@@8 <(
+BB GG LL OO3 7
+
+OO 
+SS hh 
+
+SS& )
+
+SS8 <(
+UU YY __ bb3 7
+
+bb 
+
+ee 
+ee* -gg hh 
+ee< @gg hh ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_15.cs
+
+ ?
+
+ 
+) ,(( ,,) ,
+
+; ?2
+!! %% ,, 88 <<3 7
+..+ =00: L
+
+<< 
+AA jj 
+
+AA& )
+
+AA8 <(
+CC II MM QQ3 7
+
+QQ 
+UU kk 
+
+UU& )
+
+UU8 <(
+WW \\ aa ee3 7
+
+ee 
+
+hh 
+hh* -jj kk 
+hh< @jj kk Þ
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_16.cs
+
+ ?
+
+ 
+) ,'' ++) ,
 
 ; ?(
-!! "" ,, 777 ;
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
-44 44 44  
+!! $$ ++ 663 7
+--+ =//: L
 
-77 #
->> LL 
+66 
+;; JJ 
 
->>% (
+;;% (
 
->>7 ;
-@@ BB FF7 ;
-CC CC CC  
+;;7 ;
+== AA EE3 7
 
-FF #
+EE 
 
-JJ 
-JJ* -LL 
-JJ< @LL ¢
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_21.cs
+HH 
+HH* -JJ 
+HH< @JJ ž
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_17.cs
+
+ ?
+
+ 
+) ,%% ))% (
+
+; ?(
+!! "" )) 447 ;
+++' 9--6 H
+11 11 11  
+
+44 #
+;; II 
+
+;;% (
+
+;;7 ;
+== ?? CC7 ;
+@@ @@ @@  
+
+CC #
+
+GG 
+GG* -II 
+GG< @II ô
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_21.cs
 
  ?
    %% .. 
@@ -16001,48 +15937,45 @@
 $$ && ((3 7
 ++ && 
 
-(( 
-++' *335 8
+(( 
+++' *33 77) ,
 
 ++9 =2
--- 00 :: GG II 
-33% 244 !77* 7
-77 '::) 5
-<<+ =>>: L
-MM !ZZ cc 
-NN !uu ~~ 
+-- 00 77 DD FF 
+99+ =;;: L
+JJ !WW `` 
+KK !rr {{ 
 
-PP 
-PP* -RR SS 
-PP< @RR SS 
-WW RR 
-rr SS 
-WW& )[[ "
-WW8 <[[$ (
-YY [[ ]]3 7
-`` [[ 
+MM 
+MM* -OO PP 
+MM< @OO PP 
+TT OO 
+oo PP 
+TT& )XX "
+TT8 <XX$ (
+VV XX ZZ3 7
+]] XX 
 
-]] 
+ZZ 
 
-``, /
+]], /
 
-``> B(
-bb gg ll nn 
-rr& )vv "
-rr8 <vv$ (
-tt vv xx3 7
-{{ vv 
+]]> B(
+__ dd ii kk 
+oo& )ss "
+oo8 <ss$ (
+qq ss uu3 7
+xx ss 
 
-xx 
+uu 
 
-{{, /
+xx, /
 
-{{> B.
-}} 
- 
-‡‡ 
-‰‰ —
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_22a.cs
+xx> B,
+zz ~~ 
+„„ 
+†† —
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_22a.cs
 
  @
  &$$ 
@@ -16070,67 +16003,63 @@
 @@8 <DD^ b
 BB DD FF3 7
 
-FF “
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_22b.cs
+FF ç
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_22b.cs
 
  @
 
- 
-, /%%5 8
+ 
+, /%% ))) ,
 
 > B2
- "" ,, 99 ;; 
-%%% 2&& !))* 7
-)) ',,) 5
-..+ =00: L
+ "" )) 66 88 
++++ =--: L
 
-AA $
+>> $
 
-AA1 4
+>>1 4
 
-AAC G(
-CC HH MM OO 
+>>C G(
+@@ EE JJ LL 
 
-SS $
+PP $
 
-SS1 4
+PP1 4
 
-SSC G(
-UU YY __ aa ö
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_31.cs
+PPC G(
+RR VV \\ ^^ Ê
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_31.cs
 
  ?
 
-   
-  ) ,((5 8
+   
+  ) ,(( ,,) ,
 
   ; ?
-"" 77 :: (
-$$ %% // 77 
-((% 2)) !,,* 7
-,, '//) 5
-11+ =33: L
-:: <<7 ;
+"" 44 77 (
+$$ %% ,, 44 
+..+ =00: L
+77 997 ;
 
-<< #
+99 #
 
-AA 
-AA* -CC 
-AA< @CC 
-GG CC 
+>> 
+>>* -@@ 
+>>< @@@ 
+DD @@ 
 
-GG% (
+DD% (
 
-GG7 ;
-II NN QQ 
-KK MM NN 
-QQ SS7 ;
+DD7 ;
+FF KK NN 
+HH JJ KK 
+NN PP7 ;
 
-SS #º
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_41.cs
+PP #Ž
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_41.cs
 
  ?
- 99 
+ 66 
 $ (!!3 7
 
 7 :
@@ -16139,69 +16068,65 @@
 
 !! 
 
-$$ 
-$$) ,**1 499 
-$$; ?99  (
-&& '' 11 99 
-**! .++ ..& 3
-.. #11% 1
-33' 9556 H
+$$ (
+$$) ,** ..% (66 
+$$; ?66  (
+&& '' .. 66 
+00' 9226 H
 
-== 
-==* -?? 
-==< @?? 
-II ?? 
-BB #NN 
-BB( ,EE3 7
+:: 
+::* -<< 
+::< @<< 
+FF << 
+?? #KK 
+??( ,BB3 7
 
-BB; >
+??; >
 
-BBM Q
+??M Q
 
-EE 
-II, /NN 
-II> BNN  $
-KK MM NN º
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_42.cs
+BB 
+FF, /KK 
+FF> BKK  $
+HH JJ KK Ž
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_42.cs
 
  ?
-  99 
-- 0$$1 4
+  66 
+- 0$$ ((% (
 
 ? C(
-   !! ++ 33 
-$$! .%% ((& 3
-(( #++% 1
---' 9//6 H
+   !! (( 00 
+**' 9,,6 H
 
-77 
-77) ,99  
-77; ?99" &
-99 ;;3 7
+44 
+44) ,66  
+44; ?66" &
+66 883 7
 
-;; 
-?? $JJ  
+88 
+<< $GG  
 
-??1 4
+<<1 4
 
-??C G
-AA CC DD 
-HH QQ 
-HH, /JJ! $
-HH> BJJ& *
-JJ LL3 7
+<<C G
+>> @@ AA 
+EE NN 
+EE, /GG! $
+EE> BGG& *
+GG II3 7
 
-LL 
+II 
 
-OO 
-OO* -QQ 
-OO< @QQ ú
-¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_45.cs
+LL 
+LL* -NN 
+LL< @NN Î
+¹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_45.cs
 
  ?
- $$ ?? 
-   KK VV 
-"" @@ 
+ $$ << 
+   HH SS 
+"" == 
 
 ""% (
 
@@ -16210,49 +16135,45 @@
 
 && 
 
-** 
-**) ,001 4@@ 
-**; ?@@ (
-,, -- 77 ?? 
-00! .11 44& 3
-44 #77% 1
-99' 9;;6 H
+** (
+**) ,00 44% (== 
+**; ?== (
+,, -- 44 << 
+66' 9886 H
 
-DD 
-DD* -FF 
-DD< @FF 
-QQ FF 
-II WW 
+AA 
+AA* -CC 
+AA< @CC 
+NN CC 
+FF TT 
 
-II) ,
+FF) ,
 
-II; ?
-KK MM3 7
+FF; ?
+HH JJ3 7
 
-MM 
-QQ% (WW 
-QQ7 ;WW 
-SS UU VV ›
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_51a.cs
+JJ 
+NN% (TT 
+NN7 ;TT 
+PP RR SS ï
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_51a.cs
 
  @
 
- 
-) ,""1 411R U
-; ?11W [(
-  )) 11K O
-""! .## &&& 3
-&& #))% 1
-++' 9--6 H
+ (
+) ,"" &&% (..R U
+; ?..W [(
+  && ..K O
+((' 9**6 H
 
-55 
-55* -77 
-55< @77 
-;; 77 
-;;% (@@V Y
-;;7 ;@@[ _
-== ?? @@O SÕ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_51b.cs
+22 
+22* -44 
+22< @44 
+88 44 
+88% (==V Y
+887 ;==[ _
+:: << ==O SÕ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_51b.cs
 
  @
 
@@ -16272,27 +16193,25 @@
 
 %%L P
 
-(( ›
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_52a.cs
+(( ï
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_52a.cs
 
  @
 
- 
-) ,##1 422R U
-; ?22W [(
-    ** 22K O
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//R U
+; ?//W [(
+    '' //K O
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAV Y
-<<7 ;AA[ _
->> @@ AAO Så
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_52b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>V Y
+997 ;>>[ _
+;; == >>O Så
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_52b.cs
 
  @
 
@@ -16305,7 +16224,7 @@
 ##' +%%O S
 ##: =%%V Y
 ##L P%%[ _Õ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_52c.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_52c.cs
 
  @
 
@@ -16325,27 +16244,25 @@
 
 &&L P
 
-)) ›
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_53a.cs
+)) ï
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_53a.cs
 
  @
 
- 
-) ,##1 422R U
-; ?22W [(
-    ** 22K O
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//R U
+; ?//W [(
+    '' //K O
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAV Y
-<<7 ;AA[ _
->> @@ AAO Så
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_53b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>V Y
+997 ;>>[ _
+;; == >>O Så
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_53b.cs
 
  @
 
@@ -16358,7 +16275,7 @@
 ##' +%%O S
 ##: =%%V Y
 ##L P%%[ _å
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_53c.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_53c.cs
 
  @
 
@@ -16371,7 +16288,7 @@
 ##' +%%O S
 ##: =%%V Y
 ##L P%%[ _Õ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_53d.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_53d.cs
 
  @
 
@@ -16391,27 +16308,25 @@
 
 &&L P
 
-)) ›
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_54a.cs
+)) ï
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_54a.cs
 
  @
 
- 
-) ,##1 422R U
-; ?22W [(
-    ** 22K O
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//R U
+; ?//W [(
+    '' //K O
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<% (AAV Y
-<<7 ;AA[ _
->> @@ AAO Så
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_54b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99% (>>V Y
+997 ;>>[ _
+;; == >>O Så
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_54b.cs
 
  @
 
@@ -16424,7 +16339,7 @@
 ##' +%%O S
 ##: =%%V Y
 ##L P%%[ _å
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_54c.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_54c.cs
 
  @
 
@@ -16437,7 +16352,7 @@
 ##' +%%O S
 ##: =%%V Y
 ##L P%%[ _å
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_54d.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_54d.cs
 
  @
 
@@ -16450,7 +16365,7 @@
 ##' +%%O S
 ##: =%%V Y
 ##L P%%[ _Õ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_54e.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_54e.cs
 
  @
 
@@ -16471,7 +16386,7 @@
 &&L P
 
 )) ¿
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_61a.cs
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_61a.cs
 
  @
 
@@ -16490,48 +16405,44 @@
 ++> B--a e
 -- //3 7
 
-// ±
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_61b.cs
+// …
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_61b.cs
 
  @
 
- 
-, /##1 4
+ 
+, /## ''% (
 
 > B(
-    ** 22 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+    '' // 
+))' 9++6 H
 
-88 #
+55 #
 
-880 3
+550 3
 
-88B F
-:: << == Û
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_66a.cs
+55B F
+77 99 :: ¯
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_66a.cs
 
  @
 
- 
-* -##1 444W Z
-< @44\ `(
-    ** 33 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
-22 33 44K T
+ (
+* -## ''% (11W Z
+< @11\ `(
+    '' 00 
+))' 9++6 H
+// 00 11K T
 
-88 
-88* -:: 
-88< @:: 
->> :: 
->>, /EE[ ^
->>> BEE` d
-@@ BB DD 
-CC DD EEO X
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_66b.cs
+55 
+55* -77 
+55< @77 
+;; 77 
+;;, /BB[ ^
+;;> BBB` d
+== ?? AA 
+@@ AA BBO X
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_66b.cs
 
  @
 
@@ -16553,31 +16464,29 @@
 ''S W
 )) ++3 7
 
-++ ¯
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_67a.cs
+++ ƒ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_67a.cs
 
  @2
- 77 77& /HH HH& /
- 88 "II "
+ 44 44& /EE EE& /
+ 55 "FF "
 
-"" 
-"") ,((1 499[ ^
-""; ?99` d(
-$$ %% // 88% )
-((! .)) ,,& 3
-,, #//% 1
-11' 9336 H
-77 88 99K X
+"" (
+"") ,(( ,,% (66[ ^
+""; ?66` d(
+$$ %% ,, 55% )
+..' 9006 H
+44 55 66K X
 
-== 
-==* -?? 
-==< @?? 
-CC ?? 
-CC, /JJ_ b
-CC> BJJd h
-EE GG II% )
-HH II JJO \‰
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_67b.cs
+:: 
+::* -<< 
+::< @<< 
+@@ << 
+@@, /GG_ b
+@@> BGGd h
+BB DD FF% )
+EE FF GGO \‰
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_67b.cs
 
  @
 
@@ -16599,26 +16508,24 @@
 ''– š
 )) ++3 7
 
-++ û
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_68a.cs
+++ Ï
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_68a.cs
 
  @(
-    ** ?? 
+    '' << 
 
- 
-) ,##1 422K N
-; ?22P T
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//K N
+; ?//P T
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<, /@@O R
-<<> B@@T XÕ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_68b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99, /==O R
+99> B==T XÕ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_68b.cs
 
  @
 
@@ -16638,27 +16545,25 @@
 &&A E
 (( **3 7
 
-** ›
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_71a.cs
+** ï
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_71a.cs
 
  @
 
- 
-) ,##1 422Z ]
-; ?22_ c(
-    ** 22S W
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
+ (
+) ,## ''% (//Z ]
+; ?//_ c(
+    '' //S W
+))' 9++6 H
 
-66 
-66* -88 
-66< @88 
-<< 88 
-<<, /AA^ a
-<<> BAAc g
->> @@ AAW [
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_71b.cs
+33 
+33* -55 
+33< @55 
+99 55 
+99, />>^ a
+99> B>>c g
+;; == >>W [
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_71b.cs
 
  @
 
@@ -16680,29 +16585,27 @@
 ((U Y
 ** ,,3 7
 
-,, «
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_72a.cs
+,, ÿ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_72a.cs
 
  @
 
- 
-) ,##1 466[ ^
-; ?66` d<
-    ** 33 !44 !55 !
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H2
-22 33 44 55 66K X
+ (
+) ,## ''% (33[ ^
+; ?33` d<
+    '' 00 !11 !22 !
+))' 9++6 H2
+// 00 11 22 33K X
 
-:: 
-::* -<< 
-::< @<< 
-@@ << 
-@@, /II_ b
-@@> BIId h2
-BB DD FF !GG !HH !2
-EE FF GG HH IIO \
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_72b.cs
+77 
+77* -99 
+77< @99 
+== 99 
+==, /FF_ b
+==> BFFd h2
+?? AA CC !DD !EE !2
+BB CC DD EE FFO \
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_72b.cs
 
  @
 
@@ -16724,29 +16627,27 @@
 (([ _
 ** ,,3 7
 
-,, «
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_73a.cs
+,, ÿ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_73a.cs
 
  @
 
- 
-) ,$$1 477\ _
-; ?77a e<
-   !! ++ 44 #55 #66 #
-$$! .%% ((& 3
-(( #++% 1
---' 9//6 H2
-33 &44 55 66 77K Y
+ (
+) ,$$ ((% (44\ _
+; ?44a e<
+   !! (( 11 #22 #33 #
+**' 9,,6 H2
+00 &11 22 33 44K Y
 
-;; 
-;;* -== 
-;;< @== 
-AA == 
-AA, /JJ` c
-AA> BJJe i2
-CC EE GG #HH #II #2
-FF &GG HH II JJO ]
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_73b.cs
+88 
+88* -:: 
+88< @:: 
+>> :: 
+>>, /GG` c
+>>> BGGe i2
+@@ BB DD #EE #FF #2
+CC &DD EE FF GGO ]
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_73b.cs
 
  @
 
@@ -16768,29 +16669,27 @@
 ''b f
 )) ++3 7
 
-++ «
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_74a.cs
+++ ÿ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_74a.cs
 
  @
 
- 
-) ,##1 466\ _
-; ?66a e<
-    ** 33 "44 "55 "
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H2
-22 *33 44 55 66K Y
+ (
+) ,## ''% (33\ _
+; ?33a e<
+    '' 00 "11 "22 "
+))' 9++6 H2
+// *00 11 22 33K Y
 
-:: 
-::* -<< 
-::< @<< 
-@@ << 
-@@, /II` c
-@@> BIIe i2
-BB DD FF "GG "HH "2
-EE *FF GG HH IIO ]
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_74b.cs
+77 
+77* -99 
+77< @99 
+== 99 
+==, /FF` c
+==> BFFe i2
+?? AA CC "DD "EE "2
+BB *CC DD EE FFO ]
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_74b.cs
 
  @
 
@@ -16812,35 +16711,33 @@
 ''f j
 )) ++3 7
 
-++ ó
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_75a.cs
+++ Ç
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_75a.cs
 
  @
 
- 
-) ,%%1 4>>` c
-; ?>>e i(
-!! "" ,, ;;! %
-%%! .&& ))& 3
-)) #,,% 1
-..' 9006 H
-55 << >>O ]
-88 ;; 
-99 ;; <<! #
-@@& 5BBZ i
+ (
+) ,%% ))% (;;` c
+; ?;;e i(
+!! "" )) 88! %
+++' 9--6 H
+22 99 ;;O ]
+55 88 
+66 88 99! #
+==& 5??Z i
 
-GG 
-GG* -II 
-GG< @II 
-MM II 
-MM, /\\d g
-MM> B\\i m
-OO QQ YY! %
-SS ZZ \\S a
-VV YY 
-WW YY ZZ! #
-^^& 5``Z iÕ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_75b.cs
+DD 
+DD* -FF 
+DD< @FF 
+JJ FF 
+JJ, /YYd g
+JJ> BYYi m
+LL NN VV! %
+PP WW YYS a
+SS VV 
+TT VV WW! #
+[[& 5]]Z iÕ
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_75b.cs
 
  @
 
@@ -16868,29 +16765,27 @@
 >>  @@ AA BB0 9
 
 EE #
-GG& 5II[ jÇ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_81a.cs
+GG& 5II[ j›
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_81a.cs
 
  @
 
- 
-) ,##1 433! $
-; ?33& *(
-    ** 33 
-##! .$$ ''& 3
-'' #**% 1
-,,' 9..6 H
-22G Q33 
+ (
+) ,## ''% (00! $
+; ?00& *(
+    '' 00 
+))' 9++6 H
+//G Q00 
 
-77 
-77* -99 
-77< @99 
-== 99 
-==% (CC! $
-==7 ;CC& *
-?? AA CC 
-BBG QCC ’
-½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_81_bad.cs
+44 
+44* -66 
+44< @66 
+:: 66 
+::% (@@! $
+::7 ;@@& *
+<< >> @@ 
+??G Q@@ ’
+½C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_81_bad.cs
 
  C
 
@@ -16902,7 +16797,7 @@
 I M
 
 !! ý
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_81_base.cs
+¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_81_base.cs
 
  M
 
@@ -16913,7 +16808,7 @@
 7 :
 
 I M–
-ÁC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Get_Cookies_Web_HashSet_81_goodG2B.cs
+ÁC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__QueryString_Web_HashSet_81_goodG2B.cs
 
  G
 
@@ -16925,871 +16820,336 @@
 I M
 
 !! Ç
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_01.cs
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_01.cs
 
- ,
+ 8
 
- 
- !! 
-   !! '
+ 
+   "" $$/ 3
 
-&& 
-++ (( 
--- 44 
-33  44" +
+$$ 
 
-77( )•
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_02.cs
+(( 
+.. ** 
+00 22 44/ 3
 
- ,
+44 §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_02.cs
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+ 8
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
-
-UU, -
+ (
+   $$ ** --/ 3
 
-^^ •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_03.cs
+-- 
+22 YY (
+44 99 >> AA/ 3
 
- ,
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+TT 
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_03.cs
 
-UU, -
-
-^^ Ë
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_04.cs
-
- ,
- )"" OO 
- *22 
+ 8
 
-   
-$$ #)) 
-((  ))" +
-00 ff 
-99 #@@ !
-?? $@@& /
+ (
+   $$ ** --/ 3
 
-CC, -
-MM gg 
-QQ #XX !
-WW $XX& /
-
-[[, -
+-- 
+22 YY (
+44 99 >> AA/ 3
 
-dd Ë
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_05.cs
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
 
- ,
- "" OO 
- 22 
+TT 
 
-   
-$$ #)) 
-((  ))" +
-00 ff 
-99 #@@ !
-?? $@@& /
+WW Ý
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_04.cs
 
-CC, -
-MM gg 
-QQ #XX !
-WW $XX& /
+ 8
+!! )(( OO 
+"" *<< 
 
-[[, -
+%% (
+'' ++ 11 44/ 3
 
-dd ¿
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_06.cs
+44 
+99 `` (
+;; @@ EE HH/ 3
 
- ,(
- (!! 11 NN 
+HH 
+LL aa (
+NN RR XX [[/ 3
 
- 
-## #(( 
-''  ((" +
-// ee 
-88 #?? !
->> $??& /
-
-BB, -
-LL ff 
-PP #WW !
-VV $WW& /
-
-ZZ, -
+[[ 
 
-cc ¿
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_07.cs
+^^ Ý
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_05.cs
 
- ,(
- !! 11 NN 
+ 8
+!! (( OO 
+"" << 
 
- 
-## #(( 
-''  ((" +
-// ee 
-88 #?? !
->> $??& /
-
-BB, -
-LL ff 
-PP #WW !
-VV $WW& /
-
-ZZ, -
+%% (
+'' ++ 11 44/ 3
 
-cc Ë
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_08.cs
+44 
+99 `` (
+;; @@ EE HH/ 3
 
- ,
- *)) VV 
-"" +99 
+HH 
+LL aa (
+NN RR XX [[/ 3
 
-'' 
-++ #00 
-//  00" +
-77 mm 
-@@ #GG !
-FF $GG& /
+[[ 
 
-JJ, -
-TT nn 
-XX #__ !
-^^ $__& /
+^^ Ñ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_06.cs
 
-bb, -
+ 8(
+!! ('' ;; NN 
 
-kk •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_09.cs
+$$ (
+&& ** 00 33/ 3
 
- ,
+33 
+88 __ (
+:: ?? DD GG/ 3
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+GG 
+KK `` (
+MM QQ WW ZZ/ 3
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
+ZZ 
 
-UU, -
+]] Ñ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_07.cs
 
-^^ •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_10.cs
+ 8(
+!! '' ;; NN 
 
- ,
+$$ (
+&& ** 00 33/ 3
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+33 
+88 __ (
+:: ?? DD GG/ 3
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
+GG 
+KK `` (
+MM QQ WW ZZ/ 3
 
-UU, -
+ZZ 
 
-^^ •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_11.cs
+]] Ý
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_08.cs
 
- ,
+ 8
+!! *// VV 
+&& +CC 
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+,, (
+.. 22 88 ;;/ 3
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
+;; 
+@@ gg (
+BB GG LL OO/ 3
 
-UU, -
+OO 
+SS hh (
+UU YY __ bb/ 3
 
-^^ ·
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_12.cs
+bb 
 
- ,
+ee §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_09.cs
 
- 
- ### 
-""  ##" +
-(( #// !
-.. $//& /
+ 8
 
-22, -
-== ii 
-AA #HH !
-GG $HH& /
+ (
+   $$ ** --/ 3
 
-KK, -
-TT #[[ !
-ZZ $[[& /
+-- 
+22 YY (
+44 99 >> AA/ 3
 
-^^, -
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
 
-gg •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_13.cs
+TT 
 
- ,
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_10.cs
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+ 8
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
+ (
+   $$ ** --/ 3
 
-UU, -
+-- 
+22 YY (
+44 99 >> AA/ 3
 
-^^ •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_14.cs
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
 
- ,
+TT 
 
- 
- ### 
-""  ##" +
-** `` 
-33 #:: !
-99 $::& /
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_11.cs
 
-==, -
-GG aa 
-KK #RR !
-QQ $RR& /
+ 8
 
-UU, -
+ (
+   $$ ** --/ 3
 
-^^ •
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_15.cs
+-- 
+22 YY (
+44 99 >> AA/ 3
 
- ,
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
 
- 
- #$$ 
-##  $$" +
-00 mm 
-99 #@@ !
-?? $@@& /
+TT 
 
-CC, -
-NN nn 
-SS #ZZ !
-YY $ZZ& /
+WW Û
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_12.cs
 
-]], -
+ 8
 
-kk Ç
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_16.cs
+ (
+   $$ )) ,,/ 3
 
- ,
+,, 
+22 EE (
+44 88 == @@/ 3
 
- 
- ### 
-""  ##" +
-++ EE 
-// #66 !
-55 $66& /
+@@ 
 
-99, -
+CC §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_13.cs
 
-CC ‡
-¦C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__heap_17.cs
+ 8
 
- ,
+ (
+   $$ ** --/ 3
 
- 
-   
- ### 
-""  ##" +
-** CC 
-,, ,, ,, 
-.. #55 !
-44 $55& /
+-- 
+22 YY (
+44 99 >> AA/ 3
 
-88, -
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
 
-AA ¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_01.cs
+TT 
 
- <
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_14.cs
 
-"" (
-$$ %% 99  $WW/ 3<
-((  ,, -- ..+ 3KK  MM  
-..! (11> E
-11( *44. 0
-44 +55 (991 =
-;;2 D==B T
-CC 'EE2 :
-PP& (RR6 8
+ 8
+
+ (
+   $$ ** --/ 3
+
+-- 
+22 YY (
+44 99 >> AA/ 3
+
+AA 
+EE ZZ (
+GG KK QQ TT/ 3
+
+TT 
+
+WW §
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_15.cs
+
+ 8
+
+ (
+   %% ** ../ 3
+
+.. 
+33 \\ (
+55 ;; ?? CC/ 3
+
+CC 
+GG ]] (
+II NN SS WW/ 3
 
 WW 
 
-[[ 
-aa ]] 
-cc ee gg/ 3
+ZZ Ç
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_16.cs
 
-gg 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_02.cs
+ 8
 
- <
+ 
+   $$ ((/ 3
 
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
+(( 
+-- << 
+// 33 77/ 3
 
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
+77 
 
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
+:: ‡
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_17.cs
 
-‡‡ 
+ 8
 
-ŠŠ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_03.cs
+ 
+   "" &&3 7
+## ## ##  
 
- <
+&& "
+-- ;; 
+// 11 553 7
+22 22 22  
 
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
+55 "
 
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
+99 ©
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_21.cs
 
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
+ 8
+ $$ -- 
 
-‡‡ 
+!! 
+## %% ''/ 3
+** %% 
 
-ŠŠ É
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_04.cs
+'' (
+,, 00 66 88 
+<< !II RR 
+== !dd mm 
 
- < 
-%% ),, 
-‚‚ 
-&& *oo 
+?? 
+FF AA 
+aa BB 
+HH JJ LL/ 3
+OO JJ 
 
-)) 2
-++ .. BB$ (dd gg/ 3<
-11 $55 66 77/ 7TT $VV $
-77% ,::B I
-::, .==2 4
-==# />>  ,BB5 A
-DD6 HFFF X
-LL# +NN6 >
-YY* ,[[: <
+LL (
+QQ VV [[ ]] 
+cc ee gg/ 3
+jj ee 
 
-gg 
-ll 
-““ (
-nn ss xx {{/ 3
+gg (
+ll pp vv xx Ì
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_22a.cs
 
-{{ 
- 
-”” 0
-
- 
-…… 
-‹‹ 
-ŽŽ/ 3
-
-ŽŽ 
-
-‘‘ É
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_05.cs
-
- < 
-%% ,, 
-‚‚ 
-&& oo 
-
-)) 2
-++ .. BB$ (dd gg/ 3<
-11 $55 66 77/ 7TT $VV $
-77% ,::B I
-::, .==2 4
-==# />>  ,BB5 A
-DD6 HFFF X
-LL# +NN6 >
-YY* ,[[: <
-
-gg 
-ll 
-““ (
-nn ss xx {{/ 3
-
-{{ 
- 
-”” 0
-
- 
-…… 
-‹‹ 
-ŽŽ/ 3
-
-ŽŽ 
-
-‘‘ ½
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_06.cs
-
- <*
-%% (++ nn 
- 
-
-(( 2
-** -- AA$ (cc ff/ 3<
-00 $44 55 66/ 7SS $UU $
-66% ,99B I
-99, .<<2 4
-<<# /==  ,AA5 A
-CC6 HEEF X
-KK# +MM6 >
-XX* ,ZZ: <
-
-ff 
-kk 
-’’ (
-mm rr ww zz/ 3
-
-zz 
-~~ 
-““ 0
-
-€€ 
-„„ 
-ŠŠ 
-/ 3
-
- 
-
- ½
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_07.cs
-
- <*
-%% ++ nn 
- 
-
-(( 2
-** -- AA$ (cc ff/ 3<
-00 $44 55 66/ 7SS $UU $
-66% ,99B I
-99, .<<2 4
-<<# /==  ,AA5 A
-CC6 HEEF X
-KK# +MM6 >
-XX* ,ZZ: <
-
-ff 
-kk 
-’’ (
-mm rr ww zz/ 3
-
-zz 
-~~ 
-““ 0
-
-€€ 
-„„ 
-ŠŠ 
-/ 3
-
- 
-
- Ï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_08.cs
-
- < 
-%% *33 
-‰‰ 
-** +vv 
-
-00 2
-22 55 II$ (kk nn/ 3<
-88 $<< == >>/ 7[[ $]] $
->>% ,AAB I
-AA, .DD2 4
-DD# /EE  ,II5 A
-KK6 HMMF X
-SS# +UU6 >
-``* ,bb: <
-
-nn 
-ss 
-šš *
-uu zz  
-‚‚/ 3
-
-‚‚ 
-
-†† 
-›› 0
-
-ˆˆ 
-ŒŒ 
-’’ 
-••/ 3
-
-•• 
-
-˜˜ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_09.cs
-
- <
-
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
-
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
-
-‡‡ 
-
-ŠŠ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_10.cs
-
- <
-
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
-
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
-
-‡‡ 
-
-ŠŠ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_11.cs
-
- <
-
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
-
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
-
-‡‡ 
-
-ŠŠ µ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_12.cs
-
- <
-
-"" 2
-$$ '' ;;$ (\\ __/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-__ 
-ee xx (
-gg kk pp ss/ 3
-
-ss 
-
-vv 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_13.cs
-
- <
-
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
-
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
-
-‡‡ 
-
-ŠŠ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_14.cs
-
- <
-
-"" 2
-$$ '' ;;$ (]] ``/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-`` 
-ee 
-ŒŒ (
-gg ll qq tt/ 3
-
-tt 
-xx 
- ,
-zz ~~ 
-„„ 
-‡‡/ 3
-
-‡‡ 
-
-ŠŠ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_15.cs
-
- <
-
-"" 2
-$$ (( <<$ (]] aa/ 3<
-++ $// 00 11/ 7NN $PP $
-11% ,44B I
-44, .772 4
-77# /88  ,<<5 A
->>6 H@@F X
-FF# +HH6 >
-SS* ,UU: <
-
-aa 
-ff 
- (
-hh nn rr vv/ 3
-
-vv 
-zz 
- .
-|| 
- 
-†† 
-ŠŠ/ 3
-
-ŠŠ 
-
- ¡
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_16.cs
-
- <
-
-"" (
-$$ '' ;;$ ([[/ 3<
-** $.. // 00/ 7MM $OO $
-00% ,33B I
-33, .662 4
-66# /77  ,;;5 A
-==6 H??F X
-EE# +GG6 >
-RR* ,TT: <
-
-[[ 
-`` oo 
-bb ff jj/ 3
-
-jj 
-
-mm á
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_17.cs
-
- <
-
-"" (
-$$ %% 99  $YY3 7<
-((  ,, -- ..+ 3KK  MM  
-..! (11> E
-11( *44. 0
-44 +55 (991 =
-;;2 D==B T
-CC 'EE2 :
-PP& (RR6 8
-VV VV VV  
-
-YY "
-`` nn 
-bb dd hh3 7
-ee ee ee  
-
-hh "
-
-ll ©
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_21.cs
-
- <
-## (( 11 
-
-%% 
-'' )) ++/ 3
-.. )) 
-
-++ 2
-00 33 GG$ (ii kk <
-66 $:: ;; <</ 7YY $[[ $
-<<% ,??B I
-??, .BB2 4
-BB# /CC  ,GG5 A
-II6 HKKF X
-QQ# +SS6 >
-^^* ,``: < 
-oo !|| 
-…… "
-pp !
-—— 
-   
-
-rr 
-yy tt 
-
-”” uu 
-{{ }} / 3
-
-‚‚ }} 
-
- 0
-
-„„ 
-‰‰ 
-ŽŽ 
- $
-
-–– 
-˜˜ 
-šš/ 3
-
- 
-˜˜ 
-
-šš 0
-
-ŸŸ 
-££ 
-©© 
-«« Ð
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_22a.cs
-
- =
+ 9
  &$$ 
 
 !! 
@@ -17807,150 +17167,106 @@
 << 
 BB DD FF/ 3
 
-FF Â
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_22b.cs
+FF ä
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_22b.cs
 
- =
+ 9
 
-   2
-"" %% 99$ ([[ ]] <
-(( $,, -- ../ 7KK $MM $
-..% ,11B I
-11, .442 4
-44# /55  ,995 A
-;;6 H==F X
-CC# +EE6 >
-PP* ,RR: <
+ (
+ "" (( ** 
 
-cc $(
-ee jj oo qq 
+00 $(
+22 77 << >> 
 
-uu $,
-ww {{ 
- 
-ƒƒ 
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_31.cs
+BB $(
+DD HH NN PP ³
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_31.cs
 
- <
+ 8
+
+ 
+!! && )) 
+## %% && 
+)) ++3 7
+
+++ "
+
+00 
+66 22 
+88 == @@ 
+:: << == 
+@@ BB3 7
+
+BB "Ÿ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_41.cs
+
+ 8
+ (( 
+$ (  / 3
+
+   
 
 ## 
-%% YY \\ (
-'' (( <<$ (YY <
-++ $// 00 11/ 7NN $PP $
-11% ,44B I
-44, .772 4
-77# /88  ,<<5 A
->>6 H@@F X
-FF# +HH6 >
-SS* ,UU: <
-\\ ^^3 7
+%% '' (( 
 
-^^ "
+,, 
+88 .. 
+11 #== 
+11( ,44/ 3
 
-cc 
-ii ee 
-kk pp ss 
-mm oo pp 
-ss uu3 7
+44 
+:: << == Ÿ
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_42.cs
 
-uu "ù
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_41.cs
+ 8
+  (( 
+ !! "" 
 
- <
-!! [[ 
-!!$ ($$/ 3
+&& 
+(( **/ 3
 
-$$ 
+** 
+.. $99  
+00 22 33 
+77 @@ 
+99 ;;/ 3
 
-'' (
-)) ** >>  $[[ <
---  11 22 33+ 3PP  RR  
-33! (66> E
-66( *99. 0
-99 +:: (>>1 =
-@@2 DBBB T
-HH 'JJ2 :
-UU& (WW6 8
+;; 
 
-__ 
-kk aa 
-dd #pp 
-dd( ,gg/ 3
+>> ß
+²C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_45.cs
 
-gg 
-mm oo pp ù
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_42.cs
+ 8
+ ## .. 
+ :: EE 
+!! // 
+## %%/ 3
 
- <
-!!  [[ (
-## $$ 88  $UU <
-''  ++ ,, --+ 3JJ  LL  
---! (00> E
-00( *33. 0
-33 +44 (881 =
-::2 D<<B T
-BB 'DD2 :
-OO& (QQ6 8
+%% 
 
-YY 
-[[ ]]/ 3
+)) 
+++ -- .. 
 
-]] 
-aa $ll  
-cc ee ff 
-jj ss 
-ll nn/ 3
+33 
+@@ 55 
+88 FF 
+:: <</ 3
 
-nn 
+<< 
+BB DD EE °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_51a.cs
 
-qq ¹
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_45.cs
+ 9
 
- <
-"" '' aa 
-## mm xx 
-%% bb 
-'' ))/ 3
+ 
+    D H
 
-)) 
+$$ 
+** && 
+,, .. //H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_51b.cs
 
--- (
-// 00 DD  $aa <
-33  77 88 99+ 3VV  XX  
-99! (<<> E
-<<( *??. 0
-?? +@@ (DD1 =
-FF2 DHHB T
-NN 'PP2 :
-[[& (]]6 8
-
-ff 
-ss hh 
-kk yy 
-mm oo/ 3
-
-oo 
-uu ww xx Š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_51a.cs
-
- =
-
- (
-!! "" 66  $SSH L<
-%%  )) ** +++ 3HH  JJ  
-++! (..> E
-..( *11. 0
-11 +22 (661 =
-882 D::B T
-@@ 'BB2 :
-MM& (OO6 8
-
-WW 
-]] YY 
-__ aa bbL P¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_51b.cs
-
- =
+ 9
 
  
 # '/ 3
@@ -17960,36 +17276,29 @@
 %% "
 %%' +((/ 3
 
-(( Š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_52a.cs
+(( °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_52a.cs
 
- =
+ 9
 
-   (
-"" ## 77  $TTH L<
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
+ 
+    !!D H
 
-XX 
-^^ ZZ 
-`` bb ccL PŠ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_52b.cs
+%% 
+++ '' 
+-- // 00H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_52b.cs
 
- =
+ 9
 
  
-# 'H L
+# 'D H
 
 ## "
-##' +%%L P¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_52c.cs
+##' +%%H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_52c.cs
 
- =
+ 9
 
  
 # '  / 3
@@ -17999,45 +17308,38 @@
 && "
 &&' +))/ 3
 
-)) Š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_53a.cs
+)) °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_53a.cs
 
- =
+ 9
 
-   (
-"" ## 77  $TTH L<
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
+ 
+    !!D H
 
-XX 
-^^ ZZ 
-`` bb ccL PŠ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_53b.cs
+%% 
+++ '' 
+-- // 00H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_53b.cs
 
- =
+ 9
 
  
-# 'H L
+# 'D H
 
 ## "
-##' +%%L PŠ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_53c.cs
+##' +%%H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_53c.cs
 
- =
+ 9
 
  
-# 'H L
+# 'D H
 
 ## "
-##' +%%L P¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_53d.cs
+##' +%%H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_53d.cs
 
- =
+ 9
 
  
 # '  / 3
@@ -18047,54 +17349,47 @@
 && "
 &&' +))/ 3
 
-)) Š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_54a.cs
+)) °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_54a.cs
 
- =
+ 9
 
-   (
-"" ## 77  $TTH L<
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
+ 
+    !!D H
 
-XX 
-^^ ZZ 
-`` bb ccL PŠ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_54b.cs
+%% 
+++ '' 
+-- // 00H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_54b.cs
 
- =
+ 9
 
  
-# 'H L
+# 'D H
 
 ## "
-##' +%%L PŠ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_54c.cs
+##' +%%H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_54c.cs
 
- =
+ 9
 
  
-# 'H L
+# 'D H
 
 ## "
-##' +%%L PŠ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_54d.cs
+##' +%%H L†
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_54d.cs
 
- =
+ 9
 
  
-# 'H L
+# 'D H
 
 ## "
-##' +%%L P¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_54e.cs
+##' +%%H Lž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_54e.cs
 
- =
+ 9
 
  
 # '  / 3
@@ -18104,10 +17399,10 @@
 && "
 &&' +))/ 3
 
-)) ¸
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_61a.cs
+)) ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_61a.cs
 
- =
+ 9
 
  
  !!/ 3
@@ -18118,45 +17413,31 @@
 ++ '' 
 -- /// 3
 
-// ô
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_61b.cs
+// š
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_61b.cs
 
- =
+ 9
 
-   (
-"" ## 77  $TT <
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
+ 
+    !! 
 
-ZZ #
-\\ ^^ __ Ê
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_66a.cs
+'' #
+)) ++ ,, ð
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_66a.cs
 
- =
+ 9
 
-   (
-"" ## 77  $UU <
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
-TT UU VVH Q
+ 
+    "" 
+!! "" ##D M
 
-ZZ 
-`` \\ 
-bb dd ff 
-ee ff ggL UÎ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_66b.cs
+'' 
+-- )) 
+// 11 33 
+22 33 44H QÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_66b.cs
 
- =
+ 9
 
  
 % . 
@@ -18168,62 +17449,48 @@
 '') 2)) 
 )) ++/ 3
 
-++ ž
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_67a.cs
+++ Ä
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_67a.cs
 
- =2
-   YY YY& /jj jj& /
-"" ZZ "kk "
+ 92
+ && &&& /77 77& /
+ '' "88 "
 
-%% (
-'' (( <<  $ZZ% )<
-++  // 00 11+ 3NN  PP  
-11! (44> E
-44( *77. 0
-77 +88 (<<1 =
->>2 D@@B T
-FF 'HH2 :
-SS& (UU6 8
-YY ZZ [[H U
+!! 
+## %% ''% )
+&& '' ((D Q
 
-__ 
-ee aa 
-gg ii kk% )
-jj kk llL YÎ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_67b.cs
+,, 
+22 .. 
+44 66 88% )
+77 88 99H UÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_67b.cs
 
- =
+ 9
 
  
-a n  
+] j  
  !!/ 3
 
 !! 
 
 '' "
-''e r))  
+''a n))  
 )) ++/ 3
 
-++ ê
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_68a.cs
+++ 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_68a.cs
 
- =(
- ## 77  $aa 
+ 9
+    .. 
 
-!! <
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
+ 
 
-XX 
-^^ ZZ ¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_68b.cs
+%% 
+++ '' ž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_68b.cs
 
- =
+ 9
 
  
    / 3
@@ -18233,27 +17500,20 @@
 && "
 (( **/ 3
 
-** Š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_71a.cs
+** °
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_71a.cs
 
- =
+ 9
 
-   (
-"" ## 77  $TTP T<
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
+ 
+    !!L P
 
-XX 
-^^ ZZ 
-`` bb ccT XÎ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_71b.cs
+%% 
+++ '' 
+-- // 00P TÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_71b.cs
 
- =
+ 9
 
  
 & 0   "
@@ -18265,29 +17525,22 @@
 ((* 4** "
 ** ,,/ 3
 
-,, š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_72a.cs
+,, À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_72a.cs
 
- =
+ 9
 
-   <
-"" ## 77  $UU !VV !WW !<
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 82
-TT UU VV WW XXH U
+ 2
+    "" !## !$$ !2
+!! "" ## $$ %%D Q
 
-\\ 
-bb ^^ 2
-dd ff hh !ii !jj !2
-gg hh ii jj kkL YÎ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_72b.cs
+)) 
+// ++ 2
+11 33 55 !66 !77 !2
+44 55 66 77 88H UÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_72b.cs
 
- =
+ 9
 
  
 ) 6 &
@@ -18299,29 +17552,22 @@
 ''- :)) &
 )) ++/ 3
 
-++ š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_73a.cs
+++ À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_73a.cs
 
- =
+ 9
 
-!! <
-## $$ 88  $VV #WW #XX #<
-''  ++ ,, --+ 3JJ  LL  
---! (00> E
-00( *33. 0
-33 +44 (881 =
-::2 D<<B T
-BB 'DD2 :
-OO& (QQ6 82
-UU &VV WW XX YYH V
+ 2
+ !! ## #$$ #%% #2
+"" &## $$ %% &&D R
 
-]] 
-cc __ 2
-ee gg ii #jj #kk #2
-hh &ii jj kk llL ZÎ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_73b.cs
+** 
+00 ,, 2
+22 44 66 #77 #88 #2
+55 &66 77 88 99H VÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_73b.cs
 
- =
+ 9
 
  
 / =   !
@@ -18333,29 +17579,22 @@
 ((3 A** !
 ** ,,/ 3
 
-,, š
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_74a.cs
+,, À
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_74a.cs
 
- =
+ 9
 
-   <
-"" ## 77  $UU "VV "WW "<
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 82
-TT *UU VV WW XXH V
+ 2
+    "" "## "$$ "2
+!! *"" ## $$ %%D R
 
-\\ 
-bb ^^ 2
-dd ff hh "ii "jj "2
-gg *hh ii jj kkL ZÎ
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_74b.cs
+)) 
+// ++ 2
+11 33 55 "66 "77 "2
+44 *55 66 77 88H VÊ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_74b.cs
 
- =
+ 9
 
  
 3 A   !
@@ -18367,36 +17606,28 @@
 ((7 E** !
 ** ,,/ 3
 
-,, ä
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_75a.cs
+,, ˆ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_75a.cs
 
- =
+ 9
 
-!! (
-## $$ 88  $\\! %<
-''  ++ ,, --+ 3JJ  LL  
---! (00> E
-00( *33. 0
-33 +44 (881 =
-::2 D<<B T
-BB 'DD2 :
-OO& (QQ6 8
-VV ]] __L Z
-YY \\ 
-ZZ \\ ]]! #
-aa& 5ccZ i
+ 
+   "" **! %
+$$ ++ --H V
+'' ** 
+(( ** ++! #
+//& 511Z i
 
-hh 
-nn jj 
-pp rr zz! %
-tt {{ }}P ^
-ww zz 
-xx zz {{! #
-& 5
-Z i¢
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_75b.cs
+66 
+<< 88 
+>> @@ HH! %
+BB II KKL Z
+EE HH 
+FF HH II! #
+MM& 5OOZ iž
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_75b.cs
 
- =
+ 9
 
    
   & 4((  .((3 A
@@ -18414,50 +17645,904 @@
 >>  @@ AA BB0 9
 
 EE "
-GG& 5II[ j¶
-·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_81a.cs
+GG& 5II[ jÜ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_81a.cs
 
- =
+ 9
 
-   (
-"" ## 77  $UU <
-&&  ** ++ ,,+ 3II  KK  
-,,! (//> E
-//( *22. 0
-22 +33 (771 =
-992 D;;B T
-AA 'CC2 :
-NN& (PP6 8
-TTD NUU 
+ 
+    "" 
+!!@ J"" 
 
-YY 
-__ [[ 
-aa cc ee 
-ddD Nee ÷
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_81_bad.cs
+&& 
+,, (( 
+.. 00 22 
+11@ J22 ó
+¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_81_bad.cs
+
+ <
+
+ 
+$ (!!/ 3
+
+!! Þ
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_81_base.cs
+
+ F
+
+ 
+
+$ (÷
+ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_ArrayList_81_goodG2B.cs
 
  @
 
  
 $ (!!/ 3
 
-!! â
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_81_base.cs
+!! È
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_01.cs
 
- J
+ 9
+
+ 
+   "" $$= A
+
+$$ !
+
+(( 
+.. ** 
+00 22 44= A
+
+44 !¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_02.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_03.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW Þ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_04.cs
+
+ 9
+!! )(( OO 
+"" *<< 
+
+%% (
+'' ++ 11 44= A
+
+44 !
+99 `` (
+;; @@ EE HH= A
+
+HH !
+LL aa (
+NN RR XX [[= A
+
+[[ !
+
+^^ Þ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_05.cs
+
+ 9
+!! (( OO 
+"" << 
+
+%% (
+'' ++ 11 44= A
+
+44 !
+99 `` (
+;; @@ EE HH= A
+
+HH !
+LL aa (
+NN RR XX [[= A
+
+[[ !
+
+^^ Ò
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_06.cs
+
+ 9(
+!! ('' ;; NN 
+
+$$ (
+&& ** 00 33= A
+
+33 !
+88 __ (
+:: ?? DD GG= A
+
+GG !
+KK `` (
+MM QQ WW ZZ= A
+
+ZZ !
+
+]] Ò
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_07.cs
+
+ 9(
+!! '' ;; NN 
+
+$$ (
+&& ** 00 33= A
+
+33 !
+88 __ (
+:: ?? DD GG= A
+
+GG !
+KK `` (
+MM QQ WW ZZ= A
+
+ZZ !
+
+]] Þ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_08.cs
+
+ 9
+!! *// VV 
+&& +CC 
+
+,, (
+.. 22 88 ;;= A
+
+;; !
+@@ gg (
+BB GG LL OO= A
+
+OO !
+SS hh (
+UU YY __ bb= A
+
+bb !
+
+ee ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_09.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_10.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_11.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW Ü
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_12.cs
+
+ 9
+
+ (
+   $$ )) ,,= A
+
+,, !
+22 EE (
+44 88 == @@= A
+
+@@ !
+
+CC ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_13.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_14.cs
+
+ 9
+
+ (
+   $$ ** --= A
+
+-- !
+22 YY (
+44 99 >> AA= A
+
+AA !
+EE ZZ (
+GG KK QQ TT= A
+
+TT !
+
+WW ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_15.cs
+
+ 9
+
+ (
+   %% ** ..= A
+
+.. !
+33 \\ (
+55 ;; ?? CC= A
+
+CC !
+GG ]] (
+II NN SS WW= A
+
+WW !
+
+ZZ È
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_16.cs
+
+ 9
+
+ 
+   $$ ((= A
+
+(( !
+-- << 
+// 33 77= A
+
+77 !
+
+:: ˆ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_17.cs
+
+ 9
+
+ 
+   "" &&A E
+## ## ##  
+
+&&! %
+-- ;; 
+// 11 55A E
+22 22 22  
+
+55! %
+
+99 ª
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_21.cs
+
+ 9
+ $$ -- 
+
+!! 
+## %% ''= A
+** %% 
+
+'' !(
+,, 00 66 88 
+<< !II RR 
+== !dd mm 
+
+?? 
+FF AA 
+aa BB 
+HH JJ LL= A
+OO JJ 
+
+LL !(
+QQ VV [[ ]] 
+cc ee gg= A
+jj ee 
+
+gg !(
+ll pp vv xx Í
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_22a.cs
+
+ :
+ &$$ 
+
+!! 
+## %% ''= A
+
+'' !
+,, +99 
+-- +CC 
+
+// 
+66 11 
+@@ 22 
+88 :: <<= A
+
+<< !
+BB DD FF= A
+
+FF !å
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_22b.cs
+
+ :
+
+ (
+ "" (( ** 
+
+00 $(
+22 77 << >> 
+
+BB $(
+DD HH NN PP ´
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_31.cs
+
+ 9
+
+ 
+!! && )) 
+## %% && 
+)) ++A E
+
+++! %
+
+00 
+66 22 
+88 == @@ 
+:: << == 
+@@ BBA E
+
+BB! % 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_41.cs
+
+ 9
+ (( 
+$ (  = A
+
+   !
+
+## 
+%% '' (( 
+
+,, 
+88 .. 
+11 #== 
+11( ,44= A
+
+44 !
+:: << ==  
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_42.cs
+
+ 9
+  (( 
+ !! "" 
+
+&& 
+(( **= A
+
+** !
+.. $99  
+00 22 33 
+77 @@ 
+99 ;;= A
+
+;; !
+
+>> à
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_45.cs
+
+ 9
+ ## .. 
+ :: EE 
+!! // 
+## %%= A
+
+%% !
+
+)) 
+++ -- .. 
+
+33 
+@@ 55 
+88 FF 
+:: <<= A
+
+<< !
+BB DD EE ±
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_51a.cs
+
+ :
+
+ 
+    E I
+
+$$ 
+** && 
+,, .. //I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_51b.cs
+
+ :
+
+ 
+# '= A
+
+ !
+
+%% "
+%%' +((= A
+
+(( !±
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_52a.cs
+
+ :
+
+ 
+    !!E I
+
+%% 
+++ '' 
+-- // 00I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_52b.cs
+
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_52c.cs
+
+ :
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !±
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_53a.cs
+
+ :
+
+ 
+    !!E I
+
+%% 
+++ '' 
+-- // 00I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_53b.cs
+
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_53c.cs
+
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_53d.cs
+
+ :
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !±
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_54a.cs
+
+ :
+
+ 
+    !!E I
+
+%% 
+++ '' 
+-- // 00I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_54b.cs
+
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_54c.cs
+
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I M‡
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_54d.cs
+
+ :
+
+ 
+# 'E I
+
+## "
+##' +%%I MŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_54e.cs
+
+ :
+
+ 
+# '  = A
+
+   !
+
+&& "
+&&' +))= A
+
+)) !µ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_61a.cs
+
+ :
+
+ 
+ !!= A
+
+!! !
+
+%% 
+++ '' 
+-- //= A
+
+// !›
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_61b.cs
+
+ :
+
+ 
+    !! 
+
+'' #
+)) ++ ,, ñ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_66a.cs
+
+ :
+
+ 
+    "" 
+!! "" ##E N
+
+'' 
+-- )) 
+// 11 33 
+22 33 44I RË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_66b.cs
+
+ :
+
+ 
+% . 
+ !!= A
+
+!! !
+
+'' "
+'') 2)) 
+)) ++= A
+
+++ !Å
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_67a.cs
+
+ :2
+ && &&& /77 77& /
+ '' "88 "
+
+!! 
+## %% ''% )
+&& '' ((E R
+
+,, 
+22 .. 
+44 66 88% )
+77 88 99I VË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_67b.cs
+
+ :
+
+ 
+^ k  
+ !!= A
+
+!! !
+
+'' "
+''b o))  
+)) ++= A
+
+++ !‘
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_68a.cs
+
+ :
+    .. 
+
+ 
+
+%% 
+++ '' Ÿ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_68b.cs
+
+ :
+
+ 
+   = A
+
+   !
+
+&& "
+(( **= A
+
+** !±
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_71a.cs
+
+ :
+
+ 
+    !!M Q
+
+%% 
+++ '' 
+-- // 00Q UË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_71b.cs
+
+ :
+
+ 
+& 0   "
+   ""= A
+
+"" !
+
+(( "
+((* 4** "
+** ,,= A
+
+,, !Á
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_72a.cs
+
+ :
+
+ 2
+    "" !## !$$ !2
+!! "" ## $$ %%E R
+
+)) 
+// ++ 2
+11 33 55 !66 !77 !2
+44 55 66 77 88I VË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_72b.cs
+
+ :
+
+ 
+) 6   &
+   ""= A
+
+"" !
+
+(( "
+((- :** &
+** ,,= A
+
+,, !Á
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_73a.cs
+
+ :
+
+ 2
+ !! ## #$$ #%% #2
+"" &## $$ %% &&E S
+
+** 
+00 ,, 2
+22 44 66 #77 #88 #2
+55 &66 77 88 99I WË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_73b.cs
+
+ :
+
+ 
+/ = !
+ !!= A
+
+!! !
+
+'' "
+''3 A)) !
+)) ++= A
+
+++ !Á
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_74a.cs
+
+ :
+
+ 2
+    "" "## "$$ "2
+!! *"" ## $$ %%E S
+
+)) 
+// ++ 2
+11 33 55 "66 "77 "2
+44 *55 66 77 88I WË
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_74b.cs
+
+ :
+
+ 
+3 A !
+ !!= A
+
+!! !
+
+'' "
+''7 E)) !
+)) ++= A
+
+++ !‰
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_75a.cs
+
+ :
+
+ 
+   "" **! %
+$$ ++ --I W
+'' ** 
+(( ** ++! #
+//& 511Z i
+
+66 
+<< 88 
+>> @@ HH! %
+BB II KKM [
+EE HH 
+FF HH II! #
+MM& 5OOZ iŸ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_75b.cs
+
+ :
+
+   
+  & 4((  .((3 A
+$$ ** --A E
+%% ** #(
+&&  (( )) **0 9
+
+--! %
+//& 511[ j
+
+88 "
+88* 8@@  .@@3 A
+<< BB EEA E
+== BB #(
+>>  @@ AA BB0 9
+
+EE! %
+GG& 5II[ jÝ
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_81a.cs
+
+ :
+
+ 
+    "" 
+!!A K"" 
+
+&& 
+,, (( 
+.. 00 22 
+11A K22 ô
+·C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_81_bad.cs
+
+ =
+
+ 
+$ (!!= A
+
+!! !ß
+¸C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_81_base.cs
+
+ G
 
  
 
-$ (û
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc__Listen_tcp_ArrayList_81_goodG2B.cs
+$ (ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc__Random_Dictionary_81_goodG2B.cs
 
- D
+ A
 
  
-$ (!!/ 3
+$ (!!= A
 
-!! –
-‡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\Program.cs
+!! !–
+‡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\Program.cs
 
  
 
@@ -18476,7 +18561,7 @@
 mm  HH 
 ss  II 
 
-êê  JJ 
+êê  JJ 
 
-ðð  KK š
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\Properties\AssemblyInfo.cs
+ðð  KK š
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\Properties\AssemblyInfo.cs

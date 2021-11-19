@@ -1,360 +1,311 @@
-µ
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01.cs
+÷
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_01.cs
 
- <
+ 3
 
- 
- )) 
- !!!B T))N `
-!!! -## 
-&& %))b k
+ 
+ !B T''F X
+! -!! 
+$$ %(( '
 
-.. 
-33 00 
-55 AA 
-66 !99B T
-99! -;; 
->> %AAK T£
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs
+-- 
+22 // 
+44 !77B T
+77! -99 
+<< %?? 'Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_02.cs
 
- <
+ 3
 
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
 
-bb £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs
+__ Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_03.cs
 
- <
+ 3
 
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
 
-bb Ù
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs
+__ …
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_04.cs
 
- <
- )## UU 
- *:: 
+ 3
+ )"" SS 
+ *99 
 
-!! 
-%% 11 
-&& %))F X11R d
-))% 1++  
-..  )11f o
-88 jj 
-AA MM 
-BB %EEF X
-EE% 1GG  
-JJ  )MMO X
-SS kk 
-WW cc 
-XX %[[F X
-[[% 1]]  
-``  )ccO X
+   
+$$ %''F X//J \
+''% 1))  
+,,  )00" +
+77 gg 
+@@ %CCF X
+CC% 1EE  
+HH  )KK" +
+QQ hh 
+UU %XXF X
+XX% 1ZZ  
+]]  )``" +
 
-hh Ù
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs
+ee …
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_05.cs
 
- <
- ## UU 
- :: 
+ 3
+ "" SS 
+ 99 
 
-!! 
-%% 11 
-&& %))F X11R d
-))% 1++  
-..  )11f o
-88 jj 
-AA MM 
-BB %EEF X
-EE% 1GG  
-JJ  )MMO X
-SS kk 
-WW cc 
-XX %[[F X
-[[% 1]]  
-``  )ccO X
+   
+$$ %''F X//J \
+''% 1))  
+,,  )00" +
+77 gg 
+@@ %CCF X
+CC% 1EE  
+HH  )KK" +
+QQ hh 
+UU %XXF X
+XX% 1ZZ  
+]]  )``" +
 
-hh Í
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs
+ee ù
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_06.cs
 
- <(
- ("" 99 TT 
+ 3(
+ (!! 88 RR 
 
-   
-$$ 00 
-%% %((F X00R d
-((% 1**  
---  )00f o
-77 ii 
-@@ LL 
-AA %DDF X
-DD% 1FF  
-II  )LLO X
-RR jj 
-VV bb 
+ 
+## %&&F X..J \
+&&% 1((  
+++  )//" +
+66 ff 
+?? %BBF X
+BB% 1DD  
+GG  )JJ" +
+PP gg 
+TT %WWF X
+WW% 1YY  
+\\  )__" +
+
+dd ù
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_07.cs
+
+ 3(
+ !! 88 RR 
+
+ 
+## %&&F X..J \
+&&% 1((  
+++  )//" +
+66 ff 
+?? %BBF X
+BB% 1DD  
+GG  )JJ" +
+PP gg 
+TT %WWF X
+WW% 1YY  
+\\  )__" +
+
+dd …
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_08.cs
+
+ 3
+ *)) ZZ 
+"" +@@ 
+
+'' 
+++ %..F X66J \
+..% 100  
+33  )77" +
+>> nn 
+GG %JJF X
+JJ% 1LL  
+OO  )RR" +
+XX oo 
+\\ %__F X
+__% 1aa  
+dd  )gg" +
+
+ll Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_09.cs
+
+ 3
+
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
+
+__ Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_10.cs
+
+ 3
+
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
+
+__ Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_11.cs
+
+ 3
+
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
+
+__ û
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_12.cs
+
+ 3
+
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+// %22F X
+22% 144  
+77  )::" +
+AA gg 
+EE %HHF X
+HH% 1JJ  
+MM  )PP" +
+UU %XXF X
+XX% 1ZZ  
+]]  )``" +
+
+ee Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_13.cs
+
+ 3
+
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
+
+__ Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_14.cs
+
+ 3
+
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 aa 
+:: %==F X
+==% 1??  
+BB  )EE" +
+KK bb 
+OO %RRF X
+RR% 1TT  
+WW  )ZZ" +
+
+__ Ï
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_15.cs
+
+ 3
+
+ 
+ %""F X**J \
+""% 1$$  
+''  )++" +
+77 nn 
+@@ %CCF X
+CC% 1EE  
+HH  )KK" +
+RR oo 
 WW %ZZF X
 ZZ% 1\\  
-__  )bbO X
+__  )bb" +
 
-gg Í
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs
+ll ÷
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_16.cs
 
- <(
- "" 99 TT 
+ 3
 
-   
-$$ 00 
-%% %((F X00R d
-((% 1**  
---  )00f o
-77 ii 
-@@ LL 
-AA %DDF X
-DD% 1FF  
-II  )LLO X
-RR jj 
-VV bb 
-WW %ZZF X
-ZZ% 1\\  
-__  )bbO X
+ 
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+22 II 
+66 %99F X
+99% 1;;  
+>>  )AA" +
 
-gg Ù
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs
+GG ·
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_17.cs
 
- <
- *** \\ 
-## +AA 
+ 3
 
-(( 
-,, 88 
--- %00F X88R d
-00% 122  
-55  )88f o
-?? qq 
-HH TT 
-II %LLF X
-LL% 1NN  
-QQ  )TTO X
-ZZ rr 
-^^ jj 
-__ %bbF X
-bb% 1dd  
-gg  )jjO X
+ 
+   
+ %!!F X))J \
+!!% 1##  
+&&  )**" +
+11 GG 
+33 33 33 
+55 %88F X
+88% 1::  
+==  )@@" +
 
-oo £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
-
-bb £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
-
-bb £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
-
-bb å
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-00 << 
-11 %44F X
-44% 166  
-99  )<<O X
-CC kk 
-GG SS 
-HH %KKF X
-KK% 1MM  
-PP  )SSO X
-XX dd 
-YY %\\F X
-\\% 1^^  
-aa  )ddO X
-
-ii £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
-
-bb £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 dd 
-;; GG 
-<< %??F X
-??% 1AA  
-DD  )GGO X
-MM ee 
-QQ ]] 
-RR %UUF X
-UU% 1WW  
-ZZ  )]]O X
-
-bb £
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs
-
- <
-
- 
-   ,, 
-!! %$$F X,,R d
-$$% 1&&  
-))  ),,f o
-88 qq 
-AA MM 
-BB %EEF X
-EE% 1GG  
-JJ  )MMO X
-TT rr 
-YY ee 
-ZZ %]]F X
-]]% 1__  
-bb  )eeO X
-
-oo µ
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs
-
- <
-
- 
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-33 KK 
-77 CC 
-88 %;;F X
-;;% 1==  
-@@  )CCO X
-
-II õ
-¾C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17.cs
-
- <
-
- 
-   
- ++ 
-   %##F X++R d
-##% 1%%  
-((  )++f o
-22 II 
-44 44 44 
-66 BB 
-77 %::F X
-::% 1<<  
-??  )BBO X
-
-GG  
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\Program.cs
+EE —
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\Program.cs
 
  
 
@@ -376,5 +327,5 @@
 
 ‰‰  JJ 
 
-  KK ¢
-ŸC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\Properties\AssemblyInfo.cs
+  KK ™
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\Properties\AssemblyInfo.cs

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE482_Comparing_Instead_of_Assigning</ProjectName>
+  <ProjectName>CWE483_Incorrect_Block_Delimitation</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>c40fcd18-9bc9-d690-a05a-38d0a95bfcba</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning.csproj</FullPath>
+  <ProjectGuid>a91b86e3-a1c8-6425-44d5-59f5c4f8b7a1</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\79\FilesToAnalyze.txt" />

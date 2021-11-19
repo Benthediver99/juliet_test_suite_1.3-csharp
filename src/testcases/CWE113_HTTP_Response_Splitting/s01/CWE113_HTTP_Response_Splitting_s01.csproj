@@ -1034,7 +1034,6 @@
     <Compile Include="CWE113_HTTP_Response_Splitting__Web_NetClient_addCookie_81_base.cs" />
     <Compile Include="CWE113_HTTP_Response_Splitting__Web_NetClient_addCookie_81_goodB2G.cs" />
     <Compile Include="CWE113_HTTP_Response_Splitting__Web_NetClient_addCookie_81_goodG2B.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

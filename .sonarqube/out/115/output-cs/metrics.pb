@@ -1,24 +1,10 @@
-¯
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_01.cs 8j!6r( "#$%&)*+,./012345789:;<=?@Ç"#%+13789<¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_02.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^´
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_04.cs 8j	)27BLWrG!"#$%&'(*+,-./345689:;<=>?@ACDEFGHIJMNOPQRSTUVXYZ[\]^_abcdeghxÇ#'*+-58=?CDEHORTXYZ]cd´
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_05.cs 8j	)27BLWrG!"#$%&'(*+,-./345689:;<=>?@ACDEFGHIJMNOPQRSTUVXYZ[\]^_abcdeghxÇ#'*+-58=?CDEHORTXYZ]cd™
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_06.cs 8j	(16AKVrF !"#$%&')*+,-.2345789:;<=>?@BCDEFGHILMNOPQRSTUWXYZ[\]^`abcdfgxÇ"&)*,47<>BCDGNQSWXY\bc™
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_07.cs 8j	(16AKVrF !"#$%&')*+,-.2345789:;<=>?@BCDEFGHILMNOPQRSTUWXYZ[\]^`abcdfgxÇ"&)*,47<>BCDGNQSWXY\bc≥
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_08.cs 8	j	09>IS^rM !#$%&()*+,-./123456:;<=?@ABCDEFGHJKLMNOPQTUVWXYZ[\]_`abcdefhijklnoxÇ %*.124<?DFJKLOVY[_`adjk¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_09.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_10.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_11.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^Ø
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs! 8j#1<GWrL !"$%&'()*+,-./023456789=>?@ABCDEFHIJKLMNOPQRSTUVXYZ[\]^_abcdfgxÇ!$%',.2347?BDHIJMRTXYZ]c¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_13.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^¶
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_14.cs 8j#,1<FQrE !"$%&'()-./023456789:;=>?@ABCDGHIJKLMNOPRSTUVWXY[\]^_abxÇ!$%'/279=>?BILNRSTW]^ª
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs$ 8j$+28BMYbrP !"#%&'()*,-./345679:;<=>?@ACDEFGHIJKNOPQRSTUVWXZ[\]^_`acdefhijklnoxÇ"%&(),-59:=?CDEHIPTVZ[\_`cdjká
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_16.cs 8j#-8r0 !"$%&'()*./012345679:;<=>?@ACDEFHIxÇ!$%'(0359:;>?EÉ
-±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_17.cs 8j#,7r. !"$%&'()-./012345689:;<=>?ABCDFGxÇ!$%'/2489:=CÕ
-äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\Program.cs& 
-8j#&(9?ABPRVX\^bdhjnptÜäåêír^	
-"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqsuvwxyz{|}~ÄÅÇÉÑÖáâçèìîïx
-Ç."*+,-0459CDEFGHIJKuvwxyz{|}~ÄÅÇÉÑÖø
-öC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\Properties\AssemblyInfo.csj !"r	
+Î
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\CWE764_Multiple_locks__Monitor_Object_Thread_01.cs
+ 8j")r*
+#$'()*+,-./0124567:;Ç),06ä
+{C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\Program.cs 
+8j &(9?ABPRVX\^bdhjnptvz|ÄÇrD	
+"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqsuwy}ÉÑÖx
+Ç"*+,-0459CDEFGHIJKu∞
+ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\Properties\AssemblyInfo.csj !"r	
 #$

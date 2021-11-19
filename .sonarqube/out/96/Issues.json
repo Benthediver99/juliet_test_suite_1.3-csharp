@@ -12,160 +12,13 @@
       },
       "results": [
         {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_five_01.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 21,
-                  "endLine": 13,
-                  "endColumn": 32
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__n_less_int_max_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruenlessintmax01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__n_less_int_max_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 59
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__private_five_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTrueprivatefive01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_five_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 57
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__private_static_readonly_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTrueprivatestaticreadonly01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_static_readonly_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 68
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_01.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 22,
-                  "endLine": 13,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__static_readonly_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruestaticreadonly01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_readonly_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__static_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruestatic01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 51
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE582_Array_Public_Readonly_Static/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -186,7 +39,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE582_Array_Public_Readonly_Static/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -207,159 +60,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE582_Array_Public_Readonly_Static/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
                   "endLine": 40,
                   "endColumn": 81
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__static_five_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruestaticfive01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_five_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__private_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTrueprivate01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__static_return_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruestaticreturn01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_return_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 58
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__two_equals_two_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruetwoequalstwo01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__two_equals_two_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 59
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__private_static_readonly_five_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTrueprivatestaticreadonlyfive01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_static_readonly_five_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 73
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__static_readonly_five_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruestaticreadonlyfive01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_readonly_five_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 65
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_return_01.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 22,
-                  "endLine": 13,
-                  "endColumn": 40
                 }
               }
             }
@@ -375,7 +81,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE582_Array_Public_Readonly_Static/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -392,16 +98,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__class_getClass_equal_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTrueclassgetClassequal01'.",
+          "message": "Rename class 'CWE582_Array_Public_Readonly_Static__basic_01_good1' to match pascal case naming rules, consider using 'Cwe582ArrayPublicReadonlyStaticbasic01Good1'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__class_getClass_equal_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE582_Array_Public_Readonly_Static/CWE582_Array_Public_Readonly_Static__basic_01_good1.cs",
                 "region": {
                   "startLine": 13,
                   "startColumn": 11,
                   "endLine": 13,
-                  "endColumn": 65
+                  "endColumn": 62
                 }
               }
             }
@@ -413,365 +119,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__true_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruetrue01'.",
+          "message": "Rename class 'CWE582_Array_Public_Readonly_Static__basic_01_bad' to match pascal case naming rules, consider using 'Cwe582ArrayPublicReadonlyStaticbasic01Bad'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__true_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE582_Array_Public_Readonly_Static/CWE582_Array_Public_Readonly_Static__basic_01_bad.cs",
                 "region": {
-                  "startLine": 11,
+                  "startLine": 13,
                   "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__string_equals_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruestringequals01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__string_equals_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 58
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__private_return_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTrueprivatereturn01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_return_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 59
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE571_Expression_Always_True__n_equal_m_minus_one_01' to match pascal case naming rules, consider using 'Cwe571ExpressionAlwaysTruenequalmminusone01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__n_equal_m_minus_one_01.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 11,
-                  "endLine": 11,
-                  "endColumn": 64
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__n_less_int_max_01.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 36,
-                  "endLine": 17,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__class_getClass_equal_01.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 29,
-                  "endLine": 19,
-                  "endColumn": 41
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1940",
-          "level": "warning",
-          "message": "Use the opposite operator ('!=') instead.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__class_getClass_equal_01.cs",
-                "region": {
-                  "startLine": 22,
-                  "startColumn": 17,
-                  "endLine": 22,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_five_01.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 18,
-                  "endLine": 35,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_five_01.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 18,
-                  "endLine": 33,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__static_readonly_five_01.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 18,
-                  "endLine": 33,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__n_less_int_max_01.cs",
-                "region": {
-                  "startLine": 33,
-                  "startColumn": 36,
-                  "endLine": 33,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__n_equal_m_minus_one_01.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 37,
-                  "endLine": 35,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__n_equal_m_minus_one_01.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 37,
-                  "endLine": 36,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__class_getClass_equal_01.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 29,
-                  "endLine": 38,
-                  "endColumn": 41
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__class_getClass_equal_01.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 36,
-                  "endLine": 42,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__private_static_readonly_five_01.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 18,
-                  "endLine": 35,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__two_equals_two_01.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 22,
-                  "endLine": 17,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE571_Expression_Always_True/CWE571_Expression_Always_True__two_equals_two_01.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 17,
-                  "endLine": 17,
-                  "endColumn": 18
+                  "endLine": 13,
+                  "endColumn": 60
                 }
               }
             }
@@ -830,90 +187,6 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
-            ]
-          }
-        },
-        "S1764": {
-          "id": "S1764",
-          "shortDescription": "Identical expressions should not be used on both sides of a binary operator",
-          "fullDescription": "Using the same value on either side of a binary operator is almost always a mistake. In the case of logical operators, it is either a copy/paste error and therefore a bug, or it is simply wasted code, and should be simplified. In the case of bitwise operators and most binary mathematical operators, having the same value on both sides of an operator yields predictable results, and should be simplified.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1764",
-          "properties": {
-            "category": "Major Bug",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1940": {
-          "id": "S1940",
-          "shortDescription": "Boolean checks should not be inverted",
-          "fullDescription": "It is needlessly complex to invert the result of a boolean comparison. The opposite comparison should be made instead.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1940",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S2245": {
-          "id": "S2245",
-          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
-          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
-          "properties": {
-            "category": "Critical Security Hotspot",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "NotConfigurable"
-            ]
-          }
-        },
-        "S2933": {
-          "id": "S2933",
-          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
-          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S3400": {
-          "id": "S3400",
-          "shortDescription": "Methods should not return constants",
-          "fullDescription": "There's no point in forcing the overhead of a method call for a method that always returns the same constant value. Even worse, the fact that a method call must be made will likely mislead developers who call the method thinking that something more is done. Declare a constant instead. ",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3400",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope"
             ]
           }
         }

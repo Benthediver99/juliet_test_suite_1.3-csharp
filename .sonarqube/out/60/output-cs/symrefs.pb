@@ -1,764 +1,763 @@
-ú
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_01.cs
+∏
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_01.cs
 
- >
-
- 2
- 00: B33' /@@ $BB $2
-  , -Q Rp q2
- "" '' ,,& 3--! .
-00$ &55 
-99 #;;Q Y
-
-HH 
-MM JJ 2
-OO dd: Bgg' /tt $vv $2
-PP RR RR, -RRQ RRRp q<
-QQ UU ZZ __ ,``& 3aa! .
-dd$ &ii 
-mm #ooQ Y¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_02.cs
-
- >
+ 5
 
  2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
+  , -Q Rp q(
+ !! && ((' 3
 
-ÉÉ 
-∑∑ <
+// 
+44 11 2
+66 88 88, -88Q R88p q(
+77 ;; @@ EE& 2
+GG II ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_02.cs
 
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
-
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
-
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
-
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ ¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_03.cs
-
- >
+ 5
 
  2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
 
-ÉÉ 
-∑∑ <
+qq ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_03.cs
 
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
+ 5
 
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
 
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
+qq ¯
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_04.cs
 
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ 
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_04.cs
-
- > 
- )"" 
-ãã 
- *TT 
+ 5
+ )"" ]] 
+ *;; 
 
    2
-$$ 88> F;;+ 3HH  (JJ  (2
-%% '' ''0 1''U V''t u2
-&&  ** // 44* 755% 2
-88( *== 
-AA 'CCU ]
-RR 
-ºº 6
-[[ pp> Fss+ 3
-ÄÄ  (
-ÇÇ  (2
-\\ ^^ ^^0 1^^U V^^t u<
-]]  aa ff kk# 0ll* 7mm% 2
-pp( *uu 
-yy '{{U ]
+$$ && &&0 1&&U V&&t u(
+%% )) .. 00+ 7
+99 yy 2
+BB DD DD0 1DDU VDDt u(
+CC GG LL QQ* 6
+SS #UU 
+[[ zz 2
+__ aa aa0 1aaU Vaat u(
+`` dd ii nn* 6
+pp #rr 
 
-ââ 
-ΩΩ <
+ww ¯
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_05.cs
 
-çç 
-¢¢> F
-••+ 3
-≤≤  (
-¥¥  (<
-
-éé 
-êê 
-êê0 1
-êêU V
-êêt uH
-
-èè  
-ìì 
-òò 
-ùù# 0
-ûû* 7
-üü% 2
-
-¢¢( *
-ßß 
-
-´´ '
-≠≠U ]
-
-∫∫ 
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_05.cs
-
- > 
- "" 
-ãã 
- TT 
+ 5
+ "" ]] 
+ ;; 
 
    2
-$$ 88> F;;+ 3HH  (JJ  (2
-%% '' ''0 1''U V''t u2
-&&  ** // 44* 755% 2
-88( *== 
-AA 'CCU ]
-RR 
-ºº 6
-[[ pp> Fss+ 3
-ÄÄ  (
-ÇÇ  (2
-\\ ^^ ^^0 1^^U V^^t u<
-]]  aa ff kk# 0ll* 7mm% 2
-pp( *uu 
-yy '{{U ]
+$$ && &&0 1&&U V&&t u(
+%% )) .. 00+ 7
+99 yy 2
+BB DD DD0 1DDU VDDt u(
+CC GG LL QQ* 6
+SS #UU 
+[[ zz 2
+__ aa aa0 1aaU Vaat u(
+`` dd ii nn* 6
+pp #rr 
 
-ââ 
-ΩΩ <
+ww Ï
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_06.cs
 
-çç 
-¢¢> F
-••+ 3
-≤≤  (
-¥¥  (<
-
-éé 
-êê 
-êê0 1
-êêU V
-êêt uH
-
-èè  
-ìì 
-òò 
-ùù# 0
-ûû* 7
-üü% 2
-
-¢¢( *
-ßß 
-
-´´ '
-≠≠U ]
-
-∫∫ ‚
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_06.cs
-
- >*
- (!! SS 
-ää 
+ 5(
+ (!! :: \\ 
 
  2
-## 77> F::+ 3GG  (II  (2
-$$ && &&0 1&&U V&&t u2
-%%  )) .. 33* 744% 2
-77( *<< 
-@@ 'BBU ]
-QQ 
-ªª 4
-ZZ oo> Frr+ 3  (
-ÅÅ  (2
-[[ ]] ]]0 1]]U V]]t u<
-\\  `` ee jj# 0kk* 7ll% 2
-oo( *tt 
-xx 'zzU ]
+## %% %%0 1%%U V%%t u(
+$$ (( -- //+ 7
+88 xx 2
+AA CC CC0 1CCU VCCt u(
+BB FF KK PP* 6
+RR #TT 
+ZZ yy 2
+^^ `` ``0 1``U V``t u(
+__ cc hh mm* 6
+oo #qq 
 
-àà 
-ºº <
+vv Ï
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_07.cs
 
-åå 
-°°> F
-§§+ 3
-±±  (
-≥≥  (<
-
-çç 
-èè 
-èè0 1
-èèU V
-èèt uH
-
-éé  
-íí 
-óó 
-úú# 0
-ùù* 7
-ûû% 2
-
-°°( *
-¶¶ 
-
-™™ '
-¨¨U ]
-
-ππ ‚
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_07.cs
-
- >*
- !! SS 
-ää 
+ 5(
+ !! :: \\ 
 
  2
-## 77> F::+ 3GG  (II  (2
-$$ && &&0 1&&U V&&t u2
-%%  )) .. 33* 744% 2
-77( *<< 
-@@ 'BBU ]
-QQ 
-ªª 4
-ZZ oo> Frr+ 3  (
-ÅÅ  (2
-[[ ]] ]]0 1]]U V]]t u<
-\\  `` ee jj# 0kk* 7ll% 2
-oo( *tt 
-xx 'zzU ]
+## %% %%0 1%%U V%%t u(
+$$ (( -- //+ 7
+88 xx 2
+AA CC CC0 1CCU VCCt u(
+BB FF KK PP* 6
+RR #TT 
+ZZ yy 2
+^^ `` ``0 1``U V``t u(
+__ cc hh mm* 6
+oo #qq 
 
-àà 
-ºº <
+vv ¸
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_08.cs
 
-åå 
-°°> F
-§§+ 3
-±±  (
-≥≥  (<
-
-çç 
-èè 
-èè0 1
-èèU V
-èèt uH
-
-éé  
-íí 
-óó 
-úú# 0
-ùù* 7
-ûû% 2
-
-°°( *
-¶¶ 
-
-™™ '
-¨¨U ]
-
-ππ Ù
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_08.cs
-
- > 
- *)) 
-íí 
-"" +[[ 
+ 5
+ *)) dd 
+"" +BB 
 
 '' 2
-++ ??> FBB+ 3OO  (QQ  (2
-,, .. ..0 1..U V..t u2
---  11 66 ;;* 7<<% 2
-??( *DD 
-HH 'JJU ]
-YY 
-√√ 6
-bb ww> Fzz+ 3
-áá  (
-ââ  (2
-cc ee ee0 1eeU Veet u<
-dd  hh mm rr# 0ss* 7tt% 2
-ww( *|| 
-
-ÄÄ '
-ÇÇU ]
-
-êê 
-ƒƒ <
-
-îî 
-©©> F
-¨¨+ 3
-ππ  (
-ªª  (<
-
-ïï 
-óó 
-óó0 1
-óóU V
-óót uH
-
-ññ  
-öö 
-üü 
-§§# 0
-••* 7
-¶¶% 2
-
-©©( *
-ÆÆ 
-
-≤≤ '
-¥¥U ]
-
-¡¡ ¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_09.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
-
-ÉÉ 
-∑∑ <
-
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
-
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
-
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
-
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ ¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_10.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
-
-ÉÉ 
-∑∑ <
-
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
-
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
-
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
-
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ ¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_11.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
-
-ÉÉ 
-∑∑ <
-
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
-
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
-
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
-
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ é	
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_12.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]2
-JJ __> Fbb+ 3oo  (qq  (2
-KK MM MM0 1MMU VMMt u<
-LL  PP UU ZZ# 0[[* 7\\% 2
-__( *dd 
-hh 'jjU ]
-yy 
-ŸŸ :
-}} 
-íí> F
-ïï+ 3
-¢¢  (
-§§  (:
-~~ 
-ÄÄ 
-ÄÄ0 1
-ÄÄU V
-ÄÄt uF
-  
-ÉÉ 
-àà 
-çç# 0
-éé* 7
-èè% 2
-
-íí( *
-óó 
-
-õõ '
-ùùU ]<
-
-™™ 
-øø> F
-¬¬+ 3
-œœ  (
-——  (<
-
-´´ 
-≠≠ 
-≠≠0 1
-≠≠U V
-≠≠t uH
-
-¨¨  
-∞∞ 
-µµ 
-∫∫# 0
-ªª* 7
-ºº% 2
-
-øø( *
-ƒƒ 
-
-»» '
-  U ]
-
-◊◊ ¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_13.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
-
-ÉÉ 
-∑∑ <
-
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
-
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
-
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
-
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ ¥
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_14.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL 
-∂∂ 2
-UU jj> Fmm+ 3zz  (||  (2
-VV XX XX0 1XXU VXXt u<
-WW  [[ `` ee# 0ff* 7gg% 2
-jj( *oo 
-ss 'uuU ]
-
-ÉÉ 
-∑∑ <
-
-áá 
-úú> F
-üü+ 3
-¨¨  (
-ÆÆ  (<
-
-àà 
-ää 
-ää0 1
-ääU V
-äät uH
-
-ââ  
-çç 
-íí 
-óó# 0
-òò* 7
-ôô% 2
-
-úú( *
-°° 
-
-•• '
-ßßU ]
-
-¥¥ ∏
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_15.cs
-
- >
-
- 2
- 33> F66+ 3CC  (EE  (2
-   "" ""0 1""U V""t u2
-!!  %% ** //* 700% 2
-33( *88 
-<< '>>U ]
-RR 
-√√ 6
-[[ pp> Fss+ 3
-ÄÄ  (
-ÇÇ  (2
-\\ ^^ ^^0 1^^U V^^t u<
-]]  aa ff kk# 0ll* 7mm% 2
-pp( *uu 
-yy '{{U ]
-
-ää 
-ƒƒ <
-
-èè 
-§§> F
-ßß+ 3
-¥¥  (
-∂∂  (<
-
-êê 
-íí 
-íí0 1
-ííU V
-íít uH
-
-ëë  
-ïï 
-öö 
-üü# 0
-††* 7
-°°% 2
-
-§§( *
-©© 
-
-≠≠ '
-ØØU ]
-
-¡¡ û
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_16.cs
-
- >
-
- 2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-MM 
+++ -- --0 1--U V--t u(
+,, 00 55 77+ 7
+@@ 
+ÄÄ 2
+II KK KK0 1KKU VKKt u(
+JJ NN SS XX* 6
+ZZ #\\ 
+bb 
 ÅÅ 2
-QQ ff> Fii+ 3vv  (xx  (2
-RR TT TT0 1TTU VTTt u<
-SS  WW \\ aa# 0bb* 7cc% 2
-ff( *kk 
-oo 'qqU ]
+ff hh hh0 1hhU Vhht u(
+gg kk pp uu* 6
+ww #yy 
 
- ‹
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_17.cs
+~~ ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_09.cs
 
- >
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
+
+qq ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_10.cs
+
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
+
+qq ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_11.cs
+
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
+
+qq ¢
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_12.cs
+
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 72
+11 33 330 133U V33t u(
+22 66 ;; @@* 6
+BB #DD 
+KK 
+ÅÅ 2
+OO QQ QQ0 1QQU VQQt u(
+PP TT YY ^^* 6
+`` #bb 2
+gg ii ii0 1iiU Viit u(
+hh ll qq vv* 6
+xx #zz 
+
+ ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_13.cs
+
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
+
+qq ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_14.cs
+
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+33 ss 2
+<< >> >>0 1>>U V>>t u(
+== AA FF KK* 6
+MM #OO 
+UU tt 2
+YY [[ [[0 1[[U V[[t u(
+ZZ ^^ cc hh* 6
+jj #ll 
+
+qq ∆
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_15.cs
+
+ 5
+
+ 2
+ !! !!0 1!!U V!!t u(
+   $$ )) +++ 7
+99 
+ÄÄ 2
+BB DD DD0 1DDU VDDt u(
+CC GG LL QQ* 6
+SS #UU 
+\\ 
+ÅÅ 2
+aa cc cc0 1ccU Vcct u(
+bb ff kk pp* 6
+rr #tt 
+
+~~ ∏
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_16.cs
+
+ 5
+
+ 2
+      0 1  U V  t u(
+ ## (( **+ 7
+44 SS 2
+88 :: ::0 1::U V::t u(
+99 == BB GG* 6
+II #KK 
+
+QQ ¯
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__CreateDirectory_17.cs
+
+ 5
 
  
    2
- 22> F55+ 3BB  (DD  (2
- !! !!0 1!!U V!!t u2
-    $$ )) ..* 7//% 2
-22( *77 
-;; '==U ]
-LL  
-NN NN NN 2
-PP ee> Fhh+ 3uu  (ww  (2
-QQ SS SS0 1SSU VSSt u<
-RR  VV [[ ``# 0aa* 7bb% 2
-ee( *jj 
-nn 'ppU ]
+      0 1  U V  t u(
+ ## (( **+ 7
+33 QQ 
+55 55 55 2
+77 99 990 199U V99t u(
+88 << AA FF* 6
+HH #JJ 
 
-}} •
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\Program.cs
+OO ›
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_01.cs
+
+ ,
+
+ 2
+  , -Q Rp q(
+ !! && **6 :
+
+**  "
+
+//% 7
+
+66 
+;; 88 2
+== ?? ??, -??Q R??p q(
+>> BB GG KK6 :
+
+KK  "
+PP% 7SS2 DTT $É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_02.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_03.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ Ω
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_04.cs
+
+ ,
+ )"" hh 
+ *BB 
+
+   2
+$$ && &&0 1&&U V&&t u(
+%% )) .. 22: >
+
+22$ &
+
+77) ;
+@@ 
+àà 2
+II KK KK0 1KKU VKKt u(
+JJ NN SS WW: >
+
+WW$ &
+\\) ;__6 H`` (
+ff 
+ââ 2
+jj ll ll0 1llU Vllt u(
+kk oo tt xx: >
+
+xx$ &"
+}}) ;
+ÄÄ6 H
+ÅÅ (
+
+ÜÜ Ω
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_05.cs
+
+ ,
+ "" hh 
+ BB 
+
+   2
+$$ && &&0 1&&U V&&t u(
+%% )) .. 22: >
+
+22$ &
+
+77) ;
+@@ 
+àà 2
+II KK KK0 1KKU VKKt u(
+JJ NN SS WW: >
+
+WW$ &
+\\) ;__6 H`` (
+ff 
+ââ 2
+jj ll ll0 1llU Vllt u(
+kk oo tt xx: >
+
+xx$ &"
+}}) ;
+ÄÄ6 H
+ÅÅ (
+
+ÜÜ Ø
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_06.cs
+
+ ,(
+ (!! AA gg 
+
+ 2
+## %% %%0 1%%U V%%t u(
+$$ (( -- 11: >
+
+11$ &
+
+66) ;
+?? 
+áá 2
+HH JJ JJ0 1JJU VJJt u(
+II MM RR VV: >
+
+VV$ &
+[[) ;^^6 H__ (
+ee 
+àà 2
+ii kk kk0 1kkU Vkkt u(
+jj nn ss ww: >
+
+ww$ & 
+||) ;6 H
+ÄÄ (
+
+ÖÖ Ø
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_07.cs
+
+ ,(
+ !! AA gg 
+
+ 2
+## %% %%0 1%%U V%%t u(
+$$ (( -- 11: >
+
+11$ &
+
+66) ;
+?? 
+áá 2
+HH JJ JJ0 1JJU VJJt u(
+II MM RR VV: >
+
+VV$ &
+[[) ;^^6 H__ (
+ee 
+àà 2
+ii kk kk0 1kkU Vkkt u(
+jj nn ss ww: >
+
+ww$ & 
+||) ;6 H
+ÄÄ (
+
+ÖÖ ø
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_08.cs
+
+ ,
+ *)) oo 
+"" +II 
+
+'' 2
+++ -- --0 1--U V--t u(
+,, 00 55 99: >
+
+99$ &
+
+>>) ;
+GG 
+èè 2
+PP RR RR0 1RRU VRRt u(
+QQ UU ZZ ^^: >
+
+^^$ &
+cc) ;ff6 Hgg (
+mm 
+êê 2
+qq ss ss0 1ssU Vsst u(
+rr vv {{ : >
+
+$ &$
+
+ÑÑ) ;
+áá6 H
+àà (
+
+çç É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_09.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_10.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_11.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ Å
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_12.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;2
+88 :: ::0 1::U V::t u(
+99 == BB FF: >
+
+FF$ &
+KK) ;NN6 HOO (
+VV 
+îî 2
+ZZ \\ \\0 1\\U V\\t u(
+[[ __ dd hh: >
+
+hh$ &
+mm) ;pp6 Hqq (2
+vv xx xx0 1xxU Vxxt u,
+ww {{ 
+ÄÄ 
+ÑÑ: >
+
+ÑÑ$ &$
+
+ââ) ;
+åå6 H
+çç (
+
+íí É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_13.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ É
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_14.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: 
+ÇÇ 2
+CC EE EE0 1EEU VEEt u(
+DD HH MM QQ: >
+
+QQ$ &
+VV) ;YY6 HZZ (
+`` 
+ÉÉ 2
+dd ff ff0 1ffU Vfft u(
+ee ii nn rr: >
+
+rr$ &
+ww) ;zz6 H{{ (
+
+ÄÄ á
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_15.cs
+
+ ,
+
+ 2
+ !! !!0 1!!U V!!t u(
+   $$ )) --: >
+
+--$ &
+
+22) ;
+@@ 
+èè 2
+II KK KK0 1KKU VKKt u(
+JJ NN SS WW: >
+
+WW$ &
+\\) ;__6 H`` (
+gg 
+êê 2
+ll nn nn0 1nnU Vnnt u(
+mm qq vv zz: >
+
+zz$ &"
+) ;
+ÇÇ6 H
+ÉÉ (
+
+çç ›
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_16.cs
+
+ ,
+
+ 2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+;; ^^ 2
+?? AA AA0 1AAU VAAt u(
+@@ DD II MM: >
+
+MM$ &
+RR) ;UU6 HVV (
+
+\\ ù
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action__reader_17.cs
+
+ ,
+
+ 
+   2
+      0 1  U V  t u(
+ ## (( ,,: >
+
+,,$ &
+
+11) ;
+:: \\ 
+<< << << 2
+>> @@ @@0 1@@U V@@t u(
+?? CC HH LL: >
+
+LL$ &
+QQ) ;TT6 HUU (
+
+ZZ ò
+ÅC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\Program.cs
 
  
 
@@ -771,14 +770,17 @@
 22 55 
 OO  CC 
 UU  DD 
-[[  EE 
-qq  FF 
-ww  GG 
-}}  HH 
+[[  EE 
 
-ÉÉ  II 
+ÇÇ  FF 
 
-ââ  JJ 
+àà  GG 
 
-èè  KK ß
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\Properties\AssemblyInfo.cs
+éé  HH 
+
+îî  II 
+
+öö  JJ 
+
+††  KK î
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\Properties\AssemblyInfo.cs

@@ -1,5 +1,5 @@
-ƒ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\CWE764_Multiple_locks__Monitor_Object_Thread_01.cs
+æ
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\CWE765_Multiple_Unlocks__Monitor_Object_Thread_01.cs
 	namespace
 
  	
@@ -9,28 +9,23 @@
  
 .
 
- !
-CWE764_Multiple_Locks
+ #
+CWE765_Multiple_Unlocks
 
- )
+ +
 { 
-class 	;
-/CWE764_Multiple_locks__Monitor_Object_Thread_01
- 9
-:: ;
-AbstractTestCase< L
+class 	=
+1CWE765_Multiple_Unlocks__Monitor_Object_Thread_01
+ ;
+:< =
+AbstractTestCase> N
 { 
 static 
 private 
 readonly 
 object  &
 badLock' .
-=/ 0
-new1 4
-object5 ;
-(; <
-)< =
-;= >
+;. /
 static 
 private 
 int 
@@ -51,25 +46,25 @@
 ( 
 badLock !
 )! "
-;" #
-Monitor 
-. 
-Enter 
-( 
-badLock !
-)! "
-;" #
-try 
-{ 
-intBad 
-= 
-intBad 
-*  !
-$num" #
-;# $
-} 
-finally 
-{ 
+;" #
+try 
+{ 
+intBad 
+= 
+intBad 
+*  !
+$num" #
+;# $
+} 
+finally 
+{ 
+Monitor 
+. 
+Exit 
+( 
+badLock $
+)$ %
+;% &
 Monitor 
 . 
 Exit 
@@ -84,12 +79,7 @@
 readonly## 
 object##  &
 goodLock##' /
-=##0 1
-new##2 5
-object##6 <
-(##< =
-)##= >
-;##> ?
+;##/ 0
 static$$ 
 private$$ 
 int$$ 
@@ -143,13 +133,13 @@
 ;66 
 }77 	
 }:: 
-};; È*
-{C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\Program.cs
+};; Î*
+}C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\Program.cs
 	namespace		 	
 	testcases		
  
-.		 !
-CWE764_Multiple_Locks		 )
+.		 #
+CWE765_Multiple_Unlocks		 +
 {
 
  
@@ -424,17 +414,17 @@ StackTrace55 %
 )ss! "
 {ss# $
 (uu 
-newuu ;
-/CWE764_Multiple_locks__Monitor_Object_Thread_01uu 7
-(uu7 8
-)uu8 9
-)uu9 :
-.uu: ;
-RunTestuu; B
-(uuB C
-$struuC t
-)uut u
-;uuu v
+newuu =
+1CWE765_Multiple_Unlocks__Monitor_Object_Thread_01uu 9
+(uu9 :
+)uu: ;
+)uu; <
+.uu< =
+RunTestuu= D
+(uuD E
+$struuE x
+)uux y
+;uuy z
 }ww 
 privateyy 
 staticyy	 
@@ -454,17 +444,17 @@ StackTrace55 %
 }
 ƒƒ 
 }„„ 
-}…… ·
-‹C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\Properties\AssemblyInfo.cs
+}…… ¹
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 
 
 AssemblyTitle 
 ( 
-$str 0
-)0 1
-]1 2
+$str 2
+)2 3
+]3 4
 [		 
 assembly		 	
 :			 
@@ -514,9 +504,9 @@ StackTrace55 %
 
 AssemblyProduct 
 ( 
-$str 2
-)2 3
-]3 4
+$str 4
+)4 5
+]5 6
 [ 
 assembly 	
 :	 

@@ -1,0 +1,157 @@
+Product projects
+---------------------------------------
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcasesupport\TestCaseSupport.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE113_HTTP_Response_Splitting\s02\CWE113_HTTP_Response_Splitting_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s01\CWE190_Integer_Overflow_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE606_Unchecked_Loop_Condition\CWE606_Unchecked_Loop_Condition.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE609_Double_Checked_Locking\CWE609_Double_Checked_Locking.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE643_Xpath_Injection\CWE643_Xpath_Injection.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE667_Improper_Locking\CWE667_Improper_Locking.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\CWE674_Uncontrolled_Recursion.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s02\CWE190_Integer_Overflow_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE690_NULL_Deref_From_Return\CWE690_NULL_Deref_From_Return.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE698_Execution_After_Redirect\CWE698_Execution_After_Redirect.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE764_Multiple_Locks\CWE764_Multiple_Locks.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE765_Multiple_Unlocks\CWE765_Multiple_Unlocks.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\CWE775_Missing_Release_of_File_Descriptor_or_Handle.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s01\CWE789_Uncontrolled_Mem_Alloc_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s03\CWE190_Integer_Overflow_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s02\CWE789_Uncontrolled_Mem_Alloc_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s03\CWE789_Uncontrolled_Mem_Alloc_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s02\CWE80_XSS_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE81_XSS_Error_Message\CWE81_XSS_Error_Message.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE832_Unlock_Not_Locked\CWE832_Unlock_Not_Locked.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE833_Deadlock\CWE833_Deadlock.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE835_Infinite_Loop\CWE835_Infinite_Loop.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE83_XSS_Attribute\CWE83_XSS_Attribute.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s04\CWE190_Integer_Overflow_s04.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE89_SQL_Injection\s01\CWE89_SQL_Injection_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE89_SQL_Injection\s02\CWE89_SQL_Injection_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE90_LDAP_Injection\CWE90_LDAP_Injection.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE94_Improper_Control_of_Generation_of_Code\CWE94_Improper_Control_of_Generation_of_Code.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s05\CWE190_Integer_Overflow_s05.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s06\CWE190_Integer_Overflow_s06.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE190_Integer_Overflow\s07\CWE190_Integer_Overflow_s07.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE191_Integer_Underflow\s01\CWE191_Integer_Underflow_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE191_Integer_Underflow\s02\CWE191_Integer_Underflow_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE191_Integer_Underflow\s03\CWE191_Integer_Underflow_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE114_Process_Control\CWE114_Process_Control.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE191_Integer_Underflow\s04\CWE191_Integer_Underflow_s04.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE191_Integer_Underflow\s05\CWE191_Integer_Underflow_s05.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE193_Off_by_One_Error\CWE193_Off_by_One_Error.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s01\CWE197_Numeric_Truncation_Error_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s02\CWE197_Numeric_Truncation_Error_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s03\CWE197_Numeric_Truncation_Error_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s04\CWE197_Numeric_Truncation_Error_s04.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s05\CWE197_Numeric_Truncation_Error_s05.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s06\CWE197_Numeric_Truncation_Error_s06.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s07\CWE197_Numeric_Truncation_Error_s07.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE117_Improper_Output_Neutralization_for_Logs\CWE117_Improper_Output_Neutralization_for_Logs.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s08\CWE197_Numeric_Truncation_Error_s08.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE197_Numeric_Truncation_Error\s09\CWE197_Numeric_Truncation_Error_s09.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE209_Information_Leak_Error\CWE209_Information_Leak_Error.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE226_Sensitive_Information_Uncleared_Before_Release\CWE226_Sensitive_Information_Uncleared_Before_Release.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE23_Relative_Path_Traversal\CWE23_Relative_Path_Traversal.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE248_Uncaught_Exception\CWE248_Uncaught_Exception.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE252_Unchecked_Return_Value\CWE252_Unchecked_Return_Value.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE256_Unprotected_Storage_of_Credentials\CWE256_Unprotected_Storage_of_Credentials.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE259_Hard_Coded_Password\CWE259_Hard_Coded_Password.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s01\CWE129_Improper_Validation_of_Array_Index_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE261_Weak_Cryptography_for_Passwords\CWE261_Weak_Cryptography_for_Passwords.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\CWE284_Improper_Access_Control.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE313_Cleartext_Storage_in_a_File_or_on_Disk\CWE313_Cleartext_Storage_in_a_File_or_on_Disk.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE314_Cleartext_Storage_in_the_Registry\CWE314_Cleartext_Storage_in_the_Registry.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE315_Cleartext_Storage_in_Cookie\CWE315_Cleartext_Storage_in_Cookie.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE319_Cleartext_Tx_Sensitive_Info\CWE319_Cleartext_Tx_Sensitive_Info.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE321_Hard_Coded_Cryptographic_Key\CWE321_Hard_Coded_Cryptographic_Key.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\CWE328_Reversible_One_Way_Hash.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s02\CWE129_Improper_Validation_of_Array_Index_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE329_Not_Using_Random_IV_with_CBC_Mode\CWE329_Not_Using_Random_IV_with_CBC_Mode.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE366_Race_Condition_within_a_Thread\CWE366_Race_Condition_within_a_Thread.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE369_Divide_by_Zero\s01\CWE369_Divide_by_Zero_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE369_Divide_by_Zero\s02\CWE369_Divide_by_Zero_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE369_Divide_by_Zero\s03\CWE369_Divide_by_Zero_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE36_Absolute_Path_Traversal\CWE36_Absolute_Path_Traversal.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s03\CWE129_Improper_Validation_of_Array_Index_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\CWE390_Error_Without_Action.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE397_Throw_Generic_Exception\CWE397_Throw_Generic_Exception.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption_s01.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s02\CWE400_Uncontrolled_Resource_Consumption_s02.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s03\CWE400_Uncontrolled_Resource_Consumption_s03.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s04\CWE129_Improper_Validation_of_Array_Index_s04.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE427_Uncontrolled_Search_Path_Element\CWE427_Uncontrolled_Search_Path_Element.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE440_Expected_Behavior_Violation\CWE440_Expected_Behavior_Violation.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE459_Incomplete_Cleanup\CWE459_Incomplete_Cleanup.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\CWE470_Unsafe_Reflection.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE476_NULL_Pointer_Dereference\CWE476_NULL_Pointer_Dereference.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE482_Comparing_Instead_of_Assigning\CWE482_Comparing_Instead_of_Assigning.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE134_Externally_Controlled_Format_String\CWE134_Externally_Controlled_Format_String.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE506_Embedded_Malicious_Code\CWE506_Embedded_Malicious_Code.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE510_Trapdoor\CWE510_Trapdoor.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE15_External_Control_of_System_or_Configuration_Setting\CWE15_External_Control_of_System_or_Configuration_Setting.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\CWE561_Dead_Code.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE582_Array_Public_Readonly_Static\CWE582_Array_Public_Readonly_Static.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE598_Information_Exposure_QueryString\CWE598_Information_Exposure_QueryString.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE601_Open_Redirect\CWE601_Open_Redirect.csproj
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE605_Multiple_Binds_Same_Port\CWE605_Multiple_Binds_Same_Port.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

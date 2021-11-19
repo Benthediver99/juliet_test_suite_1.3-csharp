@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
                 "region": {
-                  "startLine": 42,
+                  "startLine": 68,
                   "startColumn": 13,
-                  "endLine": 42,
+                  "endLine": 68,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02.cs",
                 "region": {
-                  "startLine": 53,
+                  "startLine": 68,
                   "startColumn": 13,
-                  "endLine": 53,
+                  "endLine": 68,
                   "endColumn": 15
                 }
               }
@@ -60,11 +60,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 74,
                   "startColumn": 13,
-                  "endLine": 55,
+                  "endLine": 74,
                   "endColumn": 15
                 }
               }
@@ -81,11 +81,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 73,
                   "startColumn": 13,
-                  "endLine": 54,
+                  "endLine": 73,
                   "endColumn": 15
                 }
               }
@@ -102,11 +102,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 62,
                   "startColumn": 13,
-                  "endLine": 48,
+                  "endLine": 62,
                   "endColumn": 15
                 }
               }
@@ -123,11 +123,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 75,
                   "startColumn": 13,
-                  "endLine": 48,
+                  "endLine": 75,
                   "endColumn": 15
                 }
               }
@@ -144,11 +144,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
                 "region": {
-                  "startLine": 85,
+                  "startLine": 147,
                   "startColumn": 13,
-                  "endLine": 85,
+                  "endLine": 147,
                   "endColumn": 15
                 }
               }
@@ -156,195 +156,6 @@
           ],
           "properties": {
             "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_02.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 13,
-                  "endLine": 48,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 13,
-                  "endLine": 48,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_04.cs",
-                "region": {
-                  "startLine": 54,
-                  "startColumn": 13,
-                  "endLine": 54,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_06.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 13,
-                  "endLine": 53,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 13,
-                  "endLine": 42,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 13,
-                  "endLine": 55,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 13,
-                  "endLine": 85,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_01' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd501'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_01.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 55
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
@@ -354,7 +165,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs",
                 "region": {
                   "startLine": 30,
                   "startColumn": 18,
@@ -375,7 +186,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs",
                 "region": {
                   "startLine": 31,
                   "startColumn": 18,
@@ -396,385 +207,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_06.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 89
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_05' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd505'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_05.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_07.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 75
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_02' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha102'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_02.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_15' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd515'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_03' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd503'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_13' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd513'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_13.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_17' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd517'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_17.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_13.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 99
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_10' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha110'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_10.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_14.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_04' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha104'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_04.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 5,
-                  "endLine": 48,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_08' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha108'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_08.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_12' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha112'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_12.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_07.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 17,
-                  "endLine": 30,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_06' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha106'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_06.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -791,16 +224,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_07' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd507'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_05.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -816,7 +249,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -831,55 +264,13 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_14' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd514'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_14.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_09' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd509'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_09.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -896,16 +287,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_02' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd502'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -917,16 +308,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_16' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd516'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic14'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -938,16 +329,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_12' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd512'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_10' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_10.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -959,16 +350,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_11' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd511'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_01' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_01.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -980,16 +371,79 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_03' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha103'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_09' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_09.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 46
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic04'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_04.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_11' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_11.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 57
                 }
               }
             }
@@ -1005,7 +459,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -1026,7 +480,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -1047,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -1068,11 +522,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 68,
                   "startColumn": 5,
-                  "endLine": 48,
+                  "endLine": 68,
                   "endColumn": 49
                 }
               }
@@ -1085,16 +539,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_13' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha113'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_06.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 46
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 28
                 }
               }
             }
@@ -1106,16 +581,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_04' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd504'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_15.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -1131,7 +606,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -1152,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -1173,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -1190,16 +665,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_11' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha111'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic07'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_07.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 46
+                  "endColumn": 57
                 }
               }
             }
@@ -1211,16 +686,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_08' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd508'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic03'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -1232,16 +707,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_01' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha101'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 46
+                  "endColumn": 57
                 }
               }
             }
@@ -1253,16 +728,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_06' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd506'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_17' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic17'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_17.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 57
                 }
               }
             }
@@ -1274,184 +749,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_09' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha109'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_02.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__MD5_10' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashMd510'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_10.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_07.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 17,
-                  "endLine": 30,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_07' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha107'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_07.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_14' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha114'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_14.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_05.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 18,
-                  "endLine": 30,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_05.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_05' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha105'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_05.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_16' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha116'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_16.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
+                  "endColumn": 57
                 }
               }
             }
@@ -1467,7 +774,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -1484,37 +791,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_15' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha115'.",
+          "message": "Rename class 'CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12' to match pascal case naming rules, consider using 'Cwe329NotUsingRandomIvwithCbcModebasic12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE328_Reversible_One_Way_Hash__SHA1_17' to match pascal case naming rules, consider using 'Cwe328ReversibleOneWayHashSha117'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_17.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 46
+                  "endColumn": 57
                 }
               }
             }
@@ -1530,7 +816,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs",
                 "region": {
                   "startLine": 30,
                   "startColumn": 25,
@@ -1551,327 +837,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_08.cs",
                 "region": {
                   "startLine": 35,
                   "startColumn": 25,
                   "endLine": 35,
                   "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_10.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_13.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_07.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 40,
-                  "endLine": 36,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_09.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_15.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 40,
-                  "endLine": 32,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_11.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_01.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 36,
-                  "endLine": 29,
-                  "endColumn": 66
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_08.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 40,
-                  "endLine": 44,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_02.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_14.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_05.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 40,
-                  "endLine": 37,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_06.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 40,
-                  "endLine": 36,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_04.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 40,
-                  "endLine": 37,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_12.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
                 }
               }
             }
@@ -1887,7 +858,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 18,
@@ -1900,11 +871,79 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 13,
                   "endLine": 29,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 18,
+                  "endLine": 65,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 13,
+                  "endLine": 65,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 18,
+                  "endLine": 106,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_03.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 13,
+                  "endLine": 106,
                   "endColumn": 14
                 }
               }
@@ -1921,11 +960,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 96,
                   "startColumn": 9,
-                  "endLine": 55,
+                  "endLine": 96,
                   "endColumn": 11
                 }
               }
@@ -1936,692 +975,31 @@
           }
         },
         {
-          "ruleId": "S1764",
+          "ruleId": "S1871",
           "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "message": "Either merge this branch with the identical one on line 97 or change one of the implementations.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
                 "region": {
-                  "startLine": 45,
-                  "startColumn": 18,
-                  "endLine": 45,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 13,
-                  "endLine": 45,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_16.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 13,
-                  "endLine": 38,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_16.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 18,
-                  "endLine": 65,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_03.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 13,
-                  "endLine": 65,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_01.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 37,
-                  "endLine": 29,
-                  "endColumn": 68
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_17.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 40,
-                  "endLine": 31,
-                  "endColumn": 70
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 13,
-                  "endLine": 29,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_08.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 25,
-                  "endLine": 30,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_04.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 41,
-                  "endLine": 37,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_06.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 41,
-                  "endLine": 36,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__MD5_16.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 13,
-                  "endLine": 55,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_02.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_10.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_08.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 25,
-                  "endLine": 35,
-                  "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_11.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_07.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 41,
-                  "endLine": 36,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_08.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 41,
-                  "endLine": 44,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_09.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_14.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_05.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 41,
-                  "endLine": 37,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '!='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 18,
-                  "endLine": 45,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 13,
-                  "endLine": 45,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_13.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_16.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 13,
-                  "endLine": 38,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_16.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 18,
-                  "endLine": 65,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_03.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 13,
-                  "endLine": 65,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_12.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4790",
-          "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_15.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 41,
-                  "endLine": 32,
-                  "endColumn": 72
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_16.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 13,
-                  "endLine": 55,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3923",
-          "level": "warning",
-          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_12.cs",
-                "region": {
-                  "startLine": 55,
+                  "startLine": 128,
                   "startColumn": 9,
-                  "endLine": 55,
-                  "endColumn": 11
+                  "endLine": 157,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_12.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 9,
+                  "endLine": 126,
+                  "endColumn": 10
                 }
               }
             }
@@ -2631,18 +1009,39 @@
           }
         },
         {
-          "ruleId": "S4790",
+          "ruleId": "S1751",
           "level": "warning",
-          "message": "Make sure this weak hash algorithm is not used in a sensitive context here.",
+          "message": "Refactor the containing loop to do more than one iteration.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE328_Reversible_One_Way_Hash/CWE328_Reversible_One_Way_Hash__SHA1_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 41,
-                  "endLine": 31,
-                  "endColumn": 72
+                  "startLine": 58,
+                  "startColumn": 13,
+                  "endLine": 58,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE329_Not_Using_Random_IV_with_CBC_Mode/CWE329_Not_Using_Random_IV_with_CBC_Mode__basic_16.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 13,
+                  "endLine": 96,
+                  "endColumn": 19
                 }
               }
             }
@@ -2751,6 +1150,22 @@
             ]
           }
         },
+        "S1871": {
+          "id": "S1871",
+          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
         "S2933": {
           "id": "S2933",
           "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
@@ -2798,23 +1213,6 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
-            ]
-          }
-        },
-        "S4790": {
-          "id": "S4790",
-          "shortDescription": "Using weak hashing algorithms is security-sensitive",
-          "fullDescription": "Cryptographic hash algorithms such as MD2, MD4, MD5, MD6, HAVAL-128, HMAC-MD5, DSA (which uses SHA-1), RIPEMD, RIPEMD-128, RIPEMD-160, HMACRIPEMD160 and SHA-1 are no longer considered secure, because it is possible to have collisions (little computational effort is enough to find two or more different inputs that produce the same hash).",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4790",
-          "properties": {
-            "category": "Critical Security Hotspot",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "NotConfigurable"
             ]
           }
         }

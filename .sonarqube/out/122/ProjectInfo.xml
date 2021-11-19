@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE789_Uncontrolled_Mem_Alloc_s03</ProjectName>
+  <ProjectName>CWE78_OS_Command_Injection</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>9d5966b6-c5de-170e-70a7-bb508fe66f6f</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE789_Uncontrolled_Mem_Alloc\s03\CWE789_Uncontrolled_Mem_Alloc_s03.csproj</FullPath>
+  <ProjectGuid>3628e8bb-cfcc-1b9d-6b06-144b9524ef1b</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\122\FilesToAnalyze.txt" />

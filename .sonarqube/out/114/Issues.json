@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 49,
+                  "startLine": 50,
                   "startColumn": 13,
-                  "endLine": 49,
+                  "endLine": 50,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_02.cs",
                 "region": {
-                  "startLine": 49,
+                  "startLine": 50,
                   "startColumn": 13,
-                  "endLine": 49,
+                  "endLine": 50,
                   "endColumn": 15
                 }
               }
@@ -60,70 +60,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_06.cs",
-                "region": {
-                  "startLine": 54,
-                  "startColumn": 13,
-                  "endLine": 54,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_04.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 13,
-                  "endLine": 55,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 13,
-                  "endLine": 43,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_04.cs",
                 "region": {
                   "startLine": 56,
                   "startColumn": 13,
@@ -144,11 +81,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_06.cs",
                 "region": {
-                  "startLine": 98,
+                  "startLine": 55,
                   "startColumn": 13,
-                  "endLine": 98,
+                  "endLine": 55,
                   "endColumn": 15
                 }
               }
@@ -159,207 +96,81 @@
           }
         },
         {
-          "ruleId": "S125",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "Remove this commented out code.",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
                 "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 55
+                  "startLine": 44,
+                  "startColumn": 13,
+                  "endLine": 44,
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 13,
+                  "endLine": 57,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 13,
+                  "endLine": 99,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
           }
         },
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_03' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic03'.",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_01' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_01.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_07.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 17,
-                  "endLine": 30,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_06.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 89
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_07' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic07'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_07.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_07.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 1,
-                  "endLine": 12,
-                  "endColumn": 75
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_09' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic09'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_09.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_10' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic10'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_10.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_02' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic02'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_02.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_12' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic12'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_12.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 53
                 }
               }
             }
@@ -375,7 +186,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_05.cs",
                 "region": {
                   "startLine": 30,
                   "startColumn": 18,
@@ -396,7 +207,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_05.cs",
                 "region": {
                   "startLine": 31,
                   "startColumn": 18,
@@ -417,7 +228,259 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_07.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_05' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic05'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_05.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_07' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_07.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_06.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_02' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic02'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_02.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_07.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_11' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_11.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_13' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_06' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic06'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_06.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_14' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_14.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_09' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic09'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_09.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -438,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -453,13 +516,55 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_10' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic10'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_10.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_03' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -474,17 +579,38 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_17' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_17.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
                 "region": {
-                  "startLine": 49,
+                  "startLine": 50,
                   "startColumn": 5,
-                  "endLine": 49,
+                  "endLine": 50,
                   "endColumn": 49
                 }
               }
@@ -497,37 +623,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_05' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic05'.",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_12' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_01' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_01.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 53
                 }
               }
             }
@@ -543,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -564,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -585,7 +690,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -602,100 +707,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_13' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic13'.",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_16' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_16.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_06' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic06'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_06.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_14' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic14'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_14.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_17' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic17'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_17.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_15' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic15'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 53
                 }
               }
             }
@@ -711,96 +732,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_08.cs",
                 "region": {
                   "startLine": 30,
                   "startColumn": 25,
                   "endLine": 30,
                   "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_08' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic08'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_08.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_08.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 25,
-                  "endLine": 35,
-                  "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_04' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic04'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_04.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_11' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic11'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_11.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 7,
-                  "endLine": 24,
-                  "endColumn": 45
                 }
               }
             }
@@ -816,7 +753,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -833,16 +770,373 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_16' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic16'.",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_04' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_04.cs",
                 "region": {
                   "startLine": 24,
                   "startColumn": 7,
                   "endLine": 24,
-                  "endColumn": 45
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_08.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 25,
+                  "endLine": 35,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_15' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic15'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE760_Predictable_Salt_One_Way_Hash__basic_08' to match pascal case naming rules, consider using 'Cwe760PredictableSaltOneWayHashbasic08'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_08.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_13.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_01.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 25,
+                  "endLine": 29,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_09.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_02.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_05.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 29,
+                  "endLine": 37,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_11.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_14.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_10.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_06.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 29,
+                  "endLine": 36,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_04.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 29,
+                  "endLine": 37,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_07.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 29,
+                  "endLine": 36,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_08.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 29,
+                  "endLine": 44,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
                 }
               }
             }
@@ -858,7 +1152,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 18,
@@ -871,12 +1165,33 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
                   "startLine": 29,
                   "startColumn": 13,
                   "endLine": 29,
                   "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 29,
+                  "endLine": 32,
+                  "endColumn": 41
                 }
               }
             }
@@ -892,11 +1207,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 46,
+                  "startLine": 47,
                   "startColumn": 18,
-                  "endLine": 46,
+                  "endLine": 47,
                   "endColumn": 19
                 }
               }
@@ -905,12 +1220,33 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 46,
+                  "startLine": 47,
                   "startColumn": 13,
-                  "endLine": 46,
+                  "endLine": 47,
                   "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_16.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
                 }
               }
             }
@@ -926,11 +1262,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 72,
+                  "startLine": 73,
                   "startColumn": 18,
-                  "endLine": 72,
+                  "endLine": 73,
                   "endColumn": 19
                 }
               }
@@ -939,12 +1275,54 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 72,
+                  "startLine": 73,
                   "startColumn": 13,
-                  "endLine": 72,
+                  "endLine": 73,
                   "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_16.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 13,
+                  "endLine": 40,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_17.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 29,
+                  "endLine": 31,
+                  "endColumn": 41
                 }
               }
             }
@@ -960,11 +1338,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs",
                 "region": {
-                  "startLine": 62,
+                  "startLine": 63,
                   "startColumn": 9,
-                  "endLine": 62,
+                  "endLine": 63,
                   "endColumn": 11
                 }
               }
@@ -975,18 +1353,31 @@
           }
         },
         {
-          "ruleId": "S1751",
+          "ruleId": "S1871",
           "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
+          "message": "Either merge this branch with the identical one on line 64 or change one of the implementations.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs",
                 "region": {
-                  "startLine": 39,
-                  "startColumn": 13,
-                  "endLine": 39,
-                  "endColumn": 19
+                  "startLine": 80,
+                  "startColumn": 9,
+                  "endLine": 94,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 9,
+                  "endLine": 78,
+                  "endColumn": 10
                 }
               }
             }
@@ -1002,11 +1393,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE760_Predictable_Salt_One_Way_Hash/CWE760_Predictable_Salt_One_Way_Hash__basic_16.cs",
                 "region": {
-                  "startLine": 62,
+                  "startLine": 63,
                   "startColumn": 13,
-                  "endLine": 62,
+                  "endLine": 63,
                   "endColumn": 19
                 }
               }
@@ -1113,6 +1504,39 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
+            ]
+          }
+        },
+        "S1871": {
+          "id": "S1871",
+          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
+          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
             ]
           }
         },

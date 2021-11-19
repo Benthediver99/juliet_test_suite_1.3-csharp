@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE321_Hard_Coded_Cryptographic_Key</ProjectName>
+  <ProjectName>CWE325_Missing_Required_Cryptographic_Step</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>d626aece-5eab-35a2-21a2-a1462e66d7e4</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE321_Hard_Coded_Cryptographic_Key\CWE321_Hard_Coded_Cryptographic_Key.csproj</FullPath>
+  <ProjectGuid>b86aa33c-f046-0013-7f3f-6b85c0cb117b</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\47\FilesToAnalyze.txt" />

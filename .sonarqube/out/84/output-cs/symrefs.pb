@@ -1,680 +1,388 @@
-Ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_01.cs
-
- (
-
- (
-    )) ++ (
-"" ($$ %% && 
-
-// 
-44 11 (
-66 :: >> @@ ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_02.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_03.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] È
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_04.cs
-
- (
- )"" SS 
- *;; 
-
-   (
-$$ (( 11 33 (
-**# ,,, !-- !.. !
-99 ee (
-BB FF JJ LL 
-QQ ff (
-UU YY ]] __ 
-
-cc È
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_05.cs
-
- (
- "" SS 
- ;; 
-
-   (
-$$ (( 11 33 (
-**# ,,, !-- !.. !
-99 ee (
-BB FF JJ LL 
-QQ ff (
-UU YY ]] __ 
-
-cc ¼
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_06.cs
-
- ((
- (!! :: RR 
-
- (
-## '' 00 22 (
-))# ,++ !,, !-- !
-88 dd (
-AA EE II KK 
-PP ee (
-TT XX \\ ^^ 
-
-bb ¼
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_07.cs
-
- ((
- !! :: RR 
-
- (
-## '' 00 22 (
-))# ,++ !,, !-- !
-88 dd (
-AA EE II KK 
-PP ee (
-TT XX \\ ^^ 
-
-bb È
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_08.cs
-
- (
- *)) ZZ 
-"" +BB 
-
-'' (
-++ // 88 :: (
-11# ,33 !44 !55 !
-@@ ll (
-II MM QQ SS 
-XX mm (
-\\ `` dd ff 
-
-jj ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_09.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_10.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_11.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] ¦
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_12.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !(
-11 55 99 ;; 
-AA cc (
-EE II MM OO (
-SS WW [[ ]] 
-
-aa ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_13.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_14.cs
-
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 __ (
-<< @@ DD FF 
-KK `` (
-OO SS WW YY 
-
-]] ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_15.cs
-
- (
+¶
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_01.cs
 
- (
- ## ,, .. (
-%%# ,'' !(( !)) !
-99 ll (
-BB FF JJ LL 
-RR mm (
-WW [[ __ aa 
+ /
 
-jj Ò
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_16.cs
+ 
 
- (
-
- (
- "" ++ -- (
-$$# ,&& !'' !(( !
-44 II (
-88 << @@ BB 
-
-GG ’
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__counter_17.cs
-
- (
+) ,n
+; ?!! "" ## $$ %% && '' (( )) ** 
+,, #..M U
 
- 
-   (
- "" ++ -- (
-$$# ,&& !'' !(( !
-33 GG 
-55 55 55 (
-77 ;; ?? AA 
+33 
+33* -55 
+33< @55 
+88 55 
 
-EE û
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_01.cs
+88# &n
+885 9== >> ?? @@ AA BB CC DD EE FF 
+HH #JJM Uò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_02.cs
 
- %
+ /
 
- (
- $!! "" ## 
+ 
 
-)) 
-.. ++ ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_02.cs
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
 
- %
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
 
-KK ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_03.cs
+oo 
+oo* -qq rr 
+oo< @qq rr ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_03.cs
 
- %
+ /
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+ 
 
-KK Ç
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_04.cs
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
 
- %
- )"" GG 
- *55 
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
 
-   (
-'' ()) ** ++ 
-33 SS 
-EE TT 
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
 
-QQ Ç
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_05.cs
+oo 
+oo* -qq rr 
+oo< @qq rr ¨
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_04.cs
 
- %
- "" GG 
- 55 
+ /
+ )$$ ^^ 
+   *?? 
 
-   (
-'' ()) ** ++ 
-33 SS 
-EE TT 
+"" 
 
-QQ »
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_06.cs
+"") ,n
+""; ?)) ** ++ ,, -- .. // 00 11 22 
+44 '66Q Y
+== ww 
 
- %(
- (!! 44 FF 
+==# &n
+==5 9II JJ KK LL MM NN OO PP QQ RR 
+TT 'VVQ Y
+\\ xx 
 
- (
-&& ((( )) ** 
-22 RR 
-DD SS 
+\\# &n
+\\5 9cc dd ee ff gg hh ii jj kk ll 
+nn 'ppQ Y
 
-PP »
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_07.cs
+uu 
+uu* -ww xx 
+uu< @ww xx ¨
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_05.cs
 
- %(
- !! 44 FF 
+ /
+ $$ ^^ 
+   ?? 
 
- (
-&& ((( )) ** 
-22 RR 
-DD SS 
+"" 
 
-PP Ç
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_08.cs
+"") ,n
+""; ?)) ** ++ ,, -- .. // 00 11 22 
+44 '66Q Y
+== ww 
+
+==# &n
+==5 9II JJ KK LL MM NN OO PP QQ RR 
+TT 'VVQ Y
+\\ xx 
+
+\\# &n
+\\5 9cc dd ee ff gg hh ii jj kk ll 
+nn 'ppQ Y
+
+uu 
+uu* -ww xx 
+uu< @ww xx œ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_06.cs
 
- %
- *)) NN 
-"" +<< 
+ /(
+ (## >> ]] 
 
-'' (
-.. (00 11 22 
-:: ZZ 
-LL [[ 
+!! 
+
+!!) ,n
+!!; ?(( )) ** ++ ,, -- .. // 00 11 
+33 '55Q Y
+<< vv 
+
+<<# &n
+<<5 9HH II JJ KK LL MM NN OO PP QQ 
+SS 'UUQ Y
+[[ ww 
 
-XX ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_09.cs
+[[# &n
+[[5 9bb cc dd ee ff gg hh ii jj kk 
+mm 'ooQ Y
+
+tt 
+tt* -vv ww 
+tt< @vv ww œ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_07.cs
 
- %
+ /(
+ ## >> ]] 
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+!! 
 
-KK ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_10.cs
+!!) ,n
+!!; ?(( )) ** ++ ,, -- .. // 00 11 
+33 '55Q Y
+<< vv 
 
- %
+<<# &n
+<<5 9HH II JJ KK LL MM NN OO PP QQ 
+SS 'UUQ Y
+[[ ww 
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+[[# &n
+[[5 9bb cc dd ee ff gg hh ii jj kk 
+mm 'ooQ Y
 
-KK ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_11.cs
+tt 
+tt* -vv ww 
+tt< @vv ww ¨
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_08.cs
 
- %
+ /
+ *++ ee 
+$$ +FF 
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+)) 
 
-KK û
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_12.cs
+))) ,n
+)); ?00 11 22 33 44 55 66 77 88 99 
+;; '==Q Y
+DD ~~ 
 
- %
+DD# &n
+DD5 9PP QQ RR SS TT UU VV WW XX YY 
+[[ ']]Q Y
+cc  
 
- (
-!! (## $$ %% 
-55 KK 
+cc# &n
+cc5 9jj kk ll mm nn oo pp qq rr ss 
+uu 'wwQ Y
 
-II ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_13.cs
+|| 
+||* -~~  
+||< @~~  ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_09.cs
 
- %
+ /
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+ 
 
-KK ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_14.cs
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
 
- %
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
 
- (
-!! (## $$ %% 
--- MM 
-?? NN 
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
 
-KK ‘
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_15.cs
+oo 
+oo* -qq rr 
+oo< @qq rr ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_10.cs
 
- %
+ /
 
- (
-"" ($$ %% && 
-33 ZZ 
-FF [[ 
-
-XX û
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_16.cs
-
- %
-
- (
-!! (## $$ %% 
-.. == 
-
-;; »
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__rand_17.cs
-
- %
-
- 
-   (
-!! (## $$ %% 
--- ;; 
-// // // 
-
-99 Ó
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_01.cs
-
- %
-
- 
-  
-  (
-!! $## $$ %% 
-
-++ 
-00 -- 
-22 55 
-33 55 •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_02.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_03.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ Ë
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_04.cs
-
- %
- )"" KK 
- *77 
-
-   
-$$ '' 
-%% '' #(
-)) (++ ,, -- 
-55 YY 
->> AA 
-?? AA #
-II ZZ 
-MM PP 
-NN PP #
-
-WW Ë
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_05.cs
-
- %
- "" KK 
- 77 
-
-   
-$$ '' 
-%% '' #(
-)) (++ ,, -- 
-55 YY 
->> AA 
-?? AA #
-II ZZ 
-MM PP 
-NN PP #
-
-WW ¿
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_06.cs
-
- %(
- (!! 66 JJ 
-
- 
-## && 
-$$ && #(
-(( (** ++ ,, 
-44 XX 
-== @@ 
->> @@ #
-HH YY 
-LL OO 
-MM OO #
-
-VV ¿
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_07.cs
-
- %(
- !! 66 JJ 
-
- 
-## && 
-$$ && #(
-(( (** ++ ,, 
-44 XX 
-== @@ 
->> @@ #
-HH YY 
-LL OO 
-MM OO #
-
-VV Ë
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_08.cs
-
- %
- *)) RR 
-"" +>> 
-
-'' 
-++ .. 
-,, .. #(
-00 (22 33 44 
-<< `` 
-EE HH 
-FF HH #
-PP aa 
-TT WW 
-UU WW #
-
-^^ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_09.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_10.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_11.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ «
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_12.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
--- 00 
-.. 00 #
-99 SS 
-== @@ 
->> @@ #
-GG JJ 
-HH JJ #
-
-QQ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_13.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_14.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-// SS 
-88 ;; 
-99 ;; #
-CC TT 
-GG JJ 
-HH JJ #
-
-QQ •
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_15.cs
-
- %
-
- 
- "" 
-   "" #(
-$$ (&& '' (( 
-55 `` 
->> AA 
-?? AA #
-JJ aa 
-OO RR 
-PP RR #
-
-^^ Ó
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_16.cs
-
- %
-
- 
- !! 
- !! #(
-## (%% && '' 
-00 AA 
-44 77 
-55 77 #
-
-?? “
-”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\CWE511_Logic_Time_Bomb__time_17.cs
-
- %
-
- 
-   
- !! 
- !! #(
-## (%% && '' 
-// ?? 
-11 11 11 
-33 66 
-44 66 #
-
-== Ž
-|C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\Program.cs
+ 
+
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
+
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
+
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
+
+oo 
+oo* -qq rr 
+oo< @qq rr ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_11.cs
+
+ /
+
+ 
+
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
+
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
+
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
+
+oo 
+oo* -qq rr 
+oo< @qq rr ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_12.cs
+
+ /
+
+ 
+
+) ,Ò
+; ?## $$ %% && '' (( )) ** ++ ,, 88 99 :: ;; << == >> ?? @@ AA 
+.. '00Q Y
+CC 'EEQ Y
+LL || 
+
+LL# &Ò
+LL5 9SS TT UU VV WW XX YY ZZ [[ \\ hh ii jj kk ll mm nn oo pp qq 
+^^ '``Q Y
+ss 'uuQ Y
+
+zz 
+zz* -|| 
+zz< @|| ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_13.cs
+
+ /
+
+ 
+
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
+
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
+
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
+
+oo 
+oo* -qq rr 
+oo< @qq rr ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_14.cs
+
+ /
+
+ 
+
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+77 qq 
+
+77# &n
+775 9CC DD EE FF GG HH II JJ KK LL 
+NN 'PPQ Y
+VV rr 
+
+VV# &n
+VV5 9]] ^^ __ `` aa bb cc dd ee ff 
+hh 'jjQ Y
+
+oo 
+oo* -qq rr 
+oo< @qq rr ò
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_15.cs
+
+ /
+
+ 
+
+) ,n
+; ?$$ %% && '' (( )) ** ++ ,, -- 
+// '11Q Y
+== ~~ 
+
+==# &n
+==5 9II JJ KK LL MM NN OO PP QQ RR 
+TT 'VVQ Y
+]]  
+
+]]# &n
+]]5 9ee ff gg hh ii jj kk ll mm nn 
+pp 'rrQ Y
+
+|| 
+||* -~~  
+||< @~~  ¶
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_16.cs
+
+ /
+
+ 
+
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+.. '00Q Y
+88 TT 
+
+88# &n
+885 9?? @@ AA BB CC DD EE FF GG HH 
+JJ 'LLQ Y
+
+RR 
+RR* -TT 
+RR< @TT ö
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_17.cs
+
+ /
+
+ 
+
+) ,n
+; ?## $$ %% && '' (( )) ** ++ ,, 
+   
+.. '00Q Y
+77 RR 
+
+77# &n
+775 9>> ?? @@ AA BB CC DD EE FF GG 
+99 99 99 
+II 'KKQ Y
+
+PP 
+PP* -RR 
+PP< @RR ’
+‡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\Program.cs
 
  
 
@@ -689,13 +397,9 @@
 UU  DD 
 [[  EE 
 aa  FF 
-gg  GG 
-
-ŸŸ  HH 
-
-¥¥  II 
-
-««  JJ 
-
-±±  KK 
-ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\Properties\AssemblyInfo.cs
+gg  GG 
+mm  HH 
+ss  II 
+yy  JJ 
+  KK š
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\Properties\AssemblyInfo.cs

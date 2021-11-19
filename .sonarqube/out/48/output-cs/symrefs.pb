@@ -1,1054 +1,1215 @@
-å
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_01.cs
+…
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_01.cs
 
- A
-
- 
- ))$ -
- ++ .. '(
- "") /""@ F""L R
-
-"" &
-$$  )''A J++ %
-''$ -)) 
-
-22 
-77 44 
-99 GG( 1
-:: II MM '(
-;; >>) />>@ F>>L R
->> &CCL U
-@@  )CCA JII  )
-CC$ -EEE N
-EE( 1GG !½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_02.cs
-
- A
+ '
 
  
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt ½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_03.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt ó
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_04.cs
-
- A
- )## `` 
- *>> 
-
-!! 
-%% 11( 1
-&& 33 66" +(
-'' **- 3**D J**P V
-
-**! *
-,,$ -//E N33  )
-//( 111 !
-<< || 
-EE SS, 5
-FF UU !YY" +(
-GG JJ- 3JJD JJJP V
-JJ! *OOP Y
-LL$ -OOE NUU$ -
-OO( 1QQI R
-QQ, 5SS %
-^^ }} 
-bb pp, 5
-cc rr !vv" +(
-dd gg- 3ggD JggP V
-gg! *llP Y
-ii$ -llE Nrr$ -
-ll( 1nnI R
-nn, 5pp %
-
-zz ó
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_05.cs
-
- A
- ## `` 
- >> 
-
-!! 
-%% 11( 1
-&& 33 66" +(
-'' **- 3**D J**P V
-
-**! *
-,,$ -//E N33  )
-//( 111 !
-<< || 
-EE SS, 5
-FF UU !YY" +(
-GG JJ- 3JJD JJJP V
-JJ! *OOP Y
-LL$ -OOE NUU$ -
-OO( 1QQI R
-QQ, 5SS %
-^^ }} 
-bb pp, 5
-cc rr !vv" +(
-dd gg- 3ggD JggP V
-gg! *llP Y
-ii$ -llE Nrr$ -
-ll( 1nnI R
-nn, 5pp %
-
-zz ç
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_06.cs
-
- A(
- ("" == __ 
-
-   
-$$ 00( 1
-%% 22 55" +(
-&& ))- 3))D J))P V
-
-))! *
-++$ -..E N22  )
-..( 100 !
-;; {{ 
-DD RR, 5
-EE TT !XX" +(
-FF II- 3IID JIIP V
-II! *NNP Y
-KK$ -NNE NTT$ -
-NN( 1PPI R
-PP, 5RR %
-]] || 
-aa oo, 5
-bb qq !uu" +(
-cc ff- 3ffD JffP V
-ff! *kkP Y
-hh$ -kkE Nqq$ -
-kk( 1mmI R
-mm, 5oo %
-
-yy ç
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_07.cs
-
- A(
- "" == __ 
-
-   
-$$ 00( 1
-%% 22 55" +(
-&& ))- 3))D J))P V
-
-))! *
-++$ -..E N22  )
-..( 100 !
-;; {{ 
-DD RR, 5
-EE TT !XX" +(
-FF II- 3IID JIIP V
-II! *NNP Y
-KK$ -NNE NTT$ -
-NN( 1PPI R
-PP, 5RR %
-]] || 
-aa oo, 5
-bb qq !uu" +(
-cc ff- 3ffD JffP V
-ff! *kkP Y
-hh$ -kkE Nqq$ -
-kk( 1mmI R
-mm, 5oo %
-
-yy ù
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_08.cs
-
- A
- *** gg 
-## +EE 
-
-(( 
-,, 88( 1
--- :: ==" +(
-.. 11- 311D J11P V
-
-11! *
-33$ -66E N::  )
-66( 188 !
-CC 
-ƒƒ 
-LL ZZ, 5
-MM \\ !``" +(
-NN QQ- 3QQD JQQP V
-QQ! *VVP Y
-SS$ -VVE N\\$ -
-VV( 1XXI R
-XX, 5ZZ %
-ee 
-„„ 
-ii ww, 5
-jj yy !}}" +(
-kk nn- 3nnD JnnP V
-nn! *ssP Y
-pp$ -ssE Nyy$ -
-ss( 1uuI R
-uu, 5ww %
-
- ½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_09.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt ½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_10.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt ½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_11.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt í
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_12.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-44 BB, 5
-55 DD !HH" +(
-66 99- 399D J99P V
-99! *>>P Y
-;;$ ->>E NDD$ -
->>( 1@@I R
-@@, 5BB %
-NN 
-„„ 
-RR ``, 5
-SS bb !ff" +(
-TT WW- 3WWD JWWP V
-WW! *\\P Y
-YY$ -\\E Nbb$ -
-\\( 1^^I R
-^^, 5`` %
-jj xx, 5
-kk zz !~~" +(
-ll oo- 3ooD JooP V
-oo! *ttP Y
-qq$ -ttE Nzz$ -
-tt( 1vvI R
-vv, 5xx %
-
-‚‚ ½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_13.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt ½
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_14.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 vv 
-?? MM, 5
-@@ OO !SS" +(
-AA DD- 3DDD JDDP V
-DD! *IIP Y
-FF$ -IIE NOO$ -
-II( 1KKI R
-KK, 5MM %
-XX ww 
-\\ jj, 5
-]] ll !pp" +(
-^^ aa- 3aaD JaaP V
-aa! *ffP Y
-cc$ -ffE Nll$ -
-ff( 1hhI R
-hh, 5jj %
-
-tt Ã
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_15.cs
-
- A
-
- 
-   ,,( 1
-!! .. 11" +(
-"" %%- 3%%D J%%P V
-
-%%! *
-''$ -**E N..  )
-**( 1,, !
-<< 
-ƒƒ 
-EE SS, 5
-FF UU !YY" +(
-GG JJ- 3JJD JJJP V
-JJ! *OOP Y
-LL$ -OOE NUU$ -
-OO( 1QQI R
-QQ, 5SS %
-__ 
-„„ 
-dd rr, 5
-ee tt !xx" +(
-ff ii- 3iiD JiiP V
-ii! *nnP Y
-kk$ -nnE Ntt$ -
-nn( 1ppI R
-pp, 5rr %
-
- å
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_16.cs
-
- A
-
- 
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-77 VV 
-;; II, 5
-<< KK !OO" +(
-== @@- 3@@D J@@P V
-@@! *EEP Y
-BB$ -EEE NKK$ -
-EE( 1GGI R
-GG, 5II %
-
-TT ¥
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_17.cs
-
- A
-
- 
-   
- ++( 1
-   -- 00" +(
-!! $$- 3$$D J$$P V
-
-$$! *
-&&$ -))E N--  )
-))( 1++ !
-66 TT 
-88 88 88 
-:: HH, 5
-;; JJ !NN" +(
-<< ??- 3??D J??P V
-??! *DDP Y
-AA$ -DDE NJJ$ -
-DD( 1FFI R
-FF, 5HH %
-
-RR ñ
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_01.cs
-
- A
-
- 
-
- 
- ,, 00 '(
- "") /""@ F""L R
-"" &&&L U
-$$  )&&A J,,  )
-&&$ -((E N
-
-((( 1
+ !))! -(
+ ++ //? H00 '(
+. 2"") -""> B""H L
+"" &%%> G
+##  "%%: <++  "
+%%$ &''> @
+''( *)) 
+
+// 
 
 44 
 99 66 
-;; II( 1
-<< KK OO '(
-== @@) /@@@ F@@L R
-@@ &DDL U
-BB  )DDA JKK  )
-DD$ -FFE N
-FF( 1II !É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_02.cs
+;; !GG! -(
+<< II MM? HNN '(
+==( +@@) ,@@= @@@F I
+@@ &CC> G
+AA  "CC: <II  "
+CC$ &EE> @
+EE( *GG 
 
- A
+MM ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_02.cs
 
- 
+ '
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
 
-vv É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_03.cs
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
 
- A
+oo 
 
- 
+tt ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_03.cs
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+ '
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
-vv ÿ
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_04.cs
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
 
- A
- )## bb 
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ©
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_04.cs
+
+ '
+ )## aa 
  *@@ 
 
-!! 
+!! 
+%% %11% 1(
+&& 33 !77C L88" +(
+''2 6**- 1**B F**L P
+**! *--B K
+++$ &--> @33$ &
+--( *//B D
+//, .11 
 
-%% 
-&& 44 !88" +(
-'' **- 3**D J**P V
-**! *..P Y
-,,$ -..E N44$ -
-..( 100I R
+77 
+>> || 
+GG %SS% 1(
+HH UU !YYC LZZ" +(
+II, /LL- 0LLA DLLJ M
+LL! *OOB K
+MM$ &OO> @UU$ &
+OO( *QQB D
+QQ, .SS 
 
-00, 5
->> ~~ 
-GG UU, 5
-HH WW ![[" +(
-II LL- 3LLD JLLP V
-LL! *PPP Y
-NN$ -PPE NWW$ -
-PP( 1RRI R
-RR, 5UU %
-``  
-dd rr, 5
-ee tt !xx" +(
-ff ii- 3iiD JiiP V
-ii! *mmP Y
-kk$ -mmE Ntt$ -
-mm( 1ooI R
-oo, 5rr %
+YY 
+__ }} 
+cc %oo% 1(
+dd qq !uuC Lvv" +(
+ee, /hh- 0hhA DhhJ M
+hh! *kkB K
+ii$ &kk> @qq$ &
+kk( *mmB D
+mm, .oo 
 
-|| ÿ
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_05.cs
+uu 
 
- A
- ## bb 
+zz ©
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_05.cs
+
+ '
+ ## aa 
  @@ 
 
-!! 
+!! 
+%% %11% 1(
+&& 33 !77C L88" +(
+''2 6**- 1**B F**L P
+**! *--B K
+++$ &--> @33$ &
+--( *//B D
+//, .11 
 
-%% 
-&& 44 !88" +(
-'' **- 3**D J**P V
-**! *..P Y
-,,$ -..E N44$ -
-..( 100I R
+77 
+>> || 
+GG %SS% 1(
+HH UU !YYC LZZ" +(
+II, /LL- 0LLA DLLJ M
+LL! *OOB K
+MM$ &OO> @UU$ &
+OO( *QQB D
+QQ, .SS 
 
-00, 5
->> ~~ 
-GG UU, 5
-HH WW ![[" +(
-II LL- 3LLD JLLP V
-LL! *PPP Y
-NN$ -PPE NWW$ -
-PP( 1RRI R
-RR, 5UU %
-``  
-dd rr, 5
-ee tt !xx" +(
-ff ii- 3iiD JiiP V
-ii! *mmP Y
-kk$ -mmE Ntt$ -
-mm( 1ooI R
-oo, 5rr %
+YY 
+__ }} 
+cc %oo% 1(
+dd qq !uuC Lvv" +(
+ee, /hh- 0hhA DhhJ M
+hh! *kkB K
+ii$ &kk> @qq$ &
+kk( *mmB D
+mm, .oo 
 
-|| ó
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_06.cs
+uu 
 
- A(
- ("" ?? aa 
+zz 
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_06.cs
 
-   
+ '(
+ ("" ?? `` 
 
-$$ 
-%% 33 !77" +(
-&& ))- 3))D J))P V
-))! *--P Y
-++$ ---E N33$ -
---( 1//I R
+   
+$$ %00% 1(
+%% 22 !66C L77" +(
+&&2 6))- 1))B F))L P
+))! *,,B K
+**$ &,,> @22$ &
+,,( *..B D
+.., .00 
 
-//, 5
-== }} 
-FF TT, 5
-GG VV !ZZ" +(
-HH KK- 3KKD JKKP V
-KK! *OOP Y
-MM$ -OOE NVV$ -
-OO( 1QQI R
-QQ, 5TT %
-__ ~~ 
-cc qq, 5
-dd ss !ww" +(
-ee hh- 3hhD JhhP V
-hh! *llP Y
-jj$ -llE Nss$ -
-ll( 1nnI R
-nn, 5qq %
+66 
+== {{ 
+FF %RR% 1(
+GG TT !XXC LYY" +(
+HH, /KK- 0KKA DKKJ M
+KK! *NNB K
+LL$ &NN> @TT$ &
+NN( *PPB D
+PP, .RR 
 
-{{ ó
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_07.cs
+XX 
+^^ || 
+bb %nn% 1(
+cc pp !ttC Luu" +(
+dd, /gg- 0ggA DggJ M
+gg! *jjB K
+hh$ &jj> @pp$ &
+jj( *llB D
+ll, .nn 
 
- A(
- "" ?? aa 
+tt 
 
-   
+yy 
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_07.cs
 
-$$ 
-%% 33 !77" +(
-&& ))- 3))D J))P V
-))! *--P Y
-++$ ---E N33$ -
---( 1//I R
+ '(
+ "" ?? `` 
 
-//, 5
-== }} 
-FF TT, 5
-GG VV !ZZ" +(
-HH KK- 3KKD JKKP V
-KK! *OOP Y
-MM$ -OOE NVV$ -
-OO( 1QQI R
-QQ, 5TT %
-__ ~~ 
-cc qq, 5
-dd ss !ww" +(
-ee hh- 3hhD JhhP V
-hh! *llP Y
-jj$ -llE Nss$ -
-ll( 1nnI R
-nn, 5qq %
+   
+$$ %00% 1(
+%% 22 !66C L77" +(
+&&2 6))- 1))B F))L P
+))! *,,B K
+**$ &,,> @22$ &
+,,( *..B D
+.., .00 
 
-{{ …
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_08.cs
+66 
+== {{ 
+FF %RR% 1(
+GG TT !XXC LYY" +(
+HH, /KK- 0KKA DKKJ M
+KK! *NNB K
+LL$ &NN> @TT$ &
+NN( *PPB D
+PP, .RR 
 
- A
- *** ii 
+XX 
+^^ || 
+bb %nn% 1(
+cc pp !ttC Luu" +(
+dd, /gg- 0ggA DggJ M
+gg! *jjB K
+hh$ &jj> @pp$ &
+jj( *llB D
+ll, .nn 
+
+tt 
+
+yy ¯
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_08.cs
+
+ '
+ *** hh 
 ## +GG 
 
-(( 
+(( 
+,, %88% 1(
+-- :: !>>C L??" +(
+..2 611- 111B F11L P
+11! *44B K
+22$ &44> @::$ &
+44( *66B D
+66, .88 
 
-,, 
--- ;; !??" +(
-.. 11- 311D J11P V
-11! *55P Y
-33$ -55E N;;$ -
-55( 177I R
-
-77, 5
+>> 
 EE 
-…… 
-NN \\, 5
-OO ^^ !bb" +(
-PP SS- 3SSD JSSP V
-SS! *WWP Y
-UU$ -WWE N^^$ -
-WW( 1YYI R
-YY, 5\\ %
-gg 
-†† 
-kk yy, 5
-ll {{ !" +(
-mm pp- 3ppD JppP V
-pp! *ttP Y
-rr$ -ttE N{{$ -
-tt( 1vvI R
-vv, 5yy %
+ƒƒ 
+NN %ZZ% 1(
+OO \\ !``C Laa" +(
+PP, /SS- 0SSA DSSJ M
+SS! *VVB K
+TT$ &VV> @\\$ &
+VV( *XXB D
+XX, .ZZ 
 
-ƒƒ É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_09.cs
+`` 
+ff 
+„„ 
+jj %vv% 1(
+kk xx !||C L}}" +(
+ll, /oo- 0ooA DooJ M
+oo! *rrB K
+pp$ &rr> @xx$ &
+rr( *ttB D
+tt, .vv 
 
- A
+|| 
 
- 
+ ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_09.cs
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+ '
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
-vv É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_10.cs
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
 
- A
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
 
- 
+oo 
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+tt ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_10.cs
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+ '
 
-vv É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_11.cs
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
- A
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
 
- 
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+oo 
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+tt ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_11.cs
 
-vv û
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_12.cs
+ '
 
- A
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
- 
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
 
-**, 5
-66 DD, 5
-77 FF !JJ" +(
-88 ;;- 3;;D J;;P V
-;;! *??P Y
-==$ -??E NFF$ -
-??( 1AAI R
-AA, 5DD %
-PP 
-†† 
-TT bb, 5
-UU dd !hh" +(
-VV YY- 3YYD JYYP V
-YY! *]]P Y
-[[$ -]]E Ndd$ -
-]]( 1__I R
-__, 5bb %
-ll zz, 5 
-mm || !
-€€" +(
-nn qq- 3qqD JqqP V
-qq! *uuP Y
-ss$ -uuE N||$ -
-uu( 1wwI R
-ww, 5zz %
+oo 
 
-„„ É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_13.cs
+tt ¹
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_12.cs
 
- A
+ '
 
- 
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+11 
+66 %BB% 1(
+77 DD !HHC LII" +(
+88, /;;- 0;;A D;;J M
+;;! *>>B K
+<<$ &>>> @DD$ &
+>>( *@@B D
+@@, .BB 
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+HH 
+OO 
+ƒƒ 
+SS %__% 1(
+TT aa !eeC Lff" +(
+UU, /XX- 0XXA DXXJ M
+XX! *[[B K
+YY$ &[[> @aa$ &
+[[( *]]B D
+]], .__ 
 
-vv É
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_14.cs
+ee 
+jj %vv% 1(
+kk xx !||C L}}" +(
+ll, /oo- 0ooA DooJ M
+oo! *rrB K
+pp$ &rr> @xx$ &
+rr( *ttB D
+tt, .vv 
 
- A
+|| 
 
- 
+ ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_13.cs
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+ '
 
-**, 5
-88 xx 
-AA OO, 5
-BB QQ !UU" +(
-CC FF- 3FFD JFFP V
-FF! *JJP Y
-HH$ -JJE NQQ$ -
-JJ( 1LLI R
-LL, 5OO %
-ZZ yy 
-^^ ll, 5
-__ nn !rr" +(
-`` cc- 3ccD JccP V
-cc! *ggP Y
-ee$ -ggE Nnn$ -
-gg( 1iiI R
-ii, 5ll %
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
-vv Ï
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_15.cs
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
 
- A
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
 
- 
+oo 
 
-   
-!! // !33" +(
-"" %%- 3%%D J%%P V
-%%! *))P Y
-''$ -))E N//$ -
-))( 1++I R
+tt ó
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_14.cs
 
-++, 5
+ '
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ù
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_15.cs
+
+ '
+
+ 
+   %,,% 1(
+!! .. !22C L33" +(
+""2 6%%- 1%%B F%%L P
+%%! *((B K
+&&$ &((> @..$ &
+((( ***B D
+**, .,, 
+
+22 
 >> 
-…… 
-GG UU, 5
-HH WW ![[" +(
-II LL- 3LLD JLLP V
-LL! *PPP Y
-NN$ -PPE NWW$ -
-PP( 1RRI R
-RR, 5UU %
-aa 
-†† 
-ff tt, 5
-gg vv !zz" +(
-hh kk- 3kkD JkkP V
-kk! *ooP Y
-mm$ -ooE Nvv$ -
-oo( 1qqI R
-qq, 5tt %
+ƒƒ 
+GG %SS% 1(
+HH UU !YYC LZZ" +(
+II, /LL- 0LLA DLLJ M
+LL! *OOB K
+MM$ &OO> @UU$ &
+OO( *QQB D
+QQ, .SS 
 
-ƒƒ ñ
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_16.cs
+YY 
+`` 
+„„ 
+ee %qq% 1(
+ff ss !wwC Lxx" +(
+gg, /jj- 0jjA DjjJ M
+jj! *mmB K
+kk$ &mm> @ss$ &
+mm( *ooB D
+oo, .qq 
 
- A
+ww 
 
- 
+ …
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_16.cs
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
+ '
 
-**, 5
-99 XX 
-== KK, 5
->> MM !QQ" +(
-?? BB- 3BBD JBBP V
-BB! *FFP Y
-DD$ -FFE NMM$ -
-FF( 1HHI R
-HH, 5KK %
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
-VV ±
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_17.cs
+11 
+99 WW 
+== %II% 1(
+>> KK !OOC LPP" +(
+??, /BB- 0BBA DBBJ M
+BB! *EEB K
+CC$ &EE> @KK$ &
+EE( *GGB D
+GG, .II 
 
- A
+OO 
+
+UU Å
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_17.cs
+
+ '
 
  
-   
+   
+ %++% 1(
+   -- !11C L22" +(
+!!2 6$$- 1$$B F$$L P
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
 
- 
-   .. !22" +(
-!! $$- 3$$D J$$P V
-$$! *((P Y
-&&$ -((E N..$ -
-((( 1**I R
-
-**, 5
-88 VV 
+11 
+88 UU 
 :: :: :: 
-<< JJ, 5
-== LL !PP" +(
->> AA- 3AAD JAAP V
-AA! *EEP Y
-CC$ -EEE NLL$ -
-EE( 1GGI R
-GG, 5JJ %
+<< %HH% 1(
+== JJ !NNC LOO" +(
+>>, /AA- 0AAA DAAJ M
+AA! *DDB K
+BB$ &DD> @JJ$ &
+DD( *FFB D
+FF, .HH 
 
-TT §
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\Program.cs
+NN 
+
+SS „
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_01.cs
+
+ &
+
+ 
+ !))! -(
+ ++ //? H00 '(
+( +"") ,""= @""F I
+"" &%%> G
+##  "%%: <++  "
+%%$ &''> @
+''( *)) 
+
+// 
+
+44 
+99 66 
+;; !GG! -(
+<< II MM? HNN '(
+==( +@@) ,@@= @@@F I
+@@ &CC> G
+AA  "CC: <II  "
+CC$ &EE> @
+EE( *GG 
+
+MM ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_02.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_03.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ¨
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_04.cs
+
+ &
+ )## aa 
+ *@@ 
+
+!! 
+%% %11% 1(
+&& 33 !77C L88" +(
+'', /**- 0**A D**J M
+**! *--B K
+++$ &--> @33$ &
+--( *//B D
+//, .11 
+
+77 
+>> || 
+GG %SS% 1(
+HH UU !YYC LZZ" +(
+II, /LL- 0LLA DLLJ M
+LL! *OOB K
+MM$ &OO> @UU$ &
+OO( *QQB D
+QQ, .SS 
+
+YY 
+__ }} 
+cc %oo% 1(
+dd qq !uuC Lvv" +(
+ee, /hh- 0hhA DhhJ M
+hh! *kkB K
+ii$ &kk> @qq$ &
+kk( *mmB D
+mm, .oo 
+
+uu 
+
+zz ¨
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_05.cs
+
+ &
+ ## aa 
+ @@ 
+
+!! 
+%% %11% 1(
+&& 33 !77C L88" +(
+'', /**- 0**A D**J M
+**! *--B K
+++$ &--> @33$ &
+--( *//B D
+//, .11 
+
+77 
+>> || 
+GG %SS% 1(
+HH UU !YYC LZZ" +(
+II, /LL- 0LLA DLLJ M
+LL! *OOB K
+MM$ &OO> @UU$ &
+OO( *QQB D
+QQ, .SS 
+
+YY 
+__ }} 
+cc %oo% 1(
+dd qq !uuC Lvv" +(
+ee, /hh- 0hhA DhhJ M
+hh! *kkB K
+ii$ &kk> @qq$ &
+kk( *mmB D
+mm, .oo 
+
+uu 
+
+zz œ
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_06.cs
+
+ &(
+ ("" ?? `` 
+
+   
+$$ %00% 1(
+%% 22 !66C L77" +(
+&&, /))- 0))A D))J M
+))! *,,B K
+**$ &,,> @22$ &
+,,( *..B D
+.., .00 
+
+66 
+== {{ 
+FF %RR% 1(
+GG TT !XXC LYY" +(
+HH, /KK- 0KKA DKKJ M
+KK! *NNB K
+LL$ &NN> @TT$ &
+NN( *PPB D
+PP, .RR 
+
+XX 
+^^ || 
+bb %nn% 1(
+cc pp !ttC Luu" +(
+dd, /gg- 0ggA DggJ M
+gg! *jjB K
+hh$ &jj> @pp$ &
+jj( *llB D
+ll, .nn 
+
+tt 
+
+yy œ
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_07.cs
+
+ &(
+ "" ?? `` 
+
+   
+$$ %00% 1(
+%% 22 !66C L77" +(
+&&, /))- 0))A D))J M
+))! *,,B K
+**$ &,,> @22$ &
+,,( *..B D
+.., .00 
+
+66 
+== {{ 
+FF %RR% 1(
+GG TT !XXC LYY" +(
+HH, /KK- 0KKA DKKJ M
+KK! *NNB K
+LL$ &NN> @TT$ &
+NN( *PPB D
+PP, .RR 
+
+XX 
+^^ || 
+bb %nn% 1(
+cc pp !ttC Luu" +(
+dd, /gg- 0ggA DggJ M
+gg! *jjB K
+hh$ &jj> @pp$ &
+jj( *llB D
+ll, .nn 
+
+tt 
+
+yy ®
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_08.cs
+
+ &
+ *** hh 
+## +GG 
+
+(( 
+,, %88% 1(
+-- :: !>>C L??" +(
+.., /11- 011A D11J M
+11! *44B K
+22$ &44> @::$ &
+44( *66B D
+66, .88 
+
+>> 
+EE 
+ƒƒ 
+NN %ZZ% 1(
+OO \\ !``C Laa" +(
+PP, /SS- 0SSA DSSJ M
+SS! *VVB K
+TT$ &VV> @\\$ &
+VV( *XXB D
+XX, .ZZ 
+
+`` 
+ff 
+„„ 
+jj %vv% 1(
+kk xx !||C L}}" +(
+ll, /oo- 0ooA DooJ M
+oo! *rrB K
+pp$ &rr> @xx$ &
+rr( *ttB D
+tt, .vv 
+
+|| 
+
+ ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_09.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_10.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_11.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ¸
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_12.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+66 %BB% 1(
+77 DD !HHC LII" +(
+88, /;;- 0;;A D;;J M
+;;! *>>B K
+<<$ &>>> @DD$ &
+>>( *@@B D
+@@, .BB 
+
+HH 
+OO 
+ƒƒ 
+SS %__% 1(
+TT aa !eeC Lff" +(
+UU, /XX- 0XXA DXXJ M
+XX! *[[B K
+YY$ &[[> @aa$ &
+[[( *]]B D
+]], .__ 
+
+ee 
+jj %vv% 1(
+kk xx !||C L}}" +(
+ll, /oo- 0ooA DooJ M
+oo! *rrB K
+pp$ &rr> @xx$ &
+rr( *ttB D
+tt, .vv 
+
+|| 
+
+ ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_13.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ò
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_14.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 vv 
+AA %MM% 1(
+BB OO !SSC LTT" +(
+CC, /FF- 0FFA DFFJ M
+FF! *IIB K
+GG$ &II> @OO$ &
+II( *KKB D
+KK, .MM 
+
+SS 
+YY ww 
+]] %ii% 1(
+^^ kk !ooC Lpp" +(
+__, /bb- 0bbA DbbJ M
+bb! *eeB K
+cc$ &ee> @kk$ &
+ee( *ggB D
+gg, .ii 
+
+oo 
+
+tt ø
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_15.cs
+
+ &
+
+ 
+   %,,% 1(
+!! .. !22C L33" +(
+"", /%%- 0%%A D%%J M
+%%! *((B K
+&&$ &((> @..$ &
+((( ***B D
+**, .,, 
+
+22 
+>> 
+ƒƒ 
+GG %SS% 1(
+HH UU !YYC LZZ" +(
+II, /LL- 0LLA DLLJ M
+LL! *OOB K
+MM$ &OO> @UU$ &
+OO( *QQB D
+QQ, .SS 
+
+YY 
+`` 
+„„ 
+ee %qq% 1(
+ff ss !wwC Lxx" +(
+gg, /jj- 0jjA DjjJ M
+jj! *mmB K
+kk$ &mm> @ss$ &
+mm( *ooB D
+oo, .qq 
+
+ww 
+
+ „
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_16.cs
+
+ &
+
+ 
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+99 WW 
+== %II% 1(
+>> KK !OOC LPP" +(
+??, /BB- 0BBA DBBJ M
+BB! *EEB K
+CC$ &EE> @KK$ &
+EE( *GGB D
+GG, .II 
+
+OO 
+
+UU Ä
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_17.cs
+
+ &
+
+ 
+   
+ %++% 1(
+   -- !11C L22" +(
+!!, /$$- 0$$A D$$J M
+$$! *''B K
+%%$ &''> @--$ &
+''( *))B D
+)), .++ 
+
+11 
+88 UU 
+:: :: :: 
+<< %HH% 1(
+== JJ !NNC LOO" +(
+>>, /AA- 0AAA DAAJ M
+AA! *DDB K
+BB$ &DD> @JJ$ &
+DD( *FFB D
+FF, .HH 
+
+NN 
+
+SS ”
+~C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\Program.cs
 
  
 
@@ -1073,5 +1234,5 @@
 
 šš  JJ 
 
-    KK £
- C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\Properties\AssemblyInfo.cs
+    KK ‘
+ŽC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\Properties\AssemblyInfo.cs

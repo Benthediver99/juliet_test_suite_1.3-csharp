@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE566_Authorization_Bypass_Through_SQL_Primary</ProjectName>
+  <ProjectName>CWE570_Expression_Always_False</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>bd5c5fb6-5bcf-82cb-8e6f-599c5721d143</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary.csproj</FullPath>
+  <ProjectGuid>2ac32eb2-9a4c-3426-1a41-036ca2dd52cd</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\94\FilesToAnalyze.txt" />

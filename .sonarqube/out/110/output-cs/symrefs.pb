@@ -1,2035 +1,1073 @@
-˜
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_01.cs
-
- :
-
- (
-  !! ## 
-
-'' 
-.. )) 
-88 ** 
-00 22 44 
-:: ;; == •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_02.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_03.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ©
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_04.cs
-
- :^
-   )&& 22 II TT __ jj 
-áá 
-ìì 
-!! *>> vv 
-
-## 2
-%% (( ** 00 55 
-;; 
-ùù (
-== BB GG LL 
-QQ 
-ûû (
-SS WW ]] bb 
-gg 
-üü (
-ii ll nn tt 
-
-ÑÑ 
-†† 0
-
-ÜÜ 
-ââ 
-ãã 
-ëë 
-
-õõ ©
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_05.cs
-
- :^
- %% 11 HH SS ^^ ii 
-ÜÜ 
-íí 
-   == uu 
-
-"" 2
-$$ '' )) // 44 
-:: 
-úú (
-<< AA FF KK 
-PP 
-ùù (
-RR VV \\ aa 
-ff 
-ûû (
-hh kk mm ss 
-
-ÉÉ 
-üü 0
-
-ÖÖ 
-àà 
-ää 
-êê 
-
-öö ù
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_06.cs
-
- :r
- ($$ 00 << GG RR ]] hh tt 
-ÖÖ 
-ëë 
-
-!! 2
-## && (( .. 33 
-99 
-õõ (
-;; @@ EE JJ 
-OO 
-úú (
-QQ UU [[ `` 
-ee 
-ùù (
-gg jj ll rr 
-
-ÇÇ 
-ûû 0
-
-ÑÑ 
-áá 
-ââ 
-èè 
-
-ôô ù
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_07.cs
-
- :r
- $$ 00 << GG RR ]] hh tt 
-ÖÖ 
-ëë 
-
-!! 2
-## && (( .. 33 
-99 
-õõ (
-;; @@ EE JJ 
-OO 
-úú (
-QQ UU [[ `` 
-ee 
-ùù (
-gg jj ll rr 
-
-ÇÇ 
-ûû 0
-
-ÑÑ 
-áá 
-ââ 
-èè 
-
-ôô ©
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_08.cs
-
- :^
- *,, 88 OO ZZ ee pp 
-çç 
-ôô 
-$$ +DD || 
-
-)) 2
-++ .. 00 66 ;; 
-AA 
-££ (
-CC HH MM RR 
-WW 
-§§ (
-YY ]] cc hh 
-mm 
-•• (
-oo rr tt zz 
-
-ää 
-¶¶ 0
-
-åå 
-èè 
-ëë 
-óó 
-
-°° •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_09.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_10.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_11.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ©
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_12.cs
-
- :
-
- 2
- !! ## (( -- 
-:: uu 2
-<< @@ EE JJ OO 
-UU vv 2
-WW ZZ \\ `` bb 
-
-rr •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_13.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî •
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_14.cs
-
- :
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ´
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_15.cs
-
- :
-
- 2
- "" $$ )) 00 
-;; 
-¥¥ (
-== CC GG NN 
-XX 
-µµ (
-ZZ __ dd kk 
-uu 
-∂∂ *
-ww {{ }} 
-ÇÇ 
-
-îî 
-∑∑ 0
-
-ññ 
-öö 
-úú 
-°° 
-
-≤≤ ˜
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_16.cs
-
- :
-
- (
- !! ## )) 
-00 WW 
-22 66 << 
-BB XX 
-DD GG II 
-
-UU ◊
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_17.cs
-
- :
-
- (
- ## %% )) 
-&& && &&  
-// LL 
-11 33 77 
-44 44 44  
-<< MM 
->> ?? AA 
-BB BB BB  
-
-JJ ›
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_21.cs
-
- :
- %% ++ 
-
- (
-!! "" $$ && 
-)) && 
-))& *.. 
-33  EE KK 
-44  __ ee 
-55 ss yy 
+ª
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_01.cs
+
+ H
+
+ 
+!! %% --% 1
+''# 5**2 D
+// #11. 6
+
+66 
+;; 88 2
+?? CC KK KK( +PP% (
+EE# 5HH2 D
+RR #TT. 6∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_02.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ ∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_03.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ Ô
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_04.cs
+
+ H
+ )"" hh 
+ *BB 
+
+   
+)) #--  55) 5
+//' 9226 H
+77 '992 :
+@@ 
+àà 2
+KK OO WW WW, /\\) ,
+QQ' 9TT6 H
+^^ '``2 :
+ff 
+ââ 2
+ll pp xx xx, /}}) ,
+rr' 9uu6 H
+ '
+ÅÅ2 :
+
+ÜÜ Ô
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_05.cs
+
+ H
+ "" hh 
+ BB 
+
+   
+)) #--  55) 5
+//' 9226 H
+77 '992 :
+@@ 
+àà 2
+KK OO WW WW, /\\) ,
+QQ' 9TT6 H
+^^ '``2 :
+ff 
+ââ 2
+ll pp xx xx, /}}) ,
+rr' 9uu6 H
+ '
+ÅÅ2 :
+
+ÜÜ „
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_06.cs
+
+ H(
+ (!! AA gg 
+
+ 
+(( #,,  44) 5
+..' 9116 H
+66 '882 :
+?? 
+áá 2
+JJ NN VV VV, /[[) ,
+PP' 9SS6 H
+]] '__2 :
+ee 
+àà 2
+kk oo ww ww, /||) ,
+qq' 9tt6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ „
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_07.cs
+
+ H(
+ !! AA gg 
+
+ 
+(( #,,  44) 5
+..' 9116 H
+66 '882 :
+?? 
+áá 2
+JJ NN VV VV, /[[) ,
+PP' 9SS6 H
+]] '__2 :
+ee 
+àà 2
+kk oo ww ww, /||) ,
+qq' 9tt6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ Û
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_08.cs
+
+ H
+ *)) oo 
+"" +II 
+
+'' 
+00 #44  <<) 5
+66' 9996 H
+>> '@@2 :
+GG 
+èè 2
+RR VV ^^ ^^, /cc) ,
+XX' 9[[6 H
+ee 'gg2 :
+mm 
+êê 4
+ss ww  , /
+ÑÑ) ,
+yy' 9||6 H
+
+ÜÜ '
+àà2 :
+
+çç ∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_09.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ ∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_10.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ ∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_11.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ ã
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_12.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :2
+:: >> FF FF, /KK) ,
+@@' 9CC6 H
+MM 'OO2 :
+VV 
+îî 2
+\\ `` hh hh, /mm) ,
+bb' 9ee6 H
+oo 'qq2 :8
+xx || 
+ÑÑ 
+ÑÑ, /
+ââ) ,
+~~' 9
+ÅÅ6 H
+
+ãã '
+çç2 :
+
+íí ∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_13.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ ∑
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_14.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: 
+ÇÇ 2
+EE II QQ QQ, /VV) ,
+KK' 9NN6 H
+XX 'ZZ2 :
+`` 
+ÉÉ 2
+ff jj rr rr, /ww) ,
+ll' 9oo6 H
+yy '{{2 :
+
+ÄÄ ª
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_15.cs
+
+ H
+
+ 
+$$ #((  00) 5
+**' 9--6 H
+22 '442 :
+@@ 
+èè 2
+KK OO WW WW, /\\) ,
+QQ' 9TT6 H
+^^ '``2 :
+gg 
+êê 2
+nn rr zz zz, /) ,
+tt' 9ww6 H
+
+ÅÅ '
+ÉÉ2 :
+
+çç ª
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_16.cs
+
+ H
+
+ 
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+;; ^^ 2
+AA EE MM MM, /RR) ,
+GG' 9JJ6 H
+TT 'VV2 :
+
+\\ ˚
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__double2float_17.cs
+
+ H
+
+ 
+   
+## #''  //) 5
+))' 9,,6 H
+11 '332 :
+:: \\ 
+<< << << 2
+@@ DD LL LL, /QQ) ,
+FF' 9II6 H
+SS 'UU2 :
+
+ZZ ∏
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_01.cs
+
+ E
+
+ 
+ ## ++# &
+%%# 5((2 D
+-- #//. 6
+
+44 
+99 66 2
+== AA II II& )OO' *
+CC# 5FF2 D
+RR #TT. 6¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_02.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ ¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_03.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ Ó
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_04.cs
+
+ E
+ )"" hh 
+ *@@ 
+
+   
+'' ++ 33' *
+--' 9006 H
+55 '772 :
+>> 
+ää 2
+II MM UU UU* -[[+ .
+OO' 9RR6 H
+^^ '``2 :
+ff 
+ãã 2
+ll pp xx xx* -~~+ .
+rr' 9uu6 H
+
+ÅÅ '
+ÉÉ2 :
+
+àà Ó
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_05.cs
+
+ E
+ "" hh 
+ @@ 
+
+   
+'' ++ 33' *
+--' 9006 H
+55 '772 :
+>> 
+ää 2
+II MM UU UU* -[[+ .
+OO' 9RR6 H
+^^ '``2 :
+ff 
+ãã 2
+ll pp xx xx* -~~+ .
+rr' 9uu6 H
+
+ÅÅ '
+ÉÉ2 :
+
+àà ‚
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_06.cs
+
+ E(
+ (!! ?? gg 
+
+ 
+&& ** 22' *
+,,' 9//6 H
+44 '662 :
+== 
+ââ 2
+HH LL TT TT* -ZZ+ .
+NN' 9QQ6 H
+]] '__2 :
+ee 
+ää 2
+kk oo ww ww* -}}+ .
+qq' 9tt6 H
+
+ÄÄ '
+ÇÇ2 :
+
+áá ‚
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_07.cs
+
+ E(
+ !! ?? gg 
+
+ 
+&& ** 22' *
+,,' 9//6 H
+44 '662 :
+== 
+ââ 2
+HH LL TT TT* -ZZ+ .
+NN' 9QQ6 H
+]] '__2 :
+ee 
+ää 2
+kk oo ww ww* -}}+ .
+qq' 9tt6 H
+
+ÄÄ '
+ÇÇ2 :
+
+áá 
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_08.cs
+
+ E
+ *)) oo 
+"" +GG 
+
+'' 
+.. 22 ::' *
+44' 9776 H
+<< '>>2 :
+EE 
+ëë 2
+PP TT \\ \\* -bb+ .
+VV' 9YY6 H
+ee 'gg2 :
+mm 
+íí 4
+ss ww  * -
+ÖÖ+ .
+yy' 9||6 H
+
+àà '
+ää2 :
+
+èè ¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_09.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ ¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_10.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ ¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_11.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ ä
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_12.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :2
+88 << DD DD* -JJ+ .
+>>' 9AA6 H
+MM 'OO2 :
+VV 
+òò 2
+\\ `` hh hh* -nn+ .
+bb' 9ee6 H
+qq 'ss2 :8
+zz ~~ 
+ÜÜ 
+ÜÜ* -
+åå+ .
+
+ÄÄ' 9
+ÉÉ6 H
+
+èè '
+ëë2 :
+
+ññ ¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_13.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ ¥
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_14.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 
+ÑÑ 2
+CC GG OO OO* -UU+ .
+II' 9LL6 H
+XX 'ZZ2 :
+`` 
+ÖÖ 2
+ff jj rr rr* -xx+ .
+ll' 9oo6 H
+{{ '}}2 :
+
+ÇÇ ∫
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_15.cs
+
+ E
+
+ 
+"" && ..' *
+((' 9++6 H
+00 '222 :
+>> 
+ëë 2
+II MM UU UU* -[[+ .
+OO' 9RR6 H
+^^ '``2 :
+gg 
+íí 4
+nn rr zz zz* -
+ÄÄ+ .
+tt' 9ww6 H
+
+ÉÉ '
+ÖÖ2 :
+
+èè ∏
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_16.cs
+
+ E
+
+ 
+!! %% --' *
+''' 9**6 H
+// '112 :
+99 ^^ 2
+?? CC KK KK* -QQ+ .
+EE' 9HH6 H
+TT 'VV2 :
+
+\\ ¯
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__float2int_17.cs
+
+ E
+
+ 
+   
+!! %% --' *
+''' 9**6 H
+// '112 :
+88 \\ 
+:: :: :: 2
+>> BB JJ JJ* -PP+ .
+DD' 9GG6 H
+SS 'UU2 :
+
+ZZ ±
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_01.cs
+
+ H
+
+ 
+"" && ... 1
+((# 5++2 D
+00 #22. 6
 
 77 
-?? 99 
-YY :: 
-nn ;; (
-AA BB DD FF 
-II FF 
-
-II+ /(
-[[ \\ ^^ `` 
-cc `` 
-
-cc+ /
-pp rr tt 
-ww tt 
-ww* .|| ö
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_22a.cs
-
- ;
- &%% 
-
- (
-!! "" $$ &&F J
-** +<< 
-++ +GG 
-,, *QQ 
-
-.. 
-66 00 
-AA 11 
-LL 22 (
-88 99 ;; ==K O(
-CC DD FF HHK O
-NN PP RRJ NÊ
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_22b.cs
-
- ;
-
- 
-, 0!! '' 
-
-.. #
-..1 544 
-
-?? #
-??1 5KK 
-
-PP "
-PP0 4UU [[ ô
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_31.cs
-
- :
-
- 
- $$ ''  ((
-   !! ## $$ 
-'' )) 
-
-.. 
-55 00 
-FF 11 
-77 << ??  (
-99 ;; << 
-?? AA 
-HH NN QQ  ((
-JJ KK MM NN 
-
-QQ ˚
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_41.cs
-
- :
- (( 
-- 1 
-
-"" (
-$$ %% '' (( 
-
-,, 
-99 .. 
-II // 
-22 #>> 
-221 555 
-;; == >> 
-AA #OO 
-
-AA1 5(
-KK LL NN OO ˚
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_42.cs
-
- :
-  )'' %(
-  !! "" 
-
-%% 
-'' )) 
-..  -88 )
-00 22 33 
-66 QQ 
-88 :: 
->>  -II )(
-@@ AA CC DD 
-GG RR 
-
-II 
-
-OO €
-∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_45.cs
-
- :
-  "" #-- 
- $:: 'EE 
- $KK 'XX 
-   .. 
-"" $$ 
-
-'' (
-)) ** ,, -- 
-
-22 
-@@ 44 
-RR 55 
-88 FF 
-:: << 
-BB DD EE 
-II YY 
-
-KK (
-TT UU WW XX Ç
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_51a.cs
-
- ;
-
- (
-  !! ""F J
-
-&& 
--- (( 
-66 )) 
-// 11 22J N(
-88 99 ;; <<J N¶
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_51b.cs
-
- ;
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4Ç
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_52a.cs
-
- ;
-
- (
-  !! ""F J
-
-&& 
--- (( 
-66 )) 
-// 11 22J N(
-88 99 ;; <<J N∞
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_52b.cs
-
- ;
-
- 
-, 0F J
-
-$$ "
-$$0 4&&J N
-
-** "
-**0 4,,J N¶
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_52c.cs
-
- ;
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4Ç
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_53a.cs
-
- ;
-
- (
-  !! ""F J
-
-&& 
--- (( 
-66 )) 
-// 11 22J N(
-88 99 ;; <<J N∞
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_53b.cs
-
- ;
-
- 
-, 0F J
-
-$$ "
-$$0 4&&J N
-
-** "
-**0 4,,J N∞
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_53c.cs
-
- ;
-
- 
-, 0F J
-
-$$ "
-$$0 4&&J N
-
-** "
-**0 4,,J N¶
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_53d.cs
-
- ;
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4Ç
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_54a.cs
-
- ;
-
- (
-  !! ""F J
-
-&& 
--- (( 
-66 )) 
-// 11 22J N(
-88 99 ;; <<J N∞
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_54b.cs
-
- ;
-
- 
-, 0F J
-
-$$ "
-$$0 4&&J N
-
-** "
-**0 4,,J N∞
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_54c.cs
-
- ;
-
- 
-, 0F J
-
-$$ "
-$$0 4&&J N
-
-** "
-**0 4,,J N∞
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_54d.cs
-
- ;
-
- 
-, 0F J
-
-$$ "
-$$0 4&&J N
-
-** "
-**0 4,,J N¶
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_54e.cs
-
- ;
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4∆
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_61a.cs
-
- ;
-
- 
-    
-
-$$ 
-++ && 
-33 '' 
--- // 
-
-55 ‚
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_61b.cs
-
- ;
-
- ((
-  !! "" 
-
-(( ,
-** ,, -- 
-
-11 ,(
-33 44 66 77 ‚
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_66a.cs
-
- ;
-
- (
-  !! ## 
-""  ## $$F O
-
-(( 
-// ** 
-:: ++ 
-11 33 55 
-44  55 66J S(
-<< == ?? AA 
-@@  AA BBJ SË
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_66b.cs
-
- ;
-
- 
-. 7 %
-    
-
-&& "
-&&2 ;(( %
-(( ** 
-
-.. "
-..2 ;00 %
-
-00 ‘
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_67a.cs
-
- ;F
- '' ''& /99 99& /EE EE& /(
- ((( ":: "FF "
-
-!! (
-## $$ && ((% )
-'' (( ))F S
-
--- 
-44 // 
-?? 00 
-66 88 ::% )
-99 :: ;;J W(
-AA BB DD FF% )
-EE FF GGJ WË
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_67b.cs
-
- ;
-
- 
-_ l )
-    
-
-&& "
-&&c p(( )
-(( ** 
-
-.. "
-..c p00 )
-
-00 Ã
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_68a.cs
-
- ;<
- #   "" 11 88 :: 
-
- 
-
-'' 
-.. )) 
-66 ** ¶
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_68b.cs
-
- ;
-
- 
-    
-
-&& "
-(( ** 
-
-.. "
-
-00 Ç
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_71a.cs
-
- ;
-
- (
-  !! ""N R
-
-&& 
--- (( 
-66 )) 
-// 11 22R V(
-88 99 ;; <<R VË
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_71b.cs
-
- ;
-
- 
-& 0* 4
- !! 
-
-'' "
-''* 4))* 4
-)) ++ 
-
-// "
-//* 411* 4
-
-11 ⁄
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_72a.cs
-
- ;
-
- <
-    "" $$ !%% !&& !2
-## $$ %% && ''F S
-
-++ 
-22 -- 
-?? .. 2
-44 66 88 !99 !:: !2
-77 88 99 :: ;;J W<
-AA BB DD FF !GG !HH !2
-EE FF GG HH IIJ WË
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_72b.cs
-
- ;
-
- 
-) 6+ 8
- !! 
-
-'' "
-''- :))+ 8
-)) ++ 
-
-// "
-//- :11+ 8
-
-11 ⁄
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_73a.cs
-
- ;
-
- <
-    "" $$ #%% #&& #2
-##! /$$ %% && ''F T
-
-++ 
-22 -- 
-?? .. 2
-44 66 88 #99 #:: #2
-77! /88 99 :: ;;J X<
-AA BB DD FF #GG #HH #2
-EE! /FF GG HH IIJ XË
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_73b.cs
-
- ;
-
- 
-8 F *
- !! 
-
-'' "
-''< J)) *
-)) ++ 
-
-// "
-//< J11 *
-
-11 ⁄
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_74a.cs
-
- ;
-
- <
-    "" $$ "%% "&& "2
-##% 3$$ %% && ''F T
-
-++ 
-22 -- 
-?? .. 2
-44 66 88 "99 ":: "2
-77% 388 99 :: ;;J X<
-AA BB DD FF "GG "HH "2
-EE% 3FF GG HH IIJ XË
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_74b.cs
-
- ;
-
- 
-< J *
- !! 
-
-'' #
-''A O)) *
-)) ++ 
-
-// "
-//@ N11 *
-
-11 –
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_75a.cs
-
- ;
-
- (
-   !! ## ++! %
-%% ,, ..J X
-(( ++ 
-)) ++ ,,! #
-00& 522Z i
-
-77 
->> 99 
-WW :: (
-@@ AA CC KK! %
-EE LL NNN \
-HH KK 
-II KK LL! #
-PP& 5RRZ i(
-YY ZZ \\ dd! %
-^^ ee ggN \
-aa dd 
-bb dd ee! #
-ii& 5kkZ i¶
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_75b.cs
-
- ;
-
- 
-& 4&&  .&&3 A
-"" (( ++ 
-## ((% ,(
-$$  && '' ((9 B
---& 5//[ j
-
-66 "
-66* 8>>  .>>3 A
-:: @@ CC 
-;; @@% ,(
-<<  >> ?? @@9 B
-EE& 5GG[ j
-
-LL "
-LL* 8TT  .TT3 A
-PP VV 
-QQ VV% ,(
-RR  TT UU VV9 B
-\\& 5^^[ jƒ
-ªC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_81a.cs
-
- ;
-
- (
-  !! ## 
-""B L## 
-
-'' 
-.. )) 
-88 ** 
-00 22 44 
-33B L44 (
-:: ;; == ?? 
->>B L?? Ô
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_81_bad.cs
-
- >
-
- 
-- 1 Ê
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_81_base.cs
-
- H
-
- 
-
-- 1È
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_81_goodB2G.cs
-
- B
-
- 
-
-- 1Û
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__OpenText_81_goodG2B.cs
-
- B
-
- 
-- 1   ˚
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_01.cs
-
- >
-
- (
-  !! ## 
-
-'' 
-.. )) 
-88 ** 
-00 22 44 
-:: ;; == ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_02.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_03.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ≠
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_04.cs
-
- >^
-   )&& 22 II TT __ jj 
-áá 
-ìì 
-!! *>> vv 
-
-## 2
-%% (( ** 00 55 
-;; 
-ùù (
-== BB GG LL 
-QQ 
-ûû (
-SS WW ]] bb 
-gg 
-üü (
-ii ll nn tt 
-
-ÑÑ 
-†† 0
-
-ÜÜ 
-ââ 
-ãã 
-ëë 
-
-õõ ≠
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_05.cs
-
- >^
- %% 11 HH SS ^^ ii 
-ÜÜ 
-íí 
-   == uu 
-
-"" 2
-$$ '' )) // 44 
-:: 
-úú (
-<< AA FF KK 
-PP 
-ùù (
-RR VV \\ aa 
-ff 
-ûû (
-hh kk mm ss 
-
-ÉÉ 
-üü 0
-
-ÖÖ 
-àà 
-ää 
-êê 
-
-öö °
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_06.cs
-
- >r
- ($$ 00 << GG RR ]] hh tt 
-ÖÖ 
-ëë 
-
-!! 2
-## && (( .. 33 
-99 
-õõ (
-;; @@ EE JJ 
-OO 
-úú (
-QQ UU [[ `` 
-ee 
-ùù (
-gg jj ll rr 
-
-ÇÇ 
-ûû 0
-
-ÑÑ 
-áá 
-ââ 
-èè 
-
-ôô °
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_07.cs
-
- >r
- $$ 00 << GG RR ]] hh tt 
-ÖÖ 
-ëë 
-
-!! 2
-## && (( .. 33 
-99 
-õõ (
-;; @@ EE JJ 
-OO 
-úú (
-QQ UU [[ `` 
-ee 
-ùù (
-gg jj ll rr 
-
-ÇÇ 
-ûû 0
-
-ÑÑ 
-áá 
-ââ 
-èè 
-
-ôô ≠
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_08.cs
-
- >^
- *,, 88 OO ZZ ee pp 
-çç 
-ôô 
-$$ +DD || 
-
-)) 2
-++ .. 00 66 ;; 
-AA 
-££ (
-CC HH MM RR 
-WW 
-§§ (
-YY ]] cc hh 
-mm 
-•• (
-oo rr tt zz 
-
-ää 
-¶¶ 0
-
-åå 
-èè 
-ëë 
-óó 
-
-°° ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_09.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_10.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_11.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ≠
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_12.cs
-
- >
-
- 2
- !! ## (( -- 
-:: uu 2
-<< @@ EE JJ OO 
-UU vv 2
-WW ZZ \\ `` bb 
-
-rr ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_13.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî ©
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_14.cs
-
- >
-
- 2
- !! ## )) .. 
-44 
-ññ (
-66 ;; @@ EE 
-JJ 
-óó (
-LL PP VV [[ 
-`` 
-òò (
-bb ee gg mm 
-}} 
-ôô .
- 
-ÇÇ 
-ÑÑ 
-ää 
-
-îî Ø
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_15.cs
-
- >
-
- 2
- "" $$ )) 00 
-;; 
-¥¥ (
-== CC GG NN 
-XX 
-µµ (
-ZZ __ dd kk 
-uu 
-∂∂ *
-ww {{ }} 
-ÇÇ 
-
-îî 
-∑∑ 0
-
-ññ 
-öö 
-úú 
-°° 
-
-≤≤ ˚
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_16.cs
-
- >
-
- (
- !! ## )) 
-00 WW 
-22 66 << 
-BB XX 
-DD GG II 
-
-UU €
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_17.cs
-
- >
-
- (
- ## %% )) 
-&& && &&  
-// LL 
-11 33 77 
-44 44 44  
-<< MM 
->> ?? AA 
-BB BB BB  
-
-JJ ·
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_21.cs
-
- >
- %% ++ 
-
- (
-!! "" $$ && 
-)) && 
-))& *.. 
-33  EE KK 
-44  __ ee 
-55 ss yy 
-
-77 
-?? 99 
-YY :: 
-nn ;; (
-AA BB DD FF 
-II FF 
-
-II+ /(
-[[ \\ ^^ `` 
-cc `` 
-
-cc+ /
-pp rr tt 
-ww tt 
-ww* .|| û
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_22a.cs
-
- ?
- &%% 
-
- (
-!! "" $$ &&J N
-** +<< 
-++ +GG 
-,, *QQ 
-
-.. 
-66 00 
-AA 11 
-LL 22 (
-88 99 ;; ==O S(
-CC DD FF HHO S
-NN PP RRN RÍ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_22b.cs
-
- ?
-
- 
-, 0!! '' 
-
-.. #
-..1 544 
-
-?? #
-??1 5KK 
-
-PP "
-PP0 4UU [[ ù
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_31.cs
-
- >
-
- 
- $$ ''  ((
-   !! ## $$ 
-'' )) 
-
-.. 
-55 00 
-FF 11 
-77 << ??  (
-99 ;; << 
-?? AA 
-HH NN QQ  ((
-JJ KK MM NN 
-
-QQ ˇ
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_41.cs
-
- >
- (( 
-- 1 
-
-"" (
-$$ %% '' (( 
-
-,, 
-99 .. 
-II // 
-22 #>> 
-221 555 
-;; == >> 
-AA #OO 
-
-AA1 5(
-KK LL NN OO ˇ
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_42.cs
-
- >
-  )'' %(
-  !! "" 
-
-%% 
-'' )) 
-..  -88 )
-00 22 33 
-66 QQ 
-88 :: 
->>  -II )(
-@@ AA CC DD 
-GG RR 
-
-II 
-
-OO ﬂ
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_45.cs
-
- >
-  "" #-- 
- $:: 'EE 
- $KK 'XX 
-   .. 
-"" $$ 
-
-'' (
-)) ** ,, -- 
-
-22 
-@@ 44 
-RR 55 
-88 FF 
-:: << 
-BB DD EE 
-II YY 
-
-KK (
-TT UU WW XX Ü
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_51a.cs
-
- ?
-
- (
-  !! ""J N
-
-&& 
--- (( 
-66 )) 
-// 11 22N R(
-88 99 ;; <<N R™
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_51b.cs
-
- ?
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4Ü
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_52a.cs
-
- ?
-
- (
-  !! ""J N
-
-&& 
--- (( 
-66 )) 
-// 11 22N R(
-88 99 ;; <<N R¥
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_52b.cs
-
- ?
-
- 
-, 0J N
-
-$$ "
-$$0 4&&N R
-
-** "
-**0 4,,N R™
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_52c.cs
-
- ?
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4Ü
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_53a.cs
-
- ?
-
- (
-  !! ""J N
-
-&& 
--- (( 
-66 )) 
-// 11 22N R(
-88 99 ;; <<N R¥
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_53b.cs
-
- ?
-
- 
-, 0J N
-
-$$ "
-$$0 4&&N R
-
-** "
-**0 4,,N R¥
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_53c.cs
-
- ?
-
- 
-, 0J N
-
-$$ "
-$$0 4&&N R
-
-** "
-**0 4,,N R™
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_53d.cs
-
- ?
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4Ü
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_54a.cs
-
- ?
-
- (
-  !! ""J N
-
-&& 
--- (( 
-66 )) 
-// 11 22N R(
-88 99 ;; <<N R¥
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_54b.cs
-
- ?
-
- 
-, 0J N
-
-$$ "
-$$0 4&&N R
-
-** "
-**0 4,,N R¥
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_54c.cs
-
- ?
-
- 
-, 0J N
-
-$$ "
-$$0 4&&N R
-
-** "
-**0 4,,N R¥
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_54d.cs
-
- ?
-
- 
-, 0J N
-
-$$ "
-$$0 4&&N R
-
-** "
-**0 4,,N R™
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_54e.cs
-
- ?
-
- 
-, 0 
-
-%% "
-%%0 4(( 
-
-,, "
-
-,,0 4 
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_61a.cs
-
- ?
-
- 
-    
-
-$$ 
-++ && 
-33 '' 
--- // 
-
-55 Ê
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_61b.cs
-
- ?
-
- ((
-  !! "" 
-
-(( ,
-** ,, -- 
-
-11 ,(
-33 44 66 77 Ê
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_66a.cs
-
- ?
-
- (
-  !! ## 
-""  ## $$J S
-
-(( 
-// ** 
-:: ++ 
-11 33 55 
-44  55 66N W(
-<< == ?? AA 
-@@  AA BBN WÏ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_66b.cs
-
- ?
-
- 
-. 7 %
-    
-
-&& "
-&&2 ;(( %
-(( ** 
-
-.. "
-..2 ;00 %
-
-00 ÿ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_67a.cs
-
- ?F
- '' ''& /99 99& /EE EE& /(
- ((( ":: "FF "
-
-!! (
-## $$ && ((% )
-'' (( ))J W
-
--- 
-44 // 
-?? 00 
-66 88 ::% )
-99 :: ;;N [(
-AA BB DD FF% )
-EE FF GGN [Ï
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_67b.cs
-
- ?
-
- 
-c p )
-    
-
-&& "
-&&g t(( )
-(( ** 
-
-.. "
-..g t00 )
-
-00 –
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_68a.cs
-
- ?<
- #   "" 11 88 :: 
-
- 
-
-'' 
-.. )) 
-66 ** ™
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_68b.cs
-
- ?
-
- 
-    
-
-&& "
-(( ** 
-
-.. "
-
-00 Ü
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_71a.cs
-
- ?
-
- (
-  !! ""R V
-
-&& 
--- (( 
-66 )) 
-// 11 22V Z(
-88 99 ;; <<V ZÏ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_71b.cs
-
- ?
-
- 
-& 0* 4
- !! 
-
-'' "
-''* 4))* 4
-)) ++ 
-
-// "
-//* 411* 4
-
-11 ﬁ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_72a.cs
-
- ?
-
- <
-    "" $$ !%% !&& !2
-## $$ %% && ''J W
-
-++ 
-22 -- 
-?? .. 2
-44 66 88 !99 !:: !2
-77 88 99 :: ;;N [<
-AA BB DD FF !GG !HH !2
-EE FF GG HH IIN [Ï
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_72b.cs
-
- ?
-
- 
-) 6+ 8
- !! 
-
-'' "
-''- :))+ 8
-)) ++ 
-
-// "
-//- :11+ 8
-
-11 ﬁ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_73a.cs
-
- ?
-
- <
-    "" $$ #%% #&& #2
-##! /$$ %% && ''J X
-
-++ 
-22 -- 
-?? .. 2
-44 66 88 #99 #:: #2
-77! /88 99 :: ;;N \<
-AA BB DD FF #GG #HH #2
-EE! /FF GG HH IIN \Ï
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_73b.cs
-
- ?
-
- 
-8 F *
- !! 
-
-'' "
-''< J)) *
-)) ++ 
-
-// "
-//< J11 *
-
-11 ﬁ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_74a.cs
-
- ?
-
- <
-    "" $$ "%% "&& "2
-##% 3$$ %% && ''J X
-
-++ 
-22 -- 
-?? .. 2
-44 66 88 "99 ":: "2
-77% 388 99 :: ;;N \<
-AA BB DD FF "GG "HH "2
-EE% 3FF GG HH IIN \Ï
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_74b.cs
-
- ?
-
- 
-< J *
- !! 
-
-'' #
-''A O)) *
-)) ++ 
-
-// "
-//@ N11 *
-
-11 ‘
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_75a.cs
-
- ?
-
- (
-   !! ## ++! %
-%% ,, ..N \
-(( ++ 
-)) ++ ,,! #
-00& 522Z i
-
-77 
->> 99 
-WW :: (
-@@ AA CC KK! %
-EE LL NNR `
-HH KK 
-II KK LL! #
-PP& 5RRZ i(
-YY ZZ \\ dd! %
-^^ ee ggR `
-aa dd 
-bb dd ee! #
-ii& 5kkZ i™
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_75b.cs
-
- ?
-
- 
-& 4&&  .&&3 A
-"" (( ++ 
-## ((% ,(
-$$  && '' ((9 B
---& 5//[ j
-
-66 "
-66* 8>>  .>>3 A
-:: @@ CC 
-;; @@% ,(
-<<  >> ?? @@9 B
-EE& 5GG[ j
-
-LL "
-LL* 8TT  .TT3 A
-PP VV 
-QQ VV% ,(
-RR  TT UU VV9 B
-\\& 5^^[ j»
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_81a.cs
-
- ?
-
- (
-  !! ## 
-""F P## 
-
-'' 
-.. )) 
-88 ** 
-00 22 44 
-33F P44 (
-:: ;; == ?? 
->>F P?? Û
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_81_bad.cs
-
- B
-
- 
-- 1 Í
-√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_81_base.cs
-
- L
-
- 
-
-- 1Ì
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_81_goodB2G.cs
-
- F
-
- 
-
-- 1˜
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\CWE675_Duplicate_Operations_on_Resource__StreamReader_81_goodG2B.cs
-
- F
-
- 
-- 1   û
-çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\Program.cs
+<< 99 (
+AA DD LL RR2 5
+FF# 5II2 D
+UU #WW. 6•
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_02.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ •
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_03.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ ﬂ
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_04.cs
+
+ H
+ )"" kk 
+ *CC 
+
+   
+** .. 662 5
+00' 9336 H
+88 '::2 :
+AA 
+çç (
+MM PP XX ^^6 9
+RR' 9UU6 H
+aa 'cc2 :
+ii 
+éé *
+pp ss {{ 
+ÅÅ6 9
+uu' 9xx6 H
+
+ÑÑ '
+ÜÜ2 :
+
+ãã ﬂ
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_05.cs
+
+ H
+ "" kk 
+ CC 
+
+   
+** .. 662 5
+00' 9336 H
+88 '::2 :
+AA 
+çç (
+MM PP XX ^^6 9
+RR' 9UU6 H
+aa 'cc2 :
+ii 
+éé *
+pp ss {{ 
+ÅÅ6 9
+uu' 9xx6 H
+
+ÑÑ '
+ÜÜ2 :
+
+ãã ”
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_06.cs
+
+ H(
+ (!! BB jj 
+
+ 
+)) -- 552 5
+//' 9226 H
+77 '992 :
+@@ 
+åå (
+LL OO WW ]]6 9
+QQ' 9TT6 H
+`` 'bb2 :
+hh 
+çç *
+oo rr zz 
+ÄÄ6 9
+tt' 9ww6 H
+
+ÉÉ '
+ÖÖ2 :
+
+ää ”
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_07.cs
+
+ H(
+ !! BB jj 
+
+ 
+)) -- 552 5
+//' 9226 H
+77 '992 :
+@@ 
+åå (
+LL OO WW ]]6 9
+QQ' 9TT6 H
+`` 'bb2 :
+hh 
+çç *
+oo rr zz 
+ÄÄ6 9
+tt' 9ww6 H
+
+ÉÉ '
+ÖÖ2 :
+
+ää ·
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_08.cs
+
+ H
+ *)) rr 
+"" +JJ 
+
+'' 
+11 55 ==2 5
+77' 9::6 H
+?? 'AA2 :
+HH 
+îî (
+TT WW __ ee6 9
+YY' 9\\6 H
+hh 'jj2 :
+pp 
+ïï ,
+ww zz 
+ÇÇ 
+àà6 9
+||' 96 H
+
+ãã '
+çç2 :
+
+íí •
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_09.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ •
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_10.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ •
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_11.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ Ô
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_12.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :(
+<< ?? GG MM6 9
+AA' 9DD6 H
+PP 'RR2 :
+YY 
+õõ (
+`` cc kk qq6 9
+ee' 9hh6 H
+tt 'vv2 :.
+~~ 
+ÅÅ 
+ââ 
+èè6 9
+
+ÉÉ' 9
+ÜÜ6 H
+
+íí '
+îî2 :
+
+ôô •
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_13.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ •
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_14.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; 
+áá (
+GG JJ RR XX6 9
+LL' 9OO6 H
+[[ ']]2 :
+cc 
+àà (
+jj mm uu {{6 9
+oo' 9rr6 H
+~~ '
+ÄÄ2 :
+
+ÖÖ ©
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_15.cs
+
+ H
+
+ 
+%% )) 112 5
+++' 9..6 H
+33 '552 :
+AA 
+îî (
+MM PP XX ^^6 9
+RR' 9UU6 H
+aa 'cc2 :
+jj 
+ïï *
+rr uu }} 
+ÉÉ6 9
+ww' 9zz6 H
+
+ÜÜ '
+àà2 :
+
+íí ±
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_16.cs
+
+ H
+
+ 
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+<< aa (
+CC FF NN TT6 9
+HH' 9KK6 H
+WW 'YY2 :
+
+__ Ò
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\CWE681_Incorrect_Conversion_Between_Numeric_Types__floatNaN2int_17.cs
+
+ H
+
+ 
+   
+$$ (( 002 5
+**' 9--6 H
+22 '442 :
+;; __ 
+== == == (
+BB EE MM SS6 9
+GG' 9JJ6 H
+VV 'XX2 :
+
+]] ®
+óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\Program.cs
 
  
 
@@ -2047,9 +1085,9 @@
 gg  GG 
 mm  HH 
 
-ºº  II 
+••  II 
 
-¬¬  JJ 
+´´  JJ 
 
-»»  KK †
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\Properties\AssemblyInfo.cs
+±±  KK ™
+ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE681_Incorrect_Conversion_Between_Numeric_Types\Properties\AssemblyInfo.cs

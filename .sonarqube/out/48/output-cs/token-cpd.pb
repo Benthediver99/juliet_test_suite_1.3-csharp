@@ -1,15 +1,15 @@
-´#
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_01.cs
+ö)
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_01.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_01 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_01 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -18,246 +18,297 @@
 Bad 
 ( 
 ) 
-{ 
-string 
-	plainText 
-= 
-$str *
-;* +
+{ 
+const 
+string 
+CIPHER_INPUT !
+=" #
+$str$ 3
+;3 4
 byte 
 [ 
 ] 
 	encrypted 
 ; 
 using 
-( 
-Aes 
-aesAlg 
-= 
-Aes 
-.  
-Create  &
-(& '
-)' (
-)( )
+( *
+TripleDESCryptoServiceProvider -
+tdes. 2
+=3 4
+new5 8*
+TripleDESCryptoServiceProvider9 W
+(W X
+)X Y
+)Y Z
 {   	
 ICryptoTransform"" 
 	encryptor"" &
-=""' (
-aesAlg"") /
-.""/ 0
-CreateEncryptor""0 ?
-(""? @
-aesAlg""@ F
-.""F G
-Key""G J
-,""J K
-aesAlg""L R
-.""R S
-IV""S U
-)""U V
-;""V W
-using$$ 
-($$ 
-MemoryStream$$ 
-	msEncrypt$$  )
-=$$* +
-new$$, /
-MemoryStream$$0 <
-($$< =
-)$$= >
-)$$> ?
-{%% 
-using'' 
-('' 
-StreamWriter'' #
-	swEncrypt''$ -
-=''. /
-new''0 3
-StreamWriter''4 @
-(''@ A
-	msEncrypt''A J
-)''J K
-)''K L
-{(( 
-	swEncrypt)) 
-.)) 
-Write)) #
-())# $
-	plainText))$ -
+=""' (
+tdes"") -
+.""- .
+CreateEncryptor"". =
+(""= >
+tdes""> B
+.""B C
+Key""C F
+,""F G
+tdes""H L
+.""L M
+IV""M O
+)""O P
+;""P Q
+using## 
+(## 
+MemoryStream## 
+ms##  "
+=### $
+new##% (
+MemoryStream##) 5
+(##5 6
+)##6 7
+)##7 8
+{$$ 
+using%% 
+(%% 
+CryptoStream%% #
+cs%%$ &
+=%%' (
+new%%) ,
+CryptoStream%%- 9
+(%%9 :
+ms%%: <
+,%%< =
+	encryptor%%> G
+,%%G H
+CryptoStreamMode%%I Y
+.%%Y Z
+Write%%Z _
+)%%_ `
+)%%` a
+{&& 
+using'' 
+('' 
+StreamWriter'' '
+sw''( *
+=''+ ,
+new''- 0
+StreamWriter''1 =
+(''= >
+cs''> @
+)''@ A
+)''A B
+{(( 
+sw)) 
+.)) 
+Write))  
+())  !
+CIPHER_INPUT))! -
 )))- .
 ;)). /
-}** 
-	encrypted++ 
-=++ 
-	msEncrypt++ %
-.++% &
-ToArray++& -
-(++- .
-)++. /
-;++/ 0
-},, 
-}-- 	
-IO.. 
+}** 
+	encrypted++ 
+=++ 
+ms++  "
+.++" #
+ToArray++# *
+(++* +
+)+++ ,
+;++, -
+},, 
+}-- 
+}.. 	
+string// 
+	encPhrase// 
+=// 
+System// !
+.//! "
+Text//" &
+.//& '
+Encoding//' /
+./// 0
+UTF8//0 4
+.//4 5
+	GetString//5 >
+(//> ?
+	encrypted//? H
+)//H I
+;//I J
+IO00 
 
-...
+.00
  
-	WriteLine.. 
-(.. 
-IO.. 
-... 
-ToHex.. 
-(.. 
-	encrypted.. '
-)..' (
-)..( )
-;..) *
-}// 
-public22 
+	WriteLine00 
+(00 
+IO00 
+.00 
+ToHex00 
+(00 
+	encrypted00 '
+)00' (
+)00( )
+;00) *
+}11 
+public44 
 
-override22 
-void22 
-Good22 
-(22 
-)22 
-{33 
-Good144 
-(44 
-)44 
-;44 
-}55 
-private77 
-void77 
-Good177 
-(77 
-)77 
-{88 
-string99 
-	plainText99 
-=99 
-$str99 *
-;99* +
-byte:: 
-[:: 
-]:: 
-	encrypted:: 
-;:: 
-using;; 
-(;; 
-Aes;; 
-aesAlg;; 
-=;; 
-Aes;; 
-.;;  
-Create;;  &
-(;;& '
-);;' (
-);;( )
-{<< 	
-ICryptoTransform>> 
-	encryptor>> &
-=>>' (
-aesAlg>>) /
-.>>/ 0
-CreateEncryptor>>0 ?
-(>>? @
-aesAlg>>@ F
-.>>F G
-Key>>G J
-,>>J K
-aesAlg>>L R
-.>>R S
-IV>>S U
-)>>U V
-;>>V W
-using@@ 
-(@@ 
-MemoryStream@@ 
-	msEncrypt@@  )
-=@@* +
-new@@, /
-MemoryStream@@0 <
-(@@< =
-)@@= >
-)@@> ?
-{AA 
+override44 
+void44 
+Good44 
+(44 
+)44 
+{55 
+Good166 
+(66 
+)66 
+;66 
+}77 
+private99 
+void99 
+Good199 
+(99 
+)99 
+{:: 
+const;; 
+string;; 
+CIPHER_INPUT;; !
+=;;" #
+$str;;$ 3
+;;;3 4
+byte<< 
+[<< 
+]<< 
+	encrypted<< 
+;<< 
+using== 
+(== $
+AesCryptoServiceProvider== '
+aes==( +
+===, -
+new==. 1$
+AesCryptoServiceProvider==2 J
+(==J K
+)==K L
+)==L M
+{>> 	
+ICryptoTransform@@ 
+	encryptor@@ &
+=@@' (
+aes@@) ,
+.@@, -
+CreateEncryptor@@- <
+(@@< =
+aes@@= @
+.@@@ A
+Key@@A D
+,@@D E
+aes@@F I
+.@@I J
+IV@@J L
+)@@L M
+;@@M N
+usingAA 
+(AA 
+MemoryStreamAA 
+msAA  "
+=AA# $
+newAA% (
+MemoryStreamAA) 5
+(AA5 6
+)AA6 7
+)AA7 8
+{BB 
 usingCC 
 (CC 
-CryptoStreamCC #
-	csEncryptCC$ -
-=CC. /
-newCC0 3
-CryptoStreamCC4 @
-(CC@ A
-	msEncryptCCA J
-,CCJ K
-	encryptorCCL U
-,CCU V
-CryptoStreamModeCCW g
-.CCg h
-WriteCCh m
-)CCm n
-)CCn o
+CryptoStreamCC #
+csCC$ &
+=CC' (
+newCC) ,
+CryptoStreamCC- 9
+(CC9 :
+msCC: <
+,CC< =
+	encryptorCC> G
+,CCG H
+CryptoStreamModeCCI Y
+.CCY Z
+WriteCCZ _
+)CC_ `
+)CC` a
 {DD 
 usingEE 
 (EE 
-StreamWriterEE '
-	swEncryptEE( 1
-=EE2 3
-newEE4 7
-StreamWriterEE8 D
-(EED E
-	csEncryptEEE N
-)EEN O
-)EEO P
-{FF 
-	swEncryptGG !
-.GG! "
-WriteGG" '
-(GG' (
-	plainTextGG( 1
-)GG1 2
-;GG2 3
+StreamWriterEE '
+swEE( *
+=EE+ ,
+newEE- 0
+StreamWriterEE1 =
+(EE= >
+csEE> @
+)EE@ A
+)EEA B
+{FF 
+swGG 
+.GG 
+WriteGG  
+(GG  !
+CIPHER_INPUTGG! -
+)GG- .
+;GG. /
 }HH 
 	encryptedII 
-=II 
-	msEncryptII  )
-.II) *
-ToArrayII* 1
-(II1 2
-)II2 3
-;II3 4
+=II 
+msII  "
+.II" #
+ToArrayII# *
+(II* +
+)II+ ,
+;II, -
 }JJ 
 }KK 
-}LL 	
-IOMM 
+}LL 	
+stringMM 
+	encPhraseMM 
+=MM 
+SystemMM !
+.MM! "
+TextMM" &
+.MM& '
+EncodingMM' /
+.MM/ 0
+UTF8MM0 4
+.MM4 5
+	GetStringMM5 >
+(MM> ?
+	encryptedMM? H
+)MMH I
+;MMI J
+IONN 
 
-.MM
+.NN
  
-	WriteLineMM 
-(MM 
-IOMM 
-.MM 
-ToHexMM 
-(MM 
-	encryptedMM '
-)MM' (
-)MM( )
-;MM) *
-}NN 
-}PP 
-}QQ ×7
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_02.cs
+	WriteLineNN 
+(NN 
+IONN 
+.NN 
+ToHexNN 
+(NN 
+	encryptedNN '
+)NN' (
+)NN( )
+;NN) *
+}OO 
+}QQ 
+}RR ¬@
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_02.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_02 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_02 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -272,344 +323,411 @@
 ( 
 true 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-false88 
-)88 
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+(:: 
+false:: 
+):: 
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-trueZZ 
-)ZZ 
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+([[ 
+true[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -642,18 +760,18 @@
 ;ww 
 }xx 
 }zz 
-}{{ ¼8
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_03.cs
+}{{ ‘A
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_03.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_03 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_03 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -670,348 +788,415 @@
 == 
 $num 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-$num88 
-!=88 
-$num88 
-)88 
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+(:: 
+$num:: 
+!=:: 
+$num:: 
+):: 
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-$numZZ 
-==ZZ 
-$numZZ 
-)ZZ 
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+([[ 
+$num[[ 
+==[[ 
+$num[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -1044,18 +1229,18 @@
 ;ww 
 }xx 
 }zz 
-}{{ ›:
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_04.cs
+}{{ ðB
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_04.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_04 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_04 '
+:( )
+AbstractTestCase* :
 { 
 private 
 const 
@@ -1084,344 +1269,411 @@
 (## 
 PRIVATE_CONST_TRUE## 
 )## 
-{$$ 	
-string%% 
-	plainText%% 
-=%% 
-$str%% .
-;%%. /
+{$$ 	
+const%% 
+string%% 
+CIPHER_INPUT%% %
+=%%& '
+$str%%( 7
+;%%7 8
 byte&& 
 [&& 
 ]&& 
 	encrypted&& 
 ;&& 
 using'' 
-('' 
-Aes'' 
-aesAlg'' 
-='' 
-Aes''  #
-.''# $
-Create''$ *
-(''* +
-)''+ ,
-)'', -
+('' *
+TripleDESCryptoServiceProvider'' 1
+tdes''2 6
+=''7 8
+new''9 <*
+TripleDESCryptoServiceProvider''= [
+(''[ \
+)''\ ]
+)''] ^
 {(( 
 ICryptoTransform**  
 	encryptor**! *
-=**+ ,
-aesAlg**- 3
-.**3 4
-CreateEncryptor**4 C
-(**C D
-aesAlg**D J
-.**J K
-Key**K N
-,**N O
-aesAlg**P V
-.**V W
-IV**W Y
-)**Y Z
-;**Z [
-using,, 
-(,, 
-MemoryStream,, #
-	msEncrypt,,$ -
-=,,. /
-new,,0 3
-MemoryStream,,4 @
-(,,@ A
-),,A B
-),,B C
-{-- 
-using// 
-(// 
-StreamWriter// '
-	swEncrypt//( 1
-=//2 3
-new//4 7
-StreamWriter//8 D
-(//D E
-	msEncrypt//E N
-)//N O
-)//O P
-{00 
-	swEncrypt11 !
-.11! "
-Write11" '
-(11' (
-	plainText11( 1
+=**+ ,
+tdes**- 1
+.**1 2
+CreateEncryptor**2 A
+(**A B
+tdes**B F
+.**F G
+Key**G J
+,**J K
+tdes**L P
+.**P Q
+IV**Q S
+)**S T
+;**T U
+using++ 
+(++ 
+MemoryStream++ #
+ms++$ &
+=++' (
+new++) ,
+MemoryStream++- 9
+(++9 :
+)++: ;
+)++; <
+{,, 
+using-- 
+(-- 
+CryptoStream-- '
+cs--( *
+=--+ ,
+new--- 0
+CryptoStream--1 =
+(--= >
+ms--> @
+,--@ A
+	encryptor--B K
+,--K L
+CryptoStreamMode--M ]
+.--] ^
+Write--^ c
+)--c d
+)--d e
+{.. 
+using// 
+(// 
+StreamWriter// +
+sw//, .
+=/// 0
+new//1 4
+StreamWriter//5 A
+(//A B
+cs//B D
+)//D E
+)//E F
+{00 
+sw11 
+.11 
+Write11 $
+(11$ %
+CIPHER_INPUT11% 1
 )111 2
 ;112 3
-}22 
-	encrypted33 
-=33 
-	msEncrypt33  )
-.33) *
-ToArray33* 1
-(331 2
-)332 3
-;333 4
-}44 
-}55 
-IO66 
-.66 
-	WriteLine66 
-(66 
-IO66 
-.66 
-ToHex66 !
-(66! "
-	encrypted66" +
-)66+ ,
-)66, -
-;66- .
-}77 	
-}88 
-private<< 
-void<< 
-Good1<< 
-(<< 
-)<< 
-{== 
-if>> 
+}22 
+	encrypted33 !
+=33" #
+ms33$ &
+.33& '
+ToArray33' .
+(33. /
+)33/ 0
+;330 1
+}44 
+}55 
+}66 
+string77 
+	encPhrase77 
+=77 
+System77 %
+.77% &
+Text77& *
+.77* +
+Encoding77+ 3
+.773 4
+UTF8774 8
+.778 9
+	GetString779 B
+(77B C
+	encrypted77C L
+)77L M
+;77M N
+IO88 
+.88 
+	WriteLine88 
+(88 
+IO88 
+.88 
+ToHex88 !
+(88! "
+	encrypted88" +
+)88+ ,
+)88, -
+;88- .
+}99 	
+}:: 
+private>> 
+void>> 
+Good1>> 
+(>> 
+)>> 
+{?? 
+if@@ 
 
-(>> 
-PRIVATE_CONST_FALSE>> 
-)>>  
-{?? 	
-IOAA 
-.AA 
-	WriteLineAA 
-(AA 
-$strAA /
-)AA/ 0
-;AA0 1
-}BB 	
-elseCC 
-{DD 	
-stringEE 
-	plainTextEE 
-=EE 
-$strEE .
-;EE. /
-byteFF 
-[FF 
-]FF 
-	encryptedFF 
-;FF 
-usingGG 
-(GG 
-AesGG 
-aesAlgGG 
-=GG 
-AesGG  #
-.GG# $
-CreateGG$ *
-(GG* +
-)GG+ ,
-)GG, -
-{HH 
-ICryptoTransformJJ  
-	encryptorJJ! *
-=JJ+ ,
-aesAlgJJ- 3
-.JJ3 4
-CreateEncryptorJJ4 C
-(JJC D
-aesAlgJJD J
-.JJJ K
-KeyJJK N
-,JJN O
-aesAlgJJP V
-.JJV W
-IVJJW Y
-)JJY Z
-;JJZ [
-usingLL 
-(LL 
-MemoryStreamLL #
-	msEncryptLL$ -
-=LL. /
-newLL0 3
-MemoryStreamLL4 @
-(LL@ A
-)LLA B
-)LLB C
-{MM 
+(@@ 
+PRIVATE_CONST_FALSE@@ 
+)@@  
+{AA 	
+IOCC 
+.CC 
+	WriteLineCC 
+(CC 
+$strCC /
+)CC/ 0
+;CC0 1
+}DD 	
+elseEE 
+{FF 	
+constGG 
+stringGG 
+CIPHER_INPUTGG %
+=GG& '
+$strGG( 7
+;GG7 8
+byteHH 
+[HH 
+]HH 
+	encryptedHH 
+;HH 
+usingII 
+(II $
+AesCryptoServiceProviderII +
+aesII, /
+=II0 1
+newII2 5$
+AesCryptoServiceProviderII6 N
+(IIN O
+)IIO P
+)IIP Q
+{JJ 
+ICryptoTransformLL  
+	encryptorLL! *
+=LL+ ,
+aesLL- 0
+.LL0 1
+CreateEncryptorLL1 @
+(LL@ A
+aesLLA D
+.LLD E
+KeyLLE H
+,LLH I
+aesLLJ M
+.LLM N
+IVLLN P
+)LLP Q
+;LLQ R
+usingMM 
+(MM 
+MemoryStreamMM #
+msMM$ &
+=MM' (
+newMM) ,
+MemoryStreamMM- 9
+(MM9 :
+)MM: ;
+)MM; <
+{NN 
 usingOO 
 (OO 
-CryptoStreamOO '
-	csEncryptOO( 1
-=OO2 3
-newOO4 7
-CryptoStreamOO8 D
-(OOD E
-	msEncryptOOE N
-,OON O
-	encryptorOOP Y
-,OOY Z
-CryptoStreamModeOO[ k
-.OOk l
-WriteOOl q
-)OOq r
-)OOr s
+CryptoStreamOO '
+csOO( *
+=OO+ ,
+newOO- 0
+CryptoStreamOO1 =
+(OO= >
+msOO> @
+,OO@ A
+	encryptorOOB K
+,OOK L
+CryptoStreamModeOOM ]
+.OO] ^
+WriteOO^ c
+)OOc d
+)OOd e
 {PP 
 usingQQ 
 (QQ 
-StreamWriterQQ +
-	swEncryptQQ, 5
-=QQ6 7
-newQQ8 ;
-StreamWriterQQ< H
-(QQH I
-	csEncryptQQI R
-)QQR S
-)QQS T
-{RR 
-	swEncryptSS %
-.SS% &
-WriteSS& +
-(SS+ ,
-	plainTextSS, 5
-)SS5 6
-;SS6 7
+StreamWriterQQ +
+swQQ, .
+=QQ/ 0
+newQQ1 4
+StreamWriterQQ5 A
+(QQA B
+csQQB D
+)QQD E
+)QQE F
+{RR 
+swSS 
+.SS 
+WriteSS $
+(SS$ %
+CIPHER_INPUTSS% 1
+)SS1 2
+;SS2 3
 }TT 
 	encryptedUU !
-=UU" #
-	msEncryptUU$ -
-.UU- .
-ToArrayUU. 5
-(UU5 6
-)UU6 7
-;UU7 8
+=UU" #
+msUU$ &
+.UU& '
+ToArrayUU' .
+(UU. /
+)UU/ 0
+;UU0 1
 }VV 
 }WW 
-}XX 
-IOYY 
-.YY 
-	WriteLineYY 
-(YY 
-IOYY 
-.YY 
-ToHexYY !
-(YY! "
-	encryptedYY" +
-)YY+ ,
-)YY, -
-;YY- .
-}ZZ 	
-}[[ 
-private^^ 
-void^^ 
-Good2^^ 
-(^^ 
-)^^ 
-{__ 
-if`` 
+}XX 
+stringYY 
+	encPhraseYY 
+=YY 
+SystemYY %
+.YY% &
+TextYY& *
+.YY* +
+EncodingYY+ 3
+.YY3 4
+UTF8YY4 8
+.YY8 9
+	GetStringYY9 B
+(YYB C
+	encryptedYYC L
+)YYL M
+;YYM N
+IOZZ 
+.ZZ 
+	WriteLineZZ 
+(ZZ 
+IOZZ 
+.ZZ 
+ToHexZZ !
+(ZZ! "
+	encryptedZZ" +
+)ZZ+ ,
+)ZZ, -
+;ZZ- .
+}[[ 	
+}\\ 
+private__ 
+void__ 
+Good2__ 
+(__ 
+)__ 
+{`` 
+ifaa 
 
-(`` 
-PRIVATE_CONST_TRUE`` 
-)`` 
-{aa 	
-stringbb 
-	plainTextbb 
-=bb 
-$strbb .
-;bb. /
-bytecc 
-[cc 
-]cc 
-	encryptedcc 
-;cc 
-usingdd 
-(dd 
-Aesdd 
-aesAlgdd 
-=dd 
-Aesdd  #
-.dd# $
-Createdd$ *
-(dd* +
-)dd+ ,
-)dd, -
-{ee 
-ICryptoTransformgg  
-	encryptorgg! *
-=gg+ ,
-aesAlggg- 3
-.gg3 4
-CreateEncryptorgg4 C
-(ggC D
-aesAlgggD J
-.ggJ K
-KeyggK N
-,ggN O
-aesAlgggP V
-.ggV W
-IVggW Y
-)ggY Z
-;ggZ [
+(aa 
+PRIVATE_CONST_TRUEaa 
+)aa 
+{bb 	
+constcc 
+stringcc 
+CIPHER_INPUTcc %
+=cc& '
+$strcc( 7
+;cc7 8
+bytedd 
+[dd 
+]dd 
+	encrypteddd 
+;dd 
+usingee 
+(ee $
+AesCryptoServiceProvideree +
+aesee, /
+=ee0 1
+newee2 5$
+AesCryptoServiceProvideree6 N
+(eeN O
+)eeO P
+)eeP Q
+{ff 
+ICryptoTransformhh  
+	encryptorhh! *
+=hh+ ,
+aeshh- 0
+.hh0 1
+CreateEncryptorhh1 @
+(hh@ A
+aeshhA D
+.hhD E
+KeyhhE H
+,hhH I
+aeshhJ M
+.hhM N
+IVhhN P
+)hhP Q
+;hhQ R
 usingii 
 (ii 
-MemoryStreamii #
-	msEncryptii$ -
-=ii. /
-newii0 3
-MemoryStreamii4 @
-(ii@ A
-)iiA B
-)iiB C
+MemoryStreamii #
+msii$ &
+=ii' (
+newii) ,
+MemoryStreamii- 9
+(ii9 :
+)ii: ;
+)ii; <
 {jj 
-usingll 
-(ll 
-CryptoStreamll '
-	csEncryptll( 1
-=ll2 3
-newll4 7
-CryptoStreamll8 D
-(llD E
-	msEncryptllE N
-,llN O
-	encryptorllP Y
-,llY Z
-CryptoStreamModell[ k
-.llk l
-Writelll q
-)llq r
-)llr s
-{mm 
-usingnn 
-(nn 
-StreamWriternn +
-	swEncryptnn, 5
-=nn6 7
-newnn8 ;
-StreamWriternn< H
-(nnH I
-	csEncryptnnI R
-)nnR S
-)nnS T
-{oo 
-	swEncryptpp %
-.pp% &
-Writepp& +
-(pp+ ,
-	plainTextpp, 5
-)pp5 6
-;pp6 7
-}qq 
-	encryptedrr !
-=rr" #
-	msEncryptrr$ -
-.rr- .
-ToArrayrr. 5
-(rr5 6
-)rr6 7
-;rr7 8
-}ss 
-}tt 
-}uu 
+usingkk 
+(kk 
+CryptoStreamkk '
+cskk( *
+=kk+ ,
+newkk- 0
+CryptoStreamkk1 =
+(kk= >
+mskk> @
+,kk@ A
+	encryptorkkB K
+,kkK L
+CryptoStreamModekkM ]
+.kk] ^
+Writekk^ c
+)kkc d
+)kkd e
+{ll 
+usingmm 
+(mm 
+StreamWritermm +
+swmm, .
+=mm/ 0
+newmm1 4
+StreamWritermm5 A
+(mmA B
+csmmB D
+)mmD E
+)mmE F
+{nn 
+swoo 
+.oo 
+Writeoo $
+(oo$ %
+CIPHER_INPUToo% 1
+)oo1 2
+;oo2 3
+}pp 
+	encryptedqq !
+=qq" #
+msqq$ &
+.qq& '
+ToArrayqq' .
+(qq. /
+)qq/ 0
+;qq0 1
+}rr 
+}ss 
+}tt 
+stringuu 
+	encPhraseuu 
+=uu 
+Systemuu %
+.uu% &
+Textuu& *
+.uu* +
+Encodinguu+ 3
+.uu3 4
+UTF8uu4 8
+.uu8 9
+	GetStringuu9 B
+(uuB C
+	encrypteduuC L
+)uuL M
+;uuM N
 IOvv 
 .vv 
 	WriteLinevv 
@@ -1454,18 +1706,18 @@
 ;}} 
 }~~ 
 }€€ 
-} Ò9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_05.cs
+} §B
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_05.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_05 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_05 '
+:( )
+AbstractTestCase* :
 { 
 private 
 bool 
@@ -1492,344 +1744,411 @@
 (## 
 privateTrue## 
 )## 
-{$$ 	
-string%% 
-	plainText%% 
-=%% 
-$str%% .
-;%%. /
+{$$ 	
+const%% 
+string%% 
+CIPHER_INPUT%% %
+=%%& '
+$str%%( 7
+;%%7 8
 byte&& 
 [&& 
 ]&& 
 	encrypted&& 
 ;&& 
 using'' 
-('' 
-Aes'' 
-aesAlg'' 
-='' 
-Aes''  #
-.''# $
-Create''$ *
-(''* +
-)''+ ,
-)'', -
+('' *
+TripleDESCryptoServiceProvider'' 1
+tdes''2 6
+=''7 8
+new''9 <*
+TripleDESCryptoServiceProvider''= [
+(''[ \
+)''\ ]
+)''] ^
 {(( 
 ICryptoTransform**  
 	encryptor**! *
-=**+ ,
-aesAlg**- 3
-.**3 4
-CreateEncryptor**4 C
-(**C D
-aesAlg**D J
-.**J K
-Key**K N
-,**N O
-aesAlg**P V
-.**V W
-IV**W Y
-)**Y Z
-;**Z [
-using,, 
-(,, 
-MemoryStream,, #
-	msEncrypt,,$ -
-=,,. /
-new,,0 3
-MemoryStream,,4 @
-(,,@ A
-),,A B
-),,B C
-{-- 
-using// 
-(// 
-StreamWriter// '
-	swEncrypt//( 1
-=//2 3
-new//4 7
-StreamWriter//8 D
-(//D E
-	msEncrypt//E N
-)//N O
-)//O P
-{00 
-	swEncrypt11 !
-.11! "
-Write11" '
-(11' (
-	plainText11( 1
+=**+ ,
+tdes**- 1
+.**1 2
+CreateEncryptor**2 A
+(**A B
+tdes**B F
+.**F G
+Key**G J
+,**J K
+tdes**L P
+.**P Q
+IV**Q S
+)**S T
+;**T U
+using++ 
+(++ 
+MemoryStream++ #
+ms++$ &
+=++' (
+new++) ,
+MemoryStream++- 9
+(++9 :
+)++: ;
+)++; <
+{,, 
+using-- 
+(-- 
+CryptoStream-- '
+cs--( *
+=--+ ,
+new--- 0
+CryptoStream--1 =
+(--= >
+ms--> @
+,--@ A
+	encryptor--B K
+,--K L
+CryptoStreamMode--M ]
+.--] ^
+Write--^ c
+)--c d
+)--d e
+{.. 
+using// 
+(// 
+StreamWriter// +
+sw//, .
+=/// 0
+new//1 4
+StreamWriter//5 A
+(//A B
+cs//B D
+)//D E
+)//E F
+{00 
+sw11 
+.11 
+Write11 $
+(11$ %
+CIPHER_INPUT11% 1
 )111 2
 ;112 3
-}22 
-	encrypted33 
-=33 
-	msEncrypt33  )
-.33) *
-ToArray33* 1
-(331 2
-)332 3
-;333 4
-}44 
-}55 
-IO66 
-.66 
-	WriteLine66 
-(66 
-IO66 
-.66 
-ToHex66 !
-(66! "
-	encrypted66" +
-)66+ ,
-)66, -
-;66- .
-}77 	
-}88 
-private<< 
-void<< 
-Good1<< 
-(<< 
-)<< 
-{== 
-if>> 
+}22 
+	encrypted33 !
+=33" #
+ms33$ &
+.33& '
+ToArray33' .
+(33. /
+)33/ 0
+;330 1
+}44 
+}55 
+}66 
+string77 
+	encPhrase77 
+=77 
+System77 %
+.77% &
+Text77& *
+.77* +
+Encoding77+ 3
+.773 4
+UTF8774 8
+.778 9
+	GetString779 B
+(77B C
+	encrypted77C L
+)77L M
+;77M N
+IO88 
+.88 
+	WriteLine88 
+(88 
+IO88 
+.88 
+ToHex88 !
+(88! "
+	encrypted88" +
+)88+ ,
+)88, -
+;88- .
+}99 	
+}:: 
+private>> 
+void>> 
+Good1>> 
+(>> 
+)>> 
+{?? 
+if@@ 
 
-(>> 
-privateFalse>> 
-)>> 
-{?? 	
-IOAA 
-.AA 
-	WriteLineAA 
-(AA 
-$strAA /
-)AA/ 0
-;AA0 1
-}BB 	
-elseCC 
-{DD 	
-stringEE 
-	plainTextEE 
-=EE 
-$strEE .
-;EE. /
-byteFF 
-[FF 
-]FF 
-	encryptedFF 
-;FF 
-usingGG 
-(GG 
-AesGG 
-aesAlgGG 
-=GG 
-AesGG  #
-.GG# $
-CreateGG$ *
-(GG* +
-)GG+ ,
-)GG, -
-{HH 
-ICryptoTransformJJ  
-	encryptorJJ! *
-=JJ+ ,
-aesAlgJJ- 3
-.JJ3 4
-CreateEncryptorJJ4 C
-(JJC D
-aesAlgJJD J
-.JJJ K
-KeyJJK N
-,JJN O
-aesAlgJJP V
-.JJV W
-IVJJW Y
-)JJY Z
-;JJZ [
-usingLL 
-(LL 
-MemoryStreamLL #
-	msEncryptLL$ -
-=LL. /
-newLL0 3
-MemoryStreamLL4 @
-(LL@ A
-)LLA B
-)LLB C
-{MM 
+(@@ 
+privateFalse@@ 
+)@@ 
+{AA 	
+IOCC 
+.CC 
+	WriteLineCC 
+(CC 
+$strCC /
+)CC/ 0
+;CC0 1
+}DD 	
+elseEE 
+{FF 	
+constGG 
+stringGG 
+CIPHER_INPUTGG %
+=GG& '
+$strGG( 7
+;GG7 8
+byteHH 
+[HH 
+]HH 
+	encryptedHH 
+;HH 
+usingII 
+(II $
+AesCryptoServiceProviderII +
+aesII, /
+=II0 1
+newII2 5$
+AesCryptoServiceProviderII6 N
+(IIN O
+)IIO P
+)IIP Q
+{JJ 
+ICryptoTransformLL  
+	encryptorLL! *
+=LL+ ,
+aesLL- 0
+.LL0 1
+CreateEncryptorLL1 @
+(LL@ A
+aesLLA D
+.LLD E
+KeyLLE H
+,LLH I
+aesLLJ M
+.LLM N
+IVLLN P
+)LLP Q
+;LLQ R
+usingMM 
+(MM 
+MemoryStreamMM #
+msMM$ &
+=MM' (
+newMM) ,
+MemoryStreamMM- 9
+(MM9 :
+)MM: ;
+)MM; <
+{NN 
 usingOO 
 (OO 
-CryptoStreamOO '
-	csEncryptOO( 1
-=OO2 3
-newOO4 7
-CryptoStreamOO8 D
-(OOD E
-	msEncryptOOE N
-,OON O
-	encryptorOOP Y
-,OOY Z
-CryptoStreamModeOO[ k
-.OOk l
-WriteOOl q
-)OOq r
-)OOr s
+CryptoStreamOO '
+csOO( *
+=OO+ ,
+newOO- 0
+CryptoStreamOO1 =
+(OO= >
+msOO> @
+,OO@ A
+	encryptorOOB K
+,OOK L
+CryptoStreamModeOOM ]
+.OO] ^
+WriteOO^ c
+)OOc d
+)OOd e
 {PP 
 usingQQ 
 (QQ 
-StreamWriterQQ +
-	swEncryptQQ, 5
-=QQ6 7
-newQQ8 ;
-StreamWriterQQ< H
-(QQH I
-	csEncryptQQI R
-)QQR S
-)QQS T
-{RR 
-	swEncryptSS %
-.SS% &
-WriteSS& +
-(SS+ ,
-	plainTextSS, 5
-)SS5 6
-;SS6 7
+StreamWriterQQ +
+swQQ, .
+=QQ/ 0
+newQQ1 4
+StreamWriterQQ5 A
+(QQA B
+csQQB D
+)QQD E
+)QQE F
+{RR 
+swSS 
+.SS 
+WriteSS $
+(SS$ %
+CIPHER_INPUTSS% 1
+)SS1 2
+;SS2 3
 }TT 
 	encryptedUU !
-=UU" #
-	msEncryptUU$ -
-.UU- .
-ToArrayUU. 5
-(UU5 6
-)UU6 7
-;UU7 8
+=UU" #
+msUU$ &
+.UU& '
+ToArrayUU' .
+(UU. /
+)UU/ 0
+;UU0 1
 }VV 
 }WW 
-}XX 
-IOYY 
-.YY 
-	WriteLineYY 
-(YY 
-IOYY 
-.YY 
-ToHexYY !
-(YY! "
-	encryptedYY" +
-)YY+ ,
-)YY, -
-;YY- .
-}ZZ 	
-}[[ 
-private^^ 
-void^^ 
-Good2^^ 
-(^^ 
-)^^ 
-{__ 
-if`` 
+}XX 
+stringYY 
+	encPhraseYY 
+=YY 
+SystemYY %
+.YY% &
+TextYY& *
+.YY* +
+EncodingYY+ 3
+.YY3 4
+UTF8YY4 8
+.YY8 9
+	GetStringYY9 B
+(YYB C
+	encryptedYYC L
+)YYL M
+;YYM N
+IOZZ 
+.ZZ 
+	WriteLineZZ 
+(ZZ 
+IOZZ 
+.ZZ 
+ToHexZZ !
+(ZZ! "
+	encryptedZZ" +
+)ZZ+ ,
+)ZZ, -
+;ZZ- .
+}[[ 	
+}\\ 
+private__ 
+void__ 
+Good2__ 
+(__ 
+)__ 
+{`` 
+ifaa 
 
-(`` 
-privateTrue`` 
-)`` 
-{aa 	
-stringbb 
-	plainTextbb 
-=bb 
-$strbb .
-;bb. /
-bytecc 
-[cc 
-]cc 
-	encryptedcc 
-;cc 
-usingdd 
-(dd 
-Aesdd 
-aesAlgdd 
-=dd 
-Aesdd  #
-.dd# $
-Createdd$ *
-(dd* +
-)dd+ ,
-)dd, -
-{ee 
-ICryptoTransformgg  
-	encryptorgg! *
-=gg+ ,
-aesAlggg- 3
-.gg3 4
-CreateEncryptorgg4 C
-(ggC D
-aesAlgggD J
-.ggJ K
-KeyggK N
-,ggN O
-aesAlgggP V
-.ggV W
-IVggW Y
-)ggY Z
-;ggZ [
+(aa 
+privateTrueaa 
+)aa 
+{bb 	
+constcc 
+stringcc 
+CIPHER_INPUTcc %
+=cc& '
+$strcc( 7
+;cc7 8
+bytedd 
+[dd 
+]dd 
+	encrypteddd 
+;dd 
+usingee 
+(ee $
+AesCryptoServiceProvideree +
+aesee, /
+=ee0 1
+newee2 5$
+AesCryptoServiceProvideree6 N
+(eeN O
+)eeO P
+)eeP Q
+{ff 
+ICryptoTransformhh  
+	encryptorhh! *
+=hh+ ,
+aeshh- 0
+.hh0 1
+CreateEncryptorhh1 @
+(hh@ A
+aeshhA D
+.hhD E
+KeyhhE H
+,hhH I
+aeshhJ M
+.hhM N
+IVhhN P
+)hhP Q
+;hhQ R
 usingii 
 (ii 
-MemoryStreamii #
-	msEncryptii$ -
-=ii. /
-newii0 3
-MemoryStreamii4 @
-(ii@ A
-)iiA B
-)iiB C
+MemoryStreamii #
+msii$ &
+=ii' (
+newii) ,
+MemoryStreamii- 9
+(ii9 :
+)ii: ;
+)ii; <
 {jj 
-usingll 
-(ll 
-CryptoStreamll '
-	csEncryptll( 1
-=ll2 3
-newll4 7
-CryptoStreamll8 D
-(llD E
-	msEncryptllE N
-,llN O
-	encryptorllP Y
-,llY Z
-CryptoStreamModell[ k
-.llk l
-Writelll q
-)llq r
-)llr s
-{mm 
-usingnn 
-(nn 
-StreamWriternn +
-	swEncryptnn, 5
-=nn6 7
-newnn8 ;
-StreamWriternn< H
-(nnH I
-	csEncryptnnI R
-)nnR S
-)nnS T
-{oo 
-	swEncryptpp %
-.pp% &
-Writepp& +
-(pp+ ,
-	plainTextpp, 5
-)pp5 6
-;pp6 7
-}qq 
-	encryptedrr !
-=rr" #
-	msEncryptrr$ -
-.rr- .
-ToArrayrr. 5
-(rr5 6
-)rr6 7
-;rr7 8
-}ss 
-}tt 
-}uu 
+usingkk 
+(kk 
+CryptoStreamkk '
+cskk( *
+=kk+ ,
+newkk- 0
+CryptoStreamkk1 =
+(kk= >
+mskk> @
+,kk@ A
+	encryptorkkB K
+,kkK L
+CryptoStreamModekkM ]
+.kk] ^
+Writekk^ c
+)kkc d
+)kkd e
+{ll 
+usingmm 
+(mm 
+StreamWritermm +
+swmm, .
+=mm/ 0
+newmm1 4
+StreamWritermm5 A
+(mmA B
+csmmB D
+)mmD E
+)mmE F
+{nn 
+swoo 
+.oo 
+Writeoo $
+(oo$ %
+CIPHER_INPUToo% 1
+)oo1 2
+;oo2 3
+}pp 
+	encryptedqq !
+=qq" #
+msqq$ &
+.qq& '
+ToArrayqq' .
+(qq. /
+)qq/ 0
+;qq0 1
+}rr 
+}ss 
+}tt 
+stringuu 
+	encPhraseuu 
+=uu 
+Systemuu %
+.uu% &
+Textuu& *
+.uu* +
+Encodinguu+ 3
+.uu3 4
+UTF8uu4 8
+.uu8 9
+	GetStringuu9 B
+(uuB C
+	encrypteduuC L
+)uuL M
+;uuM N
 IOvv 
 .vv 
 	WriteLinevv 
@@ -1862,18 +2181,18 @@
 ;}} 
 }~~ 
 }€€ 
-} ñ9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_06.cs
+} ÆB
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_06.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_06 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_06 '
+:( )
+AbstractTestCase* :
 { 
 private 
 const 
@@ -1897,348 +2216,415 @@
 =="" !
 $num""" #
 )""# $
-{## 	
-string$$ 
-	plainText$$ 
-=$$ 
-$str$$ .
-;$$. /
+{## 	
+const$$ 
+string$$ 
+CIPHER_INPUT$$ %
+=$$& '
+$str$$( 7
+;$$7 8
 byte%% 
 [%% 
 ]%% 
 	encrypted%% 
 ;%% 
 using&& 
-(&& 
-Aes&& 
-aesAlg&& 
-=&& 
-Aes&&  #
-.&&# $
-Create&&$ *
-(&&* +
-)&&+ ,
-)&&, -
+(&& *
+TripleDESCryptoServiceProvider&& 1
+tdes&&2 6
+=&&7 8
+new&&9 <*
+TripleDESCryptoServiceProvider&&= [
+(&&[ \
+)&&\ ]
+)&&] ^
 {'' 
 ICryptoTransform))  
 	encryptor))! *
-=))+ ,
-aesAlg))- 3
-.))3 4
-CreateEncryptor))4 C
-())C D
-aesAlg))D J
-.))J K
-Key))K N
-,))N O
-aesAlg))P V
-.))V W
-IV))W Y
-)))Y Z
-;))Z [
-using++ 
-(++ 
-MemoryStream++ #
-	msEncrypt++$ -
-=++. /
-new++0 3
-MemoryStream++4 @
-(++@ A
-)++A B
-)++B C
-{,, 
-using.. 
-(.. 
-StreamWriter.. '
-	swEncrypt..( 1
-=..2 3
-new..4 7
-StreamWriter..8 D
-(..D E
-	msEncrypt..E N
-)..N O
-)..O P
-{// 
-	swEncrypt00 !
-.00! "
-Write00" '
-(00' (
-	plainText00( 1
+=))+ ,
+tdes))- 1
+.))1 2
+CreateEncryptor))2 A
+())A B
+tdes))B F
+.))F G
+Key))G J
+,))J K
+tdes))L P
+.))P Q
+IV))Q S
+)))S T
+;))T U
+using** 
+(** 
+MemoryStream** #
+ms**$ &
+=**' (
+new**) ,
+MemoryStream**- 9
+(**9 :
+)**: ;
+)**; <
+{++ 
+using,, 
+(,, 
+CryptoStream,, '
+cs,,( *
+=,,+ ,
+new,,- 0
+CryptoStream,,1 =
+(,,= >
+ms,,> @
+,,,@ A
+	encryptor,,B K
+,,,K L
+CryptoStreamMode,,M ]
+.,,] ^
+Write,,^ c
+),,c d
+),,d e
+{-- 
+using.. 
+(.. 
+StreamWriter.. +
+sw.., .
+=../ 0
+new..1 4
+StreamWriter..5 A
+(..A B
+cs..B D
+)..D E
+)..E F
+{// 
+sw00 
+.00 
+Write00 $
+(00$ %
+CIPHER_INPUT00% 1
 )001 2
 ;002 3
-}11 
-	encrypted22 
-=22 
-	msEncrypt22  )
-.22) *
-ToArray22* 1
-(221 2
-)222 3
-;223 4
-}33 
-}44 
-IO55 
-.55 
-	WriteLine55 
-(55 
-IO55 
-.55 
-ToHex55 !
-(55! "
-	encrypted55" +
-)55+ ,
-)55, -
-;55- .
-}66 	
-}77 
-private;; 
-void;; 
-Good1;; 
-(;; 
-);; 
-{<< 
-if== 
+}11 
+	encrypted22 !
+=22" #
+ms22$ &
+.22& '
+ToArray22' .
+(22. /
+)22/ 0
+;220 1
+}33 
+}44 
+}55 
+string66 
+	encPhrase66 
+=66 
+System66 %
+.66% &
+Text66& *
+.66* +
+Encoding66+ 3
+.663 4
+UTF8664 8
+.668 9
+	GetString669 B
+(66B C
+	encrypted66C L
+)66L M
+;66M N
+IO77 
+.77 
+	WriteLine77 
+(77 
+IO77 
+.77 
+ToHex77 !
+(77! "
+	encrypted77" +
+)77+ ,
+)77, -
+;77- .
+}88 	
+}99 
+private== 
+void== 
+Good1== 
+(== 
+)== 
+{>> 
+if?? 
 
-(== 
-PRIVATE_CONST_FIVE== 
-!=== !
-$num==" #
-)==# $
-{>> 	
-IO@@ 
-.@@ 
-	WriteLine@@ 
-(@@ 
-$str@@ /
-)@@/ 0
-;@@0 1
-}AA 	
-elseBB 
-{CC 	
-stringDD 
-	plainTextDD 
-=DD 
-$strDD .
-;DD. /
-byteEE 
-[EE 
-]EE 
-	encryptedEE 
-;EE 
-usingFF 
-(FF 
-AesFF 
-aesAlgFF 
-=FF 
-AesFF  #
-.FF# $
-CreateFF$ *
-(FF* +
-)FF+ ,
-)FF, -
-{GG 
-ICryptoTransformII  
-	encryptorII! *
-=II+ ,
-aesAlgII- 3
-.II3 4
-CreateEncryptorII4 C
-(IIC D
-aesAlgIID J
-.IIJ K
-KeyIIK N
-,IIN O
-aesAlgIIP V
-.IIV W
-IVIIW Y
-)IIY Z
-;IIZ [
-usingKK 
-(KK 
-MemoryStreamKK #
-	msEncryptKK$ -
-=KK. /
-newKK0 3
-MemoryStreamKK4 @
-(KK@ A
-)KKA B
-)KKB C
-{LL 
+(?? 
+PRIVATE_CONST_FIVE?? 
+!=?? !
+$num??" #
+)??# $
+{@@ 	
+IOBB 
+.BB 
+	WriteLineBB 
+(BB 
+$strBB /
+)BB/ 0
+;BB0 1
+}CC 	
+elseDD 
+{EE 	
+constFF 
+stringFF 
+CIPHER_INPUTFF %
+=FF& '
+$strFF( 7
+;FF7 8
+byteGG 
+[GG 
+]GG 
+	encryptedGG 
+;GG 
+usingHH 
+(HH $
+AesCryptoServiceProviderHH +
+aesHH, /
+=HH0 1
+newHH2 5$
+AesCryptoServiceProviderHH6 N
+(HHN O
+)HHO P
+)HHP Q
+{II 
+ICryptoTransformKK  
+	encryptorKK! *
+=KK+ ,
+aesKK- 0
+.KK0 1
+CreateEncryptorKK1 @
+(KK@ A
+aesKKA D
+.KKD E
+KeyKKE H
+,KKH I
+aesKKJ M
+.KKM N
+IVKKN P
+)KKP Q
+;KKQ R
+usingLL 
+(LL 
+MemoryStreamLL #
+msLL$ &
+=LL' (
+newLL) ,
+MemoryStreamLL- 9
+(LL9 :
+)LL: ;
+)LL; <
+{MM 
 usingNN 
 (NN 
-CryptoStreamNN '
-	csEncryptNN( 1
-=NN2 3
-newNN4 7
-CryptoStreamNN8 D
-(NND E
-	msEncryptNNE N
-,NNN O
-	encryptorNNP Y
-,NNY Z
-CryptoStreamModeNN[ k
-.NNk l
-WriteNNl q
-)NNq r
-)NNr s
+CryptoStreamNN '
+csNN( *
+=NN+ ,
+newNN- 0
+CryptoStreamNN1 =
+(NN= >
+msNN> @
+,NN@ A
+	encryptorNNB K
+,NNK L
+CryptoStreamModeNNM ]
+.NN] ^
+WriteNN^ c
+)NNc d
+)NNd e
 {OO 
 usingPP 
 (PP 
-StreamWriterPP +
-	swEncryptPP, 5
-=PP6 7
-newPP8 ;
-StreamWriterPP< H
-(PPH I
-	csEncryptPPI R
-)PPR S
-)PPS T
-{QQ 
-	swEncryptRR %
-.RR% &
-WriteRR& +
-(RR+ ,
-	plainTextRR, 5
-)RR5 6
-;RR6 7
+StreamWriterPP +
+swPP, .
+=PP/ 0
+newPP1 4
+StreamWriterPP5 A
+(PPA B
+csPPB D
+)PPD E
+)PPE F
+{QQ 
+swRR 
+.RR 
+WriteRR $
+(RR$ %
+CIPHER_INPUTRR% 1
+)RR1 2
+;RR2 3
 }SS 
 	encryptedTT !
-=TT" #
-	msEncryptTT$ -
-.TT- .
-ToArrayTT. 5
-(TT5 6
-)TT6 7
-;TT7 8
+=TT" #
+msTT$ &
+.TT& '
+ToArrayTT' .
+(TT. /
+)TT/ 0
+;TT0 1
 }UU 
 }VV 
-}WW 
-IOXX 
-.XX 
-	WriteLineXX 
-(XX 
-IOXX 
-.XX 
-ToHexXX !
-(XX! "
-	encryptedXX" +
-)XX+ ,
-)XX, -
-;XX- .
-}YY 	
-}ZZ 
-private]] 
-void]] 
-Good2]] 
-(]] 
-)]] 
-{^^ 
-if__ 
+}WW 
+stringXX 
+	encPhraseXX 
+=XX 
+SystemXX %
+.XX% &
+TextXX& *
+.XX* +
+EncodingXX+ 3
+.XX3 4
+UTF8XX4 8
+.XX8 9
+	GetStringXX9 B
+(XXB C
+	encryptedXXC L
+)XXL M
+;XXM N
+IOYY 
+.YY 
+	WriteLineYY 
+(YY 
+IOYY 
+.YY 
+ToHexYY !
+(YY! "
+	encryptedYY" +
+)YY+ ,
+)YY, -
+;YY- .
+}ZZ 	
+}[[ 
+private^^ 
+void^^ 
+Good2^^ 
+(^^ 
+)^^ 
+{__ 
+if`` 
 
-(__ 
-PRIVATE_CONST_FIVE__ 
-==__ !
-$num__" #
-)__# $
-{`` 	
-stringaa 
-	plainTextaa 
-=aa 
-$straa .
-;aa. /
-bytebb 
-[bb 
-]bb 
-	encryptedbb 
-;bb 
-usingcc 
-(cc 
-Aescc 
-aesAlgcc 
-=cc 
-Aescc  #
-.cc# $
-Createcc$ *
-(cc* +
-)cc+ ,
-)cc, -
-{dd 
-ICryptoTransformff  
-	encryptorff! *
-=ff+ ,
-aesAlgff- 3
-.ff3 4
-CreateEncryptorff4 C
-(ffC D
-aesAlgffD J
-.ffJ K
-KeyffK N
-,ffN O
-aesAlgffP V
-.ffV W
-IVffW Y
-)ffY Z
-;ffZ [
+(`` 
+PRIVATE_CONST_FIVE`` 
+==`` !
+$num``" #
+)``# $
+{aa 	
+constbb 
+stringbb 
+CIPHER_INPUTbb %
+=bb& '
+$strbb( 7
+;bb7 8
+bytecc 
+[cc 
+]cc 
+	encryptedcc 
+;cc 
+usingdd 
+(dd $
+AesCryptoServiceProviderdd +
+aesdd, /
+=dd0 1
+newdd2 5$
+AesCryptoServiceProviderdd6 N
+(ddN O
+)ddO P
+)ddP Q
+{ee 
+ICryptoTransformgg  
+	encryptorgg! *
+=gg+ ,
+aesgg- 0
+.gg0 1
+CreateEncryptorgg1 @
+(gg@ A
+aesggA D
+.ggD E
+KeyggE H
+,ggH I
+aesggJ M
+.ggM N
+IVggN P
+)ggP Q
+;ggQ R
 usinghh 
 (hh 
-MemoryStreamhh #
-	msEncrypthh$ -
-=hh. /
-newhh0 3
-MemoryStreamhh4 @
-(hh@ A
-)hhA B
-)hhB C
+MemoryStreamhh #
+mshh$ &
+=hh' (
+newhh) ,
+MemoryStreamhh- 9
+(hh9 :
+)hh: ;
+)hh; <
 {ii 
-usingkk 
-(kk 
-CryptoStreamkk '
-	csEncryptkk( 1
-=kk2 3
-newkk4 7
-CryptoStreamkk8 D
-(kkD E
-	msEncryptkkE N
-,kkN O
-	encryptorkkP Y
-,kkY Z
-CryptoStreamModekk[ k
-.kkk l
-Writekkl q
-)kkq r
-)kkr s
-{ll 
-usingmm 
-(mm 
-StreamWritermm +
-	swEncryptmm, 5
-=mm6 7
-newmm8 ;
-StreamWritermm< H
-(mmH I
-	csEncryptmmI R
-)mmR S
-)mmS T
-{nn 
-	swEncryptoo %
-.oo% &
-Writeoo& +
-(oo+ ,
-	plainTextoo, 5
-)oo5 6
-;oo6 7
-}pp 
-	encryptedqq !
-=qq" #
-	msEncryptqq$ -
-.qq- .
-ToArrayqq. 5
-(qq5 6
-)qq6 7
-;qq7 8
-}rr 
-}ss 
-}tt 
+usingjj 
+(jj 
+CryptoStreamjj '
+csjj( *
+=jj+ ,
+newjj- 0
+CryptoStreamjj1 =
+(jj= >
+msjj> @
+,jj@ A
+	encryptorjjB K
+,jjK L
+CryptoStreamModejjM ]
+.jj] ^
+Writejj^ c
+)jjc d
+)jjd e
+{kk 
+usingll 
+(ll 
+StreamWriterll +
+swll, .
+=ll/ 0
+newll1 4
+StreamWriterll5 A
+(llA B
+csllB D
+)llD E
+)llE F
+{mm 
+swnn 
+.nn 
+Writenn $
+(nn$ %
+CIPHER_INPUTnn% 1
+)nn1 2
+;nn2 3
+}oo 
+	encryptedpp !
+=pp" #
+mspp$ &
+.pp& '
+ToArraypp' .
+(pp. /
+)pp/ 0
+;pp0 1
+}qq 
+}rr 
+}ss 
+stringtt 
+	encPhrasett 
+=tt 
+Systemtt %
+.tt% &
+Texttt& *
+.tt* +
+Encodingtt+ 3
+.tt3 4
+UTF8tt4 8
+.tt8 9
+	GetStringtt9 B
+(ttB C
+	encryptedttC L
+)ttL M
+;ttM N
 IOuu 
 .uu 
 	WriteLineuu 
@@ -2271,18 +2657,18 @@
 ;|| 
 }}} 
 } 
-}€€ Â9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_07.cs
+}€€ —B
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_07.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_07 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_07 '
+:( )
+AbstractTestCase* :
 { 
 private 
 int 
@@ -2305,348 +2691,415 @@
 =="" 
 $num"" 
 )"" 
-{## 	
-string$$ 
-	plainText$$ 
-=$$ 
-$str$$ .
-;$$. /
+{## 	
+const$$ 
+string$$ 
+CIPHER_INPUT$$ %
+=$$& '
+$str$$( 7
+;$$7 8
 byte%% 
 [%% 
 ]%% 
 	encrypted%% 
 ;%% 
 using&& 
-(&& 
-Aes&& 
-aesAlg&& 
-=&& 
-Aes&&  #
-.&&# $
-Create&&$ *
-(&&* +
-)&&+ ,
-)&&, -
+(&& *
+TripleDESCryptoServiceProvider&& 1
+tdes&&2 6
+=&&7 8
+new&&9 <*
+TripleDESCryptoServiceProvider&&= [
+(&&[ \
+)&&\ ]
+)&&] ^
 {'' 
 ICryptoTransform))  
 	encryptor))! *
-=))+ ,
-aesAlg))- 3
-.))3 4
-CreateEncryptor))4 C
-())C D
-aesAlg))D J
-.))J K
-Key))K N
-,))N O
-aesAlg))P V
-.))V W
-IV))W Y
-)))Y Z
-;))Z [
-using++ 
-(++ 
-MemoryStream++ #
-	msEncrypt++$ -
-=++. /
-new++0 3
-MemoryStream++4 @
-(++@ A
-)++A B
-)++B C
-{,, 
-using.. 
-(.. 
-StreamWriter.. '
-	swEncrypt..( 1
-=..2 3
-new..4 7
-StreamWriter..8 D
-(..D E
-	msEncrypt..E N
-)..N O
-)..O P
-{// 
-	swEncrypt00 !
-.00! "
-Write00" '
-(00' (
-	plainText00( 1
+=))+ ,
+tdes))- 1
+.))1 2
+CreateEncryptor))2 A
+())A B
+tdes))B F
+.))F G
+Key))G J
+,))J K
+tdes))L P
+.))P Q
+IV))Q S
+)))S T
+;))T U
+using** 
+(** 
+MemoryStream** #
+ms**$ &
+=**' (
+new**) ,
+MemoryStream**- 9
+(**9 :
+)**: ;
+)**; <
+{++ 
+using,, 
+(,, 
+CryptoStream,, '
+cs,,( *
+=,,+ ,
+new,,- 0
+CryptoStream,,1 =
+(,,= >
+ms,,> @
+,,,@ A
+	encryptor,,B K
+,,,K L
+CryptoStreamMode,,M ]
+.,,] ^
+Write,,^ c
+),,c d
+),,d e
+{-- 
+using.. 
+(.. 
+StreamWriter.. +
+sw.., .
+=../ 0
+new..1 4
+StreamWriter..5 A
+(..A B
+cs..B D
+)..D E
+)..E F
+{// 
+sw00 
+.00 
+Write00 $
+(00$ %
+CIPHER_INPUT00% 1
 )001 2
 ;002 3
-}11 
-	encrypted22 
-=22 
-	msEncrypt22  )
-.22) *
-ToArray22* 1
-(221 2
-)222 3
-;223 4
-}33 
-}44 
-IO55 
-.55 
-	WriteLine55 
-(55 
-IO55 
-.55 
-ToHex55 !
-(55! "
-	encrypted55" +
-)55+ ,
-)55, -
-;55- .
-}66 	
-}77 
-private;; 
-void;; 
-Good1;; 
-(;; 
-);; 
-{<< 
-if== 
+}11 
+	encrypted22 !
+=22" #
+ms22$ &
+.22& '
+ToArray22' .
+(22. /
+)22/ 0
+;220 1
+}33 
+}44 
+}55 
+string66 
+	encPhrase66 
+=66 
+System66 %
+.66% &
+Text66& *
+.66* +
+Encoding66+ 3
+.663 4
+UTF8664 8
+.668 9
+	GetString669 B
+(66B C
+	encrypted66C L
+)66L M
+;66M N
+IO77 
+.77 
+	WriteLine77 
+(77 
+IO77 
+.77 
+ToHex77 !
+(77! "
+	encrypted77" +
+)77+ ,
+)77, -
+;77- .
+}88 	
+}99 
+private== 
+void== 
+Good1== 
+(== 
+)== 
+{>> 
+if?? 
 
-(== 
-privateFive== 
-!=== 
-$num== 
-)== 
-{>> 	
-IO@@ 
-.@@ 
-	WriteLine@@ 
-(@@ 
-$str@@ /
-)@@/ 0
-;@@0 1
-}AA 	
-elseBB 
-{CC 	
-stringDD 
-	plainTextDD 
-=DD 
-$strDD .
-;DD. /
-byteEE 
-[EE 
-]EE 
-	encryptedEE 
-;EE 
-usingFF 
-(FF 
-AesFF 
-aesAlgFF 
-=FF 
-AesFF  #
-.FF# $
-CreateFF$ *
-(FF* +
-)FF+ ,
-)FF, -
-{GG 
-ICryptoTransformII  
-	encryptorII! *
-=II+ ,
-aesAlgII- 3
-.II3 4
-CreateEncryptorII4 C
-(IIC D
-aesAlgIID J
-.IIJ K
-KeyIIK N
-,IIN O
-aesAlgIIP V
-.IIV W
-IVIIW Y
-)IIY Z
-;IIZ [
-usingKK 
-(KK 
-MemoryStreamKK #
-	msEncryptKK$ -
-=KK. /
-newKK0 3
-MemoryStreamKK4 @
-(KK@ A
-)KKA B
-)KKB C
-{LL 
+(?? 
+privateFive?? 
+!=?? 
+$num?? 
+)?? 
+{@@ 	
+IOBB 
+.BB 
+	WriteLineBB 
+(BB 
+$strBB /
+)BB/ 0
+;BB0 1
+}CC 	
+elseDD 
+{EE 	
+constFF 
+stringFF 
+CIPHER_INPUTFF %
+=FF& '
+$strFF( 7
+;FF7 8
+byteGG 
+[GG 
+]GG 
+	encryptedGG 
+;GG 
+usingHH 
+(HH $
+AesCryptoServiceProviderHH +
+aesHH, /
+=HH0 1
+newHH2 5$
+AesCryptoServiceProviderHH6 N
+(HHN O
+)HHO P
+)HHP Q
+{II 
+ICryptoTransformKK  
+	encryptorKK! *
+=KK+ ,
+aesKK- 0
+.KK0 1
+CreateEncryptorKK1 @
+(KK@ A
+aesKKA D
+.KKD E
+KeyKKE H
+,KKH I
+aesKKJ M
+.KKM N
+IVKKN P
+)KKP Q
+;KKQ R
+usingLL 
+(LL 
+MemoryStreamLL #
+msLL$ &
+=LL' (
+newLL) ,
+MemoryStreamLL- 9
+(LL9 :
+)LL: ;
+)LL; <
+{MM 
 usingNN 
 (NN 
-CryptoStreamNN '
-	csEncryptNN( 1
-=NN2 3
-newNN4 7
-CryptoStreamNN8 D
-(NND E
-	msEncryptNNE N
-,NNN O
-	encryptorNNP Y
-,NNY Z
-CryptoStreamModeNN[ k
-.NNk l
-WriteNNl q
-)NNq r
-)NNr s
+CryptoStreamNN '
+csNN( *
+=NN+ ,
+newNN- 0
+CryptoStreamNN1 =
+(NN= >
+msNN> @
+,NN@ A
+	encryptorNNB K
+,NNK L
+CryptoStreamModeNNM ]
+.NN] ^
+WriteNN^ c
+)NNc d
+)NNd e
 {OO 
 usingPP 
 (PP 
-StreamWriterPP +
-	swEncryptPP, 5
-=PP6 7
-newPP8 ;
-StreamWriterPP< H
-(PPH I
-	csEncryptPPI R
-)PPR S
-)PPS T
-{QQ 
-	swEncryptRR %
-.RR% &
-WriteRR& +
-(RR+ ,
-	plainTextRR, 5
-)RR5 6
-;RR6 7
+StreamWriterPP +
+swPP, .
+=PP/ 0
+newPP1 4
+StreamWriterPP5 A
+(PPA B
+csPPB D
+)PPD E
+)PPE F
+{QQ 
+swRR 
+.RR 
+WriteRR $
+(RR$ %
+CIPHER_INPUTRR% 1
+)RR1 2
+;RR2 3
 }SS 
 	encryptedTT !
-=TT" #
-	msEncryptTT$ -
-.TT- .
-ToArrayTT. 5
-(TT5 6
-)TT6 7
-;TT7 8
+=TT" #
+msTT$ &
+.TT& '
+ToArrayTT' .
+(TT. /
+)TT/ 0
+;TT0 1
 }UU 
 }VV 
-}WW 
-IOXX 
-.XX 
-	WriteLineXX 
-(XX 
-IOXX 
-.XX 
-ToHexXX !
-(XX! "
-	encryptedXX" +
-)XX+ ,
-)XX, -
-;XX- .
-}YY 	
-}ZZ 
-private]] 
-void]] 
-Good2]] 
-(]] 
-)]] 
-{^^ 
-if__ 
+}WW 
+stringXX 
+	encPhraseXX 
+=XX 
+SystemXX %
+.XX% &
+TextXX& *
+.XX* +
+EncodingXX+ 3
+.XX3 4
+UTF8XX4 8
+.XX8 9
+	GetStringXX9 B
+(XXB C
+	encryptedXXC L
+)XXL M
+;XXM N
+IOYY 
+.YY 
+	WriteLineYY 
+(YY 
+IOYY 
+.YY 
+ToHexYY !
+(YY! "
+	encryptedYY" +
+)YY+ ,
+)YY, -
+;YY- .
+}ZZ 	
+}[[ 
+private^^ 
+void^^ 
+Good2^^ 
+(^^ 
+)^^ 
+{__ 
+if`` 
 
-(__ 
-privateFive__ 
-==__ 
-$num__ 
-)__ 
-{`` 	
-stringaa 
-	plainTextaa 
-=aa 
-$straa .
-;aa. /
-bytebb 
-[bb 
-]bb 
-	encryptedbb 
-;bb 
-usingcc 
-(cc 
-Aescc 
-aesAlgcc 
-=cc 
-Aescc  #
-.cc# $
-Createcc$ *
-(cc* +
-)cc+ ,
-)cc, -
-{dd 
-ICryptoTransformff  
-	encryptorff! *
-=ff+ ,
-aesAlgff- 3
-.ff3 4
-CreateEncryptorff4 C
-(ffC D
-aesAlgffD J
-.ffJ K
-KeyffK N
-,ffN O
-aesAlgffP V
-.ffV W
-IVffW Y
-)ffY Z
-;ffZ [
+(`` 
+privateFive`` 
+==`` 
+$num`` 
+)`` 
+{aa 	
+constbb 
+stringbb 
+CIPHER_INPUTbb %
+=bb& '
+$strbb( 7
+;bb7 8
+bytecc 
+[cc 
+]cc 
+	encryptedcc 
+;cc 
+usingdd 
+(dd $
+AesCryptoServiceProviderdd +
+aesdd, /
+=dd0 1
+newdd2 5$
+AesCryptoServiceProviderdd6 N
+(ddN O
+)ddO P
+)ddP Q
+{ee 
+ICryptoTransformgg  
+	encryptorgg! *
+=gg+ ,
+aesgg- 0
+.gg0 1
+CreateEncryptorgg1 @
+(gg@ A
+aesggA D
+.ggD E
+KeyggE H
+,ggH I
+aesggJ M
+.ggM N
+IVggN P
+)ggP Q
+;ggQ R
 usinghh 
 (hh 
-MemoryStreamhh #
-	msEncrypthh$ -
-=hh. /
-newhh0 3
-MemoryStreamhh4 @
-(hh@ A
-)hhA B
-)hhB C
+MemoryStreamhh #
+mshh$ &
+=hh' (
+newhh) ,
+MemoryStreamhh- 9
+(hh9 :
+)hh: ;
+)hh; <
 {ii 
-usingkk 
-(kk 
-CryptoStreamkk '
-	csEncryptkk( 1
-=kk2 3
-newkk4 7
-CryptoStreamkk8 D
-(kkD E
-	msEncryptkkE N
-,kkN O
-	encryptorkkP Y
-,kkY Z
-CryptoStreamModekk[ k
-.kkk l
-Writekkl q
-)kkq r
-)kkr s
-{ll 
-usingmm 
-(mm 
-StreamWritermm +
-	swEncryptmm, 5
-=mm6 7
-newmm8 ;
-StreamWritermm< H
-(mmH I
-	csEncryptmmI R
-)mmR S
-)mmS T
-{nn 
-	swEncryptoo %
-.oo% &
-Writeoo& +
-(oo+ ,
-	plainTextoo, 5
-)oo5 6
-;oo6 7
-}pp 
-	encryptedqq !
-=qq" #
-	msEncryptqq$ -
-.qq- .
-ToArrayqq. 5
-(qq5 6
-)qq6 7
-;qq7 8
-}rr 
-}ss 
-}tt 
+usingjj 
+(jj 
+CryptoStreamjj '
+csjj( *
+=jj+ ,
+newjj- 0
+CryptoStreamjj1 =
+(jj= >
+msjj> @
+,jj@ A
+	encryptorjjB K
+,jjK L
+CryptoStreamModejjM ]
+.jj] ^
+Writejj^ c
+)jjc d
+)jjd e
+{kk 
+usingll 
+(ll 
+StreamWriterll +
+swll, .
+=ll/ 0
+newll1 4
+StreamWriterll5 A
+(llA B
+csllB D
+)llD E
+)llE F
+{mm 
+swnn 
+.nn 
+Writenn $
+(nn$ %
+CIPHER_INPUTnn% 1
+)nn1 2
+;nn2 3
+}oo 
+	encryptedpp !
+=pp" #
+mspp$ &
+.pp& '
+ToArraypp' .
+(pp. /
+)pp/ 0
+;pp0 1
+}qq 
+}rr 
+}ss 
+stringtt 
+	encPhrasett 
+=tt 
+Systemtt %
+.tt% &
+Texttt& *
+.tt* +
+Encodingtt+ 3
+.tt3 4
+UTF8tt4 8
+.tt8 9
+	GetStringtt9 B
+(ttB C
+	encryptedttC L
+)ttL M
+;ttM N
 IOuu 
 .uu 
 	WriteLineuu 
@@ -2679,18 +3132,18 @@
 ;|| 
 }}} 
 } 
-}€€ ™<
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_08.cs
+}€€ îD
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_08.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_08 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_08 '
+:( )
+AbstractTestCase* :
 { 
 private 
 static 
@@ -2729,348 +3182,415 @@
 (** 
 )**  
 )**  !
-{++ 	
-string,, 
-	plainText,, 
-=,, 
-$str,, .
-;,,. /
+{++ 	
+const,, 
+string,, 
+CIPHER_INPUT,, %
+=,,& '
+$str,,( 7
+;,,7 8
 byte-- 
 [-- 
 ]-- 
 	encrypted-- 
 ;-- 
 using.. 
-(.. 
-Aes.. 
-aesAlg.. 
-=.. 
-Aes..  #
-...# $
-Create..$ *
-(..* +
-)..+ ,
-).., -
+(.. *
+TripleDESCryptoServiceProvider.. 1
+tdes..2 6
+=..7 8
+new..9 <*
+TripleDESCryptoServiceProvider..= [
+(..[ \
+)..\ ]
+)..] ^
 {// 
 ICryptoTransform11  
 	encryptor11! *
-=11+ ,
-aesAlg11- 3
-.113 4
-CreateEncryptor114 C
-(11C D
-aesAlg11D J
-.11J K
-Key11K N
-,11N O
-aesAlg11P V
-.11V W
-IV11W Y
-)11Y Z
-;11Z [
-using33 
-(33 
-MemoryStream33 #
-	msEncrypt33$ -
-=33. /
-new330 3
-MemoryStream334 @
-(33@ A
-)33A B
-)33B C
-{44 
-using66 
-(66 
-StreamWriter66 '
-	swEncrypt66( 1
-=662 3
-new664 7
-StreamWriter668 D
-(66D E
-	msEncrypt66E N
-)66N O
-)66O P
-{77 
-	swEncrypt88 !
-.88! "
-Write88" '
-(88' (
-	plainText88( 1
+=11+ ,
+tdes11- 1
+.111 2
+CreateEncryptor112 A
+(11A B
+tdes11B F
+.11F G
+Key11G J
+,11J K
+tdes11L P
+.11P Q
+IV11Q S
+)11S T
+;11T U
+using22 
+(22 
+MemoryStream22 #
+ms22$ &
+=22' (
+new22) ,
+MemoryStream22- 9
+(229 :
+)22: ;
+)22; <
+{33 
+using44 
+(44 
+CryptoStream44 '
+cs44( *
+=44+ ,
+new44- 0
+CryptoStream441 =
+(44= >
+ms44> @
+,44@ A
+	encryptor44B K
+,44K L
+CryptoStreamMode44M ]
+.44] ^
+Write44^ c
+)44c d
+)44d e
+{55 
+using66 
+(66 
+StreamWriter66 +
+sw66, .
+=66/ 0
+new661 4
+StreamWriter665 A
+(66A B
+cs66B D
+)66D E
+)66E F
+{77 
+sw88 
+.88 
+Write88 $
+(88$ %
+CIPHER_INPUT88% 1
 )881 2
 ;882 3
-}99 
-	encrypted:: 
-=:: 
-	msEncrypt::  )
-.::) *
-ToArray::* 1
-(::1 2
-)::2 3
-;::3 4
-};; 
-}<< 
-IO== 
-.== 
-	WriteLine== 
-(== 
-IO== 
-.== 
-ToHex== !
-(==! "
-	encrypted==" +
-)==+ ,
-)==, -
-;==- .
-}>> 	
-}?? 
-privateCC 
-voidCC 
-Good1CC 
-(CC 
-)CC 
-{DD 
-ifEE 
+}99 
+	encrypted:: !
+=::" #
+ms::$ &
+.::& '
+ToArray::' .
+(::. /
+)::/ 0
+;::0 1
+};; 
+}<< 
+}== 
+string>> 
+	encPhrase>> 
+=>> 
+System>> %
+.>>% &
+Text>>& *
+.>>* +
+Encoding>>+ 3
+.>>3 4
+UTF8>>4 8
+.>>8 9
+	GetString>>9 B
+(>>B C
+	encrypted>>C L
+)>>L M
+;>>M N
+IO?? 
+.?? 
+	WriteLine?? 
+(?? 
+IO?? 
+.?? 
+ToHex?? !
+(??! "
+	encrypted??" +
+)??+ ,
+)??, -
+;??- .
+}@@ 	
+}AA 
+privateEE 
+voidEE 
+Good1EE 
+(EE 
+)EE 
+{FF 
+ifGG 
 
-(EE 
-PrivateReturnsFalseEE 
-(EE  
-)EE  !
-)EE! "
-{FF 	
-IOHH 
-.HH 
-	WriteLineHH 
-(HH 
-$strHH /
-)HH/ 0
-;HH0 1
-}II 	
-elseJJ 
-{KK 	
-stringLL 
-	plainTextLL 
-=LL 
-$strLL .
-;LL. /
-byteMM 
-[MM 
-]MM 
-	encryptedMM 
-;MM 
-usingNN 
-(NN 
-AesNN 
-aesAlgNN 
-=NN 
-AesNN  #
-.NN# $
-CreateNN$ *
-(NN* +
-)NN+ ,
-)NN, -
-{OO 
-ICryptoTransformQQ  
-	encryptorQQ! *
-=QQ+ ,
-aesAlgQQ- 3
-.QQ3 4
-CreateEncryptorQQ4 C
-(QQC D
-aesAlgQQD J
-.QQJ K
-KeyQQK N
-,QQN O
-aesAlgQQP V
-.QQV W
-IVQQW Y
-)QQY Z
-;QQZ [
-usingSS 
-(SS 
-MemoryStreamSS #
-	msEncryptSS$ -
-=SS. /
-newSS0 3
-MemoryStreamSS4 @
-(SS@ A
-)SSA B
-)SSB C
-{TT 
+(GG 
+PrivateReturnsFalseGG 
+(GG  
+)GG  !
+)GG! "
+{HH 	
+IOJJ 
+.JJ 
+	WriteLineJJ 
+(JJ 
+$strJJ /
+)JJ/ 0
+;JJ0 1
+}KK 	
+elseLL 
+{MM 	
+constNN 
+stringNN 
+CIPHER_INPUTNN %
+=NN& '
+$strNN( 7
+;NN7 8
+byteOO 
+[OO 
+]OO 
+	encryptedOO 
+;OO 
+usingPP 
+(PP $
+AesCryptoServiceProviderPP +
+aesPP, /
+=PP0 1
+newPP2 5$
+AesCryptoServiceProviderPP6 N
+(PPN O
+)PPO P
+)PPP Q
+{QQ 
+ICryptoTransformSS  
+	encryptorSS! *
+=SS+ ,
+aesSS- 0
+.SS0 1
+CreateEncryptorSS1 @
+(SS@ A
+aesSSA D
+.SSD E
+KeySSE H
+,SSH I
+aesSSJ M
+.SSM N
+IVSSN P
+)SSP Q
+;SSQ R
+usingTT 
+(TT 
+MemoryStreamTT #
+msTT$ &
+=TT' (
+newTT) ,
+MemoryStreamTT- 9
+(TT9 :
+)TT: ;
+)TT; <
+{UU 
 usingVV 
 (VV 
-CryptoStreamVV '
-	csEncryptVV( 1
-=VV2 3
-newVV4 7
-CryptoStreamVV8 D
-(VVD E
-	msEncryptVVE N
-,VVN O
-	encryptorVVP Y
-,VVY Z
-CryptoStreamModeVV[ k
-.VVk l
-WriteVVl q
-)VVq r
-)VVr s
+CryptoStreamVV '
+csVV( *
+=VV+ ,
+newVV- 0
+CryptoStreamVV1 =
+(VV= >
+msVV> @
+,VV@ A
+	encryptorVVB K
+,VVK L
+CryptoStreamModeVVM ]
+.VV] ^
+WriteVV^ c
+)VVc d
+)VVd e
 {WW 
 usingXX 
 (XX 
-StreamWriterXX +
-	swEncryptXX, 5
-=XX6 7
-newXX8 ;
-StreamWriterXX< H
-(XXH I
-	csEncryptXXI R
-)XXR S
-)XXS T
-{YY 
-	swEncryptZZ %
-.ZZ% &
-WriteZZ& +
-(ZZ+ ,
-	plainTextZZ, 5
-)ZZ5 6
-;ZZ6 7
+StreamWriterXX +
+swXX, .
+=XX/ 0
+newXX1 4
+StreamWriterXX5 A
+(XXA B
+csXXB D
+)XXD E
+)XXE F
+{YY 
+swZZ 
+.ZZ 
+WriteZZ $
+(ZZ$ %
+CIPHER_INPUTZZ% 1
+)ZZ1 2
+;ZZ2 3
 }[[ 
 	encrypted\\ !
-=\\" #
-	msEncrypt\\$ -
-.\\- .
-ToArray\\. 5
-(\\5 6
-)\\6 7
-;\\7 8
+=\\" #
+ms\\$ &
+.\\& '
+ToArray\\' .
+(\\. /
+)\\/ 0
+;\\0 1
 }]] 
 }^^ 
-}__ 
-IO`` 
-.`` 
-	WriteLine`` 
-(`` 
-IO`` 
-.`` 
-ToHex`` !
-(``! "
-	encrypted``" +
-)``+ ,
-)``, -
-;``- .
-}aa 	
-}bb 
-privateee 
-voidee 
-Good2ee 
-(ee 
-)ee 
-{ff 
-ifgg 
+}__ 
+string`` 
+	encPhrase`` 
+=`` 
+System`` %
+.``% &
+Text``& *
+.``* +
+Encoding``+ 3
+.``3 4
+UTF8``4 8
+.``8 9
+	GetString``9 B
+(``B C
+	encrypted``C L
+)``L M
+;``M N
+IOaa 
+.aa 
+	WriteLineaa 
+(aa 
+IOaa 
+.aa 
+ToHexaa !
+(aa! "
+	encryptedaa" +
+)aa+ ,
+)aa, -
+;aa- .
+}bb 	
+}cc 
+privateff 
+voidff 
+Good2ff 
+(ff 
+)ff 
+{gg 
+ifhh 
 
-(gg 
-PrivateReturnsTruegg 
-(gg 
-)gg  
-)gg  !
-{hh 	
-stringii 
-	plainTextii 
-=ii 
-$strii .
-;ii. /
-bytejj 
-[jj 
-]jj 
-	encryptedjj 
-;jj 
-usingkk 
-(kk 
-Aeskk 
-aesAlgkk 
-=kk 
-Aeskk  #
-.kk# $
-Createkk$ *
-(kk* +
-)kk+ ,
-)kk, -
-{ll 
-ICryptoTransformnn  
-	encryptornn! *
-=nn+ ,
-aesAlgnn- 3
-.nn3 4
-CreateEncryptornn4 C
-(nnC D
-aesAlgnnD J
-.nnJ K
-KeynnK N
-,nnN O
-aesAlgnnP V
-.nnV W
-IVnnW Y
-)nnY Z
-;nnZ [
+(hh 
+PrivateReturnsTruehh 
+(hh 
+)hh  
+)hh  !
+{ii 	
+constjj 
+stringjj 
+CIPHER_INPUTjj %
+=jj& '
+$strjj( 7
+;jj7 8
+bytekk 
+[kk 
+]kk 
+	encryptedkk 
+;kk 
+usingll 
+(ll $
+AesCryptoServiceProviderll +
+aesll, /
+=ll0 1
+newll2 5$
+AesCryptoServiceProviderll6 N
+(llN O
+)llO P
+)llP Q
+{mm 
+ICryptoTransformoo  
+	encryptoroo! *
+=oo+ ,
+aesoo- 0
+.oo0 1
+CreateEncryptoroo1 @
+(oo@ A
+aesooA D
+.ooD E
+KeyooE H
+,ooH I
+aesooJ M
+.ooM N
+IVooN P
+)ooP Q
+;ooQ R
 usingpp 
 (pp 
-MemoryStreampp #
-	msEncryptpp$ -
-=pp. /
-newpp0 3
-MemoryStreampp4 @
-(pp@ A
-)ppA B
-)ppB C
+MemoryStreampp #
+mspp$ &
+=pp' (
+newpp) ,
+MemoryStreampp- 9
+(pp9 :
+)pp: ;
+)pp; <
 {qq 
-usingss 
-(ss 
-CryptoStreamss '
-	csEncryptss( 1
-=ss2 3
-newss4 7
-CryptoStreamss8 D
-(ssD E
-	msEncryptssE N
-,ssN O
-	encryptorssP Y
-,ssY Z
-CryptoStreamModess[ k
-.ssk l
-Writessl q
-)ssq r
-)ssr s
-{tt 
-usinguu 
-(uu 
-StreamWriteruu +
-	swEncryptuu, 5
-=uu6 7
-newuu8 ;
-StreamWriteruu< H
-(uuH I
-	csEncryptuuI R
-)uuR S
-)uuS T
-{vv 
-	swEncryptww %
-.ww% &
-Writeww& +
-(ww+ ,
-	plainTextww, 5
-)ww5 6
-;ww6 7
-}xx 
-	encryptedyy !
-=yy" #
-	msEncryptyy$ -
-.yy- .
-ToArrayyy. 5
-(yy5 6
-)yy6 7
-;yy7 8
-}zz 
-}{{ 
-}|| 
+usingrr 
+(rr 
+CryptoStreamrr '
+csrr( *
+=rr+ ,
+newrr- 0
+CryptoStreamrr1 =
+(rr= >
+msrr> @
+,rr@ A
+	encryptorrrB K
+,rrK L
+CryptoStreamModerrM ]
+.rr] ^
+Writerr^ c
+)rrc d
+)rrd e
+{ss 
+usingtt 
+(tt 
+StreamWritertt +
+swtt, .
+=tt/ 0
+newtt1 4
+StreamWritertt5 A
+(ttA B
+csttB D
+)ttD E
+)ttE F
+{uu 
+swvv 
+.vv 
+Writevv $
+(vv$ %
+CIPHER_INPUTvv% 1
+)vv1 2
+;vv2 3
+}ww 
+	encryptedxx !
+=xx" #
+msxx$ &
+.xx& '
+ToArrayxx' .
+(xx. /
+)xx/ 0
+;xx0 1
+}yy 
+}zz 
+}{{ 
+string|| 
+	encPhrase|| 
+=|| 
+System|| %
+.||% &
+Text||& *
+.||* +
+Encoding||+ 3
+.||3 4
+UTF8||4 8
+.||8 9
+	GetString||9 B
+(||B C
+	encrypted||C L
+)||L M
+;||M N
 IO}} 
 .}} 
 	WriteLine}} 
@@ -3119,18 +3639,18 @@
 }
 …… 
 }‡‡ 
-}ˆˆ ä8
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_09.cs
+}ˆˆ ¹A
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_09.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_09 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_09 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -3147,348 +3667,415 @@
 .  
 STATIC_READONLY_TRUE #
 )# $
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-IO88 
-.88 !
-STATIC_READONLY_FALSE88 $
-)88$ %
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+(:: 
+IO:: 
+.:: !
+STATIC_READONLY_FALSE:: $
+)::$ %
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-IOZZ 
-.ZZ  
-STATIC_READONLY_TRUEZZ #
-)ZZ# $
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+([[ 
+IO[[ 
+.[[  
+STATIC_READONLY_TRUE[[ #
+)[[# $
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -3521,18 +4108,18 @@
 ;ww 
 }xx 
 }zz 
-}{{ Æ8
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_10.cs
+}{{ ›A
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_10.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_10 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_10 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -3550,349 +4137,416 @@
 
 staticTrue 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-IO88 
-.88 
-staticFalse88 
-)88 
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+(:: 
+IO:: 
+.:: 
+staticFalse:: 
+):: 
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-IOZZ 
-.ZZ 
+([[ 
+IO[[ 
+.[[ 
 
-staticTrueZZ 
-)ZZ 
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+staticTrue[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -3925,18 +4579,18 @@ staticTrueZZ 
 ;ww 
 }xx 
 }zz 
-}{{ µ9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_11.cs
+}{{ ŠB
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_11.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_11 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_11 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -3955,352 +4609,419 @@ staticTrueZZ 
 (  !
 )! "
 )" #
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-IO88 
-.88 
-StaticReturnsFalse88 !
-(88! "
-)88" #
-)88# $
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+(:: 
+IO:: 
+.:: 
+StaticReturnsFalse:: !
+(::! "
+)::" #
+)::# $
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-IOZZ 
-.ZZ 
-StaticReturnsTrueZZ  
-(ZZ  !
-)ZZ! "
-)ZZ" #
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+([[ 
+IO[[ 
+.[[ 
+StaticReturnsTrue[[  
+([[  !
+)[[! "
+)[[" #
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -4333,18 +5054,18 @@ staticTrueZZ 
 ;ww 
 }xx 
 }zz 
-}{{ êE
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_12.cs
+}{{ ÐP
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_12.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_12 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_12 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -4363,327 +5084,394 @@ staticTrueZZ 
 (' (
 )( )
 )) *
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-else22 
-{33 	
-string44 
-	plainText44 
-=44 
-$str44 .
-;44. /
-byte55 
-[55 
-]55 
-	encrypted55 
-;55 
-using66 
-(66 
-Aes66 
-aesAlg66 
-=66 
-Aes66  #
-.66# $
-Create66$ *
-(66* +
-)66+ ,
-)66, -
-{77 
-ICryptoTransform99  
-	encryptor99! *
-=99+ ,
-aesAlg99- 3
-.993 4
-CreateEncryptor994 C
-(99C D
-aesAlg99D J
-.99J K
-Key99K N
-,99N O
-aesAlg99P V
-.99V W
-IV99W Y
-)99Y Z
-;99Z [
-using;; 
-(;; 
-MemoryStream;; #
-	msEncrypt;;$ -
-=;;. /
-new;;0 3
-MemoryStream;;4 @
-(;;@ A
-);;A B
-);;B C
-{<< 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+else44 
+{55 	
+const66 
+string66 
+CIPHER_INPUT66 %
+=66& '
+$str66( 7
+;667 8
+byte77 
+[77 
+]77 
+	encrypted77 
+;77 
+using88 
+(88 $
+AesCryptoServiceProvider88 +
+aes88, /
+=880 1
+new882 5$
+AesCryptoServiceProvider886 N
+(88N O
+)88O P
+)88P Q
+{99 
+ICryptoTransform;;  
+	encryptor;;! *
+=;;+ ,
+aes;;- 0
+.;;0 1
+CreateEncryptor;;1 @
+(;;@ A
+aes;;A D
+.;;D E
+Key;;E H
+,;;H I
+aes;;J M
+.;;M N
+IV;;N P
+);;P Q
+;;;Q R
+using<< 
+(<< 
+MemoryStream<< #
+ms<<$ &
+=<<' (
+new<<) ,
+MemoryStream<<- 9
+(<<9 :
+)<<: ;
+)<<; <
+{== 
 using>> 
 (>> 
-CryptoStream>> '
-	csEncrypt>>( 1
-=>>2 3
-new>>4 7
-CryptoStream>>8 D
-(>>D E
-	msEncrypt>>E N
-,>>N O
-	encryptor>>P Y
-,>>Y Z
-CryptoStreamMode>>[ k
-.>>k l
-Write>>l q
-)>>q r
-)>>r s
+CryptoStream>> '
+cs>>( *
+=>>+ ,
+new>>- 0
+CryptoStream>>1 =
+(>>= >
+ms>>> @
+,>>@ A
+	encryptor>>B K
+,>>K L
+CryptoStreamMode>>M ]
+.>>] ^
+Write>>^ c
+)>>c d
+)>>d e
 {?? 
 using@@ 
 (@@ 
-StreamWriter@@ +
-	swEncrypt@@, 5
-=@@6 7
-new@@8 ;
-StreamWriter@@< H
-(@@H I
-	csEncrypt@@I R
-)@@R S
-)@@S T
-{AA 
-	swEncryptBB %
-.BB% &
-WriteBB& +
-(BB+ ,
-	plainTextBB, 5
-)BB5 6
-;BB6 7
+StreamWriter@@ +
+sw@@, .
+=@@/ 0
+new@@1 4
+StreamWriter@@5 A
+(@@A B
+cs@@B D
+)@@D E
+)@@E F
+{AA 
+swBB 
+.BB 
+WriteBB $
+(BB$ %
+CIPHER_INPUTBB% 1
+)BB1 2
+;BB2 3
 }CC 
 	encryptedDD !
-=DD" #
-	msEncryptDD$ -
-.DD- .
-ToArrayDD. 5
-(DD5 6
-)DD6 7
-;DD7 8
+=DD" #
+msDD$ &
+.DD& '
+ToArrayDD' .
+(DD. /
+)DD/ 0
+;DD0 1
 }EE 
 }FF 
-}GG 
-IOHH 
-.HH 
-	WriteLineHH 
-(HH 
-IOHH 
-.HH 
-ToHexHH !
-(HH! "
-	encryptedHH" +
-)HH+ ,
-)HH, -
-;HH- .
-}II 	
-}JJ 
-privateNN 
-voidNN 
-Good1NN 
-(NN 
-)NN 
-{OO 
-ifPP 
+}GG 
+stringHH 
+	encPhraseHH 
+=HH 
+SystemHH %
+.HH% &
+TextHH& *
+.HH* +
+EncodingHH+ 3
+.HH3 4
+UTF8HH4 8
+.HH8 9
+	GetStringHH9 B
+(HHB C
+	encryptedHHC L
+)HHL M
+;HHM N
+IOII 
+.II 
+	WriteLineII 
+(II 
+IOII 
+.II 
+ToHexII !
+(II! "
+	encryptedII" +
+)II+ ,
+)II, -
+;II- .
+}JJ 	
+}KK 
+privateOO 
+voidOO 
+Good1OO 
+(OO 
+)OO 
+{PP 
+ifQQ 
 
-(PP 
-IOPP 
-.PP $
-StaticReturnsTrueOrFalsePP '
-(PP' (
-)PP( )
-)PP) *
-{QQ 	
-stringRR 
-	plainTextRR 
-=RR 
-$strRR .
-;RR. /
-byteSS 
-[SS 
-]SS 
-	encryptedSS 
-;SS 
-usingTT 
-(TT 
-AesTT 
-aesAlgTT 
-=TT 
-AesTT  #
-.TT# $
-CreateTT$ *
-(TT* +
-)TT+ ,
-)TT, -
-{UU 
-ICryptoTransformWW  
-	encryptorWW! *
-=WW+ ,
-aesAlgWW- 3
-.WW3 4
-CreateEncryptorWW4 C
-(WWC D
-aesAlgWWD J
-.WWJ K
-KeyWWK N
-,WWN O
-aesAlgWWP V
-.WWV W
-IVWWW Y
-)WWY Z
-;WWZ [
+(QQ 
+IOQQ 
+.QQ $
+StaticReturnsTrueOrFalseQQ '
+(QQ' (
+)QQ( )
+)QQ) *
+{RR 	
+constSS 
+stringSS 
+CIPHER_INPUTSS %
+=SS& '
+$strSS( 7
+;SS7 8
+byteTT 
+[TT 
+]TT 
+	encryptedTT 
+;TT 
+usingUU 
+(UU $
+AesCryptoServiceProviderUU +
+aesUU, /
+=UU0 1
+newUU2 5$
+AesCryptoServiceProviderUU6 N
+(UUN O
+)UUO P
+)UUP Q
+{VV 
+ICryptoTransformXX  
+	encryptorXX! *
+=XX+ ,
+aesXX- 0
+.XX0 1
+CreateEncryptorXX1 @
+(XX@ A
+aesXXA D
+.XXD E
+KeyXXE H
+,XXH I
+aesXXJ M
+.XXM N
+IVXXN P
+)XXP Q
+;XXQ R
 usingYY 
 (YY 
-MemoryStreamYY #
-	msEncryptYY$ -
-=YY. /
-newYY0 3
-MemoryStreamYY4 @
-(YY@ A
-)YYA B
-)YYB C
+MemoryStreamYY #
+msYY$ &
+=YY' (
+newYY) ,
+MemoryStreamYY- 9
+(YY9 :
+)YY: ;
+)YY; <
 {ZZ 
-using\\ 
-(\\ 
-CryptoStream\\ '
-	csEncrypt\\( 1
-=\\2 3
-new\\4 7
-CryptoStream\\8 D
-(\\D E
-	msEncrypt\\E N
-,\\N O
-	encryptor\\P Y
-,\\Y Z
-CryptoStreamMode\\[ k
-.\\k l
-Write\\l q
-)\\q r
-)\\r s
-{]] 
-using^^ 
-(^^ 
-StreamWriter^^ +
-	swEncrypt^^, 5
-=^^6 7
-new^^8 ;
-StreamWriter^^< H
-(^^H I
-	csEncrypt^^I R
-)^^R S
-)^^S T
-{__ 
-	swEncrypt`` %
-.``% &
-Write``& +
-(``+ ,
-	plainText``, 5
-)``5 6
-;``6 7
-}aa 
-	encryptedbb !
-=bb" #
-	msEncryptbb$ -
-.bb- .
-ToArraybb. 5
-(bb5 6
-)bb6 7
-;bb7 8
-}cc 
-}dd 
-}ee 
+using[[ 
+([[ 
+CryptoStream[[ '
+cs[[( *
+=[[+ ,
+new[[- 0
+CryptoStream[[1 =
+([[= >
+ms[[> @
+,[[@ A
+	encryptor[[B K
+,[[K L
+CryptoStreamMode[[M ]
+.[[] ^
+Write[[^ c
+)[[c d
+)[[d e
+{\\ 
+using]] 
+(]] 
+StreamWriter]] +
+sw]], .
+=]]/ 0
+new]]1 4
+StreamWriter]]5 A
+(]]A B
+cs]]B D
+)]]D E
+)]]E F
+{^^ 
+sw__ 
+.__ 
+Write__ $
+(__$ %
+CIPHER_INPUT__% 1
+)__1 2
+;__2 3
+}`` 
+	encryptedaa !
+=aa" #
+msaa$ &
+.aa& '
+ToArrayaa' .
+(aa. /
+)aa/ 0
+;aa0 1
+}bb 
+}cc 
+}dd 
+stringee 
+	encPhraseee 
+=ee 
+Systemee %
+.ee% &
+Textee& *
+.ee* +
+Encodingee+ 3
+.ee3 4
+UTF8ee4 8
+.ee8 9
+	GetStringee9 B
+(eeB C
+	encryptedeeC L
+)eeL M
+;eeM N
 IOff 
 .ff 
 	WriteLineff 
@@ -4698,158 +5486,173 @@ staticTrueZZ 
 ;ff- .
 }gg 	
 elsehh 
-{ii 	
-stringjj 
-	plainTextjj 
-=jj 
-$strjj .
-;jj. /
+{ii 	
+constjj 
+stringjj 
+CIPHER_INPUTjj %
+=jj& '
+$strjj( 7
+;jj7 8
 bytekk 
 [kk 
 ]kk 
 	encryptedkk 
 ;kk 
 usingll 
-(ll 
-Aesll 
-aesAlgll 
-=ll 
-Aesll  #
-.ll# $
-Createll$ *
-(ll* +
-)ll+ ,
-)ll, -
+(ll $
+AesCryptoServiceProviderll +
+aesll, /
+=ll0 1
+newll2 5$
+AesCryptoServiceProviderll6 N
+(llN O
+)llO P
+)llP Q
 {mm 
 ICryptoTransformoo  
 	encryptoroo! *
-=oo+ ,
-aesAlgoo- 3
-.oo3 4
-CreateEncryptoroo4 C
-(ooC D
-aesAlgooD J
-.ooJ K
-KeyooK N
-,ooN O
-aesAlgooP V
-.ooV W
-IVooW Y
-)ooY Z
-;ooZ [
-usingqq 
-(qq 
-MemoryStreamqq #
-	msEncryptqq$ -
-=qq. /
-newqq0 3
-MemoryStreamqq4 @
-(qq@ A
-)qqA B
-)qqB C
-{rr 
-usingtt 
-(tt 
-CryptoStreamtt '
-	csEncrypttt( 1
-=tt2 3
-newtt4 7
-CryptoStreamtt8 D
-(ttD E
-	msEncryptttE N
-,ttN O
-	encryptorttP Y
-,ttY Z
-CryptoStreamModett[ k
-.ttk l
-Writettl q
-)ttq r
-)ttr s
-{uu 
-usingvv 
-(vv 
-StreamWritervv +
-	swEncryptvv, 5
-=vv6 7
-newvv8 ;
-StreamWritervv< H
-(vvH I
-	csEncryptvvI R
-)vvR S
-)vvS T
-{ww 
-	swEncryptxx %
-.xx% &
-Writexx& +
-(xx+ ,
-	plainTextxx, 5
-)xx5 6
-;xx6 7
-}yy 
-	encryptedzz !
-=zz" #
-	msEncryptzz$ -
-.zz- .
-ToArrayzz. 5
-(zz5 6
-)zz6 7
-;zz7 8
-}{{ 
-}|| 
-}}} 
-IO~~ 
-.~~ 
-	WriteLine~~ 
-(~~ 
-IO~~ 
-.~~ 
-ToHex~~ !
-(~~! "
-	encrypted~~" +
-)~~+ ,
-)~~, -
-;~~- .
-} 	
-}
-€€ 
+=oo+ ,
+aesoo- 0
+.oo0 1
+CreateEncryptoroo1 @
+(oo@ A
+aesooA D
+.ooD E
+KeyooE H
+,ooH I
+aesooJ M
+.ooM N
+IVooN P
+)ooP Q
+;ooQ R
+usingpp 
+(pp 
+MemoryStreampp #
+mspp$ &
+=pp' (
+newpp) ,
+MemoryStreampp- 9
+(pp9 :
+)pp: ;
+)pp; <
+{qq 
+usingrr 
+(rr 
+CryptoStreamrr '
+csrr( *
+=rr+ ,
+newrr- 0
+CryptoStreamrr1 =
+(rr= >
+msrr> @
+,rr@ A
+	encryptorrrB K
+,rrK L
+CryptoStreamModerrM ]
+.rr] ^
+Writerr^ c
+)rrc d
+)rrd e
+{ss 
+usingtt 
+(tt 
+StreamWritertt +
+swtt, .
+=tt/ 0
+newtt1 4
+StreamWritertt5 A
+(ttA B
+csttB D
+)ttD E
+)ttE F
+{uu 
+swvv 
+.vv 
+Writevv $
+(vv$ %
+CIPHER_INPUTvv% 1
+)vv1 2
+;vv2 3
+}ww 
+	encryptedxx !
+=xx" #
+msxx$ &
+.xx& '
+ToArrayxx' .
+(xx. /
+)xx/ 0
+;xx0 1
+}yy 
+}zz 
+}{{ 
+string|| 
+	encPhrase|| 
+=|| 
+System|| %
+.||% &
+Text||& *
+.||* +
+Encoding||+ 3
+.||3 4
+UTF8||4 8
+.||8 9
+	GetString||9 B
+(||B C
+	encrypted||C L
+)||L M
+;||M N
+IO}} 
+.}} 
+	WriteLine}} 
+(}} 
+IO}} 
+.}} 
+ToHex}} !
+(}}! "
+	encrypted}}" +
+)}}+ ,
+)}}, -
+;}}- .
+}~~ 	
+} 
 public
-‚‚ 
+ 
 
 override
-‚‚ 
+ 
 void
-‚‚ 
+ 
 Good
-‚‚ 
+ 
 (
-‚‚ 
+ 
 )
-‚‚ 
+ 
 {
-ƒƒ 
+‚‚ 
 Good1
-„„ 
+ƒƒ 
 (
-„„ 
+ƒƒ 
 )
-„„ 
+ƒƒ 
 ;
-„„ 
+ƒƒ 
 }
-…… 
-}‡‡ 
-}ˆˆ É9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_13.cs
+„„ 
+}†† 
+}‡‡ žB
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_13.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_13 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_13 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -4868,352 +5671,419 @@ staticTrueZZ 
 ==$ &
 $num' (
 )( )
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-IO88 
-.88  
-STATIC_READONLY_FIVE88 #
-!=88$ &
-$num88' (
-)88( )
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+(:: 
+IO:: 
+.::  
+STATIC_READONLY_FIVE:: #
+!=::$ &
+$num::' (
+)::( )
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-IOZZ 
-.ZZ  
-STATIC_READONLY_FIVEZZ #
-==ZZ$ &
-$numZZ' (
-)ZZ( )
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+([[ 
+IO[[ 
+.[[  
+STATIC_READONLY_FIVE[[ #
+==[[$ &
+$num[[' (
+)[[( )
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -5246,18 +6116,18 @@ staticTrueZZ 
 ;ww 
 }xx 
 }zz 
-}{{ «9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_14.cs
+}{{ €B
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_14.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_14 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_14 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -5277,354 +6147,421 @@ staticFive 
 == 
 $num 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-if88 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+if:: 
 
-(88 
-IO88 
-.88 
+(:: 
+IO:: 
+.:: 
 
-staticFive88 
-!=88 
-$num88 
-)88 
-{99 	
-IO;; 
-.;; 
-	WriteLine;; 
-(;; 
-$str;; /
-);;/ 0
-;;;0 1
-}<< 	
-else== 
-{>> 	
-string?? 
-	plainText?? 
-=?? 
-$str?? .
-;??. /
-byte@@ 
-[@@ 
-]@@ 
-	encrypted@@ 
-;@@ 
-usingAA 
-(AA 
-AesAA 
-aesAlgAA 
-=AA 
-AesAA  #
-.AA# $
-CreateAA$ *
-(AA* +
-)AA+ ,
-)AA, -
-{BB 
-ICryptoTransformDD  
-	encryptorDD! *
-=DD+ ,
-aesAlgDD- 3
-.DD3 4
-CreateEncryptorDD4 C
-(DDC D
-aesAlgDDD J
-.DDJ K
-KeyDDK N
-,DDN O
-aesAlgDDP V
-.DDV W
-IVDDW Y
-)DDY Z
-;DDZ [
-usingFF 
-(FF 
-MemoryStreamFF #
-	msEncryptFF$ -
-=FF. /
-newFF0 3
-MemoryStreamFF4 @
-(FF@ A
-)FFA B
-)FFB C
-{GG 
+staticFive:: 
+!=:: 
+$num:: 
+):: 
+{;; 	
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+}>> 	
+else?? 
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
+byteBB 
+[BB 
+]BB 
+	encryptedBB 
+;BB 
+usingCC 
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
+{DD 
+ICryptoTransformFF  
+	encryptorFF! *
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
 usingII 
 (II 
-CryptoStreamII '
-	csEncryptII( 1
-=II2 3
-newII4 7
-CryptoStreamII8 D
-(IID E
-	msEncryptIIE N
-,IIN O
-	encryptorIIP Y
-,IIY Z
-CryptoStreamModeII[ k
-.IIk l
-WriteIIl q
-)IIq r
-)IIr s
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
 {JJ 
 usingKK 
 (KK 
-StreamWriterKK +
-	swEncryptKK, 5
-=KK6 7
-newKK8 ;
-StreamWriterKK< H
-(KKH I
-	csEncryptKKI R
-)KKR S
-)KKS T
-{LL 
-	swEncryptMM %
-.MM% &
-WriteMM& +
-(MM+ ,
-	plainTextMM, 5
-)MM5 6
-;MM6 7
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
 }NN 
 	encryptedOO !
-=OO" #
-	msEncryptOO$ -
-.OO- .
-ToArrayOO. 5
-(OO5 6
-)OO6 7
-;OO7 8
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
 }PP 
 }QQ 
-}RR 
-IOSS 
-.SS 
-	WriteLineSS 
-(SS 
-IOSS 
-.SS 
-ToHexSS !
-(SS! "
-	encryptedSS" +
-)SS+ ,
-)SS, -
-;SS- .
-}TT 	
-}UU 
-privateXX 
-voidXX 
-Good2XX 
-(XX 
-)XX 
-{YY 
-ifZZ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(ZZ 
-IOZZ 
-.ZZ 
+([[ 
+IO[[ 
+.[[ 
 
-staticFiveZZ 
-==ZZ 
-$numZZ 
-)ZZ 
-{[[ 	
-string\\ 
-	plainText\\ 
-=\\ 
-$str\\ .
-;\\. /
-byte]] 
-[]] 
-]]] 
-	encrypted]] 
-;]] 
-using^^ 
-(^^ 
-Aes^^ 
-aesAlg^^ 
-=^^ 
-Aes^^  #
-.^^# $
-Create^^$ *
-(^^* +
-)^^+ ,
-)^^, -
-{__ 
-ICryptoTransformaa  
-	encryptoraa! *
-=aa+ ,
-aesAlgaa- 3
-.aa3 4
-CreateEncryptoraa4 C
-(aaC D
-aesAlgaaD J
-.aaJ K
-KeyaaK N
-,aaN O
-aesAlgaaP V
-.aaV W
-IVaaW Y
-)aaY Z
-;aaZ [
+staticFive[[ 
+==[[ 
+$num[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
 usingcc 
 (cc 
-MemoryStreamcc #
-	msEncryptcc$ -
-=cc. /
-newcc0 3
-MemoryStreamcc4 @
-(cc@ A
-)ccA B
-)ccB C
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
 {dd 
-usingff 
-(ff 
-CryptoStreamff '
-	csEncryptff( 1
-=ff2 3
-newff4 7
-CryptoStreamff8 D
-(ffD E
-	msEncryptffE N
-,ffN O
-	encryptorffP Y
-,ffY Z
-CryptoStreamModeff[ k
-.ffk l
-Writeffl q
-)ffq r
-)ffr s
-{gg 
-usinghh 
-(hh 
-StreamWriterhh +
-	swEncrypthh, 5
-=hh6 7
-newhh8 ;
-StreamWriterhh< H
-(hhH I
-	csEncrypthhI R
-)hhR S
-)hhS T
-{ii 
-	swEncryptjj %
-.jj% &
-Writejj& +
-(jj+ ,
-	plainTextjj, 5
-)jj5 6
-;jj6 7
-}kk 
-	encryptedll !
-=ll" #
-	msEncryptll$ -
-.ll- .
-ToArrayll. 5
-(ll5 6
-)ll6 7
-;ll7 8
-}mm 
-}nn 
-}oo 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
 IOpp 
 .pp 
 	WriteLinepp 
@@ -5657,18 +6594,18 @@ staticFiveZZ 
 ;ww 
 }xx 
 }zz 
-}{{ ‘=
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_15.cs
+}{{ æE
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_15.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_15 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_15 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -5685,364 +6622,431 @@ staticFiveZZ 
 { 	
 case 
 $num 
-: 
-string   
-	plainText   
-=   
-$str   .
-;  . /
+: 
+const   
+string   
+CIPHER_INPUT   %
+=  & '
+$str  ( 7
+;  7 8
 byte!! 
 [!! 
 ]!! 
 	encrypted!! 
 ;!! 
 using"" 
-("" 
-Aes"" 
-aesAlg"" 
-="" 
-Aes""  #
-.""# $
-Create""$ *
-(""* +
-)""+ ,
-)"", -
+("" *
+TripleDESCryptoServiceProvider"" 1
+tdes""2 6
+=""7 8
+new""9 <*
+TripleDESCryptoServiceProvider""= [
+(""[ \
+)""\ ]
+)""] ^
 {## 
 ICryptoTransform%%  
 	encryptor%%! *
-=%%+ ,
-aesAlg%%- 3
-.%%3 4
-CreateEncryptor%%4 C
-(%%C D
-aesAlg%%D J
-.%%J K
-Key%%K N
-,%%N O
-aesAlg%%P V
-.%%V W
-IV%%W Y
-)%%Y Z
-;%%Z [
-using'' 
-('' 
-MemoryStream'' #
-	msEncrypt''$ -
-=''. /
-new''0 3
-MemoryStream''4 @
-(''@ A
-)''A B
-)''B C
-{(( 
-using** 
-(** 
-StreamWriter** '
-	swEncrypt**( 1
-=**2 3
-new**4 7
-StreamWriter**8 D
-(**D E
-	msEncrypt**E N
-)**N O
-)**O P
-{++ 
-	swEncrypt,, !
-.,,! "
-Write,," '
-(,,' (
-	plainText,,( 1
+=%%+ ,
+tdes%%- 1
+.%%1 2
+CreateEncryptor%%2 A
+(%%A B
+tdes%%B F
+.%%F G
+Key%%G J
+,%%J K
+tdes%%L P
+.%%P Q
+IV%%Q S
+)%%S T
+;%%T U
+using&& 
+(&& 
+MemoryStream&& #
+ms&&$ &
+=&&' (
+new&&) ,
+MemoryStream&&- 9
+(&&9 :
+)&&: ;
+)&&; <
+{'' 
+using(( 
+((( 
+CryptoStream(( '
+cs((( *
+=((+ ,
+new((- 0
+CryptoStream((1 =
+(((= >
+ms((> @
+,((@ A
+	encryptor((B K
+,((K L
+CryptoStreamMode((M ]
+.((] ^
+Write((^ c
+)((c d
+)((d e
+{)) 
+using** 
+(** 
+StreamWriter** +
+sw**, .
+=**/ 0
+new**1 4
+StreamWriter**5 A
+(**A B
+cs**B D
+)**D E
+)**E F
+{++ 
+sw,, 
+.,, 
+Write,, $
+(,,$ %
+CIPHER_INPUT,,% 1
 ),,1 2
 ;,,2 3
-}-- 
-	encrypted.. 
-=.. 
-	msEncrypt..  )
-...) *
-ToArray..* 1
-(..1 2
-)..2 3
-;..3 4
-}// 
-}00 
-IO11 
-.11 
-	WriteLine11 
-(11 
-IO11 
-.11 
-ToHex11 !
-(11! "
-	encrypted11" +
-)11+ ,
-)11, -
-;11- .
-break22 
-;22 
-default33 
-:33 
-IO55 
-.55 
-	WriteLine55 
-(55 
-$str55 /
-)55/ 0
-;550 1
-break66 
-;66 
-}77 	
-}88 
-private<< 
-void<< 
-Good1<< 
-(<< 
-)<< 
-{== 
-switch>> 
-(>> 
-$num>> 
-)>> 
-{?? 	
-case@@ 
-$num@@ 
-:@@ 
-IOBB 
-.BB 
-	WriteLineBB 
-(BB 
-$strBB /
-)BB/ 0
-;BB0 1
-breakCC 
-;CC 
-defaultDD 
-:DD 
-stringEE 
-	plainTextEE 
-=EE 
-$strEE .
-;EE. /
-byteFF 
-[FF 
-]FF 
-	encryptedFF 
-;FF 
-usingGG 
-(GG 
-AesGG 
-aesAlgGG 
-=GG 
-AesGG  #
-.GG# $
-CreateGG$ *
-(GG* +
-)GG+ ,
-)GG, -
-{HH 
-ICryptoTransformJJ  
-	encryptorJJ! *
-=JJ+ ,
-aesAlgJJ- 3
-.JJ3 4
-CreateEncryptorJJ4 C
-(JJC D
-aesAlgJJD J
-.JJJ K
-KeyJJK N
-,JJN O
-aesAlgJJP V
-.JJV W
-IVJJW Y
-)JJY Z
-;JJZ [
-usingLL 
-(LL 
-MemoryStreamLL #
-	msEncryptLL$ -
-=LL. /
-newLL0 3
-MemoryStreamLL4 @
-(LL@ A
-)LLA B
-)LLB C
-{MM 
+}-- 
+	encrypted.. !
+=.." #
+ms..$ &
+...& '
+ToArray..' .
+(... /
+)../ 0
+;..0 1
+}// 
+}00 
+}11 
+string22 
+	encPhrase22 
+=22 
+System22 %
+.22% &
+Text22& *
+.22* +
+Encoding22+ 3
+.223 4
+UTF8224 8
+.228 9
+	GetString229 B
+(22B C
+	encrypted22C L
+)22L M
+;22M N
+IO33 
+.33 
+	WriteLine33 
+(33 
+IO33 
+.33 
+ToHex33 !
+(33! "
+	encrypted33" +
+)33+ ,
+)33, -
+;33- .
+break44 
+;44 
+default55 
+:55 
+IO77 
+.77 
+	WriteLine77 
+(77 
+$str77 /
+)77/ 0
+;770 1
+break88 
+;88 
+}99 	
+}:: 
+private>> 
+void>> 
+Good1>> 
+(>> 
+)>> 
+{?? 
+switch@@ 
+(@@ 
+$num@@ 
+)@@ 
+{AA 	
+caseBB 
+$numBB 
+:BB 
+IODD 
+.DD 
+	WriteLineDD 
+(DD 
+$strDD /
+)DD/ 0
+;DD0 1
+breakEE 
+;EE 
+defaultFF 
+:FF 
+constGG 
+stringGG 
+CIPHER_INPUTGG %
+=GG& '
+$strGG( 7
+;GG7 8
+byteHH 
+[HH 
+]HH 
+	encryptedHH 
+;HH 
+usingII 
+(II $
+AesCryptoServiceProviderII +
+aesII, /
+=II0 1
+newII2 5$
+AesCryptoServiceProviderII6 N
+(IIN O
+)IIO P
+)IIP Q
+{JJ 
+ICryptoTransformLL  
+	encryptorLL! *
+=LL+ ,
+aesLL- 0
+.LL0 1
+CreateEncryptorLL1 @
+(LL@ A
+aesLLA D
+.LLD E
+KeyLLE H
+,LLH I
+aesLLJ M
+.LLM N
+IVLLN P
+)LLP Q
+;LLQ R
+usingMM 
+(MM 
+MemoryStreamMM #
+msMM$ &
+=MM' (
+newMM) ,
+MemoryStreamMM- 9
+(MM9 :
+)MM: ;
+)MM; <
+{NN 
 usingOO 
 (OO 
-CryptoStreamOO '
-	csEncryptOO( 1
-=OO2 3
-newOO4 7
-CryptoStreamOO8 D
-(OOD E
-	msEncryptOOE N
-,OON O
-	encryptorOOP Y
-,OOY Z
-CryptoStreamModeOO[ k
-.OOk l
-WriteOOl q
-)OOq r
-)OOr s
+CryptoStreamOO '
+csOO( *
+=OO+ ,
+newOO- 0
+CryptoStreamOO1 =
+(OO= >
+msOO> @
+,OO@ A
+	encryptorOOB K
+,OOK L
+CryptoStreamModeOOM ]
+.OO] ^
+WriteOO^ c
+)OOc d
+)OOd e
 {PP 
 usingQQ 
 (QQ 
-StreamWriterQQ +
-	swEncryptQQ, 5
-=QQ6 7
-newQQ8 ;
-StreamWriterQQ< H
-(QQH I
-	csEncryptQQI R
-)QQR S
-)QQS T
-{RR 
-	swEncryptSS %
-.SS% &
-WriteSS& +
-(SS+ ,
-	plainTextSS, 5
-)SS5 6
-;SS6 7
+StreamWriterQQ +
+swQQ, .
+=QQ/ 0
+newQQ1 4
+StreamWriterQQ5 A
+(QQA B
+csQQB D
+)QQD E
+)QQE F
+{RR 
+swSS 
+.SS 
+WriteSS $
+(SS$ %
+CIPHER_INPUTSS% 1
+)SS1 2
+;SS2 3
 }TT 
 	encryptedUU !
-=UU" #
-	msEncryptUU$ -
-.UU- .
-ToArrayUU. 5
-(UU5 6
-)UU6 7
-;UU7 8
+=UU" #
+msUU$ &
+.UU& '
+ToArrayUU' .
+(UU. /
+)UU/ 0
+;UU0 1
 }VV 
 }WW 
-}XX 
-IOYY 
-.YY 
-	WriteLineYY 
-(YY 
-IOYY 
-.YY 
-ToHexYY !
-(YY! "
-	encryptedYY" +
-)YY+ ,
-)YY, -
-;YY- .
-breakZZ 
-;ZZ 
-}[[ 	
-}\\ 
-private__ 
-void__ 
-Good2__ 
-(__ 
-)__ 
-{`` 
-switchaa 
-(aa 
-$numaa 
-)aa 
-{bb 	
-casecc 
-$numcc 
-:cc 
-stringdd 
-	plainTextdd 
-=dd 
-$strdd .
-;dd. /
-byteee 
-[ee 
-]ee 
-	encryptedee 
-;ee 
-usingff 
-(ff 
-Aesff 
-aesAlgff 
-=ff 
-Aesff  #
-.ff# $
-Createff$ *
-(ff* +
-)ff+ ,
-)ff, -
-{gg 
-ICryptoTransformii  
-	encryptorii! *
-=ii+ ,
-aesAlgii- 3
-.ii3 4
-CreateEncryptorii4 C
-(iiC D
-aesAlgiiD J
-.iiJ K
-KeyiiK N
-,iiN O
-aesAlgiiP V
-.iiV W
-IViiW Y
-)iiY Z
-;iiZ [
+}XX 
+stringYY 
+	encPhraseYY 
+=YY 
+SystemYY %
+.YY% &
+TextYY& *
+.YY* +
+EncodingYY+ 3
+.YY3 4
+UTF8YY4 8
+.YY8 9
+	GetStringYY9 B
+(YYB C
+	encryptedYYC L
+)YYL M
+;YYM N
+IOZZ 
+.ZZ 
+	WriteLineZZ 
+(ZZ 
+IOZZ 
+.ZZ 
+ToHexZZ !
+(ZZ! "
+	encryptedZZ" +
+)ZZ+ ,
+)ZZ, -
+;ZZ- .
+break[[ 
+;[[ 
+}\\ 	
+}]] 
+private`` 
+void`` 
+Good2`` 
+(`` 
+)`` 
+{aa 
+switchbb 
+(bb 
+$numbb 
+)bb 
+{cc 	
+casedd 
+$numdd 
+:dd 
+constee 
+stringee 
+CIPHER_INPUTee %
+=ee& '
+$stree( 7
+;ee7 8
+byteff 
+[ff 
+]ff 
+	encryptedff 
+;ff 
+usinggg 
+(gg $
+AesCryptoServiceProvidergg +
+aesgg, /
+=gg0 1
+newgg2 5$
+AesCryptoServiceProvidergg6 N
+(ggN O
+)ggO P
+)ggP Q
+{hh 
+ICryptoTransformjj  
+	encryptorjj! *
+=jj+ ,
+aesjj- 0
+.jj0 1
+CreateEncryptorjj1 @
+(jj@ A
+aesjjA D
+.jjD E
+KeyjjE H
+,jjH I
+aesjjJ M
+.jjM N
+IVjjN P
+)jjP Q
+;jjQ R
 usingkk 
 (kk 
-MemoryStreamkk #
-	msEncryptkk$ -
-=kk. /
-newkk0 3
-MemoryStreamkk4 @
-(kk@ A
-)kkA B
-)kkB C
+MemoryStreamkk #
+mskk$ &
+=kk' (
+newkk) ,
+MemoryStreamkk- 9
+(kk9 :
+)kk: ;
+)kk; <
 {ll 
-usingnn 
-(nn 
-CryptoStreamnn '
-	csEncryptnn( 1
-=nn2 3
-newnn4 7
-CryptoStreamnn8 D
-(nnD E
-	msEncryptnnE N
-,nnN O
-	encryptornnP Y
-,nnY Z
-CryptoStreamModenn[ k
-.nnk l
-Writennl q
-)nnq r
-)nnr s
-{oo 
-usingpp 
-(pp 
-StreamWriterpp +
-	swEncryptpp, 5
-=pp6 7
-newpp8 ;
-StreamWriterpp< H
-(ppH I
-	csEncryptppI R
-)ppR S
-)ppS T
-{qq 
-	swEncryptrr %
-.rr% &
-Writerr& +
-(rr+ ,
-	plainTextrr, 5
-)rr5 6
-;rr6 7
-}ss 
-	encryptedtt !
-=tt" #
-	msEncrypttt$ -
-.tt- .
-ToArraytt. 5
-(tt5 6
-)tt6 7
-;tt7 8
-}uu 
-}vv 
-}ww 
+usingmm 
+(mm 
+CryptoStreammm '
+csmm( *
+=mm+ ,
+newmm- 0
+CryptoStreammm1 =
+(mm= >
+msmm> @
+,mm@ A
+	encryptormmB K
+,mmK L
+CryptoStreamModemmM ]
+.mm] ^
+Writemm^ c
+)mmc d
+)mmd e
+{nn 
+usingoo 
+(oo 
+StreamWriteroo +
+swoo, .
+=oo/ 0
+newoo1 4
+StreamWriteroo5 A
+(ooA B
+csooB D
+)ooD E
+)ooE F
+{pp 
+swqq 
+.qq 
+Writeqq $
+(qq$ %
+CIPHER_INPUTqq% 1
+)qq1 2
+;qq2 3
+}rr 
+	encryptedss !
+=ss" #
+msss$ &
+.ss& '
+ToArrayss' .
+(ss. /
+)ss/ 0
+;ss0 1
+}tt 
+}uu 
+}vv 
+stringww 
+	encPhraseww 
+=ww 
+Systemww %
+.ww% &
+Textww& *
+.ww* +
+Encodingww+ 3
+.ww3 4
+UTF8ww4 8
+.ww8 9
+	GetStringww9 B
+(wwB C
+	encryptedwwC L
+)wwL M
+;wwM N
 IOxx 
 .xx 
 	WriteLinexx 
@@ -6104,18 +7108,18 @@ staticFiveZZ 
 }
 …… 
 }‡‡ 
-}ˆˆ º%
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_16.cs
+}ˆˆ ü+
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_16.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_16 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_16 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -6129,253 +7133,304 @@ staticFiveZZ 
 ( 
 true 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-break11 
-;11 
-}22 	
-}33 
-private77 
-void77 
-Good177 
-(77 
-)77 
-{88 
-while99 
-(99 
-true99 
-)99 
-{:: 	
-string;; 
-	plainText;; 
-=;; 
-$str;; .
-;;;. /
-byte<< 
-[<< 
-]<< 
-	encrypted<< 
-;<< 
-using== 
-(== 
-Aes== 
-aesAlg== 
-=== 
-Aes==  #
-.==# $
-Create==$ *
-(==* +
-)==+ ,
-)==, -
-{>> 
-ICryptoTransform@@  
-	encryptor@@! *
-=@@+ ,
-aesAlg@@- 3
-.@@3 4
-CreateEncryptor@@4 C
-(@@C D
-aesAlg@@D J
-.@@J K
-Key@@K N
-,@@N O
-aesAlg@@P V
-.@@V W
-IV@@W Y
-)@@Y Z
-;@@Z [
-usingBB 
-(BB 
-MemoryStreamBB #
-	msEncryptBB$ -
-=BB. /
-newBB0 3
-MemoryStreamBB4 @
-(BB@ A
-)BBA B
-)BBB C
-{CC 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+break33 
+;33 
+}44 	
+}55 
+private99 
+void99 
+Good199 
+(99 
+)99 
+{:: 
+while;; 
+(;; 
+true;; 
+);; 
+{<< 	
+const== 
+string== 
+CIPHER_INPUT== %
+===& '
+$str==( 7
+;==7 8
+byte>> 
+[>> 
+]>> 
+	encrypted>> 
+;>> 
+using?? 
+(?? $
+AesCryptoServiceProvider?? +
+aes??, /
+=??0 1
+new??2 5$
+AesCryptoServiceProvider??6 N
+(??N O
+)??O P
+)??P Q
+{@@ 
+ICryptoTransformBB  
+	encryptorBB! *
+=BB+ ,
+aesBB- 0
+.BB0 1
+CreateEncryptorBB1 @
+(BB@ A
+aesBBA D
+.BBD E
+KeyBBE H
+,BBH I
+aesBBJ M
+.BBM N
+IVBBN P
+)BBP Q
+;BBQ R
+usingCC 
+(CC 
+MemoryStreamCC #
+msCC$ &
+=CC' (
+newCC) ,
+MemoryStreamCC- 9
+(CC9 :
+)CC: ;
+)CC; <
+{DD 
 usingEE 
 (EE 
-CryptoStreamEE '
-	csEncryptEE( 1
-=EE2 3
-newEE4 7
-CryptoStreamEE8 D
-(EED E
-	msEncryptEEE N
-,EEN O
-	encryptorEEP Y
-,EEY Z
-CryptoStreamModeEE[ k
-.EEk l
-WriteEEl q
-)EEq r
-)EEr s
+CryptoStreamEE '
+csEE( *
+=EE+ ,
+newEE- 0
+CryptoStreamEE1 =
+(EE= >
+msEE> @
+,EE@ A
+	encryptorEEB K
+,EEK L
+CryptoStreamModeEEM ]
+.EE] ^
+WriteEE^ c
+)EEc d
+)EEd e
 {FF 
 usingGG 
 (GG 
-StreamWriterGG +
-	swEncryptGG, 5
-=GG6 7
-newGG8 ;
-StreamWriterGG< H
-(GGH I
-	csEncryptGGI R
-)GGR S
-)GGS T
-{HH 
-	swEncryptII %
-.II% &
-WriteII& +
-(II+ ,
-	plainTextII, 5
-)II5 6
-;II6 7
+StreamWriterGG +
+swGG, .
+=GG/ 0
+newGG1 4
+StreamWriterGG5 A
+(GGA B
+csGGB D
+)GGD E
+)GGE F
+{HH 
+swII 
+.II 
+WriteII $
+(II$ %
+CIPHER_INPUTII% 1
+)II1 2
+;II2 3
 }JJ 
 	encryptedKK !
-=KK" #
-	msEncryptKK$ -
-.KK- .
-ToArrayKK. 5
-(KK5 6
-)KK6 7
-;KK7 8
+=KK" #
+msKK$ &
+.KK& '
+ToArrayKK' .
+(KK. /
+)KK/ 0
+;KK0 1
 }LL 
 }MM 
-}NN 
-IOOO 
-.OO 
-	WriteLineOO 
-(OO 
-IOOO 
-.OO 
-ToHexOO !
-(OO! "
-	encryptedOO" +
-)OO+ ,
-)OO, -
-;OO- .
-breakPP 
-;PP 
-}QQ 	
-}RR 
-publicTT 
+}NN 
+stringOO 
+	encPhraseOO 
+=OO 
+SystemOO %
+.OO% &
+TextOO& *
+.OO* +
+EncodingOO+ 3
+.OO3 4
+UTF8OO4 8
+.OO8 9
+	GetStringOO9 B
+(OOB C
+	encryptedOOC L
+)OOL M
+;OOM N
+IOPP 
+.PP 
+	WriteLinePP 
+(PP 
+IOPP 
+.PP 
+ToHexPP !
+(PP! "
+	encryptedPP" +
+)PP+ ,
+)PP, -
+;PP- .
+breakQQ 
+;QQ 
+}RR 	
+}SS 
+publicUU 
 
-overrideTT 
-voidTT 
-GoodTT 
-(TT 
-)TT 
-{UU 
-Good1VV 
-(VV 
-)VV 
-;VV 
-}WW 
-}YY 
-}ZZ ª'
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__CryptoStream_17.cs
+overrideUU 
+voidUU 
+GoodUU 
+(UU 
+)UU 
+{VV 
+Good1WW 
+(WW 
+)WW 
+;WW 
+}XX 
+}ZZ 
+}[[ ì-
+˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__3DES_17.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_17 A
-:B C
-AbstractTestCaseD T
+class -
+!CWE327_Use_Broken_Crypto__3DES_17 '
+:( )
+AbstractTestCase* :
 { 
 public 
 
@@ -6399,259 +7454,310 @@ staticFiveZZ 
 j 
 ++ !
 )! "
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! *
+TripleDESCryptoServiceProvider!! 1
+tdes!!2 6
+=!!7 8
+new!!9 <*
+TripleDESCryptoServiceProvider!!= [
+(!![ \
+)!!\ ]
+)!!] ^
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using)) 
-()) 
-StreamWriter)) '
-	swEncrypt))( 1
-=))2 3
-new))4 7
-StreamWriter))8 D
-())D E
-	msEncrypt))E N
-)))N O
-)))O P
-{** 
-	swEncrypt++ !
-.++! "
-Write++" '
-(++' (
-	plainText++( 1
+=$$+ ,
+tdes$$- 1
+.$$1 2
+CreateEncryptor$$2 A
+($$A B
+tdes$$B F
+.$$F G
+Key$$G J
+,$$J K
+tdes$$L P
+.$$P Q
+IV$$Q S
+)$$S T
+;$$T U
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
 )++1 2
 ;++2 3
-},, 
-	encrypted-- 
-=-- 
-	msEncrypt--  )
-.--) *
-ToArray--* 1
-(--1 2
-)--2 3
-;--3 4
-}.. 
-}// 
-IO00 
-.00 
-	WriteLine00 
-(00 
-IO00 
-.00 
-ToHex00 !
-(00! "
-	encrypted00" +
-)00+ ,
-)00, -
-;00- .
-}11 	
-}22 
-private66 
-void66 
-Good166 
-(66 
-)66 
-{77 
-for88 
-(88 
-int88 
-k88 
-=88 
-$num88 
-;88 
-k88 
-<88 
-$num88 
-;88 
-k88 
-++88 !
-)88! "
-{99 	
-string:: 
-	plainText:: 
-=:: 
-$str:: .
-;::. /
-byte;; 
-[;; 
-];; 
-	encrypted;; 
-;;; 
-using<< 
-(<< 
-Aes<< 
-aesAlg<< 
-=<< 
-Aes<<  #
-.<<# $
-Create<<$ *
-(<<* +
-)<<+ ,
-)<<, -
-{== 
-ICryptoTransform??  
-	encryptor??! *
-=??+ ,
-aesAlg??- 3
-.??3 4
-CreateEncryptor??4 C
-(??C D
-aesAlg??D J
-.??J K
-Key??K N
-,??N O
-aesAlg??P V
-.??V W
-IV??W Y
-)??Y Z
-;??Z [
-usingAA 
-(AA 
-MemoryStreamAA #
-	msEncryptAA$ -
-=AA. /
-newAA0 3
-MemoryStreamAA4 @
-(AA@ A
-)AAA B
-)AAB C
-{BB 
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
+IO22 
+.22 
+	WriteLine22 
+(22 
+IO22 
+.22 
+ToHex22 !
+(22! "
+	encrypted22" +
+)22+ ,
+)22, -
+;22- .
+}33 	
+}44 
+private88 
+void88 
+Good188 
+(88 
+)88 
+{99 
+for:: 
+(:: 
+int:: 
+k:: 
+=:: 
+$num:: 
+;:: 
+k:: 
+<:: 
+$num:: 
+;:: 
+k:: 
+++:: !
+)::! "
+{;; 	
+const<< 
+string<< 
+CIPHER_INPUT<< %
+=<<& '
+$str<<( 7
+;<<7 8
+byte== 
+[== 
+]== 
+	encrypted== 
+;== 
+using>> 
+(>> $
+AesCryptoServiceProvider>> +
+aes>>, /
+=>>0 1
+new>>2 5$
+AesCryptoServiceProvider>>6 N
+(>>N O
+)>>O P
+)>>P Q
+{?? 
+ICryptoTransformAA  
+	encryptorAA! *
+=AA+ ,
+aesAA- 0
+.AA0 1
+CreateEncryptorAA1 @
+(AA@ A
+aesAAA D
+.AAD E
+KeyAAE H
+,AAH I
+aesAAJ M
+.AAM N
+IVAAN P
+)AAP Q
+;AAQ R
+usingBB 
+(BB 
+MemoryStreamBB #
+msBB$ &
+=BB' (
+newBB) ,
+MemoryStreamBB- 9
+(BB9 :
+)BB: ;
+)BB; <
+{CC 
 usingDD 
 (DD 
-CryptoStreamDD '
-	csEncryptDD( 1
-=DD2 3
-newDD4 7
-CryptoStreamDD8 D
-(DDD E
-	msEncryptDDE N
-,DDN O
-	encryptorDDP Y
-,DDY Z
-CryptoStreamModeDD[ k
-.DDk l
-WriteDDl q
-)DDq r
-)DDr s
+CryptoStreamDD '
+csDD( *
+=DD+ ,
+newDD- 0
+CryptoStreamDD1 =
+(DD= >
+msDD> @
+,DD@ A
+	encryptorDDB K
+,DDK L
+CryptoStreamModeDDM ]
+.DD] ^
+WriteDD^ c
+)DDc d
+)DDd e
 {EE 
 usingFF 
 (FF 
-StreamWriterFF +
-	swEncryptFF, 5
-=FF6 7
-newFF8 ;
-StreamWriterFF< H
-(FFH I
-	csEncryptFFI R
-)FFR S
-)FFS T
-{GG 
-	swEncryptHH %
-.HH% &
-WriteHH& +
-(HH+ ,
-	plainTextHH, 5
-)HH5 6
-;HH6 7
+StreamWriterFF +
+swFF, .
+=FF/ 0
+newFF1 4
+StreamWriterFF5 A
+(FFA B
+csFFB D
+)FFD E
+)FFE F
+{GG 
+swHH 
+.HH 
+WriteHH $
+(HH$ %
+CIPHER_INPUTHH% 1
+)HH1 2
+;HH2 3
 }II 
 	encryptedJJ !
-=JJ" #
-	msEncryptJJ$ -
-.JJ- .
-ToArrayJJ. 5
-(JJ5 6
-)JJ6 7
-;JJ7 8
+=JJ" #
+msJJ$ &
+.JJ& '
+ToArrayJJ' .
+(JJ. /
+)JJ/ 0
+;JJ0 1
 }KK 
 }LL 
-}MM 
-IONN 
-.NN 
-	WriteLineNN 
-(NN 
-IONN 
-.NN 
-ToHexNN !
-(NN! "
-	encryptedNN" +
-)NN+ ,
-)NN, -
-;NN- .
-}OO 	
-}PP 
-publicRR 
+}MM 
+stringNN 
+	encPhraseNN 
+=NN 
+SystemNN %
+.NN% &
+TextNN& *
+.NN* +
+EncodingNN+ 3
+.NN3 4
+UTF8NN4 8
+.NN8 9
+	GetStringNN9 B
+(NNB C
+	encryptedNNC L
+)NNL M
+;NNM N
+IOOO 
+.OO 
+	WriteLineOO 
+(OO 
+IOOO 
+.OO 
+ToHexOO !
+(OO! "
+	encryptedOO" +
+)OO+ ,
+)OO, -
+;OO- .
+}PP 	
+}QQ 
+publicSS 
 
-overrideRR 
-voidRR 
-GoodRR 
-(RR 
-)RR 
-{SS 
-Good1TT 
-(TT 
-)TT 
-;TT 
-}UU 
-}WW 
-}XX ›%
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_01.cs
+overrideSS 
+voidSS 
+GoodSS 
+(SS 
+)SS 
+{TT 
+Good1UU 
+(UU 
+)UU 
+;UU 
+}VV 
+}XX 
+}YY ä)
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_01.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_01 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_01 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -6660,98 +7766,121 @@ staticFiveZZ 
 Bad 
 ( 
 ) 
-{ 
-string 
-	plainText 
-= 
-$str *
-;* +
+{ 
+const 
+string 
+CIPHER_INPUT !
+=" #
+$str$ 3
+;3 4
 byte 
 [ 
 ] 
 	encrypted 
 ; 
 using 
-( 
-Aes 
-aesAlg 
-= 
-Aes 
-.  
-Create  &
-(& '
-)' (
-)( )
+( $
+DESCryptoServiceProvider '
+des( +
+=, -
+new. 1$
+DESCryptoServiceProvider2 J
+(J K
+)K L
+)L M
 {   	
 ICryptoTransform"" 
 	encryptor"" &
-=""' (
-aesAlg"") /
-.""/ 0
-CreateEncryptor""0 ?
-(""? @
-aesAlg""@ F
-.""F G
-Key""G J
-,""J K
-aesAlg""L R
-.""R S
-IV""S U
-)""U V
-;""V W
-using$$ 
-($$ 
-MemoryStream$$ 
-	msEncrypt$$  )
-=$$* +
-new$$, /
-MemoryStream$$0 <
-($$< =
-)$$= >
-)$$> ?
-{%% 
-using&& 
-(&& 
-CryptoStream&& #
-	csEncrypt&&$ -
-=&&. /
-new&&0 3
-CryptoStream&&4 @
-(&&@ A
-	msEncrypt&&A J
-,&&J K
-	encryptor&&L U
-,&&U V
-CryptoStreamMode&&W g
-.&&g h
-Write&&h m
-)&&m n
-)&&n o
-{'' 
-using(( 
-((( 
-StreamWriter(( '
-	swEncrypt((( 1
-=((2 3
-new((4 7
-StreamWriter((8 D
-(((D E
-	csEncrypt((E N
-)((N O
-)((O P
-{)) 
-}++ 
-	encrypted,, 
-=,, 
-	msEncrypt,,  )
-.,,) *
-ToArray,,* 1
-(,,1 2
-),,2 3
-;,,3 4
-}-- 
-}.. 
-}// 	
+=""' (
+des"") ,
+."", -
+CreateEncryptor""- <
+(""< =
+des""= @
+.""@ A
+Key""A D
+,""D E
+des""F I
+.""I J
+IV""J L
+)""L M
+;""M N
+using## 
+(## 
+MemoryStream## 
+ms##  "
+=### $
+new##% (
+MemoryStream##) 5
+(##5 6
+)##6 7
+)##7 8
+{$$ 
+using%% 
+(%% 
+CryptoStream%% #
+cs%%$ &
+=%%' (
+new%%) ,
+CryptoStream%%- 9
+(%%9 :
+ms%%: <
+,%%< =
+	encryptor%%> G
+,%%G H
+CryptoStreamMode%%I Y
+.%%Y Z
+Write%%Z _
+)%%_ `
+)%%` a
+{&& 
+using'' 
+('' 
+StreamWriter'' '
+sw''( *
+=''+ ,
+new''- 0
+StreamWriter''1 =
+(''= >
+cs''> @
+)''@ A
+)''A B
+{(( 
+sw)) 
+.)) 
+Write))  
+())  !
+CIPHER_INPUT))! -
+)))- .
+;)). /
+}** 
+	encrypted++ 
+=++ 
+ms++  "
+.++" #
+ToArray++# *
+(++* +
+)+++ ,
+;++, -
+},, 
+}-- 
+}.. 	
+string// 
+	encPhrase// 
+=// 
+System// !
+.//! "
+Text//" &
+.//& '
+Encoding//' /
+./// 0
+UTF8//0 4
+.//4 5
+	GetString//5 >
+(//> ?
+	encrypted//? H
+)//H I
+;//I J
 IO00 
 
 .00
@@ -6785,133 +7914,149 @@ staticFiveZZ 
 Good199 
 (99 
 )99 
-{:: 
-string;; 
-	plainText;; 
-=;; 
-$str;; *
-;;;* +
+{:: 
+const;; 
+string;; 
+CIPHER_INPUT;; !
+=;;" #
+$str;;$ 3
+;;;3 4
 byte<< 
 [<< 
 ]<< 
 	encrypted<< 
 ;<< 
 using== 
-(== 
-Aes== 
-aesAlg== 
-=== 
-Aes== 
-.==  
-Create==  &
-(==& '
-)==' (
-)==( )
+(== $
+AesCryptoServiceProvider== '
+aes==( +
+===, -
+new==. 1$
+AesCryptoServiceProvider==2 J
+(==J K
+)==K L
+)==L M
 {>> 	
 ICryptoTransform@@ 
 	encryptor@@ &
-=@@' (
-aesAlg@@) /
-.@@/ 0
-CreateEncryptor@@0 ?
-(@@? @
-aesAlg@@@ F
-.@@F G
-Key@@G J
-,@@J K
-aesAlg@@L R
-.@@R S
-IV@@S U
-)@@U V
-;@@V W
-usingBB 
-(BB 
-MemoryStreamBB 
-	msEncryptBB  )
-=BB* +
-newBB, /
-MemoryStreamBB0 <
-(BB< =
-)BB= >
-)BB> ?
-{CC 
-usingDD 
-(DD 
-CryptoStreamDD #
-	csEncryptDD$ -
-=DD. /
-newDD0 3
-CryptoStreamDD4 @
-(DD@ A
-	msEncryptDDA J
-,DDJ K
-	encryptorDDL U
-,DDU V
-CryptoStreamModeDDW g
-.DDg h
-WriteDDh m
-)DDm n
-)DDn o
-{EE 
-usingFF 
-(FF 
-StreamWriterFF '
-	swEncryptFF( 1
-=FF2 3
-newFF4 7
-StreamWriterFF8 D
-(FFD E
-	csEncryptFFE N
-)FFN O
-)FFO P
-{GG 
-	swEncryptII !
-.II! "
-WriteII" '
-(II' (
-	plainTextII( 1
-)II1 2
-;II2 3
-}JJ 
-	encryptedKK 
-=KK 
-	msEncryptKK  )
-.KK) *
-ToArrayKK* 1
-(KK1 2
-)KK2 3
-;KK3 4
-}LL 
-}MM 
-}NN 	
-IOOO 
+=@@' (
+aes@@) ,
+.@@, -
+CreateEncryptor@@- <
+(@@< =
+aes@@= @
+.@@@ A
+Key@@A D
+,@@D E
+aes@@F I
+.@@I J
+IV@@J L
+)@@L M
+;@@M N
+usingAA 
+(AA 
+MemoryStreamAA 
+msAA  "
+=AA# $
+newAA% (
+MemoryStreamAA) 5
+(AA5 6
+)AA6 7
+)AA7 8
+{BB 
+usingCC 
+(CC 
+CryptoStreamCC #
+csCC$ &
+=CC' (
+newCC) ,
+CryptoStreamCC- 9
+(CC9 :
+msCC: <
+,CC< =
+	encryptorCC> G
+,CCG H
+CryptoStreamModeCCI Y
+.CCY Z
+WriteCCZ _
+)CC_ `
+)CC` a
+{DD 
+usingEE 
+(EE 
+StreamWriterEE '
+swEE( *
+=EE+ ,
+newEE- 0
+StreamWriterEE1 =
+(EE= >
+csEE> @
+)EE@ A
+)EEA B
+{FF 
+swGG 
+.GG 
+WriteGG  
+(GG  !
+CIPHER_INPUTGG! -
+)GG- .
+;GG. /
+}HH 
+	encryptedII 
+=II 
+msII  "
+.II" #
+ToArrayII# *
+(II* +
+)II+ ,
+;II, -
+}JJ 
+}KK 
+}LL 	
+stringMM 
+	encPhraseMM 
+=MM 
+SystemMM !
+.MM! "
+TextMM" &
+.MM& '
+EncodingMM' /
+.MM/ 0
+UTF8MM0 4
+.MM4 5
+	GetStringMM5 >
+(MM> ?
+	encryptedMM? H
+)MMH I
+;MMI J
+IONN 
 
-.OO
+.NN
  
-	WriteLineOO 
-(OO 
-IOOO 
-.OO 
-ToHexOO 
-(OO 
-	encryptedOO '
-)OO' (
-)OO( )
-;OO) *
-}PP 
-}RR 
-}SS ¾9
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_02.cs
+	WriteLineNN 
+(NN 
+IONN 
+.NN 
+ToHexNN 
+(NN 
+	encryptedNN '
+)NN' (
+)NN( )
+;NN) *
+}OO 
+}QQ 
+}RR š@
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_02.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_02 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_02 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -6926,98 +8071,121 @@ staticFiveZZ 
 ( 
 true 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -7053,273 +8221,305 @@ staticFiveZZ 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-true\\ 
-)\\ 
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+([[ 
+true[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} £:
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_03.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ ÿ@
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_03.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_03 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_03 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -7336,98 +8536,121 @@ staticFiveZZ 
 == 
 $num 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -7465,275 +8688,307 @@ staticFiveZZ 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-$num\\ 
-==\\ 
-$num\\ 
-)\\ 
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+([[ 
+$num[[ 
+==[[ 
+$num[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} „<
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_04.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ ÞB
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_04.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_04 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_04 &
+:' (
+AbstractTestCase) 9
 { 
 private 
 const 
@@ -7762,98 +9017,121 @@ staticFiveZZ 
 (## 
 PRIVATE_CONST_TRUE## 
 )## 
-{$$ 	
-string%% 
-	plainText%% 
-=%% 
-$str%% .
-;%%. /
+{$$ 	
+const%% 
+string%% 
+CIPHER_INPUT%% %
+=%%& '
+$str%%( 7
+;%%7 8
 byte&& 
 [&& 
 ]&& 
 	encrypted&& 
 ;&& 
 using'' 
-('' 
-Aes'' 
-aesAlg'' 
-='' 
-Aes''  #
-.''# $
-Create''$ *
-(''* +
-)''+ ,
-)'', -
+('' $
+DESCryptoServiceProvider'' +
+des'', /
+=''0 1
+new''2 5$
+DESCryptoServiceProvider''6 N
+(''N O
+)''O P
+)''P Q
 {(( 
 ICryptoTransform**  
 	encryptor**! *
-=**+ ,
-aesAlg**- 3
-.**3 4
-CreateEncryptor**4 C
-(**C D
-aesAlg**D J
-.**J K
-Key**K N
-,**N O
-aesAlg**P V
-.**V W
-IV**W Y
-)**Y Z
-;**Z [
-using,, 
-(,, 
-MemoryStream,, #
-	msEncrypt,,$ -
-=,,. /
-new,,0 3
-MemoryStream,,4 @
-(,,@ A
-),,A B
-),,B C
-{-- 
-using.. 
-(.. 
-CryptoStream.. '
-	csEncrypt..( 1
-=..2 3
-new..4 7
-CryptoStream..8 D
-(..D E
-	msEncrypt..E N
-,..N O
-	encryptor..P Y
-,..Y Z
-CryptoStreamMode..[ k
-...k l
-Write..l q
-)..q r
-)..r s
-{// 
-using00 
-(00 
-StreamWriter00 +
-	swEncrypt00, 5
-=006 7
-new008 ;
-StreamWriter00< H
-(00H I
-	csEncrypt00I R
-)00R S
-)00S T
-{11 
-}33 
-	encrypted44 !
-=44" #
-	msEncrypt44$ -
-.44- .
-ToArray44. 5
-(445 6
-)446 7
-;447 8
-}55 
-}66 
-}77 
+=**+ ,
+des**- 0
+.**0 1
+CreateEncryptor**1 @
+(**@ A
+des**A D
+.**D E
+Key**E H
+,**H I
+des**J M
+.**M N
+IV**N P
+)**P Q
+;**Q R
+using++ 
+(++ 
+MemoryStream++ #
+ms++$ &
+=++' (
+new++) ,
+MemoryStream++- 9
+(++9 :
+)++: ;
+)++; <
+{,, 
+using-- 
+(-- 
+CryptoStream-- '
+cs--( *
+=--+ ,
+new--- 0
+CryptoStream--1 =
+(--= >
+ms--> @
+,--@ A
+	encryptor--B K
+,--K L
+CryptoStreamMode--M ]
+.--] ^
+Write--^ c
+)--c d
+)--d e
+{.. 
+using// 
+(// 
+StreamWriter// +
+sw//, .
+=/// 0
+new//1 4
+StreamWriter//5 A
+(//A B
+cs//B D
+)//D E
+)//E F
+{00 
+sw11 
+.11 
+Write11 $
+(11$ %
+CIPHER_INPUT11% 1
+)111 2
+;112 3
+}22 
+	encrypted33 !
+=33" #
+ms33$ &
+.33& '
+ToArray33' .
+(33. /
+)33/ 0
+;330 1
+}44 
+}55 
+}66 
+string77 
+	encPhrase77 
+=77 
+System77 %
+.77% &
+Text77& *
+.77* +
+Encoding77+ 3
+.773 4
+UTF8774 8
+.778 9
+	GetString779 B
+(77B C
+	encrypted77C L
+)77L M
+;77M N
 IO88 
 .88 
 	WriteLine88 
@@ -7889,274 +9167,305 @@ staticFiveZZ 
 ;CC0 1
 }DD 	
 elseEE 
-{FF 	
-stringGG 
-	plainTextGG 
-=GG 
-$strGG .
-;GG. /
+{FF 	
+constGG 
+stringGG 
+CIPHER_INPUTGG %
+=GG& '
+$strGG( 7
+;GG7 8
 byteHH 
 [HH 
 ]HH 
 	encryptedHH 
 ;HH 
 usingII 
-(II 
-AesII 
-aesAlgII 
-=II 
-AesII  #
-.II# $
-CreateII$ *
-(II* +
-)II+ ,
-)II, -
+(II $
+AesCryptoServiceProviderII +
+aesII, /
+=II0 1
+newII2 5$
+AesCryptoServiceProviderII6 N
+(IIN O
+)IIO P
+)IIP Q
 {JJ 
 ICryptoTransformLL  
 	encryptorLL! *
-=LL+ ,
-aesAlgLL- 3
-.LL3 4
-CreateEncryptorLL4 C
-(LLC D
-aesAlgLLD J
-.LLJ K
-KeyLLK N
-,LLN O
-aesAlgLLP V
-.LLV W
-IVLLW Y
-)LLY Z
-;LLZ [
-usingNN 
-(NN 
-MemoryStreamNN #
-	msEncryptNN$ -
-=NN. /
-newNN0 3
-MemoryStreamNN4 @
-(NN@ A
-)NNA B
-)NNB C
-{OO 
-usingPP 
-(PP 
-CryptoStreamPP '
-	csEncryptPP( 1
-=PP2 3
-newPP4 7
-CryptoStreamPP8 D
-(PPD E
-	msEncryptPPE N
-,PPN O
-	encryptorPPP Y
-,PPY Z
-CryptoStreamModePP[ k
-.PPk l
-WritePPl q
-)PPq r
-)PPr s
-{QQ 
-usingRR 
-(RR 
-StreamWriterRR +
-	swEncryptRR, 5
-=RR6 7
-newRR8 ;
-StreamWriterRR< H
-(RRH I
-	csEncryptRRI R
-)RRR S
-)RRS T
-{SS 
-	swEncryptUU %
-.UU% &
-WriteUU& +
-(UU+ ,
-	plainTextUU, 5
-)UU5 6
-;UU6 7
-}VV 
-	encryptedWW !
-=WW" #
-	msEncryptWW$ -
-.WW- .
-ToArrayWW. 5
-(WW5 6
-)WW6 7
-;WW7 8
-}XX 
-}YY 
-}ZZ 
-IO[[ 
-.[[ 
-	WriteLine[[ 
-([[ 
-IO[[ 
-.[[ 
-ToHex[[ !
-([[! "
-	encrypted[[" +
-)[[+ ,
-)[[, -
-;[[- .
-}\\ 	
-}]] 
-private`` 
-void`` 
-Good2`` 
-(`` 
-)`` 
-{aa 
-ifbb 
+=LL+ ,
+aesLL- 0
+.LL0 1
+CreateEncryptorLL1 @
+(LL@ A
+aesLLA D
+.LLD E
+KeyLLE H
+,LLH I
+aesLLJ M
+.LLM N
+IVLLN P
+)LLP Q
+;LLQ R
+usingMM 
+(MM 
+MemoryStreamMM #
+msMM$ &
+=MM' (
+newMM) ,
+MemoryStreamMM- 9
+(MM9 :
+)MM: ;
+)MM; <
+{NN 
+usingOO 
+(OO 
+CryptoStreamOO '
+csOO( *
+=OO+ ,
+newOO- 0
+CryptoStreamOO1 =
+(OO= >
+msOO> @
+,OO@ A
+	encryptorOOB K
+,OOK L
+CryptoStreamModeOOM ]
+.OO] ^
+WriteOO^ c
+)OOc d
+)OOd e
+{PP 
+usingQQ 
+(QQ 
+StreamWriterQQ +
+swQQ, .
+=QQ/ 0
+newQQ1 4
+StreamWriterQQ5 A
+(QQA B
+csQQB D
+)QQD E
+)QQE F
+{RR 
+swSS 
+.SS 
+WriteSS $
+(SS$ %
+CIPHER_INPUTSS% 1
+)SS1 2
+;SS2 3
+}TT 
+	encryptedUU !
+=UU" #
+msUU$ &
+.UU& '
+ToArrayUU' .
+(UU. /
+)UU/ 0
+;UU0 1
+}VV 
+}WW 
+}XX 
+stringYY 
+	encPhraseYY 
+=YY 
+SystemYY %
+.YY% &
+TextYY& *
+.YY* +
+EncodingYY+ 3
+.YY3 4
+UTF8YY4 8
+.YY8 9
+	GetStringYY9 B
+(YYB C
+	encryptedYYC L
+)YYL M
+;YYM N
+IOZZ 
+.ZZ 
+	WriteLineZZ 
+(ZZ 
+IOZZ 
+.ZZ 
+ToHexZZ !
+(ZZ! "
+	encryptedZZ" +
+)ZZ+ ,
+)ZZ, -
+;ZZ- .
+}[[ 	
+}\\ 
+private__ 
+void__ 
+Good2__ 
+(__ 
+)__ 
+{`` 
+ifaa 
 
-(bb 
-PRIVATE_CONST_TRUEbb 
-)bb 
-{cc 	
-stringdd 
-	plainTextdd 
-=dd 
-$strdd .
-;dd. /
-byteee 
-[ee 
-]ee 
-	encryptedee 
-;ee 
-usingff 
-(ff 
-Aesff 
-aesAlgff 
-=ff 
-Aesff  #
-.ff# $
-Createff$ *
-(ff* +
-)ff+ ,
-)ff, -
-{gg 
-ICryptoTransformii  
-	encryptorii! *
-=ii+ ,
-aesAlgii- 3
-.ii3 4
-CreateEncryptorii4 C
-(iiC D
-aesAlgiiD J
-.iiJ K
-KeyiiK N
-,iiN O
-aesAlgiiP V
-.iiV W
-IViiW Y
-)iiY Z
-;iiZ [
-usingkk 
-(kk 
-MemoryStreamkk #
-	msEncryptkk$ -
-=kk. /
-newkk0 3
-MemoryStreamkk4 @
-(kk@ A
-)kkA B
-)kkB C
-{ll 
-usingmm 
-(mm 
-CryptoStreammm '
-	csEncryptmm( 1
-=mm2 3
-newmm4 7
-CryptoStreammm8 D
-(mmD E
-	msEncryptmmE N
-,mmN O
-	encryptormmP Y
-,mmY Z
-CryptoStreamModemm[ k
-.mmk l
-Writemml q
-)mmq r
-)mmr s
-{nn 
-usingoo 
-(oo 
-StreamWriteroo +
-	swEncryptoo, 5
-=oo6 7
-newoo8 ;
-StreamWriteroo< H
-(ooH I
-	csEncryptooI R
-)ooR S
-)ooS T
-{pp 
-	swEncryptrr %
-.rr% &
-Writerr& +
-(rr+ ,
-	plainTextrr, 5
-)rr5 6
-;rr6 7
-}ss 
-	encryptedtt !
-=tt" #
-	msEncrypttt$ -
-.tt- .
-ToArraytt. 5
-(tt5 6
-)tt6 7
-;tt7 8
-}uu 
-}vv 
-}ww 
-IOxx 
-.xx 
-	WriteLinexx 
-(xx 
-IOxx 
-.xx 
-ToHexxx !
-(xx! "
-	encryptedxx" +
-)xx+ ,
-)xx, -
-;xx- .
-}yy 	
-}zz 
-public|| 
+(aa 
+PRIVATE_CONST_TRUEaa 
+)aa 
+{bb 	
+constcc 
+stringcc 
+CIPHER_INPUTcc %
+=cc& '
+$strcc( 7
+;cc7 8
+bytedd 
+[dd 
+]dd 
+	encrypteddd 
+;dd 
+usingee 
+(ee $
+AesCryptoServiceProvideree +
+aesee, /
+=ee0 1
+newee2 5$
+AesCryptoServiceProvideree6 N
+(eeN O
+)eeO P
+)eeP Q
+{ff 
+ICryptoTransformhh  
+	encryptorhh! *
+=hh+ ,
+aeshh- 0
+.hh0 1
+CreateEncryptorhh1 @
+(hh@ A
+aeshhA D
+.hhD E
+KeyhhE H
+,hhH I
+aeshhJ M
+.hhM N
+IVhhN P
+)hhP Q
+;hhQ R
+usingii 
+(ii 
+MemoryStreamii #
+msii$ &
+=ii' (
+newii) ,
+MemoryStreamii- 9
+(ii9 :
+)ii: ;
+)ii; <
+{jj 
+usingkk 
+(kk 
+CryptoStreamkk '
+cskk( *
+=kk+ ,
+newkk- 0
+CryptoStreamkk1 =
+(kk= >
+mskk> @
+,kk@ A
+	encryptorkkB K
+,kkK L
+CryptoStreamModekkM ]
+.kk] ^
+Writekk^ c
+)kkc d
+)kkd e
+{ll 
+usingmm 
+(mm 
+StreamWritermm +
+swmm, .
+=mm/ 0
+newmm1 4
+StreamWritermm5 A
+(mmA B
+csmmB D
+)mmD E
+)mmE F
+{nn 
+swoo 
+.oo 
+Writeoo $
+(oo$ %
+CIPHER_INPUToo% 1
+)oo1 2
+;oo2 3
+}pp 
+	encryptedqq !
+=qq" #
+msqq$ &
+.qq& '
+ToArrayqq' .
+(qq. /
+)qq/ 0
+;qq0 1
+}rr 
+}ss 
+}tt 
+stringuu 
+	encPhraseuu 
+=uu 
+Systemuu %
+.uu% &
+Textuu& *
+.uu* +
+Encodinguu+ 3
+.uu3 4
+UTF8uu4 8
+.uu8 9
+	GetStringuu9 B
+(uuB C
+	encrypteduuC L
+)uuL M
+;uuM N
+IOvv 
+.vv 
+	WriteLinevv 
+(vv 
+IOvv 
+.vv 
+ToHexvv !
+(vv! "
+	encryptedvv" +
+)vv+ ,
+)vv, -
+;vv- .
+}ww 	
+}xx 
+publiczz 
 
-override|| 
-void|| 
-Good|| 
-(|| 
-)|| 
-{}} 
-Good1~~ 
-(~~ 
-)~~ 
-;~~ 
-Good2 
-( 
-) 
-; 
-}
-€€ 
-}‚‚ 
-}ƒƒ »;
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_05.cs
+overridezz 
+voidzz 
+Goodzz 
+(zz 
+)zz 
+{{{ 
+Good1|| 
+(|| 
+)|| 
+;|| 
+Good2}} 
+(}} 
+)}} 
+;}} 
+}~~ 
+}€€ 
+} •B
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_05.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_05 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_05 &
+:' (
+AbstractTestCase) 9
 { 
 private 
 bool 
@@ -8183,98 +9492,121 @@ staticFiveZZ 
 (## 
 privateTrue## 
 )## 
-{$$ 	
-string%% 
-	plainText%% 
-=%% 
-$str%% .
-;%%. /
+{$$ 	
+const%% 
+string%% 
+CIPHER_INPUT%% %
+=%%& '
+$str%%( 7
+;%%7 8
 byte&& 
 [&& 
 ]&& 
 	encrypted&& 
 ;&& 
 using'' 
-('' 
-Aes'' 
-aesAlg'' 
-='' 
-Aes''  #
-.''# $
-Create''$ *
-(''* +
-)''+ ,
-)'', -
+('' $
+DESCryptoServiceProvider'' +
+des'', /
+=''0 1
+new''2 5$
+DESCryptoServiceProvider''6 N
+(''N O
+)''O P
+)''P Q
 {(( 
 ICryptoTransform**  
 	encryptor**! *
-=**+ ,
-aesAlg**- 3
-.**3 4
-CreateEncryptor**4 C
-(**C D
-aesAlg**D J
-.**J K
-Key**K N
-,**N O
-aesAlg**P V
-.**V W
-IV**W Y
-)**Y Z
-;**Z [
-using,, 
-(,, 
-MemoryStream,, #
-	msEncrypt,,$ -
-=,,. /
-new,,0 3
-MemoryStream,,4 @
-(,,@ A
-),,A B
-),,B C
-{-- 
-using.. 
-(.. 
-CryptoStream.. '
-	csEncrypt..( 1
-=..2 3
-new..4 7
-CryptoStream..8 D
-(..D E
-	msEncrypt..E N
-,..N O
-	encryptor..P Y
-,..Y Z
-CryptoStreamMode..[ k
-...k l
-Write..l q
-)..q r
-)..r s
-{// 
-using00 
-(00 
-StreamWriter00 +
-	swEncrypt00, 5
-=006 7
-new008 ;
-StreamWriter00< H
-(00H I
-	csEncrypt00I R
-)00R S
-)00S T
-{11 
-}33 
-	encrypted44 !
-=44" #
-	msEncrypt44$ -
-.44- .
-ToArray44. 5
-(445 6
-)446 7
-;447 8
-}55 
-}66 
-}77 
+=**+ ,
+des**- 0
+.**0 1
+CreateEncryptor**1 @
+(**@ A
+des**A D
+.**D E
+Key**E H
+,**H I
+des**J M
+.**M N
+IV**N P
+)**P Q
+;**Q R
+using++ 
+(++ 
+MemoryStream++ #
+ms++$ &
+=++' (
+new++) ,
+MemoryStream++- 9
+(++9 :
+)++: ;
+)++; <
+{,, 
+using-- 
+(-- 
+CryptoStream-- '
+cs--( *
+=--+ ,
+new--- 0
+CryptoStream--1 =
+(--= >
+ms--> @
+,--@ A
+	encryptor--B K
+,--K L
+CryptoStreamMode--M ]
+.--] ^
+Write--^ c
+)--c d
+)--d e
+{.. 
+using// 
+(// 
+StreamWriter// +
+sw//, .
+=/// 0
+new//1 4
+StreamWriter//5 A
+(//A B
+cs//B D
+)//D E
+)//E F
+{00 
+sw11 
+.11 
+Write11 $
+(11$ %
+CIPHER_INPUT11% 1
+)111 2
+;112 3
+}22 
+	encrypted33 !
+=33" #
+ms33$ &
+.33& '
+ToArray33' .
+(33. /
+)33/ 0
+;330 1
+}44 
+}55 
+}66 
+string77 
+	encPhrase77 
+=77 
+System77 %
+.77% &
+Text77& *
+.77* +
+Encoding77+ 3
+.773 4
+UTF8774 8
+.778 9
+	GetString779 B
+(77B C
+	encrypted77C L
+)77L M
+;77M N
 IO88 
 .88 
 	WriteLine88 
@@ -8310,274 +9642,305 @@ staticFiveZZ 
 ;CC0 1
 }DD 	
 elseEE 
-{FF 	
-stringGG 
-	plainTextGG 
-=GG 
-$strGG .
-;GG. /
+{FF 	
+constGG 
+stringGG 
+CIPHER_INPUTGG %
+=GG& '
+$strGG( 7
+;GG7 8
 byteHH 
 [HH 
 ]HH 
 	encryptedHH 
 ;HH 
 usingII 
-(II 
-AesII 
-aesAlgII 
-=II 
-AesII  #
-.II# $
-CreateII$ *
-(II* +
-)II+ ,
-)II, -
+(II $
+AesCryptoServiceProviderII +
+aesII, /
+=II0 1
+newII2 5$
+AesCryptoServiceProviderII6 N
+(IIN O
+)IIO P
+)IIP Q
 {JJ 
 ICryptoTransformLL  
 	encryptorLL! *
-=LL+ ,
-aesAlgLL- 3
-.LL3 4
-CreateEncryptorLL4 C
-(LLC D
-aesAlgLLD J
-.LLJ K
-KeyLLK N
-,LLN O
-aesAlgLLP V
-.LLV W
-IVLLW Y
-)LLY Z
-;LLZ [
-usingNN 
-(NN 
-MemoryStreamNN #
-	msEncryptNN$ -
-=NN. /
-newNN0 3
-MemoryStreamNN4 @
-(NN@ A
-)NNA B
-)NNB C
-{OO 
-usingPP 
-(PP 
-CryptoStreamPP '
-	csEncryptPP( 1
-=PP2 3
-newPP4 7
-CryptoStreamPP8 D
-(PPD E
-	msEncryptPPE N
-,PPN O
-	encryptorPPP Y
-,PPY Z
-CryptoStreamModePP[ k
-.PPk l
-WritePPl q
-)PPq r
-)PPr s
-{QQ 
-usingRR 
-(RR 
-StreamWriterRR +
-	swEncryptRR, 5
-=RR6 7
-newRR8 ;
-StreamWriterRR< H
-(RRH I
-	csEncryptRRI R
-)RRR S
-)RRS T
-{SS 
-	swEncryptUU %
-.UU% &
-WriteUU& +
-(UU+ ,
-	plainTextUU, 5
-)UU5 6
-;UU6 7
-}VV 
-	encryptedWW !
-=WW" #
-	msEncryptWW$ -
-.WW- .
-ToArrayWW. 5
-(WW5 6
-)WW6 7
-;WW7 8
-}XX 
-}YY 
-}ZZ 
-IO[[ 
-.[[ 
-	WriteLine[[ 
-([[ 
-IO[[ 
-.[[ 
-ToHex[[ !
-([[! "
-	encrypted[[" +
-)[[+ ,
-)[[, -
-;[[- .
-}\\ 	
-}]] 
-private`` 
-void`` 
-Good2`` 
-(`` 
-)`` 
-{aa 
-ifbb 
+=LL+ ,
+aesLL- 0
+.LL0 1
+CreateEncryptorLL1 @
+(LL@ A
+aesLLA D
+.LLD E
+KeyLLE H
+,LLH I
+aesLLJ M
+.LLM N
+IVLLN P
+)LLP Q
+;LLQ R
+usingMM 
+(MM 
+MemoryStreamMM #
+msMM$ &
+=MM' (
+newMM) ,
+MemoryStreamMM- 9
+(MM9 :
+)MM: ;
+)MM; <
+{NN 
+usingOO 
+(OO 
+CryptoStreamOO '
+csOO( *
+=OO+ ,
+newOO- 0
+CryptoStreamOO1 =
+(OO= >
+msOO> @
+,OO@ A
+	encryptorOOB K
+,OOK L
+CryptoStreamModeOOM ]
+.OO] ^
+WriteOO^ c
+)OOc d
+)OOd e
+{PP 
+usingQQ 
+(QQ 
+StreamWriterQQ +
+swQQ, .
+=QQ/ 0
+newQQ1 4
+StreamWriterQQ5 A
+(QQA B
+csQQB D
+)QQD E
+)QQE F
+{RR 
+swSS 
+.SS 
+WriteSS $
+(SS$ %
+CIPHER_INPUTSS% 1
+)SS1 2
+;SS2 3
+}TT 
+	encryptedUU !
+=UU" #
+msUU$ &
+.UU& '
+ToArrayUU' .
+(UU. /
+)UU/ 0
+;UU0 1
+}VV 
+}WW 
+}XX 
+stringYY 
+	encPhraseYY 
+=YY 
+SystemYY %
+.YY% &
+TextYY& *
+.YY* +
+EncodingYY+ 3
+.YY3 4
+UTF8YY4 8
+.YY8 9
+	GetStringYY9 B
+(YYB C
+	encryptedYYC L
+)YYL M
+;YYM N
+IOZZ 
+.ZZ 
+	WriteLineZZ 
+(ZZ 
+IOZZ 
+.ZZ 
+ToHexZZ !
+(ZZ! "
+	encryptedZZ" +
+)ZZ+ ,
+)ZZ, -
+;ZZ- .
+}[[ 	
+}\\ 
+private__ 
+void__ 
+Good2__ 
+(__ 
+)__ 
+{`` 
+ifaa 
 
-(bb 
-privateTruebb 
-)bb 
-{cc 	
-stringdd 
-	plainTextdd 
-=dd 
-$strdd .
-;dd. /
-byteee 
-[ee 
-]ee 
-	encryptedee 
-;ee 
-usingff 
-(ff 
-Aesff 
-aesAlgff 
-=ff 
-Aesff  #
-.ff# $
-Createff$ *
-(ff* +
-)ff+ ,
-)ff, -
-{gg 
-ICryptoTransformii  
-	encryptorii! *
-=ii+ ,
-aesAlgii- 3
-.ii3 4
-CreateEncryptorii4 C
-(iiC D
-aesAlgiiD J
-.iiJ K
-KeyiiK N
-,iiN O
-aesAlgiiP V
-.iiV W
-IViiW Y
-)iiY Z
-;iiZ [
-usingkk 
-(kk 
-MemoryStreamkk #
-	msEncryptkk$ -
-=kk. /
-newkk0 3
-MemoryStreamkk4 @
-(kk@ A
-)kkA B
-)kkB C
-{ll 
-usingmm 
-(mm 
-CryptoStreammm '
-	csEncryptmm( 1
-=mm2 3
-newmm4 7
-CryptoStreammm8 D
-(mmD E
-	msEncryptmmE N
-,mmN O
-	encryptormmP Y
-,mmY Z
-CryptoStreamModemm[ k
-.mmk l
-Writemml q
-)mmq r
-)mmr s
-{nn 
-usingoo 
-(oo 
-StreamWriteroo +
-	swEncryptoo, 5
-=oo6 7
-newoo8 ;
-StreamWriteroo< H
-(ooH I
-	csEncryptooI R
-)ooR S
-)ooS T
-{pp 
-	swEncryptrr %
-.rr% &
-Writerr& +
-(rr+ ,
-	plainTextrr, 5
-)rr5 6
-;rr6 7
-}ss 
-	encryptedtt !
-=tt" #
-	msEncrypttt$ -
-.tt- .
-ToArraytt. 5
-(tt5 6
-)tt6 7
-;tt7 8
-}uu 
-}vv 
-}ww 
-IOxx 
-.xx 
-	WriteLinexx 
-(xx 
-IOxx 
-.xx 
-ToHexxx !
-(xx! "
-	encryptedxx" +
-)xx+ ,
-)xx, -
-;xx- .
-}yy 	
-}zz 
-public|| 
+(aa 
+privateTrueaa 
+)aa 
+{bb 	
+constcc 
+stringcc 
+CIPHER_INPUTcc %
+=cc& '
+$strcc( 7
+;cc7 8
+bytedd 
+[dd 
+]dd 
+	encrypteddd 
+;dd 
+usingee 
+(ee $
+AesCryptoServiceProvideree +
+aesee, /
+=ee0 1
+newee2 5$
+AesCryptoServiceProvideree6 N
+(eeN O
+)eeO P
+)eeP Q
+{ff 
+ICryptoTransformhh  
+	encryptorhh! *
+=hh+ ,
+aeshh- 0
+.hh0 1
+CreateEncryptorhh1 @
+(hh@ A
+aeshhA D
+.hhD E
+KeyhhE H
+,hhH I
+aeshhJ M
+.hhM N
+IVhhN P
+)hhP Q
+;hhQ R
+usingii 
+(ii 
+MemoryStreamii #
+msii$ &
+=ii' (
+newii) ,
+MemoryStreamii- 9
+(ii9 :
+)ii: ;
+)ii; <
+{jj 
+usingkk 
+(kk 
+CryptoStreamkk '
+cskk( *
+=kk+ ,
+newkk- 0
+CryptoStreamkk1 =
+(kk= >
+mskk> @
+,kk@ A
+	encryptorkkB K
+,kkK L
+CryptoStreamModekkM ]
+.kk] ^
+Writekk^ c
+)kkc d
+)kkd e
+{ll 
+usingmm 
+(mm 
+StreamWritermm +
+swmm, .
+=mm/ 0
+newmm1 4
+StreamWritermm5 A
+(mmA B
+csmmB D
+)mmD E
+)mmE F
+{nn 
+swoo 
+.oo 
+Writeoo $
+(oo$ %
+CIPHER_INPUToo% 1
+)oo1 2
+;oo2 3
+}pp 
+	encryptedqq !
+=qq" #
+msqq$ &
+.qq& '
+ToArrayqq' .
+(qq. /
+)qq/ 0
+;qq0 1
+}rr 
+}ss 
+}tt 
+stringuu 
+	encPhraseuu 
+=uu 
+Systemuu %
+.uu% &
+Textuu& *
+.uu* +
+Encodinguu+ 3
+.uu3 4
+UTF8uu4 8
+.uu8 9
+	GetStringuu9 B
+(uuB C
+	encrypteduuC L
+)uuL M
+;uuM N
+IOvv 
+.vv 
+	WriteLinevv 
+(vv 
+IOvv 
+.vv 
+ToHexvv !
+(vv! "
+	encryptedvv" +
+)vv+ ,
+)vv, -
+;vv- .
+}ww 	
+}xx 
+publiczz 
 
-override|| 
-void|| 
-Good|| 
-(|| 
-)|| 
-{}} 
-Good1~~ 
-(~~ 
-)~~ 
-;~~ 
-Good2 
-( 
-) 
-; 
-}
-€€ 
-}‚‚ 
-}ƒƒ Ú;
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_06.cs
+overridezz 
+voidzz 
+Goodzz 
+(zz 
+)zz 
+{{{ 
+Good1|| 
+(|| 
+)|| 
+;|| 
+Good2}} 
+(}} 
+)}} 
+;}} 
+}~~ 
+}€€ 
+} ´B
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_06.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_06 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_06 &
+:' (
+AbstractTestCase) 9
 { 
 private 
 const 
@@ -8601,98 +9964,121 @@ staticFiveZZ 
 =="" !
 $num""" #
 )""# $
-{## 	
-string$$ 
-	plainText$$ 
-=$$ 
-$str$$ .
-;$$. /
+{## 	
+const$$ 
+string$$ 
+CIPHER_INPUT$$ %
+=$$& '
+$str$$( 7
+;$$7 8
 byte%% 
 [%% 
 ]%% 
 	encrypted%% 
 ;%% 
 using&& 
-(&& 
-Aes&& 
-aesAlg&& 
-=&& 
-Aes&&  #
-.&&# $
-Create&&$ *
-(&&* +
-)&&+ ,
-)&&, -
+(&& $
+DESCryptoServiceProvider&& +
+des&&, /
+=&&0 1
+new&&2 5$
+DESCryptoServiceProvider&&6 N
+(&&N O
+)&&O P
+)&&P Q
 {'' 
 ICryptoTransform))  
 	encryptor))! *
-=))+ ,
-aesAlg))- 3
-.))3 4
-CreateEncryptor))4 C
-())C D
-aesAlg))D J
-.))J K
-Key))K N
-,))N O
-aesAlg))P V
-.))V W
-IV))W Y
-)))Y Z
-;))Z [
-using++ 
-(++ 
-MemoryStream++ #
-	msEncrypt++$ -
-=++. /
-new++0 3
-MemoryStream++4 @
-(++@ A
-)++A B
-)++B C
-{,, 
-using-- 
-(-- 
-CryptoStream-- '
-	csEncrypt--( 1
-=--2 3
-new--4 7
-CryptoStream--8 D
-(--D E
-	msEncrypt--E N
-,--N O
-	encryptor--P Y
-,--Y Z
-CryptoStreamMode--[ k
-.--k l
-Write--l q
-)--q r
-)--r s
-{.. 
-using// 
-(// 
-StreamWriter// +
-	swEncrypt//, 5
-=//6 7
-new//8 ;
-StreamWriter//< H
-(//H I
-	csEncrypt//I R
-)//R S
-)//S T
-{00 
-}22 
-	encrypted33 !
-=33" #
-	msEncrypt33$ -
-.33- .
-ToArray33. 5
-(335 6
-)336 7
-;337 8
-}44 
-}55 
-}66 
+=))+ ,
+des))- 0
+.))0 1
+CreateEncryptor))1 @
+())@ A
+des))A D
+.))D E
+Key))E H
+,))H I
+des))J M
+.))M N
+IV))N P
+)))P Q
+;))Q R
+using** 
+(** 
+MemoryStream** #
+ms**$ &
+=**' (
+new**) ,
+MemoryStream**- 9
+(**9 :
+)**: ;
+)**; <
+{++ 
+using,, 
+(,, 
+CryptoStream,, '
+cs,,( *
+=,,+ ,
+new,,- 0
+CryptoStream,,1 =
+(,,= >
+ms,,> @
+,,,@ A
+	encryptor,,B K
+,,,K L
+CryptoStreamMode,,M ]
+.,,] ^
+Write,,^ c
+),,c d
+),,d e
+{-- 
+using.. 
+(.. 
+StreamWriter.. +
+sw.., .
+=../ 0
+new..1 4
+StreamWriter..5 A
+(..A B
+cs..B D
+)..D E
+)..E F
+{// 
+sw00 
+.00 
+Write00 $
+(00$ %
+CIPHER_INPUT00% 1
+)001 2
+;002 3
+}11 
+	encrypted22 !
+=22" #
+ms22$ &
+.22& '
+ToArray22' .
+(22. /
+)22/ 0
+;220 1
+}33 
+}44 
+}55 
+string66 
+	encPhrase66 
+=66 
+System66 %
+.66% &
+Text66& *
+.66* +
+Encoding66+ 3
+.663 4
+UTF8664 8
+.668 9
+	GetString669 B
+(66B C
+	encrypted66C L
+)66L M
+;66M N
 IO77 
 .77 
 	WriteLine77 
@@ -8730,275 +10116,307 @@ staticFiveZZ 
 ;BB0 1
 }CC 	
 elseDD 
-{EE 	
-stringFF 
-	plainTextFF 
-=FF 
-$strFF .
-;FF. /
+{EE 	
+constFF 
+stringFF 
+CIPHER_INPUTFF %
+=FF& '
+$strFF( 7
+;FF7 8
 byteGG 
 [GG 
 ]GG 
 	encryptedGG 
 ;GG 
 usingHH 
-(HH 
-AesHH 
-aesAlgHH 
-=HH 
-AesHH  #
-.HH# $
-CreateHH$ *
-(HH* +
-)HH+ ,
-)HH, -
+(HH $
+AesCryptoServiceProviderHH +
+aesHH, /
+=HH0 1
+newHH2 5$
+AesCryptoServiceProviderHH6 N
+(HHN O
+)HHO P
+)HHP Q
 {II 
 ICryptoTransformKK  
 	encryptorKK! *
-=KK+ ,
-aesAlgKK- 3
-.KK3 4
-CreateEncryptorKK4 C
-(KKC D
-aesAlgKKD J
-.KKJ K
-KeyKKK N
-,KKN O
-aesAlgKKP V
-.KKV W
-IVKKW Y
-)KKY Z
-;KKZ [
-usingMM 
-(MM 
-MemoryStreamMM #
-	msEncryptMM$ -
-=MM. /
-newMM0 3
-MemoryStreamMM4 @
-(MM@ A
-)MMA B
-)MMB C
-{NN 
-usingOO 
-(OO 
-CryptoStreamOO '
-	csEncryptOO( 1
-=OO2 3
-newOO4 7
-CryptoStreamOO8 D
-(OOD E
-	msEncryptOOE N
-,OON O
-	encryptorOOP Y
-,OOY Z
-CryptoStreamModeOO[ k
-.OOk l
-WriteOOl q
-)OOq r
-)OOr s
-{PP 
-usingQQ 
-(QQ 
-StreamWriterQQ +
-	swEncryptQQ, 5
-=QQ6 7
-newQQ8 ;
-StreamWriterQQ< H
-(QQH I
-	csEncryptQQI R
-)QQR S
-)QQS T
-{RR 
-	swEncryptTT %
-.TT% &
-WriteTT& +
-(TT+ ,
-	plainTextTT, 5
-)TT5 6
-;TT6 7
-}UU 
-	encryptedVV !
-=VV" #
-	msEncryptVV$ -
-.VV- .
-ToArrayVV. 5
-(VV5 6
-)VV6 7
-;VV7 8
-}WW 
-}XX 
-}YY 
-IOZZ 
-.ZZ 
-	WriteLineZZ 
-(ZZ 
-IOZZ 
-.ZZ 
-ToHexZZ !
-(ZZ! "
-	encryptedZZ" +
-)ZZ+ ,
-)ZZ, -
-;ZZ- .
-}[[ 	
-}\\ 
-private__ 
-void__ 
-Good2__ 
-(__ 
-)__ 
-{`` 
-ifaa 
+=KK+ ,
+aesKK- 0
+.KK0 1
+CreateEncryptorKK1 @
+(KK@ A
+aesKKA D
+.KKD E
+KeyKKE H
+,KKH I
+aesKKJ M
+.KKM N
+IVKKN P
+)KKP Q
+;KKQ R
+usingLL 
+(LL 
+MemoryStreamLL #
+msLL$ &
+=LL' (
+newLL) ,
+MemoryStreamLL- 9
+(LL9 :
+)LL: ;
+)LL; <
+{MM 
+usingNN 
+(NN 
+CryptoStreamNN '
+csNN( *
+=NN+ ,
+newNN- 0
+CryptoStreamNN1 =
+(NN= >
+msNN> @
+,NN@ A
+	encryptorNNB K
+,NNK L
+CryptoStreamModeNNM ]
+.NN] ^
+WriteNN^ c
+)NNc d
+)NNd e
+{OO 
+usingPP 
+(PP 
+StreamWriterPP +
+swPP, .
+=PP/ 0
+newPP1 4
+StreamWriterPP5 A
+(PPA B
+csPPB D
+)PPD E
+)PPE F
+{QQ 
+swRR 
+.RR 
+WriteRR $
+(RR$ %
+CIPHER_INPUTRR% 1
+)RR1 2
+;RR2 3
+}SS 
+	encryptedTT !
+=TT" #
+msTT$ &
+.TT& '
+ToArrayTT' .
+(TT. /
+)TT/ 0
+;TT0 1
+}UU 
+}VV 
+}WW 
+stringXX 
+	encPhraseXX 
+=XX 
+SystemXX %
+.XX% &
+TextXX& *
+.XX* +
+EncodingXX+ 3
+.XX3 4
+UTF8XX4 8
+.XX8 9
+	GetStringXX9 B
+(XXB C
+	encryptedXXC L
+)XXL M
+;XXM N
+IOYY 
+.YY 
+	WriteLineYY 
+(YY 
+IOYY 
+.YY 
+ToHexYY !
+(YY! "
+	encryptedYY" +
+)YY+ ,
+)YY, -
+;YY- .
+}ZZ 	
+}[[ 
+private^^ 
+void^^ 
+Good2^^ 
+(^^ 
+)^^ 
+{__ 
+if`` 
 
-(aa 
-PRIVATE_CONST_FIVEaa 
-==aa !
-$numaa" #
-)aa# $
-{bb 	
-stringcc 
-	plainTextcc 
-=cc 
-$strcc .
-;cc. /
-bytedd 
-[dd 
-]dd 
-	encrypteddd 
-;dd 
-usingee 
-(ee 
-Aesee 
-aesAlgee 
-=ee 
-Aesee  #
-.ee# $
-Createee$ *
-(ee* +
-)ee+ ,
-)ee, -
-{ff 
-ICryptoTransformhh  
-	encryptorhh! *
-=hh+ ,
-aesAlghh- 3
-.hh3 4
-CreateEncryptorhh4 C
-(hhC D
-aesAlghhD J
-.hhJ K
-KeyhhK N
-,hhN O
-aesAlghhP V
-.hhV W
-IVhhW Y
-)hhY Z
-;hhZ [
-usingjj 
-(jj 
-MemoryStreamjj #
-	msEncryptjj$ -
-=jj. /
-newjj0 3
-MemoryStreamjj4 @
-(jj@ A
-)jjA B
-)jjB C
-{kk 
-usingll 
-(ll 
-CryptoStreamll '
-	csEncryptll( 1
-=ll2 3
-newll4 7
-CryptoStreamll8 D
-(llD E
-	msEncryptllE N
-,llN O
-	encryptorllP Y
-,llY Z
-CryptoStreamModell[ k
-.llk l
-Writelll q
-)llq r
-)llr s
-{mm 
-usingnn 
-(nn 
-StreamWriternn +
-	swEncryptnn, 5
-=nn6 7
-newnn8 ;
-StreamWriternn< H
-(nnH I
-	csEncryptnnI R
-)nnR S
-)nnS T
-{oo 
-	swEncryptqq %
-.qq% &
-Writeqq& +
-(qq+ ,
-	plainTextqq, 5
-)qq5 6
-;qq6 7
-}rr 
-	encryptedss !
-=ss" #
-	msEncryptss$ -
-.ss- .
-ToArrayss. 5
-(ss5 6
-)ss6 7
-;ss7 8
-}tt 
-}uu 
-}vv 
-IOww 
-.ww 
-	WriteLineww 
-(ww 
-IOww 
-.ww 
-ToHexww !
-(ww! "
-	encryptedww" +
-)ww+ ,
-)ww, -
-;ww- .
-}xx 	
-}yy 
-public{{ 
+(`` 
+PRIVATE_CONST_FIVE`` 
+==`` !
+$num``" #
+)``# $
+{aa 	
+constbb 
+stringbb 
+CIPHER_INPUTbb %
+=bb& '
+$strbb( 7
+;bb7 8
+bytecc 
+[cc 
+]cc 
+	encryptedcc 
+;cc 
+usingdd 
+(dd $
+AesCryptoServiceProviderdd +
+aesdd, /
+=dd0 1
+newdd2 5$
+AesCryptoServiceProviderdd6 N
+(ddN O
+)ddO P
+)ddP Q
+{ee 
+ICryptoTransformgg  
+	encryptorgg! *
+=gg+ ,
+aesgg- 0
+.gg0 1
+CreateEncryptorgg1 @
+(gg@ A
+aesggA D
+.ggD E
+KeyggE H
+,ggH I
+aesggJ M
+.ggM N
+IVggN P
+)ggP Q
+;ggQ R
+usinghh 
+(hh 
+MemoryStreamhh #
+mshh$ &
+=hh' (
+newhh) ,
+MemoryStreamhh- 9
+(hh9 :
+)hh: ;
+)hh; <
+{ii 
+usingjj 
+(jj 
+CryptoStreamjj '
+csjj( *
+=jj+ ,
+newjj- 0
+CryptoStreamjj1 =
+(jj= >
+msjj> @
+,jj@ A
+	encryptorjjB K
+,jjK L
+CryptoStreamModejjM ]
+.jj] ^
+Writejj^ c
+)jjc d
+)jjd e
+{kk 
+usingll 
+(ll 
+StreamWriterll +
+swll, .
+=ll/ 0
+newll1 4
+StreamWriterll5 A
+(llA B
+csllB D
+)llD E
+)llE F
+{mm 
+swnn 
+.nn 
+Writenn $
+(nn$ %
+CIPHER_INPUTnn% 1
+)nn1 2
+;nn2 3
+}oo 
+	encryptedpp !
+=pp" #
+mspp$ &
+.pp& '
+ToArraypp' .
+(pp. /
+)pp/ 0
+;pp0 1
+}qq 
+}rr 
+}ss 
+stringtt 
+	encPhrasett 
+=tt 
+Systemtt %
+.tt% &
+Texttt& *
+.tt* +
+Encodingtt+ 3
+.tt3 4
+UTF8tt4 8
+.tt8 9
+	GetStringtt9 B
+(ttB C
+	encryptedttC L
+)ttL M
+;ttM N
+IOuu 
+.uu 
+	WriteLineuu 
+(uu 
+IOuu 
+.uu 
+ToHexuu !
+(uu! "
+	encrypteduu" +
+)uu+ ,
+)uu, -
+;uu- .
+}vv 	
+}ww 
+publicyy 
 
-override{{ 
-void{{ 
-Good{{ 
-({{ 
-){{ 
-{|| 
-Good1}} 
-(}} 
-)}} 
-;}} 
-Good2~~ 
-(~~ 
-)~~ 
-;~~ 
-} 
-} 
-}‚‚ «;
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_07.cs
+overrideyy 
+voidyy 
+Goodyy 
+(yy 
+)yy 
+{zz 
+Good1{{ 
+({{ 
+){{ 
+;{{ 
+Good2|| 
+(|| 
+)|| 
+;|| 
+}}} 
+} 
+}€€ …B
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_07.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_07 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_07 &
+:' (
+AbstractTestCase) 9
 { 
 private 
 int 
@@ -9021,98 +10439,121 @@ staticFiveZZ 
 =="" 
 $num"" 
 )"" 
-{## 	
-string$$ 
-	plainText$$ 
-=$$ 
-$str$$ .
-;$$. /
+{## 	
+const$$ 
+string$$ 
+CIPHER_INPUT$$ %
+=$$& '
+$str$$( 7
+;$$7 8
 byte%% 
 [%% 
 ]%% 
 	encrypted%% 
 ;%% 
 using&& 
-(&& 
-Aes&& 
-aesAlg&& 
-=&& 
-Aes&&  #
-.&&# $
-Create&&$ *
-(&&* +
-)&&+ ,
-)&&, -
+(&& $
+DESCryptoServiceProvider&& +
+des&&, /
+=&&0 1
+new&&2 5$
+DESCryptoServiceProvider&&6 N
+(&&N O
+)&&O P
+)&&P Q
 {'' 
 ICryptoTransform))  
 	encryptor))! *
-=))+ ,
-aesAlg))- 3
-.))3 4
-CreateEncryptor))4 C
-())C D
-aesAlg))D J
-.))J K
-Key))K N
-,))N O
-aesAlg))P V
-.))V W
-IV))W Y
-)))Y Z
-;))Z [
-using++ 
-(++ 
-MemoryStream++ #
-	msEncrypt++$ -
-=++. /
-new++0 3
-MemoryStream++4 @
-(++@ A
-)++A B
-)++B C
-{,, 
-using-- 
-(-- 
-CryptoStream-- '
-	csEncrypt--( 1
-=--2 3
-new--4 7
-CryptoStream--8 D
-(--D E
-	msEncrypt--E N
-,--N O
-	encryptor--P Y
-,--Y Z
-CryptoStreamMode--[ k
-.--k l
-Write--l q
-)--q r
-)--r s
-{.. 
-using// 
-(// 
-StreamWriter// +
-	swEncrypt//, 5
-=//6 7
-new//8 ;
-StreamWriter//< H
-(//H I
-	csEncrypt//I R
-)//R S
-)//S T
-{00 
-}22 
-	encrypted33 !
-=33" #
-	msEncrypt33$ -
-.33- .
-ToArray33. 5
-(335 6
-)336 7
-;337 8
-}44 
-}55 
-}66 
+=))+ ,
+des))- 0
+.))0 1
+CreateEncryptor))1 @
+())@ A
+des))A D
+.))D E
+Key))E H
+,))H I
+des))J M
+.))M N
+IV))N P
+)))P Q
+;))Q R
+using** 
+(** 
+MemoryStream** #
+ms**$ &
+=**' (
+new**) ,
+MemoryStream**- 9
+(**9 :
+)**: ;
+)**; <
+{++ 
+using,, 
+(,, 
+CryptoStream,, '
+cs,,( *
+=,,+ ,
+new,,- 0
+CryptoStream,,1 =
+(,,= >
+ms,,> @
+,,,@ A
+	encryptor,,B K
+,,,K L
+CryptoStreamMode,,M ]
+.,,] ^
+Write,,^ c
+),,c d
+),,d e
+{-- 
+using.. 
+(.. 
+StreamWriter.. +
+sw.., .
+=../ 0
+new..1 4
+StreamWriter..5 A
+(..A B
+cs..B D
+)..D E
+)..E F
+{// 
+sw00 
+.00 
+Write00 $
+(00$ %
+CIPHER_INPUT00% 1
+)001 2
+;002 3
+}11 
+	encrypted22 !
+=22" #
+ms22$ &
+.22& '
+ToArray22' .
+(22. /
+)22/ 0
+;220 1
+}33 
+}44 
+}55 
+string66 
+	encPhrase66 
+=66 
+System66 %
+.66% &
+Text66& *
+.66* +
+Encoding66+ 3
+.663 4
+UTF8664 8
+.668 9
+	GetString669 B
+(66B C
+	encrypted66C L
+)66L M
+;66M N
 IO77 
 .77 
 	WriteLine77 
@@ -9150,275 +10591,307 @@ staticFiveZZ 
 ;BB0 1
 }CC 	
 elseDD 
-{EE 	
-stringFF 
-	plainTextFF 
-=FF 
-$strFF .
-;FF. /
+{EE 	
+constFF 
+stringFF 
+CIPHER_INPUTFF %
+=FF& '
+$strFF( 7
+;FF7 8
 byteGG 
 [GG 
 ]GG 
 	encryptedGG 
 ;GG 
 usingHH 
-(HH 
-AesHH 
-aesAlgHH 
-=HH 
-AesHH  #
-.HH# $
-CreateHH$ *
-(HH* +
-)HH+ ,
-)HH, -
+(HH $
+AesCryptoServiceProviderHH +
+aesHH, /
+=HH0 1
+newHH2 5$
+AesCryptoServiceProviderHH6 N
+(HHN O
+)HHO P
+)HHP Q
 {II 
 ICryptoTransformKK  
 	encryptorKK! *
-=KK+ ,
-aesAlgKK- 3
-.KK3 4
-CreateEncryptorKK4 C
-(KKC D
-aesAlgKKD J
-.KKJ K
-KeyKKK N
-,KKN O
-aesAlgKKP V
-.KKV W
-IVKKW Y
-)KKY Z
-;KKZ [
-usingMM 
-(MM 
-MemoryStreamMM #
-	msEncryptMM$ -
-=MM. /
-newMM0 3
-MemoryStreamMM4 @
-(MM@ A
-)MMA B
-)MMB C
-{NN 
-usingOO 
-(OO 
-CryptoStreamOO '
-	csEncryptOO( 1
-=OO2 3
-newOO4 7
-CryptoStreamOO8 D
-(OOD E
-	msEncryptOOE N
-,OON O
-	encryptorOOP Y
-,OOY Z
-CryptoStreamModeOO[ k
-.OOk l
-WriteOOl q
-)OOq r
-)OOr s
-{PP 
-usingQQ 
-(QQ 
-StreamWriterQQ +
-	swEncryptQQ, 5
-=QQ6 7
-newQQ8 ;
-StreamWriterQQ< H
-(QQH I
-	csEncryptQQI R
-)QQR S
-)QQS T
-{RR 
-	swEncryptTT %
-.TT% &
-WriteTT& +
-(TT+ ,
-	plainTextTT, 5
-)TT5 6
-;TT6 7
-}UU 
-	encryptedVV !
-=VV" #
-	msEncryptVV$ -
-.VV- .
-ToArrayVV. 5
-(VV5 6
-)VV6 7
-;VV7 8
-}WW 
-}XX 
-}YY 
-IOZZ 
-.ZZ 
-	WriteLineZZ 
-(ZZ 
-IOZZ 
-.ZZ 
-ToHexZZ !
-(ZZ! "
-	encryptedZZ" +
-)ZZ+ ,
-)ZZ, -
-;ZZ- .
-}[[ 	
-}\\ 
-private__ 
-void__ 
-Good2__ 
-(__ 
-)__ 
-{`` 
-ifaa 
+=KK+ ,
+aesKK- 0
+.KK0 1
+CreateEncryptorKK1 @
+(KK@ A
+aesKKA D
+.KKD E
+KeyKKE H
+,KKH I
+aesKKJ M
+.KKM N
+IVKKN P
+)KKP Q
+;KKQ R
+usingLL 
+(LL 
+MemoryStreamLL #
+msLL$ &
+=LL' (
+newLL) ,
+MemoryStreamLL- 9
+(LL9 :
+)LL: ;
+)LL; <
+{MM 
+usingNN 
+(NN 
+CryptoStreamNN '
+csNN( *
+=NN+ ,
+newNN- 0
+CryptoStreamNN1 =
+(NN= >
+msNN> @
+,NN@ A
+	encryptorNNB K
+,NNK L
+CryptoStreamModeNNM ]
+.NN] ^
+WriteNN^ c
+)NNc d
+)NNd e
+{OO 
+usingPP 
+(PP 
+StreamWriterPP +
+swPP, .
+=PP/ 0
+newPP1 4
+StreamWriterPP5 A
+(PPA B
+csPPB D
+)PPD E
+)PPE F
+{QQ 
+swRR 
+.RR 
+WriteRR $
+(RR$ %
+CIPHER_INPUTRR% 1
+)RR1 2
+;RR2 3
+}SS 
+	encryptedTT !
+=TT" #
+msTT$ &
+.TT& '
+ToArrayTT' .
+(TT. /
+)TT/ 0
+;TT0 1
+}UU 
+}VV 
+}WW 
+stringXX 
+	encPhraseXX 
+=XX 
+SystemXX %
+.XX% &
+TextXX& *
+.XX* +
+EncodingXX+ 3
+.XX3 4
+UTF8XX4 8
+.XX8 9
+	GetStringXX9 B
+(XXB C
+	encryptedXXC L
+)XXL M
+;XXM N
+IOYY 
+.YY 
+	WriteLineYY 
+(YY 
+IOYY 
+.YY 
+ToHexYY !
+(YY! "
+	encryptedYY" +
+)YY+ ,
+)YY, -
+;YY- .
+}ZZ 	
+}[[ 
+private^^ 
+void^^ 
+Good2^^ 
+(^^ 
+)^^ 
+{__ 
+if`` 
 
-(aa 
-privateFiveaa 
-==aa 
-$numaa 
-)aa 
-{bb 	
-stringcc 
-	plainTextcc 
-=cc 
-$strcc .
-;cc. /
-bytedd 
-[dd 
-]dd 
-	encrypteddd 
-;dd 
-usingee 
-(ee 
-Aesee 
-aesAlgee 
-=ee 
-Aesee  #
-.ee# $
-Createee$ *
-(ee* +
-)ee+ ,
-)ee, -
-{ff 
-ICryptoTransformhh  
-	encryptorhh! *
-=hh+ ,
-aesAlghh- 3
-.hh3 4
-CreateEncryptorhh4 C
-(hhC D
-aesAlghhD J
-.hhJ K
-KeyhhK N
-,hhN O
-aesAlghhP V
-.hhV W
-IVhhW Y
-)hhY Z
-;hhZ [
-usingjj 
-(jj 
-MemoryStreamjj #
-	msEncryptjj$ -
-=jj. /
-newjj0 3
-MemoryStreamjj4 @
-(jj@ A
-)jjA B
-)jjB C
-{kk 
-usingll 
-(ll 
-CryptoStreamll '
-	csEncryptll( 1
-=ll2 3
-newll4 7
-CryptoStreamll8 D
-(llD E
-	msEncryptllE N
-,llN O
-	encryptorllP Y
-,llY Z
-CryptoStreamModell[ k
-.llk l
-Writelll q
-)llq r
-)llr s
-{mm 
-usingnn 
-(nn 
-StreamWriternn +
-	swEncryptnn, 5
-=nn6 7
-newnn8 ;
-StreamWriternn< H
-(nnH I
-	csEncryptnnI R
-)nnR S
-)nnS T
-{oo 
-	swEncryptqq %
-.qq% &
-Writeqq& +
-(qq+ ,
-	plainTextqq, 5
-)qq5 6
-;qq6 7
-}rr 
-	encryptedss !
-=ss" #
-	msEncryptss$ -
-.ss- .
-ToArrayss. 5
-(ss5 6
-)ss6 7
-;ss7 8
-}tt 
-}uu 
-}vv 
-IOww 
-.ww 
-	WriteLineww 
-(ww 
-IOww 
-.ww 
-ToHexww !
-(ww! "
-	encryptedww" +
-)ww+ ,
-)ww, -
-;ww- .
-}xx 	
-}yy 
-public{{ 
+(`` 
+privateFive`` 
+==`` 
+$num`` 
+)`` 
+{aa 	
+constbb 
+stringbb 
+CIPHER_INPUTbb %
+=bb& '
+$strbb( 7
+;bb7 8
+bytecc 
+[cc 
+]cc 
+	encryptedcc 
+;cc 
+usingdd 
+(dd $
+AesCryptoServiceProviderdd +
+aesdd, /
+=dd0 1
+newdd2 5$
+AesCryptoServiceProviderdd6 N
+(ddN O
+)ddO P
+)ddP Q
+{ee 
+ICryptoTransformgg  
+	encryptorgg! *
+=gg+ ,
+aesgg- 0
+.gg0 1
+CreateEncryptorgg1 @
+(gg@ A
+aesggA D
+.ggD E
+KeyggE H
+,ggH I
+aesggJ M
+.ggM N
+IVggN P
+)ggP Q
+;ggQ R
+usinghh 
+(hh 
+MemoryStreamhh #
+mshh$ &
+=hh' (
+newhh) ,
+MemoryStreamhh- 9
+(hh9 :
+)hh: ;
+)hh; <
+{ii 
+usingjj 
+(jj 
+CryptoStreamjj '
+csjj( *
+=jj+ ,
+newjj- 0
+CryptoStreamjj1 =
+(jj= >
+msjj> @
+,jj@ A
+	encryptorjjB K
+,jjK L
+CryptoStreamModejjM ]
+.jj] ^
+Writejj^ c
+)jjc d
+)jjd e
+{kk 
+usingll 
+(ll 
+StreamWriterll +
+swll, .
+=ll/ 0
+newll1 4
+StreamWriterll5 A
+(llA B
+csllB D
+)llD E
+)llE F
+{mm 
+swnn 
+.nn 
+Writenn $
+(nn$ %
+CIPHER_INPUTnn% 1
+)nn1 2
+;nn2 3
+}oo 
+	encryptedpp !
+=pp" #
+mspp$ &
+.pp& '
+ToArraypp' .
+(pp. /
+)pp/ 0
+;pp0 1
+}qq 
+}rr 
+}ss 
+stringtt 
+	encPhrasett 
+=tt 
+Systemtt %
+.tt% &
+Texttt& *
+.tt* +
+Encodingtt+ 3
+.tt3 4
+UTF8tt4 8
+.tt8 9
+	GetStringtt9 B
+(ttB C
+	encryptedttC L
+)ttL M
+;ttM N
+IOuu 
+.uu 
+	WriteLineuu 
+(uu 
+IOuu 
+.uu 
+ToHexuu !
+(uu! "
+	encrypteduu" +
+)uu+ ,
+)uu, -
+;uu- .
+}vv 	
+}ww 
+publicyy 
 
-override{{ 
-void{{ 
-Good{{ 
-({{ 
-){{ 
-{|| 
-Good1}} 
-(}} 
-)}} 
-;}} 
-Good2~~ 
-(~~ 
-)~~ 
-;~~ 
-} 
-} 
-}‚‚ „>
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_08.cs
+overrideyy 
+voidyy 
+Goodyy 
+(yy 
+)yy 
+{zz 
+Good1{{ 
+({{ 
+){{ 
+;{{ 
+Good2|| 
+(|| 
+)|| 
+;|| 
+}}} 
+} 
+}€€ ÜD
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_08.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_08 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_08 &
+:' (
+AbstractTestCase) 9
 { 
 private 
 static 
@@ -9457,98 +10930,121 @@ staticFiveZZ 
 (** 
 )**  
 )**  !
-{++ 	
-string,, 
-	plainText,, 
-=,, 
-$str,, .
-;,,. /
+{++ 	
+const,, 
+string,, 
+CIPHER_INPUT,, %
+=,,& '
+$str,,( 7
+;,,7 8
 byte-- 
 [-- 
 ]-- 
 	encrypted-- 
 ;-- 
 using.. 
-(.. 
-Aes.. 
-aesAlg.. 
-=.. 
-Aes..  #
-...# $
-Create..$ *
-(..* +
-)..+ ,
-).., -
+(.. $
+DESCryptoServiceProvider.. +
+des.., /
+=..0 1
+new..2 5$
+DESCryptoServiceProvider..6 N
+(..N O
+)..O P
+)..P Q
 {// 
 ICryptoTransform11  
 	encryptor11! *
-=11+ ,
-aesAlg11- 3
-.113 4
-CreateEncryptor114 C
-(11C D
-aesAlg11D J
-.11J K
-Key11K N
-,11N O
-aesAlg11P V
-.11V W
-IV11W Y
-)11Y Z
-;11Z [
-using33 
-(33 
-MemoryStream33 #
-	msEncrypt33$ -
-=33. /
-new330 3
-MemoryStream334 @
-(33@ A
-)33A B
-)33B C
-{44 
-using55 
-(55 
-CryptoStream55 '
-	csEncrypt55( 1
-=552 3
-new554 7
-CryptoStream558 D
-(55D E
-	msEncrypt55E N
-,55N O
-	encryptor55P Y
-,55Y Z
-CryptoStreamMode55[ k
-.55k l
-Write55l q
-)55q r
-)55r s
-{66 
-using77 
-(77 
-StreamWriter77 +
-	swEncrypt77, 5
-=776 7
-new778 ;
-StreamWriter77< H
-(77H I
-	csEncrypt77I R
-)77R S
-)77S T
-{88 
-}:: 
-	encrypted;; !
-=;;" #
-	msEncrypt;;$ -
-.;;- .
-ToArray;;. 5
-(;;5 6
-);;6 7
-;;;7 8
-}<< 
-}== 
-}>> 
+=11+ ,
+des11- 0
+.110 1
+CreateEncryptor111 @
+(11@ A
+des11A D
+.11D E
+Key11E H
+,11H I
+des11J M
+.11M N
+IV11N P
+)11P Q
+;11Q R
+using22 
+(22 
+MemoryStream22 #
+ms22$ &
+=22' (
+new22) ,
+MemoryStream22- 9
+(229 :
+)22: ;
+)22; <
+{33 
+using44 
+(44 
+CryptoStream44 '
+cs44( *
+=44+ ,
+new44- 0
+CryptoStream441 =
+(44= >
+ms44> @
+,44@ A
+	encryptor44B K
+,44K L
+CryptoStreamMode44M ]
+.44] ^
+Write44^ c
+)44c d
+)44d e
+{55 
+using66 
+(66 
+StreamWriter66 +
+sw66, .
+=66/ 0
+new661 4
+StreamWriter665 A
+(66A B
+cs66B D
+)66D E
+)66E F
+{77 
+sw88 
+.88 
+Write88 $
+(88$ %
+CIPHER_INPUT88% 1
+)881 2
+;882 3
+}99 
+	encrypted:: !
+=::" #
+ms::$ &
+.::& '
+ToArray::' .
+(::. /
+)::/ 0
+;::0 1
+};; 
+}<< 
+}== 
+string>> 
+	encPhrase>> 
+=>> 
+System>> %
+.>>% &
+Text>>& *
+.>>* +
+Encoding>>+ 3
+.>>3 4
+UTF8>>4 8
+.>>8 9
+	GetString>>9 B
+(>>B C
+	encrypted>>C L
+)>>L M
+;>>M N
 IO?? 
 .?? 
 	WriteLine?? 
@@ -9586,293 +11082,323 @@ staticFiveZZ 
 ;JJ0 1
 }KK 	
 elseLL 
-{MM 	
-stringNN 
-	plainTextNN 
-=NN 
-$strNN .
-;NN. /
+{MM 	
+constNN 
+stringNN 
+CIPHER_INPUTNN %
+=NN& '
+$strNN( 7
+;NN7 8
 byteOO 
 [OO 
 ]OO 
 	encryptedOO 
 ;OO 
 usingPP 
-(PP 
-AesPP 
-aesAlgPP 
-=PP 
-AesPP  #
-.PP# $
-CreatePP$ *
-(PP* +
-)PP+ ,
-)PP, -
+(PP $
+AesCryptoServiceProviderPP +
+aesPP, /
+=PP0 1
+newPP2 5$
+AesCryptoServiceProviderPP6 N
+(PPN O
+)PPO P
+)PPP Q
 {QQ 
 ICryptoTransformSS  
 	encryptorSS! *
-=SS+ ,
-aesAlgSS- 3
-.SS3 4
-CreateEncryptorSS4 C
-(SSC D
-aesAlgSSD J
-.SSJ K
-KeySSK N
-,SSN O
-aesAlgSSP V
-.SSV W
-IVSSW Y
-)SSY Z
-;SSZ [
-usingUU 
-(UU 
-MemoryStreamUU #
-	msEncryptUU$ -
-=UU. /
-newUU0 3
-MemoryStreamUU4 @
-(UU@ A
-)UUA B
-)UUB C
-{VV 
-usingWW 
-(WW 
-CryptoStreamWW '
-	csEncryptWW( 1
-=WW2 3
-newWW4 7
-CryptoStreamWW8 D
-(WWD E
-	msEncryptWWE N
-,WWN O
-	encryptorWWP Y
-,WWY Z
-CryptoStreamModeWW[ k
-.WWk l
-WriteWWl q
-)WWq r
-)WWr s
-{XX 
-usingYY 
-(YY 
-StreamWriterYY +
-	swEncryptYY, 5
-=YY6 7
-newYY8 ;
-StreamWriterYY< H
-(YYH I
-	csEncryptYYI R
-)YYR S
-)YYS T
-{ZZ 
-	swEncrypt\\ %
-.\\% &
-Write\\& +
-(\\+ ,
-	plainText\\, 5
-)\\5 6
-;\\6 7
-}]] 
-	encrypted^^ !
-=^^" #
-	msEncrypt^^$ -
-.^^- .
-ToArray^^. 5
-(^^5 6
-)^^6 7
-;^^7 8
-}__ 
-}`` 
-}aa 
-IObb 
-.bb 
-	WriteLinebb 
-(bb 
-IObb 
-.bb 
-ToHexbb !
-(bb! "
-	encryptedbb" +
-)bb+ ,
-)bb, -
-;bb- .
-}cc 	
-}dd 
-privategg 
-voidgg 
-Good2gg 
-(gg 
-)gg 
-{hh 
-ifii 
+=SS+ ,
+aesSS- 0
+.SS0 1
+CreateEncryptorSS1 @
+(SS@ A
+aesSSA D
+.SSD E
+KeySSE H
+,SSH I
+aesSSJ M
+.SSM N
+IVSSN P
+)SSP Q
+;SSQ R
+usingTT 
+(TT 
+MemoryStreamTT #
+msTT$ &
+=TT' (
+newTT) ,
+MemoryStreamTT- 9
+(TT9 :
+)TT: ;
+)TT; <
+{UU 
+usingVV 
+(VV 
+CryptoStreamVV '
+csVV( *
+=VV+ ,
+newVV- 0
+CryptoStreamVV1 =
+(VV= >
+msVV> @
+,VV@ A
+	encryptorVVB K
+,VVK L
+CryptoStreamModeVVM ]
+.VV] ^
+WriteVV^ c
+)VVc d
+)VVd e
+{WW 
+usingXX 
+(XX 
+StreamWriterXX +
+swXX, .
+=XX/ 0
+newXX1 4
+StreamWriterXX5 A
+(XXA B
+csXXB D
+)XXD E
+)XXE F
+{YY 
+swZZ 
+.ZZ 
+WriteZZ $
+(ZZ$ %
+CIPHER_INPUTZZ% 1
+)ZZ1 2
+;ZZ2 3
+}[[ 
+	encrypted\\ !
+=\\" #
+ms\\$ &
+.\\& '
+ToArray\\' .
+(\\. /
+)\\/ 0
+;\\0 1
+}]] 
+}^^ 
+}__ 
+string`` 
+	encPhrase`` 
+=`` 
+System`` %
+.``% &
+Text``& *
+.``* +
+Encoding``+ 3
+.``3 4
+UTF8``4 8
+.``8 9
+	GetString``9 B
+(``B C
+	encrypted``C L
+)``L M
+;``M N
+IOaa 
+.aa 
+	WriteLineaa 
+(aa 
+IOaa 
+.aa 
+ToHexaa !
+(aa! "
+	encryptedaa" +
+)aa+ ,
+)aa, -
+;aa- .
+}bb 	
+}cc 
+privateff 
+voidff 
+Good2ff 
+(ff 
+)ff 
+{gg 
+ifhh 
 
-(ii 
-PrivateReturnsTrueii 
-(ii 
-)ii  
-)ii  !
-{jj 	
-stringkk 
-	plainTextkk 
-=kk 
-$strkk .
-;kk. /
-bytell 
-[ll 
-]ll 
-	encryptedll 
-;ll 
-usingmm 
-(mm 
-Aesmm 
-aesAlgmm 
-=mm 
-Aesmm  #
-.mm# $
-Createmm$ *
-(mm* +
-)mm+ ,
-)mm, -
-{nn 
-ICryptoTransformpp  
-	encryptorpp! *
-=pp+ ,
-aesAlgpp- 3
-.pp3 4
-CreateEncryptorpp4 C
-(ppC D
-aesAlgppD J
-.ppJ K
-KeyppK N
-,ppN O
-aesAlgppP V
-.ppV W
-IVppW Y
-)ppY Z
-;ppZ [
-usingrr 
-(rr 
-MemoryStreamrr #
-	msEncryptrr$ -
-=rr. /
-newrr0 3
-MemoryStreamrr4 @
-(rr@ A
-)rrA B
-)rrB C
-{ss 
-usingtt 
-(tt 
-CryptoStreamtt '
-	csEncrypttt( 1
-=tt2 3
-newtt4 7
-CryptoStreamtt8 D
-(ttD E
-	msEncryptttE N
-,ttN O
-	encryptorttP Y
-,ttY Z
-CryptoStreamModett[ k
-.ttk l
-Writettl q
-)ttq r
-)ttr s
-{uu 
-usingvv 
-(vv 
-StreamWritervv +
-	swEncryptvv, 5
-=vv6 7
-newvv8 ;
-StreamWritervv< H
-(vvH I
-	csEncryptvvI R
-)vvR S
-)vvS T
-{ww 
-	swEncryptyy %
-.yy% &
-Writeyy& +
-(yy+ ,
-	plainTextyy, 5
-)yy5 6
-;yy6 7
-}zz 
-	encrypted{{ !
-={{" #
-	msEncrypt{{$ -
-.{{- .
-ToArray{{. 5
-({{5 6
-){{6 7
-;{{7 8
-}|| 
-}}} 
-}~~ 
-IO 
-. 
-	WriteLine 
-( 
-IO 
-. 
-ToHex !
-(! "
-	encrypted" +
-)+ ,
-), -
-;- .
-}
-€€ 	
-}
- 
+(hh 
+PrivateReturnsTruehh 
+(hh 
+)hh  
+)hh  !
+{ii 	
+constjj 
+stringjj 
+CIPHER_INPUTjj %
+=jj& '
+$strjj( 7
+;jj7 8
+bytekk 
+[kk 
+]kk 
+	encryptedkk 
+;kk 
+usingll 
+(ll $
+AesCryptoServiceProviderll +
+aesll, /
+=ll0 1
+newll2 5$
+AesCryptoServiceProviderll6 N
+(llN O
+)llO P
+)llP Q
+{mm 
+ICryptoTransformoo  
+	encryptoroo! *
+=oo+ ,
+aesoo- 0
+.oo0 1
+CreateEncryptoroo1 @
+(oo@ A
+aesooA D
+.ooD E
+KeyooE H
+,ooH I
+aesooJ M
+.ooM N
+IVooN P
+)ooP Q
+;ooQ R
+usingpp 
+(pp 
+MemoryStreampp #
+mspp$ &
+=pp' (
+newpp) ,
+MemoryStreampp- 9
+(pp9 :
+)pp: ;
+)pp; <
+{qq 
+usingrr 
+(rr 
+CryptoStreamrr '
+csrr( *
+=rr+ ,
+newrr- 0
+CryptoStreamrr1 =
+(rr= >
+msrr> @
+,rr@ A
+	encryptorrrB K
+,rrK L
+CryptoStreamModerrM ]
+.rr] ^
+Writerr^ c
+)rrc d
+)rrd e
+{ss 
+usingtt 
+(tt 
+StreamWritertt +
+swtt, .
+=tt/ 0
+newtt1 4
+StreamWritertt5 A
+(ttA B
+csttB D
+)ttD E
+)ttE F
+{uu 
+swvv 
+.vv 
+Writevv $
+(vv$ %
+CIPHER_INPUTvv% 1
+)vv1 2
+;vv2 3
+}ww 
+	encryptedxx !
+=xx" #
+msxx$ &
+.xx& '
+ToArrayxx' .
+(xx. /
+)xx/ 0
+;xx0 1
+}yy 
+}zz 
+}{{ 
+string|| 
+	encPhrase|| 
+=|| 
+System|| %
+.||% &
+Text||& *
+.||* +
+Encoding||+ 3
+.||3 4
+UTF8||4 8
+.||8 9
+	GetString||9 B
+(||B C
+	encrypted||C L
+)||L M
+;||M N
+IO}} 
+.}} 
+	WriteLine}} 
+(}} 
+IO}} 
+.}} 
+ToHex}} !
+(}}! "
+	encrypted}}" +
+)}}+ ,
+)}}, -
+;}}- .
+}~~ 	
+} 
 public
-ƒƒ 
+ 
 
 override
-ƒƒ 
+ 
 void
-ƒƒ 
+ 
 Good
-ƒƒ 
+ 
 (
-ƒƒ 
+ 
 )
-ƒƒ 
+ 
 {
-„„ 
+‚‚ 
 Good1
-…… 
+ƒƒ 
 (
-…… 
+ƒƒ 
 )
-…… 
+ƒƒ 
 ;
-…… 
+ƒƒ 
 Good2
-†† 
+„„ 
 (
-†† 
+„„ 
 )
-†† 
+„„ 
 ;
-†† 
+„„ 
 }
-‡‡ 
-}‰‰ 
-}ŠŠ Ë:
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_09.cs
+…… 
+}‡‡ 
+}ˆˆ §A
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_09.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_09 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_09 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -9889,98 +11415,121 @@ staticFiveZZ 
 .  
 STATIC_READONLY_TRUE #
 )# $
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -10018,275 +11567,307 @@ staticFiveZZ 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-IO\\ 
-.\\  
-STATIC_READONLY_TRUE\\ #
-)\\# $
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+([[ 
+IO[[ 
+.[[  
+STATIC_READONLY_TRUE[[ #
+)[[# $
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} ­:
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_10.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ ‰A
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_10.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_10 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_10 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -10304,98 +11885,121 @@ staticFiveZZ 
 
 staticTrue 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -10433,276 +12037,308 @@ staticTrue 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-IO\\ 
-.\\ 
+([[ 
+IO[[ 
+.[[ 
 
-staticTrue\\ 
-)\\ 
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+staticTrue[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} œ;
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_11.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ øA
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_11.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_11 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_11 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -10721,98 +12357,121 @@ staticTrue\\ 
 (  !
 )! "
 )" #
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -10852,277 +12511,309 @@ staticTrue\\ 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-IO\\ 
-.\\ 
-StaticReturnsTrue\\  
-(\\  !
-)\\! "
-)\\" #
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+([[ 
+IO[[ 
+.[[ 
+StaticReturnsTrue[[  
+([[  !
+)[[! "
+)[[" #
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} ëG
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_12.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ ¾P
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_12.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_12 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_12 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -11141,98 +12832,121 @@ staticTrue\\ 
 (' (
 )( )
 )) *
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -11247,412 +12961,446 @@ staticTrue\\ 
 ;22- .
 }33 	
 else44 
-{55 	
-string66 
-	plainText66 
-=66 
-$str66 .
-;66. /
+{55 	
+const66 
+string66 
+CIPHER_INPUT66 %
+=66& '
+$str66( 7
+;667 8
 byte77 
 [77 
 ]77 
 	encrypted77 
 ;77 
 using88 
-(88 
-Aes88 
-aesAlg88 
-=88 
-Aes88  #
-.88# $
-Create88$ *
-(88* +
-)88+ ,
-)88, -
+(88 $
+AesCryptoServiceProvider88 +
+aes88, /
+=880 1
+new882 5$
+AesCryptoServiceProvider886 N
+(88N O
+)88O P
+)88P Q
 {99 
 ICryptoTransform;;  
 	encryptor;;! *
-=;;+ ,
-aesAlg;;- 3
-.;;3 4
-CreateEncryptor;;4 C
-(;;C D
-aesAlg;;D J
-.;;J K
-Key;;K N
-,;;N O
-aesAlg;;P V
-.;;V W
-IV;;W Y
-);;Y Z
-;;;Z [
-using== 
-(== 
-MemoryStream== #
-	msEncrypt==$ -
-===. /
-new==0 3
-MemoryStream==4 @
-(==@ A
-)==A B
-)==B C
-{>> 
-using?? 
-(?? 
-CryptoStream?? '
-	csEncrypt??( 1
-=??2 3
-new??4 7
-CryptoStream??8 D
-(??D E
-	msEncrypt??E N
-,??N O
-	encryptor??P Y
-,??Y Z
-CryptoStreamMode??[ k
-.??k l
-Write??l q
-)??q r
-)??r s
-{@@ 
-usingAA 
-(AA 
-StreamWriterAA +
-	swEncryptAA, 5
-=AA6 7
-newAA8 ;
-StreamWriterAA< H
-(AAH I
-	csEncryptAAI R
-)AAR S
-)AAS T
-{BB 
-	swEncryptDD %
-.DD% &
-WriteDD& +
-(DD+ ,
-	plainTextDD, 5
-)DD5 6
-;DD6 7
-}EE 
-	encryptedFF !
-=FF" #
-	msEncryptFF$ -
-.FF- .
-ToArrayFF. 5
-(FF5 6
-)FF6 7
-;FF7 8
-}GG 
-}HH 
-}II 
-IOJJ 
-.JJ 
-	WriteLineJJ 
-(JJ 
-IOJJ 
-.JJ 
-ToHexJJ !
-(JJ! "
-	encryptedJJ" +
-)JJ+ ,
-)JJ, -
-;JJ- .
-}KK 	
-}LL 
-privatePP 
-voidPP 
-Good1PP 
-(PP 
-)PP 
-{QQ 
-ifRR 
+=;;+ ,
+aes;;- 0
+.;;0 1
+CreateEncryptor;;1 @
+(;;@ A
+aes;;A D
+.;;D E
+Key;;E H
+,;;H I
+aes;;J M
+.;;M N
+IV;;N P
+);;P Q
+;;;Q R
+using<< 
+(<< 
+MemoryStream<< #
+ms<<$ &
+=<<' (
+new<<) ,
+MemoryStream<<- 9
+(<<9 :
+)<<: ;
+)<<; <
+{== 
+using>> 
+(>> 
+CryptoStream>> '
+cs>>( *
+=>>+ ,
+new>>- 0
+CryptoStream>>1 =
+(>>= >
+ms>>> @
+,>>@ A
+	encryptor>>B K
+,>>K L
+CryptoStreamMode>>M ]
+.>>] ^
+Write>>^ c
+)>>c d
+)>>d e
+{?? 
+using@@ 
+(@@ 
+StreamWriter@@ +
+sw@@, .
+=@@/ 0
+new@@1 4
+StreamWriter@@5 A
+(@@A B
+cs@@B D
+)@@D E
+)@@E F
+{AA 
+swBB 
+.BB 
+WriteBB $
+(BB$ %
+CIPHER_INPUTBB% 1
+)BB1 2
+;BB2 3
+}CC 
+	encryptedDD !
+=DD" #
+msDD$ &
+.DD& '
+ToArrayDD' .
+(DD. /
+)DD/ 0
+;DD0 1
+}EE 
+}FF 
+}GG 
+stringHH 
+	encPhraseHH 
+=HH 
+SystemHH %
+.HH% &
+TextHH& *
+.HH* +
+EncodingHH+ 3
+.HH3 4
+UTF8HH4 8
+.HH8 9
+	GetStringHH9 B
+(HHB C
+	encryptedHHC L
+)HHL M
+;HHM N
+IOII 
+.II 
+	WriteLineII 
+(II 
+IOII 
+.II 
+ToHexII !
+(II! "
+	encryptedII" +
+)II+ ,
+)II, -
+;II- .
+}JJ 	
+}KK 
+privateOO 
+voidOO 
+Good1OO 
+(OO 
+)OO 
+{PP 
+ifQQ 
 
-(RR 
-IORR 
-.RR $
-StaticReturnsTrueOrFalseRR '
-(RR' (
-)RR( )
-)RR) *
-{SS 	
-stringTT 
-	plainTextTT 
-=TT 
-$strTT .
-;TT. /
-byteUU 
-[UU 
-]UU 
-	encryptedUU 
-;UU 
-usingVV 
-(VV 
-AesVV 
-aesAlgVV 
-=VV 
-AesVV  #
-.VV# $
-CreateVV$ *
-(VV* +
-)VV+ ,
-)VV, -
-{WW 
-ICryptoTransformYY  
-	encryptorYY! *
-=YY+ ,
-aesAlgYY- 3
-.YY3 4
-CreateEncryptorYY4 C
-(YYC D
-aesAlgYYD J
-.YYJ K
-KeyYYK N
-,YYN O
-aesAlgYYP V
-.YYV W
-IVYYW Y
-)YYY Z
-;YYZ [
-using[[ 
-([[ 
-MemoryStream[[ #
-	msEncrypt[[$ -
-=[[. /
-new[[0 3
-MemoryStream[[4 @
-([[@ A
-)[[A B
-)[[B C
-{\\ 
-using]] 
-(]] 
-CryptoStream]] '
-	csEncrypt]]( 1
-=]]2 3
-new]]4 7
-CryptoStream]]8 D
-(]]D E
-	msEncrypt]]E N
-,]]N O
-	encryptor]]P Y
-,]]Y Z
-CryptoStreamMode]][ k
-.]]k l
-Write]]l q
-)]]q r
-)]]r s
-{^^ 
-using__ 
-(__ 
-StreamWriter__ +
-	swEncrypt__, 5
-=__6 7
-new__8 ;
-StreamWriter__< H
-(__H I
-	csEncrypt__I R
-)__R S
-)__S T
-{`` 
-	swEncryptbb %
-.bb% &
-Writebb& +
-(bb+ ,
-	plainTextbb, 5
-)bb5 6
-;bb6 7
-}cc 
-	encrypteddd !
-=dd" #
-	msEncryptdd$ -
-.dd- .
-ToArraydd. 5
-(dd5 6
-)dd6 7
-;dd7 8
-}ee 
-}ff 
-}gg 
-IOhh 
-.hh 
-	WriteLinehh 
-(hh 
-IOhh 
-.hh 
-ToHexhh !
-(hh! "
-	encryptedhh" +
-)hh+ ,
-)hh, -
-;hh- .
-}ii 	
-elsejj 
-{kk 	
-stringll 
-	plainTextll 
-=ll 
-$strll .
-;ll. /
-bytemm 
-[mm 
-]mm 
-	encryptedmm 
-;mm 
-usingnn 
-(nn 
-Aesnn 
-aesAlgnn 
-=nn 
-Aesnn  #
-.nn# $
-Createnn$ *
-(nn* +
-)nn+ ,
-)nn, -
-{oo 
-ICryptoTransformqq  
-	encryptorqq! *
-=qq+ ,
-aesAlgqq- 3
-.qq3 4
-CreateEncryptorqq4 C
-(qqC D
-aesAlgqqD J
-.qqJ K
-KeyqqK N
-,qqN O
-aesAlgqqP V
-.qqV W
-IVqqW Y
-)qqY Z
-;qqZ [
-usingss 
-(ss 
-MemoryStreamss #
-	msEncryptss$ -
-=ss. /
-newss0 3
-MemoryStreamss4 @
-(ss@ A
-)ssA B
-)ssB C
-{tt 
-usinguu 
-(uu 
-CryptoStreamuu '
-	csEncryptuu( 1
-=uu2 3
-newuu4 7
-CryptoStreamuu8 D
-(uuD E
-	msEncryptuuE N
-,uuN O
-	encryptoruuP Y
-,uuY Z
-CryptoStreamModeuu[ k
-.uuk l
-Writeuul q
-)uuq r
-)uur s
-{vv 
-usingww 
-(ww 
-StreamWriterww +
-	swEncryptww, 5
-=ww6 7
-newww8 ;
-StreamWriterww< H
-(wwH I
-	csEncryptwwI R
-)wwR S
-)wwS T
-{xx 
-	swEncryptzz %
-.zz% &
-Writezz& +
-(zz+ ,
-	plainTextzz, 5
-)zz5 6
-;zz6 7
-}{{ 
-	encrypted|| !
-=||" #
-	msEncrypt||$ -
-.||- .
-ToArray||. 5
-(||5 6
-)||6 7
-;||7 8
-}}} 
-}~~ 
-} 
-IO
-€€ 
-.
-€€ 
-	WriteLine
-€€ 
-(
-€€ 
-IO
-€€ 
-.
-€€ 
-ToHex
-€€ !
-(
-€€! "
-	encrypted
-€€" +
-)
-€€+ ,
-)
-€€, -
-;
-€€- .
-}
- 	
-}
-‚‚ 
+(QQ 
+IOQQ 
+.QQ $
+StaticReturnsTrueOrFalseQQ '
+(QQ' (
+)QQ( )
+)QQ) *
+{RR 	
+constSS 
+stringSS 
+CIPHER_INPUTSS %
+=SS& '
+$strSS( 7
+;SS7 8
+byteTT 
+[TT 
+]TT 
+	encryptedTT 
+;TT 
+usingUU 
+(UU $
+AesCryptoServiceProviderUU +
+aesUU, /
+=UU0 1
+newUU2 5$
+AesCryptoServiceProviderUU6 N
+(UUN O
+)UUO P
+)UUP Q
+{VV 
+ICryptoTransformXX  
+	encryptorXX! *
+=XX+ ,
+aesXX- 0
+.XX0 1
+CreateEncryptorXX1 @
+(XX@ A
+aesXXA D
+.XXD E
+KeyXXE H
+,XXH I
+aesXXJ M
+.XXM N
+IVXXN P
+)XXP Q
+;XXQ R
+usingYY 
+(YY 
+MemoryStreamYY #
+msYY$ &
+=YY' (
+newYY) ,
+MemoryStreamYY- 9
+(YY9 :
+)YY: ;
+)YY; <
+{ZZ 
+using[[ 
+([[ 
+CryptoStream[[ '
+cs[[( *
+=[[+ ,
+new[[- 0
+CryptoStream[[1 =
+([[= >
+ms[[> @
+,[[@ A
+	encryptor[[B K
+,[[K L
+CryptoStreamMode[[M ]
+.[[] ^
+Write[[^ c
+)[[c d
+)[[d e
+{\\ 
+using]] 
+(]] 
+StreamWriter]] +
+sw]], .
+=]]/ 0
+new]]1 4
+StreamWriter]]5 A
+(]]A B
+cs]]B D
+)]]D E
+)]]E F
+{^^ 
+sw__ 
+.__ 
+Write__ $
+(__$ %
+CIPHER_INPUT__% 1
+)__1 2
+;__2 3
+}`` 
+	encryptedaa !
+=aa" #
+msaa$ &
+.aa& '
+ToArrayaa' .
+(aa. /
+)aa/ 0
+;aa0 1
+}bb 
+}cc 
+}dd 
+stringee 
+	encPhraseee 
+=ee 
+Systemee %
+.ee% &
+Textee& *
+.ee* +
+Encodingee+ 3
+.ee3 4
+UTF8ee4 8
+.ee8 9
+	GetStringee9 B
+(eeB C
+	encryptedeeC L
+)eeL M
+;eeM N
+IOff 
+.ff 
+	WriteLineff 
+(ff 
+IOff 
+.ff 
+ToHexff !
+(ff! "
+	encryptedff" +
+)ff+ ,
+)ff, -
+;ff- .
+}gg 	
+elsehh 
+{ii 	
+constjj 
+stringjj 
+CIPHER_INPUTjj %
+=jj& '
+$strjj( 7
+;jj7 8
+bytekk 
+[kk 
+]kk 
+	encryptedkk 
+;kk 
+usingll 
+(ll $
+AesCryptoServiceProviderll +
+aesll, /
+=ll0 1
+newll2 5$
+AesCryptoServiceProviderll6 N
+(llN O
+)llO P
+)llP Q
+{mm 
+ICryptoTransformoo  
+	encryptoroo! *
+=oo+ ,
+aesoo- 0
+.oo0 1
+CreateEncryptoroo1 @
+(oo@ A
+aesooA D
+.ooD E
+KeyooE H
+,ooH I
+aesooJ M
+.ooM N
+IVooN P
+)ooP Q
+;ooQ R
+usingpp 
+(pp 
+MemoryStreampp #
+mspp$ &
+=pp' (
+newpp) ,
+MemoryStreampp- 9
+(pp9 :
+)pp: ;
+)pp; <
+{qq 
+usingrr 
+(rr 
+CryptoStreamrr '
+csrr( *
+=rr+ ,
+newrr- 0
+CryptoStreamrr1 =
+(rr= >
+msrr> @
+,rr@ A
+	encryptorrrB K
+,rrK L
+CryptoStreamModerrM ]
+.rr] ^
+Writerr^ c
+)rrc d
+)rrd e
+{ss 
+usingtt 
+(tt 
+StreamWritertt +
+swtt, .
+=tt/ 0
+newtt1 4
+StreamWritertt5 A
+(ttA B
+csttB D
+)ttD E
+)ttE F
+{uu 
+swvv 
+.vv 
+Writevv $
+(vv$ %
+CIPHER_INPUTvv% 1
+)vv1 2
+;vv2 3
+}ww 
+	encryptedxx !
+=xx" #
+msxx$ &
+.xx& '
+ToArrayxx' .
+(xx. /
+)xx/ 0
+;xx0 1
+}yy 
+}zz 
+}{{ 
+string|| 
+	encPhrase|| 
+=|| 
+System|| %
+.||% &
+Text||& *
+.||* +
+Encoding||+ 3
+.||3 4
+UTF8||4 8
+.||8 9
+	GetString||9 B
+(||B C
+	encrypted||C L
+)||L M
+;||M N
+IO}} 
+.}} 
+	WriteLine}} 
+(}} 
+IO}} 
+.}} 
+ToHex}} !
+(}}! "
+	encrypted}}" +
+)}}+ ,
+)}}, -
+;}}- .
+}~~ 	
+} 
 public
-„„ 
+ 
 
 override
-„„ 
+ 
 void
-„„ 
+ 
 Good
-„„ 
+ 
 (
-„„ 
+ 
 )
-„„ 
+ 
 {
-…… 
+‚‚ 
 Good1
-†† 
+ƒƒ 
 (
-†† 
+ƒƒ 
 )
-†† 
+ƒƒ 
 ;
-†† 
+ƒƒ 
 }
-‡‡ 
-}‰‰ 
-}ŠŠ °;
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_13.cs
+„„ 
+}†† 
+}‡‡ ŒB
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_13.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_13 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_13 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -11671,98 +13419,121 @@ staticTrue\\ 
 ==$ &
 $num' (
 )( )
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -11802,277 +13573,309 @@ staticTrue\\ 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-IO\\ 
-.\\  
-STATIC_READONLY_FIVE\\ #
-==\\$ &
-$num\\' (
-)\\( )
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+([[ 
+IO[[ 
+.[[  
+STATIC_READONLY_FIVE[[ #
+==[[$ &
+$num[[' (
+)[[( )
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} ’;
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_14.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ îA
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_14.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_14 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_14 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -12092,98 +13895,121 @@ staticFive 
 == 
 $num 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -12224,278 +14050,310 @@ staticFive:: 
 ;==0 1
 }>> 	
 else?? 
-{@@ 	
-stringAA 
-	plainTextAA 
-=AA 
-$strAA .
-;AA. /
+{@@ 	
+constAA 
+stringAA 
+CIPHER_INPUTAA %
+=AA& '
+$strAA( 7
+;AA7 8
 byteBB 
 [BB 
 ]BB 
 	encryptedBB 
 ;BB 
 usingCC 
-(CC 
-AesCC 
-aesAlgCC 
-=CC 
-AesCC  #
-.CC# $
-CreateCC$ *
-(CC* +
-)CC+ ,
-)CC, -
+(CC $
+AesCryptoServiceProviderCC +
+aesCC, /
+=CC0 1
+newCC2 5$
+AesCryptoServiceProviderCC6 N
+(CCN O
+)CCO P
+)CCP Q
 {DD 
 ICryptoTransformFF  
 	encryptorFF! *
-=FF+ ,
-aesAlgFF- 3
-.FF3 4
-CreateEncryptorFF4 C
-(FFC D
-aesAlgFFD J
-.FFJ K
-KeyFFK N
-,FFN O
-aesAlgFFP V
-.FFV W
-IVFFW Y
-)FFY Z
-;FFZ [
-usingHH 
-(HH 
-MemoryStreamHH #
-	msEncryptHH$ -
-=HH. /
-newHH0 3
-MemoryStreamHH4 @
-(HH@ A
-)HHA B
-)HHB C
-{II 
-usingJJ 
-(JJ 
-CryptoStreamJJ '
-	csEncryptJJ( 1
-=JJ2 3
-newJJ4 7
-CryptoStreamJJ8 D
-(JJD E
-	msEncryptJJE N
-,JJN O
-	encryptorJJP Y
-,JJY Z
-CryptoStreamModeJJ[ k
-.JJk l
-WriteJJl q
-)JJq r
-)JJr s
-{KK 
-usingLL 
-(LL 
-StreamWriterLL +
-	swEncryptLL, 5
-=LL6 7
-newLL8 ;
-StreamWriterLL< H
-(LLH I
-	csEncryptLLI R
-)LLR S
-)LLS T
-{MM 
-	swEncryptOO %
-.OO% &
-WriteOO& +
-(OO+ ,
-	plainTextOO, 5
-)OO5 6
-;OO6 7
-}PP 
-	encryptedQQ !
-=QQ" #
-	msEncryptQQ$ -
-.QQ- .
-ToArrayQQ. 5
-(QQ5 6
-)QQ6 7
-;QQ7 8
-}RR 
-}SS 
-}TT 
-IOUU 
-.UU 
-	WriteLineUU 
-(UU 
-IOUU 
-.UU 
-ToHexUU !
-(UU! "
-	encryptedUU" +
-)UU+ ,
-)UU, -
-;UU- .
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
+=FF+ ,
+aesFF- 0
+.FF0 1
+CreateEncryptorFF1 @
+(FF@ A
+aesFFA D
+.FFD E
+KeyFFE H
+,FFH I
+aesFFJ M
+.FFM N
+IVFFN P
+)FFP Q
+;FFQ R
+usingGG 
+(GG 
+MemoryStreamGG #
+msGG$ &
+=GG' (
+newGG) ,
+MemoryStreamGG- 9
+(GG9 :
+)GG: ;
+)GG; <
+{HH 
+usingII 
+(II 
+CryptoStreamII '
+csII( *
+=II+ ,
+newII- 0
+CryptoStreamII1 =
+(II= >
+msII> @
+,II@ A
+	encryptorIIB K
+,IIK L
+CryptoStreamModeIIM ]
+.II] ^
+WriteII^ c
+)IIc d
+)IId e
+{JJ 
+usingKK 
+(KK 
+StreamWriterKK +
+swKK, .
+=KK/ 0
+newKK1 4
+StreamWriterKK5 A
+(KKA B
+csKKB D
+)KKD E
+)KKE F
+{LL 
+swMM 
+.MM 
+WriteMM $
+(MM$ %
+CIPHER_INPUTMM% 1
+)MM1 2
+;MM2 3
+}NN 
+	encryptedOO !
+=OO" #
+msOO$ &
+.OO& '
+ToArrayOO' .
+(OO. /
+)OO/ 0
+;OO0 1
+}PP 
+}QQ 
+}RR 
+stringSS 
+	encPhraseSS 
+=SS 
+SystemSS %
+.SS% &
+TextSS& *
+.SS* +
+EncodingSS+ 3
+.SS3 4
+UTF8SS4 8
+.SS8 9
+	GetStringSS9 B
+(SSB C
+	encryptedSSC L
+)SSL M
+;SSM N
+IOTT 
+.TT 
+	WriteLineTT 
+(TT 
+IOTT 
+.TT 
+ToHexTT !
+(TT! "
+	encryptedTT" +
+)TT+ ,
+)TT, -
+;TT- .
+}UU 	
+}VV 
+privateYY 
+voidYY 
+Good2YY 
+(YY 
+)YY 
+{ZZ 
+if[[ 
 
-(\\ 
-IO\\ 
-.\\ 
+([[ 
+IO[[ 
+.[[ 
 
-staticFive\\ 
-==\\ 
-$num\\ 
-)\\ 
-{]] 	
-string^^ 
-	plainText^^ 
-=^^ 
-$str^^ .
-;^^. /
-byte__ 
-[__ 
-]__ 
-	encrypted__ 
-;__ 
-using`` 
-(`` 
-Aes`` 
-aesAlg`` 
-=`` 
-Aes``  #
-.``# $
-Create``$ *
-(``* +
-)``+ ,
-)``, -
-{aa 
-ICryptoTransformcc  
-	encryptorcc! *
-=cc+ ,
-aesAlgcc- 3
-.cc3 4
-CreateEncryptorcc4 C
-(ccC D
-aesAlgccD J
-.ccJ K
-KeyccK N
-,ccN O
-aesAlgccP V
-.ccV W
-IVccW Y
-)ccY Z
-;ccZ [
-usingee 
-(ee 
-MemoryStreamee #
-	msEncryptee$ -
-=ee. /
-newee0 3
-MemoryStreamee4 @
-(ee@ A
-)eeA B
-)eeB C
-{ff 
-usinggg 
-(gg 
-CryptoStreamgg '
-	csEncryptgg( 1
-=gg2 3
-newgg4 7
-CryptoStreamgg8 D
-(ggD E
-	msEncryptggE N
-,ggN O
-	encryptorggP Y
-,ggY Z
-CryptoStreamModegg[ k
-.ggk l
-Writeggl q
-)ggq r
-)ggr s
-{hh 
-usingii 
-(ii 
-StreamWriterii +
-	swEncryptii, 5
-=ii6 7
-newii8 ;
-StreamWriterii< H
-(iiH I
-	csEncryptiiI R
-)iiR S
-)iiS T
-{jj 
-	swEncryptll %
-.ll% &
-Writell& +
-(ll+ ,
-	plainTextll, 5
-)ll5 6
-;ll6 7
-}mm 
-	encryptednn !
-=nn" #
-	msEncryptnn$ -
-.nn- .
-ToArraynn. 5
-(nn5 6
-)nn6 7
-;nn7 8
-}oo 
-}pp 
-}qq 
-IOrr 
-.rr 
-	WriteLinerr 
-(rr 
-IOrr 
-.rr 
-ToHexrr !
-(rr! "
-	encryptedrr" +
-)rr+ ,
-)rr, -
-;rr- .
-}ss 	
-}tt 
-publicvv 
+staticFive[[ 
+==[[ 
+$num[[ 
+)[[ 
+{\\ 	
+const]] 
+string]] 
+CIPHER_INPUT]] %
+=]]& '
+$str]]( 7
+;]]7 8
+byte^^ 
+[^^ 
+]^^ 
+	encrypted^^ 
+;^^ 
+using__ 
+(__ $
+AesCryptoServiceProvider__ +
+aes__, /
+=__0 1
+new__2 5$
+AesCryptoServiceProvider__6 N
+(__N O
+)__O P
+)__P Q
+{`` 
+ICryptoTransformbb  
+	encryptorbb! *
+=bb+ ,
+aesbb- 0
+.bb0 1
+CreateEncryptorbb1 @
+(bb@ A
+aesbbA D
+.bbD E
+KeybbE H
+,bbH I
+aesbbJ M
+.bbM N
+IVbbN P
+)bbP Q
+;bbQ R
+usingcc 
+(cc 
+MemoryStreamcc #
+mscc$ &
+=cc' (
+newcc) ,
+MemoryStreamcc- 9
+(cc9 :
+)cc: ;
+)cc; <
+{dd 
+usingee 
+(ee 
+CryptoStreamee '
+csee( *
+=ee+ ,
+newee- 0
+CryptoStreamee1 =
+(ee= >
+msee> @
+,ee@ A
+	encryptoreeB K
+,eeK L
+CryptoStreamModeeeM ]
+.ee] ^
+Writeee^ c
+)eec d
+)eed e
+{ff 
+usinggg 
+(gg 
+StreamWritergg +
+swgg, .
+=gg/ 0
+newgg1 4
+StreamWritergg5 A
+(ggA B
+csggB D
+)ggD E
+)ggE F
+{hh 
+swii 
+.ii 
+Writeii $
+(ii$ %
+CIPHER_INPUTii% 1
+)ii1 2
+;ii2 3
+}jj 
+	encryptedkk !
+=kk" #
+mskk$ &
+.kk& '
+ToArraykk' .
+(kk. /
+)kk/ 0
+;kk0 1
+}ll 
+}mm 
+}nn 
+stringoo 
+	encPhraseoo 
+=oo 
+Systemoo %
+.oo% &
+Textoo& *
+.oo* +
+Encodingoo+ 3
+.oo3 4
+UTF8oo4 8
+.oo8 9
+	GetStringoo9 B
+(ooB C
+	encryptedooC L
+)ooL M
+;ooM N
+IOpp 
+.pp 
+	WriteLinepp 
+(pp 
+IOpp 
+.pp 
+ToHexpp !
+(pp! "
+	encryptedpp" +
+)pp+ ,
+)pp, -
+;pp- .
+}qq 	
+}rr 
+publictt 
 
-overridevv 
-voidvv 
-Goodvv 
-(vv 
-)vv 
-{ww 
-Good1xx 
-(xx 
-)xx 
-;xx 
-Good2yy 
-(yy 
-)yy 
-;yy 
-}zz 
-}|| 
-}}} ü>
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_15.cs
+overridett 
+voidtt 
+Goodtt 
+(tt 
+)tt 
+{uu 
+Good1vv 
+(vv 
+)vv 
+;vv 
+Good2ww 
+(ww 
+)ww 
+;ww 
+}xx 
+}zz 
+}{{ ÔE
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_15.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_15 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_15 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -12512,98 +14370,121 @@ staticFive\\ 
 { 	
 case 
 $num 
-: 
-string   
-	plainText   
-=   
-$str   .
-;  . /
+: 
+const   
+string   
+CIPHER_INPUT   %
+=  & '
+$str  ( 7
+;  7 8
 byte!! 
 [!! 
 ]!! 
 	encrypted!! 
 ;!! 
 using"" 
-("" 
-Aes"" 
-aesAlg"" 
-="" 
-Aes""  #
-.""# $
-Create""$ *
-(""* +
-)""+ ,
-)"", -
+("" $
+DESCryptoServiceProvider"" +
+des"", /
+=""0 1
+new""2 5$
+DESCryptoServiceProvider""6 N
+(""N O
+)""O P
+)""P Q
 {## 
 ICryptoTransform%%  
 	encryptor%%! *
-=%%+ ,
-aesAlg%%- 3
-.%%3 4
-CreateEncryptor%%4 C
-(%%C D
-aesAlg%%D J
-.%%J K
-Key%%K N
-,%%N O
-aesAlg%%P V
-.%%V W
-IV%%W Y
-)%%Y Z
-;%%Z [
-using'' 
-('' 
-MemoryStream'' #
-	msEncrypt''$ -
-=''. /
-new''0 3
-MemoryStream''4 @
-(''@ A
-)''A B
-)''B C
-{(( 
-using)) 
-()) 
-CryptoStream)) '
-	csEncrypt))( 1
-=))2 3
-new))4 7
-CryptoStream))8 D
-())D E
-	msEncrypt))E N
-,))N O
-	encryptor))P Y
-,))Y Z
-CryptoStreamMode))[ k
-.))k l
-Write))l q
-)))q r
-)))r s
-{** 
-using++ 
-(++ 
-StreamWriter++ +
-	swEncrypt++, 5
-=++6 7
-new++8 ;
-StreamWriter++< H
-(++H I
-	csEncrypt++I R
-)++R S
-)++S T
-{,, 
-}.. 
-	encrypted// !
-=//" #
-	msEncrypt//$ -
-.//- .
-ToArray//. 5
-(//5 6
-)//6 7
-;//7 8
-}00 
-}11 
-}22 
+=%%+ ,
+des%%- 0
+.%%0 1
+CreateEncryptor%%1 @
+(%%@ A
+des%%A D
+.%%D E
+Key%%E H
+,%%H I
+des%%J M
+.%%M N
+IV%%N P
+)%%P Q
+;%%Q R
+using&& 
+(&& 
+MemoryStream&& #
+ms&&$ &
+=&&' (
+new&&) ,
+MemoryStream&&- 9
+(&&9 :
+)&&: ;
+)&&; <
+{'' 
+using(( 
+((( 
+CryptoStream(( '
+cs((( *
+=((+ ,
+new((- 0
+CryptoStream((1 =
+(((= >
+ms((> @
+,((@ A
+	encryptor((B K
+,((K L
+CryptoStreamMode((M ]
+.((] ^
+Write((^ c
+)((c d
+)((d e
+{)) 
+using** 
+(** 
+StreamWriter** +
+sw**, .
+=**/ 0
+new**1 4
+StreamWriter**5 A
+(**A B
+cs**B D
+)**D E
+)**E F
+{++ 
+sw,, 
+.,, 
+Write,, $
+(,,$ %
+CIPHER_INPUT,,% 1
+),,1 2
+;,,2 3
+}-- 
+	encrypted.. !
+=.." #
+ms..$ &
+...& '
+ToArray..' .
+(... /
+)../ 0
+;..0 1
+}// 
+}00 
+}11 
+string22 
+	encPhrase22 
+=22 
+System22 %
+.22% &
+Text22& *
+.22* +
+Encoding22+ 3
+.223 4
+UTF8224 8
+.228 9
+	GetString229 B
+(22B C
+	encrypted22C L
+)22L M
+;22M N
 IO33 
 .33 
 	WriteLine33 
@@ -12655,308 +14536,338 @@ staticFive\\ 
 breakEE 
 ;EE 
 defaultFF 
-:FF 
-stringGG 
-	plainTextGG 
-=GG 
-$strGG .
-;GG. /
+:FF 
+constGG 
+stringGG 
+CIPHER_INPUTGG %
+=GG& '
+$strGG( 7
+;GG7 8
 byteHH 
 [HH 
 ]HH 
 	encryptedHH 
 ;HH 
 usingII 
-(II 
-AesII 
-aesAlgII 
-=II 
-AesII  #
-.II# $
-CreateII$ *
-(II* +
-)II+ ,
-)II, -
+(II $
+AesCryptoServiceProviderII +
+aesII, /
+=II0 1
+newII2 5$
+AesCryptoServiceProviderII6 N
+(IIN O
+)IIO P
+)IIP Q
 {JJ 
 ICryptoTransformLL  
 	encryptorLL! *
-=LL+ ,
-aesAlgLL- 3
-.LL3 4
-CreateEncryptorLL4 C
-(LLC D
-aesAlgLLD J
-.LLJ K
-KeyLLK N
-,LLN O
-aesAlgLLP V
-.LLV W
-IVLLW Y
-)LLY Z
-;LLZ [
-usingNN 
-(NN 
-MemoryStreamNN #
-	msEncryptNN$ -
-=NN. /
-newNN0 3
-MemoryStreamNN4 @
-(NN@ A
-)NNA B
-)NNB C
-{OO 
-usingPP 
-(PP 
-CryptoStreamPP '
-	csEncryptPP( 1
-=PP2 3
-newPP4 7
-CryptoStreamPP8 D
-(PPD E
-	msEncryptPPE N
-,PPN O
-	encryptorPPP Y
-,PPY Z
-CryptoStreamModePP[ k
-.PPk l
-WritePPl q
-)PPq r
-)PPr s
-{QQ 
-usingRR 
-(RR 
-StreamWriterRR +
-	swEncryptRR, 5
-=RR6 7
-newRR8 ;
-StreamWriterRR< H
-(RRH I
-	csEncryptRRI R
-)RRR S
-)RRS T
-{SS 
-	swEncryptUU %
-.UU% &
-WriteUU& +
-(UU+ ,
-	plainTextUU, 5
-)UU5 6
-;UU6 7
-}VV 
-	encryptedWW !
-=WW" #
-	msEncryptWW$ -
-.WW- .
-ToArrayWW. 5
-(WW5 6
-)WW6 7
-;WW7 8
-}XX 
-}YY 
-}ZZ 
-IO[[ 
-.[[ 
-	WriteLine[[ 
-([[ 
-IO[[ 
-.[[ 
-ToHex[[ !
-([[! "
-	encrypted[[" +
-)[[+ ,
-)[[, -
-;[[- .
-break\\ 
-;\\ 
-}]] 	
-}^^ 
-privateaa 
-voidaa 
-Good2aa 
-(aa 
-)aa 
-{bb 
-switchcc 
-(cc 
-$numcc 
-)cc 
-{dd 	
-caseee 
-$numee 
-:ee 
-stringff 
-	plainTextff 
-=ff 
-$strff .
-;ff. /
-bytegg 
-[gg 
-]gg 
-	encryptedgg 
-;gg 
-usinghh 
-(hh 
-Aeshh 
-aesAlghh 
-=hh 
-Aeshh  #
-.hh# $
-Createhh$ *
-(hh* +
-)hh+ ,
-)hh, -
-{ii 
-ICryptoTransformkk  
-	encryptorkk! *
-=kk+ ,
-aesAlgkk- 3
-.kk3 4
-CreateEncryptorkk4 C
-(kkC D
-aesAlgkkD J
-.kkJ K
-KeykkK N
-,kkN O
-aesAlgkkP V
-.kkV W
-IVkkW Y
-)kkY Z
-;kkZ [
-usingmm 
-(mm 
-MemoryStreammm #
-	msEncryptmm$ -
-=mm. /
-newmm0 3
-MemoryStreammm4 @
-(mm@ A
-)mmA B
-)mmB C
-{nn 
-usingoo 
-(oo 
-CryptoStreamoo '
-	csEncryptoo( 1
-=oo2 3
-newoo4 7
-CryptoStreamoo8 D
-(ooD E
-	msEncryptooE N
-,ooN O
-	encryptorooP Y
-,ooY Z
-CryptoStreamModeoo[ k
-.ook l
-Writeool q
-)ooq r
-)oor s
-{pp 
-usingqq 
-(qq 
-StreamWriterqq +
-	swEncryptqq, 5
-=qq6 7
-newqq8 ;
-StreamWriterqq< H
-(qqH I
-	csEncryptqqI R
-)qqR S
-)qqS T
-{rr 
-	swEncrypttt %
-.tt% &
-Writett& +
-(tt+ ,
-	plainTexttt, 5
-)tt5 6
-;tt6 7
-}uu 
-	encryptedvv !
-=vv" #
-	msEncryptvv$ -
-.vv- .
-ToArrayvv. 5
-(vv5 6
-)vv6 7
-;vv7 8
-}ww 
-}xx 
-}yy 
-IOzz 
-.zz 
-	WriteLinezz 
-(zz 
-IOzz 
-.zz 
-ToHexzz !
-(zz! "
-	encryptedzz" +
-)zz+ ,
-)zz, -
-;zz- .
-break{{ 
-;{{ 
-default|| 
-:|| 
-IO~~ 
-.~~ 
-	WriteLine~~ 
-(~~ 
-$str~~ /
-)~~/ 0
-;~~0 1
-break 
-; 
-}
-€€ 	
-}
- 
+=LL+ ,
+aesLL- 0
+.LL0 1
+CreateEncryptorLL1 @
+(LL@ A
+aesLLA D
+.LLD E
+KeyLLE H
+,LLH I
+aesLLJ M
+.LLM N
+IVLLN P
+)LLP Q
+;LLQ R
+usingMM 
+(MM 
+MemoryStreamMM #
+msMM$ &
+=MM' (
+newMM) ,
+MemoryStreamMM- 9
+(MM9 :
+)MM: ;
+)MM; <
+{NN 
+usingOO 
+(OO 
+CryptoStreamOO '
+csOO( *
+=OO+ ,
+newOO- 0
+CryptoStreamOO1 =
+(OO= >
+msOO> @
+,OO@ A
+	encryptorOOB K
+,OOK L
+CryptoStreamModeOOM ]
+.OO] ^
+WriteOO^ c
+)OOc d
+)OOd e
+{PP 
+usingQQ 
+(QQ 
+StreamWriterQQ +
+swQQ, .
+=QQ/ 0
+newQQ1 4
+StreamWriterQQ5 A
+(QQA B
+csQQB D
+)QQD E
+)QQE F
+{RR 
+swSS 
+.SS 
+WriteSS $
+(SS$ %
+CIPHER_INPUTSS% 1
+)SS1 2
+;SS2 3
+}TT 
+	encryptedUU !
+=UU" #
+msUU$ &
+.UU& '
+ToArrayUU' .
+(UU. /
+)UU/ 0
+;UU0 1
+}VV 
+}WW 
+}XX 
+stringYY 
+	encPhraseYY 
+=YY 
+SystemYY %
+.YY% &
+TextYY& *
+.YY* +
+EncodingYY+ 3
+.YY3 4
+UTF8YY4 8
+.YY8 9
+	GetStringYY9 B
+(YYB C
+	encryptedYYC L
+)YYL M
+;YYM N
+IOZZ 
+.ZZ 
+	WriteLineZZ 
+(ZZ 
+IOZZ 
+.ZZ 
+ToHexZZ !
+(ZZ! "
+	encryptedZZ" +
+)ZZ+ ,
+)ZZ, -
+;ZZ- .
+break[[ 
+;[[ 
+}\\ 	
+}]] 
+private`` 
+void`` 
+Good2`` 
+(`` 
+)`` 
+{aa 
+switchbb 
+(bb 
+$numbb 
+)bb 
+{cc 	
+casedd 
+$numdd 
+:dd 
+constee 
+stringee 
+CIPHER_INPUTee %
+=ee& '
+$stree( 7
+;ee7 8
+byteff 
+[ff 
+]ff 
+	encryptedff 
+;ff 
+usinggg 
+(gg $
+AesCryptoServiceProvidergg +
+aesgg, /
+=gg0 1
+newgg2 5$
+AesCryptoServiceProvidergg6 N
+(ggN O
+)ggO P
+)ggP Q
+{hh 
+ICryptoTransformjj  
+	encryptorjj! *
+=jj+ ,
+aesjj- 0
+.jj0 1
+CreateEncryptorjj1 @
+(jj@ A
+aesjjA D
+.jjD E
+KeyjjE H
+,jjH I
+aesjjJ M
+.jjM N
+IVjjN P
+)jjP Q
+;jjQ R
+usingkk 
+(kk 
+MemoryStreamkk #
+mskk$ &
+=kk' (
+newkk) ,
+MemoryStreamkk- 9
+(kk9 :
+)kk: ;
+)kk; <
+{ll 
+usingmm 
+(mm 
+CryptoStreammm '
+csmm( *
+=mm+ ,
+newmm- 0
+CryptoStreammm1 =
+(mm= >
+msmm> @
+,mm@ A
+	encryptormmB K
+,mmK L
+CryptoStreamModemmM ]
+.mm] ^
+Writemm^ c
+)mmc d
+)mmd e
+{nn 
+usingoo 
+(oo 
+StreamWriteroo +
+swoo, .
+=oo/ 0
+newoo1 4
+StreamWriteroo5 A
+(ooA B
+csooB D
+)ooD E
+)ooE F
+{pp 
+swqq 
+.qq 
+Writeqq $
+(qq$ %
+CIPHER_INPUTqq% 1
+)qq1 2
+;qq2 3
+}rr 
+	encryptedss !
+=ss" #
+msss$ &
+.ss& '
+ToArrayss' .
+(ss. /
+)ss/ 0
+;ss0 1
+}tt 
+}uu 
+}vv 
+stringww 
+	encPhraseww 
+=ww 
+Systemww %
+.ww% &
+Textww& *
+.ww* +
+Encodingww+ 3
+.ww3 4
+UTF8ww4 8
+.ww8 9
+	GetStringww9 B
+(wwB C
+	encryptedwwC L
+)wwL M
+;wwM N
+IOxx 
+.xx 
+	WriteLinexx 
+(xx 
+IOxx 
+.xx 
+ToHexxx !
+(xx! "
+	encryptedxx" +
+)xx+ ,
+)xx, -
+;xx- .
+breakyy 
+;yy 
+defaultzz 
+:zz 
+IO|| 
+.|| 
+	WriteLine|| 
+(|| 
+$str|| /
+)||/ 0
+;||0 1
+break}} 
+;}} 
+}~~ 	
+} 
 public
-ƒƒ 
+ 
 
 override
-ƒƒ 
+ 
 void
-ƒƒ 
+ 
 Good
-ƒƒ 
+ 
 (
-ƒƒ 
+ 
 )
-ƒƒ 
+ 
 {
-„„ 
+‚‚ 
 Good1
-…… 
+ƒƒ 
 (
-…… 
+ƒƒ 
 )
-…… 
+ƒƒ 
 ;
-…… 
+ƒƒ 
 Good2
-†† 
+„„ 
 (
-†† 
+„„ 
 )
-†† 
+„„ 
 ;
-†† 
+„„ 
 }
-‡‡ 
-}‰‰ 
-}ŠŠ ¡'
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_16.cs
+…… 
+}‡‡ 
+}ˆˆ ê+
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_16.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_16 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_16 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -12970,98 +14881,121 @@ staticFive\\ 
 ( 
 true 
 ) 
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -13088,147 +15022,163 @@ staticFive\\ 
 (;; 
 true;; 
 );; 
-{<< 	
-string== 
-	plainText== 
-=== 
-$str== .
-;==. /
+{<< 	
+const== 
+string== 
+CIPHER_INPUT== %
+===& '
+$str==( 7
+;==7 8
 byte>> 
 [>> 
 ]>> 
 	encrypted>> 
 ;>> 
 using?? 
-(?? 
-Aes?? 
-aesAlg?? 
-=?? 
-Aes??  #
-.??# $
-Create??$ *
-(??* +
-)??+ ,
-)??, -
+(?? $
+AesCryptoServiceProvider?? +
+aes??, /
+=??0 1
+new??2 5$
+AesCryptoServiceProvider??6 N
+(??N O
+)??O P
+)??P Q
 {@@ 
 ICryptoTransformBB  
 	encryptorBB! *
-=BB+ ,
-aesAlgBB- 3
-.BB3 4
-CreateEncryptorBB4 C
-(BBC D
-aesAlgBBD J
-.BBJ K
-KeyBBK N
-,BBN O
-aesAlgBBP V
-.BBV W
-IVBBW Y
-)BBY Z
-;BBZ [
-usingDD 
-(DD 
-MemoryStreamDD #
-	msEncryptDD$ -
-=DD. /
-newDD0 3
-MemoryStreamDD4 @
-(DD@ A
-)DDA B
-)DDB C
-{EE 
-usingFF 
-(FF 
-CryptoStreamFF '
-	csEncryptFF( 1
-=FF2 3
-newFF4 7
-CryptoStreamFF8 D
-(FFD E
-	msEncryptFFE N
-,FFN O
-	encryptorFFP Y
-,FFY Z
-CryptoStreamModeFF[ k
-.FFk l
-WriteFFl q
-)FFq r
-)FFr s
-{GG 
-usingHH 
-(HH 
-StreamWriterHH +
-	swEncryptHH, 5
-=HH6 7
-newHH8 ;
-StreamWriterHH< H
-(HHH I
-	csEncryptHHI R
-)HHR S
-)HHS T
-{II 
-	swEncryptKK %
-.KK% &
-WriteKK& +
-(KK+ ,
-	plainTextKK, 5
-)KK5 6
-;KK6 7
-}LL 
-	encryptedMM !
-=MM" #
-	msEncryptMM$ -
-.MM- .
-ToArrayMM. 5
-(MM5 6
-)MM6 7
-;MM7 8
-}NN 
-}OO 
-}PP 
-IOQQ 
-.QQ 
-	WriteLineQQ 
-(QQ 
-IOQQ 
-.QQ 
-ToHexQQ !
-(QQ! "
-	encryptedQQ" +
-)QQ+ ,
-)QQ, -
-;QQ- .
-breakRR 
-;RR 
-}SS 	
-}TT 
-publicVV 
+=BB+ ,
+aesBB- 0
+.BB0 1
+CreateEncryptorBB1 @
+(BB@ A
+aesBBA D
+.BBD E
+KeyBBE H
+,BBH I
+aesBBJ M
+.BBM N
+IVBBN P
+)BBP Q
+;BBQ R
+usingCC 
+(CC 
+MemoryStreamCC #
+msCC$ &
+=CC' (
+newCC) ,
+MemoryStreamCC- 9
+(CC9 :
+)CC: ;
+)CC; <
+{DD 
+usingEE 
+(EE 
+CryptoStreamEE '
+csEE( *
+=EE+ ,
+newEE- 0
+CryptoStreamEE1 =
+(EE= >
+msEE> @
+,EE@ A
+	encryptorEEB K
+,EEK L
+CryptoStreamModeEEM ]
+.EE] ^
+WriteEE^ c
+)EEc d
+)EEd e
+{FF 
+usingGG 
+(GG 
+StreamWriterGG +
+swGG, .
+=GG/ 0
+newGG1 4
+StreamWriterGG5 A
+(GGA B
+csGGB D
+)GGD E
+)GGE F
+{HH 
+swII 
+.II 
+WriteII $
+(II$ %
+CIPHER_INPUTII% 1
+)II1 2
+;II2 3
+}JJ 
+	encryptedKK !
+=KK" #
+msKK$ &
+.KK& '
+ToArrayKK' .
+(KK. /
+)KK/ 0
+;KK0 1
+}LL 
+}MM 
+}NN 
+stringOO 
+	encPhraseOO 
+=OO 
+SystemOO %
+.OO% &
+TextOO& *
+.OO* +
+EncodingOO+ 3
+.OO3 4
+UTF8OO4 8
+.OO8 9
+	GetStringOO9 B
+(OOB C
+	encryptedOOC L
+)OOL M
+;OOM N
+IOPP 
+.PP 
+	WriteLinePP 
+(PP 
+IOPP 
+.PP 
+ToHexPP !
+(PP! "
+	encryptedPP" +
+)PP+ ,
+)PP, -
+;PP- .
+breakQQ 
+;QQ 
+}RR 	
+}SS 
+publicUU 
 
-overrideVV 
-voidVV 
-GoodVV 
-(VV 
-)VV 
-{WW 
-Good1XX 
-(XX 
-)XX 
-;XX 
-}YY 
-}[[ 
-}\\ ‘)
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\CWE325_Missing_Required_Cryptographic_Step__StreamWriter_17.cs
+overrideUU 
+voidUU 
+GoodUU 
+(UU 
+)UU 
+{VV 
+Good1WW 
+(WW 
+)WW 
+;WW 
+}XX 
+}ZZ 
+}[[ Ú-
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\CWE327_Use_Broken_Crypto__DES_17.cs
 	namespace 	
 	testcases
  
-. 6
-*CWE325_Missing_Required_Cryptographic_Step >
+. $
+CWE327_Use_Broken_Crypto ,
 { 
-class G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_17 A
-:B C
-AbstractTestCaseD T
+class ,
+ CWE327_Use_Broken_Crypto__DES_17 &
+:' (
+AbstractTestCase) 9
 { 
 public 
 
@@ -13252,98 +15202,121 @@ staticFive\\ 
 j 
 ++ !
 )! "
-{ 	
-string 
-	plainText 
-= 
-$str .
-;. /
+{ 	
+const 
+string 
+CIPHER_INPUT %
+=& '
+$str( 7
+;7 8
 byte   
 [   
 ]   
 	encrypted   
 ;   
 using!! 
-(!! 
-Aes!! 
-aesAlg!! 
-=!! 
-Aes!!  #
-.!!# $
-Create!!$ *
-(!!* +
-)!!+ ,
-)!!, -
+(!! $
+DESCryptoServiceProvider!! +
+des!!, /
+=!!0 1
+new!!2 5$
+DESCryptoServiceProvider!!6 N
+(!!N O
+)!!O P
+)!!P Q
 {"" 
 ICryptoTransform$$  
 	encryptor$$! *
-=$$+ ,
-aesAlg$$- 3
-.$$3 4
-CreateEncryptor$$4 C
-($$C D
-aesAlg$$D J
-.$$J K
-Key$$K N
-,$$N O
-aesAlg$$P V
-.$$V W
-IV$$W Y
-)$$Y Z
-;$$Z [
-using&& 
-(&& 
-MemoryStream&& #
-	msEncrypt&&$ -
-=&&. /
-new&&0 3
-MemoryStream&&4 @
-(&&@ A
-)&&A B
-)&&B C
-{'' 
-using(( 
-((( 
-CryptoStream(( '
-	csEncrypt((( 1
-=((2 3
-new((4 7
-CryptoStream((8 D
-(((D E
-	msEncrypt((E N
-,((N O
-	encryptor((P Y
-,((Y Z
-CryptoStreamMode(([ k
-.((k l
-Write((l q
-)((q r
-)((r s
-{)) 
-using** 
-(** 
-StreamWriter** +
-	swEncrypt**, 5
-=**6 7
-new**8 ;
-StreamWriter**< H
-(**H I
-	csEncrypt**I R
-)**R S
-)**S T
-{++ 
-}-- 
-	encrypted.. !
-=.." #
-	msEncrypt..$ -
-...- .
-ToArray... 5
-(..5 6
-)..6 7
-;..7 8
-}// 
-}00 
-}11 
+=$$+ ,
+des$$- 0
+.$$0 1
+CreateEncryptor$$1 @
+($$@ A
+des$$A D
+.$$D E
+Key$$E H
+,$$H I
+des$$J M
+.$$M N
+IV$$N P
+)$$P Q
+;$$Q R
+using%% 
+(%% 
+MemoryStream%% #
+ms%%$ &
+=%%' (
+new%%) ,
+MemoryStream%%- 9
+(%%9 :
+)%%: ;
+)%%; <
+{&& 
+using'' 
+('' 
+CryptoStream'' '
+cs''( *
+=''+ ,
+new''- 0
+CryptoStream''1 =
+(''= >
+ms''> @
+,''@ A
+	encryptor''B K
+,''K L
+CryptoStreamMode''M ]
+.''] ^
+Write''^ c
+)''c d
+)''d e
+{(( 
+using)) 
+()) 
+StreamWriter)) +
+sw)), .
+=))/ 0
+new))1 4
+StreamWriter))5 A
+())A B
+cs))B D
+)))D E
+)))E F
+{** 
+sw++ 
+.++ 
+Write++ $
+(++$ %
+CIPHER_INPUT++% 1
+)++1 2
+;++2 3
+},, 
+	encrypted-- !
+=--" #
+ms--$ &
+.--& '
+ToArray--' .
+(--. /
+)--/ 0
+;--0 1
+}.. 
+}// 
+}00 
+string11 
+	encPhrase11 
+=11 
+System11 %
+.11% &
+Text11& *
+.11* +
+Encoding11+ 3
+.113 4
+UTF8114 8
+.118 9
+	GetString119 B
+(11B C
+	encrypted11C L
+)11L M
+;11M N
 IO22 
 .22 
 	WriteLine22 
@@ -13378,140 +15351,156 @@ staticFive\\ 
 k:: 
 ++:: !
 )::! "
-{;; 	
-string<< 
-	plainText<< 
-=<< 
-$str<< .
-;<<. /
+{;; 	
+const<< 
+string<< 
+CIPHER_INPUT<< %
+=<<& '
+$str<<( 7
+;<<7 8
 byte== 
 [== 
 ]== 
 	encrypted== 
 ;== 
 using>> 
-(>> 
-Aes>> 
-aesAlg>> 
-=>> 
-Aes>>  #
-.>># $
-Create>>$ *
-(>>* +
-)>>+ ,
-)>>, -
+(>> $
+AesCryptoServiceProvider>> +
+aes>>, /
+=>>0 1
+new>>2 5$
+AesCryptoServiceProvider>>6 N
+(>>N O
+)>>O P
+)>>P Q
 {?? 
 ICryptoTransformAA  
 	encryptorAA! *
-=AA+ ,
-aesAlgAA- 3
-.AA3 4
-CreateEncryptorAA4 C
-(AAC D
-aesAlgAAD J
-.AAJ K
-KeyAAK N
-,AAN O
-aesAlgAAP V
-.AAV W
-IVAAW Y
-)AAY Z
-;AAZ [
-usingCC 
-(CC 
-MemoryStreamCC #
-	msEncryptCC$ -
-=CC. /
-newCC0 3
-MemoryStreamCC4 @
-(CC@ A
-)CCA B
-)CCB C
-{DD 
-usingEE 
-(EE 
-CryptoStreamEE '
-	csEncryptEE( 1
-=EE2 3
-newEE4 7
-CryptoStreamEE8 D
-(EED E
-	msEncryptEEE N
-,EEN O
-	encryptorEEP Y
-,EEY Z
-CryptoStreamModeEE[ k
-.EEk l
-WriteEEl q
-)EEq r
-)EEr s
-{FF 
-usingGG 
-(GG 
-StreamWriterGG +
-	swEncryptGG, 5
-=GG6 7
-newGG8 ;
-StreamWriterGG< H
-(GGH I
-	csEncryptGGI R
-)GGR S
-)GGS T
-{HH 
-	swEncryptJJ %
-.JJ% &
-WriteJJ& +
-(JJ+ ,
-	plainTextJJ, 5
-)JJ5 6
-;JJ6 7
-}KK 
-	encryptedLL !
-=LL" #
-	msEncryptLL$ -
-.LL- .
-ToArrayLL. 5
-(LL5 6
-)LL6 7
-;LL7 8
-}MM 
-}NN 
-}OO 
-IOPP 
-.PP 
-	WriteLinePP 
-(PP 
-IOPP 
-.PP 
-ToHexPP !
-(PP! "
-	encryptedPP" +
-)PP+ ,
-)PP, -
-;PP- .
-}QQ 	
-}RR 
-publicTT 
+=AA+ ,
+aesAA- 0
+.AA0 1
+CreateEncryptorAA1 @
+(AA@ A
+aesAAA D
+.AAD E
+KeyAAE H
+,AAH I
+aesAAJ M
+.AAM N
+IVAAN P
+)AAP Q
+;AAQ R
+usingBB 
+(BB 
+MemoryStreamBB #
+msBB$ &
+=BB' (
+newBB) ,
+MemoryStreamBB- 9
+(BB9 :
+)BB: ;
+)BB; <
+{CC 
+usingDD 
+(DD 
+CryptoStreamDD '
+csDD( *
+=DD+ ,
+newDD- 0
+CryptoStreamDD1 =
+(DD= >
+msDD> @
+,DD@ A
+	encryptorDDB K
+,DDK L
+CryptoStreamModeDDM ]
+.DD] ^
+WriteDD^ c
+)DDc d
+)DDd e
+{EE 
+usingFF 
+(FF 
+StreamWriterFF +
+swFF, .
+=FF/ 0
+newFF1 4
+StreamWriterFF5 A
+(FFA B
+csFFB D
+)FFD E
+)FFE F
+{GG 
+swHH 
+.HH 
+WriteHH $
+(HH$ %
+CIPHER_INPUTHH% 1
+)HH1 2
+;HH2 3
+}II 
+	encryptedJJ !
+=JJ" #
+msJJ$ &
+.JJ& '
+ToArrayJJ' .
+(JJ. /
+)JJ/ 0
+;JJ0 1
+}KK 
+}LL 
+}MM 
+stringNN 
+	encPhraseNN 
+=NN 
+SystemNN %
+.NN% &
+TextNN& *
+.NN* +
+EncodingNN+ 3
+.NN3 4
+UTF8NN4 8
+.NN8 9
+	GetStringNN9 B
+(NNB C
+	encryptedNNC L
+)NNL M
+;NNM N
+IOOO 
+.OO 
+	WriteLineOO 
+(OO 
+IOOO 
+.OO 
+ToHexOO !
+(OO! "
+	encryptedOO" +
+)OO+ ,
+)OO, -
+;OO- .
+}PP 	
+}QQ 
+publicSS 
 
-overrideTT 
-voidTT 
-GoodTT 
-(TT 
-)TT 
-{UU 
-Good1VV 
-(VV 
-)VV 
-;VV 
-}WW 
-}YY 
-}ZZ ¢m
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\Program.cs
+overrideSS 
+voidSS 
+GoodSS 
+(SS 
+)SS 
+{TT 
+Good1UU 
+(UU 
+)UU 
+;UU 
+}VV 
+}XX 
+}YY Îd
+~C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\Program.cs
 	namespace		 	
 	testcases		
  
-.		 6
-*CWE325_Missing_Required_Cryptographic_Step		 >
+.		 $
+CWE327_Use_Broken_Crypto		 ,
 {
 
  
@@ -13754,481 +15743,413 @@ StackTrace55 %
 )[[! "
 {[[# $
 (]] 
-new]] G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_01]] C
-(]]C D
-)]]D E
-)]]E F
-.]]F G
-RunTest]]G N
-(]]N O
-$str	]]O Œ
-)
-]]Œ 
-;
-]] Ž
+new]] -
+!CWE327_Use_Broken_Crypto__3DES_01]] )
+(]]) *
+)]]* +
+)]]+ ,
+.]], -
+RunTest]]- 4
+(]]4 5
+$str]]5 X
+)]]X Y
+;]]Y Z
 (^^ 
-new^^ G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_02^^ C
-(^^C D
-)^^D E
-)^^E F
-.^^F G
-RunTest^^G N
-(^^N O
-$str	^^O Œ
-)
-^^Œ 
-;
-^^ Ž
+new^^ -
+!CWE327_Use_Broken_Crypto__3DES_02^^ )
+(^^) *
+)^^* +
+)^^+ ,
+.^^, -
+RunTest^^- 4
+(^^4 5
+$str^^5 X
+)^^X Y
+;^^Y Z
 (__ 
-new__ G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_03__ C
-(__C D
-)__D E
-)__E F
-.__F G
-RunTest__G N
-(__N O
-$str	__O Œ
-)
-__Œ 
-;
-__ Ž
+new__ -
+!CWE327_Use_Broken_Crypto__3DES_03__ )
+(__) *
+)__* +
+)__+ ,
+.__, -
+RunTest__- 4
+(__4 5
+$str__5 X
+)__X Y
+;__Y Z
 (`` 
-new`` G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_04`` C
-(``C D
-)``D E
-)``E F
-.``F G
-RunTest``G N
-(``N O
-$str	``O Œ
-)
-``Œ 
-;
-`` Ž
+new`` -
+!CWE327_Use_Broken_Crypto__3DES_04`` )
+(``) *
+)``* +
+)``+ ,
+.``, -
+RunTest``- 4
+(``4 5
+$str``5 X
+)``X Y
+;``Y Z
 (aa 
-newaa G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_05aa C
-(aaC D
-)aaD E
-)aaE F
-.aaF G
-RunTestaaG N
-(aaN O
-$str	aaO Œ
-)
-aaŒ 
-;
-aa Ž
+newaa -
+!CWE327_Use_Broken_Crypto__3DES_05aa )
+(aa) *
+)aa* +
+)aa+ ,
+.aa, -
+RunTestaa- 4
+(aa4 5
+$straa5 X
+)aaX Y
+;aaY Z
 (bb 
-newbb G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_06bb C
-(bbC D
-)bbD E
-)bbE F
-.bbF G
-RunTestbbG N
-(bbN O
-$str	bbO Œ
-)
-bbŒ 
-;
-bb Ž
+newbb -
+!CWE327_Use_Broken_Crypto__3DES_06bb )
+(bb) *
+)bb* +
+)bb+ ,
+.bb, -
+RunTestbb- 4
+(bb4 5
+$strbb5 X
+)bbX Y
+;bbY Z
 (cc 
-newcc G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_07cc C
-(ccC D
-)ccD E
-)ccE F
-.ccF G
-RunTestccG N
-(ccN O
-$str	ccO Œ
-)
-ccŒ 
-;
-cc Ž
+newcc -
+!CWE327_Use_Broken_Crypto__3DES_07cc )
+(cc) *
+)cc* +
+)cc+ ,
+.cc, -
+RunTestcc- 4
+(cc4 5
+$strcc5 X
+)ccX Y
+;ccY Z
 (dd 
-newdd G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_08dd C
-(ddC D
-)ddD E
-)ddE F
-.ddF G
-RunTestddG N
-(ddN O
-$str	ddO Œ
-)
-ddŒ 
-;
-dd Ž
+newdd -
+!CWE327_Use_Broken_Crypto__3DES_08dd )
+(dd) *
+)dd* +
+)dd+ ,
+.dd, -
+RunTestdd- 4
+(dd4 5
+$strdd5 X
+)ddX Y
+;ddY Z
 (ee 
-newee G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_09ee C
-(eeC D
-)eeD E
-)eeE F
-.eeF G
-RunTesteeG N
-(eeN O
-$str	eeO Œ
-)
-eeŒ 
-;
-ee Ž
+newee -
+!CWE327_Use_Broken_Crypto__3DES_09ee )
+(ee) *
+)ee* +
+)ee+ ,
+.ee, -
+RunTestee- 4
+(ee4 5
+$stree5 X
+)eeX Y
+;eeY Z
 (ff 
-newff G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_10ff C
-(ffC D
-)ffD E
-)ffE F
-.ffF G
-RunTestffG N
-(ffN O
-$str	ffO Œ
-)
-ffŒ 
-;
-ff Ž
+newff -
+!CWE327_Use_Broken_Crypto__3DES_10ff )
+(ff) *
+)ff* +
+)ff+ ,
+.ff, -
+RunTestff- 4
+(ff4 5
+$strff5 X
+)ffX Y
+;ffY Z
 (gg 
-newgg G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_11gg C
-(ggC D
-)ggD E
-)ggE F
-.ggF G
-RunTestggG N
-(ggN O
-$str	ggO Œ
-)
-ggŒ 
-;
-gg Ž
+newgg -
+!CWE327_Use_Broken_Crypto__3DES_11gg )
+(gg) *
+)gg* +
+)gg+ ,
+.gg, -
+RunTestgg- 4
+(gg4 5
+$strgg5 X
+)ggX Y
+;ggY Z
 (hh 
-newhh G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_12hh C
-(hhC D
-)hhD E
-)hhE F
-.hhF G
-RunTesthhG N
-(hhN O
-$str	hhO Œ
-)
-hhŒ 
-;
-hh Ž
+newhh -
+!CWE327_Use_Broken_Crypto__3DES_12hh )
+(hh) *
+)hh* +
+)hh+ ,
+.hh, -
+RunTesthh- 4
+(hh4 5
+$strhh5 X
+)hhX Y
+;hhY Z
 (ii 
-newii G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_13ii C
-(iiC D
-)iiD E
-)iiE F
-.iiF G
-RunTestiiG N
-(iiN O
-$str	iiO Œ
-)
-iiŒ 
-;
-ii Ž
+newii -
+!CWE327_Use_Broken_Crypto__3DES_13ii )
+(ii) *
+)ii* +
+)ii+ ,
+.ii, -
+RunTestii- 4
+(ii4 5
+$strii5 X
+)iiX Y
+;iiY Z
 (jj 
-newjj G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_14jj C
-(jjC D
-)jjD E
-)jjE F
-.jjF G
-RunTestjjG N
-(jjN O
-$str	jjO Œ
-)
-jjŒ 
-;
-jj Ž
+newjj -
+!CWE327_Use_Broken_Crypto__3DES_14jj )
+(jj) *
+)jj* +
+)jj+ ,
+.jj, -
+RunTestjj- 4
+(jj4 5
+$strjj5 X
+)jjX Y
+;jjY Z
 (kk 
-newkk G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_15kk C
-(kkC D
-)kkD E
-)kkE F
-.kkF G
-RunTestkkG N
-(kkN O
-$str	kkO Œ
-)
-kkŒ 
-;
-kk Ž
+newkk -
+!CWE327_Use_Broken_Crypto__3DES_15kk )
+(kk) *
+)kk* +
+)kk+ ,
+.kk, -
+RunTestkk- 4
+(kk4 5
+$strkk5 X
+)kkX Y
+;kkY Z
 (ll 
-newll G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_16ll C
-(llC D
-)llD E
-)llE F
-.llF G
-RunTestllG N
-(llN O
-$str	llO Œ
-)
-llŒ 
-;
-ll Ž
+newll -
+!CWE327_Use_Broken_Crypto__3DES_16ll )
+(ll) *
+)ll* +
+)ll+ ,
+.ll, -
+RunTestll- 4
+(ll4 5
+$strll5 X
+)llX Y
+;llY Z
 (mm 
-newmm G
-;CWE325_Missing_Required_Cryptographic_Step__CryptoStream_17mm C
-(mmC D
-)mmD E
-)mmE F
-.mmF G
-RunTestmmG N
-(mmN O
-$str	mmO Œ
-)
-mmŒ 
-;
-mm Ž
+newmm -
+!CWE327_Use_Broken_Crypto__3DES_17mm )
+(mm) *
+)mm* +
+)mm+ ,
+.mm, -
+RunTestmm- 4
+(mm4 5
+$strmm5 X
+)mmX Y
+;mmY Z
 (nn 
-newnn G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_01nn C
-(nnC D
-)nnD E
-)nnE F
-.nnF G
-RunTestnnG N
-(nnN O
-$str	nnO Œ
-)
-nnŒ 
-;
-nn Ž
+newnn ,
+ CWE327_Use_Broken_Crypto__DES_01nn (
+(nn( )
+)nn) *
+)nn* +
+.nn+ ,
+RunTestnn, 3
+(nn3 4
+$strnn4 V
+)nnV W
+;nnW X
 (oo 
-newoo G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_02oo C
-(ooC D
-)ooD E
-)ooE F
-.ooF G
-RunTestooG N
-(ooN O
-$str	ooO Œ
-)
-ooŒ 
-;
-oo Ž
+newoo ,
+ CWE327_Use_Broken_Crypto__DES_02oo (
+(oo( )
+)oo) *
+)oo* +
+.oo+ ,
+RunTestoo, 3
+(oo3 4
+$stroo4 V
+)ooV W
+;ooW X
 (pp 
-newpp G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_03pp C
-(ppC D
-)ppD E
-)ppE F
-.ppF G
-RunTestppG N
-(ppN O
-$str	ppO Œ
-)
-ppŒ 
-;
-pp Ž
+newpp ,
+ CWE327_Use_Broken_Crypto__DES_03pp (
+(pp( )
+)pp) *
+)pp* +
+.pp+ ,
+RunTestpp, 3
+(pp3 4
+$strpp4 V
+)ppV W
+;ppW X
 (qq 
-newqq G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_04qq C
-(qqC D
-)qqD E
-)qqE F
-.qqF G
-RunTestqqG N
-(qqN O
-$str	qqO Œ
-)
-qqŒ 
-;
-qq Ž
+newqq ,
+ CWE327_Use_Broken_Crypto__DES_04qq (
+(qq( )
+)qq) *
+)qq* +
+.qq+ ,
+RunTestqq, 3
+(qq3 4
+$strqq4 V
+)qqV W
+;qqW X
 (rr 
-newrr G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_05rr C
-(rrC D
-)rrD E
-)rrE F
-.rrF G
-RunTestrrG N
-(rrN O
-$str	rrO Œ
-)
-rrŒ 
-;
-rr Ž
+newrr ,
+ CWE327_Use_Broken_Crypto__DES_05rr (
+(rr( )
+)rr) *
+)rr* +
+.rr+ ,
+RunTestrr, 3
+(rr3 4
+$strrr4 V
+)rrV W
+;rrW X
 (ss 
-newss G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_06ss C
-(ssC D
-)ssD E
-)ssE F
-.ssF G
-RunTestssG N
-(ssN O
-$str	ssO Œ
-)
-ssŒ 
-;
-ss Ž
+newss ,
+ CWE327_Use_Broken_Crypto__DES_06ss (
+(ss( )
+)ss) *
+)ss* +
+.ss+ ,
+RunTestss, 3
+(ss3 4
+$strss4 V
+)ssV W
+;ssW X
 (tt 
-newtt G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_07tt C
-(ttC D
-)ttD E
-)ttE F
-.ttF G
-RunTestttG N
-(ttN O
-$str	ttO Œ
-)
-ttŒ 
-;
-tt Ž
+newtt ,
+ CWE327_Use_Broken_Crypto__DES_07tt (
+(tt( )
+)tt) *
+)tt* +
+.tt+ ,
+RunTesttt, 3
+(tt3 4
+$strtt4 V
+)ttV W
+;ttW X
 (uu 
-newuu G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_08uu C
-(uuC D
-)uuD E
-)uuE F
-.uuF G
-RunTestuuG N
-(uuN O
-$str	uuO Œ
-)
-uuŒ 
-;
-uu Ž
+newuu ,
+ CWE327_Use_Broken_Crypto__DES_08uu (
+(uu( )
+)uu) *
+)uu* +
+.uu+ ,
+RunTestuu, 3
+(uu3 4
+$struu4 V
+)uuV W
+;uuW X
 (vv 
-newvv G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_09vv C
-(vvC D
-)vvD E
-)vvE F
-.vvF G
-RunTestvvG N
-(vvN O
-$str	vvO Œ
-)
-vvŒ 
-;
-vv Ž
+newvv ,
+ CWE327_Use_Broken_Crypto__DES_09vv (
+(vv( )
+)vv) *
+)vv* +
+.vv+ ,
+RunTestvv, 3
+(vv3 4
+$strvv4 V
+)vvV W
+;vvW X
 (ww 
-newww G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_10ww C
-(wwC D
-)wwD E
-)wwE F
-.wwF G
-RunTestwwG N
-(wwN O
-$str	wwO Œ
-)
-wwŒ 
-;
-ww Ž
+newww ,
+ CWE327_Use_Broken_Crypto__DES_10ww (
+(ww( )
+)ww) *
+)ww* +
+.ww+ ,
+RunTestww, 3
+(ww3 4
+$strww4 V
+)wwV W
+;wwW X
 (xx 
-newxx G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_11xx C
-(xxC D
-)xxD E
-)xxE F
-.xxF G
-RunTestxxG N
-(xxN O
-$str	xxO Œ
-)
-xxŒ 
-;
-xx Ž
+newxx ,
+ CWE327_Use_Broken_Crypto__DES_11xx (
+(xx( )
+)xx) *
+)xx* +
+.xx+ ,
+RunTestxx, 3
+(xx3 4
+$strxx4 V
+)xxV W
+;xxW X
 (yy 
-newyy G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_12yy C
-(yyC D
-)yyD E
-)yyE F
-.yyF G
-RunTestyyG N
-(yyN O
-$str	yyO Œ
-)
-yyŒ 
-;
-yy Ž
+newyy ,
+ CWE327_Use_Broken_Crypto__DES_12yy (
+(yy( )
+)yy) *
+)yy* +
+.yy+ ,
+RunTestyy, 3
+(yy3 4
+$stryy4 V
+)yyV W
+;yyW X
 (zz 
-newzz G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_13zz C
-(zzC D
-)zzD E
-)zzE F
-.zzF G
-RunTestzzG N
-(zzN O
-$str	zzO Œ
-)
-zzŒ 
-;
-zz Ž
+newzz ,
+ CWE327_Use_Broken_Crypto__DES_13zz (
+(zz( )
+)zz) *
+)zz* +
+.zz+ ,
+RunTestzz, 3
+(zz3 4
+$strzz4 V
+)zzV W
+;zzW X
 ({{ 
-new{{ G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_14{{ C
-({{C D
-){{D E
-){{E F
-.{{F G
-RunTest{{G N
-({{N O
-$str	{{O Œ
-)
-{{Œ 
-;
-{{ Ž
+new{{ ,
+ CWE327_Use_Broken_Crypto__DES_14{{ (
+({{( )
+){{) *
+){{* +
+.{{+ ,
+RunTest{{, 3
+({{3 4
+$str{{4 V
+){{V W
+;{{W X
 (|| 
-new|| G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_15|| C
-(||C D
-)||D E
-)||E F
-.||F G
-RunTest||G N
-(||N O
-$str	||O Œ
-)
-||Œ 
-;
-|| Ž
+new|| ,
+ CWE327_Use_Broken_Crypto__DES_15|| (
+(||( )
+)||) *
+)||* +
+.||+ ,
+RunTest||, 3
+(||3 4
+$str||4 V
+)||V W
+;||W X
 (}} 
-new}} G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_16}} C
-(}}C D
-)}}D E
-)}}E F
-.}}F G
-RunTest}}G N
-(}}N O
-$str	}}O Œ
-)
-}}Œ 
-;
-}} Ž
+new}} ,
+ CWE327_Use_Broken_Crypto__DES_16}} (
+(}}( )
+)}}) *
+)}}* +
+.}}+ ,
+RunTest}}, 3
+(}}3 4
+$str}}4 V
+)}}V W
+;}}W X
 (~~ 
-new~~ G
-;CWE325_Missing_Required_Cryptographic_Step__StreamWriter_17~~ C
-(~~C D
-)~~D E
-)~~E F
-.~~F G
-RunTest~~G N
-(~~N O
-$str	~~O Œ
-)
-~~Œ 
-;
-~~ Ž
+new~~ ,
+ CWE327_Use_Broken_Crypto__DES_17~~ (
+(~~( )
+)~~) *
+)~~* +
+.~~+ ,
+RunTest~~, 3
+(~~3 4
+$str~~4 V
+)~~V W
+;~~W X
 }
 €€ 
 private
@@ -14328,17 +16249,17 @@ StackTrace55 %
 }
 ¤¤ 
 }¥¥ 
-}¦¦ Ì
- C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE325_Missing_Required_Cryptographic_Step\Properties\AssemblyInfo.cs
+}¦¦ º
+ŽC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE327_Use_Broken_Crypto\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 
 
 AssemblyTitle 
 ( 
-$str E
-)E F
-]F G
+$str 3
+)3 4
+]4 5
 [		 
 assembly		 	
 :			 
@@ -14388,9 +16309,9 @@ StackTrace55 %
 
 AssemblyProduct 
 ( 
-$str G
-)G H
-]H I
+$str 5
+)5 6
+]6 7
 [ 
 assembly 	
 :	 

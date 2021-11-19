@@ -1,36 +1,24 @@
-å
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_01.cs 8j <r6!"#$%&'()*+,-./0345689:;=>?@ABCDEFGHIJKLNOxÇ!"#$%&'()*.5=>?@ABCDEFJ¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_02.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_03.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr«
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_04.cs* 8j	(<AH[brZ "#$%&')*+,-./0123456789=>?@BCDEFGIJKLMNOPQRSTUVWXY\]^_`acdefghijklmnopqrsuvwxy{|x
-Ç'$)*+,-./0126?BIJKLMNOPQRV^cdefghijklpwx«
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_05.cs* 8j	(<AH[brZ "#$%&')*+,-./0123456789=>?@BCDEFGIJKLMNOPQRSTUVWXY\]^_`acdefghijklmnopqrsuvwxy{|x
-Ç'$)*+,-./0126?BIJKLMNOPQRV^cdefghijklpwx∆
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_06.cs* 8j	';@GZarY!"#$%&()*+,-./012345678<=>?ABCDEFHIJKLMNOPQRSTUVWX[\]^_`bcdefghijklmnopqrtuvwxz{x
-Ç'#()*+,-./015>AHIJKLMNOPQU]bcdefghijkovw∆
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_07.cs* 8j	';@GZarY!"#$%&()*+,-./012345678<=>?ABCDEFHIJKLMNOPQRSTUVWX[\]^_`bcdefghijklmnopqrtuvwxz{x
-Ç'#()*+,-./015>AHIJKLMNOPQU]bcdefghijkovw“
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_08.cs, 8	j	/CHObirc !"$%&')*+,-.0123456789:;<=>?@DEFGIJKLMNPQRSTUVWXYZ[\]^_`cdefghjklmnopqrstuvwxyz|}~ÄÇÉx
-Ç)!&+0123456789=FIPQRSTUVWXY]ejklmnopqrsw~¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_09.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_10.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_11.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr÷
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_12.cs3 8j"7KRgre !#$%&'()*+,-./012345689:;<=>?@ABCDEFGHLMNOPQSTUVWXYZ[\]^_`abcdefhijklmnopqrstuvwxz{|}ÄxÇ/#$%&'()*+,089:;<=>?@AENSTUVWXYZ[\`hijklmnopqu|¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_13.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr¬
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_14.cs* 8j"6;BU\rX !#$%&'()*+,-./0123789:<=>?@ACDEFGHIJKLMNOPQRSVWXYZ[]^_`abcdefghijklmopqrsuvx
-Ç'#$%&'()*+,09<CDEFGHIJKLPX]^_`abcdefjqr⁄
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_15.cs2 8j#5<BH\dvrf !"$%&'()*+,-./012346789=>?@ACDEFGIJKLMNOPQRSTUVWXYZ]^_`abcefghijklmnopqrstuwxyz|}~ÄÇÉx	Ç/$%&'()*+,-1367?CDIJKLMNOPQRVX_efghijklmnrtwx~ô
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_16.cs 8j"7>r> !#$%&'()*+,-./0123489:;<=?@ABCDEFGHIJKLMNOPRSTUWXxÇ#$%&'()*+,02:?@ABCDEFGHLNTï
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\CWE523_Unprotected_Cred_Transport__Web_17.cs 8j"6=r< !#$%&'()*+,-./0123789:;<>?@ABCDEFGHIJKLMNPQRSUVxÇ#$%&'()*+,09>?@ABCDEFGKRï
-áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\Program.cs 
-8j &(9?ABPRVX\^bdhjnptvz|ÄÇrC	
-"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqswy}ÉÑÖx
-Ç"*+,-0459CDEFGHIJKº
-óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\Properties\AssemblyInfo.csj !"r	
+Ï
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_01.cs 8j&r !"$%'(*+Ç!'ä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_02.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>ä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>è
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_04.cs	 8j	"(-27<r( !#$%)*+,./0134589:;=>?ABCDEGHxÇ	 #+.3:=CDè
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs	 8j	"(-27<r( !#$%)*+,./0134589:;=>?ABCDEGHxÇ	 #+.3:=CDé
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs	 8j	!',16;r' "#$()*+-./0234789:<=>@ABCDFGxÇ	"*-29<BCé
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs	 8j	!',16;r' "#$()*+-./0234789:<=>@ABCDFGxÇ	"*-29<BCó
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs 8	j	)/49>Cr. !"#%&'(*+,01235678:;<?@ABDEFHIJKLNOxÇ"'*25:ADJKä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_09.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>ä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_10.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>ä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_11.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>É
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_12.cs 8j!',1r" "#$()*+-./02346789;<xÇ"*-28ä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_13.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>ä
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_14.cs	 8j"',16r&#$%&()*+-./2345789;<=>?ABxÇ	%(-47=>ü
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs 8j!(.28>Br1 "#$%)*+,-/0134569:;<=?@ACDEFHIJKLNOxÇ"#+/034;?@CDJK˚
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs 8j#(r $%&')*+,./0134xÇ&)*0˜
+¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\CWE526_Info_Exposure_Environment_Variables__writeLine_17.cs 8j"'r#$%&()*,-./12xÇ%(.À
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\Program.cs& 
+8j%&(9?ABPRVX\^bdhz~ÄÑÜäåêírZ	
+"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegijklmnopqrstuvwxy{}ÅÉáâçèìîïx
+Ç("*+,-0459CDEFGHIJKijklmnopqrstuvwxy≈
+†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\Properties\AssemblyInfo.csj !"r	
 #$

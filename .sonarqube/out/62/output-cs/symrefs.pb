@@ -1,247 +1,213 @@
-æ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_01.cs
+í
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_01.cs
 
- 1
+ 2
 
- 
-  "" 
+ 
+ "!! 
 
-''& 7
+&& 
+++ (( 
+11 144 $æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_02.cs
 
-.. 
-33 00 (
-55 88 :: << ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_02.cs
+ 2
 
- 1
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
- 
-  $$  
+PP æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_03.cs
 
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
+ 2
 
-ff ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_03.cs
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
- 1
+PP Ù
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_04.cs
 
- 
-  $$  
+ 2
+ )   HH 
+ *22 
 
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
+ 
+&& &)) 
+00 XX 
+==# 5@@ (
+FF YY 
+NN# 5QQ (
 
-ff ¥
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_04.cs
+VV Ù
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_05.cs
 
- 1
- )   WW 
- *:: 
+ 2
+    HH 
+ 22 
 
- 
-"" %% **  
+ 
+&& &)) 
+00 XX 
+==# 5@@ (
+FF YY 
+NN# 5QQ (
 
-//* ;
-88 nn (
-AA DD FF HH  
-UU oo (
-YY \\ ^^ ``  
+VV Ë
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_06.cs
 
-ll ¥
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_05.cs
+ 2(
+ ( 11 GG 
 
- 1
-    WW 
- :: 
+ 
+%% &(( 
+// WW 
+<<# 5?? (
+EE XX 
+MM# 5PP (
 
- 
-"" %% **  
+UU Ë
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_07.cs
 
-//* ;
-88 nn (
-AA DD FF HH  
-UU oo (
-YY \\ ^^ ``  
+ 2(
+  11 GG 
 
-ll ®
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_06.cs
+ 
+%% &(( 
+// WW 
+<<# 5?? (
+EE XX 
+MM# 5PP (
 
- 1(
- ( 99 VV 
+UU Ù
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_08.cs
 
- 
-!! $$ ))  
+ 2
+ *'' OO 
+   +99 
 
-..* ;
-77 mm (
-@@ CC EE GG  
-TT nn (
-XX [[ ]] __  
+%% 
+-- &00 
+77 __ 
+DD# 5GG (
+MM `` 
+UU# 5XX (
 
-kk ®
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_07.cs
+]] æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_09.cs
 
- 1(
-  99 VV 
+ 2
 
- 
-!! $$ ))  
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
-..* ;
-77 mm (
-@@ CC EE GG  
-TT nn (
-XX [[ ]] __  
+PP æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_10.cs
 
-kk ¥
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_08.cs
+ 2
 
- 1
- *'' ^^ 
-   +AA 
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
-%% 
-)) ,, 11  
+PP æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_11.cs
 
-66* ;
-?? uu (
-HH KK MM OO  
-\\ vv (
-`` cc ee gg  
+ 2
 
-ss ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_09.cs
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
- 1
+PP æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_12.cs
 
- 
-  $$  
+ 2
 
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
+ 
+   &## 
+,,# 5// (
+66 TT 
+>># 5AA (
+JJ# 5MM (
 
-ff ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_10.cs
+RR æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_13.cs
 
- 1
+ 2
 
- 
-  $$  
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
+PP æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_14.cs
 
-ff ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_11.cs
+ 2
 
- 1
+ 
+   &## 
+** RR 
+77# 5:: (
+@@ SS 
+HH# 5KK (
 
- 
-  $$  
+PP æ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_15.cs
 
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
+ 2
 
-ff í
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_12.cs
+ 
+!! &$$ 
+00 __ 
+==# 5@@ (
+GG `` 
+PP# 5SS (
 
- 1
+]] í
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_16.cs
 
- 
-  $$  
+ 2
 
-))* ;(
-00 33 55 77  
-EE qq (
-II LL NN PP  (
-\\ __ aa cc  
+ 
+   &## 
+++ >> 
+33# 566 (
 
-oo ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_13.cs
+<< “
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_17.cs
 
- 1
-
- 
-  $$  
-
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
-
-ff ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_14.cs
-
- 1
-
- 
-  $$  
-
-))* ;
-22 hh (
-;; >> @@ BB  
-OO ii (
-SS VV XX ZZ  
-
-ff ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_15.cs
-
- 1
+ 2
 
  
-    %%  
+   
+   &## 
+** << 
+,, ,, ,, 
+22# 555 (
 
-*** ;
-88 uu (
-AA DD FF HH  
-VV vv (
-[[ ^^ `` bb  
-
-ss æ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_16.cs
-
- 1
-
- 
-  $$  
-
-))* ;
-33 MM (
-77 :: << >>  
-
-KK ˛
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_17.cs
-
- 1
-
- 
-   
-  $$  
-
-))* ;
-22 KK 
-44 44 44 (
-66 99 ;; ==  
-
-II ò
-áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\Program.cs
+:: ï
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\Program.cs
 
  
 
@@ -263,5 +229,5 @@
 
 ââ  JJ 
 
-èè  KK ö
-óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\Properties\AssemblyInfo.cs
+èè  KK ó
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\Properties\AssemblyInfo.cs

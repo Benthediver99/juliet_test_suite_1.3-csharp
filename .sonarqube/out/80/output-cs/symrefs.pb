@@ -1,288 +1,276 @@
-–
-ÅC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__if_without_braces_multiline_01.cs
+º
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_01.cs
 
-
- M
+ .
 
-  
-   (
-    
-"" 88 
-$$ && ** (
-$$ '' -- 00 
+ 
+d o2 =
+X g 
 
-66 !˜
-ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__if_without_braces_single_line_01.cs
+)) 
+.. ++ 
+00d o33. 9
+11X g33 ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_02.cs
 
-
- O
+ .
 
-  
-   (
-  0 1 
-   55 
-"" $$ (( (
-"" %% **( )-- 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-33 !„
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_01.cs
+YY ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_03.cs
 
- 7
+ .
 
- 
-  	 (
-  	!! ## 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-'' 
-,, )) 
-.. // 	22 (
-.. 00 	55 77 ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_02.cs
+YY ²
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_04.cs
 
- 7
+ .
+ )   NN 
+ *55 
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+##h s%%6 A
+$$\ k%% 
+33 aa 
+<<h s??2 =
+==\ k?? 
+LL bb 
+PPh sSS2 =
+QQ\ kSS 
 
-SS ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_03.cs
+__ ²
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_05.cs
 
- 7
+ .
+    NN 
+ 55 
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+##h s%%6 A
+$$\ k%% 
+33 aa 
+<<h s??2 =
+==\ k?? 
+LL bb 
+PPh sSS2 =
+QQ\ kSS 
 
-SS š
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_04.cs
+__ ¦
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_06.cs
 
- 7
- )   JJ 
- *33 
+ .(
+ ( 44 MM 
 
- 
-"" ## && (
-"" $$ )) ++ 
-11 [[ 
-:: ;; >> (
-:: << AA CC 
-HH \\ 
-LL MM PP (
-LL NN SS UU 
+ 
+""h s$$6 A
+##\ k$$ 
+22 `` 
+;;h s>>2 =
+<<\ k>> 
+KK aa 
+OOh sRR2 =
+PP\ kRR 
 
-YY š
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_05.cs
+^^ ¦
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_07.cs
 
- 7
-    JJ 
- 33 
+ .(
+  44 MM 
 
- 
-"" ## && (
-"" $$ )) ++ 
-11 [[ 
-:: ;; >> (
-:: << AA CC 
-HH \\ 
-LL MM PP (
-LL NN SS UU 
+ 
+""h s$$6 A
+##\ k$$ 
+22 `` 
+;;h s>>2 =
+<<\ k>> 
+KK aa 
+OOh sRR2 =
+PP\ kRR 
 
-YY Ž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_06.cs
+^^ ²
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_08.cs
 
- 7(
- ( 22 II 
+ .
+ *'' UU 
+   +<< 
 
- 
-!! "" %% (
-!! ## (( ** 
-00 ZZ 
-99 :: == (
-99 ;; @@ BB 
-GG [[ 
-KK LL OO (
-KK MM RR TT 
+%% 
+**h s,,6 A
+++\ k,, 
+:: hh 
+CCh sFF2 =
+DD\ kFF 
+SS ii 
+WWh sZZ2 =
+XX\ kZZ 
 
-XX Ž
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_07.cs
+ff ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_09.cs
 
- 7(
-  22 II 
+ .
 
- 
-!! "" %% (
-!! ## (( ** 
-00 ZZ 
-99 :: == (
-99 ;; @@ BB 
-GG [[ 
-KK LL OO (
-KK MM RR TT 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-XX š
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_08.cs
+YY ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_10.cs
 
- 7
- *'' QQ 
-   +:: 
+ .
 
-%% 
-)) ** -- (
-)) ++ 00 22 
-88 bb 
-AA BB EE (
-AA CC HH JJ 
-OO cc 
-SS TT WW (
-SS UU ZZ \\ 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-`` ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_09.cs
+YY ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_11.cs
 
- 7
+ .
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-SS ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_10.cs
+YY ’
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_12.cs
 
- 7
+ .
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+h s6 A
+\ k 
+++h s..2 =
+,,\ k.. 
+<< `` 
+@@h sCC2 =
+AA\ kCC 
+OOh sRR2 =
+PP\ kRR 
 
-SS ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_11.cs
+^^ ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_13.cs
 
- 7
+ .
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-SS ˜
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_12.cs
+YY ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_14.cs
 
- 7
+ .
 
- 
-     (
-  ## %% 
-)) ** -- (
-)) ++ 00 22 
-88 XX 
-<< == @@ (
-<< >> CC EE 
-II JJ MM (
-II KK PP RR 
+ 
+h s6 A
+\ k 
+-- [[ 
+66h s992 =
+77\ k99 
+FF \\ 
+JJh sMM2 =
+KK\ kMM 
 
-VV ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_13.cs
+YY ü
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_15.cs
 
- 7
+ .
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+h s  6 A
+\ k   
+33 hh 
+<<h s??2 =
+==\ k?? 
+MM ii 
+RRh sUU2 =
+SS\ kUU 
 
-SS ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_14.cs
+ff º
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_16.cs
 
- 7
+ .
 
- 
-     (
-  ## %% 
-++ UU 
-44 55 88 (
-44 66 ;; == 
-BB VV 
-FF GG JJ (
-FF HH MM OO 
+ 
+h s6 A
+\ k 
+.. DD 
+22h s552 =
+33\ k55 
 
-SS ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_15.cs
+BB ú
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__basic_17.cs
 
- 7
-
- 
-  !! (
-  $$ && 
-11 bb 
-:: ;; >> (
-:: << AA CC 
-II cc 
-NN OO RR (
-NN PP UU WW 
-
-`` „
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_16.cs
-
- 7
+ .
 
  
-     (
-  ## %% 
-,, @@ 
-00 11 44 (
-00 22 77 99 
+   
+h s6 A
+\ k 
+-- BB 
+// // // 
+11h s442 =
+22\ k44 
 
->> Ä
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\CWE483_Incorrect_Block_Delimitation__semicolon_17.cs
+@@ ¾
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\CWE486_Compare_Classes_by_Name__Helper.cs
 
- 7
+
+
+ 7
 
- 
-   
-     (
-  ## %% 
-++ >> 
--- -- -- 
-// 00 33 (
-// 11 66 88 
+ Ê
+¯C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\HelperClass\CWE486_Compare_Classes_by_Name__Helper.cs
 
-<< š
-‰C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\Program.cs
+
+
+ 7
+
+ •
+„C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\Program.cs
 
  
 
@@ -297,12 +285,12 @@
 UU  DD 
 [[  EE 
 aa  FF 
-yy  GG 
-  HH 
+ww  GG 
+}}  HH 
 
-……  II 
+ƒƒ  II 
 
-‹‹  JJ 
+‰‰  JJ 
 
-‘‘  KK œ
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE483_Incorrect_Block_Delimitation\Properties\AssemblyInfo.cs
+  KK —
+”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\Properties\AssemblyInfo.cs

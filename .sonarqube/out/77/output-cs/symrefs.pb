@@ -1,262 +1,262 @@
-˙
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_01.cs
+‹
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_01.cs
 
  5
 
- (
-  "" && #
-  
+ 
+   
+    % +
 
-** 
-// ,, 2
-11 66 99 == @@ #
-22 33 ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_02.cs
-
- 5
-
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
-
-bb ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_03.cs
+$$ 
+)) && 
+++ ,,  
+,, -- 11% +®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_02.cs
 
  5
 
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
 
-bb ê
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_04.cs
+JJ ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_03.cs
+
+ 5
+
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
+
+JJ ﬁ
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_04.cs
 
  5
- )   SS 
- *66 
+ )   DD 
+ *00 
 
- (
-"" !'' ** .. '
-## $$ 
-44 jj 2
-== !BB EE II LL '
->> ?? 
-QQ kk 2
-UU !ZZ ]] aa dd '
-VV WW 
+ 
+"" ## $
+## $$ (() /
+.. RR 
+77 88 $
+88 99 ==) /
+BB SS 
+FF GG $
+GG HH LL) /
 
-hh ê
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_05.cs
+PP ﬁ
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_05.cs
 
  5
-    SS 
- 66 
+    DD 
+ 00 
 
- (
-"" !'' ** .. '
-## $$ 
-44 jj 2
-== !BB EE II LL '
->> ?? 
-QQ kk 2
-UU !ZZ ]] aa dd '
-VV WW 
+ 
+"" ## $
+## $$ (() /
+.. RR 
+77 88 $
+88 99 ==) /
+BB SS 
+FF GG $
+GG HH LL) /
 
-hh Ñ
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_06.cs
+PP “
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_06.cs
 
  5(
- ( 55 RR 
+ ( // CC 
 
- (
-!! !&& )) -- '
-"" ## 
-33 ii 2
-<< !AA DD HH KK '
-== >> 
-PP jj 2
-TT !YY \\ `` cc '
-UU VV 
+ 
+!! "" $
+"" ## '') /
+-- QQ 
+66 77 $
+77 88 <<) /
+AA RR 
+EE FF $
+FF GG KK) /
 
-gg Ñ
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_07.cs
+OO “
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_07.cs
 
  5(
-  55 RR 
+  // CC 
 
- (
-!! !&& )) -- '
-"" ## 
-33 ii 2
-<< !AA DD HH KK '
-== >> 
-PP jj 2
-TT !YY \\ `` cc '
-UU VV 
+ 
+!! "" $
+"" ## '') /
+-- QQ 
+66 77 $
+77 88 <<) /
+AA RR 
+EE FF $
+FF GG KK) /
 
-gg ê
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_08.cs
+OO ﬁ
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_08.cs
 
  5
- *'' ZZ 
-   +== 
+ *'' KK 
+   +77 
 
-%% (
-)) !.. 11 55 '
-** ++ 
-;; qq 2
-DD !II LL PP SS '
-EE FF 
-XX rr 2
-\\ !aa dd hh kk '
-]] ^^ 
+%% 
+)) ** $
+** ++ //) /
+55 YY 
+>> ?? $
+?? @@ DD) /
+II ZZ 
+MM NN $
+NN OO SS) /
 
-oo ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_09.cs
-
- 5
-
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
-
-bb ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_10.cs
+WW ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_09.cs
 
  5
 
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
 
-bb ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_11.cs
-
- 5
-
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
-
-bb é
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_12.cs
+JJ ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_10.cs
 
  5
 
- (
- !!! $$ (( '
-  2
-,, !11 44 88 ;; '
--- .. 
-AA mm 2
-EE !JJ MM QQ TT '
-FF GG 2
-XX !]] `` dd gg '
-YY ZZ 
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
 
-kk ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_13.cs
-
- 5
-
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
-
-bb ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_14.cs
+JJ ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_11.cs
 
  5
 
- (
- !!! $$ (( '
-  
-.. dd 2
-77 !<< ?? CC FF '
-88 99 
-KK ee 2
-OO !TT WW [[ ^^ '
-PP QQ 
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
 
-bb ⁄
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_15.cs
-
- 5
-
- (
- !"" %% )) '
-  
-44 qq 2
-== !BB EE II LL '
->> ?? 
-RR rr 2
-WW !\\ __ cc ff '
-XX YY 
-
-oo ˙
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_16.cs
+JJ »
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_12.cs
 
  5
 
- (
- !!! $$ (( '
-  
-// II 2
-33 !88 ;; ?? BB '
-44 55 
+ 
+  $
+  "") /
+&& '' $
+'' (( ,,) /
+22 LL 
+66 77 $
+77 88 <<) /
+@@ AA $
+AA BB FF) /
 
-GG ∫
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_17.cs
+JJ ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_13.cs
+
+ 5
+
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
+
+JJ ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_14.cs
+
+ 5
+
+ 
+  $
+  "") /
+(( LL 
+11 22 $
+22 33 77) /
+<< MM 
+@@ AA $
+AA BB FF) /
+
+JJ ®
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_15.cs
+
+ 5
+
+ 
+  $
+  ##) /
+.. YY 
+77 88 $
+88 99 ==) /
+CC ZZ 
+HH II $
+II JJ NN) /
+
+WW ‹
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_16.cs
+
+ 5
+
+ 
+  $
+  "") /
+)) :: 
+-- .. $
+.. // 33) /
+
+88 ú
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\CWE481_Assigning_Instead_of_Comparing__basic_17.cs
 
  5
 
  
-   (
- !!! $$ (( '
-  
-.. GG 
-00 00 00 2
-22 !77 :: >> AA '
-33 44 
+   
+  $
+  "") /
+(( 88 
+** ** ** 
+,, -- $
+-- .. 22) /
 
-EE ú
-ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\Program.cs
+66 ú
+ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\Program.cs
 
  
 
@@ -279,4 +279,4 @@
 ââ  JJ 
 
 èè  KK û
-õC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\Properties\AssemblyInfo.cs
+õC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\Properties\AssemblyInfo.cs

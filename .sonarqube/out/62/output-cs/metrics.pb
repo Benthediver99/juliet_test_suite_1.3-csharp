@@ -1,31 +1,36 @@
-Ä
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_01.cs 8j!':r2 "#$%&'()*+./013456789:;<=>?@ABCDEGHxÇ"$)068:<>C∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_02.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahi∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_03.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahiµ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_04.cs 8j
-)/7<FT^rU !"#$%&'(*+,-./0123489:;=>?@ABCDEFGHIJKLMNOPQRUVWXYZ[\]^_`abcdefghijlmnoprsxÇ #%*,1:=BDFHJOWZ\^`bgnoµ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_05.cs 8j
-)/7<FT^rU !"#$%&'(*+,-./0123489:;=>?@ABCDEFGHIJKLMNOPQRUVWXYZ[\]^_`abcdefghijlmnoprsxÇ #%*,1:=BDFHJOWZ\^`bgno¥
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_06.cs 8j
-(.6;ES]rT !"#$%&')*+,-./0123789:<=>?@ABCDEFGHIJKLMNOPQTUVWXYZ[\]^_`abcdefghiklmnoqrxÇ"$)+09<ACEGINVY[]_afmn¥
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_07.cs 8j
-(.6;ES]rT !"#$%&')*+,-./0123789:<=>?@ABCDEFGHIJKLMNOPQTUVWXYZ[\]^_`abcdefghiklmnoqrxÇ"$)+09<ACEGINVY[]_afmnΩ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_08.cs 8j
-06>CM[er[ !"#%&'()*+,-./123456789:;?@ABDEFGHIJKLMNOPQRSTUVWXY\]^_`abcdefghijklmnopqstuvwyzxÇ"'*,138ADIKMOQV^aceginuv∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_09.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahi∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_10.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahi∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_11.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahiΩ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_12.cs 8j#)5DNar^ !"$%&'()*+,-./0123456789:;<=>?@AEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmopqrtux"Ç$&+13579>GJLNPRW]_acejq∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_13.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahi∞
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_14.cs 8j#)16@NXrS !"$%&'()*+,-.2345789:;<=>?@ABCDEFGHIJKLOPQRSTUVWXYZ[\]^_`abcdfghijlmxÇ$&+47<>@BDIQTVXZ\ahi≈
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_15.cs# 8j	$*07=FU`mr^ !"#%&'()*+,-./123489:;<>?@ABCDEFGHIJKLMNOPQRSVWXYZ[\]^_`abcdefghijklnopqstuvwyzxÇ %',.12:>?BDFHJOQX\^`bdiknouvç
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_16.cs 8
-j#)2<r: !"$%&'()*+,-./3456789:;<=>?@ABCDEFGHIKLMNPQxÇ$&+-58:<>@EGMâ
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\CWE395_Catch_NullPointerException__basic_17.cs 8
-j#)1;r8 !"$%&'()*+,-.23456789:;<=>?@ABCDEFGIJKLNOxÇ$&+479;=?DK¬
-áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\Program.cs& 
+Ó
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_01.cs	 8j!/14r$ !"#&'()+,-./012345689xÇ !(/34ñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_02.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRSñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_03.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRSõ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_04.cs 8j$&)/4;=@ELNQr@ !"#$%&'()*+,012356789:;<=>?@ABCFGHIJKLMNOPQRSTVWXYZ\]x
+Ç $()25;?@HLPQXYõ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_05.cs 8j$&)/4;=@ELNQr@ !"#$%&'()*+,012356789:;<=>?@ABCFGHIJKLMNOPQRSTVWXYZ\]x
+Ç $()25;?@HLPQXYö
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_06.cs 8j#%(.3:<?DKMPr? !"#$%&'()*+/012456789:;<=>?@ABEFGHIJKLMNOPQRSUVWXY[\x
+Ç#'(14:>?GKOPWXö
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_07.cs 8j#%(.3:<?DKMPr? !"#$%&'()*+/012456789:;<=>?@ABEFGHIJKLMNOPQRSUVWXY[\x
+Ç#'(14:>?GKOPWX£
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_08.cs 8	j+-06;BDGLSUXrF !"#%&'()*+,-./0123789:<=>?@ABCDEFGHIJMNOPQRSTUVWXYZ[]^_`acdx
+Ç"'+/09<BFGOSWX_`ñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_09.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRSñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_10.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRSñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_11.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRSõ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_12.cs 8j #*,/5<>AHJMrB !"#$%&'()*+,-./0126789:;<=>?@ABCDEFGHIJKLMNOPRSTUWXxÇ"#*./8<@AHLMTñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_13.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRSñ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_14.cs 8j #).57:?FHKr> !"#$%&*+,-/0123456789:;<=@ABCDEFGHIJKLMNPQRSTVWx
+Ç"#,/59:BFJKRS´
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_15.cs 8j!$(/5;=@FNPSWrI !"#$%&')*+,012346789:;<=>?@ABCDGHIJKLMNOPQRSTUVXYZ[]^_`acdx	Ç#$&)*267;?@BINRSUXY_`˚
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_16.cs 8j #*136r, !"#$%&'+,-./0123456789:<=>?ABxÇ"#%-1568>˜
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\CWE396_Catch_Generic_Exception__Exception_17.cs 8j #)025r* !"#$%&*+,-./012345678:;<=?@xÇ	"#,045<ø
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\Program.cs& 
 8j%&(9?ABPRVX\nrtxz~ÄÑÜäåêírZ	
 "$*+,-./024579;=CDEFGHIJKLMOSUY[]^_`abcdefghijklmoquw{}ÅÉáâçèìîïx
-Ç("*+,-0459CDEFGHIJK]^_`abcdefghijklmº
-óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE395_Catch_NullPointerException\Properties\AssemblyInfo.csj !"r	
+Ç("*+,-0459CDEFGHIJK]^_`abcdefghijklmπ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE396_Catch_Generic_Exception\Properties\AssemblyInfo.csj !"r	
 #$

@@ -12,13 +12,34 @@
       },
       "results": [
         {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE833_Deadlock/Program.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE833_Deadlock/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -39,7 +60,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE833_Deadlock/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -60,7 +81,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE833_Deadlock/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -77,100 +98,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE832_Unlock_Not_Locked__Object_Thread_01' to match pascal case naming rules, consider using 'Cwe832UnlockNotLockedObjectThread01'.",
+          "message": "Rename class 'CWE833_Deadlock__Nested_Lock_Thread_01' to match pascal case naming rules, consider using 'Cwe833DeadlockNestedLockThread01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/CWE832_Unlock_Not_Locked__Object_Thread_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE833_Deadlock/CWE833_Deadlock__Nested_Lock_Thread_01.cs",
                 "region": {
                   "startLine": 13,
                   "startColumn": 11,
                   "endLine": 13,
-                  "endColumn": 53
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/Program.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 8,
-                  "endLine": 11,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/CWE832_Unlock_Not_Locked__Object_Thread_01.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 17,
-                  "endLine": 24,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/CWE832_Unlock_Not_Locked__Object_Thread_01.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 17,
-                  "endLine": 46,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'lock2'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE832_Unlock_Not_Locked/CWE832_Unlock_Not_Locked__Object_Thread_01.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 20,
-                  "endLine": 41,
-                  "endColumn": 25
+                  "endColumn": 49
                 }
               }
             }
@@ -215,23 +152,6 @@
             ]
           }
         },
-        "S1199": {
-          "id": "S1199",
-          "shortDescription": "Nested code blocks should not be used",
-          "fullDescription": "Nested code blocks can be used to create a new scope and restrict the visibility of the variables defined inside it. Using this feature in a method typically indicates that the method has too many responsibilities, and should be refactored into smaller methods.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1199",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
         "S125": {
           "id": "S125",
           "shortDescription": "Sections of code should not be commented out",
@@ -240,23 +160,6 @@
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
           "properties": {
             "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1481": {
-          "id": "S1481",
-          "shortDescription": "Unused local variables should be removed",
-          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
-          "properties": {
-            "category": "Minor Code Smell",
             "isEnabledByDefault": true,
             "tags": [
               "C#",

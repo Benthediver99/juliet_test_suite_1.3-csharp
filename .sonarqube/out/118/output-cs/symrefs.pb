@@ -1,8 +1,8 @@
-»
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource__console_StreamReader_01.cs
+Õ
+ÖC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\CWE775_Missing_Release_of_File_Descriptor_or_Handle__StreamReader_01.cs
 
 
- E
+ N
 
   
   $ &
@@ -14,30 +14,8 @@
 ,, '..O W
 ::# +<<T \
 
-AA !Ü
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource__db_Connection_01.cs
-
-
- >
-
-  
- &  
-   (
-   !!! #
-
- 
-$$  )&&< E
--- cc 2
-// &77 :: UU $WW $2
-00 88 ;; NN PP <
-11 ;; == ??! #II KK 
-
-55 
-BB  )DD< E
-ZZ$ -\\R [
-
-aa !•
-ˆC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\Program.cs
+AA !¤
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\Program.cs
 
  
 
@@ -55,7 +33,6 @@
 gg  GG 
 mm  HH 
 ss  II 
-zz  JJ 
-
-€€  KK ›
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\Properties\AssemblyInfo.cs
+yy  JJ 
+  KK ¬
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\Properties\AssemblyInfo.cs

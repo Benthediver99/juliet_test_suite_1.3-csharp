@@ -1,375 +1,392 @@
-¨
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_01.cs
+“
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_01.cs
 
- ,
+ 4
 
- 
-  !!! $"" 
-   '!!1 E
-!! ##" -
+ 
+ ""W ]
+ ## %% )
++ 1##  
+"" $##- >
 
-(( 
--- ** 
-//  77% (88 
-22 55' +66[ _
-33 55 
-66 (775 F
-77 "99& 1ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_02.cs
+)) 
+.. ++ 
+00 99 << )
+11+ 199 $
+33, 277 
+55 77' +88[ _
+88 (991 BÍ
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_02.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-ZZ ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_03.cs
+[[ Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_03.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-ZZ ˙
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_04.cs
+[[ †
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_04.cs
 
- ,
- )## NN 
- *44 
+ 4
+ )## OO 
+ *55 
 
-!! 
-%%! $))% (** 
-(( +))5 I
-)) "++& 1
+!! 
+%% **[ a
+&& ++ --" -
+''/ 5++ $
+** (++1 B
+33 cc 
+<< EE HH" -
+==/ 5EE" (
+??0 6CC 
+AA CC+ /DD_ c
+DD ,EE5 F
+MM dd 
+QQ ZZ ]]" -
+RR/ 5ZZ" (
+TT0 6XX 
+VV XX+ /YY_ c
+YY ,ZZ5 F
+
+aa †
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_05.cs
+
+ 4
+ ## OO 
+ 55 
+
+!! 
+%% **[ a
+&& ++ --" -
+''/ 5++ $
+** (++1 B
+33 cc 
+<< EE HH" -
+==/ 5EE" (
+??0 6CC 
+AA CC+ /DD_ c
+DD ,EE5 F
+MM dd 
+QQ ZZ ]]" -
+RR/ 5ZZ" (
+TT0 6XX 
+VV XX+ /YY_ c
+YY ,ZZ5 F
+
+aa î
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_06.cs
+
+ 4(
+ ("" 44 NN 
+
+   
+$$ ))[ a
+%% ** ,," -
+&&/ 5** $
+)) (**1 B
 22 bb 
-;;! $CC) ,DD 
->> AA+ /BB_ c
-?? !AA 
-BB ,CC9 J
-CC &EE* 5
+;; DD GG" -
+<</ 5DD" (
+>>0 6BB 
+@@ BB+ /CC_ c
+CC ,DD5 F
 LL cc 
-PP! $XX) ,YY 
-SS VV+ /WW_ c
-TT !VV 
-WW ,XX9 J
-XX &ZZ* 5
+PP YY \\" -
+QQ/ 5YY" (
+SS0 6WW 
+UU WW+ /XX_ c
+XX ,YY5 F
 
-`` ˙
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_05.cs
+`` î
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_07.cs
 
- ,
- ## NN 
- 44 
+ 4(
+ "" 44 NN 
 
-!! 
-%%! $))% (** 
-(( +))5 I
-)) "++& 1
+   
+$$ ))[ a
+%% ** ,," -
+&&/ 5** $
+)) (**1 B
 22 bb 
-;;! $CC) ,DD 
->> AA+ /BB_ c
-?? !AA 
-BB ,CC9 J
-CC &EE* 5
+;; DD GG" -
+<</ 5DD" (
+>>0 6BB 
+@@ BB+ /CC_ c
+CC ,DD5 F
 LL cc 
-PP! $XX) ,YY 
-SS VV+ /WW_ c
-TT !VV 
-WW ,XX9 J
-XX &ZZ* 5
+PP YY \\" -
+QQ/ 5YY" (
+SS0 6WW 
+UU WW+ /XX_ c
+XX ,YY5 F
 
-`` Ó
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_06.cs
+`` †
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_08.cs
 
- ,(
- ("" 33 MM 
+ 4
+ *** VV 
+## +<< 
 
-   
-$$! $((% ()) 
-'' +((5 I
-(( "**& 1
-11 aa 
-::! $BB) ,CC 
-== @@+ /AA_ c
->> !@@ 
-AA ,BB9 J
-BB &DD* 5
-KK bb 
-OO! $WW) ,XX 
-RR UU+ /VV_ c
-SS !UU 
-VV ,WW9 J
-WW &YY* 5
+(( 
+,, 11[ a
+-- 22 44" -
+../ 522 $
+11 (221 B
+:: jj 
+CC LL OO" -
+DD/ 5LL" (
+FF0 6JJ 
+HH JJ+ /KK_ c
+KK ,LL5 F
+TT kk 
+XX aa dd" -
+YY/ 5aa" (
+[[0 6__ 
+]] __+ /``_ c
+`` ,aa5 F
 
-__ Ó
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_07.cs
+hh Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_09.cs
 
- ,(
- "" 33 MM 
+ 4
 
-   
-$$! $((% ()) 
-'' +((5 I
-(( "**& 1
-11 aa 
-::! $BB) ,CC 
-== @@+ /AA_ c
->> !@@ 
-AA ,BB9 J
-BB &DD* 5
-KK bb 
-OO! $WW) ,XX 
-RR UU+ /VV_ c
-SS !UU 
-VV ,WW9 J
-WW &YY* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-__ ˙
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_08.cs
+[[ Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_10.cs
 
- ,
- *** UU 
-## +;; 
+ 4
 
-(( 
-,,! $00% (11 
-// +005 I
-00 "22& 1
-99 ii 
-BB! $JJ) ,KK 
-EE HH+ /II_ c
-FF !HH 
-II ,JJ9 J
-JJ &LL* 5
-SS jj 
-WW! $__) ,`` 
-ZZ ]]+ /^^_ c
-[[ !]] 
-^^ ,__9 J
-__ &aa* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-gg ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_09.cs
+[[ Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_11.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-ZZ ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_10.cs
+[[ ÷
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_12.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+++ 44 77" -
+,,/ 544" (
+..0 622 
+00 22+ /33_ c
+33 ,445 F
+== cc 
+AA JJ MM" -
+BB/ 5JJ" (
+DD0 6HH 
+FF HH+ /II_ c
+II ,JJ5 F
+QQ ZZ ]]" -
+RR/ 5ZZ" (
+TT0 6XX 
+VV XX+ /YY_ c
+YY ,ZZ5 F
 
-ZZ ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_11.cs
+aa Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_13.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-ZZ ∞
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_12.cs
+[[ Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_14.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-**! $22) ,33 
--- 00+ /11_ c
-.. !00 
-11 ,229 J
-22 &44* 5
-<< bb 
-@@! $HH) ,II 
-CC FF+ /GG_ c
-DD !FF 
-GG ,HH9 J
-HH &JJ* 5
-PP! $XX) ,YY 
-SS VV+ /WW_ c
-TT !VV 
-WW ,XX9 J
-XX &ZZ* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- ]] 
+66 ?? BB" -
+77/ 5??" (
+990 6== 
+;; ==+ />>_ c
+>> ,??5 F
+GG ^^ 
+KK TT WW" -
+LL/ 5TT" (
+NN0 6RR 
+PP RR+ /SS_ c
+SS ,TT5 F
 
-`` ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_13.cs
+[[ Í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_15.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+   %%[ a
+!! && ((" -
+""/ 5&& $
+%% (&&1 B
+33 jj 
+<< EE HH" -
+==/ 5EE" (
+??0 6CC 
+AA CC+ /DD_ c
+DD ,EE5 F
+NN kk 
+SS \\ __" -
+TT/ 5\\" (
+VV0 6ZZ 
+XX ZZ+ /[[_ c
+[[ ,\\5 F
 
-ZZ ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_14.cs
+hh “
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_16.cs
 
- ,
+ 4
 
- 
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, \\ 
-55! $==) ,>> 
-88 ;;+ /<<_ c
-99 !;; 
-<< ,==9 J
-== &??* 5
-FF ]] 
-JJ! $RR) ,SS 
-MM PP+ /QQ_ c
-NN !PP 
-QQ ,RR9 J
-RR &TT* 5
+ 
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+.. EE 
+22 ;; >>" -
+33/ 5;;" (
+550 699 
+77 99+ /::_ c
+:: ,;;5 F
 
-ZZ ƒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_15.cs
+CC í
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\CWE760_Predictable_Salt_One_Way_Hash__basic_17.cs
 
- ,
-
- 
-  ! $$$% (%% 
-## +$$5 I
-$$ "&&& 1
-22 ii 
-;;! $CC) ,DD 
->> AA+ /BB_ c
-?? !AA 
-BB ,CC9 J
-CC &EE* 5
-MM jj 
-RR! $ZZ) ,[[ 
-UU XX+ /YY_ c
-VV !XX 
-YY ,ZZ9 J
-ZZ &\\* 5
-
-gg ¨
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_16.cs
-
- ,
+ 4
 
  
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
--- DD 
-11! $99) ,:: 
-44 77+ /88_ c
-55 !77 
-88 ,999 J
-99 &;;* 5
+   
+ $$[ a
+   %% ''" -
+!!/ 5%% $
+$$ (%%1 B
+-- CC 
+// // // 
+11 :: ==" -
+22/ 5::" (
+440 688 
+66 88+ /99_ c
+99 ,::5 F
 
-BB Ï
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\CWE759_Unsalted_One_Way_Hash__basic_17.cs
-
- ,
-
- 
-   
-! $##% ($$ 
-"" +##5 I
-## "%%& 1
-,, BB 
-.. .. .. 
-00! $88) ,99 
-33 66+ /77_ c
-44 !66 
-77 ,889 J
-88 &::* 5
-
-@@ ë
-ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\Program.cs
+AA ô
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\Program.cs
 
  
 
@@ -390,5 +407,5 @@
 
 ââ  JJ 
 
-èè  KK ï
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE759_Unsalted_One_Way_Hash\Properties\AssemblyInfo.cs
+èè  KK ù
+öC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE760_Predictable_Salt_One_Way_Hash\Properties\AssemblyInfo.cs

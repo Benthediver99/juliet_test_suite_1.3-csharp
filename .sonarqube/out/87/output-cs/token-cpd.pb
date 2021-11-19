@@ -1,1260 +1,604 @@
-˜
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01.cs
-	namespace 	
-	testcases
+•
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_01.cs
+	namespace 	
+	testcases
  
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01 <
-:= >
-AbstractTestCase? O
-{ 
-public 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_01 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-) 
-{ 
-Logger 
-logger 
-= 
-
-LogManager "
-." #
-	GetLogger# ,
-(, -
-$str- C
-)C D
-;D E
-string 
-dbConnectionString !
-=" #
-$str$ n
-;n o
-try 
-{   	
-using!! 
-(!! 
-SqlConnection!!  
-dBConnection!!! -
-=!!. /
-new!!0 3
-SqlConnection!!4 A
-(!!A B
-dbConnectionString!!B T
-)!!T U
-)!!U V
-{"" 
-dBConnection## 
-.## 
-Open## !
-(##! "
-)##" #
-;### $
-}$$ 
-}%% 	
-catch&& 
-(&& 
-SqlException&& 
-	exceptSql&& %
-)&&% &
-{'' 	
-logger)) 
-.)) 
-Log)) 
-()) 
-LogLevel)) 
-.))  
-Warn))  $
-,))$ %
-$str))& K
-+))L M
-dbConnectionString))N `
-,))` a
-	exceptSql))b k
-)))k l
-;))l m
-}** 	
-}++ 
-public.. 
+override 
+void 
+Bad 
+( 
+) 
+{ 
+string 
+dbConnectionString !
+=" #
+$str$ n
+;n o
+try 
+{ 	
+using 
+( 
+SqlConnection  
+dBConnection! -
+=. /
+new0 3
+SqlConnection4 A
+(A B
+dbConnectionStringB T
+)T U
+)U V
+{   
+dBConnection!! 
+.!! 
+Open!! !
+(!!! "
+)!!" #
+;!!# $
+}"" 
+}## 	
+catch$$ 
+($$ 
+SqlException$$ 
+	exceptSql$$ %
+)$$% &
+{%% 	
+Console'' 
+.'' 
+	WriteLine'' 
+('' 
+$str'' C
++''D E
+dbConnectionString''F X
+)''X Y
+;''Y Z
+Console(( 
+.(( 
+	WriteLine(( 
+((( 
+	exceptSql(( '
+)((' (
+;((( )
+})) 	
+}** 
+public-- 
 
-override.. 
-void.. 
-Good.. 
-(.. 
-).. 
-{// 
-Good100 
-(00 
-)00 
-;00 
-}11 
-private33 
-void33 
-Good133 
-(33 
-)33 
-{44 
-Logger55 
-logger55 
-=55 
-
-LogManager55 "
-.55" #
-	GetLogger55# ,
-(55, -
-$str55- C
-)55C D
-;55D E
-string66 
-dbConnectionString66 !
-=66" #
-$str66$ n
-;66n o
-try77 
-{88 	
-using99 
-(99 
-SqlConnection99  
-dBConnection99! -
-=99. /
-new990 3
-SqlConnection994 A
-(99A B
-dbConnectionString99B T
-)99T U
-)99U V
-{:: 
-dBConnection;; 
-.;; 
-Open;; !
-(;;! "
-);;" #
-;;;# $
-}<< 
-}== 	
-catch>> 
-(>> 
-SqlException>> 
-	exceptSql>> %
-)>>% &
-{?? 	
-loggerAA 
-.AA 
-LogAA 
-(AA 
-LogLevelAA 
-.AA  
-WarnAA  $
-,AA$ %
-$strAA& I
-,AAI J
-	exceptSqlAAK T
-)AAT U
-;AAU V
-}BB 	
-}CC 
-}EE 
-}FF ¯$
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-true 
-) 
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
+override-- 
+void-- 
+Good-- 
+(-- 
+)-- 
+{.. 
+Good1// 
+(// 
+)// 
+;// 
+}00 
 private22 
 void22 
 Good122 
 (22 
 )22 
-{33 
-if44 
-
-(44 
-false44 
-)44 
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
-
-(OO 
-trueOO 
-)OO 
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
-
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii ›%
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03.cs
-	namespace 	
-	testcases
+{33 
+string44 
+dbConnectionString44 !
+=44" #
+$str44$ n
+;44n o
+try55 
+{66 	
+using77 
+(77 
+SqlConnection77  
+dBConnection77! -
+=77. /
+new770 3
+SqlConnection774 A
+(77A B
+dbConnectionString77B T
+)77T U
+)77U V
+{88 
+dBConnection99 
+.99 
+Open99 !
+(99! "
+)99" #
+;99# $
+}:: 
+};; 	
+catch<< 
+(<< 
+SqlException<< 
+	exceptSql<< %
+)<<% &
+{== 	
+Console?? 
+.?? 
+	WriteLine?? 
+(?? 
+	exceptSql?? '
+)??' (
+;??( )
+}@@ 	
+}AA 
+}CC 
+}DD í
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_02.cs
+	namespace 	
+	testcases
  
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03 <
-:= >
-AbstractTestCase? O
-{ 
-public 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_02 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
 
-( 
-$num 
-== 
-$num 
-) 
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
-private22 
-void22 
-Good122 
-(22 
-)22 
-{33 
-if44 
+( 
+true 
+) 
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
 
-(44 
-$num44 
-!=44 
-$num44 
-)44 
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
+(33 
+false33 
+)33 
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
 
-(OO 
-$numOO 
-==OO 
-$numOO 
-)OO 
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
+(MM 
+trueMM 
+)MM 
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
 
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii ∏'
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04.cs
-	namespace 	
-	testcases
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff ˜
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_03.cs
+	namespace 	
+	testcases
  
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04 <
-:= >
-AbstractTestCase? O
-{ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_03 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+$num 
+== 
+$num 
+) 
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
+
+(33 
+$num33 
+!=33 
+$num33 
+)33 
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
+
+(MM 
+$numMM 
+==MM 
+$numMM 
+)MM 
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
+
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff “!
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_04.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_04 3
+:4 5
+AbstractTestCase6 F
+{ 
+private 
+const 
+bool 
+PRIVATE_CONST_TRUE )
+=* +
+true, 0
+;0 1
 private 
 const 
-bool 
-PRIVATE_CONST_TRUE )
-=* +
-true, 0
-;0 1
-private 
-const 
-bool 
-PRIVATE_CONST_FALSE *
-=+ ,
-false- 2
-;2 3
-public!! 
-
-override!! 
-void!! 
-Bad!! 
-(!! 
-)!! 
-{"" 
-if## 
-
-(## 
-PRIVATE_CONST_TRUE## 
-)## 
-{$$ 	
-Logger%% 
-logger%% 
-=%% 
-
-LogManager%% &
-.%%& '
-	GetLogger%%' 0
-(%%0 1
-$str%%1 G
-)%%G H
-;%%H I
-string&& 
-dbConnectionString&& %
-=&&& '
-$str&&( r
-;&&r s
-try'' 
-{(( 
-using)) 
-()) 
-SqlConnection)) $
-dBConnection))% 1
-=))2 3
-new))4 7
-SqlConnection))8 E
-())E F
-dbConnectionString))F X
-)))X Y
-)))Y Z
-{** 
-dBConnection++  
-.++  !
-Open++! %
-(++% &
-)++& '
-;++' (
-},, 
-}-- 
-catch.. 
-(.. 
-SqlException.. 
-	exceptSql..  )
-)..) *
-{// 
-logger11 
-.11 
-Log11 
-(11 
-LogLevel11 #
-.11# $
-Warn11$ (
-,11( )
-$str11* O
-+11P Q
-dbConnectionString11R d
-,11d e
-	exceptSql11f o
-)11o p
-;11p q
-}22 
-}33 	
-}44 
-private88 
-void88 
-Good188 
-(88 
-)88 
-{99 
-if:: 
-
-(:: 
-PRIVATE_CONST_FALSE:: 
-)::  
-{;; 	
-IO== 
-.== 
-	WriteLine== 
-(== 
-$str== /
-)==/ 0
-;==0 1
-}>> 	
-else?? 
-{@@ 	
-LoggerAA 
-loggerAA 
-=AA 
-
-LogManagerAA &
-.AA& '
-	GetLoggerAA' 0
-(AA0 1
-$strAA1 G
-)AAG H
-;AAH I
-stringBB 
-dbConnectionStringBB %
-=BB& '
-$strBB( r
-;BBr s
-tryCC 
-{DD 
-usingEE 
-(EE 
-SqlConnectionEE $
-dBConnectionEE% 1
-=EE2 3
-newEE4 7
-SqlConnectionEE8 E
-(EEE F
-dbConnectionStringEEF X
-)EEX Y
-)EEY Z
-{FF 
-dBConnectionGG  
-.GG  !
-OpenGG! %
-(GG% &
-)GG& '
-;GG' (
-}HH 
-}II 
-catchJJ 
-(JJ 
-SqlExceptionJJ 
-	exceptSqlJJ  )
-)JJ) *
-{KK 
-loggerMM 
-.MM 
-LogMM 
-(MM 
-LogLevelMM #
-.MM# $
-WarnMM$ (
-,MM( )
-$strMM* M
-,MMM N
-	exceptSqlMMO X
-)MMX Y
-;MMY Z
-}NN 
-}OO 	
-}PP 
-privateSS 
-voidSS 
-Good2SS 
-(SS 
-)SS 
-{TT 
-ifUU 
-
-(UU 
-PRIVATE_CONST_TRUEUU 
-)UU 
-{VV 	
-LoggerWW 
-loggerWW 
-=WW 
-
-LogManagerWW &
-.WW& '
-	GetLoggerWW' 0
-(WW0 1
-$strWW1 G
-)WWG H
-;WWH I
-stringXX 
-dbConnectionStringXX %
-=XX& '
-$strXX( r
-;XXr s
-tryYY 
-{ZZ 
-using[[ 
-([[ 
-SqlConnection[[ $
-dBConnection[[% 1
-=[[2 3
-new[[4 7
-SqlConnection[[8 E
-([[E F
-dbConnectionString[[F X
-)[[X Y
-)[[Y Z
-{\\ 
-dBConnection]]  
-.]]  !
-Open]]! %
-(]]% &
-)]]& '
-;]]' (
-}^^ 
-}__ 
-catch`` 
-(`` 
-SqlException`` 
-	exceptSql``  )
-)``) *
-{aa 
-loggercc 
-.cc 
-Logcc 
-(cc 
-LogLevelcc #
-.cc# $
-Warncc$ (
-,cc( )
-$strcc* M
-,ccM N
-	exceptSqlccO X
-)ccX Y
-;ccY Z
-}dd 
-}ee 	
-}ff 
-publichh 
-
-overridehh 
-voidhh 
-Goodhh 
-(hh 
-)hh 
-{ii 
-Good1jj 
-(jj 
-)jj 
-;jj 
-Good2kk 
-(kk 
-)kk 
-;kk 
-}ll 
-}nn 
-}oo Ô&
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05 <
-:= >
-AbstractTestCase? O
-{ 
-private 
-bool 
-privateTrue 
-= 
-true #
-;# $
-private 
-bool 
-privateFalse 
-= 
-false  %
-;% &
-public!! 
-
-override!! 
-void!! 
-Bad!! 
-(!! 
-)!! 
-{"" 
-if## 
-
-(## 
-privateTrue## 
-)## 
-{$$ 	
-Logger%% 
-logger%% 
-=%% 
-
-LogManager%% &
-.%%& '
-	GetLogger%%' 0
-(%%0 1
-$str%%1 G
-)%%G H
-;%%H I
-string&& 
-dbConnectionString&& %
-=&&& '
-$str&&( r
-;&&r s
-try'' 
-{(( 
-using)) 
-()) 
-SqlConnection)) $
-dBConnection))% 1
-=))2 3
-new))4 7
-SqlConnection))8 E
-())E F
-dbConnectionString))F X
-)))X Y
-)))Y Z
-{** 
-dBConnection++  
-.++  !
-Open++! %
-(++% &
-)++& '
-;++' (
-},, 
-}-- 
-catch.. 
-(.. 
-SqlException.. 
-	exceptSql..  )
-)..) *
-{// 
-logger11 
-.11 
-Log11 
-(11 
-LogLevel11 #
-.11# $
-Warn11$ (
-,11( )
-$str11* O
-+11P Q
-dbConnectionString11R d
-,11d e
-	exceptSql11f o
-)11o p
-;11p q
-}22 
-}33 	
-}44 
-private88 
-void88 
-Good188 
-(88 
-)88 
-{99 
-if:: 
-
-(:: 
-privateFalse:: 
-):: 
-{;; 	
-IO== 
-.== 
-	WriteLine== 
-(== 
-$str== /
-)==/ 0
-;==0 1
-}>> 	
-else?? 
-{@@ 	
-LoggerAA 
-loggerAA 
-=AA 
-
-LogManagerAA &
-.AA& '
-	GetLoggerAA' 0
-(AA0 1
-$strAA1 G
-)AAG H
-;AAH I
-stringBB 
-dbConnectionStringBB %
-=BB& '
-$strBB( r
-;BBr s
-tryCC 
-{DD 
-usingEE 
-(EE 
-SqlConnectionEE $
-dBConnectionEE% 1
-=EE2 3
-newEE4 7
-SqlConnectionEE8 E
-(EEE F
-dbConnectionStringEEF X
-)EEX Y
-)EEY Z
-{FF 
-dBConnectionGG  
-.GG  !
-OpenGG! %
-(GG% &
-)GG& '
-;GG' (
-}HH 
-}II 
-catchJJ 
-(JJ 
-SqlExceptionJJ 
-	exceptSqlJJ  )
-)JJ) *
-{KK 
-loggerMM 
-.MM 
-LogMM 
-(MM 
-LogLevelMM #
-.MM# $
-WarnMM$ (
-,MM( )
-$strMM* M
-,MMM N
-	exceptSqlMMO X
-)MMX Y
-;MMY Z
-}NN 
-}OO 	
-}PP 
-privateSS 
-voidSS 
-Good2SS 
-(SS 
-)SS 
-{TT 
-ifUU 
-
-(UU 
-privateTrueUU 
-)UU 
-{VV 	
-LoggerWW 
-loggerWW 
-=WW 
-
-LogManagerWW &
-.WW& '
-	GetLoggerWW' 0
-(WW0 1
-$strWW1 G
-)WWG H
-;WWH I
-stringXX 
-dbConnectionStringXX %
-=XX& '
-$strXX( r
-;XXr s
-tryYY 
-{ZZ 
-using[[ 
-([[ 
-SqlConnection[[ $
-dBConnection[[% 1
-=[[2 3
-new[[4 7
-SqlConnection[[8 E
-([[E F
-dbConnectionString[[F X
-)[[X Y
-)[[Y Z
-{\\ 
-dBConnection]]  
-.]]  !
-Open]]! %
-(]]% &
-)]]& '
-;]]' (
-}^^ 
-}__ 
-catch`` 
-(`` 
-SqlException`` 
-	exceptSql``  )
-)``) *
-{aa 
-loggercc 
-.cc 
-Logcc 
-(cc 
-LogLevelcc #
-.cc# $
-Warncc$ (
-,cc( )
-$strcc* M
-,ccM N
-	exceptSqlccO X
-)ccX Y
-;ccY Z
-}dd 
-}ee 	
-}ff 
-publichh 
-
-overridehh 
-voidhh 
-Goodhh 
-(hh 
-)hh 
-{ii 
-Good1jj 
-(jj 
-)jj 
-;jj 
-Good2kk 
-(kk 
-)kk 
-;kk 
-}ll 
-}nn 
-}oo ê'
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06 <
-:= >
-AbstractTestCase? O
-{ 
-private 
-const 
-int 
-PRIVATE_CONST_FIVE (
-=) *
-$num+ ,
-;, -
+bool 
+PRIVATE_CONST_FALSE *
+=+ ,
+false- 2
+;2 3
 public   
 
 override   
@@ -1266,70 +610,58 @@ LogManagerWW &
 if"" 
 
 ("" 
-PRIVATE_CONST_FIVE"" 
-=="" !
-$num""" #
-)""# $
+PRIVATE_CONST_TRUE"" 
+)"" 
 {## 	
-Logger$$ 
-logger$$ 
-=$$ 
-
-LogManager$$ &
-.$$& '
-	GetLogger$$' 0
-($$0 1
-$str$$1 G
-)$$G H
-;$$H I
-string%% 
-dbConnectionString%% %
-=%%& '
-$str%%( r
-;%%r s
-try&& 
-{'' 
-using(( 
-((( 
-SqlConnection(( $
-dBConnection((% 1
-=((2 3
-new((4 7
-SqlConnection((8 E
-(((E F
-dbConnectionString((F X
-)((X Y
-)((Y Z
-{)) 
-dBConnection**  
-.**  !
-Open**! %
-(**% &
-)**& '
-;**' (
-}++ 
-},, 
-catch-- 
-(-- 
-SqlException-- 
-	exceptSql--  )
-)--) *
-{.. 
-logger00 
-.00 
-Log00 
-(00 
-LogLevel00 #
-.00# $
-Warn00$ (
-,00( )
-$str00* O
-+00P Q
-dbConnectionString00R d
-,00d e
-	exceptSql00f o
-)00o p
-;00p q
+string$$ 
+dbConnectionString$$ %
+=$$& '
+$str$$( r
+;$$r s
+try%% 
+{&& 
+using'' 
+('' 
+SqlConnection'' $
+dBConnection''% 1
+=''2 3
+new''4 7
+SqlConnection''8 E
+(''E F
+dbConnectionString''F X
+)''X Y
+)''Y Z
+{(( 
+dBConnection))  
+.))  !
+Open))! %
+())% &
+)))& '
+;))' (
+}** 
+}++ 
+catch,, 
+(,, 
+SqlException,, 
+	exceptSql,,  )
+),,) *
+{-- 
+Console// 
+.// 
+	WriteLine// !
+(//! "
+$str//" G
++//H I
+dbConnectionString//J \
+)//\ ]
+;//] ^
+Console00 
+.00 
+	WriteLine00 !
+(00! "
+	exceptSql00" +
+)00+ ,
+;00, -
 }11 
 }22 	
 }33 
@@ -1341,11 +673,9 @@ LogManager$$ &
 {88 
 if99 
 
-(99 
-PRIVATE_CONST_FIVE99 
-!=99 !
-$num99" #
-)99# $
+(99 
+PRIVATE_CONST_FALSE99 
+)99  
 {:: 	
 IO<< 
 .<< 
@@ -1357,177 +687,147 @@ LogManager$$ &
 }== 	
 else>> 
 {?? 	
-Logger@@ 
-logger@@ 
-=@@ 
-
-LogManager@@ &
-.@@& '
-	GetLogger@@' 0
-(@@0 1
-$str@@1 G
-)@@G H
-;@@H I
-stringAA 
-dbConnectionStringAA %
-=AA& '
-$strAA( r
-;AAr s
-tryBB 
-{CC 
-usingDD 
-(DD 
-SqlConnectionDD $
-dBConnectionDD% 1
-=DD2 3
-newDD4 7
-SqlConnectionDD8 E
-(DDE F
-dbConnectionStringDDF X
-)DDX Y
-)DDY Z
-{EE 
-dBConnectionFF  
-.FF  !
-OpenFF! %
-(FF% &
-)FF& '
-;FF' (
-}GG 
-}HH 
-catchII 
-(II 
-SqlExceptionII 
-	exceptSqlII  )
-)II) *
-{JJ 
-loggerLL 
-.LL 
-LogLL 
-(LL 
-LogLevelLL #
-.LL# $
-WarnLL$ (
-,LL( )
-$strLL* M
-,LLM N
-	exceptSqlLLO X
-)LLX Y
-;LLY Z
-}MM 
-}NN 	
-}OO 
-privateRR 
-voidRR 
-Good2RR 
-(RR 
-)RR 
-{SS 
-ifTT 
+string@@ 
+dbConnectionString@@ %
+=@@& '
+$str@@( r
+;@@r s
+tryAA 
+{BB 
+usingCC 
+(CC 
+SqlConnectionCC $
+dBConnectionCC% 1
+=CC2 3
+newCC4 7
+SqlConnectionCC8 E
+(CCE F
+dbConnectionStringCCF X
+)CCX Y
+)CCY Z
+{DD 
+dBConnectionEE  
+.EE  !
+OpenEE! %
+(EE% &
+)EE& '
+;EE' (
+}FF 
+}GG 
+catchHH 
+(HH 
+SqlExceptionHH 
+	exceptSqlHH  )
+)HH) *
+{II 
+ConsoleKK 
+.KK 
+	WriteLineKK !
+(KK! "
+	exceptSqlKK" +
+)KK+ ,
+;KK, -
+}LL 
+}MM 	
+}NN 
+privateQQ 
+voidQQ 
+Good2QQ 
+(QQ 
+)QQ 
+{RR 
+ifSS 
 
-(TT 
-PRIVATE_CONST_FIVETT 
-==TT !
-$numTT" #
-)TT# $
-{UU 	
-LoggerVV 
-loggerVV 
-=VV 
-
-LogManagerVV &
-.VV& '
-	GetLoggerVV' 0
-(VV0 1
-$strVV1 G
-)VVG H
-;VVH I
-stringWW 
-dbConnectionStringWW %
-=WW& '
-$strWW( r
-;WWr s
-tryXX 
-{YY 
-usingZZ 
-(ZZ 
-SqlConnectionZZ $
-dBConnectionZZ% 1
-=ZZ2 3
-newZZ4 7
-SqlConnectionZZ8 E
-(ZZE F
-dbConnectionStringZZF X
-)ZZX Y
-)ZZY Z
-{[[ 
-dBConnection\\  
-.\\  !
-Open\\! %
-(\\% &
-)\\& '
-;\\' (
-}]] 
-}^^ 
-catch__ 
-(__ 
-SqlException__ 
-	exceptSql__  )
-)__) *
-{`` 
-loggerbb 
-.bb 
-Logbb 
-(bb 
-LogLevelbb #
-.bb# $
-Warnbb$ (
-,bb( )
-$strbb* M
-,bbM N
-	exceptSqlbbO X
-)bbX Y
-;bbY Z
-}cc 
-}dd 	
-}ee 
-publicgg 
+(SS 
+PRIVATE_CONST_TRUESS 
+)SS 
+{TT 	
+stringUU 
+dbConnectionStringUU %
+=UU& '
+$strUU( r
+;UUr s
+tryVV 
+{WW 
+usingXX 
+(XX 
+SqlConnectionXX $
+dBConnectionXX% 1
+=XX2 3
+newXX4 7
+SqlConnectionXX8 E
+(XXE F
+dbConnectionStringXXF X
+)XXX Y
+)XXY Z
+{YY 
+dBConnectionZZ  
+.ZZ  !
+OpenZZ! %
+(ZZ% &
+)ZZ& '
+;ZZ' (
+}[[ 
+}\\ 
+catch]] 
+(]] 
+SqlException]] 
+	exceptSql]]  )
+)]]) *
+{^^ 
+Console`` 
+.`` 
+	WriteLine`` !
+(``! "
+	exceptSql``" +
+)``+ ,
+;``, -
+}aa 
+}bb 	
+}cc 
+publicee 
 
-overridegg 
-voidgg 
-Goodgg 
-(gg 
-)gg 
-{hh 
-Good1ii 
-(ii 
-)ii 
-;ii 
-Good2jj 
-(jj 
-)jj 
-;jj 
-}kk 
-}mm 
-}nn ·&
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07.cs
-	namespace 	
-	testcases
+overrideee 
+voidee 
+Goodee 
+(ee 
+)ee 
+{ff 
+Good1gg 
+(gg 
+)gg 
+;gg 
+Good2hh 
+(hh 
+)hh 
+;hh 
+}ii 
+}kk 
+}ll â!
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_05.cs
+	namespace 	
+	testcases
  
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07 <
-:= >
-AbstractTestCase? O
-{ 
-private 
-int 
-privateFive 
-= 
-$num 
-;  
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_05 3
+:4 5
+AbstractTestCase6 F
+{ 
+private 
+bool 
+privateTrue 
+= 
+true #
+;# $
+private 
+bool 
+privateFalse 
+= 
+false  %
+;% &
 public   
 
 override   
@@ -1539,70 +839,58 @@ LogManagerVV &
 if"" 
 
 ("" 
-privateFive"" 
-=="" 
-$num"" 
-)"" 
+privateTrue"" 
+)"" 
 {## 	
-Logger$$ 
-logger$$ 
-=$$ 
-
-LogManager$$ &
-.$$& '
-	GetLogger$$' 0
-($$0 1
-$str$$1 G
-)$$G H
-;$$H I
-string%% 
-dbConnectionString%% %
-=%%& '
-$str%%( r
-;%%r s
-try&& 
-{'' 
-using(( 
-((( 
-SqlConnection(( $
-dBConnection((% 1
-=((2 3
-new((4 7
-SqlConnection((8 E
-(((E F
-dbConnectionString((F X
-)((X Y
-)((Y Z
-{)) 
-dBConnection**  
-.**  !
-Open**! %
-(**% &
-)**& '
-;**' (
-}++ 
-},, 
-catch-- 
-(-- 
-SqlException-- 
-	exceptSql--  )
-)--) *
-{.. 
-logger00 
-.00 
-Log00 
-(00 
-LogLevel00 #
-.00# $
-Warn00$ (
-,00( )
-$str00* O
-+00P Q
-dbConnectionString00R d
-,00d e
-	exceptSql00f o
-)00o p
-;00p q
+string$$ 
+dbConnectionString$$ %
+=$$& '
+$str$$( r
+;$$r s
+try%% 
+{&& 
+using'' 
+('' 
+SqlConnection'' $
+dBConnection''% 1
+=''2 3
+new''4 7
+SqlConnection''8 E
+(''E F
+dbConnectionString''F X
+)''X Y
+)''Y Z
+{(( 
+dBConnection))  
+.))  !
+Open))! %
+())% &
+)))& '
+;))' (
+}** 
+}++ 
+catch,, 
+(,, 
+SqlException,, 
+	exceptSql,,  )
+),,) *
+{-- 
+Console// 
+.// 
+	WriteLine// !
+(//! "
+$str//" G
++//H I
+dbConnectionString//J \
+)//\ ]
+;//] ^
+Console00 
+.00 
+	WriteLine00 !
+(00! "
+	exceptSql00" +
+)00+ ,
+;00, -
 }11 
 }22 	
 }33 
@@ -1614,11 +902,9 @@ LogManager$$ &
 {88 
 if99 
 
-(99 
-privateFive99 
-!=99 
-$num99 
-)99 
+(99 
+privateFalse99 
+)99 
 {:: 	
 IO<< 
 .<< 
@@ -1630,64 +916,2370 @@ LogManager$$ &
 }== 	
 else>> 
 {?? 	
-Logger@@ 
-logger@@ 
-=@@ 
+string@@ 
+dbConnectionString@@ %
+=@@& '
+$str@@( r
+;@@r s
+tryAA 
+{BB 
+usingCC 
+(CC 
+SqlConnectionCC $
+dBConnectionCC% 1
+=CC2 3
+newCC4 7
+SqlConnectionCC8 E
+(CCE F
+dbConnectionStringCCF X
+)CCX Y
+)CCY Z
+{DD 
+dBConnectionEE  
+.EE  !
+OpenEE! %
+(EE% &
+)EE& '
+;EE' (
+}FF 
+}GG 
+catchHH 
+(HH 
+SqlExceptionHH 
+	exceptSqlHH  )
+)HH) *
+{II 
+ConsoleKK 
+.KK 
+	WriteLineKK !
+(KK! "
+	exceptSqlKK" +
+)KK+ ,
+;KK, -
+}LL 
+}MM 	
+}NN 
+privateQQ 
+voidQQ 
+Good2QQ 
+(QQ 
+)QQ 
+{RR 
+ifSS 
+
+(SS 
+privateTrueSS 
+)SS 
+{TT 	
+stringUU 
+dbConnectionStringUU %
+=UU& '
+$strUU( r
+;UUr s
+tryVV 
+{WW 
+usingXX 
+(XX 
+SqlConnectionXX $
+dBConnectionXX% 1
+=XX2 3
+newXX4 7
+SqlConnectionXX8 E
+(XXE F
+dbConnectionStringXXF X
+)XXX Y
+)XXY Z
+{YY 
+dBConnectionZZ  
+.ZZ  !
+OpenZZ! %
+(ZZ% &
+)ZZ& '
+;ZZ' (
+}[[ 
+}\\ 
+catch]] 
+(]] 
+SqlException]] 
+	exceptSql]]  )
+)]]) *
+{^^ 
+Console`` 
+.`` 
+	WriteLine`` !
+(``! "
+	exceptSql``" +
+)``+ ,
+;``, -
+}aa 
+}bb 	
+}cc 
+publicee 
+
+overrideee 
+voidee 
+Goodee 
+(ee 
+)ee 
+{ff 
+Good1gg 
+(gg 
+)gg 
+;gg 
+Good2hh 
+(hh 
+)hh 
+;hh 
+}ii 
+}kk 
+}ll ™!
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_06.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_06 3
+:4 5
+AbstractTestCase6 F
+{ 
+private 
+const 
+int 
+PRIVATE_CONST_FIVE (
+=) *
+$num+ ,
+;, -
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{   
+if!! 
+
+(!! 
+PRIVATE_CONST_FIVE!! 
+==!! !
+$num!!" #
+)!!# $
+{"" 	
+string## 
+dbConnectionString## %
+=##& '
+$str##( r
+;##r s
+try$$ 
+{%% 
+using&& 
+(&& 
+SqlConnection&& $
+dBConnection&&% 1
+=&&2 3
+new&&4 7
+SqlConnection&&8 E
+(&&E F
+dbConnectionString&&F X
+)&&X Y
+)&&Y Z
+{'' 
+dBConnection((  
+.((  !
+Open((! %
+(((% &
+)((& '
+;((' (
+})) 
+}** 
+catch++ 
+(++ 
+SqlException++ 
+	exceptSql++  )
+)++) *
+{,, 
+Console.. 
+... 
+	WriteLine.. !
+(..! "
+$str.." G
++..H I
+dbConnectionString..J \
+)..\ ]
+;..] ^
+Console// 
+.// 
+	WriteLine// !
+(//! "
+	exceptSql//" +
+)//+ ,
+;//, -
+}00 
+}11 	
+}22 
+private66 
+void66 
+Good166 
+(66 
+)66 
+{77 
+if88 
+
+(88 
+PRIVATE_CONST_FIVE88 
+!=88 !
+$num88" #
+)88# $
+{99 	
+IO;; 
+.;; 
+	WriteLine;; 
+(;; 
+$str;; /
+);;/ 0
+;;;0 1
+}<< 	
+else== 
+{>> 	
+string?? 
+dbConnectionString?? %
+=??& '
+$str??( r
+;??r s
+try@@ 
+{AA 
+usingBB 
+(BB 
+SqlConnectionBB $
+dBConnectionBB% 1
+=BB2 3
+newBB4 7
+SqlConnectionBB8 E
+(BBE F
+dbConnectionStringBBF X
+)BBX Y
+)BBY Z
+{CC 
+dBConnectionDD  
+.DD  !
+OpenDD! %
+(DD% &
+)DD& '
+;DD' (
+}EE 
+}FF 
+catchGG 
+(GG 
+SqlExceptionGG 
+	exceptSqlGG  )
+)GG) *
+{HH 
+ConsoleJJ 
+.JJ 
+	WriteLineJJ !
+(JJ! "
+	exceptSqlJJ" +
+)JJ+ ,
+;JJ, -
+}KK 
+}LL 	
+}MM 
+privatePP 
+voidPP 
+Good2PP 
+(PP 
+)PP 
+{QQ 
+ifRR 
+
+(RR 
+PRIVATE_CONST_FIVERR 
+==RR !
+$numRR" #
+)RR# $
+{SS 	
+stringTT 
+dbConnectionStringTT %
+=TT& '
+$strTT( r
+;TTr s
+tryUU 
+{VV 
+usingWW 
+(WW 
+SqlConnectionWW $
+dBConnectionWW% 1
+=WW2 3
+newWW4 7
+SqlConnectionWW8 E
+(WWE F
+dbConnectionStringWWF X
+)WWX Y
+)WWY Z
+{XX 
+dBConnectionYY  
+.YY  !
+OpenYY! %
+(YY% &
+)YY& '
+;YY' (
+}ZZ 
+}[[ 
+catch\\ 
+(\\ 
+SqlException\\ 
+	exceptSql\\  )
+)\\) *
+{]] 
+Console__ 
+.__ 
+	WriteLine__ !
+(__! "
+	exceptSql__" +
+)__+ ,
+;__, -
+}`` 
+}aa 	
+}bb 
+publicdd 
+
+overridedd 
+voiddd 
+Gooddd 
+(dd 
+)dd 
+{ee 
+Good1ff 
+(ff 
+)ff 
+;ff 
+Good2gg 
+(gg 
+)gg 
+;gg 
+}hh 
+}jj 
+}kk ˚ 
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_07.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_07 3
+:4 5
+AbstractTestCase6 F
+{ 
+private 
+int 
+privateFive 
+= 
+$num 
+;  
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{   
+if!! 
+
+(!! 
+privateFive!! 
+==!! 
+$num!! 
+)!! 
+{"" 	
+string## 
+dbConnectionString## %
+=##& '
+$str##( r
+;##r s
+try$$ 
+{%% 
+using&& 
+(&& 
+SqlConnection&& $
+dBConnection&&% 1
+=&&2 3
+new&&4 7
+SqlConnection&&8 E
+(&&E F
+dbConnectionString&&F X
+)&&X Y
+)&&Y Z
+{'' 
+dBConnection((  
+.((  !
+Open((! %
+(((% &
+)((& '
+;((' (
+})) 
+}** 
+catch++ 
+(++ 
+SqlException++ 
+	exceptSql++  )
+)++) *
+{,, 
+Console.. 
+... 
+	WriteLine.. !
+(..! "
+$str.." G
++..H I
+dbConnectionString..J \
+)..\ ]
+;..] ^
+Console// 
+.// 
+	WriteLine// !
+(//! "
+	exceptSql//" +
+)//+ ,
+;//, -
+}00 
+}11 	
+}22 
+private66 
+void66 
+Good166 
+(66 
+)66 
+{77 
+if88 
+
+(88 
+privateFive88 
+!=88 
+$num88 
+)88 
+{99 	
+IO;; 
+.;; 
+	WriteLine;; 
+(;; 
+$str;; /
+);;/ 0
+;;;0 1
+}<< 	
+else== 
+{>> 	
+string?? 
+dbConnectionString?? %
+=??& '
+$str??( r
+;??r s
+try@@ 
+{AA 
+usingBB 
+(BB 
+SqlConnectionBB $
+dBConnectionBB% 1
+=BB2 3
+newBB4 7
+SqlConnectionBB8 E
+(BBE F
+dbConnectionStringBBF X
+)BBX Y
+)BBY Z
+{CC 
+dBConnectionDD  
+.DD  !
+OpenDD! %
+(DD% &
+)DD& '
+;DD' (
+}EE 
+}FF 
+catchGG 
+(GG 
+SqlExceptionGG 
+	exceptSqlGG  )
+)GG) *
+{HH 
+ConsoleJJ 
+.JJ 
+	WriteLineJJ !
+(JJ! "
+	exceptSqlJJ" +
+)JJ+ ,
+;JJ, -
+}KK 
+}LL 	
+}MM 
+privatePP 
+voidPP 
+Good2PP 
+(PP 
+)PP 
+{QQ 
+ifRR 
+
+(RR 
+privateFiveRR 
+==RR 
+$numRR 
+)RR 
+{SS 	
+stringTT 
+dbConnectionStringTT %
+=TT& '
+$strTT( r
+;TTr s
+tryUU 
+{VV 
+usingWW 
+(WW 
+SqlConnectionWW $
+dBConnectionWW% 1
+=WW2 3
+newWW4 7
+SqlConnectionWW8 E
+(WWE F
+dbConnectionStringWWF X
+)WWX Y
+)WWY Z
+{XX 
+dBConnectionYY  
+.YY  !
+OpenYY! %
+(YY% &
+)YY& '
+;YY' (
+}ZZ 
+}[[ 
+catch\\ 
+(\\ 
+SqlException\\ 
+	exceptSql\\  )
+)\\) *
+{]] 
+Console__ 
+.__ 
+	WriteLine__ !
+(__! "
+	exceptSql__" +
+)__+ ,
+;__, -
+}`` 
+}aa 	
+}bb 
+publicdd 
+
+overridedd 
+voiddd 
+Gooddd 
+(dd 
+)dd 
+{ee 
+Good1ff 
+(ff 
+)ff 
+;ff 
+Good2gg 
+(gg 
+)gg 
+;gg 
+}hh 
+}jj 
+}kk ∞#
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_08.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_08 3
+:4 5
+AbstractTestCase6 F
+{ 
+private 
+static 
+bool 
+PrivateReturnsTrue *
+(* +
+)+ ,
+{ 
+return 
+true 
+; 
+}   
+private"" 
+static"" 
+bool"" 
+PrivateReturnsFalse"" +
+(""+ ,
+)"", -
+{## 
+return$$ 
+false$$ 
+;$$ 
+}%% 
+public'' 
+
+override'' 
+void'' 
+Bad'' 
+('' 
+)'' 
+{(( 
+if)) 
+
+()) 
+PrivateReturnsTrue)) 
+()) 
+)))  
+)))  !
+{** 	
+string++ 
+dbConnectionString++ %
+=++& '
+$str++( r
+;++r s
+try,, 
+{-- 
+using.. 
+(.. 
+SqlConnection.. $
+dBConnection..% 1
+=..2 3
+new..4 7
+SqlConnection..8 E
+(..E F
+dbConnectionString..F X
+)..X Y
+)..Y Z
+{// 
+dBConnection00  
+.00  !
+Open00! %
+(00% &
+)00& '
+;00' (
+}11 
+}22 
+catch33 
+(33 
+SqlException33 
+	exceptSql33  )
+)33) *
+{44 
+Console66 
+.66 
+	WriteLine66 !
+(66! "
+$str66" G
++66H I
+dbConnectionString66J \
+)66\ ]
+;66] ^
+Console77 
+.77 
+	WriteLine77 !
+(77! "
+	exceptSql77" +
+)77+ ,
+;77, -
+}88 
+}99 	
+}:: 
+private>> 
+void>> 
+Good1>> 
+(>> 
+)>> 
+{?? 
+if@@ 
+
+(@@ 
+PrivateReturnsFalse@@ 
+(@@  
+)@@  !
+)@@! "
+{AA 	
+IOCC 
+.CC 
+	WriteLineCC 
+(CC 
+$strCC /
+)CC/ 0
+;CC0 1
+}DD 	
+elseEE 
+{FF 	
+stringGG 
+dbConnectionStringGG %
+=GG& '
+$strGG( r
+;GGr s
+tryHH 
+{II 
+usingJJ 
+(JJ 
+SqlConnectionJJ $
+dBConnectionJJ% 1
+=JJ2 3
+newJJ4 7
+SqlConnectionJJ8 E
+(JJE F
+dbConnectionStringJJF X
+)JJX Y
+)JJY Z
+{KK 
+dBConnectionLL  
+.LL  !
+OpenLL! %
+(LL% &
+)LL& '
+;LL' (
+}MM 
+}NN 
+catchOO 
+(OO 
+SqlExceptionOO 
+	exceptSqlOO  )
+)OO) *
+{PP 
+ConsoleRR 
+.RR 
+	WriteLineRR !
+(RR! "
+	exceptSqlRR" +
+)RR+ ,
+;RR, -
+}SS 
+}TT 	
+}UU 
+privateXX 
+voidXX 
+Good2XX 
+(XX 
+)XX 
+{YY 
+ifZZ 
+
+(ZZ 
+PrivateReturnsTrueZZ 
+(ZZ 
+)ZZ  
+)ZZ  !
+{[[ 	
+string\\ 
+dbConnectionString\\ %
+=\\& '
+$str\\( r
+;\\r s
+try]] 
+{^^ 
+using__ 
+(__ 
+SqlConnection__ $
+dBConnection__% 1
+=__2 3
+new__4 7
+SqlConnection__8 E
+(__E F
+dbConnectionString__F X
+)__X Y
+)__Y Z
+{`` 
+dBConnectionaa  
+.aa  !
+Openaa! %
+(aa% &
+)aa& '
+;aa' (
+}bb 
+}cc 
+catchdd 
+(dd 
+SqlExceptiondd 
+	exceptSqldd  )
+)dd) *
+{ee 
+Consolegg 
+.gg 
+	WriteLinegg !
+(gg! "
+	exceptSqlgg" +
+)gg+ ,
+;gg, -
+}hh 
+}ii 	
+}jj 
+publicll 
+
+overridell 
+voidll 
+Goodll 
+(ll 
+)ll 
+{mm 
+Good1nn 
+(nn 
+)nn 
+;nn 
+Good2oo 
+(oo 
+)oo 
+;oo 
+}pp 
+}rr 
+}ss ü 
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_09.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_09 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+IO 
+.  
+STATIC_READONLY_TRUE #
+)# $
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
+
+(33 
+IO33 
+.33 !
+STATIC_READONLY_FALSE33 $
+)33$ %
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
+
+(MM 
+IOMM 
+.MM  
+STATIC_READONLY_TRUEMM #
+)MM# $
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
+
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff Å 
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_10.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_10 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+IO 
+. 
 
-LogManager@@ &
-.@@& '
-	GetLogger@@' 0
-(@@0 1
-$str@@1 G
-)@@G H
-;@@H I
-stringAA 
-dbConnectionStringAA %
-=AA& '
-$strAA( r
-;AAr s
-tryBB 
-{CC 
-usingDD 
-(DD 
-SqlConnectionDD $
-dBConnectionDD% 1
-=DD2 3
-newDD4 7
-SqlConnectionDD8 E
-(DDE F
-dbConnectionStringDDF X
-)DDX Y
-)DDY Z
-{EE 
-dBConnectionFF  
-.FF  !
-OpenFF! %
-(FF% &
-)FF& '
-;FF' (
-}GG 
-}HH 
-catchII 
-(II 
-SqlExceptionII 
-	exceptSqlII  )
-)II) *
-{JJ 
-loggerLL 
-.LL 
-LogLL 
-(LL 
-LogLevelLL #
-.LL# $
-WarnLL$ (
-,LL( )
-$strLL* M
-,LLM N
-	exceptSqlLLO X
-)LLX Y
-;LLY Z
-}MM 
+staticTrue 
+) 
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
+
+(33 
+IO33 
+.33 
+staticFalse33 
+)33 
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
+
+(MM 
+IOMM 
+.MM 
+
+staticTrueMM 
+)MM 
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
+
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff  
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_11.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_11 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+IO 
+. 
+StaticReturnsTrue  
+(  !
+)! "
+)" #
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
+
+(33 
+IO33 
+.33 
+StaticReturnsFalse33 !
+(33! "
+)33" #
+)33# $
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
+
+(MM 
+IOMM 
+.MM 
+StaticReturnsTrueMM  
+(MM  !
+)MM! "
+)MM" #
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
+
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff —#
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_12.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_12 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+IO 
+. $
+StaticReturnsTrueOrFalse '
+(' (
+)( )
+)) *
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+else-- 
+{.. 	
+string// 
+dbConnectionString// %
+=//& '
+$str//( r
+;//r s
+try00 
+{11 
+using22 
+(22 
+SqlConnection22 $
+dBConnection22% 1
+=222 3
+new224 7
+SqlConnection228 E
+(22E F
+dbConnectionString22F X
+)22X Y
+)22Y Z
+{33 
+dBConnection44  
+.44  !
+Open44! %
+(44% &
+)44& '
+;44' (
+}55 
+}66 
+catch77 
+(77 
+SqlException77 
+	exceptSql77  )
+)77) *
+{88 
+Console:: 
+.:: 
+	WriteLine:: !
+(::! "
+	exceptSql::" +
+)::+ ,
+;::, -
+};; 
+}<< 	
+}== 
+privateAA 
+voidAA 
+Good1AA 
+(AA 
+)AA 
+{BB 
+ifCC 
+
+(CC 
+IOCC 
+.CC $
+StaticReturnsTrueOrFalseCC '
+(CC' (
+)CC( )
+)CC) *
+{DD 	
+stringEE 
+dbConnectionStringEE %
+=EE& '
+$strEE( r
+;EEr s
+tryFF 
+{GG 
+usingHH 
+(HH 
+SqlConnectionHH $
+dBConnectionHH% 1
+=HH2 3
+newHH4 7
+SqlConnectionHH8 E
+(HHE F
+dbConnectionStringHHF X
+)HHX Y
+)HHY Z
+{II 
+dBConnectionJJ  
+.JJ  !
+OpenJJ! %
+(JJ% &
+)JJ& '
+;JJ' (
+}KK 
+}LL 
+catchMM 
+(MM 
+SqlExceptionMM 
+	exceptSqlMM  )
+)MM) *
+{NN 
+ConsolePP 
+.PP 
+	WriteLinePP !
+(PP! "
+	exceptSqlPP" +
+)PP+ ,
+;PP, -
+}QQ 
+}RR 	
+elseSS 
+{TT 	
+stringUU 
+dbConnectionStringUU %
+=UU& '
+$strUU( r
+;UUr s
+tryVV 
+{WW 
+usingXX 
+(XX 
+SqlConnectionXX $
+dBConnectionXX% 1
+=XX2 3
+newXX4 7
+SqlConnectionXX8 E
+(XXE F
+dbConnectionStringXXF X
+)XXX Y
+)XXY Z
+{YY 
+dBConnectionZZ  
+.ZZ  !
+OpenZZ! %
+(ZZ% &
+)ZZ& '
+;ZZ' (
+}[[ 
+}\\ 
+catch]] 
+(]] 
+SqlException]] 
+	exceptSql]]  )
+)]]) *
+{^^ 
+Console`` 
+.`` 
+	WriteLine`` !
+(``! "
+	exceptSql``" +
+)``+ ,
+;``, -
+}aa 
+}bb 	
+}cc 
+publicee 
+
+overrideee 
+voidee 
+Goodee 
+(ee 
+)ee 
+{ff 
+Good1gg 
+(gg 
+)gg 
+;gg 
+}hh 
+}jj 
+}kk Ñ!
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_13.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_13 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+IO 
+.  
+STATIC_READONLY_FIVE #
+==$ &
+$num' (
+)( )
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
+
+(33 
+IO33 
+.33  
+STATIC_READONLY_FIVE33 #
+!=33$ &
+$num33' (
+)33( )
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
+
+(MM 
+IOMM 
+.MM  
+STATIC_READONLY_FIVEMM #
+==MM$ &
+$numMM' (
+)MM( )
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
+
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff Ê 
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_14.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_14 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+if 
+
+( 
+IO 
+. 
+
+staticFive 
+== 
+$num 
+) 
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+if33 
+
+(33 
+IO33 
+.33 
+
+staticFive33 
+!=33 
+$num33 
+)33 
+{44 	
+IO66 
+.66 
+	WriteLine66 
+(66 
+$str66 /
+)66/ 0
+;660 1
+}77 	
+else88 
+{99 	
+string:: 
+dbConnectionString:: %
+=::& '
+$str::( r
+;::r s
+try;; 
+{<< 
+using== 
+(== 
+SqlConnection== $
+dBConnection==% 1
+===2 3
+new==4 7
+SqlConnection==8 E
+(==E F
+dbConnectionString==F X
+)==X Y
+)==Y Z
+{>> 
+dBConnection??  
+.??  !
+Open??! %
+(??% &
+)??& '
+;??' (
+}@@ 
+}AA 
+catchBB 
+(BB 
+SqlExceptionBB 
+	exceptSqlBB  )
+)BB) *
+{CC 
+ConsoleEE 
+.EE 
+	WriteLineEE !
+(EE! "
+	exceptSqlEE" +
+)EE+ ,
+;EE, -
+}FF 
+}GG 	
+}HH 
+privateKK 
+voidKK 
+Good2KK 
+(KK 
+)KK 
+{LL 
+ifMM 
+
+(MM 
+IOMM 
+.MM 
+
+staticFiveMM 
+==MM 
+$numMM 
+)MM 
+{NN 	
+stringOO 
+dbConnectionStringOO %
+=OO& '
+$strOO( r
+;OOr s
+tryPP 
+{QQ 
+usingRR 
+(RR 
+SqlConnectionRR $
+dBConnectionRR% 1
+=RR2 3
+newRR4 7
+SqlConnectionRR8 E
+(RRE F
+dbConnectionStringRRF X
+)RRX Y
+)RRY Z
+{SS 
+dBConnectionTT  
+.TT  !
+OpenTT! %
+(TT% &
+)TT& '
+;TT' (
+}UU 
+}VV 
+catchWW 
+(WW 
+SqlExceptionWW 
+	exceptSqlWW  )
+)WW) *
+{XX 
+ConsoleZZ 
+.ZZ 
+	WriteLineZZ !
+(ZZ! "
+	exceptSqlZZ" +
+)ZZ+ ,
+;ZZ, -
+}[[ 
+}\\ 	
+}]] 
+public__ 
+
+override__ 
+void__ 
+Good__ 
+(__ 
+)__ 
+{`` 
+Good1aa 
+(aa 
+)aa 
+;aa 
+Good2bb 
+(bb 
+)bb 
+;bb 
+}cc 
+}ee 
+}ff ®$
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_15.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_15 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+switch 
+( 
+$num 
+) 
+{ 	
+case 
+$num 
+: 
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try   
+{!! 
+using"" 
+("" 
+SqlConnection"" $
+dBConnection""% 1
+=""2 3
+new""4 7
+SqlConnection""8 E
+(""E F
+dbConnectionString""F X
+)""X Y
+)""Y Z
+{## 
+dBConnection$$  
+.$$  !
+Open$$! %
+($$% &
+)$$& '
+;$$' (
+}%% 
+}&& 
+catch'' 
+('' 
+SqlException'' 
+	exceptSql''  )
+)'') *
+{(( 
+Console** 
+.** 
+	WriteLine** !
+(**! "
+$str**" G
++**H I
+dbConnectionString**J \
+)**\ ]
+;**] ^
+Console++ 
+.++ 
+	WriteLine++ !
+(++! "
+	exceptSql++" +
+)+++ ,
+;++, -
+},, 
+break-- 
+;-- 
+default.. 
+:.. 
+IO00 
+.00 
+	WriteLine00 
+(00 
+$str00 /
+)00/ 0
+;000 1
+break11 
+;11 
+}22 	
+}33 
+private77 
+void77 
+Good177 
+(77 
+)77 
+{88 
+switch99 
+(99 
+$num99 
+)99 
+{:: 	
+case;; 
+$num;; 
+:;; 
+IO== 
+.== 
+	WriteLine== 
+(== 
+$str== /
+)==/ 0
+;==0 1
+break>> 
+;>> 
+default?? 
+:?? 
+string@@ 
+dbConnectionString@@ %
+=@@& '
+$str@@( r
+;@@r s
+tryAA 
+{BB 
+usingCC 
+(CC 
+SqlConnectionCC $
+dBConnectionCC% 1
+=CC2 3
+newCC4 7
+SqlConnectionCC8 E
+(CCE F
+dbConnectionStringCCF X
+)CCX Y
+)CCY Z
+{DD 
+dBConnectionEE  
+.EE  !
+OpenEE! %
+(EE% &
+)EE& '
+;EE' (
+}FF 
+}GG 
+catchHH 
+(HH 
+SqlExceptionHH 
+	exceptSqlHH  )
+)HH) *
+{II 
+ConsoleKK 
+.KK 
+	WriteLineKK !
+(KK! "
+	exceptSqlKK" +
+)KK+ ,
+;KK, -
+}LL 
+breakMM 
+;MM 
 }NN 	
 }OO 
 privateRR 
@@ -1695,26 +3287,15 @@ LogManager@@ &
 Good2RR 
 (RR 
 )RR 
-{SS 
-ifTT 
-
-(TT 
-privateFiveTT 
-==TT 
-$numTT 
-)TT 
-{UU 	
-LoggerVV 
-loggerVV 
-=VV 
-
-LogManagerVV &
-.VV& '
-	GetLoggerVV' 0
-(VV0 1
-$strVV1 G
-)VVG H
-;VVH I
+{SS 
+switchTT 
+(TT 
+$numTT 
+)TT 
+{UU 	
+caseVV 
+$numVV 
+:VV 
 stringWW 
 dbConnectionStringWW %
 =WW& '
@@ -1747,419 +3328,126 @@ LogManagerVV &
 SqlException__ 
 	exceptSql__  )
 )__) *
-{`` 
-loggerbb 
-.bb 
-Logbb 
-(bb 
-LogLevelbb #
-.bb# $
-Warnbb$ (
-,bb( )
-$strbb* M
-,bbM N
-	exceptSqlbbO X
-)bbX Y
-;bbY Z
-}cc 
-}dd 	
-}ee 
-publicgg 
+{`` 
+Consolebb 
+.bb 
+	WriteLinebb !
+(bb! "
+	exceptSqlbb" +
+)bb+ ,
+;bb, -
+}cc 
+breakdd 
+;dd 
+defaultee 
+:ee 
+IOgg 
+.gg 
+	WriteLinegg 
+(gg 
+$strgg /
+)gg/ 0
+;gg0 1
+breakhh 
+;hh 
+}ii 	
+}jj 
+publicll 
 
-overridegg 
-voidgg 
-Goodgg 
-(gg 
-)gg 
-{hh 
-Good1ii 
-(ii 
-)ii 
-;ii 
-Good2jj 
-(jj 
-)jj 
-;jj 
-}kk 
-}mm 
-}nn ñ)
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08.cs
-	namespace 	
-	testcases
+overridell 
+voidll 
+Goodll 
+(ll 
+)ll 
+{mm 
+Good1nn 
+(nn 
+)nn 
+;nn 
+Good2oo 
+(oo 
+)oo 
+;oo 
+}pp 
+}rr 
+}ss ´
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_16.cs
+	namespace 	
+	testcases
  
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08 <
-:= >
-AbstractTestCase? O
-{ 
-private 
-static 
-bool 
-PrivateReturnsTrue *
-(* +
-)+ ,
-{ 
-return   
-true   
-;   
-}!! 
-private## 
-static## 
-bool## 
-PrivateReturnsFalse## +
-(##+ ,
-)##, -
-{$$ 
-return%% 
-false%% 
-;%% 
-}&& 
-public(( 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_16 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
 
-override(( 
-void(( 
-Bad(( 
-((( 
-)(( 
-{)) 
-if** 
-
-(** 
-PrivateReturnsTrue** 
-(** 
-)**  
-)**  !
-{++ 	
-Logger,, 
-logger,, 
-=,, 
-
-LogManager,, &
-.,,& '
-	GetLogger,,' 0
-(,,0 1
-$str,,1 G
-),,G H
-;,,H I
-string-- 
-dbConnectionString-- %
-=--& '
-$str--( r
-;--r s
-try.. 
-{// 
-using00 
-(00 
-SqlConnection00 $
-dBConnection00% 1
-=002 3
-new004 7
-SqlConnection008 E
-(00E F
-dbConnectionString00F X
-)00X Y
-)00Y Z
-{11 
-dBConnection22  
-.22  !
-Open22! %
-(22% &
-)22& '
-;22' (
-}33 
-}44 
-catch55 
-(55 
-SqlException55 
-	exceptSql55  )
-)55) *
-{66 
-logger88 
-.88 
-Log88 
-(88 
-LogLevel88 #
-.88# $
-Warn88$ (
-,88( )
-$str88* O
-+88P Q
-dbConnectionString88R d
-,88d e
-	exceptSql88f o
-)88o p
-;88p q
-}99 
-}:: 	
-};; 
-private?? 
-void?? 
-Good1?? 
-(?? 
-)?? 
-{@@ 
-ifAA 
-
-(AA 
-PrivateReturnsFalseAA 
-(AA  
-)AA  !
-)AA! "
-{BB 	
-IODD 
-.DD 
-	WriteLineDD 
-(DD 
-$strDD /
-)DD/ 0
-;DD0 1
-}EE 	
-elseFF 
-{GG 	
-LoggerHH 
-loggerHH 
-=HH 
-
-LogManagerHH &
-.HH& '
-	GetLoggerHH' 0
-(HH0 1
-$strHH1 G
-)HHG H
-;HHH I
-stringII 
-dbConnectionStringII %
-=II& '
-$strII( r
-;IIr s
-tryJJ 
-{KK 
-usingLL 
-(LL 
-SqlConnectionLL $
-dBConnectionLL% 1
-=LL2 3
-newLL4 7
-SqlConnectionLL8 E
-(LLE F
-dbConnectionStringLLF X
-)LLX Y
-)LLY Z
-{MM 
-dBConnectionNN  
-.NN  !
-OpenNN! %
-(NN% &
-)NN& '
-;NN' (
-}OO 
-}PP 
-catchQQ 
-(QQ 
-SqlExceptionQQ 
-	exceptSqlQQ  )
-)QQ) *
-{RR 
-loggerTT 
-.TT 
-LogTT 
-(TT 
-LogLevelTT #
-.TT# $
-WarnTT$ (
-,TT( )
-$strTT* M
-,TTM N
-	exceptSqlTTO X
-)TTX Y
-;TTY Z
-}UU 
-}VV 	
-}WW 
-privateZZ 
-voidZZ 
-Good2ZZ 
-(ZZ 
-)ZZ 
-{[[ 
-if\\ 
-
-(\\ 
-PrivateReturnsTrue\\ 
-(\\ 
-)\\  
-)\\  !
-{]] 	
-Logger^^ 
-logger^^ 
-=^^ 
-
-LogManager^^ &
-.^^& '
-	GetLogger^^' 0
-(^^0 1
-$str^^1 G
-)^^G H
-;^^H I
-string__ 
-dbConnectionString__ %
-=__& '
-$str__( r
-;__r s
-try`` 
-{aa 
-usingbb 
-(bb 
-SqlConnectionbb $
-dBConnectionbb% 1
-=bb2 3
-newbb4 7
-SqlConnectionbb8 E
-(bbE F
-dbConnectionStringbbF X
-)bbX Y
-)bbY Z
-{cc 
-dBConnectiondd  
-.dd  !
-Opendd! %
-(dd% &
-)dd& '
-;dd' (
-}ee 
-}ff 
-catchgg 
-(gg 
-SqlExceptiongg 
-	exceptSqlgg  )
-)gg) *
-{hh 
-loggerjj 
-.jj 
-Logjj 
-(jj 
-LogLeveljj #
-.jj# $
-Warnjj$ (
-,jj( )
-$strjj* M
-,jjM N
-	exceptSqljjO X
-)jjX Y
-;jjY Z
-}kk 
-}ll 	
-}mm 
-publicoo 
-
-overrideoo 
-voidoo 
-Goodoo 
-(oo 
-)oo 
-{pp 
-Good1qq 
-(qq 
-)qq 
-;qq 
-Good2rr 
-(rr 
-)rr 
-;rr 
-}ss 
-}uu 
-}vv Ö&
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-IO 
-.  
-STATIC_READONLY_TRUE #
-)# $
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
+override 
+void 
+Bad 
+( 
+) 
+{ 
+while 
+( 
+true 
+) 
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+break,, 
+;,, 
 }-- 	
 }.. 
 private22 
@@ -2167,2223 +3455,55 @@ LogManager &
 Good122 
 (22 
 )22 
-{33 
-if44 
-
-(44 
-IO44 
-.44 !
-STATIC_READONLY_FALSE44 $
-)44$ %
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
-
-(OO 
-IOOO 
-.OO  
-STATIC_READONLY_TRUEOO #
-)OO# $
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
-
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii Á%
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-IO 
-. 
-
-staticTrue 
-) 
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
-private22 
-void22 
-Good122 
-(22 
-)22 
-{33 
-if44 
-
-(44 
-IO44 
-.44 
-staticFalse44 
-)44 
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
-
-(OO 
-IOOO 
-.OO 
-
-staticTrueOO 
-)OO 
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
-
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii ÷&
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-IO 
-. 
-StaticReturnsTrue  
-(  !
-)! "
-)" #
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
-private22 
-void22 
-Good122 
-(22 
-)22 
-{33 
-if44 
-
-(44 
-IO44 
-.44 
-StaticReturnsFalse44 !
-(44! "
-)44" #
-)44# $
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
-
-(OO 
-IOOO 
-.OO 
-StaticReturnsTrueOO  
-(OO  !
-)OO! "
-)OO" #
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
-
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii À+
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-IO 
-. $
-StaticReturnsTrueOrFalse '
-(' (
-)( )
-)) *
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-else.. 
-{// 	
-Logger00 
-logger00 
-=00 
-
-LogManager00 &
-.00& '
-	GetLogger00' 0
-(000 1
-$str001 G
-)00G H
-;00H I
-string11 
-dbConnectionString11 %
-=11& '
-$str11( r
-;11r s
-try22 
-{33 
-using44 
-(44 
-SqlConnection44 $
-dBConnection44% 1
-=442 3
-new444 7
-SqlConnection448 E
-(44E F
-dbConnectionString44F X
-)44X Y
-)44Y Z
-{55 
-dBConnection66  
-.66  !
-Open66! %
-(66% &
-)66& '
-;66' (
-}77 
-}88 
-catch99 
-(99 
-SqlException99 
-	exceptSql99  )
-)99) *
-{:: 
-logger<< 
-.<< 
-Log<< 
-(<< 
-LogLevel<< #
-.<<# $
-Warn<<$ (
-,<<( )
-$str<<* M
-,<<M N
-	exceptSql<<O X
-)<<X Y
-;<<Y Z
-}== 
-}>> 	
-}?? 
-privateCC 
-voidCC 
-Good1CC 
-(CC 
-)CC 
-{DD 
-ifEE 
-
-(EE 
-IOEE 
-.EE $
-StaticReturnsTrueOrFalseEE '
-(EE' (
-)EE( )
-)EE) *
-{FF 	
-LoggerGG 
-loggerGG 
-=GG 
-
-LogManagerGG &
-.GG& '
-	GetLoggerGG' 0
-(GG0 1
-$strGG1 G
-)GGG H
-;GGH I
-stringHH 
-dbConnectionStringHH %
-=HH& '
-$strHH( r
-;HHr s
-tryII 
-{JJ 
-usingKK 
-(KK 
-SqlConnectionKK $
-dBConnectionKK% 1
-=KK2 3
-newKK4 7
-SqlConnectionKK8 E
-(KKE F
-dbConnectionStringKKF X
-)KKX Y
-)KKY Z
-{LL 
-dBConnectionMM  
-.MM  !
-OpenMM! %
-(MM% &
-)MM& '
-;MM' (
-}NN 
-}OO 
-catchPP 
-(PP 
-SqlExceptionPP 
-	exceptSqlPP  )
-)PP) *
-{QQ 
-loggerSS 
-.SS 
-LogSS 
-(SS 
-LogLevelSS #
-.SS# $
-WarnSS$ (
-,SS( )
-$strSS* M
-,SSM N
-	exceptSqlSSO X
-)SSX Y
-;SSY Z
-}TT 
-}UU 	
-elseVV 
-{WW 	
-LoggerXX 
-loggerXX 
-=XX 
-
-LogManagerXX &
-.XX& '
-	GetLoggerXX' 0
-(XX0 1
-$strXX1 G
-)XXG H
-;XXH I
-stringYY 
-dbConnectionStringYY %
-=YY& '
-$strYY( r
-;YYr s
-tryZZ 
-{[[ 
-using\\ 
-(\\ 
-SqlConnection\\ $
-dBConnection\\% 1
-=\\2 3
-new\\4 7
-SqlConnection\\8 E
-(\\E F
-dbConnectionString\\F X
-)\\X Y
-)\\Y Z
-{]] 
-dBConnection^^  
-.^^  !
-Open^^! %
-(^^% &
-)^^& '
-;^^' (
-}__ 
-}`` 
-catchaa 
-(aa 
-SqlExceptionaa 
-	exceptSqlaa  )
-)aa) *
-{bb 
-loggerdd 
-.dd 
-Logdd 
-(dd 
-LogLeveldd #
-.dd# $
-Warndd$ (
-,dd( )
-$strdd* M
-,ddM N
-	exceptSqlddO X
-)ddX Y
-;ddY Z
-}ee 
-}ff 	
-}gg 
-publicii 
-
-overrideii 
-voidii 
-Goodii 
-(ii 
-)ii 
-{jj 
-Good1kk 
-(kk 
-)kk 
-;kk 
-}ll 
-}nn 
-}oo Í&
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-IO 
-.  
-STATIC_READONLY_FIVE #
-==$ &
-$num' (
-)( )
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
-private22 
-void22 
-Good122 
-(22 
-)22 
-{33 
-if44 
-
-(44 
-IO44 
-.44  
-STATIC_READONLY_FIVE44 #
-!=44$ &
-$num44' (
-)44( )
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
-
-(OO 
-IOOO 
-.OO  
-STATIC_READONLY_FIVEOO #
-==OO$ &
-$numOO' (
-)OO( )
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
-
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii Ã&
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-if 
-
-( 
-IO 
-. 
-
-staticFive 
-== 
-$num 
-) 
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
-private22 
-void22 
-Good122 
-(22 
-)22 
-{33 
-if44 
-
-(44 
-IO44 
-.44 
-
-staticFive44 
-!=44 
-$num44 
-)44 
-{55 	
-IO77 
-.77 
-	WriteLine77 
-(77 
-$str77 /
-)77/ 0
-;770 1
-}88 	
-else99 
-{:: 	
-Logger;; 
-logger;; 
-=;; 
-
-LogManager;; &
-.;;& '
-	GetLogger;;' 0
-(;;0 1
-$str;;1 G
-);;G H
-;;;H I
-string<< 
-dbConnectionString<< %
-=<<& '
-$str<<( r
-;<<r s
-try== 
-{>> 
-using?? 
-(?? 
-SqlConnection?? $
-dBConnection??% 1
-=??2 3
-new??4 7
-SqlConnection??8 E
-(??E F
-dbConnectionString??F X
-)??X Y
-)??Y Z
-{@@ 
-dBConnectionAA  
-.AA  !
-OpenAA! %
-(AA% &
-)AA& '
-;AA' (
-}BB 
-}CC 
-catchDD 
-(DD 
-SqlExceptionDD 
-	exceptSqlDD  )
-)DD) *
-{EE 
-loggerGG 
-.GG 
-LogGG 
-(GG 
-LogLevelGG #
-.GG# $
-WarnGG$ (
-,GG( )
-$strGG* M
-,GGM N
-	exceptSqlGGO X
-)GGX Y
-;GGY Z
-}HH 
-}II 	
-}JJ 
-privateMM 
-voidMM 
-Good2MM 
-(MM 
-)MM 
-{NN 
-ifOO 
-
-(OO 
-IOOO 
-.OO 
-
-staticFiveOO 
-==OO 
-$numOO 
-)OO 
-{PP 	
-LoggerQQ 
-loggerQQ 
-=QQ 
-
-LogManagerQQ &
-.QQ& '
-	GetLoggerQQ' 0
-(QQ0 1
-$strQQ1 G
-)QQG H
-;QQH I
-stringRR 
-dbConnectionStringRR %
-=RR& '
-$strRR( r
-;RRr s
-trySS 
-{TT 
-usingUU 
-(UU 
-SqlConnectionUU $
-dBConnectionUU% 1
-=UU2 3
-newUU4 7
-SqlConnectionUU8 E
-(UUE F
-dbConnectionStringUUF X
-)UUX Y
-)UUY Z
-{VV 
-dBConnectionWW  
-.WW  !
-OpenWW! %
-(WW% &
-)WW& '
-;WW' (
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ 
-	exceptSqlZZ  )
-)ZZ) *
-{[[ 
-logger]] 
-.]] 
-Log]] 
-(]] 
-LogLevel]] #
-.]]# $
-Warn]]$ (
-,]]( )
-$str]]* M
-,]]M N
-	exceptSql]]O X
-)]]X Y
-;]]Y Z
-}^^ 
-}__ 	
-}`` 
-publicbb 
-
-overridebb 
-voidbb 
-Goodbb 
-(bb 
-)bb 
-{cc 
-Good1dd 
-(dd 
-)dd 
-;dd 
-Good2ee 
-(ee 
-)ee 
-;ee 
-}ff 
-}hh 
-}ii é*
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-switch 
-( 
-$num 
-) 
-{ 	
-case 
-$num 
-: 
-Logger   
-logger   
-=   
-
-LogManager   &
-.  & '
-	GetLogger  ' 0
-(  0 1
-$str  1 G
-)  G H
-;  H I
-string!! 
-dbConnectionString!! %
-=!!& '
-$str!!( r
-;!!r s
-try"" 
-{## 
-using$$ 
-($$ 
-SqlConnection$$ $
-dBConnection$$% 1
-=$$2 3
-new$$4 7
-SqlConnection$$8 E
-($$E F
-dbConnectionString$$F X
-)$$X Y
-)$$Y Z
-{%% 
-dBConnection&&  
-.&&  !
-Open&&! %
-(&&% &
-)&&& '
-;&&' (
-}'' 
-}(( 
-catch)) 
-()) 
-SqlException)) 
-	exceptSql))  )
-)))) *
-{** 
-logger,, 
-.,, 
-Log,, 
-(,, 
-LogLevel,, #
-.,,# $
-Warn,,$ (
-,,,( )
-$str,,* O
-+,,P Q
-dbConnectionString,,R d
-,,,d e
-	exceptSql,,f o
-),,o p
-;,,p q
-}-- 
-break.. 
-;.. 
-default// 
-:// 
-IO11 
-.11 
-	WriteLine11 
-(11 
-$str11 /
-)11/ 0
-;110 1
-break22 
-;22 
-}33 	
-}44 
-private88 
-void88 
-Good188 
-(88 
-)88 
-{99 
-switch:: 
-(:: 
-$num:: 
-):: 
-{;; 	
-case<< 
-$num<< 
-:<< 
-IO>> 
-.>> 
-	WriteLine>> 
-(>> 
-$str>> /
-)>>/ 0
-;>>0 1
-break?? 
-;?? 
-default@@ 
-:@@ 
-LoggerAA 
-loggerAA 
-=AA 
-
-LogManagerAA &
-.AA& '
-	GetLoggerAA' 0
-(AA0 1
-$strAA1 G
-)AAG H
-;AAH I
-stringBB 
-dbConnectionStringBB %
-=BB& '
-$strBB( r
-;BBr s
-tryCC 
-{DD 
-usingEE 
-(EE 
-SqlConnectionEE $
-dBConnectionEE% 1
-=EE2 3
-newEE4 7
-SqlConnectionEE8 E
-(EEE F
-dbConnectionStringEEF X
-)EEX Y
-)EEY Z
-{FF 
-dBConnectionGG  
-.GG  !
-OpenGG! %
-(GG% &
-)GG& '
-;GG' (
-}HH 
-}II 
-catchJJ 
-(JJ 
-SqlExceptionJJ 
-	exceptSqlJJ  )
-)JJ) *
-{KK 
-loggerMM 
-.MM 
-LogMM 
-(MM 
-LogLevelMM #
-.MM# $
-WarnMM$ (
-,MM( )
-$strMM* M
-,MMM N
-	exceptSqlMMO X
-)MMX Y
-;MMY Z
-}NN 
-breakOO 
-;OO 
-}PP 	
-}QQ 
-privateTT 
-voidTT 
-Good2TT 
-(TT 
-)TT 
-{UU 
-switchVV 
-(VV 
-$numVV 
-)VV 
-{WW 	
-caseXX 
-$numXX 
-:XX 
-LoggerYY 
-loggerYY 
-=YY 
-
-LogManagerYY &
-.YY& '
-	GetLoggerYY' 0
-(YY0 1
-$strYY1 G
-)YYG H
-;YYH I
-stringZZ 
-dbConnectionStringZZ %
-=ZZ& '
-$strZZ( r
-;ZZr s
-try[[ 
-{\\ 
-using]] 
-(]] 
-SqlConnection]] $
-dBConnection]]% 1
-=]]2 3
-new]]4 7
-SqlConnection]]8 E
-(]]E F
-dbConnectionString]]F X
-)]]X Y
-)]]Y Z
-{^^ 
-dBConnection__  
-.__  !
-Open__! %
-(__% &
-)__& '
-;__' (
-}`` 
-}aa 
-catchbb 
-(bb 
-SqlExceptionbb 
-	exceptSqlbb  )
-)bb) *
-{cc 
-loggeree 
-.ee 
-Logee 
-(ee 
-LogLevelee #
-.ee# $
-Warnee$ (
-,ee( )
-$stree* M
-,eeM N
-	exceptSqleeO X
-)eeX Y
-;eeY Z
-}ff 
-breakgg 
-;gg 
-defaulthh 
-:hh 
-IOjj 
-.jj 
-	WriteLinejj 
-(jj 
-$strjj /
-)jj/ 0
-;jj0 1
-breakkk 
-;kk 
-}ll 	
-}mm 
-publicoo 
-
-overrideoo 
-voidoo 
-Goodoo 
-(oo 
-)oo 
-{pp 
-Good1qq 
-(qq 
-)qq 
-;qq 
-Good2rr 
-(rr 
-)rr 
-;rr 
-}ss 
-}uu 
-}vv ˝
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-while 
-( 
-true 
-) 
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-break-- 
-;-- 
-}.. 	
-}// 
-private33 
-void33 
-Good133 
-(33 
-)33 
-{44 
-while55 
-(55 
-true55 
-)55 
-{66 	
-Logger77 
-logger77 
-=77 
-
-LogManager77 &
-.77& '
-	GetLogger77' 0
-(770 1
-$str771 G
-)77G H
-;77H I
-string88 
-dbConnectionString88 %
-=88& '
-$str88( r
-;88r s
-try99 
-{:: 
-using;; 
-(;; 
-SqlConnection;; $
-dBConnection;;% 1
-=;;2 3
-new;;4 7
-SqlConnection;;8 E
-(;;E F
-dbConnectionString;;F X
-);;X Y
-);;Y Z
-{<< 
-dBConnection==  
-.==  !
-Open==! %
-(==% &
-)==& '
-;==' (
-}>> 
-}?? 
-catch@@ 
-(@@ 
-SqlException@@ 
-	exceptSql@@  )
-)@@) *
-{AA 
-loggerCC 
-.CC 
-LogCC 
-(CC 
-LogLevelCC #
-.CC# $
-WarnCC$ (
-,CC( )
-$strCC* M
-,CCM N
-	exceptSqlCCO X
-)CCX Y
-;CCY Z
-}DD 
-breakEE 
-;EE 
-}FF 	
-}GG 
-publicII 
-
-overrideII 
-voidII 
-GoodII 
-(II 
-)II 
-{JJ 
-Good1KK 
-(KK 
-)KK 
-;KK 
-}LL 
-}NN 
-}OO Ì
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17.cs
-	namespace 	
-	testcases
- 
-. 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log =
-{ 
-class B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17 <
-:= >
-AbstractTestCase? O
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-) 
-{ 
-for 
-( 
-int 
-j 
-= 
-$num 
-; 
-j 
-< 
-$num 
-; 
-j 
-++ !
-)! "
-{ 	
-Logger 
-logger 
-= 
-
-LogManager &
-.& '
-	GetLogger' 0
-(0 1
-$str1 G
-)G H
-;H I
-string   
-dbConnectionString   %
-=  & '
-$str  ( r
-;  r s
-try!! 
-{"" 
-using## 
-(## 
-SqlConnection## $
-dBConnection##% 1
-=##2 3
-new##4 7
-SqlConnection##8 E
-(##E F
-dbConnectionString##F X
-)##X Y
-)##Y Z
-{$$ 
-dBConnection%%  
-.%%  !
-Open%%! %
-(%%% &
-)%%& '
-;%%' (
-}&& 
-}'' 
-catch(( 
-((( 
-SqlException(( 
-	exceptSql((  )
-)(() *
-{)) 
-logger++ 
-.++ 
-Log++ 
-(++ 
-LogLevel++ #
-.++# $
-Warn++$ (
-,++( )
-$str++* O
-+++P Q
-dbConnectionString++R d
-,++d e
-	exceptSql++f o
-)++o p
-;++p q
-},, 
-}-- 	
-}.. 
-private22 
-void22 
-Good122 
-(22 
-)22 
-{33 
-for44 
-(44 
-int44 
-k44 
-=44 
-$num44 
-;44 
-k44 
-<44 
-$num44 
-;44 
-k44 
-++44 !
-)44! "
+{33 
+while44 
+(44 
+true44 
+)44 
 {55 	
-Logger66 
-logger66 
-=66 
-
-LogManager66 &
-.66& '
-	GetLogger66' 0
-(660 1
-$str661 G
-)66G H
-;66H I
-string77 
-dbConnectionString77 %
-=77& '
-$str77( r
-;77r s
-try88 
-{99 
-using:: 
-(:: 
-SqlConnection:: $
-dBConnection::% 1
-=::2 3
-new::4 7
-SqlConnection::8 E
-(::E F
-dbConnectionString::F X
-)::X Y
-)::Y Z
-{;; 
-dBConnection<<  
-.<<  !
-Open<<! %
-(<<% &
-)<<& '
-;<<' (
-}== 
-}>> 
-catch?? 
-(?? 
-SqlException?? 
-	exceptSql??  )
-)??) *
-{@@ 
-loggerBB 
-.BB 
-LogBB 
-(BB 
-LogLevelBB #
-.BB# $
-WarnBB$ (
-,BB( )
-$strBB* M
-,BBM N
-	exceptSqlBBO X
-)BBX Y
-;BBY Z
-}CC 
+string66 
+dbConnectionString66 %
+=66& '
+$str66( r
+;66r s
+try77 
+{88 
+using99 
+(99 
+SqlConnection99 $
+dBConnection99% 1
+=992 3
+new994 7
+SqlConnection998 E
+(99E F
+dbConnectionString99F X
+)99X Y
+)99Y Z
+{:: 
+dBConnection;;  
+.;;  !
+Open;;! %
+(;;% &
+);;& '
+;;;' (
+}<< 
+}== 
+catch>> 
+(>> 
+SqlException>> 
+	exceptSql>>  )
+)>>) *
+{?? 
+ConsoleAA 
+.AA 
+	WriteLineAA !
+(AA! "
+	exceptSqlAA" +
+)AA+ ,
+;AA, -
+}BB 
+breakCC 
+;CC 
 }DD 	
 }EE 
 publicGG 
@@ -4400,13 +3520,179 @@ LogManager66 &
 ;II 
 }JJ 
 }LL 
-}MM ΩJ
-èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\Program.cs
+}MM õ
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_17.cs
+	namespace 	
+	testcases
+ 
+. ,
+ CWE535_Info_Exposure_Shell_Error 4
+{ 
+class 9
+-CWE535_Info_Exposure_Shell_Error__Database_17 3
+:4 5
+AbstractTestCase6 F
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+) 
+{ 
+for 
+( 
+int 
+j 
+= 
+$num 
+; 
+j 
+< 
+$num 
+; 
+j 
+++ !
+)! "
+{ 	
+string 
+dbConnectionString %
+=& '
+$str( r
+;r s
+try 
+{   
+using!! 
+(!! 
+SqlConnection!! $
+dBConnection!!% 1
+=!!2 3
+new!!4 7
+SqlConnection!!8 E
+(!!E F
+dbConnectionString!!F X
+)!!X Y
+)!!Y Z
+{"" 
+dBConnection##  
+.##  !
+Open##! %
+(##% &
+)##& '
+;##' (
+}$$ 
+}%% 
+catch&& 
+(&& 
+SqlException&& 
+	exceptSql&&  )
+)&&) *
+{'' 
+Console)) 
+.)) 
+	WriteLine)) !
+())! "
+$str))" G
++))H I
+dbConnectionString))J \
+)))\ ]
+;))] ^
+Console** 
+.** 
+	WriteLine** !
+(**! "
+	exceptSql**" +
+)**+ ,
+;**, -
+}++ 
+},, 	
+}-- 
+private11 
+void11 
+Good111 
+(11 
+)11 
+{22 
+for33 
+(33 
+int33 
+k33 
+=33 
+$num33 
+;33 
+k33 
+<33 
+$num33 
+;33 
+k33 
+++33 !
+)33! "
+{44 	
+string55 
+dbConnectionString55 %
+=55& '
+$str55( r
+;55r s
+try66 
+{77 
+using88 
+(88 
+SqlConnection88 $
+dBConnection88% 1
+=882 3
+new884 7
+SqlConnection888 E
+(88E F
+dbConnectionString88F X
+)88X Y
+)88Y Z
+{99 
+dBConnection::  
+.::  !
+Open::! %
+(::% &
+)::& '
+;::' (
+};; 
+}<< 
+catch== 
+(== 
+SqlException== 
+	exceptSql==  )
+)==) *
+{>> 
+Console@@ 
+.@@ 
+	WriteLine@@ !
+(@@! "
+	exceptSql@@" +
+)@@+ ,
+;@@, -
+}AA 
+}BB 	
+}CC 
+publicEE 
+
+overrideEE 
+voidEE 
+GoodEE 
+(EE 
+)EE 
+{FF 
+Good1GG 
+(GG 
+)GG 
+;GG 
+}HH 
+}JJ 
+}KK ΩH
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\Program.cs
 	namespace		 	
 	testcases		
  
-.		 5
-)CWE532_Inclusion_of_Sensitive_Info_in_Log		 =
+.		 ,
+ CWE535_Info_Exposure_Shell_Error		 4
 {
 
  
@@ -4665,243 +3951,209 @@ StackTrace55 %
 )gg! "
 {gg# $
 (ii 
-newii B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_01ii >
-(ii> ?
-)ii? @
-)ii@ A
-.iiA B
-RunTestiiB I
-(iiI J
-$str	iiJ Ç
-)
-iiÇ É
-;
-iiÉ Ñ
+newii 9
+-CWE535_Info_Exposure_Shell_Error__Database_01ii 5
+(ii5 6
+)ii6 7
+)ii7 8
+.ii8 9
+RunTestii9 @
+(ii@ A
+$striiA p
+)iip q
+;iiq r
 (jj 
-newjj B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_02jj >
-(jj> ?
-)jj? @
-)jj@ A
-.jjA B
-RunTestjjB I
-(jjI J
-$str	jjJ Ç
-)
-jjÇ É
-;
-jjÉ Ñ
+newjj 9
+-CWE535_Info_Exposure_Shell_Error__Database_02jj 5
+(jj5 6
+)jj6 7
+)jj7 8
+.jj8 9
+RunTestjj9 @
+(jj@ A
+$strjjA p
+)jjp q
+;jjq r
 (kk 
-newkk B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_03kk >
-(kk> ?
-)kk? @
-)kk@ A
-.kkA B
-RunTestkkB I
-(kkI J
-$str	kkJ Ç
-)
-kkÇ É
-;
-kkÉ Ñ
+newkk 9
+-CWE535_Info_Exposure_Shell_Error__Database_03kk 5
+(kk5 6
+)kk6 7
+)kk7 8
+.kk8 9
+RunTestkk9 @
+(kk@ A
+$strkkA p
+)kkp q
+;kkq r
 (ll 
-newll B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_04ll >
-(ll> ?
-)ll? @
-)ll@ A
-.llA B
-RunTestllB I
-(llI J
-$str	llJ Ç
-)
-llÇ É
-;
-llÉ Ñ
+newll 9
+-CWE535_Info_Exposure_Shell_Error__Database_04ll 5
+(ll5 6
+)ll6 7
+)ll7 8
+.ll8 9
+RunTestll9 @
+(ll@ A
+$strllA p
+)llp q
+;llq r
 (mm 
-newmm B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_05mm >
-(mm> ?
-)mm? @
-)mm@ A
-.mmA B
-RunTestmmB I
-(mmI J
-$str	mmJ Ç
-)
-mmÇ É
-;
-mmÉ Ñ
+newmm 9
+-CWE535_Info_Exposure_Shell_Error__Database_05mm 5
+(mm5 6
+)mm6 7
+)mm7 8
+.mm8 9
+RunTestmm9 @
+(mm@ A
+$strmmA p
+)mmp q
+;mmq r
 (nn 
-newnn B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_06nn >
-(nn> ?
-)nn? @
-)nn@ A
-.nnA B
-RunTestnnB I
-(nnI J
-$str	nnJ Ç
-)
-nnÇ É
-;
-nnÉ Ñ
+newnn 9
+-CWE535_Info_Exposure_Shell_Error__Database_06nn 5
+(nn5 6
+)nn6 7
+)nn7 8
+.nn8 9
+RunTestnn9 @
+(nn@ A
+$strnnA p
+)nnp q
+;nnq r
 (oo 
-newoo B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_07oo >
-(oo> ?
-)oo? @
-)oo@ A
-.ooA B
-RunTestooB I
-(ooI J
-$str	ooJ Ç
-)
-ooÇ É
-;
-ooÉ Ñ
+newoo 9
+-CWE535_Info_Exposure_Shell_Error__Database_07oo 5
+(oo5 6
+)oo6 7
+)oo7 8
+.oo8 9
+RunTestoo9 @
+(oo@ A
+$strooA p
+)oop q
+;ooq r
 (pp 
-newpp B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_08pp >
-(pp> ?
-)pp? @
-)pp@ A
-.ppA B
-RunTestppB I
-(ppI J
-$str	ppJ Ç
-)
-ppÇ É
-;
-ppÉ Ñ
+newpp 9
+-CWE535_Info_Exposure_Shell_Error__Database_08pp 5
+(pp5 6
+)pp6 7
+)pp7 8
+.pp8 9
+RunTestpp9 @
+(pp@ A
+$strppA p
+)ppp q
+;ppq r
 (qq 
-newqq B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_09qq >
-(qq> ?
-)qq? @
-)qq@ A
-.qqA B
-RunTestqqB I
-(qqI J
-$str	qqJ Ç
-)
-qqÇ É
-;
-qqÉ Ñ
+newqq 9
+-CWE535_Info_Exposure_Shell_Error__Database_09qq 5
+(qq5 6
+)qq6 7
+)qq7 8
+.qq8 9
+RunTestqq9 @
+(qq@ A
+$strqqA p
+)qqp q
+;qqq r
 (rr 
-newrr B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_10rr >
-(rr> ?
-)rr? @
-)rr@ A
-.rrA B
-RunTestrrB I
-(rrI J
-$str	rrJ Ç
-)
-rrÇ É
-;
-rrÉ Ñ
+newrr 9
+-CWE535_Info_Exposure_Shell_Error__Database_10rr 5
+(rr5 6
+)rr6 7
+)rr7 8
+.rr8 9
+RunTestrr9 @
+(rr@ A
+$strrrA p
+)rrp q
+;rrq r
 (ss 
-newss B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_11ss >
-(ss> ?
-)ss? @
-)ss@ A
-.ssA B
-RunTestssB I
-(ssI J
-$str	ssJ Ç
-)
-ssÇ É
-;
-ssÉ Ñ
+newss 9
+-CWE535_Info_Exposure_Shell_Error__Database_11ss 5
+(ss5 6
+)ss6 7
+)ss7 8
+.ss8 9
+RunTestss9 @
+(ss@ A
+$strssA p
+)ssp q
+;ssq r
 (tt 
-newtt B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_12tt >
-(tt> ?
-)tt? @
-)tt@ A
-.ttA B
-RunTestttB I
-(ttI J
-$str	ttJ Ç
-)
-ttÇ É
-;
-ttÉ Ñ
+newtt 9
+-CWE535_Info_Exposure_Shell_Error__Database_12tt 5
+(tt5 6
+)tt6 7
+)tt7 8
+.tt8 9
+RunTesttt9 @
+(tt@ A
+$strttA p
+)ttp q
+;ttq r
 (uu 
-newuu B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_13uu >
-(uu> ?
-)uu? @
-)uu@ A
-.uuA B
-RunTestuuB I
-(uuI J
-$str	uuJ Ç
-)
-uuÇ É
-;
-uuÉ Ñ
+newuu 9
+-CWE535_Info_Exposure_Shell_Error__Database_13uu 5
+(uu5 6
+)uu6 7
+)uu7 8
+.uu8 9
+RunTestuu9 @
+(uu@ A
+$struuA p
+)uup q
+;uuq r
 (vv 
-newvv B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_14vv >
-(vv> ?
-)vv? @
-)vv@ A
-.vvA B
-RunTestvvB I
-(vvI J
-$str	vvJ Ç
-)
-vvÇ É
-;
-vvÉ Ñ
+newvv 9
+-CWE535_Info_Exposure_Shell_Error__Database_14vv 5
+(vv5 6
+)vv6 7
+)vv7 8
+.vv8 9
+RunTestvv9 @
+(vv@ A
+$strvvA p
+)vvp q
+;vvq r
 (ww 
-newww B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_15ww >
-(ww> ?
-)ww? @
-)ww@ A
-.wwA B
-RunTestwwB I
-(wwI J
-$str	wwJ Ç
-)
-wwÇ É
-;
-wwÉ Ñ
+newww 9
+-CWE535_Info_Exposure_Shell_Error__Database_15ww 5
+(ww5 6
+)ww6 7
+)ww7 8
+.ww8 9
+RunTestww9 @
+(ww@ A
+$strwwA p
+)wwp q
+;wwq r
 (xx 
-newxx B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_16xx >
-(xx> ?
-)xx? @
-)xx@ A
-.xxA B
-RunTestxxB I
-(xxI J
-$str	xxJ Ç
-)
-xxÇ É
-;
-xxÉ Ñ
+newxx 9
+-CWE535_Info_Exposure_Shell_Error__Database_16xx 5
+(xx5 6
+)xx6 7
+)xx7 8
+.xx8 9
+RunTestxx9 @
+(xx@ A
+$strxxA p
+)xxp q
+;xxq r
 (yy 
-newyy B
-6CWE532_Inclusion_of_Sensitive_Info_in_Log__Database_17yy >
-(yy> ?
-)yy? @
-)yy@ A
-.yyA B
-RunTestyyB I
-(yyI J
-$str	yyJ Ç
-)
-yyÇ É
-;
-yyÉ Ñ
+newyy 9
+-CWE535_Info_Exposure_Shell_Error__Database_17yy 5
+(yy5 6
+)yy6 7
+)yy7 8
+.yy8 9
+RunTestyy9 @
+(yy@ A
+$stryyA p
+)yyp q
+;yyq r
 }{{ 
 private}} 
 static}}	 
@@ -4961,17 +4213,17 @@ StackTrace55 %
 }
 ìì 
 }îî 
-}ïï À
-üC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE532_Inclusion_of_Sensitive_Info_in_Log\Properties\AssemblyInfo.cs
+}ïï ¬
+ñC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 
 
 AssemblyTitle 
 ( 
-$str D
-)D E
-]E F
+$str ;
+); <
+]< =
 [		 
 assembly		 	
 :			 
@@ -5021,9 +4273,9 @@ StackTrace55 %
 
 AssemblyProduct 
 ( 
-$str F
-)F G
-]G H
+$str =
+)= >
+]> ?
 [ 
 assembly 	
 :	 

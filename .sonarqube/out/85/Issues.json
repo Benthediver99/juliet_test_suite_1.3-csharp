@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_02.cs",
                 "region": {
-                  "startLine": 60,
+                  "startLine": 40,
                   "startColumn": 13,
-                  "endLine": 60,
+                  "endLine": 40,
                   "endColumn": 15
                 }
               }
@@ -39,11 +39,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs",
                 "region": {
-                  "startLine": 65,
+                  "startLine": 45,
                   "startColumn": 13,
-                  "endLine": 65,
+                  "endLine": 45,
                   "endColumn": 15
                 }
               }
@@ -60,11 +60,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 60,
+                  "startLine": 40,
                   "startColumn": 13,
-                  "endLine": 60,
+                  "endLine": 40,
                   "endColumn": 15
                 }
               }
@@ -81,11 +81,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_04.cs",
                 "region": {
-                  "startLine": 66,
+                  "startLine": 46,
                   "startColumn": 13,
-                  "endLine": 66,
+                  "endLine": 46,
                   "endColumn": 15
                 }
               }
@@ -102,11 +102,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
                 "region": {
-                  "startLine": 54,
+                  "startLine": 34,
                   "startColumn": 13,
-                  "endLine": 54,
+                  "endLine": 34,
                   "endColumn": 15
                 }
               }
@@ -123,7 +123,28 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 13,
+                  "endLine": 47,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
                 "region": {
                   "startLine": 67,
                   "startColumn": 13,
@@ -138,39 +159,18 @@
           }
         },
         {
-          "ruleId": "CS0162",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "Unreachable code detected",
+          "message": "Make 'privateFive' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs",
                 "region": {
-                  "startLine": 119,
-                  "startColumn": 13,
-                  "endLine": 119,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_12' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb12'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "startLine": 27,
+                  "startColumn": 17,
+                  "endLine": 27,
+                  "endColumn": 28
                 }
               }
             }
@@ -182,16 +182,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_01' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb01'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_01' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_01.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_04' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine04'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_04.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -207,7 +228,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -222,60 +243,18 @@
           }
         },
         {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 18,
-                  "endLine": 31,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_06' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb06'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_07' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine07'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 18,
-                  "endLine": 32,
-                  "endColumn": 30
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -291,7 +270,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -312,7 +291,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -329,16 +308,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_08' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb08'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_06' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_06.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -350,16 +329,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_11' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb11'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_02' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_02.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -371,16 +350,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_03' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb03'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_09' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_09.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -392,16 +371,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_02' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb02'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_12' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_12.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -413,16 +392,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_10' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb10'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_17' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine17'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_17.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -432,18 +411,39 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_15' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 17,
-                  "endLine": 31,
-                  "endColumn": 28
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_16' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine16'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -459,7 +459,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -480,7 +480,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -497,37 +497,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_04' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb04'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_10' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_10.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_15' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb15'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -543,7 +522,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -564,11 +543,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_15.cs",
                 "region": {
-                  "startLine": 60,
+                  "startLine": 40,
                   "startColumn": 5,
-                  "endLine": 60,
+                  "endLine": 40,
                   "endColumn": 49
                 }
               }
@@ -579,18 +558,60 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_07' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb07'.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs",
                 "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "startLine": 27,
+                  "startColumn": 25,
+                  "endLine": 27,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateTrue' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 18,
+                  "endLine": 27,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 18,
+                  "endLine": 28,
+                  "endColumn": 30
                 }
               }
             }
@@ -606,7 +627,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -627,7 +648,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -648,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -663,18 +684,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S3400",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_09' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb09'.",
+          "message": "Remove this method and declare a constant for this value.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs",
                 "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "startLine": 32,
+                  "startColumn": 25,
+                  "endLine": 32,
+                  "endColumn": 44
                 }
               }
             }
@@ -686,79 +707,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_13' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb13'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_05' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_05.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_16' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb16'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_16.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_14' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb14'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_05' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb05'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -774,7 +732,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -791,16 +749,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE523_Unprotected_Cred_Transport__Web_17' to match pascal case naming rules, consider using 'Cwe523UnprotectedCredTransportWeb17'.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_14' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine14'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_14.cs",
                 "region": {
-                  "startLine": 25,
+                  "startLine": 21,
                   "startColumn": 7,
-                  "endLine": 25,
-                  "endColumn": 48
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -810,18 +768,18 @@
           }
         },
         {
-          "ruleId": "S3400",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_11' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine11'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_11.cs",
                 "region": {
-                  "startLine": 31,
-                  "startColumn": 25,
-                  "endLine": 31,
-                  "endColumn": 43
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -831,18 +789,18 @@
           }
         },
         {
-          "ruleId": "S3400",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_03' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine03'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 36,
-                  "startColumn": 25,
-                  "endLine": 36,
-                  "endColumn": 44
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -852,18 +810,18 @@
           }
         },
         {
-          "ruleId": "S2068",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_08' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_08.cs",
                 "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -873,291 +831,18 @@
           }
         },
         {
-          "ruleId": "S2068",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "message": "Rename class 'CWE526_Info_Exposure_Environment_Variables__writeLine_13' to match pascal case naming rules, consider using 'Cwe526InfoExposureEnvironmentVariableswriteLine13'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_13.cs",
                 "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 28,
-                  "endLine": 60,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 28,
-                  "endLine": 45,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 28,
-                  "endLine": 45,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 28,
-                  "endLine": 44,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
-                "region": {
-                  "startLine": 52,
-                  "startColumn": 28,
-                  "endLine": 52,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 28,
-                  "endLine": 44,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_10.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_01.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 24,
-                  "endLine": 37,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_09.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_11.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 63
                 }
               }
             }
@@ -1173,11 +858,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 26,
                   "startColumn": 18,
-                  "endLine": 30,
+                  "endLine": 26,
                   "endColumn": 19
                 }
               }
@@ -1186,964 +871,12 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 30,
+                  "startLine": 26,
                   "startColumn": 13,
-                  "endLine": 30,
+                  "endLine": 26,
                   "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_10.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_09.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_10.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_09.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_01.cs",
-                "region": {
-                  "startLine": 65,
-                  "startColumn": 24,
-                  "endLine": 65,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 28,
-                  "endLine": 84,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_01.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 24,
-                  "endLine": 56,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
-                "region": {
-                  "startLine": 68,
-                  "startColumn": 24,
-                  "endLine": 68,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 28,
-                  "endLine": 76,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 28,
-                  "endLine": 77,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 24,
-                  "endLine": 60,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 61,
-                  "startColumn": 24,
-                  "endLine": 61,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
-                "region": {
-                  "startLine": 76,
-                  "startColumn": 28,
-                  "endLine": 76,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_11.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 28,
-                  "endLine": 71,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '!='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 18,
-                  "endLine": 57,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 57,
-                  "startColumn": 13,
-                  "endLine": 57,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 24,
-                  "endLine": 60,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_09.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_11.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_09.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_10.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_13.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 28,
-                  "endLine": 77,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_10.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_14.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 103,
-                  "startColumn": 28,
-                  "endLine": 103,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
-                "region": {
-                  "startLine": 61,
-                  "startColumn": 24,
-                  "endLine": 61,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_02.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
-                "region": {
-                  "startLine": 87,
-                  "startColumn": 28,
-                  "endLine": 87,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
-                "region": {
-                  "startLine": 108,
-                  "startColumn": 28,
-                  "endLine": 108,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_05.cs",
-                "region": {
-                  "startLine": 92,
-                  "startColumn": 24,
-                  "endLine": 92,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
-                "region": {
-                  "startLine": 102,
-                  "startColumn": 28,
-                  "endLine": 102,
-                  "endColumn": 52
                 }
               }
             }
@@ -2159,11 +892,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_12.cs",
                 "region": {
-                  "startLine": 78,
+                  "startLine": 42,
                   "startColumn": 9,
-                  "endLine": 78,
+                  "endLine": 42,
                   "endColumn": 11
                 }
               }
@@ -2174,246 +907,31 @@
           }
         },
         {
-          "ruleId": "S2068",
+          "ruleId": "S1764",
           "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
+                  "startLine": 37,
+                  "startColumn": 18,
+                  "endLine": 37,
+                  "endColumn": 19
                 }
               }
             }
           ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
+          "relatedLocations": [
             {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_12.cs",
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 76,
-                  "startColumn": 24,
-                  "endLine": 76,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
-                "region": {
-                  "startLine": 110,
-                  "startColumn": 28,
-                  "endLine": 110,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_06.cs",
-                "region": {
-                  "startLine": 91,
-                  "startColumn": 24,
-                  "endLine": 91,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_11.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
-                "region": {
-                  "startLine": 102,
-                  "startColumn": 28,
-                  "endLine": 102,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_08.cs",
-                "region": {
-                  "startLine": 99,
-                  "startColumn": 24,
-                  "endLine": 99,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 28,
-                  "endLine": 97,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_07.cs",
-                "region": {
-                  "startLine": 91,
-                  "startColumn": 24,
-                  "endLine": 91,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 24,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
-                "region": {
-                  "startLine": 40,
-                  "startColumn": 28,
-                  "endLine": 40,
-                  "endColumn": 52
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 14
                 }
               }
             }
@@ -2429,11 +947,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 88,
+                  "startLine": 52,
                   "startColumn": 18,
-                  "endLine": 88,
+                  "endLine": 52,
                   "endColumn": 19
                 }
               }
@@ -2442,11 +960,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_03.cs",
                 "region": {
-                  "startLine": 88,
+                  "startLine": 52,
                   "startColumn": 13,
-                  "endLine": 88,
+                  "endLine": 52,
                   "endColumn": 14
                 }
               }
@@ -2457,39 +975,18 @@
           }
         },
         {
-          "ruleId": "S2068",
+          "ruleId": "S1751",
           "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "message": "Refactor the containing loop to do more than one iteration.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs",
                 "region": {
-                  "startLine": 103,
-                  "startColumn": 28,
-                  "endLine": 103,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_16.cs",
-                "region": {
-                  "startLine": 67,
-                  "startColumn": 28,
-                  "endLine": 67,
-                  "endColumn": 52
+                  "startLine": 30,
+                  "startColumn": 13,
+                  "endLine": 30,
+                  "endColumn": 19
                 }
               }
             }
@@ -2505,11 +1002,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE526_Info_Exposure_Environment_Variables/CWE526_Info_Exposure_Environment_Variables__writeLine_16.cs",
                 "region": {
-                  "startLine": 78,
+                  "startLine": 42,
                   "startColumn": 13,
-                  "endLine": 78,
+                  "endLine": 42,
                   "endColumn": 19
                 }
               }
@@ -2517,252 +1014,6 @@
           ],
           "properties": {
             "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_04.cs",
-                "region": {
-                  "startLine": 92,
-                  "startColumn": 24,
-                  "endLine": 92,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_16.cs",
-                "region": {
-                  "startLine": 56,
-                  "startColumn": 24,
-                  "endLine": 56,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_16.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_16.cs",
-                "region": {
-                  "startLine": 50,
-                  "startColumn": 13,
-                  "endLine": 50,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
-                "region": {
-                  "startLine": 77,
-                  "startColumn": 28,
-                  "endLine": 77,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
-                "region": {
-                  "startLine": 105,
-                  "startColumn": 28,
-                  "endLine": 105,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
-                "region": {
-                  "startLine": 61,
-                  "startColumn": 24,
-                  "endLine": 61,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_15.cs",
-                "region": {
-                  "startLine": 93,
-                  "startColumn": 24,
-                  "endLine": 93,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_17.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 28,
-                  "endLine": 39,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_17.cs",
-                "region": {
-                  "startLine": 66,
-                  "startColumn": 28,
-                  "endLine": 66,
-                  "endColumn": 52
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE523_Unprotected_Cred_Transport/CWE523_Unprotected_Cred_Transport__Web_17.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 24,
-                  "endLine": 55,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
           }
         }
       ],
@@ -2803,23 +1054,6 @@
           "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
           "defaultLevel": "warning",
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1172": {
-          "id": "S1172",
-          "shortDescription": "Unused method parameters should be removed",
-          "fullDescription": "Unused parameters are misleading. Whatever the values passed to such parameters, the behavior will be the same.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1172",
           "properties": {
             "category": "Major Code Smell",
             "isEnabledByDefault": true,
@@ -2879,23 +1113,6 @@
               "SonarWay",
               "MainSourceScope",
               "TestSourceScope"
-            ]
-          }
-        },
-        "S2068": {
-          "id": "S2068",
-          "shortDescription": "Hard-coded credentials are security-sensitive",
-          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
-          "properties": {
-            "category": "Blocker Security Hotspot",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "NotConfigurable"
             ]
           }
         },

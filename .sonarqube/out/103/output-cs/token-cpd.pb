@@ -1,57 +1,60 @@
-ê
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_01.cs
-	namespace 	
-	testcases
+µ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_01.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_01 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_01 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-HttpContext 
-ctx 
-= 
-HttpContext %
-.% &
-Current& -
-;- .
-HttpSessionState 
-session  
-=! "
-ctx# &
-.& '
-Session' .
-;. /
-session   
-.   
-Timeout   
-=   
--   
-$num   
-;   
-resp!! 
-.!! 
-Write!! 
-(!! 
-$str!! /
-)!!/ 0
-;!!0 1
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+
+HttpCookie 
+cookie 
+= 
+new 
+
+HttpCookie  *
+(* +
+$str+ :
+,: ;
+$str< B
+)B C
+;C D
+if 
+
+( 
+req 
+. 
+IsSecureConnection "
+)" #
+{ 	
+resp   
+.   
+Cookies   
+.   
+Add   
+(   
+cookie   #
+)  # $
+;  $ %
+}!! 	
 }"" 
 public%% 
 
@@ -84,89 +87,108 @@
 HttpResponse**( 4
 resp**5 9
 )**9 :
-{++ 
-HttpContext,, 
-ctx,, 
-=,, 
-HttpContext,, %
-.,,% &
-Current,,& -
-;,,- .
-HttpSessionState-- 
-session--  
-=--! "
-ctx--# &
-.--& '
-Session--' .
-;--. /
-session// 
-.// 
-Timeout// 
-=// 
-$num// 
-;// 
-}00 
-}22 
-}33 ë
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_02.cs
-	namespace 	
-	testcases
- 
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_02 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
+{++ 
+
+HttpCookie,, 
+cookie,, 
+=,, 
+new,, 
+
+HttpCookie,,  *
+(,,* +
+$str,,+ :
+,,,: ;
+$str,,< Q
+),,Q R
+;,,R S
+if-- 
 
-( 
-true 
-) 
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+(-- 
+req-- 
+.-- 
+IsSecureConnection-- "
+)--" #
+{.. 	
+cookie00 
+.00 
+Secure00 
+=00 
+true00  
+;00  !
+resp11 
+.11 
+Cookies11 
+.11 
+Add11 
+(11 
+cookie11 #
+)11# $
+;11$ %
+}22 	
+}33 
+}55 
+}66 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_02.cs
+	namespace 	
+	testcases
+ 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_02 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
+
+( 
+true 
+) 
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -195,159 +217,193 @@
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
+{11 	
+
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
 
-(<< 
-true<< 
-)<< 
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
+(?? 
+true?? 
+)?? 
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
 
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL Ð
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_03.cs
-	namespace 	
-	testcases
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR õ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_03.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_03 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_03 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
 
-( 
-$num 
-== 
-$num 
-) 
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+( 
+$num 
+== 
+$num 
+) 
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -378,173 +434,207 @@
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
+{11 	
+
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
 
-(<< 
-$num<< 
-==<< 
-$num<< 
-)<< 
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
+(?? 
+$num?? 
+==?? 
+$num?? 
+)?? 
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
 
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL «
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_04.cs
-	namespace 	
-	testcases
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR Ð
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_04.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_04 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_04 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+private 
+const 
+bool 
+PRIVATE_CONST_TRUE )
+=* +
+true, 0
+;0 1
 private 
 const 
-bool 
-PRIVATE_CONST_TRUE )
-=* +
-true, 0
-;0 1
-private 
-const 
-bool 
-PRIVATE_CONST_FALSE *
-=+ ,
-false- 2
-;2 3
-public!! 
+bool 
+PRIVATE_CONST_FALSE *
+=+ ,
+false- 2
+;2 3
+public   
 
-override!! 
-void!! 
-Bad!! 
-(!! 
-HttpRequest!! (
-req!!) ,
-,!!, -
-HttpResponse!!. :
-resp!!; ?
-)!!? @
-{"" 
-if## 
+override   
+void   
+Bad   
+(   
+HttpRequest   (
+req  ) ,
+,  , -
+HttpResponse  . :
+resp  ; ?
+)  ? @
+{!! 
+if"" 
 
-(## 
-PRIVATE_CONST_TRUE## 
-)## 
-{$$ 	
-HttpContext%% 
-ctx%% 
-=%% 
-HttpContext%% )
-.%%) *
-Current%%* 1
-;%%1 2
-HttpSessionState&& 
-session&& $
-=&&% &
-ctx&&' *
-.&&* +
-Session&&+ 2
-;&&2 3
-session(( 
-.(( 
-Timeout(( 
-=(( 
--(( 
-$num((  
-;((  !
-resp)) 
-.)) 
-Write)) 
-()) 
-$str)) 3
-)))3 4
-;))4 5
+("" 
+PRIVATE_CONST_TRUE"" 
+)"" 
+{## 	
+
+HttpCookie$$ 
+cookie$$ 
+=$$ 
+new$$  #
+
+HttpCookie$$$ .
+($$. /
+$str$$/ >
+,$$> ?
+$str$$@ F
+)$$F G
+;$$G H
+if%% 
+(%% 
+req%% 
+.%% 
+IsSecureConnection%% &
+)%%& '
+{&& 
+resp(( 
+.(( 
+Cookies(( 
+.(( 
+Add((  
+(((  !
+cookie((! '
+)((' (
+;((( )
+})) 
 }** 	
 }++ 
 private// 
@@ -573,169 +663,203 @@
 ;440 1
 }55 	
 else66 
-{77 	
-HttpContext88 
-ctx88 
-=88 
-HttpContext88 )
-.88) *
-Current88* 1
-;881 2
-HttpSessionState99 
-session99 $
-=99% &
-ctx99' *
-.99* +
-Session99+ 2
-;992 3
-session;; 
-.;; 
-Timeout;; 
-=;; 
-$num;; 
-;;;  
-}<< 	
-}== 
-private@@ 
-void@@ 
-Good2@@ 
-(@@ 
-HttpRequest@@ "
-req@@# &
-,@@& '
-HttpResponse@@( 4
-resp@@5 9
-)@@9 :
-{AA 
-ifBB 
+{77 	
+
+HttpCookie88 
+cookie88 
+=88 
+new88  #
+
+HttpCookie88$ .
+(88. /
+$str88/ >
+,88> ?
+$str88@ U
+)88U V
+;88V W
+if99 
+(99 
+req99 
+.99 
+IsSecureConnection99 &
+)99& '
+{:: 
+cookie<< 
+.<< 
+Secure<< 
+=<< 
+true<<  $
+;<<$ %
+resp== 
+.== 
+Cookies== 
+.== 
+Add==  
+(==  !
+cookie==! '
+)==' (
+;==( )
+}>> 
+}?? 	
+}@@ 
+privateCC 
+voidCC 
+Good2CC 
+(CC 
+HttpRequestCC "
+reqCC# &
+,CC& '
+HttpResponseCC( 4
+respCC5 9
+)CC9 :
+{DD 
+ifEE 
 
-(BB 
-PRIVATE_CONST_TRUEBB 
-)BB 
-{CC 	
-HttpContextDD 
-ctxDD 
-=DD 
-HttpContextDD )
-.DD) *
-CurrentDD* 1
-;DD1 2
-HttpSessionStateEE 
-sessionEE $
-=EE% &
-ctxEE' *
-.EE* +
-SessionEE+ 2
-;EE2 3
-sessionGG 
-.GG 
-TimeoutGG 
-=GG 
-$numGG 
-;GG  
-}HH 	
-}II 
-publicKK 
+(EE 
+PRIVATE_CONST_TRUEEE 
+)EE 
+{FF 	
+
+HttpCookieGG 
+cookieGG 
+=GG 
+newGG  #
+
+HttpCookieGG$ .
+(GG. /
+$strGG/ >
+,GG> ?
+$strGG@ U
+)GGU V
+;GGV W
+ifHH 
+(HH 
+reqHH 
+.HH 
+IsSecureConnectionHH &
+)HH& '
+{II 
+cookieKK 
+.KK 
+SecureKK 
+=KK 
+trueKK  $
+;KK$ %
+respLL 
+.LL 
+CookiesLL 
+.LL 
+AddLL  
+(LL  !
+cookieLL! '
+)LL' (
+;LL( )
+}MM 
+}NN 	
+}OO 
+publicQQ 
 
-overrideKK 
-voidKK 
-GoodKK 
-(KK 
-HttpRequestKK )
-reqKK* -
-,KK- .
-HttpResponseKK/ ;
-respKK< @
-)KK@ A
-{LL 
-Good1MM 
-(MM 
-reqMM 
-,MM 
-respMM 
-)MM 
-;MM 
-Good2NN 
-(NN 
-reqNN 
-,NN 
-respNN 
-)NN 
-;NN 
-}OO 
-}QQ 
-}RR â
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_05.cs
-	namespace 	
-	testcases
+overrideQQ 
+voidQQ 
+GoodQQ 
+(QQ 
+HttpRequestQQ )
+reqQQ* -
+,QQ- .
+HttpResponseQQ/ ;
+respQQ< @
+)QQ@ A
+{RR 
+Good1SS 
+(SS 
+reqSS 
+,SS 
+respSS 
+)SS 
+;SS 
+Good2TT 
+(TT 
+reqTT 
+,TT 
+respTT 
+)TT 
+;TT 
+}UU 
+}WW 
+}XX ‡
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_05.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_05 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_05 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+private 
+bool 
+privateTrue 
+= 
+true #
+;# $
 private 
-bool 
-privateTrue 
-= 
-true #
-;# $
-private 
-bool 
-privateFalse 
-= 
-false  %
-;% &
-public!! 
+bool 
+privateFalse 
+= 
+false  %
+;% &
+public   
 
-override!! 
-void!! 
-Bad!! 
-(!! 
-HttpRequest!! (
-req!!) ,
-,!!, -
-HttpResponse!!. :
-resp!!; ?
-)!!? @
-{"" 
-if## 
+override   
+void   
+Bad   
+(   
+HttpRequest   (
+req  ) ,
+,  , -
+HttpResponse  . :
+resp  ; ?
+)  ? @
+{!! 
+if"" 
 
-(## 
-privateTrue## 
-)## 
-{$$ 	
-HttpContext%% 
-ctx%% 
-=%% 
-HttpContext%% )
-.%%) *
-Current%%* 1
-;%%1 2
-HttpSessionState&& 
-session&& $
-=&&% &
-ctx&&' *
-.&&* +
-Session&&+ 2
-;&&2 3
-session(( 
-.(( 
-Timeout(( 
-=(( 
--(( 
-$num((  
-;((  !
-resp)) 
-.)) 
-Write)) 
-()) 
-$str)) 3
-)))3 4
-;))4 5
+("" 
+privateTrue"" 
+)"" 
+{## 	
+
+HttpCookie$$ 
+cookie$$ 
+=$$ 
+new$$  #
+
+HttpCookie$$$ .
+($$. /
+$str$$/ >
+,$$> ?
+$str$$@ F
+)$$F G
+;$$G H
+if%% 
+(%% 
+req%% 
+.%% 
+IsSecureConnection%% &
+)%%& '
+{&& 
+resp(( 
+.(( 
+Cookies(( 
+.(( 
+Add((  
+(((  !
+cookie((! '
+)((' (
+;((( )
+})) 
 }** 	
 }++ 
 private// 
@@ -764,166 +888,200 @@
 ;440 1
 }55 	
 else66 
-{77 	
-HttpContext88 
-ctx88 
-=88 
-HttpContext88 )
-.88) *
-Current88* 1
-;881 2
-HttpSessionState99 
-session99 $
-=99% &
-ctx99' *
-.99* +
-Session99+ 2
-;992 3
-session;; 
-.;; 
-Timeout;; 
-=;; 
-$num;; 
-;;;  
-}<< 	
-}== 
-private@@ 
-void@@ 
-Good2@@ 
-(@@ 
-HttpRequest@@ "
-req@@# &
-,@@& '
-HttpResponse@@( 4
-resp@@5 9
-)@@9 :
-{AA 
-ifBB 
+{77 	
+
+HttpCookie88 
+cookie88 
+=88 
+new88  #
+
+HttpCookie88$ .
+(88. /
+$str88/ >
+,88> ?
+$str88@ U
+)88U V
+;88V W
+if99 
+(99 
+req99 
+.99 
+IsSecureConnection99 &
+)99& '
+{:: 
+cookie<< 
+.<< 
+Secure<< 
+=<< 
+true<<  $
+;<<$ %
+resp== 
+.== 
+Cookies== 
+.== 
+Add==  
+(==  !
+cookie==! '
+)==' (
+;==( )
+}>> 
+}?? 	
+}@@ 
+privateCC 
+voidCC 
+Good2CC 
+(CC 
+HttpRequestCC "
+reqCC# &
+,CC& '
+HttpResponseCC( 4
+respCC5 9
+)CC9 :
+{DD 
+ifEE 
 
-(BB 
-privateTrueBB 
-)BB 
-{CC 	
-HttpContextDD 
-ctxDD 
-=DD 
-HttpContextDD )
-.DD) *
-CurrentDD* 1
-;DD1 2
-HttpSessionStateEE 
-sessionEE $
-=EE% &
-ctxEE' *
-.EE* +
-SessionEE+ 2
-;EE2 3
-sessionGG 
-.GG 
-TimeoutGG 
-=GG 
-$numGG 
-;GG  
-}HH 	
-}II 
-publicKK 
+(EE 
+privateTrueEE 
+)EE 
+{FF 	
+
+HttpCookieGG 
+cookieGG 
+=GG 
+newGG  #
+
+HttpCookieGG$ .
+(GG. /
+$strGG/ >
+,GG> ?
+$strGG@ U
+)GGU V
+;GGV W
+ifHH 
+(HH 
+reqHH 
+.HH 
+IsSecureConnectionHH &
+)HH& '
+{II 
+cookieKK 
+.KK 
+SecureKK 
+=KK 
+trueKK  $
+;KK$ %
+respLL 
+.LL 
+CookiesLL 
+.LL 
+AddLL  
+(LL  !
+cookieLL! '
+)LL' (
+;LL( )
+}MM 
+}NN 	
+}OO 
+publicQQ 
 
-overrideKK 
-voidKK 
-GoodKK 
-(KK 
-HttpRequestKK )
-reqKK* -
-,KK- .
-HttpResponseKK/ ;
-respKK< @
-)KK@ A
-{LL 
-Good1MM 
-(MM 
-reqMM 
-,MM 
-respMM 
-)MM 
-;MM 
-Good2NN 
-(NN 
-reqNN 
-,NN 
-respNN 
-)NN 
-;NN 
-}OO 
-}QQ 
-}RR ƒ
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_06.cs
-	namespace 	
-	testcases
+overrideQQ 
+voidQQ 
+GoodQQ 
+(QQ 
+HttpRequestQQ )
+reqQQ* -
+,QQ- .
+HttpResponseQQ/ ;
+respQQ< @
+)QQ@ A
+{RR 
+Good1SS 
+(SS 
+reqSS 
+,SS 
+respSS 
+)SS 
+;SS 
+Good2TT 
+(TT 
+reqTT 
+,TT 
+respTT 
+)TT 
+;TT 
+}UU 
+}WW 
+}XX ¨
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_06.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_06 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-private 
-const 
-int 
-PRIVATE_CONST_FIVE (
-=) *
-$num+ ,
-;, -
-public   
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_06 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+private 
+const 
+int 
+PRIVATE_CONST_FIVE (
+=) *
+$num+ ,
+;, -
+public 
 
-override   
-void   
-Bad   
-(   
-HttpRequest   (
-req  ) ,
-,  , -
-HttpResponse  . :
-resp  ; ?
-)  ? @
-{!! 
-if"" 
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{   
+if!! 
 
-("" 
-PRIVATE_CONST_FIVE"" 
-=="" !
-$num""" #
-)""# $
-{## 	
-HttpContext$$ 
-ctx$$ 
-=$$ 
-HttpContext$$ )
-.$$) *
-Current$$* 1
-;$$1 2
-HttpSessionState%% 
-session%% $
-=%%% &
-ctx%%' *
-.%%* +
-Session%%+ 2
-;%%2 3
-session'' 
-.'' 
-Timeout'' 
-='' 
--'' 
-$num''  
-;''  !
-resp(( 
-.(( 
-Write(( 
-((( 
-$str(( 3
-)((3 4
-;((4 5
+(!! 
+PRIVATE_CONST_FIVE!! 
+==!! !
+$num!!" #
+)!!# $
+{"" 	
+
+HttpCookie## 
+cookie## 
+=## 
+new##  #
+
+HttpCookie##$ .
+(##. /
+$str##/ >
+,##> ?
+$str##@ F
+)##F G
+;##G H
+if$$ 
+($$ 
+req$$ 
+.$$ 
+IsSecureConnection$$ &
+)$$& '
+{%% 
+resp'' 
+.'' 
+Cookies'' 
+.'' 
+Add''  
+(''  !
+cookie''! '
+)''' (
+;''( )
+}(( 
 })) 	
 }** 
 private.. 
@@ -954,167 +1112,201 @@
 ;330 1
 }44 	
 else55 
-{66 	
-HttpContext77 
-ctx77 
-=77 
-HttpContext77 )
-.77) *
-Current77* 1
-;771 2
-HttpSessionState88 
-session88 $
-=88% &
-ctx88' *
-.88* +
-Session88+ 2
-;882 3
-session:: 
-.:: 
-Timeout:: 
-=:: 
-$num:: 
-;::  
-};; 	
-}<< 
-private?? 
-void?? 
-Good2?? 
-(?? 
-HttpRequest?? "
-req??# &
-,??& '
-HttpResponse??( 4
-resp??5 9
-)??9 :
-{@@ 
-ifAA 
+{66 	
+
+HttpCookie77 
+cookie77 
+=77 
+new77  #
+
+HttpCookie77$ .
+(77. /
+$str77/ >
+,77> ?
+$str77@ U
+)77U V
+;77V W
+if88 
+(88 
+req88 
+.88 
+IsSecureConnection88 &
+)88& '
+{99 
+cookie;; 
+.;; 
+Secure;; 
+=;; 
+true;;  $
+;;;$ %
+resp<< 
+.<< 
+Cookies<< 
+.<< 
+Add<<  
+(<<  !
+cookie<<! '
+)<<' (
+;<<( )
+}== 
+}>> 	
+}?? 
+privateBB 
+voidBB 
+Good2BB 
+(BB 
+HttpRequestBB "
+reqBB# &
+,BB& '
+HttpResponseBB( 4
+respBB5 9
+)BB9 :
+{CC 
+ifDD 
 
-(AA 
-PRIVATE_CONST_FIVEAA 
-==AA !
-$numAA" #
-)AA# $
-{BB 	
-HttpContextCC 
-ctxCC 
-=CC 
-HttpContextCC )
-.CC) *
-CurrentCC* 1
-;CC1 2
-HttpSessionStateDD 
-sessionDD $
-=DD% &
-ctxDD' *
-.DD* +
-SessionDD+ 2
-;DD2 3
-sessionFF 
-.FF 
-TimeoutFF 
-=FF 
-$numFF 
-;FF  
-}GG 	
-}HH 
-publicJJ 
+(DD 
+PRIVATE_CONST_FIVEDD 
+==DD !
+$numDD" #
+)DD# $
+{EE 	
+
+HttpCookieFF 
+cookieFF 
+=FF 
+newFF  #
+
+HttpCookieFF$ .
+(FF. /
+$strFF/ >
+,FF> ?
+$strFF@ U
+)FFU V
+;FFV W
+ifGG 
+(GG 
+reqGG 
+.GG 
+IsSecureConnectionGG &
+)GG& '
+{HH 
+cookieJJ 
+.JJ 
+SecureJJ 
+=JJ 
+trueJJ  $
+;JJ$ %
+respKK 
+.KK 
+CookiesKK 
+.KK 
+AddKK  
+(KK  !
+cookieKK! '
+)KK' (
+;KK( )
+}LL 
+}MM 	
+}NN 
+publicPP 
 
-overrideJJ 
-voidJJ 
-GoodJJ 
-(JJ 
-HttpRequestJJ )
-reqJJ* -
-,JJ- .
-HttpResponseJJ/ ;
-respJJ< @
-)JJ@ A
-{KK 
-Good1LL 
-(LL 
-reqLL 
-,LL 
-respLL 
-)LL 
-;LL 
-Good2MM 
-(MM 
-reqMM 
-,MM 
-respMM 
-)MM 
-;MM 
-}NN 
-}PP 
-}QQ Ô
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_07.cs
-	namespace 	
-	testcases
+overridePP 
+voidPP 
+GoodPP 
+(PP 
+HttpRequestPP )
+reqPP* -
+,PP- .
+HttpResponsePP/ ;
+respPP< @
+)PP@ A
+{QQ 
+Good1RR 
+(RR 
+reqRR 
+,RR 
+respRR 
+)RR 
+;RR 
+Good2SS 
+(SS 
+reqSS 
+,SS 
+respSS 
+)SS 
+;SS 
+}TT 
+}VV 
+}WW ù
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_07.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_07 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-private 
-int 
-privateFive 
-= 
-$num 
-;  
-public   
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_07 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+private 
+int 
+privateFive 
+= 
+$num 
+;  
+public 
 
-override   
-void   
-Bad   
-(   
-HttpRequest   (
-req  ) ,
-,  , -
-HttpResponse  . :
-resp  ; ?
-)  ? @
-{!! 
-if"" 
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{   
+if!! 
 
-("" 
-privateFive"" 
-=="" 
-$num"" 
-)"" 
-{## 	
-HttpContext$$ 
-ctx$$ 
-=$$ 
-HttpContext$$ )
-.$$) *
-Current$$* 1
-;$$1 2
-HttpSessionState%% 
-session%% $
-=%%% &
-ctx%%' *
-.%%* +
-Session%%+ 2
-;%%2 3
-session'' 
-.'' 
-Timeout'' 
-='' 
--'' 
-$num''  
-;''  !
-resp(( 
-.(( 
-Write(( 
-((( 
-$str(( 3
-)((3 4
-;((4 5
+(!! 
+privateFive!! 
+==!! 
+$num!! 
+)!! 
+{"" 	
+
+HttpCookie## 
+cookie## 
+=## 
+new##  #
+
+HttpCookie##$ .
+(##. /
+$str##/ >
+,##> ?
+$str##@ F
+)##F G
+;##G H
+if$$ 
+($$ 
+req$$ 
+.$$ 
+IsSecureConnection$$ &
+)$$& '
+{%% 
+resp'' 
+.'' 
+Cookies'' 
+.'' 
+Add''  
+(''  !
+cookie''! '
+)''' (
+;''( )
+}(( 
 })) 	
 }** 
 private.. 
@@ -1145,183 +1337,217 @@
 ;330 1
 }44 	
 else55 
-{66 	
-HttpContext77 
-ctx77 
-=77 
-HttpContext77 )
-.77) *
-Current77* 1
-;771 2
-HttpSessionState88 
-session88 $
-=88% &
-ctx88' *
-.88* +
-Session88+ 2
-;882 3
-session:: 
-.:: 
-Timeout:: 
-=:: 
-$num:: 
-;::  
-};; 	
-}<< 
-private?? 
-void?? 
-Good2?? 
-(?? 
-HttpRequest?? "
-req??# &
-,??& '
-HttpResponse??( 4
-resp??5 9
-)??9 :
-{@@ 
-ifAA 
+{66 	
+
+HttpCookie77 
+cookie77 
+=77 
+new77  #
+
+HttpCookie77$ .
+(77. /
+$str77/ >
+,77> ?
+$str77@ U
+)77U V
+;77V W
+if88 
+(88 
+req88 
+.88 
+IsSecureConnection88 &
+)88& '
+{99 
+cookie;; 
+.;; 
+Secure;; 
+=;; 
+true;;  $
+;;;$ %
+resp<< 
+.<< 
+Cookies<< 
+.<< 
+Add<<  
+(<<  !
+cookie<<! '
+)<<' (
+;<<( )
+}== 
+}>> 	
+}?? 
+privateBB 
+voidBB 
+Good2BB 
+(BB 
+HttpRequestBB "
+reqBB# &
+,BB& '
+HttpResponseBB( 4
+respBB5 9
+)BB9 :
+{CC 
+ifDD 
 
-(AA 
-privateFiveAA 
-==AA 
-$numAA 
-)AA 
-{BB 	
-HttpContextCC 
-ctxCC 
-=CC 
-HttpContextCC )
-.CC) *
-CurrentCC* 1
-;CC1 2
-HttpSessionStateDD 
-sessionDD $
-=DD% &
-ctxDD' *
-.DD* +
-SessionDD+ 2
-;DD2 3
-sessionFF 
-.FF 
-TimeoutFF 
-=FF 
-$numFF 
-;FF  
-}GG 	
-}HH 
-publicJJ 
+(DD 
+privateFiveDD 
+==DD 
+$numDD 
+)DD 
+{EE 	
+
+HttpCookieFF 
+cookieFF 
+=FF 
+newFF  #
+
+HttpCookieFF$ .
+(FF. /
+$strFF/ >
+,FF> ?
+$strFF@ U
+)FFU V
+;FFV W
+ifGG 
+(GG 
+reqGG 
+.GG 
+IsSecureConnectionGG &
+)GG& '
+{HH 
+cookieJJ 
+.JJ 
+SecureJJ 
+=JJ 
+trueJJ  $
+;JJ$ %
+respKK 
+.KK 
+CookiesKK 
+.KK 
+AddKK  
+(KK  !
+cookieKK! '
+)KK' (
+;KK( )
+}LL 
+}MM 	
+}NN 
+publicPP 
 
-overrideJJ 
-voidJJ 
-GoodJJ 
-(JJ 
-HttpRequestJJ )
-reqJJ* -
-,JJ- .
-HttpResponseJJ/ ;
-respJJ< @
-)JJ@ A
-{KK 
-Good1LL 
-(LL 
-reqLL 
-,LL 
-respLL 
-)LL 
-;LL 
-Good2MM 
-(MM 
-reqMM 
-,MM 
-respMM 
-)MM 
-;MM 
-}NN 
-}PP 
-}QQ ‰
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_08.cs
-	namespace 	
-	testcases
+overridePP 
+voidPP 
+GoodPP 
+(PP 
+HttpRequestPP )
+reqPP* -
+,PP- .
+HttpResponsePP/ ;
+respPP< @
+)PP@ A
+{QQ 
+Good1RR 
+(RR 
+reqRR 
+,RR 
+respRR 
+)RR 
+;RR 
+Good2SS 
+(SS 
+reqSS 
+,SS 
+respSS 
+)SS 
+;SS 
+}TT 
+}VV 
+}WW ®!
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_08.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_08 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-private 
-static 
-bool 
-PrivateReturnsTrue *
-(* +
-)+ ,
-{ 
-return   
-true   
-;   
-}!! 
-private## 
-static## 
-bool## 
-PrivateReturnsFalse## +
-(##+ ,
-)##, -
-{$$ 
-return%% 
-false%% 
-;%% 
-}&& 
-public(( 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_08 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+private 
+static 
+bool 
+PrivateReturnsTrue *
+(* +
+)+ ,
+{ 
+return 
+true 
+; 
+}   
+private"" 
+static"" 
+bool"" 
+PrivateReturnsFalse"" +
+(""+ ,
+)"", -
+{## 
+return$$ 
+false$$ 
+;$$ 
+}%% 
+public'' 
 
-override(( 
-void(( 
-Bad(( 
-((( 
-HttpRequest(( (
-req(() ,
-,((, -
-HttpResponse((. :
-resp((; ?
-)((? @
-{)) 
-if** 
+override'' 
+void'' 
+Bad'' 
+('' 
+HttpRequest'' (
+req'') ,
+,'', -
+HttpResponse''. :
+resp''; ?
+)''? @
+{(( 
+if)) 
 
-(** 
-PrivateReturnsTrue** 
-(** 
-)**  
-)**  !
-{++ 	
-HttpContext,, 
-ctx,, 
-=,, 
-HttpContext,, )
-.,,) *
-Current,,* 1
-;,,1 2
-HttpSessionState-- 
-session-- $
-=--% &
-ctx--' *
-.--* +
-Session--+ 2
-;--2 3
-session// 
-.// 
-Timeout// 
-=// 
--// 
-$num//  
-;//  !
-resp00 
-.00 
-Write00 
-(00 
-$str00 3
-)003 4
-;004 5
+()) 
+PrivateReturnsTrue)) 
+()) 
+)))  
+)))  !
+{** 	
+
+HttpCookie++ 
+cookie++ 
+=++ 
+new++  #
+
+HttpCookie++$ .
+(++. /
+$str++/ >
+,++> ?
+$str++@ F
+)++F G
+;++G H
+if,, 
+(,, 
+req,, 
+.,, 
+IsSecureConnection,, &
+),,& '
+{-- 
+resp// 
+.// 
+Cookies// 
+.// 
+Add//  
+(//  !
+cookie//! '
+)//' (
+;//( )
+}00 
 }11 	
 }22 
 private66 
@@ -1352,161 +1578,195 @@
 ;;;0 1
 }<< 	
 else== 
-{>> 	
-HttpContext?? 
-ctx?? 
-=?? 
-HttpContext?? )
-.??) *
-Current??* 1
-;??1 2
-HttpSessionState@@ 
-session@@ $
-=@@% &
-ctx@@' *
-.@@* +
-Session@@+ 2
-;@@2 3
-sessionBB 
-.BB 
-TimeoutBB 
-=BB 
-$numBB 
-;BB  
-}CC 	
-}DD 
-privateGG 
-voidGG 
-Good2GG 
-(GG 
-HttpRequestGG "
-reqGG# &
-,GG& '
-HttpResponseGG( 4
-respGG5 9
-)GG9 :
-{HH 
-ifII 
+{>> 	
+
+HttpCookie?? 
+cookie?? 
+=?? 
+new??  #
+
+HttpCookie??$ .
+(??. /
+$str??/ >
+,??> ?
+$str??@ U
+)??U V
+;??V W
+if@@ 
+(@@ 
+req@@ 
+.@@ 
+IsSecureConnection@@ &
+)@@& '
+{AA 
+cookieCC 
+.CC 
+SecureCC 
+=CC 
+trueCC  $
+;CC$ %
+respDD 
+.DD 
+CookiesDD 
+.DD 
+AddDD  
+(DD  !
+cookieDD! '
+)DD' (
+;DD( )
+}EE 
+}FF 	
+}GG 
+privateJJ 
+voidJJ 
+Good2JJ 
+(JJ 
+HttpRequestJJ "
+reqJJ# &
+,JJ& '
+HttpResponseJJ( 4
+respJJ5 9
+)JJ9 :
+{KK 
+ifLL 
 
-(II 
-PrivateReturnsTrueII 
-(II 
-)II  
-)II  !
-{JJ 	
-HttpContextKK 
-ctxKK 
-=KK 
-HttpContextKK )
-.KK) *
-CurrentKK* 1
-;KK1 2
-HttpSessionStateLL 
-sessionLL $
-=LL% &
-ctxLL' *
-.LL* +
-SessionLL+ 2
-;LL2 3
-sessionNN 
-.NN 
-TimeoutNN 
-=NN 
-$numNN 
-;NN  
-}OO 	
-}PP 
-publicRR 
+(LL 
+PrivateReturnsTrueLL 
+(LL 
+)LL  
+)LL  !
+{MM 	
+
+HttpCookieNN 
+cookieNN 
+=NN 
+newNN  #
+
+HttpCookieNN$ .
+(NN. /
+$strNN/ >
+,NN> ?
+$strNN@ U
+)NNU V
+;NNV W
+ifOO 
+(OO 
+reqOO 
+.OO 
+IsSecureConnectionOO &
+)OO& '
+{PP 
+cookieRR 
+.RR 
+SecureRR 
+=RR 
+trueRR  $
+;RR$ %
+respSS 
+.SS 
+CookiesSS 
+.SS 
+AddSS  
+(SS  !
+cookieSS! '
+)SS' (
+;SS( )
+}TT 
+}UU 	
+}VV 
+publicXX 
 
-overrideRR 
-voidRR 
-GoodRR 
-(RR 
-HttpRequestRR )
-reqRR* -
-,RR- .
-HttpResponseRR/ ;
-respRR< @
-)RR@ A
-{SS 
-Good1TT 
-(TT 
-reqTT 
-,TT 
-respTT 
-)TT 
-;TT 
-Good2UU 
-(UU 
-reqUU 
-,UU 
-respUU 
-)UU 
-;UU 
-}VV 
-}XX 
-}YY ø
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_09.cs
-	namespace 	
-	testcases
+overrideXX 
+voidXX 
+GoodXX 
+(XX 
+HttpRequestXX )
+reqXX* -
+,XX- .
+HttpResponseXX/ ;
+respXX< @
+)XX@ A
+{YY 
+Good1ZZ 
+(ZZ 
+reqZZ 
+,ZZ 
+respZZ 
+)ZZ 
+;ZZ 
+Good2[[ 
+([[ 
+req[[ 
+,[[ 
+resp[[ 
+)[[ 
+;[[ 
+}\\ 
+}^^ 
+}__ 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_09.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_09 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_09 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
 
-( 
-IO 
-.  
-STATIC_READONLY_TRUE #
-)# $
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+( 
+IO 
+.  
+STATIC_READONLY_TRUE #
+)# $
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -1537,162 +1797,196 @@
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
-
-(<< 
-IO<< 
-.<<  
-STATIC_READONLY_TRUE<< #
-)<<# $
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
-
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL Ú
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_10.cs
-	namespace 	
-	testcases
- 
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_10 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
-
-( 
-IO 
-. 
+{11 	
 
-staticTrue 
-) 
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
+
+(?? 
+IO?? 
+.??  
+STATIC_READONLY_TRUE?? #
+)??# $
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
+
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR ÿ
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_10.cs
+	namespace 	
+	testcases
+ 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_10 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
+
+( 
+IO 
+. 
+
+staticTrue 
+) 
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -1723,164 +2017,198 @@ staticTrue 
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
-
-(<< 
-IO<< 
-.<< 
+{11 	
 
-staticTrue<< 
-)<< 
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
-
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL É
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_11.cs
-	namespace 	
-	testcases
- 
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_11 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
 
-( 
-IO 
-. 
-StaticReturnsTrue  
-(  !
-)! "
-)" #
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+(?? 
+IO?? 
+.?? 
+
+staticTrue?? 
+)?? 
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
+
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR î
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_11.cs
+	namespace 	
+	testcases
+ 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_11 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
+
+( 
+IO 
+. 
+StaticReturnsTrue  
+(  !
+)! "
+)" #
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -1913,342 +2241,426 @@ staticTrue<< 
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
+{11 	
+
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
 
-(<< 
-IO<< 
-.<< 
-StaticReturnsTrue<<  
-(<<  !
-)<<! "
-)<<" #
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
+(?? 
+IO?? 
+.?? 
+StaticReturnsTrue??  
+(??  !
+)??! "
+)??" #
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
 
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_12.cs
-	namespace 	
-	testcases
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR 
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_12.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_12 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_12 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
 
-( 
-IO 
-. $
-StaticReturnsTrueOrFalse '
-(' (
-)( )
-)) *
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+( 
+IO 
+. $
+StaticReturnsTrueOrFalse '
+(' (
+)( )
+)) *
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 else%% 
-{&& 	
-HttpContext'' 
-ctx'' 
-='' 
-HttpContext'' )
-.'') *
-Current''* 1
-;''1 2
-HttpSessionState(( 
-session(( $
-=((% &
-ctx((' *
-.((* +
-Session((+ 2
-;((2 3
-session** 
-.** 
-Timeout** 
-=** 
-$num** 
-;**  
-}++ 	
-},, 
-private00 
-void00 
-Good100 
-(00 
-HttpRequest00 "
-req00# &
-,00& '
-HttpResponse00( 4
-resp005 9
-)009 :
-{11 
-if22 
+{&& 	
+
+HttpCookie'' 
+cookie'' 
+='' 
+new''  #
+
+HttpCookie''$ .
+(''. /
+$str''/ >
+,''> ?
+$str''@ U
+)''U V
+;''V W
+if(( 
+((( 
+req(( 
+.(( 
+IsSecureConnection(( &
+)((& '
+{)) 
+cookie++ 
+.++ 
+Secure++ 
+=++ 
+true++  $
+;++$ %
+resp,, 
+.,, 
+Cookies,, 
+.,, 
+Add,,  
+(,,  !
+cookie,,! '
+),,' (
+;,,( )
+}-- 
+}.. 	
+}// 
+private33 
+void33 
+Good133 
+(33 
+HttpRequest33 "
+req33# &
+,33& '
+HttpResponse33( 4
+resp335 9
+)339 :
+{44 
+if55 
 
-(22 
-IO22 
-.22 $
-StaticReturnsTrueOrFalse22 '
-(22' (
-)22( )
-)22) *
-{33 	
-HttpContext44 
-ctx44 
-=44 
-HttpContext44 )
-.44) *
-Current44* 1
-;441 2
-HttpSessionState55 
-session55 $
-=55% &
-ctx55' *
-.55* +
-Session55+ 2
-;552 3
-session77 
-.77 
-Timeout77 
-=77 
-$num77 
-;77  
-}88 	
-else99 
-{:: 	
-HttpContext;; 
-ctx;; 
-=;; 
-HttpContext;; )
-.;;) *
-Current;;* 1
-;;;1 2
-HttpSessionState<< 
-session<< $
-=<<% &
-ctx<<' *
-.<<* +
-Session<<+ 2
-;<<2 3
-session>> 
-.>> 
-Timeout>> 
-=>> 
-$num>> 
-;>>  
-}?? 	
-}@@ 
-publicBB 
+(55 
+IO55 
+.55 $
+StaticReturnsTrueOrFalse55 '
+(55' (
+)55( )
+)55) *
+{66 	
+
+HttpCookie77 
+cookie77 
+=77 
+new77  #
+
+HttpCookie77$ .
+(77. /
+$str77/ >
+,77> ?
+$str77@ U
+)77U V
+;77V W
+if88 
+(88 
+req88 
+.88 
+IsSecureConnection88 &
+)88& '
+{99 
+cookie;; 
+.;; 
+Secure;; 
+=;; 
+true;;  $
+;;;$ %
+resp<< 
+.<< 
+Cookies<< 
+.<< 
+Add<<  
+(<<  !
+cookie<<! '
+)<<' (
+;<<( )
+}== 
+}>> 	
+else?? 
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
 
-overrideBB 
-voidBB 
-GoodBB 
-(BB 
-HttpRequestBB )
-reqBB* -
-,BB- .
-HttpResponseBB/ ;
-respBB< @
-)BB@ A
-{CC 
-Good1DD 
-(DD 
-reqDD 
-,DD 
-respDD 
-)DD 
-;DD 
-}EE 
-}GG 
-}HH Ý
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_13.cs
-	namespace 	
-	testcases
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+}NN 
+}PP 
+}QQ ‚
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_13.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_13 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_13 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
 
-( 
-IO 
-.  
-STATIC_READONLY_FIVE #
-==$ &
-$num' (
-)( )
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+( 
+IO 
+.  
+STATIC_READONLY_FIVE #
+==$ &
+$num' (
+)( )
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -2281,166 +2693,200 @@ staticTrue<< 
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
-
-(<< 
-IO<< 
-.<<  
-STATIC_READONLY_FIVE<< #
-==<<$ &
-$num<<' (
-)<<( )
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
-
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL ¿
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_14.cs
-	namespace 	
-	testcases
- 
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_14 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
-
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-if 
-
-( 
-IO 
-. 
+{11 	
 
-staticFive 
-== 
-$num 
-) 
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
+
+(?? 
+IO?? 
+.??  
+STATIC_READONLY_FIVE?? #
+==??$ &
+$num??' (
+)??( )
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
+
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR ä
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_14.cs
+	namespace 	
+	testcases
+ 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_14 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
+
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+if 
+
+( 
+IO 
+. 
+
+staticFive 
+== 
+$num 
+) 
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -2474,164 +2920,198 @@ staticFive++ 
 ;..0 1
 }// 	
 else00 
-{11 	
-HttpContext22 
-ctx22 
-=22 
-HttpContext22 )
-.22) *
-Current22* 1
-;221 2
-HttpSessionState33 
-session33 $
-=33% &
-ctx33' *
-.33* +
-Session33+ 2
-;332 3
-session55 
-.55 
-Timeout55 
-=55 
-$num55 
-;55  
-}66 	
-}77 
-private:: 
-void:: 
-Good2:: 
-(:: 
-HttpRequest:: "
-req::# &
-,::& '
-HttpResponse::( 4
-resp::5 9
-)::9 :
-{;; 
-if<< 
-
-(<< 
-IO<< 
-.<< 
+{11 	
 
-staticFive<< 
-==<< 
-$num<< 
-)<< 
-{== 	
-HttpContext>> 
-ctx>> 
-=>> 
-HttpContext>> )
-.>>) *
-Current>>* 1
-;>>1 2
-HttpSessionState?? 
-session?? $
-=??% &
-ctx??' *
-.??* +
-Session??+ 2
-;??2 3
-sessionAA 
-.AA 
-TimeoutAA 
-=AA 
-$numAA 
-;AA  
-}BB 	
-}CC 
-publicEE 
+HttpCookie22 
+cookie22 
+=22 
+new22  #
+
+HttpCookie22$ .
+(22. /
+$str22/ >
+,22> ?
+$str22@ U
+)22U V
+;22V W
+if33 
+(33 
+req33 
+.33 
+IsSecureConnection33 &
+)33& '
+{44 
+cookie66 
+.66 
+Secure66 
+=66 
+true66  $
+;66$ %
+resp77 
+.77 
+Cookies77 
+.77 
+Add77  
+(77  !
+cookie77! '
+)77' (
+;77( )
+}88 
+}99 	
+}:: 
+private== 
+void== 
+Good2== 
+(== 
+HttpRequest== "
+req==# &
+,==& '
+HttpResponse==( 4
+resp==5 9
+)==9 :
+{>> 
+if?? 
+
+(?? 
+IO?? 
+.?? 
+
+staticFive?? 
+==?? 
+$num?? 
+)?? 
+{@@ 	
+
+HttpCookieAA 
+cookieAA 
+=AA 
+newAA  #
+
+HttpCookieAA$ .
+(AA. /
+$strAA/ >
+,AA> ?
+$strAA@ U
+)AAU V
+;AAV W
+ifBB 
+(BB 
+reqBB 
+.BB 
+IsSecureConnectionBB &
+)BB& '
+{CC 
+cookieEE 
+.EE 
+SecureEE 
+=EE 
+trueEE  $
+;EE$ %
+respFF 
+.FF 
+CookiesFF 
+.FF 
+AddFF  
+(FF  !
+cookieFF! '
+)FF' (
+;FF( )
+}GG 
+}HH 	
+}II 
+publicKK 
 
-overrideEE 
-voidEE 
-GoodEE 
-(EE 
-HttpRequestEE )
-reqEE* -
-,EE- .
-HttpResponseEE/ ;
-respEE< @
-)EE@ A
-{FF 
-Good1GG 
-(GG 
-reqGG 
-,GG 
-respGG 
-)GG 
-;GG 
-Good2HH 
-(HH 
-reqHH 
-,HH 
-respHH 
-)HH 
-;HH 
-}II 
-}KK 
-}LL 
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_15.cs
-	namespace 	
-	testcases
+overrideKK 
+voidKK 
+GoodKK 
+(KK 
+HttpRequestKK )
+reqKK* -
+,KK- .
+HttpResponseKK/ ;
+respKK< @
+)KK@ A
+{LL 
+Good1MM 
+(MM 
+reqMM 
+,MM 
+respMM 
+)MM 
+;MM 
+Good2NN 
+(NN 
+reqNN 
+,NN 
+respNN 
+)NN 
+;NN 
+}OO 
+}QQ 
+}RR ¦"
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_15.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_15 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_15 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-switch 
-( 
-$num 
-) 
-{ 	
-case 
-$num 
-: 
-HttpContext   
-ctx   
-=   
-HttpContext   )
-.  ) *
-Current  * 1
-;  1 2
-HttpSessionState!! 
-session!! $
-=!!% &
-ctx!!' *
-.!!* +
-Session!!+ 2
-;!!2 3
-session## 
-.## 
-Timeout## 
-=## 
--## 
-$num##  
-;##  !
-resp$$ 
-.$$ 
-Write$$ 
-($$ 
-$str$$ 3
-)$$3 4
-;$$4 5
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+switch 
+( 
+$num 
+) 
+{ 	
+case 
+$num 
+: 
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if   
+(   
+req   
+.   
+IsSecureConnection   &
+)  & '
+{!! 
+resp## 
+.## 
+Cookies## 
+.## 
+Add##  
+(##  !
+cookie##! '
+)##' (
+;##( )
+}$$ 
 break%% 
 ;%% 
 default&& 
@@ -2676,173 +3156,207 @@ staticFive<< 
 break66 
 ;66 
 default77 
-:77 
-HttpContext88 
-ctx88 
-=88 
-HttpContext88 )
-.88) *
-Current88* 1
-;881 2
-HttpSessionState99 
-session99 $
-=99% &
-ctx99' *
-.99* +
-Session99+ 2
-;992 3
-session;; 
-.;; 
-Timeout;; 
-=;; 
-$num;; 
-;;;  
-break<< 
-;<< 
-}== 	
-}>> 
-privateAA 
-voidAA 
-Good2AA 
-(AA 
-HttpRequestAA "
-reqAA# &
-,AA& '
-HttpResponseAA( 4
-respAA5 9
-)AA9 :
-{BB 
-switchCC 
-(CC 
-$numCC 
-)CC 
-{DD 	
-caseEE 
-$numEE 
-:EE 
-HttpContextFF 
-ctxFF 
-=FF 
-HttpContextFF )
-.FF) *
-CurrentFF* 1
-;FF1 2
-HttpSessionStateGG 
-sessionGG $
-=GG% &
-ctxGG' *
-.GG* +
-SessionGG+ 2
-;GG2 3
-sessionII 
-.II 
-TimeoutII 
-=II 
-$numII 
-;II  
-breakJJ 
-;JJ 
-defaultKK 
-:KK 
-IOMM 
-.MM 
-	WriteLineMM 
-(MM 
-$strMM /
-)MM/ 0
-;MM0 1
-breakNN 
-;NN 
-}OO 	
-}PP 
-publicRR 
+:77 
+
+HttpCookie88 
+cookie88 
+=88 
+new88  #
+
+HttpCookie88$ .
+(88. /
+$str88/ >
+,88> ?
+$str88@ U
+)88U V
+;88V W
+if99 
+(99 
+req99 
+.99 
+IsSecureConnection99 &
+)99& '
+{:: 
+cookie<< 
+.<< 
+Secure<< 
+=<< 
+true<<  $
+;<<$ %
+resp== 
+.== 
+Cookies== 
+.== 
+Add==  
+(==  !
+cookie==! '
+)==' (
+;==( )
+}>> 
+break?? 
+;?? 
+}@@ 	
+}AA 
+privateDD 
+voidDD 
+Good2DD 
+(DD 
+HttpRequestDD "
+reqDD# &
+,DD& '
+HttpResponseDD( 4
+respDD5 9
+)DD9 :
+{EE 
+switchFF 
+(FF 
+$numFF 
+)FF 
+{GG 	
+caseHH 
+$numHH 
+:HH 
+
+HttpCookieII 
+cookieII 
+=II 
+newII  #
+
+HttpCookieII$ .
+(II. /
+$strII/ >
+,II> ?
+$strII@ U
+)IIU V
+;IIV W
+ifJJ 
+(JJ 
+reqJJ 
+.JJ 
+IsSecureConnectionJJ &
+)JJ& '
+{KK 
+cookieMM 
+.MM 
+SecureMM 
+=MM 
+trueMM  $
+;MM$ %
+respNN 
+.NN 
+CookiesNN 
+.NN 
+AddNN  
+(NN  !
+cookieNN! '
+)NN' (
+;NN( )
+}OO 
+breakPP 
+;PP 
+defaultQQ 
+:QQ 
+IOSS 
+.SS 
+	WriteLineSS 
+(SS 
+$strSS /
+)SS/ 0
+;SS0 1
+breakTT 
+;TT 
+}UU 	
+}VV 
+publicXX 
 
-overrideRR 
-voidRR 
-GoodRR 
-(RR 
-HttpRequestRR )
-reqRR* -
-,RR- .
-HttpResponseRR/ ;
-respRR< @
-)RR@ A
-{SS 
-Good1TT 
-(TT 
-reqTT 
-,TT 
-respTT 
-)TT 
-;TT 
-Good2UU 
-(UU 
-reqUU 
-,UU 
-respUU 
-)UU 
-;UU 
-}VV 
-}XX 
-}YY ð
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_16.cs
-	namespace 	
-	testcases
+overrideXX 
+voidXX 
+GoodXX 
+(XX 
+HttpRequestXX )
+reqXX* -
+,XX- .
+HttpResponseXX/ ;
+respXX< @
+)XX@ A
+{YY 
+Good1ZZ 
+(ZZ 
+reqZZ 
+,ZZ 
+respZZ 
+)ZZ 
+;ZZ 
+Good2[[ 
+([[ 
+req[[ 
+,[[ 
+resp[[ 
+)[[ 
+;[[ 
+}\\ 
+}^^ 
+}__ »
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_16.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_16 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_16 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-while 
-( 
-true 
-) 
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+while 
+( 
+true 
+) 
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 break$$ 
 ;$$ 
 }%% 	
@@ -2862,122 +3376,140 @@ staticFive<< 
 (,, 
 true,, 
 ),, 
-{-- 	
-HttpContext.. 
-ctx.. 
-=.. 
-HttpContext.. )
-...) *
-Current..* 1
-;..1 2
-HttpSessionState// 
-session// $
-=//% &
-ctx//' *
-.//* +
-Session//+ 2
-;//2 3
-session11 
-.11 
-Timeout11 
-=11 
-$num11 
-;11  
-break22 
-;22 
-}33 	
-}44 
-public66 
+{-- 	
+
+HttpCookie.. 
+cookie.. 
+=.. 
+new..  #
+
+HttpCookie..$ .
+(... /
+$str../ >
+,..> ?
+$str..@ U
+)..U V
+;..V W
+if// 
+(// 
+req// 
+.// 
+IsSecureConnection// &
+)//& '
+{00 
+cookie22 
+.22 
+Secure22 
+=22 
+true22  $
+;22$ %
+resp33 
+.33 
+Cookies33 
+.33 
+Add33  
+(33  !
+cookie33! '
+)33' (
+;33( )
+}44 
+break55 
+;55 
+}66 	
+}77 
+public99 
 
-override66 
-void66 
-Good66 
-(66 
-HttpRequest66 )
-req66* -
-,66- .
-HttpResponse66/ ;
-resp66< @
-)66@ A
-{77 
-Good188 
-(88 
-req88 
-,88 
-resp88 
-)88 
-;88 
-}99 
-};; 
-}<< à
-³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\CWE613_Insufficient_Session_Expiration__Web_17.cs
-	namespace 	
-	testcases
+override99 
+void99 
+Good99 
+(99 
+HttpRequest99 )
+req99* -
+,99- .
+HttpResponse99/ ;
+resp99< @
+)99@ A
+{:: 
+Good1;; 
+(;; 
+req;; 
+,;; 
+resp;; 
+);; 
+;;; 
+}<< 
+}>> 
+}?? «
+³C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\CWE614_Sensitive_Cookie_Without_Secure__Web_17.cs
+	namespace 	
+	testcases
  
-. 2
-&CWE613_Insufficient_Session_Expiration :
-{ 
-class :
-.CWE613_Insufficient_Session_Expiration__Web_17 4
-:5 6
-AbstractTestCaseWeb7 J
-{ 
-public 
+. 2
+&CWE614_Sensitive_Cookie_Without_Secure :
+{ 
+class :
+.CWE614_Sensitive_Cookie_Without_Secure__Web_17 4
+:5 6
+AbstractTestCaseWeb7 J
+{ 
+public 
 
-override 
-void 
-Bad 
-( 
-HttpRequest (
-req) ,
-,, -
-HttpResponse. :
-resp; ?
-)? @
-{ 
-for 
-( 
-int 
-j 
-= 
-$num 
-; 
-j 
-< 
-$num 
-; 
-j 
-++ !
-)! "
-{ 	
-HttpContext 
-ctx 
-= 
-HttpContext )
-.) *
-Current* 1
-;1 2
-HttpSessionState   
-session   $
-=  % &
-ctx  ' *
-.  * +
-Session  + 2
-;  2 3
-session"" 
-."" 
-Timeout"" 
-="" 
--"" 
-$num""  
-;""  !
-resp## 
-.## 
-Write## 
-(## 
-$str## 3
-)##3 4
-;##4 5
+override 
+void 
+Bad 
+( 
+HttpRequest (
+req) ,
+,, -
+HttpResponse. :
+resp; ?
+)? @
+{ 
+for 
+( 
+int 
+j 
+= 
+$num 
+; 
+j 
+< 
+$num 
+; 
+j 
+++ !
+)! "
+{ 	
+
+HttpCookie 
+cookie 
+= 
+new  #
+
+HttpCookie$ .
+(. /
+$str/ >
+,> ?
+$str@ F
+)F G
+;G H
+if 
+( 
+req 
+. 
+IsSecureConnection &
+)& '
+{   
+resp"" 
+."" 
+Cookies"" 
+."" 
+Add""  
+(""  !
+cookie""! '
+)""' (
+;""( )
+}## 
 }$$ 	
 }%% 
 private)) 
@@ -3005,58 +3537,74 @@ staticFive<< 
 k++ 
 ++++ !
 )++! "
-{,, 	
-HttpContext-- 
-ctx-- 
-=-- 
-HttpContext-- )
-.--) *
-Current--* 1
-;--1 2
-HttpSessionState.. 
-session.. $
-=..% &
-ctx..' *
-...* +
-Session..+ 2
-;..2 3
-session00 
-.00 
-Timeout00 
-=00 
-$num00 
-;00  
-}11 	
-}22 
-public44 
+{,, 	
+
+HttpCookie-- 
+cookie-- 
+=-- 
+new--  #
+
+HttpCookie--$ .
+(--. /
+$str--/ >
+,--> ?
+$str--@ U
+)--U V
+;--V W
+if.. 
+(.. 
+req.. 
+... 
+IsSecureConnection.. &
+)..& '
+{// 
+cookie11 
+.11 
+Secure11 
+=11 
+true11  $
+;11$ %
+resp22 
+.22 
+Cookies22 
+.22 
+Add22  
+(22  !
+cookie22! '
+)22' (
+;22( )
+}33 
+}44 	
+}55 
+public77 
 
-override44 
-void44 
-Good44 
-(44 
-HttpRequest44 )
-req44* -
-,44- .
-HttpResponse44/ ;
-resp44< @
-)44@ A
-{55 
-Good166 
-(66 
-req66 
-,66 
-resp66 
-)66 
-;66 
-}77 
-}99 
-}:: þ(
-ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\Program.cs
+override77 
+void77 
+Good77 
+(77 
+HttpRequest77 )
+req77* -
+,77- .
+HttpResponse77/ ;
+resp77< @
+)77@ A
+{88 
+Good199 
+(99 
+req99 
+,99 
+resp99 
+)99 
+;99 
+}:: 
+}<< 
+}== þ(
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\Program.cs
 	namespace		 	
 	testcases		
  
 .		 2
-&CWE613_Insufficient_Session_Expiration		 :
+&CWE614_Sensitive_Cookie_Without_Secure		 :
 {
 
  
@@ -3350,7 +3898,7 @@ StackTrace55 %
 ƒƒ 
 }„„ 
 }…… È
-œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE613_Insufficient_Session_Expiration\Properties\AssemblyInfo.cs
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 

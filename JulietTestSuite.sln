@@ -1,10 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31105.61
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31815.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCaseSupport", "src\TestCaseSupport\TestCaseSupport\TestCaseSupport.csproj", "{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE113_HTTP_Response_Splitting_s01", "src\testcases\CWE113_HTTP_Response_Splitting\s01\CWE113_HTTP_Response_Splitting_s01.csproj", "{5B232E5A-F90D-2E1A-CEB8-A8E82A69E6F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCaseSupport", "src\testcasesupport\TestCaseSupport.csproj", "{4CDBAE35-8CD1-4A0F-8912-B79D0BB43B83}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE113_HTTP_Response_Splitting_s02", "src\testcases\CWE113_HTTP_Response_Splitting\s02\CWE113_HTTP_Response_Splitting_s02.csproj", "{EC6E7D16-D14A-E13B-5352-CB4F74852D7F}"
 EndProject
@@ -109,8 +107,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE336_Same_Seed_in_PRNG", "src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG.csproj", "{1F76D0F2-7815-3FE5-26BF-03ACFA99157A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE338_Weak_PRNG", "src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG.csproj", "{C8AC2C7A-EDB4-CA0C-80B7-C99A6EFA0864}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE350_Reliance_on_Reverse_DNS_Resolution_for_Security_Action", "src\testcases\CWE350_Reliance_on_Reverse_DNS_Resolution_for_Security_Action\CWE350_Reliance_on_Reverse_DNS_Resolution_for_Security_Action.csproj", "{FD44A0A2-CA51-9CCF-91E7-E41D02258A18}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE366_Race_Condition_within_a_Thread", "src\testcases\CWE366_Race_Condition_within_a_Thread\CWE366_Race_Condition_within_a_Thread.csproj", "{C1FA291C-C837-54A0-AC9E-B3FB3232142D}"
 EndProject

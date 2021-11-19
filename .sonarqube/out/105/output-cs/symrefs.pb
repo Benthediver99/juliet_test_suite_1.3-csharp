@@ -1,339 +1,323 @@
-“
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_01.cs
+⁄
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_01.cs
 
- -
+ *
 
- 
+ 
 
-) ,
-; ? 
+!! 
+&& ## 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_02.cs
 
-'' 
-''* -)) 
-''< @)) 
-,, )) 
+ *
 
-,,# &
-,,5 9// û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_02.cs
+ 
+%% AA 
+55 BB 
 
- -
+?? 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_03.cs
 
- 
+ *
 
-) ,
-; ?   
-++ MM 
+ 
+%% AA 
+55 BB 
 
-++# &
-++5 955 
->> NN 
+?? ¶
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_04.cs
 
->># &
->>5 9CC 
+ *
+ )"" == 
+ *-- 
 
-KK 
-KK* -MM NN 
-KK< @MM NN û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_03.cs
+   
+++ GG 
+;; HH 
 
- -
+EE ¶
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_05.cs
 
- 
+ *
+ "" == 
+ -- 
 
-) ,
-; ?   
-++ MM 
+   
+++ GG 
+;; HH 
 
-++# &
-++5 955 
->> NN 
+EE ö
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_06.cs
 
->># &
->>5 9CC 
+ *(
+ (!! ,, << 
 
-KK 
-KK* -MM NN 
-KK< @MM NN ‘
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_04.cs
+ 
+** FF 
+:: GG 
 
- -
- )## FF 
- *33 
+DD ö
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_07.cs
 
-!! 
+ *(
+ !! ,, << 
 
-!!) ,
-!!; ?&& 
-11 SS 
+ 
+** FF 
+:: GG 
 
-11# &
-115 9;; 
-DD TT 
+DD ¶
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_08.cs
 
-DD# &
-DD5 9II 
+ *
+ *)) DD 
+"" +44 
 
-QQ 
-QQ* -SS TT 
-QQ< @SS TT ‘
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_05.cs
+'' 
+22 NN 
+BB OO 
 
- -
- ## FF 
- 33 
+LL 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_09.cs
 
-!! 
+ *
 
-!!) ,
-!!; ?&& 
-11 SS 
+ 
+%% AA 
+55 BB 
 
-11# &
-115 9;; 
-DD TT 
+?? 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_10.cs
 
-DD# &
-DD5 9II 
+ *
 
-QQ 
-QQ* -SS TT 
-QQ< @SS TT »
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_06.cs
+ 
+%% AA 
+55 BB 
 
- -(
- ("" 22 EE 
+?? 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_11.cs
 
-   
+ *
 
-  ) ,
-  ; ?%% 
-00 RR 
+ 
+%% AA 
+55 BB 
 
-00# &
-005 9:: 
-CC SS 
+?? ⁄
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_12.cs
 
-CC# &
-CC5 9HH 
+ *
 
-PP 
-PP* -RR SS 
-PP< @RR SS »
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_07.cs
+ 
+++ == 
 
- -(
- "" 22 EE 
+;; 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_13.cs
 
-   
+ *
 
-  ) ,
-  ; ?%% 
-00 RR 
+ 
+%% AA 
+55 BB 
 
-00# &
-005 9:: 
-CC SS 
+?? 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_14.cs
 
-CC# &
-CC5 9HH 
+ *
 
-PP 
-PP* -RR SS 
-PP< @RR SS ‘
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_08.cs
+ 
+%% AA 
+55 BB 
 
- -
- *** MM 
-## +:: 
+?? 
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_15.cs
 
-(( 
+ *
 
-(() ,
-((; ?-- 
-88 ZZ 
+ 
+++ NN 
+<< OO 
 
-88# &
-885 9BB 
-KK [[ 
+LL ⁄
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_16.cs
 
-KK# &
-KK5 9PP 
+ *
 
-XX 
-XX* -ZZ [[ 
-XX< @ZZ [[ û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_09.cs
+ 
+&& 33 
 
- -
+11 ö
+ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__false_17.cs
 
- 
+ *
 
-) ,
-; ?   
-++ MM 
+ 
+   
+%% 11 
+'' '' '' 
 
-++# &
-++5 955 
->> NN 
+// €
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_01.cs
 
->># &
->>5 9CC 
+ +
 
-KK 
-KK* -MM NN 
-KK< @MM NN û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_10.cs
+ 
 
- -
+!! 
+&& ## Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_02.cs
 
- 
+ +
 
-) ,
-; ?   
-++ MM 
+ 
+%% ?? 
+44 @@ 
 
-++# &
-++5 955 
->> NN 
+== Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_03.cs
 
->># &
->>5 9CC 
+ +
 
-KK 
-KK* -MM NN 
-KK< @MM NN û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_11.cs
+ 
+%% ?? 
+44 @@ 
 
- -
+== ß
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_04.cs
 
- 
+ +
+ )"" << 
+ *-- 
 
-) ,
-; ?   
-++ MM 
+   
+++ EE 
+:: FF 
 
-++# &
-++5 955 
->> NN 
+CC ß
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_05.cs
 
->># &
->>5 9CC 
+ +
+ "" << 
+ -- 
 
-KK 
-KK* -MM NN 
-KK< @MM NN Ê
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_12.cs
+   
+++ EE 
+:: FF 
 
- -
+CC õ
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_06.cs
 
- 
+ +(
+ (!! ,, ;; 
 
-) ,
-; ?   ** 
-44 LL 
+ 
+** DD 
+99 EE 
 
-44# &
-445 999 BB 
+BB õ
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_07.cs
 
-JJ 
-JJ* -LL 
-JJ< @LL û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_13.cs
+ +(
+ !! ,, ;; 
 
- -
+ 
+** DD 
+99 EE 
 
- 
+BB ß
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_08.cs
 
-) ,
-; ?   
-++ MM 
+ +
+ *)) CC 
+"" +44 
 
-++# &
-++5 955 
->> NN 
+'' 
+22 LL 
+AA MM 
 
->># &
->>5 9CC 
+JJ Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_09.cs
 
-KK 
-KK* -MM NN 
-KK< @MM NN û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_14.cs
+ +
 
- -
+ 
+%% ?? 
+44 @@ 
 
- 
+== Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_10.cs
 
-) ,
-; ?   
-++ MM 
+ +
 
-++# &
-++5 955 
->> NN 
+ 
+%% ?? 
+44 @@ 
 
->># &
->>5 9CC 
+== Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_11.cs
 
-KK 
-KK* -MM NN 
-KK< @MM NN û
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_15.cs
+ +
 
- -
+ 
+%% ?? 
+44 @@ 
 
- 
+== €
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_12.cs
 
-) ,
-; ?!! 
-11 ZZ 
+ +
 
-11# &
-115 9;; 
-EE [[ 
+ 
+** :: 
 
-EE# &
-EE5 9KK 
+88 Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_13.cs
 
-XX 
-XX* -ZZ [[ 
-XX< @ZZ [[ “
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_16.cs
+ +
 
- -
+ 
+%% ?? 
+44 @@ 
 
- 
+== Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_14.cs
 
-) ,
-; ?   
-,, << 
+ +
 
-,,# &
-,,5 911 
+ 
+%% ?? 
+44 @@ 
 
-:: 
-::* -<< 
-::< @<< í
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\CWE615_Info_Exposure_by_Comment__Web_17.cs
+== Ò
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_15.cs
 
- -
+ +
 
- 
+ 
+++ LL 
+;; MM 
 
-) ,
-; ?   
-   
-++ :: 
+JJ €
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_16.cs
 
-++# &
-++5 900 
--- -- -- 
+ +
 
-88 
-88* -:: 
-88< @:: ê
-ÖC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\Program.cs
+ 
+&& 22 
+
+00 õ
+ûC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion__length_17.cs
+
+ +
+
+ 
+   
+%% 00 
+'' '' '' 
+
+.. ë
+ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\Program.cs
 
  
 
@@ -349,8 +333,11 @@
 [[  EE 
 aa  FF 
 gg  GG 
-mm  HH 
-ss  II 
-yy  JJ 
-  KK ò
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE615_Info_Exposure_by_Comment\Properties\AssemblyInfo.cs
+mm  HH 
+
+îî  II 
+
+öö  JJ 
+
+††  KK ì
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\Properties\AssemblyInfo.cs

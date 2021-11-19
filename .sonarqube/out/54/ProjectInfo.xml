@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE366_Race_Condition_within_a_Thread</ProjectName>
+  <ProjectName>CWE369_Divide_by_Zero_s01</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>c1fa291c-c837-54a0-ac9e-b3fb3232142d</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE366_Race_Condition_within_a_Thread\CWE366_Race_Condition_within_a_Thread.csproj</FullPath>
+  <ProjectGuid>59b268b4-1025-3249-dbf2-3143c7d853f3</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE369_Divide_by_Zero\s01\CWE369_Divide_by_Zero_s01.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\54\FilesToAnalyze.txt" />

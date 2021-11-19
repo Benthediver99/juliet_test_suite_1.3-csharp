@@ -1,409 +1,764 @@
-÷
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_01.cs
+ú
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_01.cs
 
- B
+ >
 
- (
-   6 ?.. %00 %
-    "$$ 
-'' #))Q Y
+ 2
+ 00: B33' /@@ $BB $2
+  , -Q Rp q2
+ "" '' ,,& 3--! .
+00$ &55 
+99 #;;Q Y
 
-66 
-;; 88 <
-== @@6 ?BB? HDD# ,PP %RR %
-@@  "FF 
+HH 
+MM JJ 2
+OO dd: Bgg' /tt $vv $2
+PP RR RR, -RRQ RRRp q<
+QQ UU ZZ __ ,``& 3aa! .
+dd$ &ii 
+mm #ooQ Y¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_02.cs
 
-BB &
-II #KKQ YÊ
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs
+ >
 
- B
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+ÉÉ 
+∑∑ <
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
 
-hh! *
-oo 'qqU ]
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
 
-~~ Ê
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
 
- B
+úú( *
+°° 
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+•• '
+ßßU ]
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
+¥¥ ¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_03.cs
 
-hh! *
-oo 'qqU ]
+ >
 
-~~ û
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
 
- B
- )## gg 
- *BB 
+ÉÉ 
+∑∑ <
 
-!! (
-%% ((: C66  )88  )
-(($ &,, 
-// '11U ]
-@@ 
-ÜÜ <
-II LL: CNNC LPP' 0\\  )^^  )
-LL$ &RR 
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
 
-NN! *
-UU 'WWU ]
-ee 
-áá <
-ii ll: CnnC Lpp' 0||  )~~  )
-ll$ &rr 
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
 
-nn! *
-uu 'wwU ]
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
 
-ÑÑ û
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs
+úú( *
+°° 
 
- B
- ## gg 
- BB 
+•• '
+ßßU ]
 
-!! (
-%% ((: C66  )88  )
-(($ &,, 
-// '11U ]
-@@ 
-ÜÜ <
-II LL: CNNC LPP' 0\\  )^^  )
-LL$ &RR 
+¥¥ 
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_04.cs
 
-NN! *
-UU 'WWU ]
-ee 
-áá <
-ii ll: CnnC Lpp' 0||  )~~  )
-ll$ &rr 
+ > 
+ )"" 
+ãã 
+ *TT 
 
-nn! *
-uu 'wwU ]
+   2
+$$ 88> F;;+ 3HH  (JJ  (2
+%% '' ''0 1''U V''t u2
+&&  ** // 44* 755% 2
+88( *== 
+AA 'CCU ]
+RR 
+ºº 6
+[[ pp> Fss+ 3
+ÄÄ  (
+ÇÇ  (2
+\\ ^^ ^^0 1^^U V^^t u<
+]]  aa ff kk# 0ll* 7mm% 2
+pp( *uu 
+yy '{{U ]
 
-ÑÑ í
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs
+ââ 
+ΩΩ <
 
- B(
- ("" AA ff 
+çç 
+¢¢> F
+••+ 3
+≤≤  (
+¥¥  (<
 
-   (
-$$ '': C55  )77  )
-''$ &++ 
-.. '00U ]
-?? 
-ÖÖ <
-HH KK: CMMC LOO' 0[[  )]]  )
-KK$ &QQ 
+éé 
+êê 
+êê0 1
+êêU V
+êêt uH
 
-MM! *
-TT 'VVU ]
-dd 
-ÜÜ <
-hh kk: CmmC Loo' 0{{  )}}  )
-kk$ &qq 
+èè  
+ìì 
+òò 
+ùù# 0
+ûû* 7
+üü% 2
 
-mm! *
-tt 'vvU ]
+¢¢( *
+ßß 
 
-ÉÉ í
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs
+´´ '
+≠≠U ]
 
- B(
- "" AA ff 
+∫∫ 
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_05.cs
 
-   (
-$$ '': C55  )77  )
-''$ &++ 
-.. '00U ]
-?? 
-ÖÖ <
-HH KK: CMMC LOO' 0[[  )]]  )
-KK$ &QQ 
+ > 
+ "" 
+ãã 
+ TT 
 
-MM! *
-TT 'VVU ]
-dd 
-ÜÜ <
-hh kk: CmmC Loo' 0{{  )}}  )
-kk$ &qq 
+   2
+$$ 88> F;;+ 3HH  (JJ  (2
+%% '' ''0 1''U V''t u2
+&&  ** // 44* 755% 2
+88( *== 
+AA 'CCU ]
+RR 
+ºº 6
+[[ pp> Fss+ 3
+ÄÄ  (
+ÇÇ  (2
+\\ ^^ ^^0 1^^U V^^t u<
+]]  aa ff kk# 0ll* 7mm% 2
+pp( *uu 
+yy '{{U ]
 
-mm! *
-tt 'vvU ]
+ââ 
+ΩΩ <
 
-ÉÉ ¢
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs
+çç 
+¢¢> F
+••+ 3
+≤≤  (
+¥¥  (<
 
- B
- *** nn 
-## +II 
+éé 
+êê 
+êê0 1
+êêU V
+êêt uH
 
-(( (
-,, //: C==  )??  )
-//$ &33 
-66 '88U ]
-GG 
-çç <
-PP SS: CUUC LWW' 0cc  )ee  )
-SS$ &YY 
+èè  
+ìì 
+òò 
+ùù# 0
+ûû* 7
+üü% 2
 
-UU! *
-\\ '^^U ]
-ll 
-éé @
-pp ss: CuuC Lww' 0
-ÉÉ  )
-ÖÖ  )
-ss$ &yy 
+¢¢( *
+ßß 
 
-uu! *
-|| '~~U ]
+´´ '
+≠≠U ]
 
-ãã Ê
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs
+∫∫ ‚
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_06.cs
 
- B
+ >*
+ (!! SS 
+ää 
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+ 2
+## 77> F::+ 3GG  (II  (2
+$$ && &&0 1&&U V&&t u2
+%%  )) .. 33* 744% 2
+77( *<< 
+@@ 'BBU ]
+QQ 
+ªª 4
+ZZ oo> Frr+ 3  (
+ÅÅ  (2
+[[ ]] ]]0 1]]U V]]t u<
+\\  `` ee jj# 0kk* 7ll% 2
+oo( *tt 
+xx 'zzU ]
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
+àà 
+ºº <
 
-hh! *
-oo 'qqU ]
+åå 
+°°> F
+§§+ 3
+±±  (
+≥≥  (<
 
-~~ Ê
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs
+çç 
+èè 
+èè0 1
+èèU V
+èèt uH
 
- B
+éé  
+íí 
+óó 
+úú# 0
+ùù* 7
+ûû% 2
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+°°( *
+¶¶ 
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
+™™ '
+¨¨U ]
 
-hh! *
-oo 'qqU ]
+ππ ‚
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_07.cs
 
-~~ Ê
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs
+ >*
+ !! SS 
+ää 
 
- B
+ 2
+## 77> F::+ 3GG  (II  (2
+$$ && &&0 1&&U V&&t u2
+%%  )) .. 33* 744% 2
+77( *<< 
+@@ 'BBU ]
+QQ 
+ªª 4
+ZZ oo> Frr+ 3  (
+ÅÅ  (2
+[[ ]] ]]0 1]]U V]]t u<
+\\  `` ee jj# 0kk* 7ll% 2
+oo( *tt 
+xx 'zzU ]
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+àà 
+ºº <
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
+åå 
+°°> F
+§§+ 3
+±±  (
+≥≥  (<
 
-hh! *
-oo 'qqU ]
+çç 
+èè 
+èè0 1
+èèU V
+èèt uH
 
-~~ Œ
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs
+éé  
+íí 
+óó 
+úú# 0
+ùù* 7
+ûû% 2
 
- B
+°°( *
+¶¶ 
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]<
-88 ;;: C==C L??' 0KK  )MM  )
-;;$ &AA 
+™™ '
+¨¨U ]
 
-==! *
-DD 'FFU ]
-UU 
-ëë <
-YY \\: C^^C L``' 0ll  )nn  )
-\\$ &bb 
+ππ Ù
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_08.cs
 
-^^! *
-ee 'ggU ]@
-tt ww: CyyC L{{' 0
-áá  )
-ââ  )
-ww$ &}} 
+ > 
+ *)) 
+íí 
+"" +[[ 
 
-yy! *
+'' 2
+++ ??> FBB+ 3OO  (QQ  (2
+,, .. ..0 1..U V..t u2
+--  11 66 ;;* 7<<% 2
+??( *DD 
+HH 'JJU ]
+YY 
+√√ 6
+bb ww> Fzz+ 3
+áá  (
+ââ  (2
+cc ee ee0 1eeU Veet u<
+dd  hh mm rr# 0ss* 7tt% 2
+ww( *|| 
 
 ÄÄ '
-ÇÇU ]
+ÇÇU ]
 
-èè Ê
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs
+êê 
+ƒƒ <
 
- B
+îî 
+©©> F
+¨¨+ 3
+ππ  (
+ªª  (<
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+ïï 
+óó 
+óó0 1
+óóU V
+óót uH
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
+ññ  
+öö 
+üü 
+§§# 0
+••* 7
+¶¶% 2
 
-hh! *
+©©( *
+ÆÆ 
+
+≤≤ '
+¥¥U ]
+
+¡¡ ¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_09.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
+
+ÉÉ 
+∑∑ <
+
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
+
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
+
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
+
+úú( *
+°° 
+
+•• '
+ßßU ]
+
+¥¥ ¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_10.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
+
+ÉÉ 
+∑∑ <
+
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
+
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
+
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
+
+úú( *
+°° 
+
+•• '
+ßßU ]
+
+¥¥ ¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_11.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
+
+ÉÉ 
+∑∑ <
+
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
+
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
+
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
+
+úú( *
+°° 
+
+•• '
+ßßU ]
+
+¥¥ é	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_12.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]2
+JJ __> Fbb+ 3oo  (qq  (2
+KK MM MM0 1MMU VMMt u<
+LL  PP UU ZZ# 0[[* 7\\% 2
+__( *dd 
+hh 'jjU ]
+yy 
+ŸŸ :
+}} 
+íí> F
+ïï+ 3
+¢¢  (
+§§  (:
+~~ 
+ÄÄ 
+ÄÄ0 1
+ÄÄU V
+ÄÄt uF
+  
+ÉÉ 
+àà 
+çç# 0
+éé* 7
+èè% 2
+
+íí( *
+óó 
+
+õõ '
+ùùU ]<
+
+™™ 
+øø> F
+¬¬+ 3
+œœ  (
+——  (<
+
+´´ 
+≠≠ 
+≠≠0 1
+≠≠U V
+≠≠t uH
+
+¨¨  
+∞∞ 
+µµ 
+∫∫# 0
+ªª* 7
+ºº% 2
+
+øø( *
+ƒƒ 
+
+»» '
+  U ]
+
+◊◊ ¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_13.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
+
+ÉÉ 
+∑∑ <
+
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
+
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
+
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
+
+úú( *
+°° 
+
+•• '
+ßßU ]
+
+¥¥ ¥
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_14.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL 
+∂∂ 2
+UU jj> Fmm+ 3zz  (||  (2
+VV XX XX0 1XXU VXXt u<
+WW  [[ `` ee# 0ff* 7gg% 2
+jj( *oo 
+ss 'uuU ]
+
+ÉÉ 
+∑∑ <
+
+áá 
+úú> F
+üü+ 3
+¨¨  (
+ÆÆ  (<
+
+àà 
+ää 
+ää0 1
+ääU V
+äät uH
+
+ââ  
+çç 
+íí 
+óó# 0
+òò* 7
+ôô% 2
+
+úú( *
+°° 
+
+•• '
+ßßU ]
+
+¥¥ ∏
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_15.cs
+
+ >
+
+ 2
+ 33> F66+ 3CC  (EE  (2
+   "" ""0 1""U V""t u2
+!!  %% ** //* 700% 2
+33( *88 
+<< '>>U ]
+RR 
+√√ 6
+[[ pp> Fss+ 3
+ÄÄ  (
+ÇÇ  (2
+\\ ^^ ^^0 1^^U V^^t u<
+]]  aa ff kk# 0ll* 7mm% 2
+pp( *uu 
+yy '{{U ]
+
+ää 
+ƒƒ <
+
+èè 
+§§> F
+ßß+ 3
+¥¥  (
+∂∂  (<
+
+êê 
+íí 
+íí0 1
+ííU V
+íít uH
+
+ëë  
+ïï 
+öö 
+üü# 0
+††* 7
+°°% 2
+
+§§( *
+©© 
+
+≠≠ '
+ØØU ]
+
+¡¡ û
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_16.cs
+
+ >
+
+ 2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+MM 
+ÅÅ 2
+QQ ff> Fii+ 3vv  (xx  (2
+RR TT TT0 1TTU VTTt u<
+SS  WW \\ aa# 0bb* 7cc% 2
+ff( *kk 
 oo 'qqU ]
 
-~~ Ê
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs
+ ‹
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\CWE379_Temporary_File_Creation_in_Insecure_Dir__basic_17.cs
 
- B
+ >
 
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: 
-ÄÄ <
-CC FF: CHHC LJJ' 0VV  )XX  )
-FF$ &LL 
+ 
+   2
+ 22> F55+ 3BB  (DD  (2
+ !! !!0 1!!U V!!t u2
+    $$ )) ..* 7//% 2
+22( *77 
+;; '==U ]
+LL  
+NN NN NN 2
+PP ee> Fhh+ 3uu  (ww  (2
+QQ SS SS0 1SSU VSSt u<
+RR  VV [[ ``# 0aa* 7bb% 2
+ee( *jj 
+nn 'ppU ]
 
-HH! *
-OO 'QQU ]
-__ 
-ÅÅ <
-cc ff: ChhC Ljj' 0vv  )xx  )
-ff$ &ll 
-
-hh! *
-oo 'qqU ]
-
-~~ Í
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs
-
- B
-
- (
-   ##: C11  )33  )
-##$ &'' 
-** ',,U ]
-@@ 
-çç <
-II LL: CNNC LPP' 0\\  )^^  )
-LL$ &RR 
-
-NN! *
-UU 'WWU ]
-ff 
-éé >
-kk nn: CppC Lrr' 0~~  )
-ÄÄ  )
-nn$ &tt 
-
-pp! *
-ww 'yyU ]
-
-ãã ÷
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs
-
- B
-
- (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-;; ]] <
-?? BB: CDDC LFF' 0RR  )TT  )
-BB$ &HH 
-
-DD! *
-KK 'MMU ]
-
-[[ ñ
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_17.cs
-
- B
-
- 
-   (
- "": C00  )22  )
-""$ &&& 
-)) '++U ]
-:: [[ 
-<< << << <
->> AA: CCCC LEE' 0QQ  )SS  )
-AA$ &GG 
-
-CC! *
-JJ 'LLU ]
-
-YY ©
-òC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\Program.cs
+}} •
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\Program.cs
 
  
 
@@ -425,5 +780,5 @@
 
 ââ  JJ 
 
-èè  KK ´
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE378_Temporary_File_Creation_With_Insecure_Perms\Properties\AssemblyInfo.cs
+èè  KK ß
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\Properties\AssemblyInfo.cs

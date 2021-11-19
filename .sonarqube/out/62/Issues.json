@@ -12,248 +12,122 @@
       },
       "results": [
         {
-          "ruleId": "CS0168",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 43,
-                  "endLine": 46,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
                   "startLine": 41,
-                  "startColumn": 43,
+                  "startColumn": 13,
                   "endLine": 41,
-                  "endColumn": 60
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 2
           }
         },
         {
-          "ruleId": "CS0168",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 13,
+                  "endLine": 53,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
                 "region": {
                   "startLine": 47,
-                  "startColumn": 43,
+                  "startColumn": 13,
                   "endLine": 47,
-                  "endColumn": 60
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 2
           }
         },
         {
-          "ruleId": "CS0168",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
                 "region": {
                   "startLine": 47,
-                  "startColumn": 43,
+                  "startColumn": 13,
                   "endLine": 47,
-                  "endColumn": 60
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 2
           }
         },
         {
-          "ruleId": "CS0168",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
                 "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
+                  "startLine": 52,
+                  "startColumn": 13,
+                  "endLine": 52,
+                  "endColumn": 15
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 3
+            "warningLevel": 2
           }
         },
         {
-          "ruleId": "CS0168",
+          "ruleId": "CS0162",
           "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
+          "message": "Unreachable code detected",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 39,
-                  "endLine": 39,
-                  "endColumn": 56
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 43,
-                  "endLine": 46,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
                   "startLine": 54,
-                  "startColumn": 43,
+                  "startColumn": 13,
                   "endLine": 54,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
-                "region": {
-                  "startLine": 61,
-                  "startColumn": 13,
-                  "endLine": 61,
                   "endColumn": 15
                 }
               }
@@ -270,11 +144,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 88,
                   "startColumn": 13,
-                  "endLine": 55,
+                  "endLine": 88,
                   "endColumn": 15
                 }
               }
@@ -282,315 +156,21 @@
           ],
           "properties": {
             "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 13,
-                  "endLine": 55,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 13,
-                  "endLine": 60,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 13,
-                  "endLine": 49,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 43,
-                  "endLine": 42,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0168",
-          "level": "warning",
-          "message": "The variable 'exceptNullPointer' is declared but never used",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 43,
-                  "endLine": 41,
-                  "endColumn": 60
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 3
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
-                "region": {
-                  "startLine": 62,
-                  "startColumn": 13,
-                  "endLine": 62,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
-                "region": {
-                  "startLine": 110,
-                  "startColumn": 13,
-                  "endLine": 110,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_02' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic02'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_01' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
           "ruleId": "S2933",
           "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
+          "message": "Make 'privateFive' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
                 "region": {
                   "startLine": 27,
-                  "startColumn": 18,
+                  "startColumn": 17,
                   "endLine": 27,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
-                "region": {
-                  "startLine": 28,
-                  "startColumn": 18,
-                  "endLine": 28,
-                  "endColumn": 30
+                  "endColumn": 28
                 }
               }
             }
@@ -606,7 +186,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -623,16 +203,58 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_05' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic05'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_07' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException07'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_13' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_11' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
                 }
               }
             }
@@ -648,7 +270,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -669,7 +291,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -684,39 +306,18 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_06' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic06'.",
+          "message": "Make 'privateTrue' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
                 "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_03' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic03'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
+                  "startLine": 27,
+                  "startColumn": 18,
+                  "endLine": 27,
+                  "endColumn": 29
                 }
               }
             }
@@ -728,37 +329,16 @@
         {
           "ruleId": "S2933",
           "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
+          "message": "Make 'privateFalse' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
                 "region": {
-                  "startLine": 27,
-                  "startColumn": 17,
-                  "endLine": 27,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_07' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic07'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
+                  "startLine": 28,
+                  "startColumn": 18,
+                  "endLine": 28,
+                  "endColumn": 30
                 }
               }
             }
@@ -774,7 +354,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -795,7 +375,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -816,7 +396,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -831,17 +411,38 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_15' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException15'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 47,
                   "startColumn": 5,
-                  "endLine": 55,
+                  "endLine": 47,
                   "endColumn": 49
                 }
               }
@@ -854,16 +455,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_04' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic04'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_16' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_05' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException05'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
                 }
               }
             }
@@ -879,7 +501,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -900,7 +522,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -921,7 +543,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
@@ -938,16 +560,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_08' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic08'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_08' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
                 }
               }
             }
@@ -959,16 +581,79 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_10' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic10'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_03' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException03'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_14' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_04' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException04'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_12' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException12'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
                 }
               }
             }
@@ -984,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
                 "region": {
                   "startLine": 27,
                   "startColumn": 25,
@@ -1001,16 +686,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_15' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic15'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_10' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException10'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
                 }
               }
             }
@@ -1022,37 +707,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_12' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic12'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_09' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_13' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic13'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
                 }
               }
             }
@@ -1068,75 +732,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
                 "region": {
                   "startLine": 32,
                   "startColumn": 25,
                   "endLine": 32,
                   "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_17' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic17'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_14' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic14'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_09' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic09'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 7,
-                  "endLine": 21,
-                  "endColumn": 50
                 }
               }
             }
@@ -1152,7 +753,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -1169,16 +770,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_16' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic16'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_06' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException06'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
                 }
               }
             }
@@ -1190,16 +791,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE395_Catch_NullPointerException__basic_11' to match pascal case naming rules, consider using 'Cwe395CatchNullPointerExceptionbasic11'.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_17' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException17'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 7,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 51
                 }
               }
             }
@@ -1209,38 +810,164 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_02' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
                 "region": {
-                  "startLine": 27,
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE396_Catch_Generic_Exception__Exception_01' to match pascal case naming rules, consider using 'Cwe396CatchGenericExceptionException01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 7,
+                  "endLine": 21,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 17,
+                  "endLine": 48,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 17,
+                  "endLine": 40,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 17,
+                  "endLine": 41,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 17,
+                  "endLine": 36,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 33,
                   "startColumn": 13,
-                  "endLine": 27,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 17,
-                  "endLine": 34,
+                  "endLine": 33,
                   "endColumn": 29
                 }
               }
@@ -1251,18 +978,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 43,
                   "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
+                  "endLine": 43,
+                  "endColumn": 34
                 }
               }
             }
@@ -1272,123 +999,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 17,
-                  "endLine": 42,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
-                "region": {
-                  "startLine": 66,
-                  "startColumn": 17,
-                  "endLine": 66,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 17,
-                  "endLine": 34,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
                 "region": {
                   "startLine": 35,
                   "startColumn": 17,
                   "endLine": 35,
-                  "endColumn": 29
+                  "endColumn": 33
                 }
               }
             }
@@ -1398,18 +1020,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 30,
                   "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
+                  "endLine": 30,
+                  "endColumn": 34
                 }
               }
             }
@@ -1419,39 +1041,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
                 "region": {
                   "startLine": 35,
                   "startColumn": 17,
                   "endLine": 35,
-                  "endColumn": 29
+                  "endColumn": 33
                 }
               }
             }
@@ -1461,18 +1062,18 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
                 "region": {
-                  "startLine": 34,
+                  "startLine": 35,
                   "startColumn": 17,
-                  "endLine": 34,
-                  "endColumn": 29
+                  "endLine": 35,
+                  "endColumn": 33
                 }
               }
             }
@@ -1482,38 +1083,17 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
                 "region": {
-                  "startLine": 60,
+                  "startLine": 35,
                   "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 21,
-                  "endLine": 42,
+                  "endLine": 35,
                   "endColumn": 33
                 }
               }
@@ -1524,39 +1104,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
                 "region": {
-                  "startLine": 60,
+                  "startLine": 36,
                   "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
                   "endLine": 36,
-                  "endColumn": 33
+                  "endColumn": 34
                 }
               }
             }
@@ -1566,17 +1125,17 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
                 "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
                   "endColumn": 33
                 }
               }
@@ -1587,18 +1146,18 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
+                  "startLine": 31,
+                  "startColumn": 17,
+                  "endLine": 31,
+                  "endColumn": 34
                 }
               }
             }
@@ -1608,18 +1167,18 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
                 "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
+                  "startLine": 28,
+                  "startColumn": 13,
+                  "endLine": 28,
+                  "endColumn": 30
                 }
               }
             }
@@ -1629,17 +1188,17 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
                 "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
+                  "startLine": 40,
+                  "startColumn": 17,
+                  "endLine": 40,
                   "endColumn": 33
                 }
               }
@@ -1650,17 +1209,17 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
                 "region": {
-                  "startLine": 42,
-                  "startColumn": 21,
-                  "endLine": 42,
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
                   "endColumn": 33
                 }
               }
@@ -1671,16 +1230,100 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
                 "region": {
                   "startLine": 41,
-                  "startColumn": 21,
+                  "startColumn": 17,
                   "endLine": 41,
                   "endColumn": 33
                 }
@@ -1692,60 +1335,598 @@
           }
         },
         {
-          "ruleId": "S2259",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
                 "region": {
-                  "startLine": 41,
-                  "startColumn": 21,
-                  "endLine": 41,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 21,
-                  "endLine": 49,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
-                "region": {
-                  "startLine": 66,
+                  "startLine": 35,
                   "startColumn": 17,
-                  "endLine": 66,
-                  "endColumn": 29
+                  "endLine": 35,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 17,
+                  "endLine": 36,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 17,
+                  "endLine": 47,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 17,
+                  "endLine": 42,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 17,
+                  "endLine": 64,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 13,
+                  "endLine": 52,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 18,
+                  "endLine": 26,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 13,
+                  "endLine": 26,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 17,
+                  "endLine": 59,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_01.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 13,
+                  "endLine": 47,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 17,
+                  "endLine": 63,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 17,
+                  "endLine": 64,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 17,
+                  "endLine": 63,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 17,
+                  "endLine": 58,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 17,
+                  "endLine": 71,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 17,
+                  "endLine": 64,
+                  "endColumn": 42
                 }
               }
             }
@@ -1761,11 +1942,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 44,
                   "startColumn": 18,
-                  "endLine": 52,
+                  "endLine": 44,
                   "endColumn": 19
                 }
               }
@@ -1774,11 +1955,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
                 "region": {
-                  "startLine": 52,
+                  "startLine": 44,
                   "startColumn": 13,
-                  "endLine": 52,
+                  "endLine": 44,
                   "endColumn": 14
                 }
               }
@@ -1789,18 +1970,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
                 "region": {
-                  "startLine": 65,
+                  "startLine": 58,
                   "startColumn": 17,
-                  "endLine": 65,
-                  "endColumn": 29
+                  "endLine": 58,
+                  "endColumn": 42
                 }
               }
             }
@@ -1810,618 +1991,60 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 18,
-                  "endLine": 26,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 13,
-                  "endLine": 26,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_01.cs",
-                "region": {
-                  "startLine": 54,
-                  "startColumn": 13,
-                  "endLine": 54,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_04.cs",
-                "region": {
-                  "startLine": 90,
-                  "startColumn": 17,
-                  "endLine": 90,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
-                "region": {
-                  "startLine": 73,
-                  "startColumn": 17,
-                  "endLine": 73,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_05.cs",
-                "region": {
-                  "startLine": 90,
-                  "startColumn": 17,
-                  "endLine": 90,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_09.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 81,
-                  "startColumn": 18,
-                  "endLine": 81,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_03.cs",
-                "region": {
-                  "startLine": 81,
-                  "startColumn": 13,
-                  "endLine": 81,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_02.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_06.cs",
-                "region": {
-                  "startLine": 89,
-                  "startColumn": 17,
-                  "endLine": 89,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 17,
-                  "endLine": 49,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_10.cs",
-                "region": {
-                  "startLine": 84,
-                  "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
-                "region": {
-                  "startLine": 30,
-                  "startColumn": 17,
-                  "endLine": 30,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3776",
-          "level": "warning",
-          "message": "Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 24,
-                  "startColumn": 26,
-                  "endLine": 24,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 9,
-                  "endLine": 26,
-                  "endColumn": 11
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 13,
-                  "endLine": 29,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 17,
-                  "endLine": 36,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 41,
-                  "startColumn": 13,
-                  "endLine": 41,
-                  "endColumn": 18
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 46,
-                  "startColumn": 9,
-                  "endLine": 46,
-                  "endColumn": 13
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 13,
-                  "endLine": 49,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
                 "region": {
                   "startLine": 53,
-                  "startColumn": 13,
+                  "startColumn": 17,
                   "endLine": 53,
-                  "endColumn": 15
+                  "endColumn": 34
                 }
               }
-            },
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
             {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
                 "region": {
-                  "startLine": 55,
+                  "startLine": 59,
                   "startColumn": 17,
-                  "endLine": 55,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 13,
-                  "endLine": 60,
-                  "endColumn": 17
+                  "endLine": 59,
+                  "endColumn": 34
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+1",
-              "1": "+2 (incl 1 for nesting)",
-              "2": "+2 (incl 1 for nesting)",
-              "3": "+2 (incl 1 for nesting)",
-              "4": "+1",
-              "5": "+2 (incl 1 for nesting)",
-              "6": "+2 (incl 1 for nesting)",
-              "7": "+3 (incl 2 for nesting)",
-              "8": "+1"
-            }
+            "warningLevel": 1
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 58,
                   "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
+                  "endLine": 58,
+                  "endColumn": 34
                 }
               }
             }
@@ -2431,186 +2054,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_08.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 17,
-                  "endLine": 97,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
-                "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 13,
-                  "endLine": 45,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
-                "region": {
-                  "startLine": 37,
-                  "startColumn": 21,
-                  "endLine": 37,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 17,
-                  "endLine": 60,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
                 "region": {
                   "startLine": 65,
                   "startColumn": 17,
                   "endLine": 65,
-                  "endColumn": 29
+                  "endColumn": 42
                 }
               }
             }
@@ -2620,18 +2075,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
                 "region": {
-                  "startLine": 84,
+                  "startLine": 77,
                   "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
+                  "endLine": 77,
+                  "endColumn": 42
                 }
               }
             }
@@ -2641,18 +2096,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_11.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
                 "region": {
-                  "startLine": 84,
+                  "startLine": 53,
                   "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
+                  "endLine": 53,
+                  "endColumn": 34
                 }
               }
             }
@@ -2662,18 +2117,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
                 "region": {
-                  "startLine": 56,
+                  "startLine": 58,
                   "startColumn": 17,
-                  "endLine": 56,
-                  "endColumn": 29
+                  "endLine": 58,
+                  "endColumn": 42
                 }
               }
             }
@@ -2683,81 +2138,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 17,
-                  "endLine": 55,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2259",
-          "level": "warning",
-          "message": "'catchingNull' is null on at least one execution path.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_17.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 21,
-                  "endLine": 36,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_16.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 13,
-                  "endLine": 71,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2245",
-          "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
                 "region": {
                   "startLine": 66,
                   "startColumn": 17,
                   "endLine": 66,
-                  "endColumn": 29
+                  "endColumn": 34
                 }
               }
             }
@@ -2767,18 +2159,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
                 "region": {
-                  "startLine": 74,
+                  "startLine": 53,
                   "startColumn": 17,
-                  "endLine": 74,
-                  "endColumn": 29
+                  "endLine": 53,
+                  "endColumn": 34
                 }
               }
             }
@@ -2788,18 +2180,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
                 "region": {
-                  "startLine": 93,
+                  "startLine": 81,
                   "startColumn": 17,
-                  "endLine": 93,
-                  "endColumn": 29
+                  "endLine": 81,
+                  "endColumn": 42
                 }
               }
             }
@@ -2809,18 +2201,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
                 "region": {
-                  "startLine": 84,
+                  "startLine": 35,
                   "startColumn": 17,
-                  "endLine": 84,
-                  "endColumn": 29
+                  "endLine": 35,
+                  "endColumn": 33
                 }
               }
             }
@@ -2830,18 +2222,18 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
                 "region": {
-                  "startLine": 92,
+                  "startLine": 59,
                   "startColumn": 17,
-                  "endLine": 92,
-                  "endColumn": 29
+                  "endLine": 59,
+                  "endColumn": 34
                 }
               }
             }
@@ -2851,18 +2243,703 @@
           }
         },
         {
-          "ruleId": "S2245",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
                 "region": {
-                  "startLine": 89,
+                  "startLine": 75,
                   "startColumn": 17,
-                  "endLine": 89,
-                  "endColumn": 29
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_04.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 17,
+                  "endLine": 76,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_02.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 17,
+                  "endLine": 60,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 17,
+                  "endLine": 72,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 17,
+                  "endLine": 80,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_11.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 17,
+                  "endLine": 80,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_06.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_07.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 17,
+                  "endLine": 88,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_09.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 18,
+                  "endLine": 66,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_03.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 13,
+                  "endLine": 66,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_08.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 17,
+                  "endLine": 83,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_13.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_14.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_10.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 17,
+                  "endLine": 81,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 17,
+                  "endLine": 83,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_05.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 17,
+                  "endLine": 76,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_15.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 17,
+                  "endLine": 78,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 17,
+                  "endLine": 54,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 17,
+                  "endLine": 49,
+                  "endColumn": 34
                 }
               }
             }
@@ -2878,11 +2955,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_12.cs",
                 "region": {
-                  "startLine": 71,
+                  "startLine": 56,
                   "startColumn": 9,
-                  "endLine": 71,
+                  "endLine": 56,
                   "endColumn": 11
                 }
               }
@@ -2893,176 +2970,102 @@
           }
         },
         {
-          "ruleId": "S3776",
+          "ruleId": "S3445",
           "level": "warning",
-          "message": "Refactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
                 "region": {
-                  "startLine": 69,
-                  "startColumn": 18,
-                  "endLine": 69,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 71,
-                  "startColumn": 9,
-                  "endLine": 71,
-                  "endColumn": 11
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 74,
-                  "startColumn": 13,
-                  "endLine": 74,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 78,
-                  "startColumn": 13,
-                  "endLine": 78,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 80,
+                  "startLine": 35,
                   "startColumn": 17,
-                  "endLine": 80,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 13,
-                  "endLine": 85,
-                  "endColumn": 17
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 90,
-                  "startColumn": 9,
-                  "endLine": 90,
-                  "endColumn": 13
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 93,
-                  "startColumn": 13,
-                  "endLine": 93,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 97,
-                  "startColumn": 13,
-                  "endLine": 97,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 99,
-                  "startColumn": 17,
-                  "endLine": 99,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
-                "region": {
-                  "startLine": 104,
-                  "startColumn": 13,
-                  "endLine": 104,
-                  "endColumn": 17
+                  "endLine": 35,
+                  "endColumn": 33
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+1",
-              "1": "+2 (incl 1 for nesting)",
-              "2": "+2 (incl 1 for nesting)",
-              "3": "+3 (incl 2 for nesting)",
-              "4": "+1",
-              "5": "+1",
-              "6": "+2 (incl 1 for nesting)",
-              "7": "+2 (incl 1 for nesting)",
-              "8": "+3 (incl 2 for nesting)",
-              "9": "+1"
-            }
+            "warningLevel": 1
           }
         },
         {
-          "ruleId": "S1871",
+          "ruleId": "S2201",
           "level": "warning",
-          "message": "Either merge this branch with the identical one on line 72 or change one of the implementations.",
+          "message": "Use the return value of method 'Parse'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
                 "region": {
-                  "startLine": 91,
-                  "startColumn": 9,
-                  "endLine": 108,
-                  "endColumn": 10
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 34
                 }
               }
             }
           ],
-          "relatedLocations": [
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
             {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE395_Catch_NullPointerException/CWE395_Catch_NullPointerException__basic_12.cs",
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_16.cs",
                 "region": {
-                  "startLine": 72,
-                  "startColumn": 9,
-                  "endLine": 89,
-                  "endColumn": 10
+                  "startLine": 56,
+                  "startColumn": 13,
+                  "endLine": 56,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2201",
+          "level": "warning",
+          "message": "Use the return value of method 'Parse'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE396_Catch_Generic_Exception/CWE396_Catch_Generic_Exception__Exception_17.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 17,
+                  "endLine": 48,
+                  "endColumn": 34
                 }
               }
             }
@@ -3076,19 +3079,6 @@
         "CS0162": {
           "id": "CS0162",
           "shortDescription": "Unreachable code detected",
-          "defaultLevel": "warning",
-          "properties": {
-            "category": "Compiler",
-            "isEnabledByDefault": true,
-            "tags": [
-              "Compiler",
-              "Telemetry"
-            ]
-          }
-        },
-        "CS0168": {
-          "id": "CS0168",
-          "shortDescription": "Variable is declared but never used",
           "defaultLevel": "warning",
           "properties": {
             "category": "Compiler",
@@ -3184,45 +3174,12 @@
             ]
           }
         },
-        "S1871": {
-          "id": "S1871",
-          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
-          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+        "S2201": {
+          "id": "S2201",
+          "shortDescription": "Return values from functions without side effects should not be ignored",
+          "fullDescription": "When the call to a function doesn't have any side effects, what is the point of making the call if the results are ignored? In such case, either the function call is useless and should be dropped or the source code doesn't behave as expected.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope"
-            ]
-          }
-        },
-        "S2245": {
-          "id": "S2245",
-          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
-          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
-          "properties": {
-            "category": "Critical Security Hotspot",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "NotConfigurable"
-            ]
-          }
-        },
-        "S2259": {
-          "id": "S2259",
-          "shortDescription": "Null pointers should not be dereferenced",
-          "fullDescription": "A reference to null should never be dereferenced/accessed. Doing so will cause a NullReferenceException to be thrown. At best, such an exception will cause abrupt program termination. At worst, it could expose debugging information that would be useful to an attacker, or it could allow an attacker to bypass security measures.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2259",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2201",
           "properties": {
             "category": "Major Bug",
             "isEnabledByDefault": true,
@@ -3266,20 +3223,19 @@
             ]
           }
         },
-        "S3776": {
-          "id": "S3776",
-          "shortDescription": "Cognitive Complexity of methods should not be too high",
-          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+        "S3445": {
+          "id": "S3445",
+          "shortDescription": "Exceptions should not be explicitly rethrown",
+          "fullDescription": "When rethrowing an exception, you should do it by simply calling throw; and not throw exc;, because the stack trace is reset with the second syntax, making debugging a lot harder.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3445",
           "properties": {
-            "category": "Critical Code Smell",
-            "isEnabledByDefault": false,
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
             "tags": [
               "C#",
               "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
+              "MainSourceScope"
             ]
           }
         },

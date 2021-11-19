@@ -1,813 +1,1193 @@
-ó
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_01.cs 8j!%&*-0=BEPTY^arA"#$%'()+,./123456789:;<>?@ACDFGHKLMNQRSUVWXZ[\]_`bcdfgxÇ%+.17;>CFGMUWZ_bcı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_02.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîïı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_03.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîïÉ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_04.cs% 8
-j"!"#(./369FGMRU[abgmruzÄÖÜåëîrÇ%&)*+,-.0124578:;<=>?@ABCDEHIJKLNOPQSTVWX\]^_`cdefhijklnopqstvwx{|}~ÅÇÉÑáàâäãçéèêíìïñóôöõúùü†xÇ',.47:@HKNSVW_chknsvw~ÅáäçíïñõúÉ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_05.cs% 8
-j"!"#(./369FGMRU[abgmruzÄÖÜåëîrÇ%&)*+,-.0124578:;<=>?@ABCDEHIJKLNOPQSTVWX\]^_`cdefhijklnopqstvwx{|}~ÅÇÉÑáàâäãçéèêíìïñóôöõúùü†xÇ',.47:@HKNSVW_chknsvw~ÅáäçíïñõúÅ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_06.cs% 8
-j!!"#'-.258EFLQTZ`aflqtyÑÖãêìrÅ%()*+,-/0134679:;<=>?@ABCDGHIJKMNOPRSUVW[\]^_bcdeghijkmnoprsuvwz{|}~ÄÅÇÉÜáàâäåçéèëíîïñòôöõúûüxÇ'+-369?GJMRUV^bgjmruv}ÄÜâåëîïöõÅ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_07.cs% 8
-j!!"#'-.258EFLQTZ`aflqtyÑÖãêìrÅ%()*+,-/0134679:;<=>?@ABCDGHIJKMNOPRSUVW[\]^_bcdeghijkmnoprsuvwz{|}~ÄÅÇÉÜáàâäåçéèëíîïñòôöõúûüxÇ'+-369?GJMRUV^bgjmruv}ÄÜâåëîïöõí
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_08.cs' 8j#!"#/56:=@MNTY\bhinty|Åáåçìòõrç%&'(*+,-012345789;<>?ABCDEFGHIJKLOPQRSUVWXZ[]^_cdefgjklmopqrsuvwxz{}~ÇÉÑÖÜàâäãéèêëíîïñóôöúùû†°¢£§¶ßxÇ*',35;>AGORUZ]^fjoruz}~Öàéëîôúù¢£ı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_09.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîïı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_10.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîïı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_11.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîï¨
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_12.cs 8j!'(,/2?EJMSTZ_ejmrO"#$%&')*+-.013456789:;<=>@ABCDFGHIKLNOPUVWXY[\]^`abcdfghiklnoprstuwxx
-Ç%'-039@CFKNOX[`cfknotı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_13.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîïı
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_14.cs% 8
-j!'(,/2?@FKNTZ[`fknsy~Öäçr|"#$%&')*+-.013456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%'-039ADGLOPX\adglopwzÄÉÜãéèîïÉ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_15.cs+ 8
-j!()-03?@GLOU\]ahmpu|ÄÅàçêrÄ"#$%&'(*+,./12456789:;<=>ABCDEFHIJKMNPQRVWXYZ[^_`bcdefgijklnoqrsvwxyz{}~ÇÉÑÖÜáâäãåéèëíìïñóòôõúxÇ-%(.14:=ABEHMPQY^_bcfinqry}~ÇÉÜâéëíóò£
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_16.cs 8j!'(,/2AFIOU\adrI"#$%&')*+-.013456789:;<=>?@BCDEGHJKLPQRSTVWXYZ[]^_`bcefgijklnoxÇ%'-039<?BGJKSVWZ]befk†
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_17.cs 8j!%&*-0?DGNOSZ_brG"#$%'()+,./123456789:;<=>@ABCEFHIJKPQRTUVWXY[\]^`acdefhijkmnx	Ç%+.17:=@EHITUX[`cdjº
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_21.cs1 8j$"-25?@DGJWX^hqvyÉÑâèòù†™Ø∞r™ #%&'()*+,./0134678:;<=>?ABCEFHIKLMNOPQRSTUVYZ[\_`bcdefijklmnoprstuwxz{|~ÄÅÇÖÜáàäãåçêëíìîïñóôöõúûü°¢£•¶ß®©´¨≠Æ±≤≥¥∂∑xÇ6()+.367=?EHKQY[delmorwz{ÅÖäåìîñôû°¢®´±≥§
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkô
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_22b.cs 8j$%),/<=EKLQW]bcrB !"#$&'(*+-.0123456789:;>?@AFGHIJMNOPRSTUXYZ[\^_`adefgijxÇ"$*-06>@IMRT[^dfß
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_31.cs 8j"()-03DILX^glorO #$%&'(*+,./12456789:;<=>?@ABCEFGHJKMNOPSTUVYZ[\]_`abcdefhijkmnpqrsuvxÇ(.14:=BEJMNU_`ehmpq†
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_41.cs 8j&+.67;>AY^afjrI!"#$%'()*,-/01345689:<=?@BCDEFGHIJKLOPQRTUVWXZ[\]_`bcdghiklmopxÇ$',/06<?BHKQWZ_bckl•
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_42.cs 8j$%),/<CHKTY`ehrK!"#$&'(*+-.0123456789:=>?@ABDEFGIJLMNQRSUVWZ[\]^_abcdfgijkmnoprsxÇ$*-069?ADILMUV\^afijo©
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_45.cs 8j+038<=ADGafinrrO "#%&'()*,-./124569:;<>?@BCEFHIJKLMNOPQRSVWXY[\]^_`bcdeghjklopqstuvxyxÇ),145<BEHNQRX_bgjkstuÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_51a.cs 8j!"&),?Cr+ !#$%'(*+-./01234567:;<=@ABDEFHIxÇ	!'*-36<DE
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@AÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_52a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_52b.cs 8j"r#$%&()Ç%
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_53a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_53b.cs 8j"r#$%&()Ç% 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_53c.cs 8j"r#$%&()Ç%
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_54a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_54b.cs 8j"r#$%&()Ç% 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_54c.cs 8j"r#$%&()Ç% 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_54d.cs 8j"r#$%&()Ç%
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˘
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGHÓ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_61b.cs 8j"#'*-<@r' !"$%&()+,./012345678=>?ABCEFxÇ"(+.47AB˘
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_66a.cs 8j"#'*-BFr/ !"$%&()+,./0123456789:=>?@CDEGHIJKMNxÇ"(+.489?GIJÚ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CD˝
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_67a.cs 8j'(,/2GKr3 !"$%&')*+-.013456789:;<=>?BCDEHIJLMNOPRSxÇ'-039=>DLNOÙ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CDÚ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_68a.cs
- 8j"#'*-@Cr* !"$%&()+,./012345678;<=>ABDEFHIxÇ	"(+.47=DEÙ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_71a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EFÚ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÇ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_72a.cs 8j"#'*-DHr4 !"$%&()+,./0123456789:;<?@ABEFGIJKLMNOQRxÇ"(+.489:;AIKLMNÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÇ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_73a.cs 8j#$(+.EIr4 !"#%&')*,-/0123456789:;<=@ABCFGHJKLMNOPRSxÇ#),/59:;<BJLMNOı
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEÇ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_74a.cs 8j"#'*-DHr4 !"$%&()+,./0123456789:;<?@ABEFGIJKLMNOQRxÇ"(+.489:;AIKLMNÛ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEõ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_75a.cs 8j	#$(+.8PTVrI !"#%&')*,-/012345679:;<=>?@ABCDEFGHKLMNQRSUWXYZ[\]^_`abcdefhixÇ#),/5=?@BFMU[]^`dõ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bı
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_81a.cs 8j"#'*-AEr- !"$%&()+,./0123456789<=>?BCDFGHIKLxÇ	"(+.48>FH‹
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.π
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_81_base.csr
-‡
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Connect_tcp_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.ù
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_01.cs 8j $%)-4BGJUY^cfrF!"#$&'(*+,./012356789:;<=>?@ACDEFHIKLMPQRSVWXZ[\]_`abdeghiklxÇ$*,.0125<@CHKLRZ\_dghÅ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_02.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|ÖàãêìîôöÅ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_03.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|Öàãêìîôöè
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_04.cs) 8
-j" !"'-.26=KLRWZ`fglrwzÖäãëñôrå$%()*+,-/01345789:;<>?@ABCDEFGHIJMNOPQSTUVXY[\]abcdehijkmnopqstuvxy{|}ÄÅÇÉÑÜáàâåçéèêíìîïóòöõúûü†°¢§•xÇ,+-3579:;>EMPSX[\dhmpsx{|ÉÜåèíóöõ†°è
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_05.cs) 8
-j" !"'-.26=KLRWZ`fglrwzÖäãëñôrå$%()*+,-/01345789:;<>?@ABCDEFGHIJMNOPQSTUVXY[\]abcdehijkmnopqstuvxy{|}ÄÅÇÉÑÜáàâåçéèêíìîïóòöõúûü†°¢§•xÇ,+-3579:;>EMPSX[\dhmpsx{|ÉÜåèíóöõ†°ç
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_06.cs) 8
-j" !"&,-15<JKQVY_efkqvy~Ñâäêïòrä$'()*+,./02346789:;=>?@ABCDEFGHILMNOPRSTUWXZ[\`abcdghijlmnoprstuwxz{|ÄÅÇÉÖÜáàãåçéèëíìîñóôöõùûü†°£§xÇ,*,24689:=DLORWZ[cglorwz{ÇÖãéëñôöü†ç
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_07.cs) 8
-j" !"&,-15<JKQVY_efkqvy~Ñâäêïòrä$'()*+,./02346789:;=>?@ABCDEFGHILMNOPRSTUWXZ[\`abcdghijlmnoprstuwxz{|ÄÅÇÉÖÜáàãåçéèëíìîñóôöõùûü†°£§xÇ,*,24689:=DLORWZ[cglorwz{ÇÖãéëñôöü†ü
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_08.cs+ 8j$ !".459=DRSY^agmnsy~ÅÜåëíòù†rñ$%&')*+,/01234678:;<>?@ABCEFGHIJKLMNOPQTUVWXZ[\]_`bcdhijklopqrtuvwxz{|}ÄÇÉÑáàâäãçéèêìîïñóôöõúûü°¢£•¶ß®©´¨xÇ0&+24:<>@ABELTWZ_bckotwzÇÉäçìñôû°¢ß®Å
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_09.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|ÖàãêìîôöÅ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_10.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|ÖàãêìîôöÅ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_11.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|Öàãêìîôö≤
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_12.cs 8j &'+/6DJORXY_djorrT!"#$%&()*,-.012345789:;<=>?@ABCEFGHIKLMNPQSTUZ[\]^`abcefghiklmnpqstuwxyz|}x
-Ç$&,.02347>EHKPST]`ehkpstyÅ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_13.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|ÖàãêìîôöÅ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_14.cs) 8
-j &'+/6DEKPSY_`ekpsx~ÉÑäèírÑ!"#$%&()*,-.012345789:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ*$&,.02347>FILQTU]afilqtu|Öàãêìîôöê
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_15.cs/ 8
-j '(,07DELQTZabfmruzÅÖÜçíïrâ!"#$%&')*+-./12345689:;<=>?@ABCFGHIJKMNOPRSUVW[\]^_`cdeghijklnopqstvwx{|}~ÄÇÉÑáàâäãåéèêëìîñóòöõúùû†°xÇ3$'-/13458?BFGJMRUV^cdghknsvw~ÇÉáàãéìñóúù©
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_16.cs 8j &'+/6FKNTZafirN!"#$%&()*,-.012345789:;<=>?@ABCDEGHIJLMOPQUVWXY[\]^_`bcdeghjklnopqstxÇ$&,.02347>ADGLOPX[\_bgjkp¶
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_17.cs 8j $%)-4DILSTX_dgrL!"#$&'(*+,./012356789:;<=>?@ABCEFGHJKMNOPUVWYZ[\]^`abcefhijkmnoprsx	Ç$*,.0125<?BEJMNYZ]`ehio«
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_21.cs5 8j$!,14>?CGN\]cmv{~àâéîù¢•Ø¥µr≥"$%&'()*+-./0235679:;<=>@ABDEFHIJKLMOPQRSTUVWXYZ[^_`adeghijknopqrstuwxyz|}ÄÅÉÑÖÜáäãåçèêëíïñóòôöõúûü†°£§¶ß®™´¨≠Æ∞±≤≥∂∑∏πªºxÇ;'(*-256<>DFHJKLOV^`ijqrtw|ÄÜäèëòôõû£¶ß≠∞∂∏°
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkü
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_22b.cs 8j#$(,3ABJPQV\bghrG !"#%&')*+-./012456789:;<=>?@CDEFKLMNORSTUWXYZ]^_`acdefijklnoxÇ!#)+-/014;CENRWY`cik≠
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_31.cs  8j!'(,07INQ]clqtrT"#$%&')*+-./12345689:;<=>?@ABCDEFGHJKLMOPRSTUXYZ[^_`abdefghijkmnoprsuvwxz{xÇ'-/13458?BGJORSZdejmruv¶
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_41.cs 8j%*-56:>E^cfkorN !"#$&'()+,./02345789;<=?@ABCDFGHIJKLMNOPQTUVWYZ[\]_`abdeghilmnpqrtuxÇ#&+./5;=?ABCFMPV\_dghpq´
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_42.cs 8j#$(,3AHMPY^ejmrP !"#%&')*+-./012456789:;<=>?BCDEFGIJKLNOQRSVWXZ[\_`abcdfghiklnoprstuwxxÇ#)+-/014;>DFINQRZ[acfknotØ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_45.cs  8j*/27;<@DKfknswrT!"$%&'()+,-.0134589:;=>?ABCEFGHIJLMNOPQRSTUVWX[\]^`abcdeghijlmopqtuvxyz{}~xÇ(+034;ACEGHILSVW]dglopxyz˘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_51a.cs 8j !%)0DHr0 "#$&'(*+,-./123456789:;<?@ABEFGIJKMNxÇ &(*,-.18;AIJÌ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@A˘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_52a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_52b.cs 8j"r#$%&()Ç%Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_53a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_53b.cs 8j"r#$%&()Ç%«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_53c.cs 8j"r#$%&()Ç%Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_54a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_54b.cs 8j"r#$%&()Ç%«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_54c.cs 8j"r#$%&()Ç%«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_54d.cs 8j"r#$%&()Ç%Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABˆ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGHÙ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_61b.cs 8j!"&*1AEr, !#$%'()+,-./023456789:;<=BCDFGHJKxÇ!')+-./29<FGˇ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_66a.cs 8j!"&*1GKr4 !#$%'()+,-./023456789:;<=>?BCDEHIJLMNOPRSxÇ!')+-./29=>DLNOÔ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CDÉ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_67a.cs 8j&'+/6LPr8 !#$%&()*,-.012345789:;<=>?@ABCDGHIJMNOQRSTUWXxÇ&,.02347>BCIQSTÒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CD¯
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_68a.cs 8j!"&*1EHr/ !#$%'()+,-./023456789:;<=@ABCFGIJKMNxÇ!')+-./29<BIJÒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BC˘
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_71a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJKÔ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEà
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_72a.cs 8j!"&*1IMr9 !#$%'()+,-./023456789:;<=>?@ADEFGJKLNOPQRSTVWxÇ!')+-./29=>?@FNPQRS
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEà
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_73a.cs 8j"#'+2JNr9 !"$%&()*,-./013456789:;<=>?@ABEFGHKLMOPQRSTUWXxÇ"(*,./03:>?@AGOQRSTÚ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEà
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_74a.cs 8j!"&*1IMr9 !#$%'()+,-./023456789:;<=>?@ADEFGJKLNOPQRSTVWxÇ!')+-./29=>?@FNPQRS
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADE¢
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_75a.cs 8j	#$(,3>VZ\rO !"#%&')*+-./012456789:;<=?@ABCDEFGHIJKLMNQRSTWXY[]^_`abcdefghijklnoxÇ#)+-/014;CEFHLS[acdfjò
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^b˚
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_81a.cs 8j!"&*1FJr2 !#$%'()+,-./023456789:;<=>ABCDGHIKLMNPQxÇ!')+-./29=CKMŸ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.∂
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_81_base.csr
-›
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Database_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.˛
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_01.cs 8j"#(-0;?DILr/ !$%&')*+,./1236789<=>@ABCEFGHJKMNOQRxÇ$&).128@BEJMN¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_02.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄ¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_03.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄœ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_04.cs  8
-j %+,128=@FLMRX]`ekpqw|ra"#&'()*-./0345679:;<>?ABCGHIJKNOPQSTUVWYZ[\^_abcfghijlmnorstuvxyz{}~ÄÅÇÑÖÜáàäãxÇ)-369>ABJNSVY^abilrux}ÄÅÜáœ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_05.cs  8
-j %+,128=@FLMRX]`ekpqw|ra"#&'()*-./0345679:;<>?ABCGHIJKNOPQSTUVWYZ[\^_abcfghijlmnorstuvxyz{}~ÄÅÇÑÖÜáàäãxÇ)-369>ABJNSVY^abilrux}ÄÅÜáÃ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_06.cs  8
-j $*+017<?EKLQW\_djopv{~r_"%&'(),-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ(,258=@AIMRUX]`ahkqtw|ÄÖÜÃ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_07.cs  8
-j $*+017<?EKLQW\_djopv{~r_"%&'(),-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ(,258=@AIMRUX]`ahkqtw|ÄÖÜﬂ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_08.cs" 8j ,2389?DGMSTY_dglrwx~ÉÜrl"#$%'()*-./014567:;<=>@ABCEFHIJNOPQRUVWXZ[\]^`abcefhijmnopqstuvyz{|}ÄÅÇÑÖáàâãåçéèëíxÇ!$)04:=@EHIQUZ]`ehipsy|Ñáàçé¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_09.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄ¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_10.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄ¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_11.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄì
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_12.cs 8j$%*058>?EJPUXr= !"#&'()+,-./1234679:;@ABCDFGHIKLMNOQRSTVWYZ[]^_`bcxÇ"&+.169:CFKNQVYZ_¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_13.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄ¡
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_14.cs  8
-j$%*+169?EFKQVY^dijpuxrY !"#&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ"&,/27:;CGLORWZ[beknqvyzÄŒ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_15.cs& 8
-j%&*+27:@GHLSX[`gklsx{r_ !"#$'(),-./01345689;<=ABCDEFIJKMNOPQRTUVWYZ\]^abcdefhijmnopqrtuvwyz|}~ÄÅÇÉÑÜáx	Ç""'(,-038;<DIJMNQTY\]dhimnqty|}ÇÉä
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_16.cs 8j$%,14:@GLOr7 !"#&'()*+-./023567;<=>?ABCDEFHIJKMNPQRTUVWYZxÇ"&'*-256>ABEHMPQVá
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_17.cs 8j"#*/29:>EJMr5 !$%&'()+,-.013456;<=?@ABCDFGHIKLNOPQSTUVXYxÇ$%(+034?@CFKNOUâ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_21.cs, 8j*/2<=BCIS\adnotzÉàãïöõrà "#$%&'()+,-.01345789:;>?@ADEFGJKMNOPQTUVWXYZ[]^_`bcefgijklmpqrsuvwx{|}~ÄÅÇÑÖÜáâäåçéêëíìîñóòôúùûü°¢xÇ,%&(+034:>DFOPWXZ]beflpuw~ÅÑâåçìñúû§
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkÄ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_22b.cs 8j!"'(067<BHMNr0 #$%&)*+,1234589:;=>?@CDEFGIJKLOPQRTUxÇ#)+48=?FIOQé
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_31.cs 8j%&/47CIRWZr= !"#$'()*+,-.01235689:;>?@ADEFGHJKLMNOPQSTUVXY[\]^`axÇ'(-0589@JKPSX[\á
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_41.cs 8j
-#(+34DILQUr7 !"$%&')*,-.012567:;<=?@ABCEFGHJKMNORSTVWXZ[xÇ!$),-56<BEJMNVWå
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_42.cs 8j!"'.36?DKPSr9 #$%()*+,-/01245789<=>@ABEFGHIJLMNOQRTUVXYZ[]^xÇ#$*,/478@AGILQTUZê
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_45.cs 8j(-059:LQTY]r= "#$%&')*+,./123678;<=>ABCDFGHIJKMNOPRSUVWZ[\^_`acdxÇ&).12;<=CJMRUV^_`ÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_51a.cs 8j*.r !"%&'(+,-/0134Ç !'/0
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@Aÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_52a.cs 8j +/r!"#&'(),-.01245Ç!"(01 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_52b.cs 8j"r#$%&()Ç%
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_53a.cs 8j +/r!"#&'(),-.01245Ç!"(01 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_53b.cs 8j"r#$%&()Ç% 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_53c.cs 8j"r#$%&()Ç%
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_54a.cs 8j +/r!"#&'(),-.01245Ç!"(01 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_54b.cs 8j"r#$%&()Ç% 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_54c.cs 8j"r#$%&()Ç% 
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_54d.cs 8j"r#$%&()Ç%
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˘
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGH”
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_61b.cs 8j '+r!"#()*,-.01Ç!",-ﬁ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_66a.cs 8j -1r!"#$%()*+./02345689Ç!#$*245Ú
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CD‚
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_67a.cs 8j$%26r!!"#&'()*-./0345789:;=>Ç&()/79:Ù
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CD◊
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_68a.cs 8j +.r!"#&'(),-/0134Ç!"(/0Ù
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_71a.cs 8j +/r!"#&'(),-.01245Ç!"(01Ú
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÁ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_72a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789Û
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÁ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_73a.cs 8j !04r""#$%&'(+,-.12356789:;=>Ç"$%&'-5789:ı
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEÁ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_74a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789Û
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÉ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_75a.cs 8j!"$<@Br8 #%&'()*+,-./01234789:=>?ACDEFGHIJKLMNOPQRTUxÇ#)+,.29AGIJLPõ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^b⁄
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_81a.cs	 8j ,0r!"#$'()*-./123467Ç!#)13‹
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.π
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_81_base.csr
-‡
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Environment_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.ã
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_01.cs 8j $(+,-9>ALPUZ]r=!"#$%&')*./012345678:;<=?@BCDGHIJMNOQRSTVWXY[\^_`bcxÇ$).37:?BCIQSV[^_„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_02.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|Çáäãêë„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_03.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|ÇáäãêëÒ
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_04.cs$ 8
-j! !"'-1456BCINQW]^cinqv|ÅÇàçêr{$%()*+,-./023789:;<=>?@ADEFGHJKLMOPRSTXYZ[\_`abdefghjklmoprstwxyz{}~ÄÉÑÖÜáâäãåéèëíìïñóòôõúxÇ%+-27<DGJORS[_dgjorsz}ÉÜâéëíóòÒ
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_05.cs$ 8
-j! !"'-1456BCINQW]^cinqv|ÅÇàçêr{$%()*+,-./023789:;<=>?@ADEFGHJKLMOPRSTXYZ[\_`abdefghjklmoprstwxyz{}~ÄÉÑÖÜáâäãåéèëíìïñóòôõúxÇ%+-27<DGJORS[_dgjorsz}ÉÜâéëíóòÔ
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_06.cs$ 8
-j! !"&,0345ABHMPV\]bhmpu{ÄÅáåèry$'()*+,-./126789:;<=>?@CDEFGIJKLNOQRSWXYZ[^_`acdefgijklnoqrsvwxyz|}~ÇÉÑÖÜàâäãçéêëíîïñóòöõxÇ%*,16;CFINQRZ^cfinqry|ÇÖàçêëñóÔ
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_07.cs$ 8
-j! !"&,0345ABHMPV\]bhmpu{ÄÅáåèry$'()*+,-./126789:;<=>?@CDEFGIJKLNOQRSWXYZ[^_`acdefgijklnoqrsvwxyz|}~ÇÉÑÖÜàâäãçéêëíîïñóòöõxÇ%*,16;CFINQRZ^cfinqry|ÇÖàçêëñóÉ
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_08.cs& 8j" !".48;<=IJPUX^dejpux}Éàâèîórá$%&')*+,/012345679:>?@ABCDEFGHKLMNOQRSTVWYZ[_`abcfghiklmnoqrstvwyz{~ÄÅÇÑÖÜáäãåçéêëíìïñòôöúùûü†¢£xÇ)&+249>CKNQVYZbfknqvyzÅÑäçêïòôûü„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_09.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|Çáäãêë„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_10.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|Çáäãêë„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_11.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|Çáäãêë†
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_12.cs 8j &*-./;AFIOPV[afirK!"#$%&'()+,0123456789:<=>?@BCDEGHJKLQRSTUWXYZ\]^_`bcdeghjklnopqstx
-Ç$&+05<?BGJKTW\_bgjkp„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_13.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|Çáäãêë„
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_14.cs$ 8
-j &*-./;<BGJPVW\bgjouz{ÅÜârt!"#$%&'()+,0123456789:=>?@ACDEFHIKLMQRSTUXYZ[]^_`acdefhiklmpqrstvwxy|}~ÄÇÉÑÖáàäãåéèêëíîïxÇ#$&+05=@CHKLTX]`chklsv|Çáäãêë
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_15.cs* 8
-j '+./0;<CHKQXY]dilqx|}Ñâårz!"#$%&'()*,-123456789:=>?@ABDEFGIJLMNRSTUVWZ[\^_`abcefghjkmnorstuvwyz{~ÄÅÇÉÖÜáàäãçéèëíìîïóòxÇ*$',169=>ADILMUZ[^_bejmnuyz~ÇÖäçéìîó
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_16.cs 8j &*-./=BEKQX]`rE!"#$%&'()+,0123456789:;<>?@ACDFGHLMNOPRSTUVWYZ[\^_abcefghjkxÇ$&+058;>CFGORSVY^abgî
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_17.cs 8j $(+,-;@CJKOV[^rC!"#$%&')*./0123456789:<=>?ABDEFGLMNPQRSTUWXYZ\]_`abdefgijx	Ç$).369<ADEPQTW\_`f´
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_21.cs0 8j#!,14>BEFGSTZdmruÄÖãîôú¶´¨r£"$%&'()*+-./0235679:;<=>?@ACDHIJKLMNOPQRUVWX[\^_`abefghijklnopqstvwxz{|}~ÅÇÉÑÜáàâåçéèêëíìïñóòöõùûü°¢£§•ß®©™≠ÆØ∞≤≥xÇ4'(*-256<>CHMUW`ahiknsvw}ÅÜàèêíïöùû§ß≠Øù
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkç
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_22b.cs 8j#'*+,89AGHMSY^_r> !"#$%&()-./01234567:;<=BCDEFIJKLNOPQTUVWXZ[\]`abcefxÇ!#(-2:<EINPWZ`bõ
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_31.cs 8j!'+./0@EHTZchkrK"#$%&'()*,-123456789:;<=>?ABCDFGIJKLOPQRUVWXY[\]^_`abdefgijlmnoqrxÇ',169>AFIJQ[\adilmî
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_41.cs 8j%*-59<=>UZ]bfrE !"#$&'()+,./02345678:;?@ABCDEFGHKLMNPQRSTVWXY[\^_`cdeghiklxÇ#&+./5:?DGMSV[^_ghô
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_42.cs 8j#'*+,8?DGPU\adrG !"#$%&()-./01234569:;<=>@ABCEFHIJMNOQRSVWXYZ[]^_`bcefgijklnoxÇ#(-25;=@EHIQRXZ]befkù
-úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_45.cs 8j*/27;?BCD]bejnrK!"$%&'()+,-.0134589:;<=>@AEFGHIJKLMNORSTUWXYZ[\^_`acdfghklmopqrtuxÇ(+034;@EJMNT[^cfgopqÁ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_51a.cs 8j $'();?r' !"#%&*+,-./01236789<=>@ABDExÇ %*/28@AÈ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@AÁ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_52a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB√
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_52b.cs 8j"r#$%&()Ç%È
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÁ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_53a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB√
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_53b.cs 8j"r#$%&()Ç%√
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_53c.cs 8j"r#$%&()Ç%È
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÁ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_54a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB√
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_54b.cs 8j"r#$%&()Ç%√
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_54c.cs 8j"r#$%&()Ç%√
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_54d.cs 8j"r#$%&()Ç%È
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÚ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGH‚
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_61b.cs
- 8j!%()*8<r# !"#$&'+,-./012349:;=>?ABxÇ!&+03=>Ì
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_66a.cs 8j!%()*>Br+ !"#$&'+,-./01234569:;<?@ACDEFGIJxÇ
-!&+045;CEFÎ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CDÒ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_67a.cs 8j&*-./CGr/ !#$%&'()+,0123456789:;>?@ADEFHIJKLNOxÇ
-&+059:@HJKÌ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CDÊ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_68a.cs	 8j!%()*<?r& !"#$&'+,-./01234789:=>@ABDExÇ!&+039@AÌ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÁ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_71a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039ABÎ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEˆ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_72a.cs 8j!%()*@Dr0 !"#$&'+,-./012345678;<=>ABCEFGHIJKMNxÇ!&+04567=EGHIJÏ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEˆ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_73a.cs 8j"&)*+AEr0 !"#$%'(,-./0123456789<=>?BCDFGHIJKLNOxÇ"',15678>FHIJKÓ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEˆ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_74a.cs 8j!%()*@Dr0 !"#$&'+,-./012345678;<=>ABCEFGHIJKMNxÇ!&+04567=EGHIJÏ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEè
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_75a.cs 8j	"&)*+4LPRrE !"#$%'(,-./012356789:;<=>?@ABCDGHIJMNOQSTUVWXYZ[\]^_`abdexÇ"',19;<>BIQWYZ\`î
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bÈ
-ùC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_81a.cs 8j!%()*=Ar) !"#$&'+,-./01234589:;>?@BCDEGHxÇ!&+04:BD’
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.≤
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_81_base.csr
-Ÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__File_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.ç
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_01.cs 8j#$)058CGLQTr6 !"#%&'(*+,-./1234679:;>?@ADEFHIJKMNOPRSUVWYZxÇ#&'*.169:@HJMRUV⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_02.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáà⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_03.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáàË
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_04.cs# 8j !&,-29:@EHNTUZ`ehmsxyÑárn#$'()*+,./01345678;<=>?ABCDFGIJKOPQRSVWXY[\]^_abcdfgijknopqrtuvwz{|}~ÄÅÇÉÖÜàâäåçéèêíìxÇ#*,/03;>AFIJRV[^afijqtz}ÄÖàâéèË
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_05.cs# 8j !&,-29:@EHNTUZ`ehmsxyÑárn#$'()*+,./01345678;<=>?ABCDFGIJKOPQRSVWXY[\]^_abcdfgijknopqrtuvwz{|}~ÄÅÇÉÖÜàâäåçéèêíìxÇ#*,/03;>AFIJRV[^afijqtz}ÄÖàâéèÂ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_06.cs# 8j !%+,189?DGMSTY_dglrwx~ÉÜrl#&'()*+-./0234567:;<=>@ABCEFHIJNOPQRUVWXZ[\]^`abcefhijmnopqstuvyz{|}ÄÅÇÑÖáàâãåçéèëíxÇ")+./2:=@EHIQUZ]`ehipsy|ÑáàçéÂ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_07.cs# 8j !%+,189?DGMSTY_dglrwx~ÉÜrl#&'()*+-./0234567:;<=>@ABCEFHIJNOPQRUVWXZ[\]^`abcefhijmnopqstuvyz{|}ÄÅÇÑÖáàâãåçéèëíxÇ")+./2:=@EHIQUZ]`ehipsy|Ñáàçé˘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_08.cs% 8j !-349@AGLOU[\aglotzÄÜãéry#$%&()*+./01235678:;<=>?BCDEFHIJKMNPQRVWXYZ]^_`bcdefhijkmnpqruvwxy{|}~ÅÇÉÑÖáàâäåçèêëìîïñóôöxÇ'%*1367:BEHMPQY]behmpqx{ÅÑáåèêïñ⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_09.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáà⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_10.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáà⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_11.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáà¢
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_12.cs 8j%&+28=@FGMRX]`rD !"#$%'()*,-./01345679:;<>?ABCHIJKLNOPQSTUVWYZ[\^_abcefghjkx
-Ç#%(),369>ABKNSVY^abg⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_13.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáà⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_14.cs# 8j%&+239>AGMNSY^aflqrx}Ärf !"#$%'()*,-./0145678:;<=?@BCDHIJKLOPQRTUVWXZ[\]_`bcdghijkmnopstuvwyz{|~ÅÇÉÖÜáàâãåxÇ!#%(),47:?BCKOTWZ_bcjmsvy~ÅÇáàÁ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_15.cs) 8j&',23:?BHOPT[`chost{ÄÉrk !"#$%&()*+-./01456789;<=>@ACDEIJKLMNQRSUVWXYZ\]^_abdefijklmnpqruvwxyz|}~ÅÇÑÖÜàâäãåéèxÇ(#&)*-0458;@CDLQRUVY\adelpquvy|ÅÑÖäãô
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_16.cs 8j%&+49<BHOTWr> !"#$%'()*,-./01235678:;=>?CDEFGIJKLMNPQRSUVXYZ\]^_abxÇ#%(),/25:=>FIJMPUXY^ñ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_17.cs 8j#$)27:ABFMRUr< !"#%&'(*+,-./01345689;<=>CDEGHIJKLNOPQSTVWXY[\]^`ax	Ç#&'*-038;<GHKNSVW]°
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_21.cs/ 8j +03=>CJKQ[dilvw|Çãêìù¢£rï!#$%&'()*,-./1245689:;<=?@ABDEFGHILMNORSUVWXY\]^_`abcefghjkmnoqrstuxyz{}~ÄÉÑÖÜáàâäåçéèëíîïñòôöõúûü†°§•¶ß©™xÇ1&'),145;=@ADLNWX_`bejmntx}Üáâåëîïõû§¶®
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkè
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_22b.cs 8j"#(/08>?DJPUVr7 !"$%&')*+,-.12349:;<=@ABCEFGHKLMNOQRSTWXYZ\]xÇ "%&)13<@EGNQWYù
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_31.cs 8j &',7<?KQZ_brD!"#$%&()*+-./012345689:;=>@ABCFGHILMNOPRSTUVWXY[\]^`acdefhixÇ&)*-058=@AHRSX[`cdñ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_41.cs 8j$),45:LQTY]r> !"#%&'(*+-./12346789;<=>?BCDEGHIJKMNOPRSUVWZ[\^_`bcxÇ"%*-.478;>DJMRUV^_õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_42.cs 8j"#(/6;>GLSX[r@ !"$%&')*+,-012345789:<=?@ADEFHIJMNOPQRTUVWYZ\]^`abcefxÇ"%&),247<?@HIOQTY\]bü
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_45.cs 8j).16:;@TY\aerD !#$%&'(*+,-/0234789:<=>?ABCDEFIJKLNOPQRSUVWXZ[]^_bcdfghiklxÇ'*/23:=>ADEKRUZ]^fghÈ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_51a.cs
- 8j %26r !"#$&'()*-./0345789;<xÇ"#&)/78Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@AÈ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_52a.cs
- 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_52b.cs 8j"r#$%&()Ç%Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÈ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_53a.cs
- 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_53b.cs 8j"r#$%&()Ç%Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_53c.cs 8j"r#$%&()Ç%Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÈ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_54a.cs
- 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_54b.cs 8j"r#$%&()Ç%Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_54c.cs 8j"r#$%&()Ç%Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_54d.cs 8j"r#$%&()Ç%Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˝
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGH‰
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_61b.cs	 8j !&/3r "#$%'()*+01245689xÇ #$'*45Ô
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_66a.cs 8j !&59r$ "#$%'()*+,-0123678:;<=>@AxÇ
- #$'+,2:<=ˆ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CDÛ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_67a.cs 8j%&+:>r( "#$%'()*,-./0125678;<=?@ABCEFxÇ
-%(),017?AB¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CDË
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_68a.cs 8j !&36r "#$%'()*+./0145789;<xÇ #$'*078¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÈ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_71a.cs
- 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089ˆ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADE¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_72a.cs 8j !&7;r) "#$%'()*+,-./234589:<=>?@ABDExÇ #$'+,-.4<>?@A˜
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADE¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_73a.cs 8j!"'8<r) !#$%&()*+,-./034569:;=>?@ABCEFxÇ!$%(,-./5=?@AB˘
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADE¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_74a.cs 8j !&7;r) "#$%'()*+,-./234589:<=>?@ABDExÇ #$'+,-.4<>?@A˜
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEí
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_75a.cs 8j"#(,DHJr? !"$%&')*+-./0123456789:;<?@ABEFGIKLMNOPQRSTUVWXYZ\]xÇ"%&)1346:AIOQRTXü
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bÎ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_81a.cs 8j !&48r" "#$%'()*+,/0125679:;<>?xÇ #$'+19;‡
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.Ω
-¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_81_base.csr
-‰
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Get_Cookies_Web_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.¨
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_01.cs 8j"&'03NSVaejorrS #$%&()*+,-./12456789:;<=>?@ABCDEFGHIJKLMOPQRTUWXY\]^_bcdfghiklmnpqstuwxxÇ&,-.14:>BFLOTWX^fhkpstü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_02.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶ü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_03.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶¨
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_04.cs, 8j$"#$)/09<WX^cflrsx~ÉÜãëñóù¢•r° &'*+,-./12345678:;=>?@ABCDEFGHIJKLMNOPQRSTUVYZ[\]_`abdeghimnopqtuvwyz{|}ÄÅÇÑÖáàâåçéèêíìîïòôöõúûü†°£§¶ß®™´¨≠Æ∞±xÇ0-/567:=CGKOY\_dghpty|Ñáàèíòõû£¶ß¨≠¨
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_05.cs, 8j$"#$)/09<WX^cflrsx~ÉÜãëñóù¢•r° &'*+,-./12345678:;=>?@ABCDEFGHIJKLMNOPQRSTUVYZ[\]_`abdeghimnopqtuvwyz{|}ÄÅÇÑÖáàâåçéèêíìîïòôöõúûü†°£§¶ß®™´¨≠Æ∞±xÇ0-/567:=CGKOY\_dghpty|Ñáàèíòõû£¶ß¨≠™
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_06.cs, 8j$"#$(./8;VW]bekqrw}ÇÖäêïñú°§rü &)*+,-.012345679:<=>?@ABCDEFGHIJKLMNOPQRSTUXYZ[\^_`acdfghlmnopstuvxyz{|~ÄÅÉÑÜáàãåçéèëíìîóòôöõùûü†¢£•¶ß©™´¨≠Ø∞xÇ0,.4569<BFJNX[^cfgosx{~ÉÜáéëóöù¢•¶´¨™
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_07.cs, 8j$"#$(./8;VW]bekqrw}ÇÖäêïñú°§rü &)*+,-.012345679:<=>?@ABCDEFGHIJKLMNOPQRSTUXYZ[\^_`acdfghlmnopstuvxyz{|~ÄÅÉÑÜáàãåçéèëíìîóòôöõùûü†¢£•¶ß©™´¨≠Ø∞xÇ0,.4569<BFJNX[^cfgosx{~ÉÜáéëóöù¢•¶´¨æ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_08.cs. 8j%"#$067@C^_ejmsyzÖäçíòùû§©¨r≠ &'()+,-.12345689:;<=>?ABDEFGHIJKLMNOPQRSTUVWXYZ[\]`abcdfghiklnoptuvwx{|}~ÄÅÇÉÑÜáàâãåéèêìîïñóôöõúü†°¢£•¶ß®™´≠ÆØ±≤≥¥µ∑∏xÇ5(-46<=>ADJNRV`cfknow{ÄÉÜãéèñôü¢•™≠Æ≥¥ü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_09.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶ü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_10.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶ü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_11.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶À
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_12.cs! 8j"()25PV[^dekpv{~ri #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNOQRSTUWXYZ\]_`afghijlmnoqrstuwxyz|}ÄÅÉÑÖÜàâxÇ&(./036<@DHQTW\_`ilqtw|ÄÖü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_13.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶ü
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_14.cs, 8j"()25PQW\_eklqw|Ñäèêñõûrö #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNORSTUVXYZ[]^`abfghijmnoprstuvxyz{}~ÄÅÇÖÜáàâãåçéëíìîïóòôöúùü†°£§•¶ß©™xÇ/&(./036<@DHRUX]`aimrux}ÄÅàãëîóúü†•¶≠
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_15.cs2 8j ")*36PQX]`fmnry~ÅÜçëíôû°rü #$%&'()+,-./01245789:;<=>?@ABCDEFGHIJKLMNORSTUVWYZ[\^_abcghijklopqstuvwxz{|}ÄÇÉÑáàâäãåéèêìîïñóòöõúùü†¢£§¶ß®©™¨≠xÇ7&)/0147=AEINRSVY^abjopstwzÇÉäéèìîóöü¢£®©π
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_16.cs! 8j"()25RWZ`fmrur\ #$%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNOPQSTUVXY[\]abcdeghijklnopqstvwxz{|}ÄxÇ&(./036<@DHMPSX[\dghknsvw|µ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_17.cs 8j"&'03PUX_`dkpsrY #$%&()*+,-./12456789:;<=>?@ABCDEFGHIJKLMNOQRSTVWYZ[\abcefghijlmnoqrtuvwyz{|~xÇ&,-.14:>BFKNQVYZefilqtu{Ê
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_21.cs8 8j&#.36@AJMhioyÇáäîïö†©Æ±ª¿¡r… !$&'()*+,-/01245789;<=>?@BCDEFGHIKLNOPQRSTUVWXYZ[\]^_`abcdefgjklmpqstuvwz{|}~ÄÅÉÑÖÜàâãåçèêëíìñóòôõúùû°¢£§•¶ß®™´¨≠Ø∞≤≥¥∂∑∏π∫ºΩæø¬√ƒ≈«»xÇ@)*,/478>@FGHKNTX\`jluv}~ÄÉàãåíñõù§•ß™Ø≤≥πº¬ƒ£
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkÆ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_22b.cs 8j%&/2MNV\]bhnstrT !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRWXYZ[^_`acdefijklmopqruvwxz{xÇ#%+,-039=AEOQZ^celouw≈
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_31.cs# 8j#)*36UZ]iox}Ärg !$%&'()+,-./01245789:;<=>?@ABCDEFGHIJKLMNOPQRSTVWXY[\^_`adefgjklmnpqrstuvwyz{|~ÅÇÉÑÜáxÇ)/0147=AEINSV[^_fpqvy~ÅÇ∑
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_41.cs 8j',/78ADjorw{r] "#$%&()*+-.01245679:;<=>?@BCEFGHIJKLMNOPQRSTUVWXYZ[\]`abcefghiklmnpqstuxyz|}~ÄÅxÇ%(-017=>?BEKOSW\bhkpst|}ø
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_42.cs! 8j%&/2MTY\ejqvyra "#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKNOPQRSUVWXZ[]^_bcdfghklmnoprstuwxz{|~ÄÅÉÑxÇ%+,-039=AEJPRUZ]^fgmorwz{ÄÀ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_45.cs# 8j,149=>GJrwzÉrj !#$&'()*+-./023567:;<=?@ABCDEFHIKLMNOPQRSTUVWXYZ[\]^_`abcdghijlmnopqstuvxy{|}ÄÅÇÑÖÜáâäxÇ*-256=CDEHKQUY]bcipsx{|ÑÖÜà
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_51a.cs 8j"#,/PTr= !"$%&'()*+-.0123456789:;<=>?@ABCDEFGHKLMNQRSUVWYZxÇ"()*-06:>BGMUVÔ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@Aà
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_52a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVW…
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_52b.cs 8j"r#$%&()Ç%Ô
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABà
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_53a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVW…
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_53b.cs 8j"r#$%&()Ç%…
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_53c.cs 8j"r#$%&()Ç%Ô
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABà
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_54a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVW…
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_54b.cs 8j"r#$%&()Ç%…
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_54c.cs 8j"r#$%&()Ç%…
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_54d.cs 8j"r#$%&()Ç%Ô
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB¯
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGHÉ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_61b.cs 8j#$-0MQr9 !"#%&'()*+,./123456789:;<=>?@ABCDEFGHINOPRSTVWxÇ#)*+.17;?CHRSé
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_66a.cs 8j#$-0SWrA !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKNOPQTUVXYZ[\^_xÇ#)*+.17;?CIJPXZ[Ò
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CDí
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_67a.cs 8j()25X\rE !"#%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNOPSTUVYZ[]^_`acdxÇ(./036<@DHNOU]_`Û
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CDá
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_68a.cs 8j#$-0QTr<!"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSUVWYZxÇ#)*+.17;?CHNUVÛ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCà
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_71a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVWÒ
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEó
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_72a.cs 8j#$-0UYrF !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKLMPQRSVWXZ[\]^_`bcxÇ#)*+.17;?CIJKLRZ\]^_Ú
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEó
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_73a.cs 8j$%.1VZrF!"#$&'()*+,-/023456789:;<=>?@ABCDEFGHIJKLMNQRSTWXY[\]^_`acdxÇ$*+,/28<@DJKLMS[]^_`Ù
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEó
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_74a.cs 8j#$-0UYrF !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKLMPQRSVWXZ[\]^_`bcxÇ#)*+.17;?CIJKLRZ\]^_Ú
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADE∞
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_75a.cs! 8j$%.1Iaegr[!"#$&'()*+,-/023456789:;<=>?@ABCDEFGHJKLMNOPQRSTUVWXY\]^_bcdfhijklmnopqrstuvwyzxÇ$*+,/28<@DNPQSW^flnoquö
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bä
-£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_81a.cs 8j#$-0RVr? !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJMNOPSTUWXYZ\]xÇ#)*+.17;?CIOWY€
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.∏
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_81_base.csr
-ﬂ
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Listen_tcp_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.ï
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_01.cs 8j!%&./0=BEPTY^arA"#$%'()*+,-123456789:;<>?@ACDFGHKLMNQRSUVWXZ[\]_`bcdfgxÇ%*,17;>CFGMUWZ_bcÛ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_02.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîïÛ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_03.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîïÅ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_04.cs% 8
-j"!"#(./789FGMRU[abgmruzÄÖÜåëîrÇ%&)*+,-.0123456:;<=>?@ABCDEHIJKLNOPQSTVWX\]^_`cdefhijklnopqstvwx{|}~ÅÇÉÑáàâäãçéèêíìïñóôöõúùü†xÇ',.35:@HKNSVW_chknsvw~ÅáäçíïñõúÅ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_05.cs% 8
-j"!"#(./789FGMRU[abgmruzÄÖÜåëîrÇ%&)*+,-.0123456:;<=>?@ABCDEHIJKLNOPQSTVWX\]^_`cdefhijklnopqstvwx{|}~ÅÇÉÑáàâäãçéèêíìïñóôöõúùü†xÇ',.35:@HKNSVW_chknsvw~Åáäçíïñõúˇ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_06.cs% 8
-j!!"#'-.678EFLQTZ`aflqtyÑÖãêìrÅ%()*+,-/0123459:;<=>?@ABCDGHIJKMNOPRSUVW[\]^_bcdeghijkmnoprsuvwz{|}~ÄÅÇÉÜáàâäåçéèëíîïñòôöõúûüxÇ'+-249?GJMRUV^bgjmruv}ÄÜâåëîïöõˇ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_07.cs% 8
-j!!"#'-.678EFLQTZ`aflqtyÑÖãêìrÅ%()*+,-/0123459:;<=>?@ABCDGHIJKMNOPRSUVW[\]^_bcdeghijkmnoprsuvwz{|}~ÄÅÇÉÜáàâäåçéèëíîïñòôöõúûüxÇ'+-249?GJMRUV^bgjmruv}ÄÜâåëîïöõê
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_08.cs' 8j#!"#/56>?@MNTY\bhinty|Åáåçìòõrç%&'(*+,-012345789:;<=ABCDEFGHIJKLOPQRSUVWXZ[]^_cdefgjklmopqrsuvwxz{}~ÇÉÑÖÜàâäãéèêëíîïñóôöúùû†°¢£§¶ßxÇ*',35:<AGORUZ]^fjoruz}~Öàéëîôúù¢£Û
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_09.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîïÛ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_10.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîïÛ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_11.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîï™
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_12.cs 8j!'(012?EJMSTZ_ejmrO"#$%&')*+,-./3456789:;<=>@ABCDFGHIKLNOPUVWXY[\]^`abcdfghiklnoprstuwxx
-Ç%',.39@CFKNOX[`cfknotÛ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_13.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîïÛ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_14.cs% 8
-j!'(012?@FKNTZ[`fknsy~Öäçr|"#$%&')*+,-./3456789:;<=>ABCDEGHIJLMOPQUVWXY\]^_abcdeghijlmopqtuvwxz{|}ÄÅÇÉÑÜáàâãåéèêíìîïñòôxÇ&%',.39ADGLOPX\adglopwzÄÉÜãéèîïÅ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_15.cs+ 8
-j!()123?@GLOU\]ahmpu|ÄÅàçêrÄ"#$%&'(*+,-./0456789:;<=>ABCDEFHIJKMNPQRVWXYZ[^_`bcdefgijklnoqrsvwxyz{}~ÇÉÑÖÜáâäãåéèëíìïñóòôõúxÇ-%(-/4:=ABEHMPQY^_bcfinqry}~ÇÉÜâéëíóò°
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_16.cs 8j!'(012AFIOU\adrI"#$%&')*+,-./3456789:;<=>?@BCDEGHJKLPQRSTVWXYZ[]^_`bcefgijklnoxÇ%',.39<?BGJKSVWZ]befkû
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_17.cs 8j!%&./0?DGNOSZ_brG"#$%'()*+,-123456789:;<=>@ABCEFHIJKPQRTUVWXY[\]^`acdefhijkmnx	Ç%*,17:=@EHITUX[`cdj∫
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_21.cs1 8j$"-25?@HIJWX^hqvyÉÑâèòù†™Ø∞r™ #%&'()*+,./0134678:;<=>?ABCDEFGKLMNOPQRSTUVYZ[\_`bcdefijklmnoprstuwxz{|~ÄÅÇÖÜáàäãåçêëíìîïñóôöõúûü°¢£•¶ß®©´¨≠Æ±≤≥¥∂∑xÇ6()+.367=?DFKQY[delmorwz{ÅÖäåìîñôû°¢®´±≥¢
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkó
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_22b.cs 8j$%-./<=EKLQW]bcrB !"#$&'()*+,0123456789:;>?@AFGHIJMNOPRSTUXYZ[\^_`adefgijxÇ"$)+06>@IMRT[^df•
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_31.cs 8j"()123DILX^glorO #$%&'(*+,-./0456789:;<=>?@ABCEFGHJKMNOPSTUVYZ[\]_`abcdefhijkmnpqrsuvxÇ(-/4:=BEJMNU_`ehmpqû
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_41.cs 8j&+.67?@AY^afjrI!"#$%'()*,-/01345689:;<=>BCDEFGHIJKLOPQRTUVWXZ[\]_`bcdghiklmopxÇ$',/06;=BHKQWZ_bckl£
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_42.cs 8j$%-./<CHKTY`ehrK!"#$&'()*+,0123456789:=>?@ABDEFGIJLMNQRSUVWZ[\]^_abcdfgijkmnoprsxÇ$)+069?ADILMUV\^afijoß
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_45.cs 8j+038<=EFGafinrrO "#%&'()*,-./124569:;<>?@ABCDHIJKLMNOPQRSVWXY[\]^_`bcdeghjklopqstuvxyxÇ),145<ACHNQRX_bgjkstuÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_51a.cs 8j!"*+,?Cr+ !#$%&'()-./01234567:;<=@ABDEFHIxÇ	!&(-36<DEÓ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@AÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_52a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EF»
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_52b.cs 8j"r#$%&()Ç%Ó
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_53a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EF»
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_53b.cs 8j"r#$%&()Ç%»
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_53c.cs 8j"r#$%&()Ç%Ó
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_54a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EF»
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_54b.cs 8j"r#$%&()Ç%»
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_54c.cs 8j"r#$%&()Ç%»
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_54d.cs 8j"r#$%&()Ç%Ó
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˜
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGHÏ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_61b.cs 8j"#+,-<@r' !"$%&'()*./012345678=>?ABCEFxÇ"').47AB˜
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_66a.cs 8j"#+,-BFr/ !"$%&'()*./0123456789:=>?@CDEGHIJKMNxÇ"').489?GIJ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CD˚
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_67a.cs 8j'(012GKr3 !"$%&')*+,-./3456789:;<=>?BCDEHIJLMNOPRSxÇ',.39=>DLNOÚ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CD
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_68a.cs
- 8j"#+,-@Cr* !"$%&'()*./012345678;<=>ABDEFHIxÇ	"').47=DEÚ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_71a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EF
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÄ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_72a.cs 8j"#+,-DHr4 !"$%&'()*./0123456789:;<?@ABEFGIJKLMNOQRxÇ"').489:;AIKLMNÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÄ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_73a.cs 8j#$,-.EIr4 !"#%&'()*+/0123456789:;<=@ABCFGHJKLMNOPRSxÇ#(*/59:;<BJLMNOÛ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEÄ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_74a.cs 8j"#+,-DHr4 !"$%&'()*./0123456789:;<?@ABEFGIJKLMNOQRxÇ"').489:;AIKLMNÒ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEô
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_75a.cs 8j	#$,-.8PTVrI !"#%&'()*+/012345679:;<=>?@ABCDEFGHKLMNQRSUWXYZ[\]^_`abcdefhixÇ#(*/5=?@BFMU[]^`dô
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bÛ
-¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_81a.cs 8j"#+,-AEr- !"$%&'()*./0123456789<=>?BCDFGHIKLxÇ	"').48>FH⁄
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.∑
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_81_base.csr
-ﬁ
-©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__NetClient_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.Ä
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_01.cs 8j
-#(-0;?DILr/ !"$%&')*+,./1236789<=>@ABCEFGHJKMNOQRxÇ$&).128@BEJMN√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_02.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄ√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_03.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄ—
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_04.cs  8
-j !&,128=@FLMRX]`ekpqw|ra#$'()*+-./0345679:;<>?ABCGHIJKNOPQSTUVWYZ[\^_abcfghijlmnorstuvxyz{}~ÄÅÇÑÖÜáàäãxÇ*-369>ABJNSVY^abilrux}ÄÅÜá—
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_05.cs  8
-j !&,128=@FLMRX]`ekpqw|ra#$'()*+-./0345679:;<>?ABCGHIJKNOPQSTUVWYZ[\^_abcfghijlmnorstuvxyz{}~ÄÅÇÑÖÜáàäãxÇ*-369>ABJNSVY^abilrux}ÄÅÜáŒ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_06.cs  8
-j !%+017<?EKLQW\_djopv{~r_#&'()*,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ),258=@AIMRUX]`ahkqtw|ÄÖÜŒ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_07.cs  8
-j !%+017<?EKLQW\_djopv{~r_#&'()*,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ),258=@AIMRUX]`ahkqtw|ÄÖÜ·
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_08.cs" 8j !-389?DGMSTY_dglrwx~ÉÜrl#$%&()*+./0124567:;<=>@ABCEFHIJNOPQRUVWXZ[\]^`abcefhijmnopqstuvyz{|}ÄÅÇÑÖáàâãåçéèëíxÇ!%*14:=@EHIQUZ]`ehipsy|Ñáàçé√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_09.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄ√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_10.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄ√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_11.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄï
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_12.cs 8j%*058>?EJPUXr= !"#$&'()+,-./1234679:;@ABCDFGHIKLMNOQRSTVWYZ[]^_`bcxÇ#&+.169:CFKNQVYZ_√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_13.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄ√
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_14.cs  8
-j%*+169?EFKQVY^dijpuxrY !"#$&'(),-./0234578:;<@ABCDGHIJLMNOPRSTUWXZ[\_`abcefghklmnoqrstvwyz{}~ÄÅÉÑxÇ#&,/27:;CGLORWZ[beknqvyzÄ–
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_15.cs& 8
-j&*+27:@GHLSX[`gklsx{r_ !"#$%'(),-./01345689;<=ABCDEFIJKMNOPQRTUVWYZ\]^abcdefhijmnopqrtuvwyz|}~ÄÅÇÉÑÜáx	Ç"#'(,-038;<DIJMNQTY\]dhimnqty|}ÇÉå
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_16.cs 8j
-%,14:@GLOr7 !"#$&'()*+-./023567;<=>?ABCDEFHIJKMNPQRTUVWYZxÇ#&'*-256>ABEHMPQVâ
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_17.cs 8j#*/29:>EJMr5 !"$%&'()+,-.013456;<=?@ABCDFGHIKLNOPQSTUVXYxÇ$%(+034?@CFKNOUã
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_21.cs, 8j +03=BCIS\adnotzÉàãïöõrà!#$%&'()*,-./1245689:;<>?@ADEFGJKMNOPQTUVWXYZ[]^_`bcefgijklmpqrsuvwx{|}~ÄÅÇÑÖÜáâäåçéêëíìîñóòôúùûü°¢xÇ,&'),145;>DFOPWXZ]beflpuw~ÅÑâåçìñúûß
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkÇ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_22b.cs 8j"'(067<BHMNr0 !#$%&)*+,1234589:;=>?@CDEFGIJKLOPQRTUxÇ #)+48=?FIOQê
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_31.cs 8j
- &/47CIRWZr=!"#$%'()*+,-.01235689:;>?@ADEFGHJKLMNOPQSTUVXY[\]^`axÇ'(-0589@JKPSX[\â
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_41.cs 8j	$),4DILQUr7 !"#%&'(*+-./123567:;<=?@ABCEFGHJKMNORSTVWXZ[xÇ"%*-.56<BEJMNVWé
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_42.cs 8j
-"'.36?DKPSr9 !#$%()*+,-/01245789<=>@ABEFGHIJLMNOQRTUVXYZ[]^xÇ#$*,/478@AGILQTUZí
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_45.cs 8j
-).16:LQTY]r= !#$%&'(*+,-/0234789;<=>ABCDFGHIJKMNOPRSUVWZ[\^_`acdxÇ'*/23;<=CJMRUV^_`⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_51a.cs 8j*.r !"%&'(+,-/0134Ç !'/0Û
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@A⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_52a.cs 8j +/r!"#&'(),-.01245Ç!"(01Õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_52b.cs 8j"r#$%&()Ç%Û
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_53a.cs 8j +/r!"#&'(),-.01245Ç!"(01Õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_53b.cs 8j"r#$%&()Ç%Õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_53c.cs 8j"r#$%&()Ç%Û
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_54a.cs 8j +/r!"#&'(),-.01245Ç!"(01Õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_54b.cs 8j"r#$%&()Ç%Õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_54c.cs 8j"r#$%&()Ç%Õ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_54d.cs 8j"r#$%&()Ç%Û
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB¸
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGH’
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_61b.cs 8j '+r!"#()*,-.01Ç!",-‡
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_66a.cs 8j -1r!"#$%()*+./02345689Ç!#$*245ı
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CD‰
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_67a.cs 8j%26r! "#$&'()*-./0345789:;=>Ç&()/79:˜
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CDŸ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_68a.cs 8j +.r!"#&'(),-/0134Ç!"(/0˜
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BC⁄
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_71a.cs 8j +/r!"#&'(),-.01245Ç!"(01ı
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÈ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_72a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789ˆ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÈ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_73a.cs 8j!04r" "#$%&'(+,-.12356789:;=>Ç"$%&'-5789:¯
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEÈ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_74a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789ˆ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÖ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_75a.cs 8j"$<@Br8 !#%&'()*+,-./01234789:=>?ACDEFGHIJKLMNOPQRTUxÇ#)+,.29AGIJLPû
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^b‹
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_81a.cs	 8j ,0r!"#$'()*-./123467Ç!#)13ﬂ
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.º
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_81_base.csr
-„
-ÆC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__Params_Get_Web_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.ä
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_01.cs 8j#$.36AEJORr5 !"#%&'()*+,-/01245789<=>?BCDFGHIKLMNPQSTUWXxÇ#&(,/478>FHKPST‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_02.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜ‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_03.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜ‚
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_04.cs" 8j !&,-78>CFLRSX^cfkqvw}ÇÖrk#$'()*+,./01234569:;<=?@ABDEGHIMNOPQTUVWYZ[\]_`abdeghilmnoprstuxyz{|~ÄÅÉÑÜáàäãåçéêëxÇ!*,/19<?DGHPTY\_dghorx{~ÉÜáåç‚
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_05.cs" 8j !&,-78>CFLRSX^cfkqvw}ÇÖrk#$'()*+,./01234569:;<=?@ABDEGHIMNOPQTUVWYZ[\]_`abdeghilmnoprstuxyz{|~ÄÅÉÑÜáàäãåçéêëxÇ!*,/19<?DGHPTY\_dghorx{~ÉÜáåç‡
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_06.cs" 8j !%+,67=BEKQRW]bejpuv|ÅÑri#&'()*+-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!)+.08;>CFGOSX[^cfgnqwz}ÇÖÜãå‡
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_07.cs" 8j !%+,67=BEKQRW]bejpuv|ÅÑri#&'()*+-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!)+.08;>CFGOSX[^cfgnqwz}ÇÖÜãåÛ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_08.cs$ 8j !-34>?EJMSYZ_ejmrx}~Ñâårw#$%&()*+./012356789:;<=@ABCDFGHIKLNOPTUVWX[\]^`abcdfghiklnopstuvwyz{|ÄÅÇÉÖÜáàäãçéèëíìîïóòxÇ%%*1368@CFKNOW[`cfknovyÇÖäçéìî‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_09.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜ‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_10.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜ‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_11.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜü
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_12.cs 8j%&06;>DEKPV[^rC !"#$%'()*+,-./12345789:<=?@AFGHIJLMNOQRSTUWXYZ\]_`acdefhix
-Ç#%(*147<?@ILQTW\_`e‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_13.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜ‘
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_14.cs" 8j%&017<?EKLQW\_djopv{~rd !"#$%'()*+,-./2345689:;=>@ABFGHIJMNOPRSTUVXYZ[]^`abefghiklmnqrstuwxyz|}ÄÅÉÑÖÜáâäxÇ#%(*258=@AIMRUX]`ahkqtw|ÄÖÜ·
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_15.cs( 8j&'018=@FMNRY^afmqry~Åri !"#$%&()*+,-./2345679:;<>?ABCGHIJKLOPQSTUVWXZ[\]_`bcdghijklnopstuvwxz{|}ÄÇÉÑÜáàâäåçxÇ&#&)+.2369>ABJOPSTWZ_bcjnostwzÇÉàâñ
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_16.cs 8j%&27:@FMRUr= !"#$%'()*+,-./01345689;<=ABCDEGHIJKLNOPQSTVWXZ[\]_`xÇ#%(*-038;<DGHKNSVW\ì
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_17.cs 8j#$058?@DKPSr; !"#%&'()*+,-./1234679:;<ABCEFGHIJLMNOQRTUVWYZ[\^_x	Ç#&(+.169:EFILQTU[ù
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_21.cs. 8j +03=>HIOYbgjtuzÄâéëõ†°rì!#$%&'()*,-./1245689:;<=?@ABCDEFGJKLMPQSTUVWZ[\]^_`acdefhiklmopqrsvwxy{|}~ÅÇÉÑÖÜáàäãåçèêíìîñóòôöúùûü¢£§•ß®xÇ0&'),145;=@BJLUV]^`chklrv{}ÑÖáäèíìôú¢§®
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkå
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_22b.cs 8j"#-.6<=BHNSTr6 !"$%&'()*+,/012789:;>?@ACDEFIJKLMOPQRUVWXZ[xÇ "%'/1:>CELOUWö
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_31.cs 8j &'5:=IOX]`rC!"#$%&()*+,-./012346789;<>?@ADEFGJKLMNPQRSTUVWYZ[\^_abcdfgxÇ&)+.36;>?FPQVY^abì
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_41.cs 8j
-$),45JORW[r= !"#%&'(*+-./12346789:;<=@ABCEFGHIKLMNPQSTUXYZ\]^`axÇ"%*-.479<BHKPST\]ò
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_42.cs 8j"#-49<EJQVYr? !"$%&'()*+./01235678:;=>?BCDFGHKLMNOPRSTUWXZ[\^_`acdxÇ"%'*025:=>FGMORWZ[`ú
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_45.cs 8j).16:;RWZ_crC !#$%&'(*+,-/0234789:<=>?@ABCDGHIJLMNOPQSTUVXY[\]`abdefgijxÇ'*/23:=?BCIPSX[\defÊ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_51a.cs	 8j 04r!"#$%&'(+,-.1235679:xÇ"$'-56Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@AÊ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_52a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_52b.cs 8j"r#$%&()Ç%Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÊ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_53a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_53b.cs 8j"r#$%&()Ç%Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_53c.cs 8j"r#$%&()Ç%Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÊ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_54a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_54b.cs 8j"r#$%&()Ç%Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_54c.cs 8j"r#$%&()Ç%Œ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_54d.cs 8j"r#$%&()Ç%Ù
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>AB˝
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGH·
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_61b.cs 8j !-1r "#$%&'()./023467xÇ #%(23Ï
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_66a.cs 8j !37r# "#$%&'()*+./0145689:;<>?xÇ	 #%)*08:;ˆ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CD
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_67a.cs 8j%&8<r' "#$%'()*+,-./034569:;=>?@ACDxÇ	%(*./5=?@¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CDÂ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_68a.cs 8j !14r "#$%&'(),-./235679:xÇ #%(.56¯
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÊ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_71a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67ˆ
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEı
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_72a.cs 8j !59r( "#$%&'()*+,-0123678:;<=>?@BCxÇ #%)*+,2:<=>?˜
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEı
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_73a.cs 8j!"6:r( !#$%&'()*+,-.1234789;<=>?@ACDxÇ!$&*+,-3;=>?@˘
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEı
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_74a.cs 8j !59r( "#$%&'()*+,-0123678:;<=>?@BCxÇ #%)*+,2:<=>?˜
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEè
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_75a.cs 8j"#*BFHr> !"$%&'()+,-./0123456789:=>?@CDEGIJKLMNOPQRSTUVWXZ[xÇ"%'/1248?GMOPRVü
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bË
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_81a.cs 8j !26r! "#$%&'()*-./0345789:<=xÇ #%)/79‡
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.Ω
-¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_81_base.csr
-‰
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__QueryString_Web_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.â
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_01.cs 8j $&)49<GKPUXr:!"#$%'(*+,-./01235678:;=>?BCDEHIJLMNOQRSTVWYZ[]^xÇ$*.25:=>DLNQVYZ€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_02.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãå€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_03.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãåÈ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_04.cs# 8
-j !"'-/2=>DILRXY^dilqw|}Éàãru$%()*+,-.013456789:;<?@ABCEFGHJKMNOSTUVWZ[\]_`abcefghjkmnorstuvxyz{~ÄÅÇÑÖÜáâäåçéêëíìîñóxÇ#+-37?BEJMNVZ_bejmnux~ÅÑâåçíìÈ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_05.cs# 8
-j !"'-/2=>DILRXY^dilqw|}Éàãru$%()*+,-.013456789:;<?@ABCEFGHJKMNOSTUVWZ[\]_`abcefghjkmnorstuvxyz{~ÄÅÇÑÖÜáâäåçéêëíìîñóxÇ#+-37?BEJMNVZ_bejmnux~ÅÑâåçíìÁ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_06.cs# 8
-j !"&,.1<=CHKQWX]chkpv{|Çáärs$'()*+,-/023456789:;>?@ABDEFGIJLMNRSTUVYZ[\^_`abdefgijlmnqrstuwxyz}~ÄÅÉÑÖÜàâãåçèêëíìïñxÇ#*,26>ADILMUY^adilmtw}ÄÉàãåëíÁ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_07.cs# 8
-j !"&,.1<=CHKQWX]chkpv{|Çáärs$'()*+,-/023456789:;>?@ABDEFGIJLMNRSTUVYZ[\^_`abdefgijlmnqrstuwxyz}~ÄÅÉÑÖÜàâãåçèêëíìïñxÇ#*,26>ADILMUY^adilmtw}ÄÉàãåëí˙
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_08.cs% 8j !".469DEKPSY_`ekpsx~ÉÑäèírÄ$%&')*+,/01234578:;<=>?@ABCFGHIJLMNOQRTUVZ[\]^abcdfghijlmnoqrtuvyz{|}ÄÅÇÖÜáàâãåçéêëìîïóòôöõùûxÇ&&+24:>FILQTU]afilqtu|Öàãêìîôö€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_09.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãå€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_10.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãå€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_11.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãåû
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_12.cs 8j &(+6<ADJKQV\adrH!"#$%&')*,-./012345789:;=>?@BCEFGLMNOPRSTUWXYZ[]^_`bcefgijklnox
-Ç$&,07:=BEFORWZ]befk€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_13.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãå€
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_14.cs# 8
-j &(+67=BEKQRW]bejpuv|ÅÑrm!"#$%&')*,-./01234589:;<>?@ACDFGHLMNOPSTUVXYZ[\^_`acdfghklmnoqrstwxyz{}~ÄÇÉÖÜáâäãåçèêxÇ!$&,08;>CFGOSX[^cfgnqwz}ÇÖÜãåË
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_15.cs) 8
-j '),67>CFLSTX_dglswxÑárs!"#$%&'(*+-./01234589:;<=?@ABDEGHIMNOPQRUVWYZ[\]^`abcefhijmnopqrtuvyz{|}~ÄÅÇÉÖÜàâäåçéèêíìxÇ($'-1489<?DGHPUVYZ]`ehiptuyz}ÄÖàâéèï
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_16.cs 8j &(+8=@FLSX[rB!"#$%&')*,-./012345679:;<>?ABCGHIJKMNOPQRTUVWYZ\]^`abcefxÇ$&,0369>ABJMNQTY\]bí
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_17.cs 8j $&)6;>EFJQVYr@!"#$%'(*+,-./012345789:<=?@ABGHIKLMNOPRSTUWXZ[\]_`abdex	Ç$*.147<?@KLORWZ[a£
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_21.cs/ 8j !,14>@CNOU_hmpz{ÄÜèîó°¶ßrú"$%&'()*+-./0235679:;<=>?ABDEFGHIJKLMPQRSVWYZ[\]`abcdefgijklnoqrsuvwxy|}~ÅÇÉÑáàâäãåçéêëíìïñòôöúùûü†¢£§•®©™´≠ÆxÇ2'(*-256<>DHPR[\cdfinqrx|ÅÉäãçêïòôü¢®™°
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_22a.cs 8j*/278BKPSXafirF "#$%&'()+,-.013459:<=>?@CDEFGHIJLMNOQRTUVYZ[\]^_`bcdeghjklnoxÇ%&(+034>?FGILQTU\]_bgjkã
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_22b.cs 8j#%(34<BCHNTYZr; !"#$&')*+,-./0125678=>?@ADEFGIJKLOPQRSUVWX[\]^`axÇ!#)-57@DIKRU[]ô
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_31.cs 8j!'),;@COU^cfrH"#$%&'(*+-./0123456789:<=>?ABDEFGJKLMPQRSTVWXYZ[\]_`abdeghijlmxÇ'-149<ADELVW\_dghí
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_41.cs 8j%*-57:PUX]arB !"#$&'()+,./02345689;<=>?@ABCFGHIKLMNOQRSTVWYZ[^_`bcdfgxÇ#&+./5;?BHNQVYZbcó
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_42.cs 8j#%(3:?BKPW\_rD !"#$&')*+,-./01456789;<=>@ACDEHIJLMNQRSTUVXYZ[]^`abdefgijxÇ#)-068;@CDLMSUX]`afõ
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_45.cs 8j*/27;=@X]`eirH!"$%&'()+,-.0134589:;<>?ABCDEFGHIJMNOPRSTUVWYZ[\^_abcfghjklmopxÇ(+034;AEHIOVY^abjklÂ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_51a.cs
- 8j "%6:r$ !#$&'()*+,-.1234789;<=?@xÇ &*-3;<Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_51b.cs 8j"'*17<?r' !#$%&()+,-2345689:;=>@ABDExÇ
- #(+,58=@AÂ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_52a.cs
- 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_52b.cs 8j"r#$%&()Ç%Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_52c.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÂ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_53a.cs
- 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_53b.cs 8j"r#$%&()Ç%«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_53c.cs 8j"r#$%&()Ç%Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_53d.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABÂ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_54a.cs
- 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_54b.cs 8j"r#$%&()Ç%«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_54c.cs 8j"r#$%&()Ç%«
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_54d.cs 8j"r#$%&()Ç%Ì
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_54e.cs 8j#(+28=@r' !"$%&')*,-.345679:;<>?ABCEFxÇ
-!$),-69>ABˆ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_61a.cs 8j$),7>CFr- !"#%&'(*+-./234589:;<=?@ABDEGHIKLxÇ "%*-.4:<?DGH‡
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_61b.cs	 8j!#&37r  !"$%'()*+,-./45689:<=xÇ!'+.89Î
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_66a.cs 8j!#&9=r( !"$%'()*+,-./014567:;<>?@ABDExÇ	!'+/06>@AÔ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_66b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ
-"%*-.8;@CDÔ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_67a.cs 8j&(+>Br, !#$%&')*,-./01234569:;<?@ACDEFGIJxÇ	&,045;CEFÒ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_67b.cs 8j$),3:?Br) !"#%&'(*+-./456789;<=>@ACDEGHxÇ "%*-.68;@CD‰
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_68a.cs 8j!#&7:r# !"$%'()*+,-./234589;<=?@xÇ!'+.4;<Ò
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_68b.cs 8j#(+29>Ar) !"$%&')*,-.345678:;<=?@BCDFGxÇ!$),-57:?BCÂ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_71a.cs
- 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=Ô
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_71b.cs 8j%*-4;@Cr) !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÙ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_72a.cs 8j!#&;?r- !"$%'()*+,-./01236789<=>@ABCDEFHIxÇ!'+/0128@BCDE
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_72b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEÙ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_73a.cs 8j"$'<@r- !"#%&()*+,-./01234789:=>?ABCDEFGIJxÇ"(,01239ACDEFÚ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_73b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ!#&+./79<ADEÙ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_74a.cs 8j!#&;?r- !"$%'()*+,-./01236789<=>@ABCDEFHIxÇ!'+/0128@BCDE
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_74b.cs 8j%*-4;@Cr* !"#$&'()+,./056789:<=>?ABDEFHIxÇ
-#&+./9<ADEç
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_75a.cs 8j"$'/GKMrB !"#%&()*+,-.0123456789:;<=>?BCDEHIJLNOPQRSTUVWXYZ[\]_`xÇ"(,4679=DLRTUW[ò
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_75b.cs 8j058DTY\rH!"#$%&'()*+,-./1234679:;<=>?@EFGHIJKLMNOPQRSUVWXZ[]^_`abcdfgxÇ')*+.169:>KMNORUZ]^bÁ
-°C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_81a.cs 8j!#&8<r& !"$%'()*+,-./034569:;=>?@BCxÇ!'+/5=?Ÿ
-§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_81_bad.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.∂
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_81_base.csr
-›
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\CWE78_OS_Command_Injection__ReadLine_81_goodG2B.cs 8j$),r !"#%&'(*+-./01xÇ"%*-.é
-
-ÄC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\Program.csò 
-8j#&(9?ABPRVX\^bdhjnpt¯¸˛ÇÑr¬	
-"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqsuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜˘˚ˇÅÖÜáx
-Çí"*+,-0459CDEFGHIJKuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜µ
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\Properties\AssemblyInfo.csj !"r	
+Í
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_01.cs 8j
+"#'*-9DHLr1 !"$%&()+,./012345678:;<?@ABEFGIJKMNOQRxÇ"(+.47:AIJMú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_02.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_03.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvw£
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_04.cs 8
+j %+,036CDIOUV[`ekpqvrT"#&'()*+-./1245789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+147=EGJSW\^ailrtw}~£
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_05.cs 8
+j %+,036CDIOUV[`ekpqvrT"#&'()*+-./1245789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+147=EGJSW\^ailrtw}~¢
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_06.cs 8
+j $*+/25BCHNTUZ_djopurS"%&'()*,-.01346789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*036<DFIRV[]`hkqsv|}¢
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_07.cs 8
+j $*+/25BCHNTUZ_djopurS"%&'()*,-.01346789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*036<DFIRV[]`hkqsv|}≥
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_08.cs 8j ,237:=JKPV\]bglrwx}r`"#$%'()*-./01245689;<>?@ABCDEFGHILMNOQRSWXYZ[^_`acdefhijmnopqstuvyz{|~ÄÇÉÑÖÜàâxÇ$)028;>DLNQZ^cehpsy{~ÑÖú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_09.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_10.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_11.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwˇ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_12.cs 8j$%),/<AGHNSXr? !"#$&'(*+-.0123456789:;=>?@BCDIJKLMOPQRTUVWYZ[]^_`bcxÇ"$*-06=?BLOTVY_ú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_13.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwú
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_14.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvw•
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_15.cs 8
+j%&*-0<=CIPQU[`gklrrS !"#$%'()+,./123456789:;>?@ABDEFJKLMNORSTVWXYZ\]^abcdefhijmnopqstuwxyz{}~xÇ"%+.17:>?ADMRSVWY\dhimnpsyzˆ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_16.cs 8j
+$%),/=CIOr9 !"#$&'(*+-.0123456789:;<>?@DEFGHJKLMNPQRTUVWYZxÇ"$*-069;>GJKMPVÛ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_17.cs 8j"#'*-;BCGMr7 !"$%&()+,./0123456789:<=>?DEFHIJKLNOPQSTUVXYxÇ"(+.479<HIKNU‹
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_21.cs% 8j)348;>KLR\dnotzÇåëír| "#$%&'(*+,./01235679:<=?@ABCDEFGHIJMNOPSTVWXYZ]^_`abcefgijklmpqrsuvwx{|}~ÄÅÉÑÖáàâäãçéèêìîïñòôxÇ$%&'*139<?EMOXY`abelpuw~ÄÉäçìïÎ
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILÜ
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_22b.cs 8j$%),/<=EKLQW]bcrB !"#$&'(*+-.0123456789:;>?@AFGHIJMNOPRSTUXYZ[\^_`adefgijxÇ"$*-06>@IMRT[^df˙
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_31.cs 8j
+%&*-0@LRZr? !"#$%'()+,./123456789:;<=>?ABCDGHIJMNOPQSTUVWXY[\]^`axÇ%+.17:>AISTX[Û
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_41.cs 8j	"*+/25LQUr9 !#$%'()*,-.01346789:;<=>?@CDEFHIJKMNORSTVWXZ[xÇ #*036<?EJMVW¯
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_42.cs 8j
+!"&),9?HMSr; !#$%'(*+-./01234567:;<=>@ABEFGIJKNOPQRTUVXYZ[]^xÇ!'*-36<=@IJPQTZ¸
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_45.cs 8j
+',0158;TY]r? "#$%&()*-./0234679:<=>?@ABCDEFGJKLMOPQRSUVWZ[\^_`acdxÇ%(069<BEFLRU^_`‡
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_51a.cs 8j!"&),?Cr+ !#$%'(*+-./01234567:;<=@ABDEFHIxÇ	!'*-36<DE√
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_51b.cs 8j%*r !&'()+,-/0xÇ(+‡
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_52a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF∑
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_52b.cs 8j"r#$%&()Ç%√
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_52c.cs 8j&+r !"'()*,-.01xÇ ),‡
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_53a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF∑
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_53b.cs 8j"r#$%&()Ç%∑
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_53c.cs 8j"r#$%&()Ç%√
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_53d.cs 8j&+r !"'()*,-.01xÇ ),‡
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_54a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF∑
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_54b.cs 8j"r#$%&()Ç%∑
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_54c.cs 8j"r#$%&()Ç%∑
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_54d.cs 8j"r#$%&()Ç%√
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_54e.cs 8j&+r !"'()*,-.01xÇ ),Ã
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2€
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_61b.cs 8j"#'*-<@r' !"$%&()+,./012345678=>?ABCEFxÇ"(+.47ABÊ
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_66a.cs 8j"#'*-BFr/ !"$%&()+,./0123456789:=>?@CDEGHIJKMNxÇ"(+.489?GIJ≈
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_66b.cs 8j '-r!"#()*+,./023xÇ!+.Í
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_67a.cs 8j'(,/2GKr3 !"$%&')*+-.013456789:;<=>?BCDEHIJLMNOPRSxÇ'-039=>DLNO«
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_67b.cs 8j '-r!"#()*+,./023xÇ!*+.ﬂ
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_68a.cs
+ 8j"#'*-@Cr* !"$%&()+,./012345678;<=>ABDEFHIxÇ	"(+.47=DE«
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_68b.cs 8j&,r !"'()*+-./12xÇ )*-‡
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_71a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF≈
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ô
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_72a.cs 8j"#'*-DHr4 !"$%&()+,./0123456789:;<?@ABEFGIJKLMNOQRxÇ"(+.489:;AIKLMN∆
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ô
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_73a.cs 8j#$(+.EIr4 !"#%&')*,-/0123456789:;<=@ABCFGHJKLMNOPRSxÇ#),/59:;<BJLMNO»
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Ô
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_74a.cs 8j"#'*-DHr4 !"$%&()+,./0123456789:;<?@ABEFGIJKLMNOQRxÇ"(+.489:;AIKLMN∆
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/à
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_75a.cs 8j	#$(+.8PTVrI !"#%&')*,-/012345679:;<=>?@ABCDEFGHKLMNQRSUWXYZ[\]^_`abcdefhixÇ#),/5=?@BFMU[]^`dÓ
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM‚
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_81a.cs 8j"#'*-AEr- !"$%&()+,./0123456789<=>?BCDFGHIKLxÇ	"(+.48>FHª
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_81_bad.cs 8j r!"#$%xÇ!¶
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_81_base.csr
+ø
+òC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Connect_tcp_81_goodG2B.cs 8j r!"#$%xÇ!
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_01.cs 8j
+!"&*1>IMQr6 !#$%'()+,-./023456789:;<=?@ADEFGJKLNOPRSTVWxÇ!')+-./29<?FNOR£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_02.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_03.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|∞
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_04.cs 8
+j$*+/3:HINTZ[`ejpuv{r^!"%&'()*,-.012456789;<=>?@ABCDEFGJKLMOPQUVWXY\]^_abcdfghklmnoqrstwxyz|}~ÄÅÇÉÑÜáxÇ(*024678;BJLOX\acfnqwy|ÇÉ∞
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_05.cs 8
+j$*+/3:HINTZ[`ejpuv{r^!"%&'()*,-.012456789;<=>?@ABCDEFGJKLMOPQUVWXY\]^_abcdfghklmnoqrstwxyz|}~ÄÅÇÉÑÜáxÇ(*024678;BJLOX\acfnqwy|ÇÉÆ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_06.cs 8
+j#)*.29GHMSYZ_diotuzr\!$%&'()+,-/01345678:;<=>?@ABCDEFIJKLNOPTUVWX[\]^`abcefgjklmnpqrsvwxy{|}ÄÅÇÉÖÜxÇ')/13567:AIKNW[`bempvx{ÅÇÆ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_07.cs 8
+j#)*.29GHMSYZ_diotuzr\!$%&'()+,-/01345678:;<=>?@ABCDEFIJKLNOPTUVWX[\]^`abcefgjklmnpqrsvwxy{|}ÄÅÇÉÖÜxÇ')/13567:AIKNW[`bempvx{ÅÇ¿
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_08.cs 8j+126:AOPU[abglqw|}Çri!"#$&'(),-./01345789;<=>?@BCDEFGHIJKLMNQRSTVWX\]^_`cdefhijkmnorstuvxyz{~ÄÅÉÑÖáàâäãçéxÇ#(/179;=>?BIQSV_chjmux~ÄÉâä£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_09.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_10.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_11.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|Ö
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_12.cs 8j#$(,3AFLMSX]rD !"#%&')*+-./012456789:;<=>?@BCDEGHINOPQRTUVWYZ[\^_`bcdeghxÇ!#)+-/014;BDGQTY[^d£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_13.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|£
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_14.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|Æ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_15.cs# 8
+j$%)-4ABHNUVZ`elpqwr[ !"#$&'(*+,./012356789:;<=>?@CDEFGIJKOPQRSTWXY[\]^_abcfghijkmnorstuvxyz|}~ÄÇÉxÇ!$*,.0125<?CDFIRWX[\^aimnrsux~¸
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_16.cs 8j
+#$(,3BHNTr> !"#%&')*+-./012456789:;<=>?@ACDEIJKLMOPQRSUVWYZ[\^_xÇ!#)+-/014;>@CLOPRU[˘
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_17.cs 8j!"&*1@GHLRr< !#$%'()+,-./023456789:;<=>?ABCDIJKMNOPQSTUVXYZ[]^xÇ!')+-./29<>AMNPSZÍ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_21.cs) 8j(237;BPQWaistyáëñórÜ!"#$%&')*+-./01245689:<=>?@ACDEFGHIJKLMNORSTUXY[\]^_bcdefghjklnopqruvwxz{|}ÄÅÇÉÑÖÜàâäåçéèêíìîïòôöõùûxÇ*$%&)028:<>?@CJRT]^efgjquz|ÉÑÖàèíòöË
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILå
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_22b.cs 8j#$(,3ABJPQV\bghrG !"#%&')*+-./012456789:;<=>?@CDEFKLMNORSTUWXYZ]^_`acdefijklnoxÇ!#)+-/014;CENRWY`cikÄ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_31.cs 8j
+$%)-4EQW_rD !"#$&'(*+,./012356789:;<=>?@ABCDFGHILMNORSTUVXYZ[\]^`abcefxÇ$*,.0125<?CFNXY]`˘
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_41.cs 8j	!)*.29QVZr> "#$&'()+,-/01345678:;<=>?@ABCDEHIJKMNOPRSTWXY[\]_`xÇ")/13567:ADJOR[\˛
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_42.cs 8j
+ !%)0>DMRXr@ "#$&'(*+,-./123456789:;<?@ABCEFGJKLNOPSTUVWYZ[]^_`bcxÇ &(*,-.18;ABENOUVY_Ç
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_45.cs 8j
+&+/048?Y^brD!"#$%'(),-./1235679:;<=>@ABCDEFGHIJKLOPQRTUVWXZ[\_`acdefhixÇ$'/579;<=@GJKQWZcdeÊ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_51a.cs 8j !%)0DHr0 "#$&'(*+,-./123456789:;<?@ABEFGIJKMNxÇ &(*,-.18;AIJ¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_51b.cs 8j%*r !&'()+,-/0xÇ(+Ê
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_52a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_52b.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_52c.cs 8j&+r !"'()*,-.01xÇ ),Ê
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_53a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_53b.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_53c.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_53d.cs 8j&+r !"'()*,-.01xÇ ),Ê
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_54a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_54b.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_54c.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_54d.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_54e.cs 8j&+r !"'()*,-.01xÇ ),…
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2·
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_61b.cs 8j!"&*1AEr, !#$%'()+,-./023456789:;<=BCDFGHJKxÇ!')+-./29<FGÏ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_66a.cs 8j!"&*1GKr4 !#$%'()+,-./023456789:;<=>?BCDEHIJLMNOPRSxÇ!')+-./29=>DLNO¬
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_66b.cs 8j '-r!"#()*+,./023xÇ!+.
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_67a.cs 8j&'+/6LPr8 !#$%&()*,-.012345789:;<=>?@ABCDGHIJMNOQRSTUWXxÇ&,.02347>BCIQSTƒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_67b.cs 8j '-r!"#()*+,./023xÇ!*+.Â
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_68a.cs 8j!"&*1EHr/ !#$%'()+,-./023456789:;<=@ABCFGIJKMNxÇ!')+-./29<BIJƒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_68b.cs 8j&,r !"'()*+-./12xÇ )*-Ê
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_71a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK¬
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/ı
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_72a.cs 8j!"&*1IMr9 !#$%'()+,-./023456789:;<=>?@ADEFGJKLNOPQRSTVWxÇ!')+-./29=>?@FNPQRS√
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/ı
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_73a.cs 8j"#'+2JNr9 !"$%&()*,-./013456789:;<=>?@ABEFGHKLMOPQRSTUWXxÇ"(*,./03:>?@AGOQRST≈
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/ı
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_74a.cs 8j!"&*1IMr9 !#$%'()+,-./023456789:;<=>?@ADEFGJKLNOPQRSTVWxÇ!')+-./29=>?@FNPQRS√
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/è
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_75a.cs 8j	#$(,3>VZ\rO !"#%&')*+-./012456789:;<=?@ABCDEFGHIJKLMNQRSTWXY[]^_`abcdefghijklnoxÇ#)+-/014;CEFHLS[acdfjÎ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHMË
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_81a.cs 8j!"&*1FJr2 !#$%'()+,-./023456789:;<=>ABCDGHIKLMNPQxÇ!')+-./29=CKM∏
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_81_bad.cs 8j r!"#$%xÇ!£
+íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_81_base.csr
+º
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Database_81_goodG2B.cs 8j r!"#$%xÇ!ﬁ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_01.cs 8j
+!%()*5@DHr- !"#$&'+,-./01234678;<=>ABCEFGIJKMNxÇ
+!&+036=EFIê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_02.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_03.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_04.cs 8
+j$*.123?@EKQRW\aglmrrN!"%&'()*+,-/0456789:;<=>ABCDFGHLMNOPSTUVXYZ[]^_bcdefhijknopqstuwxyz{}~xÇ(*/49ACFOSXZ]ehnpsyzï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_05.cs 8
+j$*.123?@EKQRW\aglmrrN!"%&'()*+,-/0456789:;<=>ABCDFGHLMNOPSTUVXYZ[]^_bcdefhijknopqstuwxyz{}~xÇ(*/49ACFOSXZ]ehnpsyzî
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_06.cs 8
+j#)-012>?DJPQV[`fklqrM!$%&'()*+,./3456789:;<=@ABCEFGKLMNORSTUWXYZ\]^abcdeghijmnoprstvwxyz|}xÇ').38@BENRWY\dgmorxyî
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_07.cs 8
+j#)-012>?DJPQV[`fklqrM!$%&'()*+,./3456789:;<=@ABCEFGKLMNORSTUWXYZ\]^abcdeghijmnoprstvwxyz|}xÇ').38@BENRWY\dgmorxy§
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_08.cs 8j+1589:FGLRXY^chnstyrY!"#$&'(),-./0123467;<=>?@ABCDEHIJKMNOSTUVWZ[\]_`abdefijklmopqruvwxz{|~ÄÅÇÑÖxÇ#(/16;@HJMVZ_adlouwzÄÅê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_09.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_10.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_11.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsÛ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_12.cs 8j#'*+,8=CDJOTr; !"#$%&()-./012345679:;<>?@EFGHIKLMNPQRSUVWYZ[\^_xÇ!#(-29;>HKPRU[ê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_13.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsê
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_14.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsô
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_15.cs 8
+j$(+,-89?ELMQW\cghnrO !"#$%&')*./01234567:;<=>@ABFGHIJKNOPRSTUVXYZ]^_`abdefijklmopqstuvwyzxÇ!$).36:;=@INORSUX`deijlouvÍ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_16.cs 8j
+#'*+,9?EKr5 !"#$%&()-./012345678:;<@ABCDFGHIJLMNPQRSUVxÇ!#(-257:CFGILRÁ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_17.cs 8j!%()*7>?CIr3 !"#$&'+,-./012345689:;@ABDEFGHJKLMOPQRTUxÇ!&+0358DEGJQ 
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_21.cs$ 8j(269:;GHNX`jkpv~àçéru!"#$%&')*+-./01234578<=>?@ABCDEFIJKLOPRSTUVYZ[\]^_abcefghilmnoqrstwxyz{|}ÄÅÉÑÖÜáâäãåèêëíîïxÇ!$%&)027<AIKTU\]^ahlqsz{|Üâèë‰
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHIL˙
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_22b.cs 8j#'*+,89AGHMSY^_r> !"#$%&()-./01234567:;<=BCDEFIJKLNOPQTUVWXZ[\]`abcefxÇ!#(-2:<EINPWZ`bÓ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_31.cs 8j
+$(+,-<HNVr; !"#$%&')*./0123456789:;=>?@CDEFIJKLMOPQRSTUWXYZ\]xÇ$).36:=EOPTWÁ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_41.cs 8j	!)-012HMQr5 "#$&'()*+,./3456789:;<?@ABDEFGIJKNOPRSTVWxÇ").38;AFIRSÏ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_42.cs 8j
+ $'()5;DIOr7 !"#%&*+,-./01236789:<=>ABCEFGJKLMNPQRTUVWYZxÇ %*/289<EFLMPV
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_45.cs 8j
+&+/3678PUYr;!"#$%'(),-./012459:;<=>?@ABCFGHIKLMNOQRSVWXZ[\]_`xÇ$'/49>ABHNQZ[\‘
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_51a.cs 8j $'();?r' !"#%&*+,-./01236789<=>@ABDExÇ %*/28@Aº
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_51b.cs 8j%*r !&'()+,-/0xÇ(+‘
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_52a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_52b.cs 8j"r#$%&()Ç%º
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_52c.cs 8j&+r !"'()*,-.01xÇ ),‘
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_53a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_53b.cs 8j"r#$%&()Ç%∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_53c.cs 8j"r#$%&()Ç%º
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_53d.cs 8j&+r !"'()*,-.01xÇ ),‘
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_54a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_54b.cs 8j"r#$%&()Ç%∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_54c.cs 8j"r#$%&()Ç%∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_54d.cs 8j"r#$%&()Ç%º
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_54e.cs 8j&+r !"'()*,-.01xÇ ),≈
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2œ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_61b.cs
+ 8j!%()*8<r# !"#$&'+,-./012349:;=>?ABxÇ!&+03=>⁄
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_66a.cs 8j!%()*>Br+ !"#$&'+,-./01234569:;<?@ACDEFGIJxÇ
+!&+045;CEFæ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_66b.cs 8j '-r!"#()*+,./023xÇ!+.ﬁ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_67a.cs 8j&*-./CGr/ !#$%&'()+,0123456789:;>?@ADEFHIJKLNOxÇ
+&+059:@HJK¿
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_67b.cs 8j '-r!"#()*+,./023xÇ!*+.”
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_68a.cs	 8j!%()*<?r& !"#$&'+,-./01234789:=>@ABDExÇ!&+039@A¿
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_68b.cs 8j&,r !"'()*+-./12xÇ )*-‘
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_71a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039ABæ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/„
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_72a.cs 8j!%()*@Dr0 !"#$&'+,-./012345678;<=>ABCEFGHIJKMNxÇ!&+04567=EGHIJø
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/„
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_73a.cs 8j"&)*+AEr0 !"#$%'(,-./0123456789<=>?BCDFGHIJKLNOxÇ"',15678>FHIJK¡
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/„
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_74a.cs 8j!%()*@Dr0 !"#$&'+,-./012345678;<=>ABCEFGHIJKMNxÇ!&+04567=EGHIJø
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/¸
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_75a.cs 8j	"&)*+4LPRrE !"#$%'(,-./012356789:;<=>?@ABCDGHIJMNOQSTUVWXYZ[\]^_`abdexÇ"',19;<>BIQWYZ\`Á
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM÷
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_81a.cs 8j!%()*=Ar) !"#$&'+,-./01234589:;>?@BCDEGHxÇ!&+04:BD¥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_81_bad.cs 8j r!"#$%xÇ!ü
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_81_base.csr
+∏
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_File_81_goodG2B.cs 8j r!"#$%xÇ!‡
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_01.cs 8j !&,7;?r& "#$%'()*+-./234589:<=>@ABDExÇ
+ #$'*-4<=@í
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_02.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijí
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_03.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijó
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_04.cs 8j#)*/67<BHINSX^cdirG !$%&'()+,-.01234589:;=>?CDEFGJKLMOPQRTUVYZ[\]_`abefghjklnopqrtuxÇ'),-08:=FJOQT\_egjpqó
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_05.cs 8j#)*/67<BHINSX^cdirG !$%&'()+,-.01234589:;=>?CDEFGJKLMOPQRTUVYZ[\]_`abefghjklnopqrtuxÇ'),-08:=FJOQT\_egjpqñ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_06.cs 8j"().56;AGHMRW]bchrF #$%&'(*+,-/01234789:<=>BCDEFIJKLNOPQSTUXYZ[\^_`adefgijkmnopqstxÇ&(+,/79<EINPS[^dfiopñ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_07.cs 8j"().56;AGHMRW]bchrF #$%&'(*+,-/01234789:<=>BCDEFIJKLNOPQSTUXYZ[\^_`adefgijkmnopqstxÇ&(+,/79<EINPS[^dfiopü
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_08.cs 8j*016=>CIOPUZ_ejkprM !"#%&'(+,-./02345789:;<?@ABDEFJKLMNQRSTVWXY[\]`abcdfghilmnoqrsuvwxy{|xÇ"'.0347?ADMQVX[cflnqwxí
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_09.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijí
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_10.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijí
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_11.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijı
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_12.cs 8j"#(/4:;AFKr4 !"$%&')*+,-.0123567<=>?@BCDEGHIJLMNPQRSUVxÇ "%&)025?BGILRí
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_13.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijí
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_14.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijõ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_15.cs 8j#$)/06<CDHNSZ^_erH !"#%&'(*+,-.12345789=>?@ABEFGIJKLMOPQTUVWXY[\]`abcdfghjklmnpqxÇ #&'*-1247@EFIJLOW[\`acflmÏ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_16.cs 8j"#(06<Br. !"$%&')*+,-./123789:;=>?@ACDEGHIJLMxÇ "%&),.1:=>@CIÈ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_17.cs 8j	 !&.56:@r, "#$%'()*+,-/012789;<=>?ABCDFGHIKLxÇ #$'*,/;<>AH√
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_21.cs# 8j'127>?EOWabgmuÑÖrg !"#$%&()*,-./01345689:;<=@ABCFGIJKLMPQRSTUVXYZ\]^_`cdefhijknopqrstvwxz{|}~ÄÅÇÉÜáàâãåxÇ #$%(/1458@BKLSTUX_chjqrsv}ÄÜàÔ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHIL¸
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_22b.cs 8j"#(/08>?DJPUVr7 !"$%&')*+,-.12349:;<=@ABCEFGHKLMNOQRSTWXYZ\]xÇ "%&)13<@EGNQWY
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_31.cs 8j#$)3?EMr4 !"#%&'(*+,-./0124567:;<=@ABCDFGHIJKLNOPQSTxÇ#&'*-14<FGKNÈ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_41.cs 8j ().?DHr.!"#%&'(*+,-/01236789;<=>@ABEFGIJKMNxÇ!(+,/28=@IJÓ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_42.cs 8j %,2;@Fr0!"#$&'()*-./0134589:<=>ABCDEGHIKLMNPQxÇ"#&)/03<=CDGMÚ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_45.cs 8j%*./4GLPr4 !"#$&'(+,-.012356789:=>?@BCDEFHIJMNOQRSTVWxÇ#&.12589?EHQRS÷
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_51a.cs
+ 8j %26r !"#$&'()*-./0345789;<xÇ"#&)/78«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_51b.cs 8j%*r !&'()+,-/0xÇ(+÷
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_52a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_52b.cs 8j"r#$%&()Ç%«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_52c.cs 8j&+r !"'()*,-.01xÇ ),÷
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_53a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_53b.cs 8j"r#$%&()Ç%ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_53c.cs 8j"r#$%&()Ç%«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_53d.cs 8j&+r !"'()*,-.01xÇ ),÷
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_54a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_54b.cs 8j"r#$%&()Ç%ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_54c.cs 8j"r#$%&()Ç%ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_54d.cs 8j"r#$%&()Ç%«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_54e.cs 8j&+r !"'()*,-.01xÇ ),–
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2—
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_61b.cs	 8j !&/3r "#$%'()*+01245689xÇ #$'*45‹
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_66a.cs 8j !&59r$ "#$%'()*+,-0123678:;<=>@AxÇ
+ #$'+,2:<=…
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_66b.cs 8j '-r!"#()*+,./023xÇ!+.‡
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_67a.cs 8j%&+:>r( "#$%'()*,-./0125678;<=?@ABCEFxÇ
+%(),017?ABÀ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_67b.cs 8j '-r!"#()*+,./023xÇ!*+.’
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_68a.cs 8j !&36r "#$%'()*+./0145789;<xÇ #$'*078À
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_68b.cs 8j&,r !"'()*+-./12xÇ )*-÷
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_71a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089…
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Â
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_72a.cs 8j !&7;r) "#$%'()*+,-./234589:<=>?@ABDExÇ #$'+,-.4<>?@A 
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Â
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_73a.cs 8j!"'8<r) !#$%&()*+,-./034569:;=>?@ABCEFxÇ!$%(,-./5=?@ABÃ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Â
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_74a.cs 8j !&7;r) "#$%'()*+,-./234589:<=>?@ABDExÇ #$'+,-.4<>?@A 
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/ˇ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_75a.cs 8j"#(,DHJr? !"$%&')*+-./0123456789:;<?@ABEFGIKLMNOPQRSTUVWXYZ\]xÇ"%&)1346:AIOQRTXÚ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHMÿ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_81a.cs 8j !&48r" "#$%'()*+,/0125679:;<>?xÇ #$'+19;ø
+òC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_81_bad.cs 8j r!"#$%xÇ!™
+ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_81_base.csr
+√
+úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Get_Cookies_Web_81_goodG2B.cs 8j r!"#$%xÇ!ˇ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_01.cs 8j	#$-0JUY]rC !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIKLMPQRSVWXZ[\^_`bcxÇ#)*+.17;?CHKRZ[^ø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_02.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáàø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_03.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~ÅáàÕ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_04.cs  8j !&,-69TUZ`fglqv|ÅÇárs#$'()*+,./01234578:;<=>?@ABCDEFGHIJKLMNOPQRSVWXY[\]abcdehijkmnoprstwxyz{}~ÄÉÑÖÜàâäåçéèêíìxÇ*,2347:@DHLVX[dhmorz}ÉÖàéèÕ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_05.cs  8j !&,-69TUZ`fglqv|ÅÇárs#$'()*+,./01234578:;<=>?@ABCDEFGHIJKLMNOPQRSVWXY[\]abcdehijkmnoprstwxyz{}~ÄÉÑÖÜàâäåçéèêíìxÇ*,2347:@DHLVX[dhmorz}ÉÖàéèÀ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_06.cs  8j !%+,58STY_efkpu{ÄÅÜrq#&'()*+-./01234679:;<=>?@ABCDEFGHIJKLMNOPQRUVWXZ[\`abcdghijlmnoqrsvwxyz|}~ÇÉÑÖáàâãåçéèëíxÇ)+12369?CGKUWZcglnqy|ÇÑáçéÀ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_07.cs  8j !%+,58STY_efkpu{ÄÅÜrq#&'()*+-./01234679:;<=>?@ABCDEFGHIJKLMNOPQRUVWXZ[\`abcdghijlmnoqrsvwxyz|}~ÇÉÑÖáàâãåçéèëíxÇ)+12369?CGKUWZcglnqy|ÇÑáçéﬁ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_08.cs" 8j !-34=@[\agmnsx}Éàâér#$%&()*+./012356789:;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZ]^_`bcdhijklopqrtuvwyz{~ÄÅÇÑÖÜáäãåçèêëìîïñóôöxÇ#%*139:;>AGKOS]_bkotvyÅÑäåèïñø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_09.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáàø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_10.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáàø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_11.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáàî
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_12.cs 8j%&/2MRXY_dirQ !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLNOPQSTUZ[\]^`abcefghjklnopqstxÇ#%+,-039=AENPS]`egjpø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_13.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáàø
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_14.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~ÅáàÃ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_15.cs& 8j&'03MNTZabflqx|}Érr !"#$%&()*+,-./12456789:;<=>?@ABCDEFGHIJKLOPQRSUVW[\]^_`cdeghijkmnorstuvwyz{~ÄÅÇÑÖÜàâäãåéèxÇ$#&,-.14:>BFKOPRU^cdghjmuyz~ÅÑäãã
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_16.cs 8j	%&/2NTZ`rK !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLMOPQUVWXY[\]^_abcefghjkxÇ#%+,-039=AEJLOX[\^agà
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_17.cs 8j
+#$-0LSTX^rI !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKMNOPUVWYZ[\]_`abdefgijx
+Ç#)*+.17;?CHJMYZ\_fá
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_21.cs, 8j *45>A\]cmuÄÖãìù¢£rõ!#$%&'()+,-/012346789:;<=?@BCDEFGHIJKLMNOPQRSTUVWXYZ[^_`adeghijknopqrstvwxz{|}~ÅÇÉÑÜáàâåçéèêëíîïñòôöõúûü†°§•¶ß©™xÇ.&'(+24:;<?BHLPT^`ijqrsv}ÅÜàèêëîõû§¶Í
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILõ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_22b.cs 8j%&/2MNV\]bhnstrT !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRWXYZ[^_`acdefijklmopqruvwxz{xÇ#%+,-039=AEOQZ^celouwè
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_31.cs 8j	 &'03Q]ckrQ!"#$%&()*+,-./12456789:;<=>?@ABCDEFGHIJKLMNOPRSTUXYZ[^_`abdefghijlmnoqrxÇ&,-.14:>BFKORZdeilà
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_41.cs 8j#+,58]bfrK !"$%&()*+-./01234679:;<=>?@ABCDEFGHIJKLMNOPQTUVWYZ[\^_`cdeghiklxÇ!$+12369?CGKPV[^ghç
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_42.cs 8j	"#,/JPY^drM !"$%&'()*+-.0123456789:;<=>?@ABCDEFGHKLMNOQRSVWXZ[\_`abcefgijklnoxÇ"()*-06:>BGMNQZ[abekë
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_45.cs 8j	(-12;>ejnrQ !#$%&')*+./013456789:<=?@ABCDEFGHIJKLMNOPQRSTUVWX[\]^`abcdfghklmopqrtuxÇ&)1789<?EIMQVW]cfopqı
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_51a.cs 8j"#,/PTr= !"$%&'()*+-.0123456789:;<=>?@ABCDEFGHKLMNQRSUVWYZxÇ"()*-06:>BGMUV¬
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_51b.cs 8j%*r !&'()+,-/0xÇ(+ı
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_52a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVW∂
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_52b.cs 8j"r#$%&()Ç%¬
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_52c.cs 8j&+r !"'()*,-.01xÇ ),ı
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_53a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVW∂
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_53b.cs 8j"r#$%&()Ç%∂
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_53c.cs 8j"r#$%&()Ç%¬
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_53d.cs 8j&+r !"'()*,-.01xÇ ),ı
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_54a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVW∂
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_54b.cs 8j"r#$%&()Ç%∂
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_54c.cs 8j"r#$%&()Ç%∂
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_54d.cs 8j"r#$%&()Ç%¬
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_54e.cs 8j&+r !"'()*,-.01xÇ ),À
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_61b.cs 8j#$-0MQr9 !"#%&'()*+,./123456789:;<=>?@ABCDEFGHINOPRSTVWxÇ#)*+.17;?CHRS˚
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_66a.cs 8j#$-0SWrA !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKNOPQTUVXYZ[\^_xÇ#)*+.17;?CIJPXZ[ƒ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_66b.cs 8j '-r!"#()*+,./023xÇ!+.ˇ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_67a.cs 8j()25X\rE !"#%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNOPSTUVYZ[]^_`acdxÇ(./036<@DHNOU]_`∆
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_67b.cs 8j '-r!"#()*+,./023xÇ!*+.Ù
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_68a.cs 8j#$-0QTr<!"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSUVWYZxÇ#)*+.17;?CHNUV∆
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_68b.cs 8j&,r !"'()*+-./12xÇ )*-ı
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_71a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVWƒ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ñ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_72a.cs 8j#$-0UYrF !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKLMPQRSVWXZ[\]^_`bcxÇ#)*+.17;?CIJKLRZ\]^_≈
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ñ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_73a.cs 8j$%.1VZrF!"#$&'()*+,-/023456789:;<=>?@ABCDEFGHIJKLMNQRSTWXY[\]^_`acdxÇ$*+,/28<@DJKLMS[]^_`«
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Ñ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_74a.cs 8j#$-0UYrF !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKLMPQRSVWXZ[\]^_`bcxÇ#)*+.17;?CIJKLRZ\]^_≈
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/ù
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_75a.cs! 8j$%.1Iaegr[!"#$&'()*+,-/023456789:;<=>?@ABCDEFGHJKLMNOPQRSTUVWXY\]^_bcdfhijklmnopqrstuvwyzxÇ$*+,/28<@DNPQSW^flnoquÌ
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM˜
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_81a.cs 8j#$-0RVr? !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJMNOPSTUWXYZ\]xÇ#)*+.17;?CIOWY∫
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_81_bad.cs 8j r!"#$%xÇ!•
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_81_base.csr
+æ
+óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Listen_tcp_81_goodG2B.cs 8j r!"#$%xÇ!Ë
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_01.cs 8j
+"#+,-9DHLr1 !"$%&'()*./012345678:;<?@ABEFGIJKMNOQRxÇ"').47:AIJMö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_02.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_03.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvw°
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_04.cs 8
+j %+,456CDIOUV[`ekpqvrT"#&'()*+-./0123789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+027=EGJSW\^ailrtw}~°
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_05.cs 8
+j %+,456CDIOUV[`ekpqvrT"#&'()*+-./0123789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+027=EGJSW\^ailrtw}~†
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_06.cs 8
+j $*+345BCHNTUZ_djopurS"%&'()*,-./0126789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*/16<DFIRV[]`hkqsv|}†
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_07.cs 8
+j $*+345BCHNTUZ_djopurS"%&'()*,-./0126789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*/16<DFIRV[]`hkqsv|}±
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_08.cs 8j ,23;<=JKPV\]bglrwx}r`"#$%'()*-./012456789:>?@ABCDEFGHILMNOQRSWXYZ[^_`acdefhijmnopqstuvyz{|~ÄÇÉÑÖÜàâxÇ$)0279>DLNQZ^cehpsy{~ÑÖö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_09.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_10.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_11.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvw˝
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_12.cs 8j$%-./<AGHNSXr? !"#$&'()*+,0123456789:;=>?@BCDIJKLMOPQRTUVWYZ[]^_`bcxÇ"$)+06=?BLOTVY_ö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_13.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwö
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_14.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvw£
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_15.cs 8
+j%&./0<=CIPQU[`gklrrS !"#$%'()*+,-123456789:;>?@ABDEFJKLMNORSTVWXYZ\]^abcdefhijmnopqstuwxyz{}~xÇ"%*,17:>?ADMRSVWY\dhimnpsyzÙ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_16.cs 8j
+$%-./=CIOr9 !"#$&'()*+,0123456789:;<>?@DEFGHJKLMNPQRTUVWYZxÇ"$)+069;>GJKMPVÒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_17.cs 8j"#+,-;BCGMr7 !"$%&'()*./0123456789:<=>?DEFHIJKLNOPQSTUVXYxÇ"').479<HIKNU⁄
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_21.cs% 8j)34<=>KLR\dnotzÇåëír| "#$%&'(*+,./012356789:;?@ABCDEFGHIJMNOPSTVWXYZ]^_`abcefgijklmpqrsuvwx{|}~ÄÅÉÑÖáàâäãçéèêìîïñòôxÇ$%&'*138:?EMOXY`abelpuw~ÄÉäçìïÈ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILÑ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_22b.cs 8j$%-./<=EKLQW]bcrB !"#$&'()*+,0123456789:;>?@AFGHIJMNOPRSTUXYZ[\^_`adefgijxÇ"$)+06>@IMRT[^df¯
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_31.cs 8j
+%&./0@LRZr? !"#$%'()*+,-123456789:;<=>?ABCDGHIJMNOPQSTUVWXY[\]^`axÇ%*,17:>AISTX[Ò
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_41.cs 8j	"*+345LQUr9 !#$%'()*,-./0126789:;<=>?@CDEFHIJKMNORSTVWXZ[xÇ #*/16<?EJMVWˆ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_42.cs 8j
+!"*+,9?HMSr; !#$%&'()-./01234567:;<=>@ABEFGIJKNOPQRTUVXYZ[]^xÇ!&(-36<=@IJPQTZ˙
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_45.cs 8j
+',019:;TY]r? "#$%&()*-./02345678<=>?@ABCDEFGJKLMOPQRSUVWZ[\^_`acdxÇ%(057<BEFLRU^_`ﬁ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_51a.cs 8j!"*+,?Cr+ !#$%&'()-./01234567:;<=@ABDEFHIxÇ	!&(-36<DE¡
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_51b.cs 8j%*r !&'()+,-/0xÇ(+ﬁ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_52a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFµ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_52b.cs 8j"r#$%&()Ç%¡
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_52c.cs 8j&+r !"'()*,-.01xÇ ),ﬁ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_53a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFµ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_53b.cs 8j"r#$%&()Ç%µ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_53c.cs 8j"r#$%&()Ç%¡
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_53d.cs 8j&+r !"'()*,-.01xÇ ),ﬁ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_54a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFµ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_54b.cs 8j"r#$%&()Ç%µ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_54c.cs 8j"r#$%&()Ç%µ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_54d.cs 8j"r#$%&()Ç%¡
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_54e.cs 8j&+r !"'()*,-.01xÇ ), 
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2Ÿ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_61b.cs 8j"#+,-<@r' !"$%&'()*./012345678=>?ABCEFxÇ"').47AB‰
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_66a.cs 8j"#+,-BFr/ !"$%&'()*./0123456789:=>?@CDEGHIJKMNxÇ"').489?GIJ√
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_66b.cs 8j '-r!"#()*+,./023xÇ!+.Ë
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_67a.cs 8j'(012GKr3 !"$%&')*+,-./3456789:;<=>?BCDEHIJLMNOPRSxÇ',.39=>DLNO≈
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_67b.cs 8j '-r!"#()*+,./023xÇ!*+.›
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_68a.cs
+ 8j"#+,-@Cr* !"$%&'()*./012345678;<=>ABDEFHIxÇ	"').47=DE≈
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_68b.cs 8j&,r !"'()*+-./12xÇ )*-ﬁ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_71a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EF√
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ì
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_72a.cs 8j"#+,-DHr4 !"$%&'()*./0123456789:;<?@ABEFGIJKLMNOQRxÇ"').489:;AIKLMNƒ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ì
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_73a.cs 8j#$,-.EIr4 !"#%&'()*+/0123456789:;<=@ABCFGHJKLMNOPRSxÇ#(*/59:;<BJLMNO∆
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Ì
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_74a.cs 8j"#+,-DHr4 !"$%&'()*./0123456789:;<?@ABEFGIJKLMNOQRxÇ"').489:;AIKLMNƒ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ü
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_75a.cs 8j	#$,-.8PTVrI !"#%&'()*+/012345679:;<=>?@ABCDEFGHKLMNQRSUWXYZ[\]^_`abcdefhixÇ#(*/5=?@BFMU[]^`dÏ
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM‡
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_81a.cs 8j"#+,-AEr- !"$%&'()*./0123456789<=>?BCDFGHIKLxÇ	"').48>FHπ
+íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_81_bad.cs 8j r!"#$%xÇ!§
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_81_base.csr
+Ω
+ñC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_NetClient_81_goodG2B.cs 8j r!"#$%xÇ!”
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_01.cs	 8j $/37r!"#%&'*+,-01245689:<=xÇ!"%,458Ö
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_02.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abÖ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_03.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abä
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_04.cs 8
+j#)./4:@AFKPV[\ar@ !$%&'(*+,-0123567;<=>?BCDEGHIJLMNQRSTUWXYZ]^_`bcdfghijlmx	Ç'*025>BGILTW]_bhiä
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_05.cs 8
+j#)./4:@AFKPV[\ar@ !$%&'(*+,-0123567;<=>?BCDEGHIJLMNQRSTUWXYZ]^_`bcdfghijlmx	Ç'*025>BGILTW]_bhiâ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_06.cs 8
+j"(-.39?@EJOUZ[`r? #$%&')*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklx	Ç&)/14=AFHKSV\^aghâ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_07.cs 8
+j"(-.39?@EJOUZ[`r? #$%&')*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklx	Ç&)/14=AFHKSV\^aghí
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_08.cs 8j*056;AGHMRW]bchrF !"#%&'(+,-./1234789:<=>BCDEFIJKLNOPQSTUXYZ[\^_`adefgijkmnopqstx	Ç"'.179<EINPS[^dfiopÖ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_09.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abÖ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_10.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abÖ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_11.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abË
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_12.cs 8j	"',239>Cr- !#$%&()*+-./45678:;<=?@ABDEFHIJKMNxÇ #(*-7:?ADJÖ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_13.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abÖ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_14.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abé
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_15.cs 8
+j#'(.4;<@FKRVW]rA !"$%&)*+,-/0156789:=>?ABCDEGHILMNOPQSTUXYZ[\^_`bcdefhixÇ $%)*,/8=>ABDGOSTXY[^deﬂ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_16.cs 8j"(.4:r' !#$%&')*+/012356789;<=?@ABDExÇ #$&)2568;A‹
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_17.cs 8j &-.28r%!"#$%'()*/01345679:;<>?@ACDxÇ	!"$'3469@¨
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_21.cs  8j'167=GOYZ_emw|}rZ !"#$%&()*,-./0234589:;>?ABCDEHIJKLMNPQRTUVWX[\]^`abcfghijklnoprstuvxyz{~ÄÅÉÑx	Ç#$%(/28:CDKLMPW[`bijknux~ÄÓ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILÔ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_22b.cs 8j"'(067<BHMNr0 !#$%&)*+,1234589:;=>?@CDEFGIJKLOPQRTUxÇ #)+48=?FIOQ„
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_31.cs 8j#+7=Er- !"$%&'()*,-./234589:;<>?@ABCDFGHIKLxÇ	$%),4>?CF‹
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_41.cs 8j (7<@r'!"#%&')*+./01345689:=>?ABCEFxÇ	!)*058AB·
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_42.cs 8j$*38>r) !"%&'()+,-0124569:;<=?@ACDEFHIxÇ !'(+45;<?EÂ
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_45.cs 8j%*.?DHr- !"#$&'(+,-/0125678:;<=>@ABEFGIJKLNOxÇ#&/017=@IJK«
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_51a.cs 8j*.r !"%&'(+,-/0134Ç !'/0∆
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_51b.cs 8j%*r !&'()+,-/0xÇ(+«
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_52a.cs 8j +/r!"#&'(),-.01245Ç!"(01∫
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_52b.cs 8j"r#$%&()Ç%∆
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_52c.cs 8j&+r !"'()*,-.01xÇ ),«
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_53a.cs 8j +/r!"#&'(),-.01245Ç!"(01∫
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_53b.cs 8j"r#$%&()Ç%∫
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_53c.cs 8j"r#$%&()Ç%∆
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_53d.cs 8j&+r !"'()*,-.01xÇ ),«
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_54a.cs 8j +/r!"#&'(),-.01245Ç!"(01∫
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_54b.cs 8j"r#$%&()Ç%∫
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_54c.cs 8j"r#$%&()Ç%∫
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_54d.cs 8j"r#$%&()Ç%∆
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_54e.cs 8j&+r !"'()*,-.01xÇ ),œ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2¬
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_61b.cs 8j '+r!"#()*,-.01Ç!",-Õ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_66a.cs 8j -1r!"#$%()*+./02345689Ç!#$*245»
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_66b.cs 8j '-r!"#()*+,./023xÇ!+.—
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_67a.cs 8j%26r! "#$&'()*-./0345789:;=>Ç&()/79: 
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_67b.cs 8j '-r!"#()*+,./023xÇ!*+.∆
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_68a.cs 8j +.r!"#&'(),-/0134Ç!"(/0 
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_68b.cs 8j&,r !"'()*+-./12xÇ )*-«
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_71a.cs 8j +/r!"#&'(),-.01245Ç!"(01»
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/÷
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_72a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789…
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/÷
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_73a.cs 8j!04r" "#$%&'(+,-.12356789:;=>Ç"$%&'-5789:À
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/÷
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_74a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789…
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ú
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_75a.cs 8j"$<@Br8 !#%&'()*+,-./01234789:=>?ACDEFGHIJKLMNOPQRTUxÇ#)+,.29AGIJLPÒ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM…
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_81a.cs	 8j ,0r!"#$'()*-./123467Ç!#)13æ
+óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_81_bad.cs 8j r!"#$%xÇ!©
+òC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_81_base.csr
+¬
+õC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_Params_Get_Web_81_goodG2B.cs 8j r!"#$%xÇ!›
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_01.cs 8j !*59=r% "#$%&'()+,-0123678:;<>?@BCxÇ	 #%(+2:;>è
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_02.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghè
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_03.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghî
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_04.cs 8j#)*45:@FGLQV\abgrF !$%&'()+,-./01236789;<=ABCDEHIJKMNOPRSTWXYZ[]^_`cdefhijlmnoprsxÇ'),.68;DHMORZ]cehnoî
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_05.cs 8j#)*45:@FGLQV\abgrF !$%&'()+,-./01236789;<=ABCDEHIJKMNOPRSTWXYZ[]^_`cdefhijlmnoprsxÇ'),.68;DHMORZ]cehnoì
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_06.cs 8j"()349?EFKPU[`afrE #$%&'(*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ&(+-57:CGLNQY\bdgmnì
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_07.cs 8j"()349?EFKPU[`afrE #$%&'(*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ&(+-57:CGLNQY\bdgmnú
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_08.cs 8j*01;<AGMNSX]chinrL !"#%&'(+,-./023456789:=>?@BCDHIJKLOPQRTUVWYZ[^_`abdefgjklmopqstuvwyzxÇ"'.035=?BKOTVYadjlouvè
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_09.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghè
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_10.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghè
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_11.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghÚ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_12.cs 8j
+"#-289?DIr3 !"$%&'()*+,./01345:;<=>@ABCEFGHJKLNOPQSTxÇ "%'.03=@EGJPè
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_13.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghè
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_14.cs 8j"#-.39?@EJOUZ[`rD !"$%&'()*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklxÇ "%'/14=AFHKSV\^aghò
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_15.cs 8j#$-.4:ABFLQX\]crG !"#%&'()*+,/0123567;<=>?@CDEGHIJKMNORSTUVWYZ[^_`abdefhijklnoxÇ #&(+/025>CDGHJMUYZ^_adjkÈ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_16.cs 8j"#.4:@r- !"$%&'()*+,-/0156789;<=>?ABCEFGHJKxÇ "%'*,/8;<>AGÊ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_17.cs 8j !,348>r+ "#$%&'()*+-./05679:;<=?@ABDEFGIJxÇ #%(*-9:<?FΩ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_21.cs" 8j'12<=CMU_`eks}ÇÉrd !"#$%&()*,-./013456789:;>?@ADEGHIJKNOPQRSTVWXZ[\]^abcdfghilmnopqrtuvxyz{|~ÄÅÑÖÜáâäxÇ#$%(/146>@IJQRSV]afhopqt{~ÑÜÔ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHIL˘
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_22b.cs 8j"#-.6<=BHNSTr6 !"$%&'()*+,/012789:;>?@ACDEFIJKLMOPQRUVWXZ[xÇ "%'/1:>CELOUWÌ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_31.cs 8j#$1=CKr3 !"#%&'()*+,-./0234589:;>?@ABDEFGHIJLMNOQRxÇ#&(+/2:DEILÊ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_41.cs 8j ()=BFr-!"#%&'(*+,-./0145679:;<>?@CDEGHIKLxÇ!(+-06;>GHÎ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_42.cs 8j *09>Dr/!"#$%&'(+,-./123678:;<?@ABCEFGIJKLNOxÇ"$'-.1:;ABEKÔ
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_45.cs 8j%*./EJNr3 !"#$&'(+,-.012345678;<=>@ABCDFGHKLMOPQRTUxÇ#&.1367=CFOPQ”
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_51a.cs	 8j 04r!"#$%&'(+,-.1235679:xÇ"$'-56«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_51b.cs 8j%*r !&'()+,-/0xÇ(+”
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_52a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_52b.cs 8j"r#$%&()Ç%«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_52c.cs 8j&+r !"'()*,-.01xÇ ),”
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_53a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_53b.cs 8j"r#$%&()Ç%ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_53c.cs 8j"r#$%&()Ç%«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_53d.cs 8j&+r !"'()*,-.01xÇ ),”
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_54a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_54b.cs 8j"r#$%&()Ç%ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_54c.cs 8j"r#$%&()Ç%ª
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_54d.cs 8j"r#$%&()Ç%«
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_54e.cs 8j&+r !"'()*,-.01xÇ ),–
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2Œ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_61b.cs 8j !-1r "#$%&'()./023467xÇ #%(23Ÿ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_66a.cs 8j !37r# "#$%&'()*+./0145689:;<>?xÇ	 #%)*08:;…
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_66b.cs 8j '-r!"#()*+,./023xÇ!+.›
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_67a.cs 8j%&8<r' "#$%'()*+,-./034569:;=>?@ACDxÇ	%(*./5=?@À
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_67b.cs 8j '-r!"#()*+,./023xÇ!*+.“
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_68a.cs 8j !14r "#$%&'(),-./235679:xÇ #%(.56À
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_68b.cs 8j&,r !"'()*+-./12xÇ )*-”
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_71a.cs	 8j !15r "#$%&'(),-./234678:;xÇ #%(.67…
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/‚
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_72a.cs 8j !59r( "#$%&'()*+,-0123678:;<=>?@BCxÇ #%)*+,2:<=>? 
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/‚
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_73a.cs 8j!"6:r( !#$%&'()*+,-.1234789;<=>?@ACDxÇ!$&*+,-3;=>?@Ã
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/‚
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_74a.cs 8j !59r( "#$%&'()*+,-0123678:;<=>?@BCxÇ #%)*+,2:<=>? 
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/¸
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_75a.cs 8j"#*BFHr> !"$%&'()+,-./0123456789:=>?@CDEGIJKLMNOPQRSTUVWXZ[xÇ"%'/1248?GMOPRVÚ
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM’
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_81a.cs 8j !26r! "#$%&'()*-./0345789:<=xÇ #%)/79ø
+òC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_81_bad.cs 8j r!"#$%xÇ!™
+ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_81_base.csr
+√
+úC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_QueryString_Web_81_goodG2B.cs 8j r!"#$%xÇ!‹
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_01.cs 8j!#&0;?Cr* !"$%'()*+,-./1236789<=>@ABDEFHIxÇ	!'+.18@ADé
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_02.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmné
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_03.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmnì
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_04.cs 8
+j$*,/:;@FLMRW\bghmrK!"%&'()*+-.0123456789<=>?ABCGHIJKNOPQSTUVXYZ]^_`acdefijklnoprstuvxyxÇ(*04<>AJNSUX`cikntuì
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_05.cs 8
+j$*,/:;@FLMRW\bghmrK!"%&'()*+-.0123456789<=>?ABCGHIJKNOPQSTUVXYZ]^_`acdefijklnoprstuvxyxÇ(*04<>AJNSUX`cikntuí
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_06.cs 8
+j#)+.9:?EKLQV[afglrJ!$%&'()*,-/012345678;<=>@ABFGHIJMNOPRSTUWXY\]^_`bcdehijkmnoqrstuwxxÇ')/3;=@IMRTW_bhjmstí
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_07.cs 8
+j#)+.9:?EKLQV[afglrJ!$%&'()*,-/012345678;<=>@ABFGHIJMNOPRSTUWXY\]^_`bcdehijkmnoqrstuwxxÇ')/3;=@IMRTW_bhjmstú
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_08.cs 8j+136ABGMSTY^cinotrR!"#$&'(),-./01245789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ#(/17;CEHQUZ\_gjpru{|é
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_09.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmné
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_10.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmné
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_11.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmnÒ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_12.cs 8j#%(38>?EJOr8 !"#$&')*+,-./01245679:;@ABCDFGHIKLMNPQRTUVWYZxÇ!#)-469CFKMPVé
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_13.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmné
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_14.cs 8
+j#%(349?EFKPU[`afrI !"#$&')*+,-./0125678:;<@ABCDGHIJLMNOQRSVWXYZ\]^_bcdeghiklmnoqrxÇ!#)-57:CGLNQY\bdgmnó
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_15.cs 8
+j$&)34:@GHLRW^bcirL !"#$%'(*+,-./01256789;<=ABCDEFIJKMNOPQSTUXYZ[\]_`adefghjklnopqrtuxÇ!$*.1568;DIJMNPS[_`degjpqË
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_16.cs 8j#%(4:@Fr2 !"#$&')*+,-./0123567;<=>?ABCDEGHIKLMNPQxÇ!#)-025>ABDGMÂ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_17.cs 8j	!#&29:>Dr0 !"$%'()*+,-./013456;<=?@ABCEFGHJKLMOPxÇ!'+.03?@BELƒ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_21.cs# 8j(247BCIS[efkqyÉàârn!"#$%&')*+-./01235689:;<=>?@ADEFGJKMNOPQTUVWXYZ\]^`abcdghijlmnorstuvwxz{|~ÄÅÇÑÖÜáäãåçèêxÇ $%&)028<DFOPWXY\cglnuvwzÅÑäåË
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHIL¯
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_22b.cs 8j#%(34<BCHNTYZr; !"#$&')*+,-./0125678=>?@ADEFGIJKLOPQRSUVWX[\]^`axÇ!#)-57@DIKRU[]Ï
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_31.cs 8j$&)7CIQr8 !"#$%'(*+,-./012345689:;>?@ADEFGHJKLMNOPRSTUWXxÇ$*.158@JKORÂ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_41.cs 8j!)+.CHLr2 "#$&'()*,-/01234567:;<=?@ABDEFIJKMNOQRxÇ")/36<ADMNÍ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_42.cs 8j "%06?DJr4 !#$&'()*+,-.12345789<=>@ABEFGHIKLMOPQRTUxÇ &*-347@AGHKQÓ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_45.cs 8j&+/14KPTr8!"#$%'(),-./02356789:;<=>ABCDFGHIJLMNQRSUVWXZ[xÇ$'/59<=CILUVW“
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_51a.cs
+ 8j "%6:r$ !#$&'()*+,-.1234789;<=?@xÇ &*-3;<¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_51b.cs 8j%*r !&'()+,-/0xÇ(+“
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_52a.cs
+ 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_52b.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_52c.cs 8j&+r !"'()*,-.01xÇ ),“
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_53a.cs
+ 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_53b.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_53c.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_53d.cs 8j&+r !"'()*,-.01xÇ ),“
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_54a.cs
+ 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_54b.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_54c.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_54d.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_54e.cs 8j&+r !"'()*,-.01xÇ ),…
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2Õ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_61b.cs	 8j!#&37r  !"$%'()*+,-./45689:<=xÇ!'+.89ÿ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_66a.cs 8j!#&9=r( !"$%'()*+,-./014567:;<>?@ABDExÇ	!'+/06>@A¬
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_66b.cs 8j '-r!"#()*+,./023xÇ!+.‹
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_67a.cs 8j&(+>Br, !#$%&')*,-./01234569:;<?@ACDEFGIJxÇ	&,045;CEFƒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_67b.cs 8j '-r!"#()*+,./023xÇ!*+.—
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_68a.cs 8j!#&7:r# !"$%'()*+,-./234589;<=?@xÇ!'+.4;<ƒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_68b.cs 8j&,r !"'()*+-./12xÇ )*-“
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_71a.cs
+ 8j!#&7;r$ !"$%'()*+,-./234589:<=>@AxÇ!'+.4<=¬
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/·
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_72a.cs 8j!#&;?r- !"$%'()*+,-./01236789<=>@ABCDEFHIxÇ!'+/0128@BCDE√
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/·
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_73a.cs 8j"$'<@r- !"#%&()*+,-./01234789:=>?ABCDEFGIJxÇ"(,01239ACDEF≈
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/·
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_74a.cs 8j!#&;?r- !"$%'()*+,-./01236789<=>@ABCDEFHIxÇ!'+/0128@BCDE√
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/˙
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_75a.cs 8j"$'/GKMrB !"#%&()*+,-.0123456789:;<=>?BCDEHIJLNOPQRSTUVWXYZ[\]_`xÇ"(,4679=DLRTUW[Î
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM‘
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_81a.cs 8j!#&8<r& !"$%'()*+,-./034569:;=>?@BCxÇ!'+/5=?∏
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_81_bad.cs 8j r!"#$%xÇ!£
+íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_81_base.csr
+º
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__CWE182_Web_ReadLine_81_goodG2B.cs 8j r!"#$%xÇ!„
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_01.cs 8j
+"#'*-9DHLr1 !"$%&()+,./012345678:;<?@ABEFGIJKMNOQRxÇ"(+.47:AIJMï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_02.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_03.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwú
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_04.cs 8
+j %+,036CDIOUV[`ekpqvrT"#&'()*+-./1245789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+147=EGJSW\^ailrtw}~ú
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_05.cs 8
+j %+,036CDIOUV[`ekpqvrT"#&'()*+-./1245789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+147=EGJSW\^ailrtw}~õ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_06.cs 8
+j $*+/25BCHNTUZ_djopurS"%&'()*,-.01346789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*036<DFIRV[]`hkqsv|}õ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_07.cs 8
+j $*+/25BCHNTUZ_djopurS"%&'()*,-.01346789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*036<DFIRV[]`hkqsv|}¨
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_08.cs 8j ,237:=JKPV\]bglrwx}r`"#$%'()*-./01245689;<>?@ABCDEFGHILMNOQRSWXYZ[^_`acdefhijmnopqstuvyz{|~ÄÇÉÑÖÜàâxÇ$)028;>DLNQZ^cehpsy{~ÑÖï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_09.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_10.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_11.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvw¯
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_12.cs 8j$%),/<AGHNSXr? !"#$&'(*+-.0123456789:;=>?@BCDIJKLMOPQRTUVWYZ[]^_`bcxÇ"$*-06=?BLOTVY_ï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_13.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_14.cs 8
+j$%),/<=BHNOTY^dijorP !"#$&'(*+-.0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$*-06>@CLPUWZbekmpvwû
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_15.cs 8
+j%&*-0<=CIPQU[`gklrrS !"#$%'()+,./123456789:;>?@ABDEFJKLMNORSTVWXYZ\]^abcdefhijmnopqstuwxyz{}~xÇ"%+.17:>?ADMRSVWY\dhimnpsyzÔ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_16.cs 8j
+$%),/=CIOr9 !"#$&'(*+-.0123456789:;<>?@DEFGHJKLMNPQRTUVWYZxÇ"$*-069;>GJKMPVÏ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_17.cs 8j"#'*-;BCGMr7 !"$%&()+,./0123456789:<=>?DEFHIJKLNOPQSTUVXYxÇ"(+.479<HIKNU’
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_21.cs% 8j)348;>KLR\dnotzÇåëír| "#$%&'(*+,./01235679:<=?@ABCDEFGHIJMNOPSTVWXYZ]^_`abcefgijklmpqrsuvwx{|}~ÄÅÉÑÖáàâäãçéèêìîïñòôxÇ$%&'*139<?EMOXY`abelpuw~ÄÉäçìï‰
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILˇ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_22b.cs 8j$%),/<=EKLQW]bcrB !"#$&'(*+-.0123456789:;>?@AFGHIJMNOPRSTUXYZ[\^_`adefgijxÇ"$*-06>@IMRT[^dfÛ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_31.cs 8j
+%&*-0@LRZr? !"#$%'()+,./123456789:;<=>?ABCDGHIJMNOPQSTUVWXY[\]^`axÇ%+.17:>AISTX[Ï
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_41.cs 8j	"*+/25LQUr9 !#$%'()*,-.01346789:;<=>?@CDEFHIJKMNORSTVWXZ[xÇ #*036<?EJMVWÒ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_42.cs 8j
+!"&),9?HMSr; !#$%'(*+-./01234567:;<=>@ABEFGIJKNOPQRTUVXYZ[]^xÇ!'*-36<=@IJPQTZı
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_45.cs 8j
+',0158;TY]r? "#$%&()*-./0234679:<=>?@ABCDEFGJKLMOPQRSUVWZ[\^_`acdxÇ%(069<BEFLRU^_`Ÿ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_51a.cs 8j!"&),?Cr+ !#$%'(*+-./01234567:;<=@ABDEFHIxÇ	!'*-36<DEº
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_51b.cs 8j%*r !&'()+,-/0xÇ(+Ÿ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_52a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_52b.cs 8j"r#$%&()Ç%º
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_52c.cs 8j&+r !"'()*,-.01xÇ ),Ÿ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_53a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_53b.cs 8j"r#$%&()Ç%∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_53c.cs 8j"r#$%&()Ç%º
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_53d.cs 8j&+r !"'()*,-.01xÇ ),Ÿ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_54a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EF∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_54b.cs 8j"r#$%&()Ç%∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_54c.cs 8j"r#$%&()Ç%∞
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_54d.cs 8j"r#$%&()Ç%º
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_54e.cs 8j&+r !"'()*,-.01xÇ ),≈
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2‘
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_61b.cs 8j"#'*-<@r' !"$%&()+,./012345678=>?ABCEFxÇ"(+.47ABﬂ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_66a.cs 8j"#'*-BFr/ !"$%&()+,./0123456789:=>?@CDEGHIJKMNxÇ"(+.489?GIJæ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_66b.cs 8j '-r!"#()*+,./023xÇ!+.„
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_67a.cs 8j'(,/2GKr3 !"$%&')*+-.013456789:;<=>?BCDEHIJLMNOPRSxÇ'-039=>DLNO¿
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_67b.cs 8j '-r!"#()*+,./023xÇ!*+.ÿ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_68a.cs
+ 8j"#'*-@Cr* !"$%&()+,./012345678;<=>ABDEFHIxÇ	"(+.47=DE¿
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_68b.cs 8j&,r !"'()*+-./12xÇ )*-Ÿ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_71a.cs 8j"#'*-@Dr+ !"$%&()+,./012345678;<=>ABCEFGIJxÇ	"(+.47=EFæ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ë
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_72a.cs 8j"#'*-DHr4 !"$%&()+,./0123456789:;<?@ABEFGIJKLMNOQRxÇ"(+.489:;AIKLMNø
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ë
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_73a.cs 8j#$(+.EIr4 !"#%&')*,-/0123456789:;<=@ABCFGHJKLMNOPRSxÇ#),/59:;<BJLMNO¡
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Ë
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_74a.cs 8j"#'*-DHr4 !"$%&()+,./0123456789:;<?@ABEFGIJKLMNOQRxÇ"(+.489:;AIKLMNø
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/Å
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_75a.cs 8j	#$(+.8PTVrI !"#%&')*,-/012345679:;<=>?@ABCDEFGHKLMNQRSUWXYZ[\]^_`abcdefhixÇ#),/5=?@BFMU[]^`dÁ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM€
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_81a.cs 8j"#'*-AEr- !"$%&()+,./0123456789<=>?BCDFGHIKLxÇ	"(+.48>FH¥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_81_bad.cs 8j r!"#$%xÇ!ü
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_81_base.csr
+∏
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Connect_tcp_81_goodG2B.cs 8j r!"#$%xÇ!È
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_01.cs 8j
+!"&*1>IMQr6 !#$%'()+,-./023456789:;<=?@ADEFGJKLNOPRSTVWxÇ!')+-./29<?FNORú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_02.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|ú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_03.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|©
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_04.cs 8
+j$*+/3:HINTZ[`ejpuv{r^!"%&'()*,-.012456789;<=>?@ABCDEFGJKLMOPQUVWXY\]^_abcdfghklmnoqrstwxyz|}~ÄÅÇÉÑÜáxÇ(*024678;BJLOX\acfnqwy|ÇÉ©
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_05.cs 8
+j$*+/3:HINTZ[`ejpuv{r^!"%&'()*,-.012456789;<=>?@ABCDEFGJKLMOPQUVWXY\]^_abcdfghklmnoqrstwxyz|}~ÄÅÇÉÑÜáxÇ(*024678;BJLOX\acfnqwy|ÇÉß
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_06.cs 8
+j#)*.29GHMSYZ_diotuzr\!$%&'()+,-/01345678:;<=>?@ABCDEFIJKLNOPTUVWX[\]^`abcefgjklmnpqrsvwxy{|}ÄÅÇÉÖÜxÇ')/13567:AIKNW[`bempvx{ÅÇß
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_07.cs 8
+j#)*.29GHMSYZ_diotuzr\!$%&'()+,-/01345678:;<=>?@ABCDEFIJKLNOPTUVWX[\]^`abcefgjklmnpqrsvwxy{|}ÄÅÇÉÖÜxÇ')/13567:AIKNW[`bempvx{ÅÇπ
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_08.cs 8j+126:AOPU[abglqw|}Çri!"#$&'(),-./01345789;<=>?@BCDEFGHIJKLMNQRSTVWX\]^_`cdefhijkmnorstuvxyz{~ÄÅÉÑÖáàâäãçéxÇ#(/179;=>?BIQSV_chjmux~ÄÉâäú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_09.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|ú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_10.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|ú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_11.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|˛
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_12.cs 8j#$(,3AFLMSX]rD !"#%&')*+-./012456789:;<=>?@BCDEGHINOPQRTUVWYZ[\^_`bcdeghxÇ!#)+-/014;BDGQTY[^dú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_13.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|ú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_14.cs 8
+j#$(,3ABGMSTY^cinotrV !"#%&')*+-./012456789:;<=>?@CDEFHIJNOPQRUVWXZ[\]_`adefghjklmpqrsuvwyz{|}ÄxÇ!#)+-/014;CEHQUZ\_gjpru{|ß
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_15.cs# 8
+j$%)-4ABHNUVZ`elpqwr[ !"#$&'(*+,./012356789:;<=>?@CDEFGIJKOPQRSTWXY[\]^_abcfghijkmnorstuvxyz|}~ÄÇÉxÇ!$*,.0125<?CDFIRWX[\^aimnrsux~ı
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_16.cs 8j
+#$(,3BHNTr> !"#%&')*+-./012456789:;<=>?@ACDEIJKLMOPQRSUVWYZ[\^_xÇ!#)+-/014;>@CLOPRU[Ú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_17.cs 8j!"&*1@GHLRr< !#$%'()+,-./023456789:;<=>?ABCDIJKMNOPQSTUVXYZ[]^xÇ!')+-./29<>AMNPSZ„
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_21.cs) 8j(237;BPQWaistyáëñórÜ!"#$%&')*+-./01245689:<=>?@ACDEFGHIJKLMNORSTUXY[\]^_bcdefghjklnopqruvwxz{|}ÄÅÇÉÑÖÜàâäåçéèêíìîïòôöõùûxÇ*$%&)028:<>?@CJRT]^efgjquz|ÉÑÖàèíòö·
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILÖ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_22b.cs 8j#$(,3ABJPQV\bghrG !"#%&')*+-./012456789:;<=>?@CDEFKLMNORSTUWXYZ]^_`acdefijklnoxÇ!#)+-/014;CENRWY`cik˘
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_31.cs 8j
+$%)-4EQW_rD !"#$&'(*+,./012356789:;<=>?@ABCDFGHILMNORSTUVXYZ[\]^`abcefxÇ$*,.0125<?CFNXY]`Ú
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_41.cs 8j	!)*.29QVZr> "#$&'()+,-/01345678:;<=>?@ABCDEHIJKMNOPRSTWXY[\]_`xÇ")/13567:ADJOR[\˜
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_42.cs 8j
+ !%)0>DMRXr@ "#$&'(*+,-./123456789:;<?@ABCEFGJKLNOPSTUVWYZ[]^_`bcxÇ &(*,-.18;ABENOUVY_˚
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_45.cs 8j
+&+/048?Y^brD!"#$%'(),-./1235679:;<=>@ABCDEFGHIJKLOPQRTUVWXZ[\_`acdefhixÇ$'/579;<=@GJKQWZcdeﬂ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_51a.cs 8j !%)0DHr0 "#$&'(*+,-./123456789:;<?@ABEFGIJKMNxÇ &(*,-.18;AIJπ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_51b.cs 8j%*r !&'()+,-/0xÇ(+ﬂ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_52a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK≠
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_52b.cs 8j"r#$%&()Ç%π
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_52c.cs 8j&+r !"'()*,-.01xÇ ),ﬂ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_53a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK≠
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_53b.cs 8j"r#$%&()Ç%≠
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_53c.cs 8j"r#$%&()Ç%π
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_53d.cs 8j&+r !"'()*,-.01xÇ ),ﬂ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_54a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJK≠
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_54b.cs 8j"r#$%&()Ç%≠
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_54c.cs 8j"r#$%&()Ç%≠
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_54d.cs 8j"r#$%&()Ç%π
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_54e.cs 8j&+r !"'()*,-.01xÇ ),¬
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2⁄
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_61b.cs 8j!"&*1AEr, !#$%'()+,-./023456789:;<=BCDFGHJKxÇ!')+-./29<FGÂ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_66a.cs 8j!"&*1GKr4 !#$%'()+,-./023456789:;<=>?BCDEHIJLMNOPRSxÇ!')+-./29=>DLNOª
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_66b.cs 8j '-r!"#()*+,./023xÇ!+.È
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_67a.cs 8j&'+/6LPr8 !#$%&()*,-.012345789:;<=>?@ABCDGHIJMNOQRSTUWXxÇ&,.02347>BCIQSTΩ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_67b.cs 8j '-r!"#()*+,./023xÇ!*+.ﬁ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_68a.cs 8j!"&*1EHr/ !#$%'()+,-./023456789:;<=@ABCFGIJKMNxÇ!')+-./29<BIJΩ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_68b.cs 8j&,r !"'()*+-./12xÇ )*-ﬂ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_71a.cs 8j!"&*1EIr0 !#$%'()+,-./023456789:;<=@ABCFGHJKLNOxÇ!')+-./29<BJKª
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ó
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_72a.cs 8j!"&*1IMr9 !#$%'()+,-./023456789:;<=>?@ADEFGJKLNOPQRSTVWxÇ!')+-./29=>?@FNPQRSº
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ó
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_73a.cs 8j"#'+2JNr9 !"$%&()*,-./013456789:;<=>?@ABEFGHKLMOPQRSTUWXxÇ"(*,./03:>?@AGOQRSTæ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Ó
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_74a.cs 8j!"&*1IMr9 !#$%'()+,-./023456789:;<=>?@ADEFGJKLNOPQRSTVWxÇ!')+-./29=>?@FNPQRSº
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/à
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_75a.cs 8j	#$(,3>VZ\rO !"#%&')*+-./012456789:;<=?@ABCDEFGHIJKLMNQRSTWXY[]^_`abcdefghijklnoxÇ#)+-/014;CEFHLS[acdfj‰
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM·
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_81a.cs 8j!"&*1FJr2 !#$%'()+,-./023456789:;<=>ABCDGHIKLMNPQxÇ!')+-./29=CKM±
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_81_bad.cs 8j r!"#$%xÇ!ú
+ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_81_base.csr
+µ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Database_81_goodG2B.cs 8j r!"#$%xÇ!◊
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_01.cs 8j
+!%()*5@DHr- !"#$&'+,-./01234678;<=>ABCEFGIJKMNxÇ
+!&+036=EFIâ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_02.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsâ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_03.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsé
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_04.cs 8
+j$*.123?@EKQRW\aglmrrN!"%&'()*+,-/0456789:;<=>ABCDFGHLMNOPSTUVXYZ[]^_bcdefhijknopqstuwxyz{}~xÇ(*/49ACFOSXZ]ehnpsyzé
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_05.cs 8
+j$*.123?@EKQRW\aglmrrN!"%&'()*+,-/0456789:;<=>ABCDFGHLMNOPSTUVXYZ[]^_bcdefhijknopqstuwxyz{}~xÇ(*/49ACFOSXZ]ehnpsyzç
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_06.cs 8
+j#)-012>?DJPQV[`fklqrM!$%&'()*+,./3456789:;<=@ABCEFGKLMNORSTUWXYZ\]^abcdeghijmnoprstvwxyz|}xÇ').38@BENRWY\dgmorxyç
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_07.cs 8
+j#)-012>?DJPQV[`fklqrM!$%&'()*+,./3456789:;<=@ABCEFGKLMNORSTUWXYZ\]^abcdeghijmnoprstvwxyz|}xÇ').38@BENRWY\dgmorxyù
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_08.cs 8j+1589:FGLRXY^chnstyrY!"#$&'(),-./0123467;<=>?@ABCDEHIJKMNOSTUVWZ[\]_`abdefijklmopqruvwxz{|~ÄÅÇÑÖxÇ#(/16;@HJMVZ_adlouwzÄÅâ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_09.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsâ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_10.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsâ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_11.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsÏ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_12.cs 8j#'*+,8=CDJOTr; !"#$%&()-./012345679:;<>?@EFGHIKLMNPQRSUVWYZ[\^_xÇ!#(-29;>HKPRU[â
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_13.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsâ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_14.cs 8
+j#'*+,89>DJKPUZ`efkrL !"#$%&()-./01234567:;<=?@AEFGHILMNOQRSTVWX[\]^_abcdghijlmnpqrstvwxÇ!#(-2:<?HLQSV^agilrsí
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_15.cs 8
+j$(+,-89?ELMQW\cghnrO !"#$%&')*./01234567:;<=>@ABFGHIJKNOPRSTUVXYZ]^_`abdefijklmopqstuvwyzxÇ!$).36:;=@INORSUX`deijlouv„
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_16.cs 8j
+#'*+,9?EKr5 !"#$%&()-./012345678:;<@ABCDFGHIJLMNPQRSUVxÇ!#(-257:CFGILR‡
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_17.cs 8j!%()*7>?CIr3 !"#$&'+,-./012345689:;@ABDEFGHJKLMOPQRTUxÇ!&+0358DEGJQ√
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_21.cs$ 8j(269:;GHNX`jkpv~àçéru!"#$%&')*+-./01234578<=>?@ABCDEFIJKLOPRSTUVYZ[\]^_abcefghilmnoqrstwxyz{|}ÄÅÉÑÖÜáâäãåèêëíîïxÇ!$%&)027<AIKTU\]^ahlqsz{|Üâèë›
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILÛ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_22b.cs 8j#'*+,89AGHMSY^_r> !"#$%&()-./01234567:;<=BCDEFIJKLNOPQTUVWXZ[\]`abcefxÇ!#(-2:<EINPWZ`bÁ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_31.cs 8j
+$(+,-<HNVr; !"#$%&')*./0123456789:;=>?@CDEFIJKLMOPQRSTUWXYZ\]xÇ$).36:=EOPTW‡
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_41.cs 8j	!)-012HMQr5 "#$&'()*+,./3456789:;<?@ABDEFGIJKNOPRSTVWxÇ").38;AFIRSÂ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_42.cs 8j
+ $'()5;DIOr7 !"#%&*+,-./01236789:<=>ABCEFGJKLMNPQRTUVWYZxÇ %*/289<EFLMPVÈ
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_45.cs 8j
+&+/3678PUYr;!"#$%'(),-./012459:;<=>?@ABCFGHIKLMNOQRSVWXZ[\]_`xÇ$'/49>ABHNQZ[\Õ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_51a.cs 8j $'();?r' !"#%&*+,-./01236789<=>@ABDExÇ %*/28@Aµ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_51b.cs 8j%*r !&'()+,-/0xÇ(+Õ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_52a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB©
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_52b.cs 8j"r#$%&()Ç%µ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_52c.cs 8j&+r !"'()*,-.01xÇ ),Õ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_53a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB©
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_53b.cs 8j"r#$%&()Ç%©
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_53c.cs 8j"r#$%&()Ç%µ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_53d.cs 8j&+r !"'()*,-.01xÇ ),Õ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_54a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB©
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_54b.cs 8j"r#$%&()Ç%©
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_54c.cs 8j"r#$%&()Ç%©
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_54d.cs 8j"r#$%&()Ç%µ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_54e.cs 8j&+r !"'()*,-.01xÇ ),æ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2»
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_61b.cs
+ 8j!%()*8<r# !"#$&'+,-./012349:;=>?ABxÇ!&+03=>”
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_66a.cs 8j!%()*>Br+ !"#$&'+,-./01234569:;<?@ACDEFGIJxÇ
+!&+045;CEF∑
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_66b.cs 8j '-r!"#()*+,./023xÇ!+.◊
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_67a.cs 8j&*-./CGr/ !#$%&'()+,0123456789:;>?@ADEFHIJKLNOxÇ
+&+059:@HJKπ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_67b.cs 8j '-r!"#()*+,./023xÇ!*+.Ã
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_68a.cs	 8j!%()*<?r& !"#$&'+,-./01234789:=>@ABDExÇ!&+039@Aπ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_68b.cs 8j&,r !"'()*+-./12xÇ )*-Õ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_71a.cs 8j!%()*<@r' !"#$&'+,-./01234789:=>?ABCEFxÇ!&+039AB∑
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/‹
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_72a.cs 8j!%()*@Dr0 !"#$&'+,-./012345678;<=>ABCEFGHIJKMNxÇ!&+04567=EGHIJ∏
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/‹
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_73a.cs 8j"&)*+AEr0 !"#$%'(,-./0123456789<=>?BCDFGHIJKLNOxÇ"',15678>FHIJK∫
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/‹
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_74a.cs 8j!%()*@Dr0 !"#$&'+,-./012345678;<=>ABCEFGHIJKMNxÇ!&+04567=EGHIJ∏
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/ı
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_75a.cs 8j	"&)*+4LPRrE !"#$%'(,-./012356789:;<=>?@ABCDGHIJMNOQSTUVWXYZ[\]^_`abdexÇ"',19;<>BIQWYZ\`‡
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHMœ
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_81a.cs 8j!%()*=Ar) !"#$&'+,-./01234589:;>?@BCDEGHxÇ!&+04:BD≠
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_81_bad.cs 8j r!"#$%xÇ!ò
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_81_base.csr
+±
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_File_81_goodG2B.cs 8j r!"#$%xÇ!Ÿ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_01.cs 8j !&,7;?r& "#$%'()*+-./234589:<=>@ABDExÇ
+ #$'*-4<=@ã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_02.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_03.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijê
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_04.cs 8j#)*/67<BHINSX^cdirG !$%&'()+,-.01234589:;=>?CDEFGJKLMOPQRTUVYZ[\]_`abefghjklnopqrtuxÇ'),-08:=FJOQT\_egjpqê
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_05.cs 8j#)*/67<BHINSX^cdirG !$%&'()+,-.01234589:;=>?CDEFGJKLMOPQRTUVYZ[\]_`abefghjklnopqrtuxÇ'),-08:=FJOQT\_egjpqè
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_06.cs 8j"().56;AGHMRW]bchrF #$%&'(*+,-/01234789:<=>BCDEFIJKLNOPQSTUXYZ[\^_`adefgijkmnopqstxÇ&(+,/79<EINPS[^dfiopè
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_07.cs 8j"().56;AGHMRW]bchrF #$%&'(*+,-/01234789:<=>BCDEFIJKLNOPQSTUXYZ[\^_`adefgijkmnopqstxÇ&(+,/79<EINPS[^dfiopò
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_08.cs 8j*016=>CIOPUZ_ejkprM !"#%&'(+,-./02345789:;<?@ABDEFJKLMNQRSTVWXY[\]`abcdfghilmnoqrsuvwxy{|xÇ"'.0347?ADMQVX[cflnqwxã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_09.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_10.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_11.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijÓ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_12.cs 8j"#(/4:;AFKr4 !"$%&')*+,-.0123567<=>?@BCDEGHIJLMNPQRSUVxÇ "%&)025?BGILRã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_13.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijã
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_14.cs 8j"#(/05;ABGLQW\]brE !"$%&')*+,-.1234678<=>?@CDEFHIJKMNORSTUVXYZ[^_`acdeghijkmnxÇ "%&)136?CHJMUX^`cijî
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_15.cs 8j#$)/06<CDHNSZ^_erH !"#%&'(*+,-.12345789=>?@ABEFGIJKLMOPQTUVWXY[\]`abcdfghjklmnpqxÇ #&'*-1247@EFIJLOW[\`acflmÂ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_16.cs 8j"#(06<Br. !"$%&')*+,-./123789:;=>?@ACDEGHIJLMxÇ "%&),.1:=>@CI‚
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_17.cs 8j	 !&.56:@r, "#$%'()*+,-/012789;<=>?ABCDFGHIKLxÇ #$'*,/;<>AHº
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_21.cs# 8j'127>?EOWabgmuÑÖrg !"#$%&()*,-./01345689:;<=@ABCFGIJKLMPQRSTUVXYZ\]^_`cdefhijknopqrstvwxz{|}~ÄÅÇÉÜáàâãåxÇ #$%(/1458@BKLSTUX_chjqrsv}ÄÜàË
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILı
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_22b.cs 8j"#(/08>?DJPUVr7 !"$%&')*+,-.12349:;<=@ABCEFGHKLMNOQRSTWXYZ\]xÇ "%&)13<@EGNQWYÈ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_31.cs 8j#$)3?EMr4 !"#%&'(*+,-./0124567:;<=@ABCDFGHIJKLNOPQSTxÇ#&'*-14<FGKN‚
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_41.cs 8j ().?DHr.!"#%&'(*+,-/01236789;<=>@ABEFGIJKMNxÇ!(+,/28=@IJÁ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_42.cs 8j %,2;@Fr0!"#$&'()*-./0134589:<=>ABCDEGHIKLMNPQxÇ"#&)/03<=CDGMÎ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_45.cs 8j%*./4GLPr4 !"#$&'(+,-.012356789:=>?@BCDEFHIJMNOQRSTVWxÇ#&.12589?EHQRSœ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_51a.cs
+ 8j %26r !"#$&'()*-./0345789;<xÇ"#&)/78¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_51b.cs 8j%*r !&'()+,-/0xÇ(+œ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_52a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_52b.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_52c.cs 8j&+r !"'()*,-.01xÇ ),œ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_53a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_53b.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_53c.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_53d.cs 8j&+r !"'()*,-.01xÇ ),œ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_54a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_54b.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_54c.cs 8j"r#$%&()Ç%¥
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_54d.cs 8j"r#$%&()Ç%¿
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_54e.cs 8j&+r !"'()*,-.01xÇ ),…
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2 
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_61b.cs	 8j !&/3r "#$%'()*+01245689xÇ #$'*45’
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_66a.cs 8j !&59r$ "#$%'()*+,-0123678:;<=>@AxÇ
+ #$'+,2:<=¬
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_66b.cs 8j '-r!"#()*+,./023xÇ!+.Ÿ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_67a.cs 8j%&+:>r( "#$%'()*,-./0125678;<=?@ABCEFxÇ
+%(),017?ABƒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_67b.cs 8j '-r!"#()*+,./023xÇ!*+.Œ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_68a.cs 8j !&36r "#$%'()*+./0145789;<xÇ #$'*078ƒ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_68b.cs 8j&,r !"'()*+-./12xÇ )*-œ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_71a.cs
+ 8j !&37r  "#$%'()*+./0145689:<=xÇ #$'*089¬
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/ﬁ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_72a.cs 8j !&7;r) "#$%'()*+,-./234589:<=>?@ABDExÇ #$'+,-.4<>?@A√
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/ﬁ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_73a.cs 8j!"'8<r) !#$%&()*+,-./034569:;=>?@ABCEFxÇ!$%(,-./5=?@AB≈
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/ﬁ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_74a.cs 8j !&7;r) "#$%'()*+,-./234589:<=>?@ABDExÇ #$'+,-.4<>?@A√
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/¯
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_75a.cs 8j"#(,DHJr? !"$%&')*+-./0123456789:;<?@ABEFGIKLMNOPQRSTUVWXYZ\]xÇ"%&)1346:AIOQRTXÎ
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM—
+éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_81a.cs 8j !&48r" "#$%'()*+,/0125679:;<>?xÇ #$'+19;∏
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_81_bad.cs 8j r!"#$%xÇ!£
+íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_81_base.csr
+º
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Get_Cookies_Web_81_goodG2B.cs 8j r!"#$%xÇ!¯
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_01.cs 8j	#$-0JUY]rC !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIKLMPQRSVWXZ[\^_`bcxÇ#)*+.17;?CHKRZ[^∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_02.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáà∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_03.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáà∆
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_04.cs  8j !&,-69TUZ`fglqv|ÅÇárs#$'()*+,./01234578:;<=>?@ABCDEFGHIJKLMNOPQRSVWXY[\]abcdehijkmnoprstwxyz{}~ÄÉÑÖÜàâäåçéèêíìxÇ*,2347:@DHLVX[dhmorz}ÉÖàéè∆
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_05.cs  8j !&,-69TUZ`fglqv|ÅÇárs#$'()*+,./01234578:;<=>?@ABCDEFGHIJKLMNOPQRSVWXY[\]abcdehijkmnoprstwxyz{}~ÄÉÑÖÜàâäåçéèêíìxÇ*,2347:@DHLVX[dhmorz}ÉÖàéèƒ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_06.cs  8j !%+,58STY_efkpu{ÄÅÜrq#&'()*+-./01234679:;<=>?@ABCDEFGHIJKLMNOPQRUVWXZ[\`abcdghijlmnoqrsvwxyz|}~ÇÉÑÖáàâãåçéèëíxÇ)+12369?CGKUWZcglnqy|ÇÑáçéƒ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_07.cs  8j !%+,58STY_efkpu{ÄÅÜrq#&'()*+-./01234679:;<=>?@ABCDEFGHIJKLMNOPQRUVWXZ[\`abcdghijlmnoqrsvwxyz|}~ÇÉÑÖáàâãåçéèëíxÇ)+12369?CGKUWZcglnqy|ÇÑáçé◊
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_08.cs" 8j !-34=@[\agmnsx}Éàâér#$%&()*+./012356789:;<>?ABCDEFGHIJKLMNOPQRSTUVWXYZ]^_`bcdhijklopqrtuvwyz{~ÄÅÇÑÖÜáäãåçèêëìîïñóôöxÇ#%*139:;>AGKOS]_bkotvyÅÑäåèïñ∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_09.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáà∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_10.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáà∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_11.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáàç
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_12.cs 8j%&/2MRXY_dirQ !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLNOPQSTUZ[\]^`abcefghjklnopqstxÇ#%+,-039=AENPS]`egjp∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_13.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáà∏
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_14.cs  8j%&/2MNSY_`ejouz{Ärl !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRTUVZ[\]^abcdfghiklmpqrstvwxy|}~ÅÇÉÖÜáàâãåxÇ#%+,-039=AEOQT]afhksv|~Åáà≈
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_15.cs& 8j&'03MNTZabflqx|}Érr !"#$%&()*+,-./12456789:;<=>?@ABCDEFGHIJKLOPQRSUVW[\]^_`cdeghijkmnorstuvwyz{~ÄÅÇÑÖÜàâäãåéèxÇ$#&,-.14:>BFKOPRU^cdghjmuyz~ÅÑäãÑ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_16.cs 8j	%&/2NTZ`rK !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLMOPQUVWXY[\]^_abcefghjkxÇ#%+,-039=AEJLOX[\^agÅ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_17.cs 8j
+#$-0LSTX^rI !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKMNOPUVWYZ[\]_`abdefgijx
+Ç#)*+.17;?CHJMYZ\_fÄ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_21.cs, 8j *45>A\]cmuÄÖãìù¢£rõ!#$%&'()+,-/012346789:;<=?@BCDEFGHIJKLMNOPQRSTUVWXYZ[^_`adeghijknopqrstvwxz{|}~ÅÇÉÑÜáàâåçéèêëíîïñòôöõúûü†°§•¶ß©™xÇ.&'(+24:;<?BHLPT^`ijqrsv}ÅÜàèêëîõû§¶„
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILî
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_22b.cs 8j%&/2MNV\]bhnstrT !"#$%'()*+,-.013456789:;<=>?@ABCDEFGHIJKLOPQRWXYZ[^_`acdefijklmopqruvwxz{xÇ#%+,-039=AEOQZ^celouwà
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_31.cs 8j	 &'03Q]ckrQ!"#$%&()*+,-./12456789:;<=>?@ABCDEFGHIJKLMNOPRSTUXYZ[^_`abdefghijlmnoqrxÇ&,-.14:>BFKORZdeilÅ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_41.cs 8j#+,58]bfrK !"$%&()*+-./01234679:;<=>?@ABCDEFGHIJKLMNOPQTUVWYZ[\^_`cdeghiklxÇ!$+12369?CGKPV[^ghÜ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_42.cs 8j	"#,/JPY^drM !"$%&'()*+-.0123456789:;<=>?@ABCDEFGHKLMNOQRSVWXZ[\_`abcefgijklnoxÇ"()*-06:>BGMNQZ[abekä
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_45.cs 8j	(-12;>ejnrQ !#$%&')*+./013456789:<=?@ABCDEFGHIJKLMNOPQRSTUVWX[\]^`abcdfghklmopqrtuxÇ&)1789<?EIMQVW]cfopqÓ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_51a.cs 8j"#,/PTr= !"$%&'()*+-.0123456789:;<=>?@ABCDEFGHKLMNQRSUVWYZxÇ"()*-06:>BGMUVª
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_51b.cs 8j%*r !&'()+,-/0xÇ(+Ó
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_52a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVWØ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_52b.cs 8j"r#$%&()Ç%ª
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_52c.cs 8j&+r !"'()*,-.01xÇ ),Ó
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_53a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVWØ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_53b.cs 8j"r#$%&()Ç%Ø
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_53c.cs 8j"r#$%&()Ç%ª
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_53d.cs 8j&+r !"'()*,-.01xÇ ),Ó
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_54a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVWØ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_54b.cs 8j"r#$%&()Ç%Ø
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_54c.cs 8j"r#$%&()Ç%Ø
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_54d.cs 8j"r#$%&()Ç%ª
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_54e.cs 8j&+r !"'()*,-.01xÇ ),ƒ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2È
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_61b.cs 8j#$-0MQr9 !"#%&'()*+,./123456789:;<=>?@ABCDEFGHINOPRSTVWxÇ#)*+.17;?CHRSÙ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_66a.cs 8j#$-0SWrA !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKNOPQTUVXYZ[\^_xÇ#)*+.17;?CIJPXZ[Ω
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_66b.cs 8j '-r!"#()*+,./023xÇ!+.¯
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_67a.cs 8j()25X\rE !"#%&'(*+,-./01346789:;<=>?@ABCDEFGHIJKLMNOPSTUVYZ[]^_`acdxÇ(./036<@DHNOU]_`ø
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_67b.cs 8j '-r!"#()*+,./023xÇ!*+.Ì
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_68a.cs 8j#$-0QTr<!"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSUVWYZxÇ#)*+.17;?CHNUVø
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_68b.cs 8j&,r !"'()*+-./12xÇ )*-Ó
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_71a.cs 8j#$-0QUr= !"#%&'()*+,./123456789:;<=>?@ABCDEFGHILMNORSTVWXZ[xÇ#)*+.17;?CHNVWΩ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/˝
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_72a.cs 8j#$-0UYrF !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKLMPQRSVWXZ[\]^_`bcxÇ#)*+.17;?CIJKLRZ\]^_æ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/˝
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_73a.cs 8j$%.1VZrF!"#$&'()*+,-/023456789:;<=>?@ABCDEFGHIJKLMNQRSTWXY[\]^_`acdxÇ$*+,/28<@DJKLMS[]^_`¿
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/˝
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_74a.cs 8j#$-0UYrF !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJKLMPQRSVWXZ[\]^_`bcxÇ#)*+.17;?CIJKLRZ\]^_æ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/ñ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_75a.cs! 8j$%.1Iaegr[!"#$&'()*+,-/023456789:;<=>?@ABCDEFGHJKLMNOPQRSTUVWXY\]^_bcdfhijklmnopqrstuvwyzxÇ$*+,/28<@DNPQSW^flnoquÊ
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM
+âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_81a.cs 8j#$-0RVr? !"#%&'()*+,./123456789:;<=>?@ABCDEFGHIJMNOPSTUWXYZ\]xÇ#)*+.17;?CIOWY≥
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_81_bad.cs 8j r!"#$%xÇ!û
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_81_base.csr
+∑
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Listen_tcp_81_goodG2B.cs 8j r!"#$%xÇ!·
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_01.cs 8j
+"#+,-9DHLr1 !"$%&'()*./012345678:;<?@ABEFGIJKMNOQRxÇ"').47:AIJMì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_02.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_03.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwö
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_04.cs 8
+j %+,456CDIOUV[`ekpqvrT"#&'()*+-./0123789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+027=EGJSW\^ailrtw}~ö
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_05.cs 8
+j %+,456CDIOUV[`ekpqvrT"#&'()*+-./0123789:;<=>?@ABEFGHJKLPQRSTWXYZ\]^_abcfghijlmnorstuwxy{|}~ÅÇxÇ)+027=EGJSW\^ailrtw}~ô
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_06.cs 8
+j $*+345BCHNTUZ_djopurS"%&'()*,-./0126789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*/16<DFIRV[]`hkqsv|}ô
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_07.cs 8
+j $*+345BCHNTUZ_djopurS"%&'()*,-./0126789:;<=>?@ADEFGIJKOPQRSVWXY[\]^`abefghiklmnqrstvwxz{|}~ÄÅxÇ(*/16<DFIRV[]`hkqsv|}™
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_08.cs 8j ,23;<=JKPV\]bglrwx}r`"#$%'()*-./012456789:>?@ABCDEFGHILMNOQRSWXYZ[^_`acdefhijmnopqstuvyz{|~ÄÇÉÑÖÜàâxÇ$)0279>DLNQZ^cehpsy{~ÑÖì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_09.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_10.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_11.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwˆ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_12.cs 8j$%-./<AGHNSXr? !"#$&'()*+,0123456789:;=>?@BCDIJKLMOPQRTUVWYZ[]^_`bcxÇ"$)+06=?BLOTVY_ì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_13.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwì
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_14.cs 8
+j$%-./<=BHNOTY^dijorP !"#$&'()*+,0123456789:;>?@ACDEIJKLMPQRSUVWXZ[\_`abcefghklmnpqrtuvwxz{xÇ"$)+06>@CLPUWZbekmpvwú
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_15.cs 8
+j%&./0<=CIPQU[`gklrrS !"#$%'()*+,-123456789:;>?@ABDEFJKLMNORSTVWXYZ\]^abcdefhijmnopqstuwxyz{}~xÇ"%*,17:>?ADMRSVWY\dhimnpsyzÌ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_16.cs 8j
+$%-./=CIOr9 !"#$&'()*+,0123456789:;<>?@DEFGHJKLMNPQRTUVWYZxÇ"$)+069;>GJKMPVÍ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_17.cs 8j"#+,-;BCGMr7 !"$%&'()*./0123456789:<=>?DEFHIJKLNOPQSTUVXYxÇ"').479<HIKNU”
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_21.cs% 8j)34<=>KLR\dnotzÇåëír| "#$%&'(*+,./012356789:;?@ABCDEFGHIJMNOPSTVWXYZ]^_`abcefgijklmpqrsuvwx{|}~ÄÅÉÑÖáàâäãçéèêìîïñòôxÇ$%&'*138:?EMOXY`abelpuw~ÄÉäçìï‚
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHIL˝
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_22b.cs 8j$%-./<=EKLQW]bcrB !"#$&'()*+,0123456789:;>?@AFGHIJMNOPRSTUXYZ[\^_`adefgijxÇ"$)+06>@IMRT[^dfÒ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_31.cs 8j
+%&./0@LRZr? !"#$%'()*+,-123456789:;<=>?ABCDGHIJMNOPQSTUVWXY[\]^`axÇ%*,17:>AISTX[Í
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_41.cs 8j	"*+345LQUr9 !#$%'()*,-./0126789:;<=>?@CDEFHIJKMNORSTVWXZ[xÇ #*/16<?EJMVWÔ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_42.cs 8j
+!"*+,9?HMSr; !#$%&'()-./01234567:;<=>@ABEFGIJKNOPQRTUVXYZ[]^xÇ!&(-36<=@IJPQTZÛ
+áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_45.cs 8j
+',019:;TY]r? "#$%&()*-./02345678<=>?@ABCDEFGJKLMOPQRSUVWZ[\^_`acdxÇ%(057<BEFLRU^_`◊
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_51a.cs 8j!"*+,?Cr+ !#$%&'()-./01234567:;<=@ABDEFHIxÇ	!&(-36<DE∫
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_51b.cs 8j%*r !&'()+,-/0xÇ(+◊
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_52a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFÆ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_52b.cs 8j"r#$%&()Ç%∫
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_52c.cs 8j&+r !"'()*,-.01xÇ ),◊
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_53a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFÆ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_53b.cs 8j"r#$%&()Ç%Æ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_53c.cs 8j"r#$%&()Ç%∫
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_53d.cs 8j&+r !"'()*,-.01xÇ ),◊
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_54a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFÆ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_54b.cs 8j"r#$%&()Ç%Æ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_54c.cs 8j"r#$%&()Ç%Æ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_54d.cs 8j"r#$%&()Ç%∫
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_54e.cs 8j&+r !"'()*,-.01xÇ ),√
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2“
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_61b.cs 8j"#+,-<@r' !"$%&'()*./012345678=>?ABCEFxÇ"').47AB›
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_66a.cs 8j"#+,-BFr/ !"$%&'()*./0123456789:=>?@CDEGHIJKMNxÇ"').489?GIJº
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_66b.cs 8j '-r!"#()*+,./023xÇ!+.·
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_67a.cs 8j'(012GKr3 !"$%&')*+,-./3456789:;<=>?BCDEHIJLMNOPRSxÇ',.39=>DLNOæ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_67b.cs 8j '-r!"#()*+,./023xÇ!*+.÷
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_68a.cs
+ 8j"#+,-@Cr* !"$%&'()*./012345678;<=>ABDEFHIxÇ	"').47=DEæ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_68b.cs 8j&,r !"'()*+-./12xÇ )*-◊
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_71a.cs 8j"#+,-@Dr+ !"$%&'()*./012345678;<=>ABCEFGIJxÇ	"').47=EFº
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ê
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_72a.cs 8j"#+,-DHr4 !"$%&'()*./0123456789:;<?@ABEFGIJKLMNOQRxÇ"').489:;AIKLMNΩ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/Ê
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_73a.cs 8j#$,-.EIr4 !"#%&'()*+/0123456789:;<=@ABCFGHJKLMNOPRSxÇ#(*/59:;<BJLMNOø
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/Ê
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_74a.cs 8j"#+,-DHr4 !"$%&'()*./0123456789:;<?@ABEFGIJKLMNOQRxÇ"').489:;AIKLMNΩ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/ˇ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_75a.cs 8j	#$,-.8PTVrI !"#%&'()*+/012345679:;<=>?@ABCDEFGHKLMNQRSUWXYZ[\]^_`abcdefhixÇ#(*/5=?@BFMU[]^`dÂ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHMŸ
+àC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_81a.cs 8j"#+,-AEr- !"$%&'()*./0123456789<=>?BCDFGHIKLxÇ	"').48>FH≤
+ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_81_bad.cs 8j r!"#$%xÇ!ù
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_81_base.csr
+∂
+èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_NetClient_81_goodG2B.cs 8j r!"#$%xÇ!Ã
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_01.cs	 8j $/37r!"#%&'*+,-01245689:<=xÇ!"%,458˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_02.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[ab˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_03.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abÉ
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_04.cs 8
+j#)./4:@AFKPV[\ar@ !$%&'(*+,-0123567;<=>?BCDEGHIJLMNQRSTUWXYZ]^_`bcdfghijlmx	Ç'*025>BGILTW]_bhiÉ
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_05.cs 8
+j#)./4:@AFKPV[\ar@ !$%&'(*+,-0123567;<=>?BCDEGHIJLMNQRSTUWXYZ]^_`bcdfghijlmx	Ç'*025>BGILTW]_bhiÇ
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_06.cs 8
+j"(-.39?@EJOUZ[`r? #$%&')*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklx	Ç&)/14=AFHKSV\^aghÇ
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_07.cs 8
+j"(-.39?@EJOUZ[`r? #$%&')*+,/012456:;<=>ABCDFGHIKLMPQRSTVWXY\]^_abcefghiklx	Ç&)/14=AFHKSV\^aghã
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_08.cs 8j*056;AGHMRW]bchrF !"#%&'(+,-./1234789:<=>BCDEFIJKLNOPQSTUXYZ[\^_`adefgijkmnopqstx	Ç"'.179<EINPS[^dfiop˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_09.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[ab˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_10.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[ab˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_11.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[ab·
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_12.cs 8j	"',239>Cr- !#$%&()*+-./45678:;<=?@ABDEFHIJKMNxÇ #(*-7:?ADJ˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_13.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[ab˛
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_14.cs 8
+j"'(-39:?DIOTUZr> !#$%&)*+,./045678;<=>@ABCEFGJKLMNPQRSVWXY[\]_`abcefx	Ç #)+.7;@BEMPVX[abá
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_15.cs 8
+j#'(.4;<@FKRVW]rA !"$%&)*+,-/0156789:=>?ABCDEGHILMNOPQSTUXYZ[\^_`bcdefhixÇ $%)*,/8=>ABDGOSTXY[^deÿ
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_16.cs 8j"(.4:r' !#$%&')*+/012356789;<=?@ABDExÇ #$&)2568;A’
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_17.cs 8j &-.28r%!"#$%'()*/01345679:;<>?@ACDxÇ	!"$'3469@•
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_21.cs  8j'167=GOYZ_emw|}rZ !"#$%&()*,-./0234589:;>?ABCDEHIJKLMNPQRTUVWX[\]^`abcfghijklnoprstuvxyz{~ÄÅÉÑx	Ç#$%(/28:CDKLMPW[`bijknux~ÄÁ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_22a.cs 8j	&+,6>CKr/ !"#$%'()-.01234789:;<=?@ADEFGHIJLMNPQxÇ"#$'23:;<?GHILË
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_22b.cs 8j"'(067<BHMNr0 !#$%&)*+,1234589:;=>?@CDEFGIJKLOPQRTUxÇ #)+48=?FIOQ‹
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_31.cs 8j#+7=Er- !"$%&'()*,-./234589:;<>?@ABCDFGHIKLxÇ	$%),4>?CF’
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_41.cs 8j (7<@r'!"#%&')*+./01345689:=>?ABCEFxÇ	!)*058AB⁄
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_42.cs 8j$*38>r) !"%&'()+,-0124569:;<=?@ACDEFHIxÇ !'(+45;<?Eﬁ
+åC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_45.cs 8j%*.?DHr- !"#$&'(+,-/0125678:;<=>@ABEFGIJKLNOxÇ#&/017=@IJK¿
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_51a.cs 8j*.r !"%&'(+,-/0134Ç !'/0ø
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_51b.cs 8j%*r !&'()+,-/0xÇ(+¿
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_52a.cs 8j +/r!"#&'(),-.01245Ç!"(01≥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_52b.cs 8j"r#$%&()Ç%ø
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_52c.cs 8j&+r !"'()*,-.01xÇ ),¿
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_53a.cs 8j +/r!"#&'(),-.01245Ç!"(01≥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_53b.cs 8j"r#$%&()Ç%≥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_53c.cs 8j"r#$%&()Ç%ø
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_53d.cs 8j&+r !"'()*,-.01xÇ ),¿
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_54a.cs 8j +/r!"#&'(),-.01245Ç!"(01≥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_54b.cs 8j"r#$%&()Ç%≥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_54c.cs 8j"r#$%&()Ç%≥
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_54d.cs 8j"r#$%&()Ç%ø
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_54e.cs 8j&+r !"'()*,-.01xÇ ),»
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_61a.cs 8j +1r!"#&'(),-./023467xÇ!(./2ª
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_61b.cs 8j '+r!"#()*,-.01Ç!",-∆
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_66a.cs 8j -1r!"#$%()*+./02345689Ç!#$*245¡
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_66b.cs 8j '-r!"#()*+,./023xÇ!+. 
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_67a.cs 8j%26r! "#$&'()*-./0345789:;=>Ç&()/79:√
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_67b.cs 8j '-r!"#()*+,./023xÇ!*+.ø
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_68a.cs 8j +.r!"#&'(),-/0134Ç!"(/0√
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_68b.cs 8j&,r !"'()*+-./12xÇ )*-¿
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_71a.cs 8j +/r!"#&'(),-.01245Ç!"(01¡
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_71b.cs 8j!(.r "#$)*+,-/0134xÇ",/œ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_72a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789¬
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_72b.cs 8j!(.r "#$)*+,-/0134xÇ",/œ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_73a.cs 8j!04r" "#$%&'(+,-.12356789:;=>Ç"$%&'-5789:ƒ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_73b.cs 8j!(.r "#$)*+,-/0134xÇ"+,/œ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_74a.cs 8j /3r"!"#$%&'*+,-012456789:<=Ç!#$%&,46789¬
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_74b.cs 8j!(.r "#$)*+,-/0134xÇ",/Î
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_75a.cs 8j"$<@Br8 !#%&'()*+,-./01234789:=>?ACDEFGHIJKLMNOPQRTUxÇ#)+,.29AGIJLPÍ
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_75b.cs 8j,8Gr8 !"#$%&'()*+-./012349:;<=>?@ABCDEFHIJKLMNOQRxÇ$&'(*-2?ABCEHM¬
+çC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_81a.cs	 8j ,0r!"#$'()*-./123467Ç!#)13∑
+êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_81_bad.cs 8j r!"#$%xÇ!¢
+ëC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_81_base.csr
+ª
+îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\CWE80_XSS__Web_Params_Get_Web_81_goodG2B.cs 8j r!"#$%xÇ!Ä
+sC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\Program.cs 
+8j &(9?ABPRVX\^bdhjnptvz|ÄÇrC	
+"$*+,-./024579;=CDEFGHIJKLMOSUY[_aegkmqswy}ÉÑÖx
+Ç"*+,-0459CDEFGHIJK®
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE80_XSS\s01\Properties\AssemblyInfo.csj !"r	
 #$

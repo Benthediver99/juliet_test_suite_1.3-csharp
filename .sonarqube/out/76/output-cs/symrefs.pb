@@ -1,857 +1,262 @@
-ø
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_01.cs
-
- 8
-
- 
- 4 A
- & .
-
-## 
-(( %% 
-** ,,0 =
-,, --& .Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_02.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_03.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC ∑
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_04.cs
-
- 8
- )"" @@ 
- *// 
-
-   
-$$ #&&8 E
-&&  ''* 2
--- KK 
-66 #884 A
-88  99* 2
->> LL 
-BB #DD4 A
-DD  EE* 2
-
-II ∑
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_05.cs
-
- 8
- "" @@ 
- // 
-
-   
-$$ #&&8 E
-&&  ''* 2
--- KK 
-66 #884 A
-88  99* 2
->> LL 
-BB #DD4 A
-DD  EE* 2
-
-II ´
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_06.cs
-
- 8(
- (!! .. ?? 
-
- 
-## #%%8 E
-%%  &&* 2
-,, JJ 
-55 #774 A
-77  88* 2
-== KK 
-AA #CC4 A
-CC  DD* 2
-
-HH ´
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_07.cs
-
- 8(
- !! .. ?? 
-
- 
-## #%%8 E
-%%  &&* 2
-,, JJ 
-55 #774 A
-77  88* 2
-== KK 
-AA #CC4 A
-CC  DD* 2
-
-HH ∑
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_08.cs
-
- 8
- *)) GG 
-"" +66 
-
-'' 
-++ #--8 E
---  ..* 2
-44 RR 
-== #??4 A
-??  @@* 2
-EE SS 
-II #KK4 A
-KK  LL* 2
-
-PP Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_09.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_10.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_11.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC ó
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_12.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-%% #''4 A
-''  ((* 2
-.. BB 
-22 #444 A
-44  55* 2
-99 #;;4 A
-;;  <<* 2
-
-@@ Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_13.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_14.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-'' EE 
-00 #224 A
-22  33* 2
-88 FF 
-<< #>>4 A
->>  ??* 2
-
-CC Å
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_15.cs
-
- 8
-
- 
- #!!8 E
-!!  ""* 2
--- RR 
-66 #884 A
-88  99* 2
-?? SS 
-DD #FF4 A
-FF  GG* 2
-
-PP ø
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_16.cs
-
- 8
-
- 
- #  8 E
-    !!* 2
-(( 66 
-,, #..4 A
-..  //* 2
-
-44 ˇ
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Dns_GetHostByAddress_17.cs
-
- 8
-
- 
-   
- #  8 E
-    !!* 2
-'' 44 
-)) )) )) 
-++ #--4 A
---  ..* 2
-
-22 ∞
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_01.cs
-
- =
-
- 
-   
-
- 
-
-$$ 
-)) && 
-,,  ..  
-
-.. Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_02.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_03.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF û
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_04.cs
-
- =
- )"" BB 
- *00 
-
-   
-%% $'' #
-
-'' 
-.. NN 
-88 $:: $
-
-:: 
-@@ OO 
-EE $GG $
-
-GG 
-
-LL û
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_05.cs
-
- =
- "" BB 
- 00 
-
-   
-%% $'' #
-
-'' 
-.. NN 
-88 $:: $
-
-:: 
-@@ OO 
-EE $GG $
-
-GG 
-
-LL í
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_06.cs
-
- =(
- (!! // AA 
-
- 
-$$ $&& #
-
-&& 
--- MM 
-77 $99 $
-
-99 
-?? NN 
-DD $FF $
-
-FF 
-
-KK í
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_07.cs
-
- =(
- !! // AA 
-
- 
-$$ $&& #
-
-&& 
--- MM 
-77 $99 $
-
-99 
-?? NN 
-DD $FF $
-
-FF 
-
-KK û
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_08.cs
-
- =
- *)) II 
-"" +77 
-
-'' 
-,, $.. #
-
-.. 
-55 UU 
-?? $AA $
-
-AA 
-GG VV 
-LL $NN $
-
-NN 
-
-SS Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_09.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_10.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_11.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF Ù
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_12.cs
-
- =
-
- 
- $!! #
-
-!! 
-'' $)) $
-
-)) 
-00 FF 
-55 $77 $
-
-77 
-== $?? $
-
-?? 
-
-DD Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_13.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_14.cs
-
- =
-
- 
- $!! #
-
-!! 
-(( HH 
-22 $44 $
-
-44 
-:: II 
-?? $AA $
-
-AA 
-
-FF Ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_15.cs
-
- =
-
- 
-   $"" #
-
-"" 
-.. UU 
-88 $:: $
-
-:: 
-AA VV 
-GG $II $
-
-II 
-
-SS ∞
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_16.cs
-
- =
-
- 
- $!! #
-
-!! 
-)) 88 
-.. $00 $
-
-00 
-
-66 
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Process_VirtualMemorySize_17.cs
-
- =
-
- 
-   
- $!! #
-
-!! 
-(( 66 
-** ** ** 
--- $// $
-
-// 
-
-44 ì
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_01.cs
-
- 6
-
- 
-
- 
-
-"" 
-'' $$ 
-** ++2 ?
-
-++ À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_02.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_03.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ Å
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_04.cs
-
- 6
- )## >> 
- *.. 
-
-!! 
-
-&& #
-,, HH 
-66 #776 C
-
-77 #
-<< II 
-AA #BB6 C
-
-BB #
-
-FF Å
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_05.cs
-
- 6
- ## >> 
- .. 
-
-!! 
-
-&& #
-,, HH 
-66 #776 C
-
-77 #
-<< II 
-AA #BB6 C
-
-BB #
-
-FF ı
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_06.cs
-
- 6(
- ("" -- == 
-
-   
-
-%% #
-++ GG 
-55 #666 C
-
-66 #
-;; HH 
-@@ #AA6 C
-
-AA #
-
-EE ı
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_07.cs
-
- 6(
- "" -- == 
-
-   
-
-%% #
-++ GG 
-55 #666 C
-
-66 #
-;; HH 
-@@ #AA6 C
-
-AA #
-
-EE Å
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_08.cs
-
- 6
- *** EE 
-## +55 
-
-(( 
-
--- #
-33 OO 
-== #>>6 C
-
->> #
-CC PP 
-HH #II6 C
-
-II #
-
-MM À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_09.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_10.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_11.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ ◊
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_12.cs
-
- 6
-
- 
-
-   #
-%% #&&6 C
-
-&& #
-,, >> 
-11 #226 C
-
-22 #
-77 #886 C
-
-88 #
-
-<< À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_13.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_14.cs
-
- 6
-
- 
-
-   #
-&& BB 
-00 #116 C
-
-11 #
-66 CC 
-;; #<<6 C
-
-<< #
-
-@@ À
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_15.cs
-
- 6
-
- 
-
-!! #
-,, OO 
-66 #776 C
-
-77 #
-== PP 
-CC #DD6 C
-
-DD #
-
-MM ì
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_16.cs
-
- 6
-
- 
-
-   #
-'' 44 
-,, #--6 C
-
--- #
-
-22 ”
-®C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\CWE477_Obsolete_Functions__Socket_TcpListener_17.cs
-
- 6
-
- 
-   
-
-   #
-&& 22 
-(( (( (( 
-++ #,,6 C
-
-,, #
-
-00 ì
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\Program.cs
+˙
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_01.cs
+
+ 5
+
+ (
+  "" && #
+  
+
+** 
+// ,, 2
+11 66 99 == @@ #
+22 33 ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_02.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_03.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb ê
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_04.cs
+
+ 5
+ )   SS 
+ *66 
+
+ (
+"" !'' ** .. '
+## $$ 
+44 jj 2
+== !BB EE II LL '
+>> ?? 
+QQ kk 2
+UU !ZZ ]] aa dd '
+VV WW 
+
+hh ê
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_05.cs
+
+ 5
+    SS 
+ 66 
+
+ (
+"" !'' ** .. '
+## $$ 
+44 jj 2
+== !BB EE II LL '
+>> ?? 
+QQ kk 2
+UU !ZZ ]] aa dd '
+VV WW 
+
+hh Ñ
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_06.cs
+
+ 5(
+ ( 55 RR 
+
+ (
+!! !&& )) -- '
+"" ## 
+33 ii 2
+<< !AA DD HH KK '
+== >> 
+PP jj 2
+TT !YY \\ `` cc '
+UU VV 
+
+gg Ñ
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_07.cs
+
+ 5(
+  55 RR 
+
+ (
+!! !&& )) -- '
+"" ## 
+33 ii 2
+<< !AA DD HH KK '
+== >> 
+PP jj 2
+TT !YY \\ `` cc '
+UU VV 
+
+gg ê
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_08.cs
+
+ 5
+ *'' ZZ 
+   +== 
+
+%% (
+)) !.. 11 55 '
+** ++ 
+;; qq 2
+DD !II LL PP SS '
+EE FF 
+XX rr 2
+\\ !aa dd hh kk '
+]] ^^ 
+
+oo ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_09.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_10.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_11.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb é
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_12.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  2
+,, !11 44 88 ;; '
+-- .. 
+AA mm 2
+EE !JJ MM QQ TT '
+FF GG 2
+XX !]] `` dd gg '
+YY ZZ 
+
+kk ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_13.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_14.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+.. dd 2
+77 !<< ?? CC FF '
+88 99 
+KK ee 2
+OO !TT WW [[ ^^ '
+PP QQ 
+
+bb ⁄
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_15.cs
+
+ 5
+
+ (
+ !"" %% )) '
+  
+44 qq 2
+== !BB EE II LL '
+>> ?? 
+RR rr 2
+WW !\\ __ cc ff '
+XX YY 
+
+oo ˙
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_16.cs
+
+ 5
+
+ (
+ !!! $$ (( '
+  
+// II 2
+33 !88 ;; ?? BB '
+44 55 
+
+GG ∫
+≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\CWE478_Missing_Default_Case_in_Switch__basic_17.cs
+
+ 5
+
+ 
+   (
+ !!! $$ (( '
+  
+.. GG 
+00 00 00 2
+22 !77 :: >> AA '
+33 44 
+
+EE ú
+ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\Program.cs
 
  
 
@@ -865,15 +270,13 @@
 OO  CC 
 UU  DD 
 [[  EE 
-aa  FF 
+aa  FF 
+ww  GG 
+}}  HH 
 
-ôô  GG 
+ÉÉ  II 
 
-üü  HH 
+ââ  JJ 
 
-••  II 
-
-´´  JJ 
-
-±±  KK í
-èC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\Properties\AssemblyInfo.cs
+èè  KK û
+õC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE478_Missing_Default_Case_in_Switch\Properties\AssemblyInfo.cs

@@ -1,230 +1,228 @@
-¨
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_01.cs
+˝
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_01.cs
 
- (
+ !
 
- 
- # '
-     
+ 
 
 "" 
-'' $$ 
-)) ++  ,,  ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_02.cs
+'' $$ 
+**( 4-- 
+,, --) 5..9 E…
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_02.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_03.cs
+HH …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_03.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB ò
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_04.cs
+HH ˇ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_04.cs
 
- (
- )   ?? 
- *.. 
+ !
+ )## BB 
+ *.. 
 
- 
-"" $$' +
-$$ %% $&& $
-,, JJ 
-55 77 $88 $
-== KK 
-AA CC $DD $
+!! 
+,, PP 
+66, 899 
+88 #99- 9::= I
+@@ QQ 
+EE, 8HH 
+GG #HH- 9II= I
 
-HH ò
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_05.cs
+NN ˇ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_05.cs
 
- (
-    ?? 
- .. 
+ !
+ ## BB 
+ .. 
 
- 
-"" $$' +
-$$ %% $&& $
-,, JJ 
-55 77 $88 $
-== KK 
-AA CC $DD $
+!! 
+,, PP 
+66, 899 
+88 #99- 9::= I
+@@ QQ 
+EE, 8HH 
+GG #HH- 9II= I
 
-HH å
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_06.cs
+NN Û
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_06.cs
 
- ((
- ( -- >> 
+ !(
+ ("" -- AA 
 
- 
-!! ##' +
-## $$ $%% $
-++ II 
-44 66 $77 $
-<< JJ 
-@@ BB $CC $
+   
+++ OO 
+55, 888 
+77 #88- 999= I
+?? PP 
+DD, 8GG 
+FF #GG- 9HH= I
 
-GG å
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_07.cs
+MM Û
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_07.cs
 
- ((
-  -- >> 
+ !(
+ "" -- AA 
 
- 
-!! ##' +
-## $$ $%% $
-++ II 
-44 66 $77 $
-<< JJ 
-@@ BB $CC $
+   
+++ OO 
+55, 888 
+77 #88- 999= I
+?? PP 
+DD, 8GG 
+FF #GG- 9HH= I
 
-GG ò
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_08.cs
+MM ˇ
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_08.cs
 
- (
- *'' FF 
-   +55 
+ !
+ *** II 
+## +55 
 
-%% 
-)) ++' +
-++ ,, $-- $
-33 QQ 
-<< >> $?? $
-DD RR 
-HH JJ $KK $
+(( 
+33 WW 
+==, 8@@ 
+?? #@@- 9AA= I
+GG XX 
+LL, 8OO 
+NN #OO- 9PP= I
 
-OO ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_09.cs
+UU …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_09.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_10.cs
+HH …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_10.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_11.cs
+HH …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_11.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB Ï
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_12.cs
+HH È
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_12.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-$$ && $'' $
--- AA 
-11 33 $44 $
-88 :: $;; $
+ 
+%%, 8(( 
+'' #((- 9))= I
+00 JJ 
+55, 888 
+77 #88- 999= I
+??, 8BB 
+AA #BB- 9CC= I
 
-?? ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_13.cs
+HH …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_13.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_14.cs
+HH …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_14.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-&& DD 
-// 11 $22 $
-77 EE 
-;; == $>> $
+ 
+&& JJ 
+00, 833 
+22 #33- 944= I
+:: KK 
+??, 8BB 
+AA #BB- 9CC= I
 
-BB ‚
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_15.cs
+HH …
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_15.cs
 
- (
+ !
 
- 
- ' +
-    $!! $
-,, QQ 
-55 77 $88 $
->> RR 
-CC EE $FF $
+ 
+,, WW 
+66, 899 
+88 #99- 9::= I
+AA XX 
+GG, 8JJ 
+II #JJ- 9KK= I
 
-OO ¨
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_16.cs
+UU ˝
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_16.cs
 
- (
+ !
 
- 
- ' +
-  $   $
-'' 55 
-++ -- $.. $
+ 
+'' 88 
+,,, 8// 
+.. #//- 900= I
 
-33 Ï
-ôC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\CWE336_Same_Seed_in_PRNG__basic_17.cs
+66 Ω
+äC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\CWE338_Weak_PRNG__random_17.cs
 
- (
+ !
 
- 
-   
- ' +
-  $   $
-&& 33 
-(( (( (( 
-** ,, $-- $
+ 
+   
+&& 66 
+(( (( (( 
+++, 8.. 
+-- #..- 9//= I
 
-11 é
-~C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\Program.cs
+44 Ü
+vC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\Program.cs
 
  
 
@@ -246,5 +244,5 @@
 
 ââ  JJ 
 
-èè  KK ë
-éC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE336_Same_Seed_in_PRNG\Properties\AssemblyInfo.cs
+èè  KK â
+ÜC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE338_Weak_PRNG\Properties\AssemblyInfo.cs

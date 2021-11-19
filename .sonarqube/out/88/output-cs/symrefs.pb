@@ -1,311 +1,435 @@
-÷
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_01.cs
+–
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs
 
- 3
+ C
 
- 
- !B T''F X
-! -!! 
-$$ %(( '
+ 
 
--- 
-22 // 
-44 !77B T
-77! -99 
-<< %?? 'Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_02.cs
+) ,
 
- 3
+; ?
+  
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+"" 
+""* -$$ 
+""< @$$ 
+'' $$ 
 
-__ Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_03.cs
+''# &
 
- 3
+''5 9
+)) ++ î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+ C
 
-__ …
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_04.cs
+ 
 
- 3
- )"" SS 
- *99 
+) ,
 
-   
-$$ %''F X//J \
-''% 1))  
-,,  )00" +
-77 gg 
-@@ %CCF X
-CC% 1EE  
-HH  )KK" +
-QQ hh 
-UU %XXF X
-XX% 1ZZ  
-]]  )``" +
+; ?
+    
+&& BB 
 
-ee …
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_05.cs
+&&# &
 
- 3
- "" SS 
- 99 
+&&5 9
+// 11 
+66 CC 
 
-   
-$$ %''F X//J \
-''% 1))  
-,,  )00" +
-77 gg 
-@@ %CCF X
-CC% 1EE  
-HH  )KK" +
-QQ hh 
-UU %XXF X
-XX% 1ZZ  
-]]  )``" +
+66# &
 
-ee ù
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_06.cs
+665 9
+:: << 
 
- 3(
- (!! 88 RR 
+@@ 
+@@* -BB CC 
+@@< @BB CC î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs
 
- 
-## %&&F X..J \
-&&% 1((  
-++  )//" +
-66 ff 
-?? %BBF X
-BB% 1DD  
-GG  )JJ" +
-PP gg 
-TT %WWF X
-WW% 1YY  
-\\  )__" +
+ C
 
-dd ù
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_07.cs
+ 
 
- 3(
- !! 88 RR 
+) ,
 
- 
-## %&&F X..J \
-&&% 1((  
-++  )//" +
-66 ff 
-?? %BBF X
-BB% 1DD  
-GG  )JJ" +
-PP gg 
-TT %WWF X
-WW% 1YY  
-\\  )__" +
+; ?
+    
+&& BB 
 
-dd …
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_08.cs
+&&# &
 
- 3
- *)) ZZ 
-"" +@@ 
+&&5 9
+// 11 
+66 CC 
 
-'' 
-++ %..F X66J \
-..% 100  
-33  )77" +
->> nn 
-GG %JJF X
-JJ% 1LL  
-OO  )RR" +
-XX oo 
-\\ %__F X
-__% 1aa  
-dd  )gg" +
+66# &
 
-ll Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_09.cs
+665 9
+:: << 
 
- 3
+@@ 
+@@* -BB CC 
+@@< @BB CC ¤
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+ C
+ )"" >> 
+ *.. 
 
-__ Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_10.cs
+   
 
- 3
+  ) ,
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+  ; ?
+$$ && 
+,, HH 
 
-__ Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_11.cs
+,,# &
 
- 3
+,,5 9
+55 77 
+<< II 
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+<<# &
 
-__ û
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_12.cs
+<<5 9
+@@ BB 
 
- 3
+FF 
+FF* -HH II 
+FF< @HH II ¤
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-// %22F X
-22% 144  
-77  )::" +
-AA gg 
-EE %HHF X
-HH% 1JJ  
-MM  )PP" +
-UU %XXF X
-XX% 1ZZ  
-]]  )``" +
+ C
+ "" >> 
+ .. 
 
-ee Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_13.cs
+   
 
- 3
+  ) ,
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+  ; ?
+$$ && 
+,, HH 
 
-__ Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_14.cs
+,,# &
 
- 3
+,,5 9
+55 77 
+<< II 
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 aa 
-:: %==F X
-==% 1??  
-BB  )EE" +
-KK bb 
-OO %RRF X
-RR% 1TT  
-WW  )ZZ" +
+<<# &
 
-__ Ï
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_15.cs
+<<5 9
+@@ BB 
 
- 3
+FF 
+FF* -HH II 
+FF< @HH II ˜
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs
 
- 
- %""F X**J \
-""% 1$$  
-''  )++" +
-77 nn 
-@@ %CCF X
-CC% 1EE  
-HH  )KK" +
-RR oo 
-WW %ZZF X
-ZZ% 1\\  
-__  )bb" +
+ C(
+ (!! -- == 
 
-ll ÷
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_16.cs
+ 
 
- 3
+) ,
 
- 
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-22 II 
-66 %99F X
-99% 1;;  
->>  )AA" +
+; ?
+## %% 
+++ GG 
 
-GG ·
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\CWE535_Info_Exposure_Shell_Error__Database_17.cs
+++# &
 
- 3
+++5 9
+44 66 
+;; HH 
 
- 
-   
- %!!F X))J \
-!!% 1##  
-&&  )**" +
-11 GG 
-33 33 33 
-55 %88F X
-88% 1::  
-==  )@@" +
+;;# &
 
-EE —
-†C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\Program.cs
+;;5 9
+?? AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH ˜
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs
+
+ C(
+ !! -- == 
+
+ 
+
+) ,
+
+; ?
+## %% 
+++ GG 
+
+++# &
+
+++5 9
+44 66 
+;; HH 
+
+;;# &
+
+;;5 9
+?? AA 
+
+EE 
+EE* -GG HH 
+EE< @GG HH ¤
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs
+
+ C
+ *)) EE 
+"" +55 
+
+'' 
+
+'') ,
+
+''; ?
+++ -- 
+33 OO 
+
+33# &
+
+335 9
+<< >> 
+CC PP 
+
+CC# &
+
+CC5 9
+GG II 
+
+MM 
+MM* -OO PP 
+MM< @OO PP î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+&& BB 
+
+&&# &
+
+&&5 9
+// 11 
+66 CC 
+
+66# &
+
+665 9
+:: << 
+
+@@ 
+@@* -BB CC 
+@@< @BB CC î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+&& BB 
+
+&&# &
+
+&&5 9
+// 11 
+66 CC 
+
+66# &
+
+665 9
+:: << 
+
+@@ 
+@@* -BB CC 
+@@< @BB CC î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+&& BB 
+
+&&# &
+
+&&5 9
+// 11 
+66 CC 
+
+66# &
+
+665 9
+:: << 
+
+@@ 
+@@* -BB CC 
+@@< @BB CC Â
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+$$ && 
+,, >> 
+
+,,# &
+
+,,5 9
+00 22 
+66 88 
+
+<< 
+<<* ->> 
+<<< @>> î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+&& BB 
+
+&&# &
+
+&&5 9
+// 11 
+66 CC 
+
+66# &
+
+665 9
+:: << 
+
+@@ 
+@@* -BB CC 
+@@< @BB CC î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+&& BB 
+
+&&# &
+
+&&5 9
+// 11 
+66 CC 
+
+66# &
+
+665 9
+:: << 
+
+@@ 
+@@* -BB CC 
+@@< @BB CC î
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+ !! 
+,, OO 
+
+,,# &
+
+,,5 9
+55 77 
+== PP 
+
+==# &
+
+==5 9
+BB DD 
+
+MM 
+MM* -OO PP 
+MM< @OO PP –
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+    
+'' 44 
+
+''# &
+
+''5 9
+++ -- 
+
+22 
+22* -44 
+22< @44 Ö
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs
+
+ C
+
+ 
+
+) ,
+
+; ?
+   
+    
+&& 22 
+
+&&# &
+
+&&5 9
+(( (( (( 
+** ,, 
+
+00 
+00* -22 
+00< @22 ¦
+›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\Program.cs
 
  
 
@@ -321,11 +445,8 @@
 [[  EE 
 aa  FF 
 gg  GG 
-}}  HH 
-
-ƒƒ  II 
-
-‰‰  JJ 
-
-  KK ™
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE535_Info_Exposure_Shell_Error\Properties\AssemblyInfo.cs
+mm  HH 
+ss  II 
+yy  JJ 
+  KK ®
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE539_Information_Exposure_Through_Persistent_Cookie\Properties\AssemblyInfo.cs

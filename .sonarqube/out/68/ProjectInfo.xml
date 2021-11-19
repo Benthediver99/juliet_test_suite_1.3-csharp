@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE400_Uncontrolled_Resource_Consumption_s03</ProjectName>
+  <ProjectName>CWE404_Improper_Resource_Shutdown</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>ed4d96bc-a28d-8456-e2b1-c865968c25af</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s03\CWE400_Uncontrolled_Resource_Consumption_s03.csproj</FullPath>
+  <ProjectGuid>e14922f8-78b9-3976-2a89-d65b89d76a1e</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\68\FilesToAnalyze.txt" />

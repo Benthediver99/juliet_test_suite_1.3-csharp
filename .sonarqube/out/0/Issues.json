@@ -41,10 +41,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
                 "region": {
-                  "startLine": 85,
-                  "startColumn": 28,
-                  "endLine": 85,
-                  "endColumn": 45
+                  "startLine": 23,
+                  "startColumn": 35,
+                  "endLine": 23,
+                  "endColumn": 83
                 }
               }
             }
@@ -54,9 +54,9 @@
           }
         },
         {
-          "ruleId": "S2223",
+          "ruleId": "S1104",
           "level": "warning",
-          "message": "Change the visibility of 'staticTrue' or make it 'const' or 'readonly'.",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
           "locations": [
             {
               "resultFile": {
@@ -65,7 +65,7 @@
                   "startLine": 85,
                   "startColumn": 28,
                   "endLine": 85,
-                  "endColumn": 38
+                  "endColumn": 45
                 }
               }
             }
@@ -87,48 +87,6 @@
                   "startColumn": 28,
                   "endLine": 86,
                   "endColumn": 47
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2223",
-          "level": "warning",
-          "message": "Change the visibility of 'staticFalse' or make it 'const' or 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 28,
-                  "endLine": 86,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 35,
-                  "endLine": 23,
-                  "endColumn": 83
                 }
               }
             }
@@ -182,6 +140,48 @@
         {
           "ruleId": "S2223",
           "level": "warning",
+          "message": "Change the visibility of 'staticTrue' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 28,
+                  "endLine": 85,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'staticFalse' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 28,
+                  "endLine": 86,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
           "message": "Change the visibility of 'Logger' or make it 'const' or 'readonly'.",
           "locations": [
             {
@@ -192,27 +192,6 @@
                   "startColumn": 35,
                   "endLine": 23,
                   "endColumn": 41
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3400",
-          "level": "warning",
-          "message": "Remove this method and declare a constant for this value.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
-                "region": {
-                  "startLine": 89,
-                  "startColumn": 28,
-                  "endLine": 89,
-                  "endColumn": 45
                 }
               }
             }
@@ -251,10 +230,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
                 "region": {
-                  "startLine": 139,
-                  "startColumn": 13,
-                  "endLine": 139,
-                  "endColumn": 25
+                  "startLine": 101,
+                  "startColumn": 20,
+                  "endLine": 101,
+                  "endColumn": 32
                 }
               }
             }
@@ -293,10 +272,31 @@
               "resultFile": {
                 "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
                 "region": {
-                  "startLine": 101,
-                  "startColumn": 20,
-                  "endLine": 101,
-                  "endColumn": 32
+                  "startLine": 139,
+                  "startColumn": 13,
+                  "endLine": 139,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcasesupport/IO.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 28,
+                  "endLine": 89,
+                  "endColumn": 45
                 }
               }
             }

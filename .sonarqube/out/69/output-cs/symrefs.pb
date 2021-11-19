@@ -1,82 +1,385 @@
-Ë
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.cs
+∞
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_01.cs
 
-
- I
+ .
 
-  2
-  $ &!! ## 
- ! '
-&&# +((T \
-++ '--O W
+ (
+ "" '' --! -(
+ ## (( .." -(
+** // 00 11 (
+,, &-- .. //  )
 
-22 !
-88 44 2
-:: >> ??$ &MM OO 
-?? !AA '
-CC 'EEO W
-RR# +TTT \Ú
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__db_Connection_01.cs
+66 
+;; 88 (
+>> BB GG MM! .(
+?? CC HH NN" -(
+JJ OO PP QQ (
+LL &MM NN OO  )Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_02.cs
 
-
- =
+ .
 
-  2
- & / ;77 $99 $F
-      !!# *++ -- 
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
 
- 
- $ 
-!!  ##  %%# /
-00$ -22T ]
-<<$ ->>R [
-BB  )DD? H
+zz Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_03.cs
 
-II !
-OO KK 2
-QQ &XX YY/ ;zz $|| $F
-RR YY ZZ ]] ^^# *nn pp 
+ .
 
-VV 
-[[ $\\ 
-^^  ``  bb# /
-ee  )gg? H
-ss$ -uuR [
-$ -
-ÅÅR [Ÿ
-∞C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__FileReader_01.cs
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
 
-
- :
+zz ™
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_04.cs
 
-  2
-  $ & !! 
- ! '
-$$# +&&T \
-)) '++O W
+ .
+ )## ee 
+ *BB 
 
-00 !
-66 22 2
-88 << ==$ &JJ LL 
-== !?? '
-AA 'CCO W
-OO# +QQR Z°
-∏C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.cs
+!! (
+&& ** // 55% 1(
+'' ++ 00 66& 1(
+22 "77 88 99 (
+44! *55 66 77$ -
+@@ 
+ÇÇ (
+JJ  NN SS YY% 2(
+KK OO TT ZZ& 1(
+VV "[[ \\ ]] (
+XX! *YY ZZ [[$ -
+cc 
+ÉÉ (
+hh  ll qq ww% 2(
+ii mm rr xx& 1(
+tt "yy zz {{ (
+vv! *ww xx yy$ -
 
-
- B
- % !  
- '  %
- $ 
+ÄÄ ™
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_05.cs
 
-  
-"" )++ -- +
-## &'' "22 %
-%% &88 
-66 == 
+ .
+ ## ee 
+ BB 
 
-;; !î
-áC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\Program.cs
+!! (
+&& ** // 55% 1(
+'' ++ 00 66& 1(
+22 "77 88 99 (
+44! *55 66 77$ -
+@@ 
+ÇÇ (
+JJ  NN SS YY% 2(
+KK OO TT ZZ& 1(
+VV "[[ \\ ]] (
+XX! *YY ZZ [[$ -
+cc 
+ÉÉ (
+hh  ll qq ww% 2(
+ii mm rr xx& 1(
+tt "yy zz {{ (
+vv! *ww xx yy$ -
+
+ÄÄ ú
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_06.cs
+
+ .(
+ ("" AA dd 
+
+   (
+%% )) .. 44% 1(
+&& ** // 55& 1(
+11 "66 77 88 (
+33! *44 55 66$ -
+?? 
+ÅÅ (
+II  MM RR XX% 2(
+JJ NN SS YY& 1(
+UU "ZZ [[ \\ (
+WW! *XX YY ZZ$ -
+bb 
+ÇÇ (
+gg  kk pp vv% 2(
+hh ll qq ww& 1(
+ss "xx yy zz (
+uu! *vv ww xx$ -
+
+ ú
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_07.cs
+
+ .(
+ "" AA dd 
+
+   (
+%% )) .. 44% 1(
+&& ** // 55& 1(
+11 "66 77 88 (
+33! *44 55 66$ -
+?? 
+ÅÅ (
+II  MM RR XX% 2(
+JJ NN SS YY& 1(
+UU "ZZ [[ \\ (
+WW! *XX YY ZZ$ -
+bb 
+ÇÇ (
+gg  kk pp vv% 2(
+hh ll qq ww& 1(
+ss "xx yy zz (
+uu! *vv ww xx$ -
+
+ ≤
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_08.cs
+
+ .
+ *** ll 
+## +II 
+
+(( (
+-- 11 66 <<% 1(
+.. 22 77 ==& 1(
+99 ">> ?? @@ (
+;;! *<< == >>$ -
+GG 
+ââ (
+QQ  UU ZZ ``% 2(
+RR VV [[ aa& 1(
+]] "bb cc dd (
+__! *`` aa bb$ -
+jj 
+ää (
+oo  ss xx ~~% 2(
+pp tt yy & 1.
+{{ "
+ÄÄ 
+ÅÅ 
+ÇÇ *
+}}! *~~  
+ÄÄ$ -
+
+áá Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_09.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
+
+zz Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_10.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
+
+zz Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_11.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
+
+zz î
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_12.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -(
+99  == BB HH% 2(
+:: >> CC II& 1(
+EE "JJ KK LL (
+GG! *HH II JJ$ -
+SS 
+ãã (
+XX  \\ aa gg% 2(
+YY ]] bb hh& 1(
+dd "ii jj kk (
+ff! *gg hh ii$ -*
+qq  uu zz 
+ÄÄ% 2*
+rr vv {{ 
+ÅÅ& 1.
+}} "
+ÇÇ 
+ÉÉ 
+ÑÑ .
+! *
+ÄÄ 
+ÅÅ 
+ÇÇ$ -
+
+ââ Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_13.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
+
+zz Ó
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_14.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: || (
+DD  HH MM SS% 2(
+EE II NN TT& 1(
+PP "UU VV WW (
+RR! *SS TT UU$ -
+]] }} (
+bb  ff kk qq% 2(
+cc gg ll rr& 1(
+nn "ss tt uu (
+pp! *qq rr ss$ -
+
+zz Ù
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_15.cs
+
+ .
+
+ (
+!! %% ** 00% 1(
+"" && ++ 11& 1(
+-- "22 33 44 (
+//! *00 11 22$ -
+@@ 
+ââ (
+JJ  NN SS YY% 2(
+KK OO TT ZZ& 1(
+VV "[[ \\ ]] (
+XX! *YY ZZ [[$ -
+dd 
+ää (
+jj  nn ss yy% 2(
+kk oo tt zz& 1(
+vv "{{ || }} (
+xx! *yy zz {{$ -
+
+áá ∞
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_16.cs
+
+ .
+
+ (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+;; [[ (
+@@  DD II OO% 2(
+AA EE JJ PP& 1(
+LL "QQ RR SS (
+NN! *OO PP QQ$ -
+
+YY 
+£C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\CWE426_Untrusted_Search_Path__Process_17.cs
+
+ .
+
+ 
+   (
+   $$ )) //% 1(
+!! %% ** 00& 1(
+,, "11 22 33 (
+..! *// 00 11$ -
+:: YY 
+<< << << (
+??  CC HH NN% 2(
+@@ DD II OO& 1(
+KK "PP QQ RR (
+MM! *NN OO PP$ -
+
+WW ì
+ÇC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\Program.cs
 
  
 
@@ -91,10 +394,12 @@
 UU  DD 
 [[  EE 
 aa  FF 
-jj  GG 
-pp  HH 
-vv  II 
-||  JJ 
+ww  GG 
+}}  HH 
 
-ÇÇ  KK ö
-óC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\Properties\AssemblyInfo.cs
+ÉÉ  II 
+
+ââ  JJ 
+
+èè  KK ï
+íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE426_Untrusted_Search_Path\Properties\AssemblyInfo.cs

@@ -1,16 +1,16 @@
-¯
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__class_getClass_equal_01.cs
+°
+≤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__class_getClass_equal_01.cs
 	namespace 	
 	testcases
  
-. *
-CWE570_Expression_Always_False 2
+. )
+CWE571_Expression_Always_True 1
 { 
-class 	C
-7CWE570_Expression_Always_False__class_getClass_equal_01
- A
-:B C
-AbstractTestCaseD T
+class 	B
+6CWE571_Expression_Always_True__class_getClass_equal_01
+ @
+:A B
+AbstractTestCaseC S
 { 
 public 
 override 
@@ -36,27 +36,30 @@
 )K L
 ;L M
 if 
-( 
-random 
-. 
-GetType 
-( 
-)  
-==! #
-rngCsp$ *
-.* +
-GetType+ 2
-(2 3
-)3 4
-)4 5
+( 
+! 
+( 
+random 
+. 
+GetType  
+(  !
+)! "
+==# %
+rngCsp& ,
+., -
+GetType- 4
+(4 5
+)5 6
+)6 7
+)7 8
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -161,96 +164,21 @@
 }00 
 }11 	
 }44 
-}55 ¸
-
-•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__false_01.cs
+}55 ˜
+±C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__n_equal_m_minus_one_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	4
-(CWE570_Expression_Always_False__false_01
- 2
-:3 4
-AbstractTestCase5 E
-{ 
-public 
-override 
-void 
-Bad  
-(  !
-)! "
-{ 	
-if 
-( 
-false 
-) 
-{ 
-IO 
-. 
-	WriteLine 
-( 
-$str +
-)+ ,
-;, -
-} 
-} 	
-public 
-override 
-void 
-Good !
-(! "
-)" #
-{ 	
-Good1 
-( 
-) 
-; 
-} 	
-private 
-void 
-Good1 
-( 
-) 
-{ 	
-if!! 
-(!! 
-IO!! 
-.!! $
-StaticReturnsTrueOrFalse!! +
-(!!+ ,
-)!!, -
-)!!- .
-{"" 
-IO## 
-.## 
-	WriteLine## 
-(## 
-$str## /
-)##/ 0
-;##0 1
-}$$ 
-}%% 	
-}(( 
-})) ù
-≥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__n_equal_n_minus_one_01.cs
-	namespace		 	
-	testcases		
- 
-.		 *
-CWE570_Expression_Always_False		 2
-{
-
- 
-class 	B
-6CWE570_Expression_Always_False__n_equal_n_minus_one_01
- @
-:A B
-AbstractTestCaseC S
+class 	A
+5CWE571_Expression_Always_True__n_equal_m_minus_one_01
+ ?
+:@ A
+AbstractTestCaseB R
 { 
 public 
 override 
@@ -263,61 +191,52 @@
 	intThirty 
 = 
 $num 
-; 
-if 
-( 
-	intThirty 
-== 
-( 
-	intThirty '
--( )
-$num* +
-)+ ,
-), -
-{ 
-IO 
-. 
-	WriteLine 
-( 
-$str +
-)+ ,
-;, -
-} 
-} 	
-public 
-override 
-void 
-Good !
-(! "
-)" #
-{ 	
-Good1 
-( 
-) 
-; 
-} 	
-private   
-void   
-Good1   
-(   
-)   
-{!! 	
-int"" 
-intSecureRandom1""  
-=""! "
-(""# $
-new""$ '
-Random""( .
-("". /
-)""/ 0
-)""0 1
-.""1 2
-Next""2 6
-(""6 7
-)""7 8
-;""8 9
+; 
+int 
+intThirtyOne 
+= 
+$num !
+;! "
+if 
+( 
+	intThirty 
+== 
+( 
+intThirtyOne *
+-+ ,
+$num- .
+). /
+)/ 0
+{ 
+IO 
+. 
+	WriteLine 
+( 
+$str ,
+), -
+;- .
+} 
+} 	
+public 
+override 
+void 
+Good !
+(! "
+)" #
+{ 	
+Good1 
+( 
+) 
+; 
+} 	
+private!! 
+void!! 
+Good1!! 
+(!! 
+)!! 
+{"" 	
 int## 
-intSecureRandom2##  
+intSecureRandom1##  
 =##! "
 (### $
 new##$ '
@@ -329,39 +248,53 @@
 Next##2 6
 (##6 7
 )##7 8
-;##8 9
-if%% 
-(%% 
-intSecureRandom1%%  
-!=%%! #
-intSecureRandom2%%$ 4
-)%%4 5
-{&& 
-IO'' 
-.'' 
-	WriteLine'' 
-('' 
-$str'' /
-)''/ 0
-;''0 1
-}(( 
-})) 	
-},, 
-}-- ê
-ÆC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__n_less_int_min_01.cs
+;##8 9
+int$$ 
+intSecureRandom2$$  
+=$$! "
+($$# $
+new$$$ '
+Random$$( .
+($$. /
+)$$/ 0
+)$$0 1
+.$$1 2
+Next$$2 6
+($$6 7
+)$$7 8
+;$$8 9
+if&& 
+(&& 
+intSecureRandom1&&  
+!=&&! #
+intSecureRandom2&&$ 4
+)&&4 5
+{'' 
+IO(( 
+.(( 
+	WriteLine(( 
+((( 
+$str(( /
+)((/ 0
+;((0 1
+})) 
+}** 	
+}-- 
+}.. å
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__n_less_int_max_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	=
-1CWE570_Expression_Always_False__n_less_int_min_01
- ;
-:< =
-AbstractTestCase> N
+class 	<
+0CWE571_Expression_Always_True__n_less_int_max_01
+ :
+:; <
+AbstractTestCase= M
 { 
 public 
 override 
@@ -390,16 +323,16 @@
 <  !
 int" %
 .% &
-MinValue& .
+MaxValue& .
 ). /
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -451,28 +384,28 @@
 }&& 
 }'' 	
 }** 
-}++ £
-ßC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__private_01.cs
+}++ õ
+•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__private_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	6
-*CWE570_Expression_Always_False__private_01
- 4
-:5 6
-AbstractTestCase7 G
+class 	5
+)CWE571_Expression_Always_True__private_01
+ 3
+:4 5
+AbstractTestCase6 F
 { 
 private 
-bool 
-privateFalse !
-=" #
-false$ )
-;) *
+bool 
+privateTrue  
+=! "
+true# '
+;' (
 public 
 override 
 void 
@@ -481,17 +414,17 @@
 )! "
 { 	
 if 
-( 
-privateFalse 
-) 
+( 
+privateTrue 
+) 
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -519,9 +452,9 @@
 StaticReturnsTrueOrFalse## +
 (##+ ,
 )##, -
-==##. 0
-privateFalse##1 =
-)##= >
+==##. 0
+privateTrue##1 <
+)##< =
 {$$ 
 IO%% 
 .%% 
@@ -533,21 +466,21 @@
 }&& 
 }'' 	
 }** 
-}++ á
-¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__private_five_01.cs
+}++ É
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__private_five_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	;
-/CWE570_Expression_Always_False__private_five_01
- 9
-:: ;
-AbstractTestCase< L
+class 	:
+.CWE571_Expression_Always_True__private_five_01
+ 8
+:9 :
+AbstractTestCase; K
 { 
 private 
 int 
@@ -565,7 +498,7 @@
 if 
 ( 
 privateFive 
-!= 
+== 
 $num  
 )  !
 { 
@@ -573,9 +506,9 @@
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -608,7 +541,7 @@
 Next## #
 (### $
 )##$ %
-!=##& (
+==##& (
 privateFive##) 4
 )##4 5
 {$$ 
@@ -622,31 +555,31 @@
 }&& 
 }'' 	
 }** 
-}++ √
-ÆC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__private_return_01.cs
+}++ ª
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__private_return_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	=
-1CWE570_Expression_Always_False__private_return_01
- ;
-:< =
-AbstractTestCase> N
+class 	<
+0CWE571_Expression_Always_True__private_return_01
+ :
+:; <
+AbstractTestCase= M
 { 
 private 
-bool 
-PrivateReturnsFalse (
-(( )
-)) *
+bool 
+privateReturnsTrue '
+(' (
+)( )
 { 	
-return 
-false 
-; 
+return 
+true 
+; 
 } 	
 public 
 override 
@@ -656,19 +589,19 @@
 )! "
 { 	
 if 
-( 
-PrivateReturnsFalse #
-(# $
+( 
+privateReturnsTrue "
+(" #
+)# $
 )$ %
-)% &
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -696,11 +629,11 @@
 StaticReturnsTrueOrFalse&& +
 (&&+ ,
 )&&, -
-==&&. 0
-PrivateReturnsFalse&&1 D
-(&&D E
+==&&. 0
+privateReturnsTrue&&1 C
+(&&C D
+)&&D E
 )&&E F
-)&&F G
 {'' 
 IO(( 
 .(( 
@@ -712,30 +645,30 @@
 })) 
 }** 	
 }-- 
-}.. †
-∑C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__private_static_readonly_01.cs
+}.. ò
+µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__private_static_readonly_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	F
-:CWE570_Expression_Always_False__private_static_readonly_01
- D
-:E F
-AbstractTestCaseG W
+class 	E
+9CWE571_Expression_Always_True__private_static_readonly_01
+ C
+:D E
+AbstractTestCaseF V
 { 
 private 
 static 
 readonly 
-bool  $)
-PRIVATE_STATIC_READONLY_FALSE% B
-=C D
-falseE J
-;J K
+bool  $(
+PRIVATE_STATIC_READONLY_TRUE% A
+=B C
+trueD H
+;H I
 public 
 override 
 void 
@@ -744,17 +677,17 @@
 )! "
 { 	
 if 
-( )
-PRIVATE_STATIC_READONLY_FALSE -
-)- .
+( (
+PRIVATE_STATIC_READONLY_TRUE ,
+), -
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -782,9 +715,9 @@
 StaticReturnsTrueOrFalse## +
 (##+ ,
 )##, -
-==##. 0)
-PRIVATE_STATIC_READONLY_FALSE##1 N
-)##N O
+==##. 0(
+PRIVATE_STATIC_READONLY_TRUE##1 M
+)##M N
 {$$ 
 IO%% 
 .%% 
@@ -796,21 +729,21 @@
 }&& 
 }'' 	
 }** 
-}++ Ñ
-ºC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__private_static_readonly_five_01.cs
+}++ Ä
+∫C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__private_static_readonly_five_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	K
-?CWE570_Expression_Always_False__private_static_readonly_five_01
- I
-:J K
-AbstractTestCaseL \
+class 	J
+>CWE571_Expression_Always_True__private_static_readonly_five_01
+ H
+:I J
+AbstractTestCaseK [
 { 
 private 
 static 
@@ -830,7 +763,7 @@
 if 
 ( (
 PRIVATE_STATIC_READONLY_FIVE ,
-!=- /
+==- /
 $num0 1
 )1 2
 { 
@@ -838,9 +771,9 @@
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -873,7 +806,7 @@
 Next## #
 (### $
 )##$ %
-!=##& ((
+==##& ((
 PRIVATE_STATIC_READONLY_FIVE##) E
 )##E F
 {$$ 
@@ -887,21 +820,21 @@
 }&& 
 }'' 	
 }** 
-}++ Î
-¶C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__static_01.cs
+}++ Â
+§C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__static_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	5
-)CWE570_Expression_Always_False__static_01
- 3
-:4 5
-AbstractTestCase6 F
+class 	4
+(CWE571_Expression_Always_True__static_01
+ 2
+:3 4
+AbstractTestCase5 E
 { 
 public 
 override 
@@ -913,17 +846,18 @@
 if 
 ( 
 IO 
-. 
-staticFalse 
-) 
+. 
+
+staticTrue 
+) 
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -953,9 +887,10 @@
 )!!, -
 ==!!. 0
 IO!!1 3
-.!!3 4
-staticFalse!!4 ?
-)!!? @
+.!!3 4
+
+staticTrue!!4 >
+)!!> ?
 {"" 
 IO## 
 .## 
@@ -967,21 +902,21 @@
 }$$ 
 }%% 	
 }(( 
-})) “
-´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__static_five_01.cs
+})) Œ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__static_five_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	:
-.CWE570_Expression_Always_False__static_five_01
- 8
-:9 :
-AbstractTestCase; K
+class 	9
+-CWE571_Expression_Always_True__static_five_01
+ 7
+:8 9
+AbstractTestCase: J
 { 
 public 
 override 
@@ -996,7 +931,7 @@
 . 
 
 staticFive 
-!=  
+==  
 $num! "
 )" #
 { 
@@ -1004,9 +939,9 @@ staticFive 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -1039,7 +974,7 @@ staticFive 
 Next!! #
 (!!# $
 )!!$ %
-!=!!& (
+==!!& (
 IO!!) +
 .!!+ ,
 
@@ -1056,21 +991,21 @@ staticFive!!, 6
 }$$ 
 }%% 	
 }(( 
-})) ë
-ØC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__static_readonly_01.cs
+})) ã
+≠C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__static_readonly_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	>
-2CWE570_Expression_Always_False__static_readonly_01
- <
-:= >
-AbstractTestCase? O
+class 	=
+1CWE571_Expression_Always_True__static_readonly_01
+ ;
+:< =
+AbstractTestCase> N
 { 
 public 
 override 
@@ -1082,17 +1017,17 @@ staticFive!!, 6
 if 
 ( 
 IO 
-. !
-STATIC_READONLY_FALSE (
-)( )
+.  
+STATIC_READONLY_TRUE '
+)' (
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -1122,9 +1057,9 @@ staticFive!!, 6
 )!!, -
 ==!!. 0
 IO!!1 3
-.!!3 4!
-STATIC_READONLY_FALSE!!4 I
-)!!I J
+.!!3 4 
+STATIC_READONLY_TRUE!!4 H
+)!!H I
 {"" 
 IO## 
 .## 
@@ -1136,21 +1071,21 @@ staticFive!!, 6
 }$$ 
 }%% 	
 }(( 
-})) ¯
-¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__static_readonly_five_01.cs
+})) Ù
+≤C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__static_readonly_five_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	C
-7CWE570_Expression_Always_False__static_readonly_five_01
- A
-:B C
-AbstractTestCaseD T
+class 	B
+6CWE571_Expression_Always_True__static_readonly_five_01
+ @
+:A B
+AbstractTestCaseC S
 { 
 public 
 override 
@@ -1164,7 +1099,7 @@ staticFive!!, 6
 IO 
 .  
 STATIC_READONLY_FIVE '
-!=( *
+==( *
 $num+ ,
 ), -
 { 
@@ -1172,9 +1107,9 @@ staticFive!!, 6
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -1207,7 +1142,7 @@ staticFive!!, 6
 Next!! #
 (!!# $
 )!!$ %
-!=!!& (
+==!!& (
 IO!!) +
 .!!+ , 
 STATIC_READONLY_FIVE!!, @
@@ -1223,21 +1158,21 @@ staticFive!!, 6
 }$$ 
 }%% 	
 }(( 
-})) √
-≠C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__static_return_01.cs
+})) Ω
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__static_return_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	<
-0CWE570_Expression_Always_False__static_return_01
- :
-:; <
-AbstractTestCase= M
+class 	;
+/CWE571_Expression_Always_True__static_return_01
+ 9
+:: ;
+AbstractTestCase< L
 { 
 public 
 override 
@@ -1249,19 +1184,19 @@ staticFive!!, 6
 if 
 ( 
 IO 
-. 
-StaticReturnsFalse %
-(% &
+. 
+StaticReturnsTrue $
+($ %
+)% &
 )& '
-)' (
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -1291,11 +1226,11 @@ staticFive!!, 6
 )!!, -
 ==!!. 0
 IO!!1 3
-.!!3 4
-StaticReturnsFalse!!4 F
-(!!F G
+.!!3 4
+StaticReturnsTrue!!4 E
+(!!E F
+)!!F G
 )!!G H
-)!!H I
 {"" 
 IO## 
 .## 
@@ -1307,21 +1242,21 @@ staticFive!!, 6
 }$$ 
 }%% 	
 }(( 
-})) ¨
-≠C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__string_equals_01.cs
+})) ¶
+´C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__string_equals_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	<
-0CWE570_Expression_Always_False__string_equals_01
- :
-:; <
-AbstractTestCase= M
+class 	;
+/CWE571_Expression_Always_True__string_equals_01
+ 9
+:: ;
+AbstractTestCase< L
 { 
 public 
 override 
@@ -1330,28 +1265,30 @@ staticFive!!, 6
 (  !
 )! "
 { 	
-string 
-stringFalse 
-=  
-$str! (
-;( )
+string 
+
+stringTrue 
+= 
+$str  &
+;& '
 if 
-( 
-stringFalse 
-. 
-Equals "
-(" #
-$str# )
+( 
+
+stringTrue 
+. 
+Equals !
+(! "
+$str" (
+)( )
 )) *
-)* +
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -1412,21 +1349,22 @@ staticFive!!, 6
 })) 
 }** 	
 }-- 
-}.. ≥
-∞C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\CWE570_Expression_Always_False__two_equals_three_01.cs
+}.. ı
+
+¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__true_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
-class 	?
-3CWE570_Expression_Always_False__two_equals_three_01
- =
-:> ?
-AbstractTestCase@ P
+class 	2
+&CWE571_Expression_Always_True__true_01
+ 0
+:1 2
+AbstractTestCase3 C
 { 
 public 
 override 
@@ -1437,18 +1375,16 @@ staticFive!!, 6
 { 	
 if 
 ( 
-$num 
-== 
-$num 
-) 
+true 
+) 
 { 
 IO 
 . 
 	WriteLine 
 ( 
-$str +
-)+ ,
-;, -
+$str ,
+), -
+;- .
 } 
 } 	
 public 
@@ -1488,13 +1424,89 @@ staticFive!!, 6
 }$$ 
 }%% 	
 }(( 
-})) ≥G
-ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\Program.cs
+})) ´
+¨C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\CWE571_Expression_Always_True__two_equals_two_01.cs
 	namespace		 	
 	testcases		
  
-.		 *
-CWE570_Expression_Always_False		 2
+.		 )
+CWE571_Expression_Always_True		 1
+{
+
+ 
+class 	<
+0CWE571_Expression_Always_True__two_equals_two_01
+ :
+:; <
+AbstractTestCase= M
+{ 
+public 
+override 
+void 
+Bad  
+(  !
+)! "
+{ 	
+if 
+( 
+$num 
+== 
+$num 
+) 
+{ 
+IO 
+. 
+	WriteLine 
+( 
+$str ,
+), -
+;- .
+} 
+} 	
+public 
+override 
+void 
+Good !
+(! "
+)" #
+{ 	
+Good1 
+( 
+) 
+; 
+} 	
+private 
+void 
+Good1 
+( 
+) 
+{ 	
+if!! 
+(!! 
+IO!! 
+.!! $
+StaticReturnsTrueOrFalse!! +
+(!!+ ,
+)!!, -
+)!!- .
+{"" 
+IO## 
+.## 
+	WriteLine## 
+(## 
+$str## /
+)##/ 0
+;##0 1
+}$$ 
+}%% 	
+}(( 
+})) ûG
+ÉC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\Program.cs
+	namespace		 	
+	testcases		
+ 
+.		 )
+CWE571_Expression_Always_True		 1
 {
 
  
@@ -1753,207 +1765,207 @@ StackTrace55 %
 )gg! "
 {gg# $
 (ii 
-newii C
-7CWE570_Expression_Always_False__class_getClass_equal_01ii ?
-(ii? @
+newii B
+6CWE571_Expression_Always_True__class_getClass_equal_01ii >
+(ii> ?
+)ii? @
 )ii@ A
-)iiA B
-.iiB C
-RunTestiiC J
-(iiJ K
-$str	iiK Ñ
+.iiA B
+RunTestiiB I
+(iiI J
+$str	iiJ Ç
 )
-iiÑ Ö
+iiÇ É
 ;
-iiÖ Ü
+iiÉ Ñ
 (jj 
-newjj 4
-(CWE570_Expression_Always_False__false_01jj 0
-(jj0 1
-)jj1 2
-)jj2 3
-.jj3 4
-RunTestjj4 ;
-(jj; <
-$strjj< f
-)jjf g
-;jjg h
+newjj A
+5CWE571_Expression_Always_True__n_equal_m_minus_one_01jj =
+(jj= >
+)jj> ?
+)jj? @
+.jj@ A
+RunTestjjA H
+(jjH I
+$str	jjI Ä
+)
+jjÄ Å
+;
+jjÅ Ç
 (kk 
-newkk B
-6CWE570_Expression_Always_False__n_equal_n_minus_one_01kk >
-(kk> ?
-)kk? @
-)kk@ A
-.kkA B
-RunTestkkB I
-(kkI J
-$str	kkJ Ç
-)
-kkÇ É
-;
-kkÉ Ñ
+newkk <
+0CWE571_Expression_Always_True__n_less_int_max_01kk 8
+(kk8 9
+)kk9 :
+)kk: ;
+.kk; <
+RunTestkk< C
+(kkC D
+$strkkD v
+)kkv w
+;kkw x
 (ll 
-newll =
-1CWE570_Expression_Always_False__n_less_int_min_01ll 9
-(ll9 :
-)ll: ;
-)ll; <
-.ll< =
-RunTestll= D
-(llD E
-$strllE x
-)llx y
-;lly z
+newll 5
+)CWE571_Expression_Always_True__private_01ll 1
+(ll1 2
+)ll2 3
+)ll3 4
+.ll4 5
+RunTestll5 <
+(ll< =
+$strll= h
+)llh i
+;lli j
 (mm 
-newmm 6
-*CWE570_Expression_Always_False__private_01mm 2
-(mm2 3
-)mm3 4
-)mm4 5
-.mm5 6
-RunTestmm6 =
-(mm= >
-$strmm> j
-)mmj k
-;mmk l
+newmm :
+.CWE571_Expression_Always_True__private_five_01mm 6
+(mm6 7
+)mm7 8
+)mm8 9
+.mm9 :
+RunTestmm: A
+(mmA B
+$strmmB r
+)mmr s
+;mms t
 (nn 
-newnn ;
-/CWE570_Expression_Always_False__private_five_01nn 7
-(nn7 8
-)nn8 9
+newnn <
+0CWE571_Expression_Always_True__private_return_01nn 8
+(nn8 9
 )nn9 :
-.nn: ;
-RunTestnn; B
-(nnB C
-$strnnC t
-)nnt u
-;nnu v
+)nn: ;
+.nn; <
+RunTestnn< C
+(nnC D
+$strnnD v
+)nnv w
+;nnw x
 (oo 
-newoo =
-1CWE570_Expression_Always_False__private_return_01oo 9
-(oo9 :
-)oo: ;
-)oo; <
-.oo< =
-RunTestoo= D
-(ooD E
-$strooE x
-)oox y
-;ooy z
+newoo E
+9CWE571_Expression_Always_True__private_static_readonly_01oo A
+(ooA B
+)ooB C
+)ooC D
+.ooD E
+RunTestooE L
+(ooL M
+$str	ooM à
+)
+ooà â
+;
+ooâ ä
 (pp 
-newpp F
-:CWE570_Expression_Always_False__private_static_readonly_01pp B
-(ppB C
-)ppC D
-)ppD E
-.ppE F
-RunTestppF M
-(ppM N
-$str	ppN ä
+newpp J
+>CWE571_Expression_Always_True__private_static_readonly_five_01pp F
+(ppF G
+)ppG H
+)ppH I
+.ppI J
+RunTestppJ Q
+(ppQ R
+$str	ppR í
 )
-ppä ã
+ppí ì
 ;
-ppã å
+ppì î
 (qq 
-newqq K
-?CWE570_Expression_Always_False__private_static_readonly_five_01qq G
-(qqG H
-)qqH I
-)qqI J
-.qqJ K
-RunTestqqK R
-(qqR S
-$str	qqS î
-)
-qqî ï
-;
-qqï ñ
+newqq 4
+(CWE571_Expression_Always_True__static_01qq 0
+(qq0 1
+)qq1 2
+)qq2 3
+.qq3 4
+RunTestqq4 ;
+(qq; <
+$strqq< f
+)qqf g
+;qqg h
 (rr 
-newrr 5
-)CWE570_Expression_Always_False__static_01rr 1
-(rr1 2
-)rr2 3
-)rr3 4
-.rr4 5
-RunTestrr5 <
-(rr< =
-$strrr= h
-)rrh i
-;rri j
+newrr 9
+-CWE571_Expression_Always_True__static_five_01rr 5
+(rr5 6
+)rr6 7
+)rr7 8
+.rr8 9
+RunTestrr9 @
+(rr@ A
+$strrrA p
+)rrp q
+;rrq r
 (ss 
-newss :
-.CWE570_Expression_Always_False__static_five_01ss 6
-(ss6 7
-)ss7 8
-)ss8 9
-.ss9 :
-RunTestss: A
-(ssA B
-$strssB r
-)ssr s
-;sss t
+newss =
+1CWE571_Expression_Always_True__static_readonly_01ss 9
+(ss9 :
+)ss: ;
+)ss; <
+.ss< =
+RunTestss= D
+(ssD E
+$strssE x
+)ssx y
+;ssy z
 (tt 
-newtt >
-2CWE570_Expression_Always_False__static_readonly_01tt :
-(tt: ;
-)tt; <
-)tt< =
-.tt= >
-RunTesttt> E
-(ttE F
-$strttF z
-)ttz {
-;tt{ |
-(uu 
-newuu C
-7CWE570_Expression_Always_False__static_readonly_five_01uu ?
-(uu? @
-)uu@ A
-)uuA B
-.uuB C
-RunTestuuC J
-(uuJ K
-$str	uuK Ñ
+newtt B
+6CWE571_Expression_Always_True__static_readonly_five_01tt >
+(tt> ?
+)tt? @
+)tt@ A
+.ttA B
+RunTestttB I
+(ttI J
+$str	ttJ Ç
 )
-uuÑ Ö
+ttÇ É
 ;
-uuÖ Ü
+ttÉ Ñ
+(uu 
+newuu ;
+/CWE571_Expression_Always_True__static_return_01uu 7
+(uu7 8
+)uu8 9
+)uu9 :
+.uu: ;
+RunTestuu; B
+(uuB C
+$struuC t
+)uut u
+;uuu v
 (vv 
-newvv <
-0CWE570_Expression_Always_False__static_return_01vv 8
-(vv8 9
+newvv ;
+/CWE571_Expression_Always_True__string_equals_01vv 7
+(vv7 8
+)vv8 9
 )vv9 :
-)vv: ;
-.vv; <
-RunTestvv< C
-(vvC D
-$strvvD v
-)vvv w
-;vvw x
+.vv: ;
+RunTestvv; B
+(vvB C
+$strvvC t
+)vvt u
+;vvu v
 (ww 
-newww <
-0CWE570_Expression_Always_False__string_equals_01ww 8
-(ww8 9
-)ww9 :
-)ww: ;
-.ww; <
-RunTestww< C
-(wwC D
-$strwwD v
-)wwv w
-;www x
+newww 2
+&CWE571_Expression_Always_True__true_01ww .
+(ww. /
+)ww/ 0
+)ww0 1
+.ww1 2
+RunTestww2 9
+(ww9 :
+$strww: b
+)wwb c
+;wwc d
 (xx 
-newxx ?
-3CWE570_Expression_Always_False__two_equals_three_01xx ;
-(xx; <
-)xx< =
-)xx= >
-.xx> ?
-RunTestxx? F
-(xxF G
-$strxxG |
-)xx| }
-;xx} ~
+newxx <
+0CWE571_Expression_Always_True__two_equals_two_01xx 8
+(xx8 9
+)xx9 :
+)xx: ;
+.xx; <
+RunTestxx< C
+(xxC D
+$strxxD v
+)xxv w
+;xxw x
 }zz 
 private|| 
 static||	 
@@ -2013,17 +2025,17 @@ StackTrace55 %
 }
 íí 
 }ìì 
-}îî ¿
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE570_Expression_Always_False\Properties\AssemblyInfo.cs
+}îî ø
+ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 
 
 AssemblyTitle 
 ( 
-$str 9
-)9 :
-]: ;
+$str 8
+)8 9
+]9 :
 [		 
 assembly		 	
 :			 
@@ -2073,9 +2085,9 @@ StackTrace55 %
 
 AssemblyProduct 
 ( 
-$str ;
-); <
-]< =
+$str :
+): ;
+]; <
 [ 
 assembly 	
 :	 

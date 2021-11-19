@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>CWE90_LDAP_Injection</ProjectName>
+  <ProjectName>CWE94_Improper_Control_of_Generation_of_Code</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>b2a9a960-58f6-7c23-d39c-585fd2a3ac2e</ProjectGuid>
-  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE90_LDAP_Injection\CWE90_LDAP_Injection.csproj</FullPath>
+  <ProjectGuid>6bd32054-05a5-c5b8-e706-713bef762318</ProjectGuid>
+  <FullPath>C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE94_Improper_Control_of_Generation_of_Code\CWE94_Improper_Control_of_Generation_of_Code.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\.sonarqube\conf\133\FilesToAnalyze.txt" />

@@ -1,800 +1,339 @@
-Ö
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_01.cs
+Ž
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_01.cs
 
- '
+ -
 
- 
+ 
 
-   
-%% "" ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_02.cs
+) ,2
+; ?      
 
- '
+$$ 
+$$* -&& 
+$$< @&& 
+)) && 
 
- 
-$$ >> 
-33 ?? 
+))# &2
+))5 9++ ,, .. // ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_02.cs
 
-<< ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_03.cs
+ -
 
- '
+ 
 
- 
-$$ >> 
-33 ?? 
+) ,2
+; ?  !! "" 
+(( HH 
 
-<< ¢
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_04.cs
+((# &2
+((5 911 22 44 55 
+:: II 
 
- '
- )   ;; 
- *,, 
+::# &2
+::5 9>> ?? AA BB 
 
- 
-** DD 
-99 EE 
+FF 
+FF* -HH II 
+FF< @HH II ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_03.cs
 
-BB ¢
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_05.cs
+ -
 
- '
-    ;; 
- ,, 
+ 
 
- 
-** DD 
-99 EE 
+) ,2
+; ?  !! "" 
+(( HH 
 
-BB –
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_06.cs
+((# &2
+((5 911 22 44 55 
+:: II 
 
- '(
- ( ++ :: 
+::# &2
+::5 9>> ?? AA BB 
 
- 
-)) CC 
-88 DD 
+FF 
+FF* -HH II 
+FF< @HH II ®
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_04.cs
 
-AA –
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_07.cs
+ -
+ )"" BB 
+ *00 
 
- '(
-  ++ :: 
+   
 
- 
-)) CC 
-88 DD 
+  ) ,2
+  ; ?$$ %% '' (( 
+.. NN 
 
-AA ¢
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_08.cs
+..# &2
+..5 977 88 :: ;; 
+@@ OO 
 
- '
- *'' BB 
-   +33 
+@@# &2
+@@5 9DD EE GG HH 
 
-%% 
-11 KK 
-@@ LL 
+LL 
+LL* -NN OO 
+LL< @NN OO ®
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_05.cs
 
-II ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_09.cs
+ -
+ "" BB 
+ 00 
 
- '
+   
 
- 
-$$ >> 
-33 ?? 
+  ) ,2
+  ; ?$$ %% '' (( 
+.. NN 
 
-<< ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_10.cs
+..# &2
+..5 977 88 :: ;; 
+@@ OO 
 
- '
+@@# &2
+@@5 9DD EE GG HH 
 
- 
-$$ >> 
-33 ?? 
+LL 
+LL* -NN OO 
+LL< @NN OO ¢
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_06.cs
 
-<< ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_11.cs
+ -(
+ (!! // AA 
 
- '
+ 
 
- 
-$$ >> 
-33 ?? 
+) ,2
+; ?## $$ && '' 
+-- MM 
 
-<< Ö
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_12.cs
+--# &2
+--5 966 77 99 :: 
+?? NN 
 
- '
+??# &2
+??5 9CC DD FF GG 
 
- 
-)) 99 
+KK 
+KK* -MM NN 
+KK< @MM NN ¢
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_07.cs
 
-77 ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_13.cs
+ -(
+ !! // AA 
 
- '
+ 
 
- 
-$$ >> 
-33 ?? 
+) ,2
+; ?## $$ && '' 
+-- MM 
 
-<< ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_14.cs
+--# &2
+--5 966 77 99 :: 
+?? NN 
 
- '
+??# &2
+??5 9CC DD FF GG 
 
- 
-$$ >> 
-33 ?? 
+KK 
+KK* -MM NN 
+KK< @MM NN ®
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_08.cs
 
-<< ì
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_15.cs
+ -
+ *)) II 
+"" +77 
 
- '
+'' 
 
- 
-** KK 
-:: LL 
+'') ,2
+''; ?++ ,, .. // 
+55 UU 
 
-II Ö
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_16.cs
+55# &2
+555 9>> ?? AA BB 
+GG VV 
 
- '
+GG# &2
+GG5 9KK LL NN OO 
 
- 
-%% 11 
+SS 
+SS* -UU VV 
+SS< @UU VV ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_09.cs
 
-// –
-™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__BUG_17.cs
+ -
 
- '
+ 
 
- 
-   
-$$ // 
-&& && && 
+) ,2
+; ?  !! "" 
+(( HH 
 
--- Ø
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_01.cs
+((# &2
+((5 911 22 44 55 
+:: II 
 
- )
+::# &2
+::5 9>> ?? AA BB 
 
- 
+FF 
+FF* -HH II 
+FF< @HH II ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_10.cs
 
-   
-%% "" î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_02.cs
+ -
 
- )
+ 
 
- 
-$$ >> 
-33 ?? 
+) ,2
+; ?  !! "" 
+(( HH 
 
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_03.cs
+((# &2
+((5 911 22 44 55 
+:: II 
 
- )
+::# &2
+::5 9>> ?? AA BB 
 
- 
-$$ >> 
-33 ?? 
+FF 
+FF* -HH II 
+FF< @HH II ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_11.cs
 
-<< ¤
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_04.cs
+ -
 
- )
- )   ;; 
- *,, 
+ 
 
- 
-** DD 
-99 EE 
+) ,2
+; ?  !! "" 
+(( HH 
 
-BB ¤
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_05.cs
+((# &2
+((5 911 22 44 55 
+:: II 
 
- )
-    ;; 
- ,, 
+::# &2
+::5 9>> ?? AA BB 
 
- 
-** DD 
-99 EE 
+FF 
+FF* -HH II 
+FF< @HH II Þ
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_12.cs
 
-BB ˜
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_06.cs
+ -
 
- )(
- ( ++ :: 
+ 
 
- 
-)) CC 
-88 DD 
+) ,Z
+; ?  !! "" && '' )) ** 
+00 FF 
 
-AA ˜
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_07.cs
+00# &Z
+005 944 55 77 88 << == ?? @@ 
 
- )(
-  ++ :: 
+DD 
+DD* -FF 
+DD< @FF ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_13.cs
 
- 
-)) CC 
-88 DD 
+ -
 
-AA ¤
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_08.cs
+ 
 
- )
- *'' BB 
-   +33 
+) ,2
+; ?  !! "" 
+(( HH 
 
-%% 
-11 KK 
-@@ LL 
+((# &2
+((5 911 22 44 55 
+:: II 
 
-II î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_09.cs
+::# &2
+::5 9>> ?? AA BB 
 
- )
+FF 
+FF* -HH II 
+FF< @HH II ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_14.cs
 
- 
-$$ >> 
-33 ?? 
+ -
 
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_10.cs
+ 
 
- )
+) ,2
+; ?  !! "" 
+(( HH 
 
- 
-$$ >> 
-33 ?? 
+((# &2
+((5 911 22 44 55 
+:: II 
 
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_11.cs
+::# &2
+::5 9>> ?? AA BB 
 
- )
+FF 
+FF* -HH II 
+FF< @HH II ø
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_15.cs
 
- 
-$$ >> 
-33 ?? 
+ -
 
-<< Ø
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_12.cs
+ 
 
- )
+) ,2
+; ?    "" ## 
+.. UU 
 
- 
-)) 99 
+..# &2
+..5 977 88 :: ;; 
+AA VV 
 
-77 î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_13.cs
+AA# &2
+AA5 9FF GG II JJ 
 
- )
+SS 
+SS* -UU VV 
+SS< @UU VV Ž
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_16.cs
 
- 
-$$ >> 
-33 ?? 
+ -
 
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_14.cs
+ 
 
- )
+) ,2
+; ?  !! "" 
+)) 88 
 
- 
-$$ >> 
-33 ?? 
+))# &2
+))5 9-- .. 00 11 
 
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_15.cs
+66 
+66* -88 
+66< @88 Î
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\CWE549_Missing_Password_Masking__Web_17.cs
 
- )
+ -
 
- 
-** KK 
-:: LL 
+ 
 
-II Ø
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_16.cs
+) ,2
+; ?  !! "" 
+   
+(( 66 
 
- )
+((# &2
+((5 9,, -- // 00 
+** ** ** 
 
- 
-%% 11 
-
-// ˜
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__FIXME_17.cs
-
- )
-
- 
-   
-$$ // 
-&& && && 
-
--- ×
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_01.cs
-
- (
-
- 
-
-   
-%% "" í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_02.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_03.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< £
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_04.cs
-
- (
- )   ;; 
- *,, 
-
- 
-** DD 
-99 EE 
-
-BB £
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_05.cs
-
- (
-    ;; 
- ,, 
-
- 
-** DD 
-99 EE 
-
-BB —
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_06.cs
-
- ((
- ( ++ :: 
-
- 
-)) CC 
-88 DD 
-
-AA —
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_07.cs
-
- ((
-  ++ :: 
-
- 
-)) CC 
-88 DD 
-
-AA £
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_08.cs
-
- (
- *'' BB 
-   +33 
-
-%% 
-11 KK 
-@@ LL 
-
-II í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_09.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_10.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_11.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< ×
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_12.cs
-
- (
-
- 
-)) 99 
-
-77 í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_13.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_14.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_15.cs
-
- (
-
- 
-** KK 
-:: LL 
-
-II ×
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_16.cs
-
- (
-
- 
-%% 11 
-
-// —
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__HACK_17.cs
-
- (
-
- 
-   
-$$ // 
-&& && && 
-
--- Ø
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_01.cs
-
- )
-
- 
-
-   
-%% "" î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_02.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_03.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< ¤
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_04.cs
-
- )
- )   ;; 
- *,, 
-
- 
-** DD 
-99 EE 
-
-BB ¤
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_05.cs
-
- )
-    ;; 
- ,, 
-
- 
-** DD 
-99 EE 
-
-BB ˜
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_06.cs
-
- )(
- ( ++ :: 
-
- 
-)) CC 
-88 DD 
-
-AA ˜
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_07.cs
-
- )(
-  ++ :: 
-
- 
-)) CC 
-88 DD 
-
-AA ¤
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_08.cs
-
- )
- *'' BB 
-   +33 
-
-%% 
-11 KK 
-@@ LL 
-
-II î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_09.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_10.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_11.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< Ø
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_12.cs
-
- )
-
- 
-)) 99 
-
-77 î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_13.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_14.cs
-
- )
-
- 
-$$ >> 
-33 ?? 
-
-<< î
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_15.cs
-
- )
-
- 
-** KK 
-:: LL 
-
-II Ø
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_16.cs
-
- )
-
- 
-%% 11 
-
-// ˜
-›C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__LATER_17.cs
-
- )
-
- 
-   
-$$ // 
-&& && && 
-
--- ×
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_01.cs
-
- (
-
- 
-
-   
-%% "" í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_02.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_03.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< £
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_04.cs
-
- (
- )   ;; 
- *,, 
-
- 
-** DD 
-99 EE 
-
-BB £
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_05.cs
-
- (
-    ;; 
- ,, 
-
- 
-** DD 
-99 EE 
-
-BB —
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_06.cs
-
- ((
- ( ++ :: 
-
- 
-)) CC 
-88 DD 
-
-AA —
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_07.cs
-
- ((
-  ++ :: 
-
- 
-)) CC 
-88 DD 
-
-AA £
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_08.cs
-
- (
- *'' BB 
-   +33 
-
-%% 
-11 KK 
-@@ LL 
-
-II í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_09.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_10.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_11.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< ×
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_12.cs
-
- (
-
- 
-)) 99 
-
-77 í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_13.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_14.cs
-
- (
-
- 
-$$ >> 
-33 ?? 
-
-<< í
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_15.cs
-
- (
-
- 
-** KK 
-:: LL 
-
-II ×
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_16.cs
-
- (
-
- 
-%% 11 
-
-// —
-šC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\CWE546_Suspicious_Comment__TODO_17.cs
-
- (
-
- 
-   
-$$ // 
-&& && && 
-
--- ‘
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\Program.cs
+44 
+44* -66 
+44< @66 
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\Program.cs
 
  
 
@@ -809,13 +348,9 @@
 UU  DD 
 [[  EE 
 aa  FF 
-gg  GG 
-
-ÁÁ  HH 
-
-ÇÇ  II 
-
-ÍÍ  JJ 
-
-ÓÓ  KK ’
-C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE546_Suspicious_Comment\Properties\AssemblyInfo.cs
+gg  GG 
+mm  HH 
+ss  II 
+yy  JJ 
+  KK ˜
+•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE549_Missing_Password_Masking\Properties\AssemblyInfo.cs

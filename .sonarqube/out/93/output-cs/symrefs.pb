@@ -1,3475 +1,2606 @@
-π
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_01.cs
+Ç
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_01.cs
 
- H
-
- 
-  
-
-%% 
-++ '' 
--- // 11 Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_02.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_03.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF •
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_04.cs
-
- H
- )%% FF 
- *44 
-
-   
-"" $$ 
-// OO 
-11 33 << "
-AA PP 
-CC EE II "
-
-MM •
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_05.cs
-
- H
- $$ EE 
- 33 
+ =
 
  
-!! ## 
-.. NN 
-00 22 ;; "
-@@ OO 
-BB DD HH "
+) ,## 
 
-LL ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_06.cs
+; ?(
+!! ## )) ;;: >2
+$$ "22 33< HEE  GG  (
+%% $33 $55 !88 !(
+&& )) .. 77  "
+++ "--. 1
+66 $77 
+== %??. 7
+JJ  )LL2 ;
 
- H(
- (## 22 DD 
+RR 
+RR* -TT 
+RR< @TT 
+XX TT 
 
- 
-   "" 
--- MM 
-// 11 :: "
-?? NN 
-AA CC GG "
+XX% (
 
-KK ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_07.cs
+XX7 ;(
+ZZ \\ bb tt: >4
+]] "kk ll< H~~  
+ÄÄ  (
+^^ $ll $nn !qq !(
+__ bb gg pp  "
+dd "ff. 1
+oo $pp 
+vv %xx. 7
 
- H(
- ## 22 DD 
+ÉÉ  )
+ÖÖ2 ;¿
 
- 
-   "" 
--- MM 
-// 11 :: "
-?? NN 
-AA CC GG "
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_02.cs
 
-KK •
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_08.cs
-
- H
- *++ LL 
-!! +:: 
-
-&& 
-(( ** 
-55 UU 
-77 99 BB "
-GG VV 
-II KK OO "
-
-SS Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_09.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_10.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_11.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF Õ
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_12.cs
-
- H
-
- 
-  '' "
-.. AA (
-00 22 66 ";; "
-
-?? Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_13.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_14.cs
-
- H
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF Ô
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_15.cs
-
- H
-
- 
-  
-.. UU 
-00 22 ;; "
-AA VV 
-CC EE JJ "
-
-SS π
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_16.cs
-
- H
-
- 
-  
-)) 88 
-++ -- 11 "
-
-66 ˘
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_17.cs
-
- H
-
- 
-  
-    
-)) 77 
-++ -- 11 "
-.. .. ..  
-
-55 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_81a.cs
-
- I
-
- 
-   
-P Z 
-
-## 
-)) %% 
-++ -- // 
-..P Z// Ò
- C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_81_bad.cs
-
- L
-
- 
-
-$ (Ú
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_81_base.cs
-
- V
-
- 
-
-$ (ˇ
-ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_int_81_goodB2G.cs
-
- P
-
- 
-$ ( ∫
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_01.cs
-
- I
-
- 
-  
-
-%% 
-++ '' 
--- // 11 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_02.cs
-
- I
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_03.cs
-
- I
-
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
-
-FF ¶
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_04.cs
-
- I
- )%% FF 
- *44 
-
-   
-"" $$ 
-// OO 
-11 33 << "
-AA PP 
-CC EE II "
-
-MM ¶
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_05.cs
-
- I
- $$ EE 
- 33 
+ =
 
  
-!! ## 
-.. NN 
-00 22 ;; "
-@@ OO 
-BB DD HH "
+) ,%% 
 
-LL ö
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_06.cs
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
 
- I(
- (## 22 DD 
+\\& )
 
- 
-   "" 
--- MM 
-// 11 :: "
-?? NN 
-AA CC GG "
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
 
-KK ö
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_07.cs
+ÉÉ %
+ÖÖ. 7
 
- I(
- ## 22 DD 
+êê  )
+íí2 ;
 
- 
-   "" 
--- MM 
-// 11 :: "
-?? NN 
-AA CC GG "
+òò 
+÷÷ 
 
-KK ¶
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_08.cs
+òò& )
 
- I
- *++ LL 
-!! +:: 
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ ¿
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_03.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
+
+\\& )
+
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
+
+ÉÉ %
+ÖÖ. 7
+
+êê  )
+íí2 ;
+
+òò 
+÷÷ 
+
+òò& )
+
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ Ü
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_04.cs
+
+ = 
+"" ))) 
+¢¢ 
+## *ff 
 
 && 
-(( ** 
-55 UU 
-77 99 BB "
-GG VV 
-II KK OO "
+&&) ,,, 
 
-SS 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_09.cs
+&&; ?2
+(( ,, 22 99 KK: >2
+44 "BB CC< HUU  WW  (
+55 $CC $EE !HH !(
+66 99 >> GG  "
+;; "==. 1
+FF $GG 
+MM %OO. 7
+ZZ  )\\2 ;
+cc 
+‹‹ 
 
- I
+cc& )
 
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
+cc8 <4
+ee jj oo vv 
+àà: >8
+qq " 
+ÄÄ< H
+íí  
+îî  .
+rr $
+ÄÄ $
+ÇÇ !
+ÖÖ !*
+ss vv {{ 
+ÑÑ  "
+xx "zz. 1
 
-FF 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_10.cs
+ÉÉ $
+ÑÑ 
 
- I
+ää %
+åå. 7
 
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
+óó  )
+ôô2 ;
 
-FF 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_11.cs
+üü 
+›› 
 
- I
+üü& )
 
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
+üü8 <<
 
-FF Œ
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_12.cs
+°° 
+•• 
+´´ 
+≤≤ 
+ƒƒ: ><
 
- I
+≠≠ "
+ªª 
+ºº< H
+ŒŒ  
+––  0
 
- 
-  '' "
-.. AA (
-00 22 66 ";; "
+ÆÆ $
+ºº $
+ææ !
+¡¡ !0
 
-?? 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_13.cs
+ØØ 
+≤≤ 
+∑∑ 
+¿¿  "
 
- I
+¥¥ "
+∂∂. 1
 
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
+øø $
+¿¿ 
 
-FF 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_14.cs
+∆∆ %
+»». 7
 
- I
+””  )
+’’2 ;
 
- 
-  
-(( HH 
-** ,, 55 "
-:: II 
-<< >> BB "
+⁄⁄ $
 
-FF 
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_15.cs
+⁄⁄* -
+‹‹ 
+›› $
 
- I
+⁄⁄< @
+‹‹ 
+›› Ü
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_05.cs
 
- 
-  
-.. UU 
-00 22 ;; "
-AA VV 
-CC EE JJ "
+ = 
+"" )) 
+¢¢ 
+## ff 
 
-SS ∫
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_16.cs
+&& 
+&&) ,,, 
 
- I
+&&; ?2
+(( ,, 22 99 KK: >2
+44 "BB CC< HUU  WW  (
+55 $CC $EE !HH !(
+66 99 >> GG  "
+;; "==. 1
+FF $GG 
+MM %OO. 7
+ZZ  )\\2 ;
+cc 
+‹‹ 
 
- 
-  
-)) 88 
-++ -- 11 "
+cc& )
 
-66 ˙
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_17.cs
+cc8 <4
+ee jj oo vv 
+àà: >8
+qq " 
+ÄÄ< H
+íí  
+îî  .
+rr $
+ÄÄ $
+ÇÇ !
+ÖÖ !*
+ss vv {{ 
+ÑÑ  "
+xx "zz. 1
 
- I
+ÉÉ $
+ÑÑ 
 
- 
-  
-    
-)) 77 
-++ -- 11 "
-.. .. ..  
+ää %
+åå. 7
 
-55 Ò
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_81a.cs
+óó  )
+ôô2 ;
 
- J
+üü 
+›› 
 
- 
-   
-Q [ 
+üü& )
 
-## 
-)) %% 
-++ -- // 
-..Q [// Ú
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_81_bad.cs
+üü8 <<
 
- M
+°° 
+•• 
+´´ 
+≤≤ 
+ƒƒ: ><
 
- 
+≠≠ "
+ªª 
+ºº< H
+ŒŒ  
+––  0
 
-% )Û
-ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_81_base.cs
+ÆÆ $
+ºº $
+ææ !
+¡¡ !0
 
- W
+ØØ 
+≤≤ 
+∑∑ 
+¿¿  "
 
- 
+¥¥ "
+∂∂. 1
 
-% )Ä
-œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_long_81_goodB2G.cs
+øø $
+¿¿ 
 
- Q
+∆∆ %
+»». 7
 
- 
-% ) √
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_01.cs
+””  )
+’’2 ;
 
- R
+⁄⁄ $
 
- 
- !! 
+⁄⁄* -
+‹‹ 
+›› $
 
-(( 
-.. ** 
-00 22 44 ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_02.cs
+⁄⁄< @
+‹‹ 
+›› ˆ
 
- R
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_06.cs
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+ =*
+"" ((( ee 
+°° 
 
-II ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_03.cs
+%% 
+%%) ,++ 
 
- R
+%%; ?2
+'' ++ 11 88 JJ: >2
+33 "AA BB< HTT  VV  (
+44 $BB $DD !GG !(
+55 88 == FF  "
+:: "<<. 1
+EE $FF 
+LL %NN. 7
+YY  )[[2 ;
+bb 
+€€ 
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+bb& )
 
-II Ø
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_04.cs
+bb8 <4
+dd ii nn uu 
+áá: >6
+pp "~~ < H
+ëë  
+ìì  ,
+qq $ $
+ÅÅ !
+ÑÑ !*
+rr uu zz 
+ÉÉ  "
+ww "yy. 1
 
- R
-   )(( II 
-!! *77 
+ÇÇ $
+ÉÉ 
 
-## 
-%% '' 
-22 RR 
-44 66 ?? 
-DD SS 
-FF HH LL 
+ââ %
+ãã. 7
 
-PP Ø
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_05.cs
+ññ  )
+òò2 ;
 
- R
- '' HH 
-   66 
+ûû 
+‹‹ 
+
+ûû& )
+
+ûû8 <<
+
+†† 
+§§ 
+™™ 
+±± 
+√√: ><
+
+¨¨ "
+∫∫ 
+ªª< H
+ÕÕ  
+œœ  0
+
+≠≠ $
+ªª $
+ΩΩ !
+¿¿ !0
+
+ÆÆ 
+±± 
+∂∂ 
+øø  "
+
+≥≥ "
+µµ. 1
+
+ææ $
+øø 
+
+≈≈ %
+««. 7
+
+““  )
+‘‘2 ;
+
+ŸŸ $
+
+ŸŸ* -
+€€ 
+‹‹ $
+
+ŸŸ< @
+€€ 
+‹‹ ˆ
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_07.cs
+
+ =*
+"" (( ee 
+°° 
+
+%% 
+%%) ,++ 
+
+%%; ?2
+'' ++ 11 88 JJ: >2
+33 "AA BB< HTT  VV  (
+44 $BB $DD !GG !(
+55 88 == FF  "
+:: "<<. 1
+EE $FF 
+LL %NN. 7
+YY  )[[2 ;
+bb 
+€€ 
+
+bb& )
+
+bb8 <4
+dd ii nn uu 
+áá: >6
+pp "~~ < H
+ëë  
+ìì  ,
+qq $ $
+ÅÅ !
+ÑÑ !*
+rr uu zz 
+ÉÉ  "
+ww "yy. 1
+
+ÇÇ $
+ÉÉ 
+
+ââ %
+ãã. 7
+
+ññ  )
+òò2 ;
+
+ûû 
+‹‹ 
+
+ûû& )
+
+ûû8 <<
+
+†† 
+§§ 
+™™ 
+±± 
+√√: ><
+
+¨¨ "
+∫∫ 
+ªª< H
+ÕÕ  
+œœ  0
+
+≠≠ $
+ªª $
+ΩΩ !
+¿¿ !0
+
+ÆÆ 
+±± 
+∂∂ 
+øø  "
+
+≥≥ "
+µµ. 1
+
+ææ $
+øø 
+
+≈≈ %
+««. 7
+
+““  )
+‘‘2 ;
+
+ŸŸ $
+
+ŸŸ* -
+€€ 
+‹‹ $
+
+ŸŸ< @
+€€ 
+‹‹ å
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_08.cs
+
+ = 
+"" *00 
+©© 
+'' +mm 
+
+-- 
+--) ,33 
+
+--; ?2
+// 33 99 @@ RR: >2
+;; "II JJ< H\\  ^^  (
+<< $JJ $LL !OO !(
+== @@ EE NN  "
+BB "DD. 1
+MM $NN 
+TT %VV. 7
+aa  )cc2 ;
+jj 
+„„ 
+
+jj& )
+
+jj8 <4
+ll qq vv }} 
+èè: >:
+xx "
+ÜÜ 
+áá< H
+ôô  
+õõ  .
+yy $
+áá $
+ââ !
+åå !,
+zz }} 
+ÇÇ 
+ãã  "
+ "
+ÅÅ. 1
+
+ää $
+ãã 
+
+ëë %
+ìì. 7
+
+ûû  )
+††2 ;
+
+¶¶ 
+‰‰ 
+
+¶¶& )
+
+¶¶8 <<
+
+®® 
+¨¨ 
+≤≤ 
+ππ 
+ÀÀ: ><
+
+¥¥ "
+¬¬ 
+√√< H
+’’  
+◊◊  0
+
+µµ $
+√√ $
+≈≈ !
+»» !0
+
+∂∂ 
+ππ 
+ææ 
+««  "
+
+ªª "
+ΩΩ. 1
+
+∆∆ $
+«« 
+
+ÕÕ %
+œœ. 7
+
+⁄⁄  )
+‹‹2 ;
+
+·· $
+
+··* -
+„„ 
+‰‰ $
+
+··< @
+„„ 
+‰‰ ¿
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_09.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
+
+\\& )
+
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
+
+ÉÉ %
+ÖÖ. 7
+
+êê  )
+íí2 ;
+
+òò 
+÷÷ 
+
+òò& )
+
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ ¿
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_10.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
+
+\\& )
+
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
+
+ÉÉ %
+ÖÖ. 7
+
+êê  )
+íí2 ;
+
+òò 
+÷÷ 
+
+òò& )
+
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ ¿
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_11.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
+
+\\& )
+
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
+
+ÉÉ %
+ÖÖ. 7
+
+êê  )
+íí2 ;
+
+òò 
+÷÷ 
+
+òò& )
+
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ ™
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_12.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ** 11 CC: >2
+,, ":: ;;< HMM  OO  (
+-- $;; $== !@@ !(
+.. 11 66 ??  "
+33 "55. 1
+>> $?? 
+EE %GG. 7
+RR  )TT2 ;
+\\ 
+òò 
+
+\\% (
+
+\\7 ;4
+^^ bb gg nn 
+ÄÄ: >6
+ii "ww xx< H
+ää  
+åå  (
+jj $xx $zz !}} !(
+kk nn ss ||  "
+pp "rr. 1
+{{ $|| 
+
+ÇÇ %
+ÑÑ. 7
+
+èè  )
+ëë2 ;
+
+ññ 
+
+ññ* -
+òò 
+
+ññ< @
+òò ¿
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_13.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
+
+\\& )
+
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
+
+ÉÉ %
+ÖÖ. 7
+
+êê  )
+íí2 ;
+
+òò 
+÷÷ 
+
+òò& )
+
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ ¿
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_14.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?2
+!! %% ++ 22 DD: >2
+-- ";; <<< HNN  PP  (
+.. $<< $>> !AA !(
+// 22 77 @@  "
+44 "66. 1
+?? $@@ 
+FF %HH. 7
+SS  )UU2 ;
+\\ 
+’’ 
+
+\\& )
+
+\\8 <4
+^^ cc hh oo 
+ÅÅ: >6
+jj "xx yy< H
+ãã  
+çç  (
+kk $yy ${{ !~~ !(
+ll oo tt }}  "
+qq "ss. 1
+|| $}} 
+
+ÉÉ %
+ÖÖ. 7
+
+êê  )
+íí2 ;
+
+òò 
+÷÷ 
+
+òò& )
+
+òò8 <<
+
+öö 
+ûû 
+§§ 
+´´ 
+ΩΩ: ><
+
+¶¶ "
+¥¥ 
+µµ< H
+««  
+……  0
+
+ßß $
+µµ $
+∑∑ !
+∫∫ !0
+
+®® 
+´´ 
+∞∞ 
+ππ  "
+
+≠≠ "
+ØØ. 1
+
+∏∏ $
+ππ 
+
+øø %
+¡¡. 7
+
+ÃÃ  )
+ŒŒ2 ;
+
+”” $
+
+””* -
+’’ 
+÷÷ $
+
+””< @
+’’ 
+÷÷ ¬
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_15.cs
+
+ =
+
+ 
+) ,&& 
+
+; ?2
+!! && ++ 33 EE: >2
+.. "<< ==< HOO  QQ  (
+// $== $?? !BB !(
+00 33 88 AA  "
+55 "77. 1
+@@ $AA 
+GG %II. 7
+TT  )VV2 ;
+]] 
+ÿÿ 
+
+]]& )
+
+]]8 <4
+__ ee ii qq 
+ÉÉ: >6
+ll "zz {{< H
+çç  
+èè  *
+mm ${{ $}} !
+ÄÄ !(
+nn qq vv   "
+ss "uu. 1
+~~ $ 
+
+ÖÖ %
+áá. 7
+
+íí  )
+îî2 ;
+
+öö 
+ŸŸ 
+
+öö& )
+
+öö8 <<
+
+úú 
+°° 
+¶¶ 
+ÆÆ 
+¿¿: ><
+
+©© "
+∑∑ 
+∏∏< H
+    
+ÃÃ  0
+
+™™ $
+∏∏ $
+∫∫ !
+ΩΩ !0
+
+´´ 
+ÆÆ 
+≥≥ 
+ºº  "
+
+∞∞ "
+≤≤. 1
+
+ªª $
+ºº 
+
+¬¬ %
+ƒƒ. 7
+
+œœ  )
+——2 ;
+
+÷÷ $
+
+÷÷* -
+ÿÿ 
+ŸŸ $
+
+÷÷< @
+ÿÿ 
+ŸŸ ê
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_16.cs
+
+ =
+
+ 
+) ,%% 
+
+; ?(
+!! %% -- ??: >2
+(( "66 77< HII  KK  (
+)) $77 $99 !<< !(
+** -- 22 ;;  "
+// "11. 1
+:: $;; 
+AA %CC. 7
+NN  )PP2 ;
+WW 
+èè 
+
+WW% (
+
+WW7 ;(
+YY ]] ee ww: >6
+`` "nn oo< H
+ÅÅ  
+ÉÉ  (
+aa $oo $qq !tt !(
+bb ee jj ss  "
+gg "ii. 1
+rr $ss 
+yy %{{. 7
+
+ÜÜ  )
+àà2 ;
+
+çç 
+
+çç* -
+èè 
+
+çç< @
+èè Œ
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_17.cs
+
+ =
+
+ 
+) ,## 
+
+; ?(
+!! ## ++ #==> B
+$$ $$ $$  2
+&& &44 55@ LGG $II $(
+'' (55 (77 %:: %(
+(( ++ 00 99$ &
+--# &//2 5
+88! (99 
+??  )AA2 ;
+LL$ -NN6 ?
+WW 
+éé 
+
+WW% (
+
+WW7 ;(
+YY [[ cc #uu> B
+\\ \\ \\  4
+^^ &ll mm@ L $
+ÅÅ $(
+__ (mm (oo %rr %(
+`` cc hh qq$ &
+ee# &gg2 5
+pp! (qq 
+ww  )yy2 ;
+
+ÑÑ$ -
+ÜÜ6 ?
+
+åå 
+
+åå* -
+éé 
+
+åå< @
+éé Í
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_21.cs
+
+ =
+   %% WW 
 
 "" 
-$$ && 
-11 QQ 
-33 55 >> 
-CC RR 
-EE GG KK 
+"") ,&& 
+""; ?&& #(
+$$ && ,, >>: >
+TT && 2
+'' "55 66< HHH  JJ  (
+(( $66 $88 !;; !(
+)) ,, 11 ::  "
+.. "00. 1
+99 $:: 
+@@ %BB. 7
+MM  )OO2 ;
+TT* -ZZ 
 
-OO £
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_06.cs
+TT< @(
+VV ZZ `` bb  
+ff !ss 
+•• "
+gg !
+∑∑ 
+ÈÈ 
 
- R(
- (&& 55 GG 
+ii 
+ii* -kk ll 
+ii< @kk ll 
+pp kk 
 
-!! 
-## %% 
-00 PP 
-22 44 == 
-BB QQ 
-DD FF JJ 
+¥¥ ll 
+pp& )tt "
+pp8 <tt$ (*
+rr tt zz 
+åå: >
 
-NN £
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_07.cs
+¢¢ "tt :
+uu "
+ÉÉ 
+ÑÑ< H
+ññ  
+òò  .
+vv $
+ÑÑ $
+ÜÜ !
+ââ !*
+ww zz  
+àà  "
+|| "~~. 1
 
- R(
- && 55 GG 
+áá $
+àà 
 
-!! 
-## %% 
-00 PP 
-22 44 == 
-BB QQ 
-DD FF JJ 
+éé %
+êê. 7
 
-NN Ø
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_08.cs
+õõ  )
+ùù2 ;
 
- R
- *.. OO 
-$$ +== 
+¢¢/ 2
 
-)) 
-++ -- 
-88 XX 
-:: << EE 
-JJ YY 
-LL NN RR 
+¢¢A E0
 
-VV ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_09.cs
+§§ 
+©© 
+ÆÆ 
+∞∞ 
 
- R
+¥¥& )
+∏∏ "
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+¥¥8 <
+∏∏$ (0
 
-II ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_10.cs
+∂∂ 
+∏∏ 
+ææ 
+––: >
 
- R
+ÊÊ "
+∏∏ <
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+ππ "
+«« 
+»»< H
+⁄⁄  
+‹‹  0
 
-II ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_11.cs
+∫∫ $
+»» $
+   !
+ÕÕ !0
 
- R
+ªª 
+ææ 
+√√ 
+ÃÃ  "
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+¿¿ "
+¬¬. 1
 
-II ◊
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_12.cs
+ÀÀ $
+ÃÃ 
 
- R
+““ %
+‘‘. 7
 
- 
-    ** 
-11 DD (
-33 55 99 >> 
+ﬂﬂ  )
+··2 ;
 
-BB ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_13.cs
+ÊÊ/ 2
 
- R
+ÊÊA E0
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+ËË 
+ÏÏ 
+ÚÚ 
+ÙÙ Ö
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_22a.cs
 
-II ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_14.cs
+ >
+   &%% 
 
- R
+"" 
+"") ,&&R U
+""; ?&&W [(
+$$ && ,, >>: >2
+'' "55 66< HHH  JJ  (
+(( $66 $88 !;; !(
+)) ,, 11 ::  "
+.. "00. 1
+99 $:: 
+@@ %BB. 7
+MM  )OO2 ;
+VV +cc 
+WW +
+ññ 
 
- 
-    
-++ KK 
--- // 88 
-== LL 
-?? AA EE 
+YY 
+YY* -[[ \\ 
+YY< @[[ \\ 
+`` [[ 
 
-II ˘
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_15.cs
+ìì \\ 
+``& )ddW Z
+``8 <dd\ `(
+bb dd jj ||: >6
+ee "ss tt< H
+ÜÜ  
+àà  (
+ff $tt $vv !yy !(
+gg jj oo xx  "
+ll "nn. 1
+ww $xx 
+~~ %
+ÄÄ. 7
 
- R
+ãã  )
+çç2 ;
 
- 
-    
-11 XX 
-33 55 >> 
-DD YY 
-FF HH MM 
+ìì& )
+óóW Z
 
-VV √
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_16.cs
+ìì8 <
+óó\ `0
 
- R
+ïï 
+óó 
+ùù 
+ØØ: ><
 
- 
-    
-,, ;; 
-.. 00 44 
+òò "
+¶¶ 
+ßß< H
+ππ  
+ªª  0
 
-99 É
-–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_StringBuilder_17.cs
+ôô $
+ßß $
+©© !
+¨¨ !0
 
- R
+öö 
+ùù 
+¢¢ 
+´´  "
 
- 
-    
-!! !! !!  
-,, :: 
-.. 00 44 
-11 11 11  
+üü "
+°°. 1
 
-88 º
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_01.cs
+™™ $
+´´ 
 
- K
+±± %
+≥≥. 7
 
- 
-  
+ææ  )
+¿¿2 ;…
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_22b.cs
 
-%% 
-++ '' 
--- // 11 Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_02.cs
+ >
 
- K
+ "
+/ 2"" 
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+A E(
+ "" (( ** 
 
-FF Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_03.cs
+00 '
 
- K
+004 7
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+00F J(
+22 77 << >> 
 
-FF ®
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_04.cs
+BB '
 
- K
- )%% FF 
- *44 
+BB4 7
+
+BBF J(
+DD HH NN PP ˆ
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_31.cs
+
+ =
 
    
-"" $$ 
-// OO 
-11 33 << 
-AA PP 
-CC EE II 
+  ) ,&& 
 
-MM ®
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_05.cs
+  ; ?
+"" '' ** "
+$$ && '' 
+** 00 #BB> B2
+++ &99 ::@ LLL $NN $(
+,, (:: (<< %?? %(
+-- 00 55 >>$ &
+22# &442 5
+==! (>> 
+DD  )FF2 ;
+QQ$ -SS6 ?
 
- K
- $$ EE 
- 33 
+ZZ 
+ZZ* -\\ 
+ZZ< @\\ 
+`` \\ 
 
- 
-!! ## 
-.. NN 
-00 22 ;; 
-@@ OO 
-BB DD HH 
+``% (
 
-LL ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_06.cs
+``7 ;
+bb gg jj "
+dd ff gg  
+jj pp #
+ÇÇ> B6
+kk &yy zz@ L
+åå $
+éé $(
+ll (zz (|| % %(
+mm pp uu ~~$ &
+rr# &tt2 5
+}}! (~~ 
 
- K(
- (## 22 DD 
+ÑÑ  )
+ÜÜ2 ;
+
+ëë$ -
+ìì6 ?ƒ
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_41.cs
+
+ =
+ RR 
+' +%% 77: >
+
+: =
+
+L P2
+   ".. //< HAA  CC  (
+!! $// $11 !44 !(
+"" %% ** 33  "
+'' ")). 1
+22 $33 
+99 %;;. 7
+FF  )HH2 ;
+
+MM 
+MM) ,QQ RR 
+MM; ?RR  
+OO QQ RR 
+
+VV 
+VV* -XX 
+VV< @XX 
+
+ãã XX 
+[[ #
+êê 
+[[+ /bb tt: >
+
+[[> A
+
+[[P T4
+]] "kk ll< H~~  
+ÄÄ  (
+^^ $ll $nn !qq !(
+__ bb gg pp  "
+dd "ff. 1
+oo $pp 
+vv %xx. 7
+
+ÉÉ  )
+ÖÖ2 ;
+
+ãã, /
+êê 
+
+ãã> B
+êê  $$
+
+çç 
+èè 
+êê ¿
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_42.cs
+
+ =
+ #)) 
+0 3"" 
+
+B F
+   "" ## 
+
+'' 
+'') ,))  #
+''; ?))% )
+)) // AA: >2
+** "88 99< HKK  MM  (
+++ $99 $;; !>> !(
+,, // 44 ==  "
+11 "33. 1
+<< $== 
+CC %EE. 7
+PP  )RR2 ;
+XX 'cc #
+
+XX4 7
+
+XXF J
+ZZ \\ ]] 
+aa 
+ìì 
+aa, /cc$ '
+aa> Bcc) -
+cc ii {{: >6
+dd "rr ss< H
+ÖÖ  
+áá  (
+ee $ss $uu !xx !(
+ff ii nn ww  "
+kk "mm. 1
+vv $ww 
+}} %. 7
+
+ää  )
+åå2 ;
+
+ëë 
+
+ëë* -
+ìì 
+
+ëë< @
+ìì ä	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_45.cs
+
+ =
+ $$ XX  
+   dd !
+òò 
+"" YY 
+
+""% (
+
+""7 ;
+$$ ** <<: >2
+%% "33 44< HFF  HH  (
+&& $44 $66 !99 !(
+'' ** // 88  "
+,, "... 1
+77 $88 
+>> %@@. 7
+KK  )MM2 ;
+
+SS 
+SS) ,WW YY 
+SS; ?YY 
+UU WW XX 
+
+]] 
+]]* -__ 
+]]< @__ 
+
+ìì __ 
+bb 
+ôô 
+
+bb) ,
+
+bb; ?
+dd jj ||: >6
+ee "ss tt< H
+ÜÜ  
+àà  (
+ff $tt $vv !yy !(
+gg jj oo xx  "
+ll "nn. 1
+ww $xx 
+~~ %
+ÄÄ. 7
+
+ãã  )
+çç2 ;
+
+ìì% (
+ôô 
+
+ìì7 ;
+ôô $
+
+ïï 
+óó 
+òò —
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_51a.cs
+
+ >
+
+ 
+) ,   P S
+; ?  U Y
+    I M
+
+$$ 
+$$* -&& 
+$$< @&& 
+** && 
+**% (//T W
+**7 ;//Y ]
+,, .. //M Qù
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_51b.cs
+
+ >
+
+ 
+& *$$ 66: >
+
+9 <
+
+K O2
+ "-- ..< H@@  BB  (
+   $.. $00 !33 !(
+!! $$ )) 22  "
+&& "((. 1
+11 $22 
+88 %::. 7
+EE  )GG2 ;
+
+OO "
+OO* .VV hh: >
+
+OO= @
+
+OOO S2
+QQ "__ ``< Hrr  tt  (
+RR $`` $bb !ee !(
+SS VV [[ dd  "
+XX "ZZ. 1
+cc $dd 
+jj %ll. 7
+ww  )yy2 ;—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_52a.cs
+
+ >
+
+ 
+) ,   !!P S
+; ?!!U Y
+    !!I M
+
+%% 
+%%* -'' 
+%%< @'' 
+++ '' 
+++% (00T W
+++7 ;00Y ]
+-- // 00M QÒ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_52b.cs
+
+ >
+
+ 
+& *I M
+9 <P S
+K OU Y
+
+## "
+##* .%%M Q
+##= @%%T W
+##O S%%Y ]ù
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_52c.cs
+
+ >
+
+ 
+& *%% 77: >
+
+9 <
+
+K O2
+   ".. //< HAA  CC  (
+!! $// $11 !44 !(
+"" %% ** 33  "
+'' ")). 1
+22 $33 
+99 %;;. 7
+FF  )HH2 ;
+
+PP "
+PP* .WW ii: >
+
+PP= @
+
+PPO S2
+RR "`` aa< Hss  uu  (
+SS $aa $cc !ff !(
+TT WW \\ ee  "
+YY "[[. 1
+dd $ee 
+kk %mm. 7
+xx  )zz2 ;—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_53a.cs
+
+ >
+
+ 
+) ,   !!P S
+; ?!!U Y
+    !!I M
+
+%% 
+%%* -'' 
+%%< @'' 
+++ '' 
+++% (00T W
+++7 ;00Y ]
+-- // 00M QÒ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_53b.cs
+
+ >
+
+ 
+& *I M
+9 <P S
+K OU Y
+
+## "
+##* .%%M Q
+##= @%%T W
+##O S%%Y ]Ò
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_53c.cs
+
+ >
+
+ 
+& *I M
+9 <P S
+K OU Y
+
+## "
+##* .%%M Q
+##= @%%T W
+##O S%%Y ]ù
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_53d.cs
+
+ >
+
+ 
+& *%% 77: >
+
+9 <
+
+K O2
+   ".. //< HAA  CC  (
+!! $// $11 !44 !(
+"" %% ** 33  "
+'' ")). 1
+22 $33 
+99 %;;. 7
+FF  )HH2 ;
+
+PP "
+PP* .WW ii: >
+
+PP= @
+
+PPO S2
+RR "`` aa< Hss  uu  (
+SS $aa $cc !ff !(
+TT WW \\ ee  "
+YY "[[. 1
+dd $ee 
+kk %mm. 7
+xx  )zz2 ;—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_54a.cs
+
+ >
+
+ 
+) ,   !!P S
+; ?!!U Y
+    !!I M
+
+%% 
+%%* -'' 
+%%< @'' 
+++ '' 
+++% (00T W
+++7 ;00Y ]
+-- // 00M QÒ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_54b.cs
+
+ >
+
+ 
+& *I M
+9 <P S
+K OU Y
+
+## "
+##* .%%M Q
+##= @%%T W
+##O S%%Y ]Ò
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_54c.cs
+
+ >
+
+ 
+& *I M
+9 <P S
+K OU Y
+
+## "
+##* .%%M Q
+##= @%%T W
+##O S%%Y ]Ò
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_54d.cs
+
+ >
+
+ 
+& *I M
+9 <P S
+K OU Y
+
+## "
+##* .%%M Q
+##= @%%T W
+##O S%%Y ]ù
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_54e.cs
+
+ >
+
+ 
+& *%% 77: >
+
+9 <
+
+K O2
+   ".. //< HAA  CC  (
+!! $// $11 !44 !(
+"" %% ** 33  "
+'' ")). 1
+22 $33 
+99 %;;. 7
+FF  )HH2 ;
+
+PP "
+PP* .WW ii: >
+
+PP= @
+
+PPO S2
+RR "`` aa< Hss  uu  (
+SS $aa $cc !ff !(
+TT WW \\ ee  "
+YY "[[. 1
+dd $ee 
+kk %mm. 7
+xx  )zz2 ;â
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_61a.cs
+
+ >
 
  
-   "" 
--- MM 
-// 11 :: 
-?? NN 
-AA CC GG 
+) ,  Y \
+; ?  ^ b
+   && 88: >2
+!! "// 00< HBB  DD  (
+"" $00 $22 !55 !(
+## && ++ 44  "
+(( "**. 1
+33 $44 
+:: %<<. 7
+GG  )II2 ;
 
-KK ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_07.cs
+OO 
+OO* -QQ 
+OO< @QQ 
+UU QQ 
+UU, /WW] `
+UU> BWWb f
+WW ]] oo: >2
+XX "ff gg< Hyy  {{  (
+YY $gg $ii !ll !(
+ZZ ]] bb kk  "
+__ "aa. 1
+jj $kk 
+qq %ss. 7
+~~  )
+ÄÄ2 ;Á
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_61b.cs
 
- K(
- ## 22 DD 
+ >
 
- 
-   "" 
--- MM 
-// 11 :: 
-?? NN 
-AA CC GG 
+ "
+/ 2   
 
-KK ®
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_08.cs
+A E
+    !! 
 
- K
- *++ LL 
-!! +:: 
+'' &
 
-&& 
-(( ** 
-55 UU 
-77 99 BB 
-GG VV 
-II KK OO 
+''3 6
 
-SS Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_09.cs
+''E I
+)) ++ ,, ë
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_66a.cs
 
- K
+ >
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+ 
+* -   ##U X
+< @##Z ^
+    "" 
+!! "" ##I R
 
-FF Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_10.cs
+'' 
+''* -)) 
+''< @)) 
+-- )) 
+--, /44Y \
+--> B44^ b
+// 11 33 
+22 33 44M V…
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_66b.cs
 
- K
+ >
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+ 
+( 1   
 
-FF Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_11.cs
+@ C
 
- K
+R V
+   && 88: >2
+!! "// 00< HBB  DD  (
+"" $00 $22 !55 !(
+## && ++ 44  "
+(( "**. 1
+33 $44 
+:: %<<. 7
+GG  )II2 ;
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+QQ "
+QQ, 5SS 
 
-FF –
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_12.cs
+QQD G
 
- K
+QQV Z
+SS YY kk: >2
+TT "bb cc< Huu  ww  (
+UU $cc $ee !hh !(
+VV YY ^^ gg  "
+[[ "]]. 1
+ff $gg 
+mm %oo. 7
+zz  )||2 ;Â
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_67a.cs
 
- 
-  '' 
-.. AA (
-00 22 66 ;; 
+ >2
+ && &&& /77 77& /
+ "'' "88 "
 
-?? Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_13.cs
+!! 
+!!) ,%% ((Y \
+!!; ?((^ b
+## %% ''% )
+&& '' ((I V
 
- K
+,, 
+,,* -.. 
+,,< @.. 
+22 .. 
+22, /99] `
+22> B99b f
+44 66 88% )
+77 88 99M Z–
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_67b.cs
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+ >
 
-FF Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_14.cs
+ 
+b o   #
+	~ Å
 
- K
+ê î
+   && 88: >2
+!! "// 00< HBB  DD  (
+"" $00 $22 !55 !(
+## && ++ 44  "
+(( "**. 1
+33 $44 
+:: %<<. 7
+GG  )II2 ;
 
- 
-  
-(( HH 
-** ,, 55 
-:: II 
-<< >> BB 
+QQ "
+QQf sSS #
 
-FF Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_15.cs
+QQÇ Ö
 
- K
+QQî ò
+SS YY kk: >2
+TT "bb cc< Huu  ww  (
+UU $cc $ee !hh !(
+VV YY ^^ gg  "
+[[ "]]. 1
+ff $gg 
+mm %oo. 7
+zz  )||2 ;±
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_68a.cs
 
- 
-  
-.. UU 
-00 22 ;; 
-AA VV 
-CC EE JJ 
+ >
+    .. 
 
-SS º
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_16.cs
+ 
+) ,   !!I L
+; ?!!N R
 
- K
+%% 
+%%* -'' 
+%%< @'' 
+++ '' 
+++, ///M P
+++> B//R Vù
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_68b.cs
 
- 
-  
-)) 88 
-++ -- 11 
+ >
 
-66 ¸
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_17.cs
+ 
 
- K
++ .
 
- 
-  
-    
-)) 77 
-++ -- 11 
-.. .. ..  
+= A
+ %% 77: >2
+   ".. //< HAA  CC  (
+!! $// $11 !44 !(
+"" %% ** 33  "
+'' ")). 1
+22 $33 
+99 %;;. 7
+FF  )HH2 ;
 
-55 Û
- C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_81a.cs
+PP "
 
- L
+PP/ 2
 
- 
-   
-S ] 
+PPA E
+RR XX jj: >2
+SS "aa bb< Htt  vv  (
+TT $bb $dd !gg !(
+UU XX ]] ff  "
+ZZ "\\. 1
+ee $ff 
+ll %nn. 7
+yy  ){{2 ;—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_71a.cs
 
-## 
-)) %% 
-++ -- // 
-..S ]// Ù
-ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_81_bad.cs
+ >
 
- O
+ 
+) ,   !!X [
+; ?!!] a
+    !!Q U
+
+%% 
+%%* -'' 
+%%< @'' 
+++ '' 
+++, /00\ _
+++> B00a e
+-- // 00U Y…
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_71b.cs
+
+ >
+
+ 
+& 0!! (
+
+? B
+
+Q U
+!! '' 99: >2
+"" "00 11< HCC  EE  (
+## $11 $33 !66 !(
+$$ '' ,, 55  "
+)) "++. 1
+44 $55 
+;; %==. 7
+HH  )JJ2 ;
+
+RR "
+RR* 4TT (
+
+RRC F
+
+RRU Y
+TT ZZ ll: >2
+UU "cc dd< Hvv  xx  (
+VV $dd $ff !ii !(
+WW ZZ __ hh  "
+\\ "^^. 1
+gg $hh 
+nn %pp. 7
+{{  )}}2 ;·
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_72a.cs
+
+ >
+
+ 
+) ,   %%Y \
+; ?%%^ b2
+    "" !## !$$ !2
+!! "" ## $$ %%I V
+
+)) 
+))* -++ 
+))< @++ 
+// ++ 
+//, /88] `
+//> B88b f2
+11 33 55 !66 !77 !2
+44 55 66 77 88M Z…
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_72b.cs
+
+ >
+
+ 
+) 6!! ,
+
+E H
+
+W [
+!! '' 99: >2
+"" "00 11< HCC  EE  (
+## $11 $33 !66 !(
+$$ '' ,, 55  "
+)) "++. 1
+44 $55 
+;; %==. 7
+HH  )JJ2 ;
+
+RR "
+RR- :TT ,
+
+RRI L
+
+RR[ _
+TT ZZ ll: >2
+UU "cc dd< Hvv  xx  (
+VV $dd $ff !ii !(
+WW ZZ __ hh  "
+\\ "^^. 1
+gg $hh 
+nn %pp. 7
+{{  )}}2 ;·
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_73a.cs
+
+ >
+
+ 
+) ,!! &&Z ]
+; ?&&_ c2
+ !! ## #$$ #%% #2
+"" )## $$ %% &&I W
+
+** 
+*** -,, 
+**< @,, 
+00 ,, 
+00, /99^ a
+00> B99c g2
+22 44 66 #77 #88 #2
+55 )66 77 88 99M […
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_73b.cs
+
+ >
+
+ 
+2 @!! $
+
+O R
+
+a e
+!! '' 99: >2
+"" "00 11< HCC  EE  (
+## $11 $33 !66 !(
+$$ '' ,, 55  "
+)) "++. 1
+44 $55 
+;; %==. 7
+HH  )JJ2 ;
+
+RR "
+RR6 DTT $
+
+RRS V
+
+RRe i
+TT ZZ ll: >2
+UU "cc dd< Hvv  xx  (
+VV $dd $ff !ii !(
+WW ZZ __ hh  "
+\\ "^^. 1
+gg $hh 
+nn %pp. 7
+{{  )}}2 ;·
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_74a.cs
+
+ >
+
+ 
+) ,   %%Z ]
+; ?%%_ c2
+    "" "## "$$ "2
+!! -"" ## $$ %%I W
+
+)) 
+))* -++ 
+))< @++ 
+// ++ 
+//, /88^ a
+//> B88c g2
+11 33 55 "66 "77 "2
+44 -55 66 77 88M […
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_74b.cs
+
+ >
+
+ 
+6 D!! $
+
+S V
+
+e i
+!! '' 99: >2
+"" "00 11< HCC  EE  (
+## $11 $33 !66 !(
+$$ '' ,, 55  "
+)) "++. 1
+44 $55 
+;; %==. 7
+HH  )JJ2 ;
+
+RR "
+RR: HTT $
+
+RRW Z
+
+RRi m
+TT ZZ ll: >2
+UU "cc dd< Hvv  xx  (
+VV $dd $ff !ii !(
+WW ZZ __ hh  "
+\\ "^^. 1
+gg $hh 
+nn %pp. 7
+{{  )}}2 ;©
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_75a.cs
+
+ >
+
+ 
+) ,"" --^ a
+; ?--c g
+   "" **! %
+$$ ++ --M [
+'' ** 
+(( ** ++! #
+//& 511Z i
+
+66 
+66* -88 
+66< @88 
+<< 88 
+<<, /KKb e
+<<> BKKg k
+>> @@ HH! %
+BB II KKQ _
+EE HH 
+FF HH II! #
+MM& 5OOZ i∑
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_75b.cs
+
+ >
+
+!! 
+!!& 4))  .))3 A
+
+!!C F
+
+!!U Y(
+%% ++ 22 #DD> B
+&& ++ &(
+''  )) ** ++3 <2
+-- &;; <<@ LNN $PP $(
+.. (<< (>> %AA %(
+// 22 77 @@$ &
+44# &662 5
+??! (@@ 
+FF  )HH2 ;
+SS$ -UU6 ?
+YY& 5[[[ j
+
+bb "
+bb* 8jj  .jj3 A
+
+bbG J
+
+bbY ]*
+ff ll ss #
+ÖÖ> B
+gg ll &(
+hh  jj kk ll3 <6
+nn &|| }}@ L
+èè $
+ëë $*
+oo (}} ( %
+ÇÇ %*
+pp ss xx 
+ÅÅ$ &
+uu# &ww2 5
+
+ÄÄ! (
+ÅÅ 
+
+áá  )
+ââ2 ;
+
+îî$ -
+ññ6 ?
+
+öö& 5
+úú[ j˝
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_81a.cs
+
+ >
+
+ 
+) ,   ""! $
+; ?""& *
+    "" 
+!!E O"" 
+
+&& 
+&&* -(( 
+&&< @(( 
+,, (( 
+,,% (22! $
+,,7 ;22& *
+.. 00 22 
+11E O22 ¸
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_81_bad.cs
+
+ A
+
+ 
+' +&& 88: >
+
+: =
+
+L P2
+!! "// 00< HBB  DD  (
+"" $00 $22 !55 !(
+## && ++ 44  "
+(( "**. 1
+33 $44 
+:: %<<. 7
+GG  )II2 ;â
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_81_base.cs
+
+ K
 
  
 
-' +ı
-ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_81_base.cs
+' +
 
- Y
+: =
 
- 
+L PÄ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\CWE566_Authorization_Bypass_Through_SQL_Primary__Web_81_goodG2B.cs
 
-' +Ç
-—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_init_variable_string_81_goodB2G.cs
+ E
 
- S
+ 
+' +&& 88: >
 
- 
-' + ±
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_01.cs
+: =
 
- J
-
- 
-
- 
-
-%% 
-++ '' 
--- 11 22 Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_02.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_03.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH ù
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_04.cs
-
- J
- )%% GG 
- *44 
-
-   
-
-"" 
-// QQ 
-11 << == "
-BB RR 
-DD JJ KK "
-
-OO ù
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_05.cs
-
- J
- $$ FF 
- 33 
-
- 
-
-!! 
-.. PP 
-00 ;; << "
-AA QQ 
-CC II JJ "
-
-NN ë
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_06.cs
-
- J(
- (## 22 EE 
-
- 
-
-   
--- OO 
-// :: ;; "
-@@ PP 
-BB HH II "
-
-MM ë
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_07.cs
-
- J(
- ## 22 EE 
-
- 
-
-   
--- OO 
-// :: ;; "
-@@ PP 
-BB HH II "
-
-MM ù
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_08.cs
-
- J
- *++ MM 
-!! +:: 
-
-&& 
-
-(( 
-55 WW 
-77 BB CC "
-HH XX 
-JJ PP QQ "
-
-UU Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_09.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_10.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_11.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Ÿ
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_12.cs
-
- J
-
- 
- '' (( "
-// DD 2
-11 77 88 "== >> "
-
-BB Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_13.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_14.cs
-
- J
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Á
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_15.cs
-
- J
-
- 
-
- 
-.. WW 
-00 ;; << "
-BB XX 
-DD KK LL "
-
-UU ±
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_16.cs
-
- J
-
- 
-
- 
-)) 99 
-++ 11 22 "
-
-77 Ò
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_int_17.cs
-
- J
-
- 
-
- 
-    
-)) 88 
-++ 11 22 "
-.. .. ..  
-
-66 ≤
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_01.cs
-
- K
-
- 
-
- 
-
-%% 
-++ '' 
--- 11 22 Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_02.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_03.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH û
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_04.cs
-
- K
- )%% GG 
- *44 
-
-   
-
-"" 
-// QQ 
-11 << == "
-BB RR 
-DD JJ KK "
-
-OO û
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_05.cs
-
- K
- $$ FF 
- 33 
-
- 
-
-!! 
-.. PP 
-00 ;; << "
-AA QQ 
-CC II JJ "
-
-NN í
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_06.cs
-
- K(
- (## 22 EE 
-
- 
-
-   
--- OO 
-// :: ;; "
-@@ PP 
-BB HH II "
-
-MM í
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_07.cs
-
- K(
- ## 22 EE 
-
- 
-
-   
--- OO 
-// :: ;; "
-@@ PP 
-BB HH II "
-
-MM û
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_08.cs
-
- K
- *++ MM 
-!! +:: 
-
-&& 
-
-(( 
-55 WW 
-77 BB CC "
-HH XX 
-JJ PP QQ "
-
-UU Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_09.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_10.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_11.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH ⁄
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_12.cs
-
- K
-
- 
- '' (( "
-// DD 2
-11 77 88 "== >> "
-
-BB Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_13.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_14.cs
-
- K
-
- 
-
- 
-(( JJ 
-** 55 66 "
-;; KK 
-== CC DD "
-
-HH Ë
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_15.cs
-
- K
-
- 
-
- 
-.. WW 
-00 ;; << "
-BB XX 
-DD KK LL "
-
-UU ≤
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_16.cs
-
- K
-
- 
-
- 
-)) 99 
-++ 11 22 "
-
-77 Ú
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_long_17.cs
-
- K
-
- 
-
- 
-    
-)) 88 
-++ 11 22 "
-.. .. ..  
-
-66 ª
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_01.cs
-
- T
-
- 
-
- 
-
-'' 
--- )) 
-// 33 44 Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_02.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_03.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ ß
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_04.cs
-
- T
- )'' II 
-   *66 
-
-"" 
-
-$$ 
-11 SS 
-33 >> ?? 
-DD TT 
-FF LL MM 
-
-QQ ß
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_05.cs
-
- T
- && HH 
- 55 
-
-!! 
-
-## 
-00 RR 
-22 == >> 
-CC SS 
-EE KK LL 
-
-PP õ
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_06.cs
-
- T(
- (%% 44 GG 
-
-   
-
-"" 
-// QQ 
-11 << == 
-BB RR 
-DD JJ KK 
-
-OO õ
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_07.cs
-
- T(
- %% 44 GG 
-
-   
-
-"" 
-// QQ 
-11 << == 
-BB RR 
-DD JJ KK 
-
-OO ß
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_08.cs
-
- T
- *-- OO 
-## +<< 
-
-(( 
-
-** 
-77 YY 
-99 DD EE 
-JJ ZZ 
-LL RR SS 
-
-WW Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_09.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_10.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_11.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ „
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_12.cs
-
- T
-
- 
- )) ** 
-11 FF 2
-33 99 :: ?? @@ 
-
-DD Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_13.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_14.cs
-
- T
-
- 
-
- 
-** LL 
-,, 77 88 
-== MM 
-?? EE FF 
-
-JJ Ò
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_15.cs
-
- T
-
- 
-
- 
-00 YY 
-22 == >> 
-DD ZZ 
-FF MM NN 
-
-WW ª
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_16.cs
-
- T
-
- 
-
- 
-++ ;; 
--- 33 44 
-
-99 ˚
-“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_StringBuilder_17.cs
-
- T
-
- 
-
- 
-          
-++ :: 
--- 33 44 
-00 00 00  
-
-88 ¥
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_01.cs
-
- M
-
- 
-
- 
-
-%% 
-++ '' 
--- 11 22 Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_02.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_03.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH †
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_04.cs
-
- M
- )%% GG 
- *44 
-
-   
-
-"" 
-// QQ 
-11 << == 
-BB RR 
-DD JJ KK 
-
-OO †
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_05.cs
-
- M
- $$ FF 
- 33 
-
- 
-
-!! 
-.. PP 
-00 ;; << 
-AA QQ 
-CC II JJ 
-
-NN î
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_06.cs
-
- M(
- (## 22 EE 
-
- 
-
-   
--- OO 
-// :: ;; 
-@@ PP 
-BB HH II 
-
-MM î
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_07.cs
-
- M(
- ## 22 EE 
-
- 
-
-   
--- OO 
-// :: ;; 
-@@ PP 
-BB HH II 
-
-MM †
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_08.cs
-
- M
- *++ MM 
-!! +:: 
-
-&& 
-
-(( 
-55 WW 
-77 BB CC 
-HH XX 
-JJ PP QQ 
-
-UU Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_09.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_10.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_11.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH ‹
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_12.cs
-
- M
-
- 
- '' (( 
-// DD 2
-11 77 88 == >> 
-
-BB Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_13.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_14.cs
-
- M
-
- 
-
- 
-(( JJ 
-** 55 66 
-;; KK 
-== CC DD 
-
-HH Í
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_15.cs
-
- M
-
- 
-
- 
-.. WW 
-00 ;; << 
-BB XX 
-DD KK LL 
-
-UU ¥
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_16.cs
-
- M
-
- 
-
- 
-)) 99 
-++ 11 22 
-
-77 Ù
-ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_uninit_variable_string_17.cs
-
- M
-
- 
-
- 
-    
-)) 88 
-++ 11 22 
-.. .. ..  
-
-66 è
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_01.cs
-
- @
-
- (
-     !! 
-
-%% 
-,, '' 
-88 (( 2
-.. 00 11 33 44 
-:: << >> —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_02.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_03.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí ’
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_04.cs
-
- @^
- )$$ // HH TT `` ll 
-áá 
-íí 
- *<< ww 
-
-!! 2
-## '' -- 22 33 "
-99 
-õõ <
-;; @@ EE FF "KK LL "
-QQ 
-úú <
-SS WW XX "^^ cc dd "
-ii 
-ùù (
-kk oo uu  "
-
-ÑÑ 
-ûû 0
-
-ÜÜ 
-ää 
-êê 
-ïï "
-
-ôô ’
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_05.cs
-
- @^
- ## .. GG SS __ kk 
-ÜÜ 
-ëë 
- ;; vv 
-
-   2
-"" && ,, 11 22 "
-88 
-öö <
-:: ?? DD EE "JJ KK "
-PP 
-õõ <
-RR VV WW "]] bb cc "
-hh 
-úú (
-jj nn tt ~~ "
-
-ÉÉ 
-ùù 0
-
-ÖÖ 
-ââ 
-èè 
-îî "
-
-òò …
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_06.cs
-
- @r
- ("" -- :: FF RR ^^ jj uu 
-ÖÖ 
-êê 
-
- 2
-!! %% ++ 00 11 "
-77 
-ôô <
-99 >> CC DD "II JJ "
-OO 
-öö <
-QQ UU VV "\\ aa bb "
-gg 
-õõ (
-ii mm ss }} "
-
-ÇÇ 
-úú 0
-
-ÑÑ 
-àà 
-éé 
-ìì "
-
-óó …
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_07.cs
-
- @r
- "" -- :: FF RR ^^ jj uu 
-ÖÖ 
-êê 
-
- 2
-!! %% ++ 00 11 "
-77 
-ôô <
-99 >> CC DD "II JJ "
-OO 
-öö <
-QQ UU VV "\\ aa bb "
-gg 
-õõ (
-ii mm ss }} "
-
-ÇÇ 
-úú 0
-
-ÑÑ 
-àà 
-éé 
-ìì "
-
-óó ◊
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_08.cs
-
- @^
- *** 55 NN ZZ ff rr 
-çç 
-òò 
-"" +BB }} 
-
-'' 2
-)) -- 33 88 99 "
-?? 
-°° <
-AA FF KK LL "QQ RR "
-WW 
-¢¢ <
-YY ]] ^^ "dd ii jj "
-oo 
-££ *
-qq uu {{ 
-ÖÖ "
-
-ää 
-§§ 0
-
-åå 
-êê 
-ññ 
-õõ "
-
-üü —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_09.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_10.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_11.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí È
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_12.cs
-
- @
-
- F
-    %% && "++ ,, "11 "
-88 ss Z
-:: >> ?? "DD EE "JJ KK "PP QQ "
-WW tt 2
-YY ]] bb gg "ll "
-
-pp —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_13.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí —
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_14.cs
-
- @
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí Ÿ
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_15.cs
-
- @
-
- 2
- !! && -- .. "
-99 
-≤≤ <
-;; AA EE FF "MM NN "
-XX 
-≥≥ <
-ZZ __ `` "ee ll mm "
-ww 
-¥¥ ,
-yy ~~ 
-ÉÉ 
-éé "
-
-îî 
-µµ 0
-
-ññ 
-õõ 
-†† 
-ßß "
-
-∞∞ è
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_16.cs
-
- @
-
- (
-    && '' "
-.. UU 2
-00 44 55 ";; << "
-BB VV 
-DD HH NN "
-
-SS Ô
-æC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_17.cs
-
- @
-
- (
- "" && '' "
-## ## ##  
--- JJ 2
-// 11 22 66 77 "
-33 33 33  
-<< KK 
->> @@ DD "
-AA AA AA  
-
-HH æ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_81a.cs
-
- A
-
- 
-     
-H R   
-
-$$ 
-++ && 
-66 '' (
--- // 00 22 
-11H R22 
-88 :: << 
-;;H R<< ˝
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_81_bad.cs
-
- D
-
- 
-$ (  Í
-√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_81_base.cs
-
- N
-
- 
-
-$ (˜
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_81_goodB2G.cs
-
- H
-
- 
-$ ( Å
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_int_81_goodG2B.cs
-
- H
-
- 
-$ (  ê
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_01.cs
-
- A
-
- (
-     !! 
-
-%% 
-,, '' 
-88 (( 2
-.. 00 11 33 44 
-:: << >> “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_02.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_03.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí ÷
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_04.cs
-
- A^
- )$$ // HH TT `` ll 
-áá 
-íí 
- *<< ww 
-
-!! 2
-## '' -- 22 33 "
-99 
-õõ <
-;; @@ EE FF "KK LL "
-QQ 
-úú <
-SS WW XX "^^ cc dd "
-ii 
-ùù (
-kk oo uu  "
-
-ÑÑ 
-ûû 0
-
-ÜÜ 
-ää 
-êê 
-ïï "
-
-ôô ÷
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_05.cs
-
- A^
- ## .. GG SS __ kk 
-ÜÜ 
-ëë 
- ;; vv 
-
-   2
-"" && ,, 11 22 "
-88 
-öö <
-:: ?? DD EE "JJ KK "
-PP 
-õõ <
-RR VV WW "]] bb cc "
-hh 
-úú (
-jj nn tt ~~ "
-
-ÉÉ 
-ùù 0
-
-ÖÖ 
-ââ 
-èè 
-îî "
-
-òò  
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_06.cs
-
- Ar
- ("" -- :: FF RR ^^ jj uu 
-ÖÖ 
-êê 
-
- 2
-!! %% ++ 00 11 "
-77 
-ôô <
-99 >> CC DD "II JJ "
-OO 
-öö <
-QQ UU VV "\\ aa bb "
-gg 
-õõ (
-ii mm ss }} "
-
-ÇÇ 
-úú 0
-
-ÑÑ 
-àà 
-éé 
-ìì "
-
-óó  
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_07.cs
-
- Ar
- "" -- :: FF RR ^^ jj uu 
-ÖÖ 
-êê 
-
- 2
-!! %% ++ 00 11 "
-77 
-ôô <
-99 >> CC DD "II JJ "
-OO 
-öö <
-QQ UU VV "\\ aa bb "
-gg 
-õõ (
-ii mm ss }} "
-
-ÇÇ 
-úú 0
-
-ÑÑ 
-àà 
-éé 
-ìì "
-
-óó ÿ
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_08.cs
-
- A^
- *** 55 NN ZZ ff rr 
-çç 
-òò 
-"" +BB }} 
-
-'' 2
-)) -- 33 88 99 "
-?? 
-°° <
-AA FF KK LL "QQ RR "
-WW 
-¢¢ <
-YY ]] ^^ "dd ii jj "
-oo 
-££ *
-qq uu {{ 
-ÖÖ "
-
-ää 
-§§ 0
-
-åå 
-êê 
-ññ 
-õõ "
-
-üü “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_09.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_10.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_11.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí Í
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_12.cs
-
- A
-
- F
-    %% && "++ ,, "11 "
-88 ss Z
-:: >> ?? "DD EE "JJ KK "PP QQ "
-WW tt 2
-YY ]] bb gg "ll "
-
-pp “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_13.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí “
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_14.cs
-
- A
-
- 2
-    && ++ ,, "
-22 
-îî <
-44 99 >> ?? "DD EE "
-JJ 
-ïï <
-LL PP QQ "WW \\ ]] "
-bb 
-ññ (
-dd hh nn xx "
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé "
-
-íí ⁄
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_15.cs
-
- A
-
- 2
- !! && -- .. "
-99 
-≤≤ <
-;; AA EE FF "MM NN "
-XX 
-≥≥ <
-ZZ __ `` "ee ll mm "
-ww 
-¥¥ ,
-yy ~~ 
-ÉÉ 
-éé "
-
-îî 
-µµ 0
-
-ññ 
-õõ 
-†† 
-ßß "
-
-∞∞ ê
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_16.cs
-
- A
-
- (
-    && '' "
-.. UU 2
-00 44 55 ";; << "
-BB VV 
-DD HH NN "
-
-SS 
-øC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_17.cs
-
- A
-
- (
- "" && '' "
-## ## ##  
--- JJ 2
-// 11 22 66 77 "
-33 33 33  
-<< KK 
->> @@ DD "
-AA AA AA  
-
-HH ø
-¿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_81a.cs
-
- B
-
- 
-     
-I S   
-
-$$ 
-++ && 
-66 '' (
--- // 00 22 
-11I S22 
-88 :: << 
-;;I S<< ˛
-√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_81_bad.cs
-
- E
-
- 
-% )  Î
-ƒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_81_base.cs
-
- O
-
- 
-
-% )¯
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_81_goodB2G.cs
-
- I
-
- 
-% ) Ç
-«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_long_81_goodG2B.cs
-
- I
-
- 
-% )  ô
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_01.cs
-
- J
-
- (
-    "" ## 
-
-'' 
-.. )) 
-:: ** 2
-00 22 33 55 66 
-<< >> @@ ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_02.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_03.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî ·
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_04.cs
-
- J^
-   )&& 11 JJ VV bb nn 
-ââ 
-îî 
-!! *>> yy 
-
-## 2
-%% )) // 44 55 
-;; 
-ùù <
-== BB GG HH MM NN 
-SS 
-ûû <
-UU YY ZZ `` ee ff 
-kk 
-üü *
-mm qq ww 
-ÅÅ 
-
-ÜÜ 
-†† 0
-
-àà 
-åå 
-íí 
-óó 
-
-õõ ·
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_05.cs
-
- J^
- %% 00 II UU aa mm 
-àà 
-ìì 
-   == xx 
-
-"" 2
-$$ (( .. 33 44 
-:: 
-úú <
-<< AA FF GG LL MM 
-RR 
-ùù <
-TT XX YY __ dd ee 
-jj 
-ûû *
-ll pp vv 
-ÄÄ 
-
-ÖÖ 
-üü 0
-
-áá 
-ãã 
-ëë 
-ññ 
-
-öö ”
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_06.cs
-
- Jr
- ($$ // << HH TT `` ll ww 
-áá 
-íí 
-
-!! 2
-## '' -- 22 33 
-99 
-õõ <
-;; @@ EE FF KK LL 
-QQ 
-úú <
-SS WW XX ^^ cc dd 
-ii 
-ùù (
-kk oo uu  
-
-ÑÑ 
-ûû 0
-
-ÜÜ 
-ää 
-êê 
-ïï 
-
-ôô ”
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_07.cs
-
- Jr
- $$ // << HH TT `` ll ww 
-áá 
-íí 
-
-!! 2
-## '' -- 22 33 
-99 
-õõ <
-;; @@ EE FF KK LL 
-QQ 
-úú <
-SS WW XX ^^ cc dd 
-ii 
-ùù (
-kk oo uu  
-
-ÑÑ 
-ûû 0
-
-ÜÜ 
-ää 
-êê 
-ïï 
-
-ôô ·
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_08.cs
-
- J^
- *,, 77 PP \\ hh tt 
-èè 
-öö 
-$$ +DD  
-
-)) 2
-++ // 55 :: ;; 
-AA 
-££ <
-CC HH MM NN SS TT 
-YY 
-§§ <
-[[ __ `` ff kk ll 
-qq 
-•• *
-ss ww }} 
-áá 
-
-åå 
-¶¶ 0
-
-éé 
-íí 
-òò 
-ùù 
-
-°° ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_09.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_10.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_11.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî Û
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_12.cs
-
- J
-
- F
- "" '' (( -- .. 33 
-:: uu Z
-<< @@ AA FF GG LL MM RR SS 
-YY vv 2
-[[ __ dd ii nn 
-
-rr ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_13.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî ›
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_14.cs
-
- J
-
- 2
- "" (( -- .. 
-44 
-ññ <
-66 ;; @@ AA FF GG 
-LL 
-óó <
-NN RR SS YY ^^ __ 
-dd 
-òò (
-ff jj pp zz 
- 
-ôô 0
-
-ÅÅ 
-ÖÖ 
-ãã 
-êê 
-
-îî Â
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_15.cs
-
- J
-
- 2
- ## (( // 00 
-;; 
-¥¥ <
-== CC GG HH OO PP 
-ZZ 
-µµ <
-\\ aa bb gg nn oo 
-yy 
-∂∂ .
-{{ 
-ÄÄ 
-ÖÖ 
-êê 
-
-ññ 
-∑∑ 0
-
-òò 
-ùù 
-¢¢ 
-©© 
-
-≤≤ ô
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_16.cs
-
- J
-
- (
- "" (( )) 
-00 WW 2
-22 66 77 == >> 
-DD XX 
-FF JJ PP 
-
-UU ˘
-»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_StringBuilder_17.cs
-
- J
-
- (
- $$ (( )) 
-%% %% %%  
-// LL 2
-11 33 44 88 99 
-55 55 55  
->> MM 
-@@ BB FF 
-CC CC CC  
-
-JJ í
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_01.cs
-
- C
-
- (
-     !! 
-
-%% 
-,, '' 
-88 (( 2
-.. 00 11 33 44 
-:: << >> ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_02.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_03.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí ÿ
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_04.cs
-
- C^
- )$$ // HH TT `` ll 
-áá 
-íí 
- *<< ww 
-
-!! 2
-## '' -- 22 33 
-99 
-õõ <
-;; @@ EE FF KK LL 
-QQ 
-úú <
-SS WW XX ^^ cc dd 
-ii 
-ùù (
-kk oo uu  
-
-ÑÑ 
-ûû 0
-
-ÜÜ 
-ää 
-êê 
-ïï 
-
-ôô ÿ
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_05.cs
-
- C^
- ## .. GG SS __ kk 
-ÜÜ 
-ëë 
- ;; vv 
-
-   2
-"" && ,, 11 22 
-88 
-öö <
-:: ?? DD EE JJ KK 
-PP 
-õõ <
-RR VV WW ]] bb cc 
-hh 
-úú (
-jj nn tt ~~ 
-
-ÉÉ 
-ùù 0
-
-ÖÖ 
-ââ 
-èè 
-îî 
-
-òò Ã
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_06.cs
-
- Cr
- ("" -- :: FF RR ^^ jj uu 
-ÖÖ 
-êê 
-
- 2
-!! %% ++ 00 11 
-77 
-ôô <
-99 >> CC DD II JJ 
-OO 
-öö <
-QQ UU VV \\ aa bb 
-gg 
-õõ (
-ii mm ss }} 
-
-ÇÇ 
-úú 0
-
-ÑÑ 
-àà 
-éé 
-ìì 
-
-óó Ã
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_07.cs
-
- Cr
- "" -- :: FF RR ^^ jj uu 
-ÖÖ 
-êê 
-
- 2
-!! %% ++ 00 11 
-77 
-ôô <
-99 >> CC DD II JJ 
-OO 
-öö <
-QQ UU VV \\ aa bb 
-gg 
-õõ (
-ii mm ss }} 
-
-ÇÇ 
-úú 0
-
-ÑÑ 
-àà 
-éé 
-ìì 
-
-óó ⁄
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_08.cs
-
- C^
- *** 55 NN ZZ ff rr 
-çç 
-òò 
-"" +BB }} 
-
-'' 2
-)) -- 33 88 99 
-?? 
-°° <
-AA FF KK LL QQ RR 
-WW 
-¢¢ <
-YY ]] ^^ dd ii jj 
-oo 
-££ *
-qq uu {{ 
-ÖÖ 
-
-ää 
-§§ 0
-
-åå 
-êê 
-ññ 
-õõ 
-
-üü ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_09.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_10.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_11.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí Ï
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_12.cs
-
- C
-
- F
-    %% && ++ ,, 11 
-88 ss Z
-:: >> ?? DD EE JJ KK PP QQ 
-WW tt 2
-YY ]] bb gg ll 
-
-pp ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_13.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí ‘
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_14.cs
-
- C
-
- 2
-    && ++ ,, 
-22 
-îî <
-44 99 >> ?? DD EE 
-JJ 
-ïï <
-LL PP QQ WW \\ ]] 
-bb 
-ññ (
-dd hh nn xx 
-}} 
-óó .
- 
-ÉÉ 
-ââ 
-éé 
-
-íí ‹
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_15.cs
-
- C
-
- 2
- !! && -- .. 
-99 
-≤≤ <
-;; AA EE FF MM NN 
-XX 
-≥≥ <
-ZZ __ `` ee ll mm 
-ww 
-¥¥ ,
-yy ~~ 
-ÉÉ 
-éé 
-
-îî 
-µµ 0
-
-ññ 
-õõ 
-†† 
-ßß 
-
-∞∞ í
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_16.cs
-
- C
-
- (
-    && '' 
-.. UU 2
-00 44 55 ;; << 
-BB VV 
-DD HH NN 
-
-SS Ú
-¡C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_17.cs
-
- C
-
- (
- "" && '' 
-## ## ##  
--- JJ 2
-// 11 22 66 77 
-33 33 33  
-<< KK 
->> @@ DD 
-AA AA AA  
-
-HH ¡
-¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_81a.cs
-
- D
-
- 
-     
-K U   
-
-$$ 
-++ && 
-66 '' (
--- // 00 22 
-11K U22 
-88 :: << 
-;;K U<< Ä
-≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_81_bad.cs
-
- G
-
- 
-' +  Ì
-∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_81_base.cs
-
- Q
-
- 
-
-' +˙
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_81_goodB2G.cs
-
- K
-
- 
-' + Ñ
-…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\CWE563_Assign_to_Variable_Without_Use__unused_value_string_81_goodG2B.cs
-
- K
-
- 
-' +  û
-ãC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\Program.cs
+L P2
+!! "// 00< HBB  DD  (
+"" $00 $22 !55 !(
+## && ++ 44  "
+(( "**. 1
+33 $44 
+:: %<<. 7
+GG  )II2 ;†
+ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\Program.cs
 
  
 
@@ -3484,13 +2615,9 @@
 UU  DD 
 [[  EE 
 aa  FF 
-gg  GG 
-
-ææ  HH 
-
-ƒƒ  II 
-
-    JJ 
-
-––  KK û
-õC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE563_Assign_to_Variable_Without_Use\Properties\AssemblyInfo.cs
+gg  GG 
+mm  HH 
+ss  II 
+yy  JJ 
+  KK ®
+•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE566_Authorization_Bypass_Through_SQL_Primary\Properties\AssemblyInfo.cs

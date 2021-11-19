@@ -1,1646 +1,49794 @@
-Ë
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_01.cs
-
- )
-
- 
-
-!! 
-&& ## 
-** ++ !î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_02.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_03.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE  
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_04.cs
-
- )
- )   @@ 
- *-- 
-
- 
-++ MM 
-66 77 %
->> NN 
-DD EE %
-
-KK  
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_05.cs
-
- )
-    @@ 
- -- 
-
- 
-++ MM 
-66 77 %
->> NN 
-DD EE %
-
-KK æ
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_06.cs
-
- )(
- ( ,, ?? 
-
- 
-** LL 
-55 66 %
-== MM 
-CC DD %
-
-JJ æ
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_07.cs
-
- )(
-  ,, ?? 
-
- 
-** LL 
-55 66 %
-== MM 
-CC DD %
-
-JJ  
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_08.cs
-
- )
- *'' GG 
-   +44 
-
-%% 
-22 TT 
-== >> %
-EE UU 
-KK LL %
-
-RR î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_09.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_10.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_11.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_12.cs
-
- )
-
- 
-%% && %
-.. FF 
-44 55 %
-== >> %
-
-DD î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_13.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_14.cs
-
- )
-
- 
-%% GG 
-00 11 %
-88 HH 
->> ?? %
-
-EE î
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_15.cs
-
- )
-
- 
-++ TT 
-66 77 !
-?? UU 
-FF GG !
-
-RR Ë
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_16.cs
-
- )
-
- 
-&& 66 
-,, -- %
-
-44 ®
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_block_17.cs
-
- )
-
- 
-   
-%% 44 
-'' '' '' 
-++ ,, %
-
-22 ˝
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_01.cs
-
- (
-
- 
-  
-
-(( 
--- ** 
-// 00 ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_02.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_03.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ﬂ
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_04.cs
-
- (
- )   MM 
- *44 
-
- 
-"" ## 
-22 `` 
-;; << 
-KK aa 
-OO PP 
-
-^^ ﬂ
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_05.cs
-
- (
-    MM 
- 44 
-
- 
-"" ## 
-22 `` 
-;; << 
-KK aa 
-OO PP 
-
-^^ ”
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_06.cs
-
- ((
- ( 33 LL 
-
- 
-!! "" 
-11 __ 
-:: ;; 
-JJ `` 
-NN OO 
-
-]] ”
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_07.cs
-
- ((
-  33 LL 
-
- 
-!! "" 
-11 __ 
-:: ;; 
-JJ `` 
-NN OO 
-
-]] ﬂ
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_08.cs
-
- (
- *'' TT 
-   +;; 
-
-%% 
-)) ** 
-99 gg 
-BB CC 
-RR hh 
-VV WW 
-
-ee ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_09.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_10.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_11.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_12.cs
-
- (
-
- 
-  
-** ++ 
-;; __ 
-?? @@ 
-NN OO 
-
-]] ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_13.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_14.cs
-
- (
-
- 
-  
-,, ZZ 
-55 66 
-EE [[ 
-II JJ 
-
-XX ©
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_15.cs
-
- (
-
- 
-  
-22 gg 
-;; << 
-LL hh 
-QQ RR 
-
-ee ˝
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_16.cs
-
- (
-
- 
-  
--- CC 
-11 22 
-
-AA Ω
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_case_17.cs
-
- (
-
- 
-   
-  
-,, AA 
-.. .. .. 
-00 11 
-
-?? ë
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_01.cs
-
- (
-
- 
-  	 
-
-(( 
--- ** 
-// 00 	11 «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_02.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_03.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX ˝
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_04.cs
-
- (
- )   MM 
- *44 
-
- 
-"" ## $$ 
-22 `` 
-;; << == 
-KK aa 
-OO PP QQ 
-
-^^ ˝
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_05.cs
-
- (
-    MM 
- 44 
-
- 
-"" ## $$ 
-22 `` 
-;; << == 
-KK aa 
-OO PP QQ 
-
-^^ Ò
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_06.cs
-
- ((
- ( 33 LL 
-
- 
-!! "" ## 
-11 __ 
-:: ;; << 
-JJ `` 
-NN OO PP 
-
-]] Ò
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_07.cs
-
- ((
-  33 LL 
-
- 
-!! "" ## 
-11 __ 
-:: ;; << 
-JJ `` 
-NN OO PP 
-
-]] ˝
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_08.cs
-
- (
- *'' TT 
-   +;; 
-
-%% 
-)) ** ++ 
-99 gg 
-BB CC DD 
-RR hh 
-VV WW XX 
-
-ee «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_09.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_10.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_11.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX —
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_12.cs
-
- (
-
- 
-   
-** ++ ,, 
-;; __ 
-?? @@ AA 
-NN OO PP 
-
-]] «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_13.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_14.cs
-
- (
-
- 
-   
-,, ZZ 
-55 66 77 
-EE [[ 
-II JJ KK 
-
-XX «
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_15.cs
-
- (
-
- 
-   
-22 gg 
-;; << == 
-LL hh 
-QQ RR SS 
-
-ee ë
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_16.cs
-
- (
-
- 
-   
--- CC 
-11 22 33 
-
-AA —
-îC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_else_17.cs
-
- (
-
- 
-   
-   
-,, AA 
-.. .. .. 
-00 11 22 
-
-?? ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_01.cs
-
- '
-
- 
-    !
-
-"" 
-'' $$ 
-** ** **  !∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_02.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_03.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF ¸
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_04.cs
-
- '
- )   AA 
- *.. 
-
- 
-## ## ##$ %
-,, NN 
-66 66 66$ %
-?? OO 
-DD DD DD$ %
-
-LL ¸
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_05.cs
-
- '
-    AA 
- .. 
-
- 
-## ## ##$ %
-,, NN 
-66 66 66$ %
-?? OO 
-DD DD DD$ %
-
-LL 
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_06.cs
-
- '(
- ( -- @@ 
-
- 
-"" "" ""$ %
-++ MM 
-55 55 55$ %
->> NN 
-CC CC CC$ %
-
-KK 
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_07.cs
-
- '(
-  -- @@ 
-
- 
-"" "" ""$ %
-++ MM 
-55 55 55$ %
->> NN 
-CC CC CC$ %
-
-KK ¸
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_08.cs
-
- '
- *'' HH 
-   +55 
-
-%% 
-** ** **$ %
-33 UU 
-== == ==$ %
-FF VV 
-KK KK KK$ %
-
-SS ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_09.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_10.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_11.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF –
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_12.cs
-
- '
-
- 
-  $ %
-%% %% %%$ %
-// GG 
-44 44 44$ %
-== == ==$ %
-
-EE ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_13.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_14.cs
-
- '
-
- 
-  $ %
-&& HH 
-00 00 00$ %
-99 II 
->> >> >>$ %
-
-FF ∆
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_15.cs
-
- '
-
- 
-  $ %
-,, UU 
-66 66 66$ %
-@@ VV 
-FF FF FF$ %
-
-SS ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_16.cs
-
- '
-
- 
-  $ %
-'' 77 
-,, ,, ,,$ %
-
-55 –
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_for_17.cs
-
- '
-
- 
-   
-  $ %
-&& 55 
-(( (( (( 
-++ ++ ++$ %
-
-33 Å
-òC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_function_01.cs
-
-
- 0
-  
-
-  
-  "" 
-   '' 
-
-%% !è
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_01.cs
-
- &
-
- 
-  	 
-
-(( 
--- ** 
-// 00 	22 ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_02.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_03.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX ˚
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_04.cs
-
- &
- )   MM 
- *44 
-
- 
-"" ## %% 
-22 `` 
-;; << >> 
-KK aa 
-OO PP RR 
-
-^^ ˚
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_05.cs
-
- &
-    MM 
- 44 
-
- 
-"" ## %% 
-22 `` 
-;; << >> 
-KK aa 
-OO PP RR 
-
-^^ Ô
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_06.cs
-
- &(
- ( 33 LL 
-
- 
-!! "" $$ 
-11 __ 
-:: ;; == 
-JJ `` 
-NN OO QQ 
-
-]] Ô
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_07.cs
-
- &(
-  33 LL 
-
- 
-!! "" $$ 
-11 __ 
-:: ;; == 
-JJ `` 
-NN OO QQ 
-
-]] ˚
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_08.cs
-
- &
- *'' TT 
-   +;; 
-
-%% 
-)) ** ,, 
-99 gg 
-BB CC EE 
-RR hh 
-VV WW YY 
-
-ee ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_09.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_10.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_11.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX œ
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_12.cs
-
- &
-
- 
-   
-** ++ -- 
-;; __ 
-?? @@ BB 
-NN OO QQ 
-
-]] ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_13.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_14.cs
-
- &
-
- 
-   
-,, ZZ 
-55 66 88 
-EE [[ 
-II JJ LL 
-
-XX ≈
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_15.cs
-
- &
-
- 
-     
-22 gg 
-;; << >> 
-LL hh 
-QQ RR TT 
-
-ee è
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_16.cs
-
- &
-
- 
-   
--- CC 
-11 22 44 
-
-AA œ
-íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_if_17.cs
-
- &
-
- 
-   
-   
-,, AA 
-.. .. .. 
-00 11 33 
-
-?? ˛
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_01.cs
-
- )
-
- 
-  
-
-## 
-(( %% 
-** ,, ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_02.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_03.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ‡
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_04.cs
-
- )
- )   CC 
- *// 
-
- 
-"" $$ 
--- QQ 
-66 88 
-AA RR 
-EE GG 
-
-OO ‡
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_05.cs
-
- )
-    CC 
- // 
-
- 
-"" $$ 
--- QQ 
-66 88 
-AA RR 
-EE GG 
-
-OO ‘
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_06.cs
-
- )(
- ( .. BB 
-
- 
-!! ## 
-,, PP 
-55 77 
-@@ QQ 
-DD FF 
-
-NN ‘
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_07.cs
-
- )(
-  .. BB 
-
- 
-!! ## 
-,, PP 
-55 77 
-@@ QQ 
-DD FF 
-
-NN ‡
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_08.cs
-
- )
- *'' JJ 
-   +66 
-
-%% 
-)) ++ 
-44 XX 
-== ?? 
-HH YY 
-LL NN 
-
-VV ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_09.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_10.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_11.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_12.cs
-
- )
-
- 
-  
-%% '' 
-11 KK 
-55 77 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_13.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_14.cs
-
- )
-
- 
-  
-'' KK 
-00 22 
-;; LL 
-?? AA 
-
-II ™
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_15.cs
-
- )
-
- 
-  
--- XX 
-66 88 
-BB YY 
-GG II 
-
-VV ˛
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_16.cs
-
- )
-
- 
-  
-(( 99 
-,, .. 
-
-77 æ
-ïC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__empty_while_17.cs
-
- )
-
- 
-   
-  
-'' 77 
-)) )) )) 
-++ -- 
-
-55 ¡
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_01.cs
-
- $
-
- 2
-     
-
-"" 
-'' $$ (
-)) ** ,, -- 
-)) ,, ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_02.cs
-
- $
-
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
-
-DD ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_03.cs
-
- $
-
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
-
-DD Õ
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_04.cs
-
- $
- )   @@ 
- *.. 
-
- 2
-"" ## %% %% && 
-,, LL (
-55 66 88 99 
-55 #88 
->> MM (
-BB CC EE FF 
-BB #EE 
-
-JJ Õ
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_05.cs
-
- $
-    @@ 
- .. 
-
- 2
-"" ## %% %% && 
-,, LL (
-55 66 88 99 
-55 #88 
->> MM (
-BB CC EE FF 
-BB #EE 
-
-JJ ¡
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_06.cs
-
- $(
- ( -- ?? 
-
- 2
-!! "" $$ $$ %% 
-++ KK (
-44 55 77 88 
-44 #77 
-== LL (
-AA BB DD EE 
-AA #DD 
-
-II ¡
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_07.cs
-
- $(
-  -- ?? 
-
- 2
-!! "" $$ $$ %% 
-++ KK (
-44 55 77 88 
-44 #77 
-== LL (
-AA BB DD EE 
-AA #DD 
-
-II Õ
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_08.cs
-
- $
- *'' GG 
-   +55 
+ª
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_01.cs
+
+ G
+
+ (
+!! "" 66 EE (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :(
+CC EE EE EE  
+
+LL 
+SS NN 
+aa OO 
+UU WW ZZ (
+XX ZZ ZZ ZZ  B
+cc dd xx 
+áá 
+áá 
+ââ !(
+ii #qq $tt  xx* 6
+kk! (nn> E
+nn( *qq' )
+zz* <||: L
+
+ÄÄ '
+ÇÇ2 :0
+
+ÖÖ 
+ââ 
+ââ 
+ââ# $Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_02.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_03.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ π
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_04.cs
+
+ Gb
+## ))) SS nn }} 
+àà 
+óó 
+ÿÿ 
+ÇÇ  
+$$ *cc 
+¡¡ 
+
+&& 2
+(( ++ ?? !QQ WW !(
+00 '88 (;; $??. :
+22% ,55B I
+55, .88+ -
+AA. @CC> P
+GG# +II6 >(
+UU WW WW WW# $
+`` 
+íí (
+bb gg ll rr !(
+pp rr rr rr# $
+zz 
+ìì .
+|| 
+ÄÄ 
+ÜÜ 
+åå !0
+
+ää 
+åå 
+åå 
+åå# $
+
+îî 
+îî T
+
+ññ 
+ôô 
+≠≠ !
+øø 
+   
+   "
+ÃÃ  %0
+
+ûû '
+¶¶ (
+©© $
+≠≠. :
+
+††% ,
+££B I
+
+££, .
+¶¶+ -
+
+ØØ. @
+±±> P
+
+µµ# +
+∑∑6 >0
+
+»» 
+ÃÃ 
+ÃÃ 
+ÃÃ' (
+
+’’ 
+ïï T
+
+◊◊ 
+⁄⁄ 
+ÓÓ !
+ÄÄ 
+ÜÜ 
+ÜÜ "
+àà  %0
+
+ﬂﬂ '
+ÁÁ (
+ÍÍ $
+ÓÓ. :
+
+··% ,
+‰‰B I
+
+‰‰, .
+ÁÁ+ -
+
+. @
+ÚÚ> P
+
+ˆˆ# +
+¯¯6 >0
+
+ÑÑ 
+àà 
+àà 
+àà' (
+
+êê ∑
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_05.cs
+
+ Gb
+"" (( RR mm || 
+áá 
+ññ 
+◊◊ 
+ÅÅ  
+## bb 
+¿¿ 
 
 %% 2
-)) ** ,, ,, -- 
-33 SS (
-<< == ?? @@ 
-<< #?? 
-EE TT (
-II JJ LL MM 
-II #LL 
+'' ** >> !PP VV !(
+// '77 (:: $>>. :
+11% ,44B I
+44, .77+ -
+@@. @BB> P
+FF# +HH6 >(
+TT VV VV VV# $
+__ 
+ëë (
+aa ff kk qq !(
+oo qq qq qq# $
+yy 
+íí ,
+{{  
+ÖÖ 
+ãã !0
 
-QQ ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_09.cs
+ââ 
+ãã 
+ãã 
+ãã# $
 
- $
+ìì 
+ìì T
 
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
+ïï 
+òò 
+¨¨ !
+ææ 
+…… 
+…… "
+ÀÀ  %0
 
-DD ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_10.cs
+ùù '
+•• (
+®® $
+¨¨. :
 
- $
+üü% ,
+¢¢B I
 
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
+¢¢, .
+••+ -
 
-DD ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_11.cs
+ÆÆ. @
+∞∞> P
 
- $
+¥¥# +
+∂∂6 >0
 
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
+«« 
+ÀÀ 
+ÀÀ 
+ÀÀ' (
 
-DD ¡
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_12.cs
+‘‘ 
+îî T
 
- $
+÷÷ 
+ŸŸ 
+ÌÌ !
+ˇˇ 
+ÖÖ 
+ÖÖ "
+áá  %0
 
- 2
-       (
-$$ %% '' (( 
-$$ #'' 
-.. DD (
-22 33 55 66 
-22 #55 (
-:: ;; == >> 
-:: #== 
+ﬁﬁ '
+ÊÊ (
+ÈÈ $
+ÌÌ. :
 
-BB ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_13.cs
+‡‡% ,
+„„B I
 
- $
+„„, .
+ÊÊ+ -
 
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
+ÔÔ. @
+ÒÒ> P
 
-DD ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_14.cs
+ıı# +
+˜˜6 >0
 
- $
+ÉÉ 
+áá 
+áá 
+áá' (
 
- 2
-       
-&& FF (
-// 00 22 33 
-// #22 
-88 GG (
-<< == ?? @@ 
-<< #?? 
+èè ´
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_06.cs
 
-DD ó
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_15.cs
+ Gx
+"" ('' QQ aa ll {{ 
+ÜÜ 
+ïï 
+øø 
+÷÷ 
+ÄÄ 
 
- $
+$$ 2
+&& )) == !OO UU !(
+.. '66 (99 $==. :
+00% ,33B I
+33, .66+ -
+??. @AA> P
+EE# +GG6 >(
+SS UU UU UU# $
+^^ 
+êê (
+`` ee jj pp !(
+nn pp pp pp# $
+xx 
+ëë ,
+zz ~~ 
+ÑÑ 
+ää !0
 
- 2
-        !! 
-,, SS (
-55 66 88 99 
-55 #88 
-?? TT (
-DD EE GG HH 
-DD #GG 
+àà 
+ää 
+ää 
+ää# $
 
-QQ ¡
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_16.cs
+íí 
+íí T
 
- $
+îî 
+óó 
+´´ !
+ΩΩ 
+»» 
+»» "
+    %0
 
- 2
-       
-'' 66 (
-++ ,, .. // 
-++ #.. 
+úú '
+§§ (
+ßß $
+´´. :
 
-44 Å
-êC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__equals_17.cs
+ûû% ,
+°°B I
 
- $
+°°, .
+§§+ -
 
- 
-   2
-       
-&& 44 
-(( (( (( (
-** ++ -- .. 
-** #-- 
+≠≠. @
+ØØ> P
 
-22 –
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_01.cs
+≥≥# +
+µµ6 >0
 
- '
+∆∆ 
+   
+   
+  ' (
 
- 
+”” 
+ìì T
 
- 
-$$ !! Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_02.cs
+’’ 
+ÿÿ 
+ÏÏ !
+˛˛ 
+ÑÑ 
+ÑÑ "
+ÜÜ  %0
 
- '
+›› '
+ÂÂ (
+ËË $
+ÏÏ. :
 
- 
-## == 
-22 >> 
+ﬂﬂ% ,
+‚‚B I
 
-;; Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_03.cs
+‚‚, .
+ÂÂ+ -
 
- '
+ÓÓ. @
+> P
 
- 
-## == 
-22 >> 
+ÙÙ# +
+ˆˆ6 >0
 
-;; ú
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_04.cs
+ÇÇ 
+ÜÜ 
+ÜÜ 
+ÜÜ' (
 
- '
- )   :: 
- *++ 
+éé ´
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_07.cs
+
+ Gx
+"" '' QQ aa ll {{ 
+ÜÜ 
+ïï 
+øø 
+÷÷ 
+ÄÄ 
+
+$$ 2
+&& )) == !OO UU !(
+.. '66 (99 $==. :
+00% ,33B I
+33, .66+ -
+??. @AA> P
+EE# +GG6 >(
+SS UU UU UU# $
+^^ 
+êê (
+`` ee jj pp !(
+nn pp pp pp# $
+xx 
+ëë ,
+zz ~~ 
+ÑÑ 
+ää !0
+
+àà 
+ää 
+ää 
+ää# $
+
+íí 
+íí T
+
+îî 
+óó 
+´´ !
+ΩΩ 
+»» 
+»» "
+    %0
+
+úú '
+§§ (
+ßß $
+´´. :
+
+ûû% ,
+°°B I
+
+°°, .
+§§+ -
+
+≠≠. @
+ØØ> P
+
+≥≥# +
+µµ6 >0
+
+∆∆ 
+   
+   
+  ' (
+
+”” 
+ìì T
+
+’’ 
+ÿÿ 
+ÏÏ !
+˛˛ 
+ÑÑ 
+ÑÑ "
+ÜÜ  %0
+
+›› '
+ÂÂ (
+ËË $
+ÏÏ. :
+
+ﬂﬂ% ,
+‚‚B I
+
+‚‚, .
+ÂÂ+ -
+
+ÓÓ. @
+> P
+
+ÙÙ# +
+ˆˆ6 >0
+
+ÇÇ 
+ÜÜ 
+ÜÜ 
+ÜÜ' (
+
+éé ø
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_08.cs
+
+ Gd
+"" *// YY tt 
+ÉÉ 
+éé 
+ùù 
+ﬁﬁ 
+àà  
+'' +ii 
+«« 
+
+,, 2
+.. 11 EE !WW ]] !(
+66 '>> (AA $EE. :
+88% ,;;B I
+;;, .>>+ -
+GG. @II> P
+MM# +OO6 >(
+[[ ]] ]] ]]# $
+ff 
+òò (
+hh mm rr xx !(
+vv xx xx xx# $
+
+ÄÄ 
+ôô 0
+
+ÇÇ 
+ÜÜ 
+åå 
+íí !0
+
+êê 
+íí 
+íí 
+íí# $
+
+öö 
+öö T
+
+úú 
+üü 
+≥≥ !
+≈≈ 
+–– 
+–– "
+““  %0
+
+§§ '
+¨¨ (
+ØØ $
+≥≥. :
+
+¶¶% ,
+©©B I
+
+©©, .
+¨¨+ -
+
+µµ. @
+∑∑> P
+
+ªª# +
+ΩΩ6 >0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+€€ 
+õõ T
+
+›› 
+‡‡ 
+ÙÙ !
+ÜÜ 
+åå 
+åå "
+éé  %0
+
+ÂÂ '
+ÌÌ (
+ $
+ÙÙ. :
+
+ÁÁ% ,
+ÍÍB I
+
+ÍÍ, .
+ÌÌ+ -
+
+ˆˆ. @
+¯¯> P
+
+¸¸# +
+˛˛6 >0
+
+ää 
+éé 
+éé 
+éé' (
+
+ññ Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_09.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_10.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_11.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ˆ	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_12.cs
+
+ G
+
+ P
+!! $$ 88 !II OO !XX XX "ZZ  %(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+MM OO OO OO# $(
+VV ZZ ZZ ZZ' (
+ee 
+ 2
+gg kk pp vv ! !(
+tt vv vv vv# $(
+}}   # $
+
+àà 
+ÒÒ Ñ
+
+ää 
+çç 
+°° !
+±± 
+≈≈ !
+◊◊ 
+◊◊ "
+ŸŸ  %
+„„ 
+„„ "
+ÂÂ  %0
+
+íí '
+öö (
+ùù $
+°°. :
+
+îî% ,
+óóB I
+
+óó, .
+öö+ -
+
+££. @
+••> P
+
+©©# +
+´´6 >0
+
+∂∂ '
+ææ (
+¡¡ $
+≈≈. :
+
+∏∏% ,
+ªªB I
+
+ªª, .
+ææ+ -
+
+««. @
+……> P
+
+ÕÕ# +
+œœ6 >0
+
+’’ 
+ŸŸ 
+ŸŸ 
+ŸŸ' (0
+
+·· 
+ÂÂ 
+ÂÂ 
+ÂÂ' (
+
+ÌÌ Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_13.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ Ø
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_14.cs
+
+ G
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+ôô% ,
+úúB I
+
+úú, .
+üü+ -
+
+®®. @
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+⁄⁄% ,
+››B I
+
+››, .
+‡‡+ -
+
+ÈÈ. @
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ∑
+
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_15.cs
+
+ G
+
+ 2
+!! %% 99 !JJ RR !(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+PP RR RR RR# $
+`` 
+©© (
+bb hh ll tt !(
+rr tt tt tt# $
+
+ÅÅ 
+™™ 0
+
+ÉÉ 
+àà 
+çç 
+ïï !0
+
+ìì 
+ïï 
+ïï 
+ïï# $
+
+¢¢ 
+´´ T
+
+§§ 
+®® 
+ºº !
+ÕÕ 
+ŸŸ 
+ŸŸ "
+€€  %0
+
+≠≠ '
+µµ (
+∏∏ $
+ºº. :
+
+ØØ% ,
+≤≤B I
+
+≤≤, .
+µµ+ -
+
+ææ. @
+¿¿> P
+
+ƒƒ# +
+∆∆6 >0
+
+◊◊ 
+€€ 
+€€ 
+€€' (
+
+ÂÂ 
+¨¨ T
+
+ÁÁ 
+ÎÎ 
+ˇˇ !
+êê 
+òò 
+òò "
+öö  %0
+
+ '
+¯¯ (
+˚˚ $
+ˇˇ. :
+
+ÚÚ% ,
+ııB I
+
+ıı, .
+¯¯+ -
+
+ÅÅ. @
+ÉÉ> P
+
+áá# +
+ââ6 >0
+
+ññ 
+öö 
+öö 
+öö' (
+
+ßß À
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_16.cs
+
+ G
+
+ (
+!! $$ 88 !KK !(
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >(
+II KK KK KK# $
+UU 
+§§ 
+WW [[ bb !(
+`` bb bb bb# $
+kk 
+•• D
+mm pp 
+ÑÑ !
+óó 
+óó "
+ôô  %,
+uu '}} (
+ÄÄ $
+ÑÑ. :
+ww% ,zzB I
+zz, .}}+ -
+
+ÜÜ. @
+àà> P
+
+åå# +
+éé6 >0
+
+ïï 
+ôô 
+ôô 
+ôô' (
+
+¢¢ ©
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_17.cs
+
+ G
+
+ (
+!! && :: KK !(
+++ #33 $66  ::* 6
+--! (00> E
+00( *33' )
+<<* <>>: L
+BB 'DD2 :
+GG GG GG  (
+II KK KK KK# $
+TT 
+ôô 
+VV XX ]] !
+YY YY YY  (
+[[ ]] ]] ]]# $
+ee 
+öö B
+gg hh || 
+çç 
+çç "
+èè  %(
+mm #uu $xx  ||* 6
+oo! (rr> E
+rr( *uu' )
+~~* <
+ÄÄ: L
+
+ÑÑ '
+ÜÜ2 :$
+
+ââ 
+ââ 
+ââ  0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó Õ
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_21.cs
+
+ G
+   FF LL 
+
+"" (
+$$ %% 99 GG (
+** #22 $55  99* 6
+,,! (//> E
+//( *22' )
+;;* <==: L
+AA 'CC2 :
+JJ GG 
+JJ "PP !(
+NN PP PP PP# $"
+XX  
+àà 
+éé "
+YY  
+∆∆ 
+ÃÃ "
+ZZ 
+‡‡ 
+ÊÊ 
+
+\\ 
+dd ^^ 
+
+¢¢ __ 
+
+€€ `` *
+ff gg {{ 
+ââ (
+ll #tt $ww  {{* 6
+nn! (qq> E
+qq( *tt' )
+}}* <: L
+
+ÉÉ '
+ÖÖ2 :
+
+åå 
+ââ 0
+
+åå" '
+óó 
+óó "
+ôô  %0
+
+ïï 
+ôô 
+ôô 
+ôô' (0
+
+§§ 
+•• 
+ππ 
+«« 0
+
+™™ #
+≤≤ $
+µµ  
+ππ* 6
+
+¨¨! (
+ØØ> E
+
+ØØ( *
+≤≤' )
+
+ªª* <
+ΩΩ: L
+
+¡¡ '
+√√2 :
+
+   
+«« 0
+
+  " '
+–– 
+–– "
+““  %0
+
+ŒŒ 
+““ 
+““ 
+““' ($
+
+›› 
+ﬂﬂ 
+·· 
+
+‰‰ 
+·· 
+
+‰‰! &
+ÍÍ !0
+
+ËË 
+ÍÍ 
+ÍÍ 
+ÍÍ# $‡
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_22a.cs
+
+ H
+   &FF 
+
+"" (
+$$ %% 99 GGS X(
+** #22 $55  99* 6
+,,! (//> E
+//( *22' )
+;;* <==: L
+AA 'CC2 :
+KK +{{ 
+LL +
+§§ 
+MM *
+ÆÆ 
+
+OO 
+WW QQ 
+
+ÄÄ RR 
+
+©© SS (
+YY ZZ nn ||X ](
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :0
+
+ÇÇ 
+ÉÉ 
+óó 
+••X ]0
+
+àà #
+êê $
+ìì  
+óó* 6
+
+ää! (
+çç> E
+
+çç( *
+êê' )
+
+ôô* <
+õõ: L
+
+üü '
+°°2 :$
+
+´´ 
+≠≠ 
+ØØW \‹
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_22b.cs
+
+ H
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $Û
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_31.cs
+
+ G
+
+ 
+!! EE HH !(
+## $$ 88 !EE (
+)) '11 (44 $88. :
+++% ,..B I
+.., .11+ -
+::. @<<> P
+@@# +BB6 >
+HH KK !(
+II KK KK KK# $
+
+SS 
+ZZ UU 
+oo VV 
+\\ aa dd !
+^^ `` aa 
+dd gg !(
+ee gg gg gg# $"
+qq 
+ïï 
+òò !,
+ss tt 
+àà !
+ïï .
+yy '
+ÅÅ (
+ÑÑ $
+àà. :
+{{% ,~~B I
+~~, .
+ÅÅ+ -
+
+ää. @
+åå> P
+
+êê# +
+íí6 >0
+
+òò 
+õõ 
+õõ "
+ùù  %0
+
+ôô 
+ùù 
+ùù 
+ùù' (À
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_41.cs
+
+ G
+ MM 
+$ )## (
+!! ## ## ##  
+
+)) (
+++ ,, @@ MM (
+11 #99 $<<  @@* 6
+33! (66> E
+66( *99' )
+BB* <DD: L
+HH 'JJ2 :
+
+QQ 
+bb SS 
+xx TT 
+WW #gg 
+WW( -[[ (
+YY [[ [[ [[  
+dd ff gg 
+jj #
+úú (
+jj( -nn nn pp !(
+ll pp pp pp# $,
+zz {{ 
+èè 
+úú 0
+
+ÄÄ #
+àà $
+ãã  
+èè* 6
+
+ÇÇ! (
+ÖÖ> E
+
+ÖÖ( *
+àà' )
+
+ëë* <
+ìì: L
+
+óó '
+ôô2 :—
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_42.cs
+
+ G
+  HH (
+!! "" 66 CC (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+FF 
+HH KK (
+II KK KK KK  
+SS $]] !
+UU WW XX 
+[[ 
+ûû 
+]] `` (
+^^ `` `` ``  
+gg $
+êê !*
+ii jj ~~ 
+ãã (
+oo #ww $zz  ~~* 6
+qq! (tt> E
+tt( *ww' )
+
+ÄÄ* <
+ÇÇ: L
+
+ÜÜ '
+àà2 :
+
+éé 
+üü 0
+
+êê 
+ìì 
+ìì 
+ïï !0
+
+ëë 
+ïï 
+ïï 
+ïï# $
+
+úú ≥
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_45.cs
+
+ G
+ %% RR 
+   __  nn  
+!! tt  
+•• 
+## SS 
+%% (( (
+&& (( (( ((  
+
+.. (
+00 11 EE RR (
+66 #>> $AA  EE* 6
+88! (;;> E
+;;( *>>' )
+GG* <II: L
+MM 'OO2 :
+
+WW 
+ii YY 
+
+ÅÅ ZZ 
+]] oo 
+__ bb (
+`` bb bb bb  
+kk mm nn 
+rr 
+¶¶ (
+tt ww ww yy !(
+uu yy yy yy# $0
+
+ÉÉ 
+ÑÑ 
+òò 
+•• 0
+
+ââ #
+ëë $
+îî  
+òò* 6
+
+ãã! (
+éé> E
+
+éé( *
+ëë' )
+
+öö* <
+úú: L
+
+†† '
+¢¢2 :ò
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_51a.cs
+
+ H
+
+ (
+!! "" 66 CCS X(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSW \(
+YY ZZ nn {{W \(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_51b.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $ò
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_52a.cs
+
+ H
+
+ (
+!! "" 66 CCS X(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSW \(
+YY ZZ nn {{W \(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_52b.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_52c.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $ò
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_53a.cs
+
+ H
+
+ (
+!! "" 66 CCS X(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSW \(
+YY ZZ nn {{W \(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_53b.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_53c.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_53d.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $ò
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_54a.cs
+
+ H
+
+ (
+!! "" 66 CCS X(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSW \(
+YY ZZ nn {{W \(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_54b.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_54c.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_54d.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_54e.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ù
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_61a.cs
+
+ H
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $¯
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_61b.cs
+
+ H
+
+ (
+!! "" 66 CC (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+II #
+KK MM NN 
+
+RR #(
+TT UU ii vv (
+ZZ #bb $ee  ii* 6
+\\! (__> E
+__( *bb' )
+kk* <mm: L
+qq 'ss2 :˛
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_66a.cs
+
+ H
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+CC DD EES ]
+
+II 
+PP KK 
+[[ LL 
+RR TT VV 
+UU VV WWW a*
+]] ^^ rr 
+ÄÄ (
+cc #kk $nn  rr* 6
+ee! (hh> E
+hh( *kk' )
+tt* <vv: L
+zz '||2 :"
+ 
+ÄÄ 
+ÅÅW añ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_66b.cs
+
+ H
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $˙
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_67a.cs
+
+ HJ
+ HH HH' 0ZZ ZZ' 0
+ÑÑ 
+ÑÑ' 0*
+!! II #[[ #
+ÖÖ #
+
+$$ (
+&& '' ;; II& +(
+,, #44 $77  ;;* 6
+..! (11> E
+11( *44' )
+==* <??: L
+CC 'EE2 :
+HH  II JJS a
+
+NN 
+UU PP 
+`` QQ 
+WW YY [[& +
+ZZ  [[ \\W e*
+bb cc ww 
+ÖÖ& +(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :$
+
+ÑÑ  
+ÖÖ 
+ÜÜW eñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_67b.cs
+
+ H
+
+ 
+l z "
+ !! (
+ !! !! !!  
+
+** "
+**p ~,, "
+,, // (
+-- // // //  
+
+66 "
+66p ~88 "(
+88 ;; ;; == !(
+99 == == ==# $‚
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_68a.cs
+
+ H<
+ ## 77 RR YY mm 
+
+!! (
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :
+
+HH 
+OO JJ 
+WW KK (
+^^ #ff $ii  mm* 6
+``! (cc> E
+cc( *ff' )
+oo* <qq: L
+uu 'ww2 :‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_68b.cs
+
+ H
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $ò
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_71a.cs
+
+ H
+
+ (
+!! "" 66 CC[ `(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SS_ d(
+YY ZZ nn {{_ d(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :ñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_71b.cs
+
+ H
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $Ç
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_72a.cs
+
+ H
+
+   <
+"" ## 77 EE #FF #GG #(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :2
+DD  EE FF GG HHS a
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY #ZZ #[[ #2
+XX  YY ZZ [[ \\W eB
+bb cc ww 
+ÖÖ #
+ÜÜ #
+áá #(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :<
+
+ÑÑ  
+ÖÖ 
+ÜÜ 
+áá 
+ààW eñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_72b.cs
+
+ H
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $Ç
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_73a.cs
+
+ H
+
+   <
+"" ## 77 EE  %FF  %GG  %(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :2
+DD 'EE FF GG HHS b
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY  %ZZ  %[[  %2
+XX 'YY ZZ [[ \\W fB
+bb cc ww 
+ÖÖ  %
+ÜÜ  %
+áá  %(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :<
+
+ÑÑ '
+ÖÖ 
+ÜÜ 
+áá 
+ààW fñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_73b.cs
+
+ H
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $Ç
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_74a.cs
+
+ H
+
+   <
+"" ## 77 EE $FF $GG $(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :2
+DD +EE FF GG HHS b
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY $ZZ $[[ $2
+XX +YY ZZ [[ \\W fB
+bb cc ww 
+ÖÖ $
+ÜÜ $
+áá $(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :<
+
+ÑÑ +
+ÖÖ 
+ÜÜ 
+áá 
+ààW fñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_74b.cs
+
+ H
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $∂	
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_75a.cs
+
+ H
+
+!! (
+## $$ 88 LL! &(
+)) #11 $44  88* 6
+++! (..> E
+..( *11' )
+::* <<<: L
+@@ 'BB2 :
+FF MM OOW f
+II LL 
+JJ LL MM" $
+QQ& 5SSZ i
+
+XX 
+__ ZZ 
+
+ññ [[ *
+aa bb vv 
+ää! &(
+gg #oo $rr  vv* 6
+ii! (ll> E
+ll( *oo' )
+xx* <zz: L
+~~ '
+ÄÄ2 :$
+
+ÑÑ 
+ãã 
+çç[ j
+
+áá 
+ää $
+
+àà 
+ää 
+ãã" $
+
+èè& 5
+ëëZ i0
+
+òò 
+ôô 
+≠≠ 
+¡¡! &0
+
+ûû #
+¶¶ $
+©©  
+≠≠* 6
+
+††! (
+££> E
+
+££( *
+¶¶' )
+
+ØØ* <
+±±: L
+
+µµ '
+∑∑2 :$
+
+ªª 
+¬¬ 
+ƒƒ[ j
+
+ææ 
+¡¡ $
+
+øø 
+¡¡ 
+¬¬" $
+
+∆∆& 5
+»»Z i‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_75b.cs
+
+ H
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ j⁄
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_81a.cs
+
+ H
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+CCO YDD 
+
+HH 
+OO JJ 
+YY KK 
+QQ SS UU 
+TTO YUU (
+[[ \\ pp ~~ (
+aa #ii $ll  pp* 6
+cc! (ff> E
+ff( *ii' )
+rr* <tt: L
+xx 'zz2 :
+}}O Y~~ ´
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_81_bad.cs
+
+ K
+
+ 
+$ )   (
+           ¯
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_81_base.cs
+
+ U
+
+ 
+
+$ )√
+‘C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_81_goodB2G.cs
+
+ O
+
+ (
+$ )!! !! ## !(
+ ## ## ### $Ø
+‘C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_for_loop_81_goodG2B.cs
+
+ O
+
+ 
+$ )!! (
+ !! !! !!  Ó
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_01.cs
+
+ D
+
+   (
+"" ## 77 HH !(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :(
+DD HH HH HH# $(
+EE  LL VV XX 
+NN# +PPS [
+[[ ']]Q Y
+
+cc 
+jj ee 
+
+éé ff 
+ll nn ss !(
+oo ss ss ss# $,
+pp  ww 
+ÅÅ 
+ÉÉ 
+yy# +{{S [
+
+ÜÜ '
+ààQ YH
+
+êê 
+ëë 
+•• 
+≥≥ 
+≥≥ 
+ππ  %0
+
+ññ #
+ûû $
+°°  
+••* 6
+
+òò! (
+õõ> E
+
+õõ( *
+ûû' )
+
+ßß* <
+©©: L
+
+≠≠ '
+ØØ2 :0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_02.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_03.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ∏
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_04.cs
+
+ Df
+$$ )** TT 
+ÖÖ 
+™™ 
+µµ 
+⁄⁄ 
+≤≤ 
+‹‹  
+%% *zz 
+ÑÑ 
+
+'' 2
+)) ,, @@ !RR ZZ  %(
+11 '99 (<< $@@. :
+33% ,66B I
+66, .99+ -
+BB. @DD> P
+HH# +JJ6 >(
+VV ZZ ZZ ZZ' ((
+WW  $^^ hh jj 
+``' /bbW _
+mm# +ooU ]
+ww 
+ÉÉ ,
+yy ~~ 
+ÉÉ 
+ãã  %0
+
+áá 
+ãã 
+ãã 
+ãã' (0
+
+àà  $
+èè 
+ôô 
+õõ 
+
+ëë' /
+ììW _
+
+ûû# +
+††U ]
+
+ßß 
+ÑÑ 0
+
+©© 
+≠≠ 
+≥≥ 
+ªª  %0
+
+∑∑ 
+ªª 
+ªª 
+ªª' (0
+
+∏∏  $
+øø 
+…… 
+ÀÀ 
+
+¡¡' /
+√√W _
+
+ŒŒ# +
+––U ]
+
+◊◊ 
+ÖÖ T
+
+ŸŸ 
+‹‹ 
+ !
+ÇÇ 
+åå 
+åå "
+íí$ )0
+
+·· '
+ÈÈ (
+ÏÏ $
+. :
+
+„„% ,
+ÊÊB I
+
+ÊÊ, .
+ÈÈ+ -
+
+ÚÚ. @
+ÙÙ> P
+
+¯¯# +
+˙˙6 >0
+
+éé 
+íí 
+íí  !
+íí+ ,0
+
+èè$ (
+ññ  
+††  
+¢¢  
+
+òò+ 3
+öö[ c
+
+••' /
+ßßY a
+
+ØØ 
+ÜÜ T
+
+±± 
+¥¥ 
+»» !
+⁄⁄ 
+ﬂﬂ 
+ﬂﬂ "
+ÂÂ$ )0
+
+ππ '
+¡¡ (
+ƒƒ $
+»». :
+
+ªª% ,
+ææB I
+
+ææ, .
+¡¡+ -
+
+  . @
+ÃÃ> P
+
+––# +
+““6 >0
+
+·· 
+ÂÂ 
+ÂÂ  !
+ÂÂ+ ,0
+
+‚‚$ (
+ÈÈ  
+ÛÛ  
+ıı  
+
+ÎÎ+ 3
+ÌÌ[ c
+
+¯¯' /
+˙˙Y a
+
+ÅÅ ∏
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_05.cs
+
+ Df
+## )) SS 
+ÑÑ 
+©© 
+¥¥ 
+ŸŸ 
+±± 
+€€  
+$$ yy 
+ÉÉ 
+
+&& 2
+(( ++ ?? !QQ YY  %(
+00 '88 (;; $??. :
+22% ,55B I
+55, .88+ -
+AA. @CC> P
+GG# +II6 >(
+UU YY YY YY' ((
+VV  $]] gg ii 
+__' /aaW _
+ll# +nnU ]
+vv 
+ÇÇ ,
+xx }} 
+ÇÇ 
+ää  %0
+
+ÜÜ 
+ää 
+ää 
+ää' (0
+
+áá  $
+éé 
+òò 
+öö 
+
+êê' /
+ííW _
+
+ùù# +
+üüU ]
+
+¶¶ 
+ÉÉ 0
+
+®® 
+¨¨ 
+≤≤ 
+∫∫  %0
+
+∂∂ 
+∫∫ 
+∫∫ 
+∫∫' (0
+
+∑∑  $
+ææ 
+»» 
+   
+
+¿¿' /
+¬¬W _
+
+ÕÕ# +
+œœU ]
+
+÷÷ 
+ÑÑ T
+
+ÿÿ 
+€€ 
+ÔÔ !
+ÅÅ 
+ãã 
+ãã "
+ëë$ )0
+
+‡‡ '
+ËË (
+ÎÎ $
+ÔÔ. :
+
+‚‚% ,
+ÂÂB I
+
+ÂÂ, .
+ËË+ -
+
+ÒÒ. @
+ÛÛ> P
+
+˜˜# +
+˘˘6 >0
+
+çç 
+ëë 
+ëë  !
+ëë+ ,0
+
+éé$ (
+ïï  
+üü  
+°°  
+
+óó+ 3
+ôô[ c
+
+§§' /
+¶¶Y a
+
+ÆÆ 
+ÖÖ T
+
+∞∞ 
+≥≥ 
+«« !
+ŸŸ 
+ﬁﬁ 
+ﬁﬁ "
+‰‰$ )0
+
+∏∏ '
+¿¿ (
+√√ $
+««. :
+
+∫∫% ,
+ΩΩB I
+
+ΩΩ, .
+¿¿+ -
+
+……. @
+ÀÀ> P
+
+œœ# +
+——6 >0
+
+‡‡ 
+‰‰ 
+‰‰  !
+‰‰+ ,0
+
+··$ (
+ËË  
+ÚÚ  
+ÙÙ  
+
+ÍÍ+ 3
+ÏÏ[ c
+
+˜˜' /
+˘˘Y a
+
+ÄÄ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_06.cs
+
+ D|
+## ((( RR xx 
+ÉÉ 
+®® 
+≥≥ 
+ÿÿ 
+ÇÇ 
+∞∞ 
+⁄⁄ 
+
+%% 2
+'' ** >> !PP XX  %(
+// '77 (:: $>>. :
+11% ,44B I
+44, .77+ -
+@@. @BB> P
+FF# +HH6 >(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ÅÅ ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+ÇÇ 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+ÉÉ T
+
+◊◊ 
+⁄⁄ 
+ÓÓ !
+ÄÄ 
+ää 
+ää "
+êê$ )0
+
+ﬂﬂ '
+ÁÁ (
+ÍÍ $
+ÓÓ. :
+
+··% ,
+‰‰B I
+
+‰‰, .
+ÁÁ+ -
+
+. @
+ÚÚ> P
+
+ˆˆ# +
+¯¯6 >0
+
+åå 
+êê 
+êê  !
+êê+ ,0
+
+çç$ (
+îî  
+ûû  
+††  
+
+ññ+ 3
+òò[ c
+
+££' /
+••Y a
+
+≠≠ 
+ÑÑ T
+
+ØØ 
+≤≤ 
+∆∆ !
+ÿÿ 
+›› 
+›› "
+„„$ )0
+
+∑∑ '
+øø (
+¬¬ $
+∆∆. :
+
+ππ% ,
+ººB I
+
+ºº, .
+øø+ -
+
+»». @
+  > P
+
+ŒŒ# +
+––6 >0
+
+ﬂﬂ 
+„„ 
+„„  !
+„„+ ,0
+
+‡‡$ (
+ÁÁ  
+ÒÒ  
+ÛÛ  
+
+ÈÈ+ 3
+ÎÎ[ c
+
+ˆˆ' /
+¯¯Y a
+
+ˇˇ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_07.cs
+
+ D|
+## (( RR xx 
+ÉÉ 
+®® 
+≥≥ 
+ÿÿ 
+ÇÇ 
+∞∞ 
+⁄⁄ 
+
+%% 2
+'' ** >> !PP XX  %(
+// '77 (:: $>>. :
+11% ,44B I
+44, .77+ -
+@@. @BB> P
+FF# +HH6 >(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ÅÅ ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+ÇÇ 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+ÉÉ T
+
+◊◊ 
+⁄⁄ 
+ÓÓ !
+ÄÄ 
+ää 
+ää "
+êê$ )0
+
+ﬂﬂ '
+ÁÁ (
+ÍÍ $
+ÓÓ. :
+
+··% ,
+‰‰B I
+
+‰‰, .
+ÁÁ+ -
+
+. @
+ÚÚ> P
+
+ˆˆ# +
+¯¯6 >0
+
+åå 
+êê 
+êê  !
+êê+ ,0
+
+çç$ (
+îî  
+ûû  
+††  
+
+ññ+ 3
+òò[ c
+
+££' /
+••Y a
+
+≠≠ 
+ÑÑ T
+
+ØØ 
+≤≤ 
+∆∆ !
+ÿÿ 
+›› 
+›› "
+„„$ )0
+
+∑∑ '
+øø (
+¬¬ $
+∆∆. :
+
+ππ% ,
+ººB I
+
+ºº, .
+øø+ -
+
+»». @
+  > P
+
+ŒŒ# +
+––6 >0
+
+ﬂﬂ 
+„„ 
+„„  !
+„„+ ,0
+
+‡‡$ (
+ÁÁ  
+ÒÒ  
+ÛÛ  
+
+ÈÈ+ 3
+ÎÎ[ c
+
+ˆˆ' /
+¯¯Y a
+
+ˇˇ º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_08.cs
+
+ Df
+## *00 ZZ 
+ãã 
+∞∞ 
+ªª 
+‡‡ 
+∏∏ 
+‚‚ "
+(( +
+ÄÄ 
+ää 
+
+-- 2
+// 22 FF !XX ``  %(
+77 '?? (BB $FF. :
+99% ,<<B I
+<<, .??+ -
+HH. @JJ> P
+NN# +PP6 >(
+\\ `` `` ``' ((
+]]  $dd nn pp 
+ff' /hhW _
+ss# +uuU ]
+}} 
+ââ .
+ 
+ÑÑ 
+ââ 
+ëë  %0
+
+çç 
+ëë 
+ëë 
+ëë' (0
+
+éé  $
+ïï 
+üü 
+°° 
+
+óó' /
+ôôW _
+
+§§# +
+¶¶U ]
+
+≠≠ 
+ää 0
+
+ØØ 
+≥≥ 
+ππ 
+¡¡  %0
+
+ΩΩ 
+¡¡ 
+¡¡ 
+¡¡' (0
+
+ææ  $
+≈≈ 
+œœ 
+—— 
+
+««' /
+……W _
+
+‘‘# +
+÷÷U ]
+
+›› 
+ãã T
+
+ﬂﬂ 
+‚‚ 
+ˆˆ !
+àà 
+íí 
+íí "
+òò$ )0
+
+ÁÁ '
+ÔÔ (
+ÚÚ $
+ˆˆ. :
+
+ÈÈ% ,
+ÏÏB I
+
+ÏÏ, .
+ÔÔ+ -
+
+¯¯. @
+˙˙> P
+
+˛˛# +
+ÄÄ6 >0
+
+îî 
+òò 
+òò  !
+òò+ ,0
+
+ïï$ (
+úú  
+¶¶  
+®®  
+
+ûû+ 3
+††[ c
+
+´´' /
+≠≠Y a
+
+µµ 
+åå T
+
+∑∑ 
+∫∫ 
+ŒŒ !
+‡‡ 
+ÂÂ 
+ÂÂ "
+ÎÎ$ )0
+
+øø '
+«« (
+   $
+ŒŒ. :
+
+¡¡% ,
+ƒƒB I
+
+ƒƒ, .
+««+ -
+
+––. @
+““> P
+
+÷÷# +
+ÿÿ6 >0
+
+ÁÁ 
+ÎÎ 
+ÎÎ  !
+ÎÎ+ ,0
+
+ËË$ (
+ÔÔ  
+˘˘  
+˚˚  
+
+ÒÒ+ 3
+ÛÛ[ c
+
+˛˛' /
+ÄÄY a
+
+áá ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_09.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_10.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_11.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ €
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_12.cs
+
+ D
+
+   P
+"" %% 99 !JJ RR  %nn nn "tt$ )(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+NN RR RR RR' ((
+OO  $VV `` bb 
+XX' /ZZW _
+ee# +ggU ](
+pp tt tt  !tt+ ,,
+qq$ (xx  
+ÇÇ  
+ÑÑ  
+zz+ 3||[ c
+
+áá' /
+ââY a
+
+ìì 
+¯¯ <
+
+ïï 
+ôô 
+ûû 
+¶¶  %
+≈≈  %0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (0
+
+££  $
+™™ 
+¥¥ 
+∂∂ 
+
+¨¨' /
+ÆÆW _
+
+ππ# +
+ªªU ]0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+‚‚ 
+˘˘ Ñ
+
+‰‰ 
+ÁÁ 
+˚˚ !
+ãã 
+üü !
+∞∞ 
+∞∞ "
+∂∂$ )
+”” 
+”” "
+ŸŸ$ )0
+
+ÏÏ '
+ÙÙ (
+˜˜ $
+˚˚. :
+
+ÓÓ% ,
+ÒÒB I
+
+ÒÒ, .
+ÙÙ+ -
+
+˝˝. @
+ˇˇ> P
+
+ÉÉ# +
+ÖÖ6 >0
+
+êê '
+òò (
+õõ $
+üü. :
+
+íí% ,
+ïïB I
+
+ïï, .
+òò+ -
+
+°°. @
+££> P
+
+ßß# +
+©©6 >0
+
+≤≤ 
+∂∂ 
+∂∂  !
+∂∂+ ,0
+
+≥≥$ (
+∫∫  
+ƒƒ  
+∆∆  
+
+ºº+ 3
+ææ[ c
+
+……' /
+ÀÀY a0
+
+’’ 
+ŸŸ 
+ŸŸ  !
+ŸŸ+ ,0
+
+÷÷$ (
+››  
+ÁÁ  
+ÈÈ  
+
+ﬂﬂ+ 3
+··[ c
+
+ÏÏ' /
+ÓÓY a
+
+ıı ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_13.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_14.cs
+
+ D
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚+ -
+
+ÎÎ. @
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+¥¥% ,
+∑∑B I
+
+∑∑, .
+∫∫+ -
+
+√√. @
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ Æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_15.cs
+
+ D
+
+   2
+"" && :: !KK UU  %(
+++ '33 (66 $::. :
+--% ,00B I
+00, .33+ -
+<<. @>>> P
+BB# +DD6 >(
+QQ UU UU UU' ((
+RR  $YY cc ee 
+[[' /]]W _
+hh# +jjU ]
+ww 
+öö ,
+yy  
+ÉÉ 
+çç  %0
+
+ââ 
+çç 
+çç 
+çç' (0
+
+ää  $
+ëë 
+õõ 
+ùù 
+
+ìì' /
+ïïW _
+
+††# +
+¢¢U ]
+
+ÆÆ 
+õõ 0
+
+∞∞ 
+µµ 
+∫∫ 
+ƒƒ  %0
+
+¿¿ 
+ƒƒ 
+ƒƒ 
+ƒƒ' (0
+
+¡¡  $
+»» 
+““ 
+‘‘ 
+
+  ' /
+ÃÃW _
+
+◊◊# +
+ŸŸU ]
+
+ÂÂ 
+úú T
+
+ÁÁ 
+ÎÎ 
+ˇˇ !
+êê 
+õõ 
+õõ "
+°°$ )0
+
+ '
+¯¯ (
+˚˚ $
+ˇˇ. :
+
+ÚÚ% ,
+ııB I
+
+ıı, .
+¯¯+ -
+
+ÅÅ. @
+ÉÉ> P
+
+áá# +
+ââ6 >0
+
+ùù 
+°° 
+°°  !
+°°+ ,0
+
+ûû$ (
+••  
+ØØ  
+±±  
+
+ßß+ 3
+©©[ c
+
+¥¥' /
+∂∂Y a
+
+øø 
+ùù T
+
+¡¡ 
+≈≈ 
+ŸŸ !
+ÍÍ 
+ÒÒ 
+ÒÒ "
+˜˜$ )0
+
+   '
+““ (
+’’ $
+ŸŸ. :
+
+ÃÃ% ,
+œœB I
+
+œœ, .
+““+ -
+
+€€. @
+››> P
+
+··# +
+„„6 >0
+
+ÛÛ 
+˜˜ 
+˜˜  !
+˜˜+ ,0
+
+ÙÙ$ (
+˚˚  
+ÖÖ  
+áá  
+
+˝˝+ 3
+ˇˇ[ c
+
+ää' /
+ååY a
+
+òò ¯
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_16.cs
+
+ D
+
+   (
+"" %% 99 !NN  %(
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+ll 
+ËË 
+nn rr {{  %(
+ww {{ {{ {{' (,
+xx  $ 
+ââ 
+ãã 
+
+ÅÅ' /
+ÉÉW _
+
+éé# +
+êêU ]
+
+òò 
+ÈÈ H
+
+öö 
+ùù 
+±± !
+√√ 
+√√ "
+……$ )0
+
+¢¢ '
+™™ (
+≠≠ $
+±±. :
+
+§§% ,
+ßßB I
+
+ßß, .
+™™+ -
+
+≥≥. @
+µµ> P
+
+ππ# +
+ªª6 >0
+
+≈≈ 
+…… 
+……  !
+……+ ,0
+
+∆∆$ (
+ÕÕ  
+◊◊  
+ŸŸ  
+
+œœ+ 3
+——[ c
+
+‹‹' /
+ﬁﬁY a
+
+ÊÊ ⁄	
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_17.cs
+
+ D
+
+   (
+"" '' ;; NN  %(
+,, #44 $77  ;;* 6
+..! (11> E
+11( *44' )
+==* <??: L
+CC 'EE2 :
+HH HH HH  (
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+›› 
+mm oo vv  %
+pp pp pp  (
+rr vv vv vv' (,
+ss  $zz 
+ÑÑ 
+ÜÜ 
+||' /~~W _
+
+ââ# +
+ããU ]
+
+íí 
+ﬁﬁ H
+
+îî 
+ïï 
+©© 
+ππ 
+ππ "
+øø$ )0
+
+öö #
+¢¢ $
+••  
+©©* 6
+
+úú! (
+üü> E
+
+üü( *
+¢¢' )
+
+´´* <
+≠≠: L
+
+±± '
+≥≥2 :$
+
+∂∂ 
+∂∂ 
+∂∂  0
+
+ªª 
+øø 
+øø  !
+øø+ ,0
+
+ºº$ (
+√√  
+ÕÕ  
+œœ  
+
+≈≈+ 3
+««[ c
+
+““' /
+‘‘Y a
+
+€€ Ë
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_21.cs
+
+ D
+!! GG MM 
+
+## (
+%% && :: HH (
+++ #33 $66  ::* 6
+--! (00> E
+00( *33' )
+<<* <>>: L
+BB 'DD2 :
+KK HH 
+KK "SS  %(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]"
+oo  
+üü 
+•• "
+pp  
+ÙÙ 
+˙˙ "
+qq 
+•• 
+´´ 
+
+ss 
+{{ uu 
+
+–– vv 
+
+†† ww ,
+}} ~~ 
+íí 
+†† 0
+
+ÉÉ #
+ãã $
+éé  
+íí* 6
+
+ÖÖ! (
+àà> E
+
+àà( *
+ãã' )
+
+îî* <
+ññ: L
+
+öö '
+úú2 :
+
+££ 
+†† 0
+
+££" '
+≠≠ 
+≠≠ "
+≥≥$ )0
+
+ØØ 
+≥≥ 
+≥≥  !
+≥≥+ ,0
+
+∞∞$ (
+∑∑  
+¡¡  
+√√  
+
+ππ+ 3
+ªª[ c
+
+∆∆' /
+»»Y a0
+
+““ 
+”” 
+ÁÁ 
+ıı 0
+
+ÿÿ #
+‡‡ $
+„„  
+ÁÁ* 6
+
+⁄⁄! (
+››> E
+
+››( *
+‡‡' )
+
+ÈÈ* <
+ÎÎ: L
+
+ÔÔ '
+ÒÒ2 :
+
+¯¯ 
+ıı 0
+
+¯¯" '
+˝˝ 
+˝˝ "
+ÉÉ$ )0
+
+ˇˇ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a$
+
+¢¢ 
+§§ 
+¶¶ 
+
+©© 
+¶¶ 
+
+©©! &
+±±  %0
+
+≠≠ 
+±± 
+±± 
+±±' (0
+
+ÆÆ  $
+µµ 
+øø 
+¡¡ 
+
+∑∑' /
+ππW _
+
+ƒƒ# +
+∆∆U ]›
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_22a.cs
+
+ E
+   &FF 
+
+"" (
+$$ %% 99 GGP U(
+** #22 $55  99* 6
+,,! (//> E
+//( *22' )
+;;* <==: L
+AA 'CC2 :
+KK +{{ 
+LL +
+§§ 
+MM *
+ÆÆ 
+
+OO 
+WW QQ 
+
+ÄÄ RR 
+
+©© SS (
+YY ZZ nn ||U Z(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :0
+
+ÇÇ 
+ÉÉ 
+óó 
+••U Z0
+
+àà #
+êê $
+ìì  
+óó* 6
+
+ää! (
+çç> E
+
+çç( *
+êê' )
+
+ôô* <
+õõ: L
+
+üü '
+°°2 :$
+
+´´ 
+≠≠ 
+ØØT YÎ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_22b.cs
+
+ E
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]®
+
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_31.cs
+
+ D
+
+   
+"" FF II !(
+$$ %% 99 !FF (
+** '22 (55 $99. :
+,,% ,//B I
+//, .22+ -
+;;. @==> P
+AA# +CC6 >
+II NN  %(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+
+jj 
+qq ll 
+
+úú mm 
+ss xx {{ !
+uu ww xx 
+{{ 
+ÄÄ  %.
+|| 
+ÄÄ 
+ÄÄ 
+ÄÄ' (.
+}}  $
+ÑÑ 
+éé 
+êê 
+
+ÜÜ' /
+ààW _
+
+ìì# +
+ïïU ]$
+
+ûû 
+¬¬ 
+≈≈ !0
+
+†† 
+°° 
+µµ !
+¬¬ 0
+
+¶¶ '
+ÆÆ (
+±± $
+µµ. :
+
+®®% ,
+´´B I
+
+´´, .
+ÆÆ+ -
+
+∑∑. @
+ππ> P
+
+ΩΩ# +
+øø6 >0
+
+≈≈ 
+«« 
+«« "
+ÕÕ$ )0
+
+…… 
+ÕÕ 
+ÕÕ  !
+ÕÕ+ ,0
+
+  $ (
+——  
+€€  
+››  
+
+””+ 3
+’’[ c
+
+‡‡' /
+‚‚Y aÑ
+
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_41.cs
+
+ D
+   dd 
+  $ )&& !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+@@ (
+BB CC WW dd (
+HH #PP $SS  WW* 6
+JJ! (MM> E
+MM( *PP' )
+YY* <[[: L
+__ 'aa2 :
+
+hh 
+
+èè jj 
+
+ºº kk 
+nn #
+îî 
+nn( -tt !(
+pp tt tt tt# $,
+qq  xx 
+ÇÇ 
+ÑÑ 
+zz# +||S [
+
+áá '
+ââQ Y$
+
+ëë 
+ìì 
+îî 
+
+óó #
+‡‡ 0
+
+óó( -
+öö 
+öö 
+††  %0
+
+úú 
+†† 
+†† 
+††' (0
+
+ùù  $
+§§ 
+ÆÆ 
+∞∞ 
+
+¶¶' /
+®®W _
+
+≥≥# +
+µµU ]0
+
+ææ 
+øø 
+”” 
+‡‡ 0
+
+ƒƒ #
+ÃÃ $
+œœ  
+””* 6
+
+∆∆! (
+……> E
+
+……( *
+ÃÃ' )
+
+’’* <
+◊◊: L
+
+€€ '
+››2 :Ç
+
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_42.cs
+
+ D
+    II (
+"" ## 77 DD (
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :
+
+GG 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y
+jj $tt !
+ll nn oo 
+rr 
+‚‚ 
+tt yy !(
+uu yy yy yy# $,
+vv  }} 
+áá 
+ââ 
+# +
+ÅÅS [
+
+åå '
+ééQ Y
+
+îî $
+ΩΩ !0
+
+ññ 
+óó 
+´´ 
+∏∏ 0
+
+úú #
+§§ $
+ßß  
+´´* 6
+
+ûû! (
+°°> E
+
+°°( *
+§§' )
+
+≠≠* <
+ØØ: L
+
+≥≥ '
+µµ2 :
+
+ªª 
+„„ 0
+
+ΩΩ 
+øø 
+øø 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+‡‡ Ó
+
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_45.cs
+
+ D
+   && ii  
+!! vv  
+õõ "
+"" 
+°°  
+ÈÈ 
+$$ jj 
+&& ++ !(
+'' ++ ++ ++# $(
+((  // 99 ;; 
+11# +33S [
+>> '@@Q Y
+
+EE (
+GG HH \\ ii (
+MM #UU $XX  \\* 6
+OO! (RR> E
+RR( *UU' )
+^^* <``: L
+dd 'ff2 :
+
+nn 
+
+ññ pp 
+
+≈≈ qq 
+tt 
+úú 
+vv {{ !(
+ww {{ {{ {{# $,
+xx   
+ââ 
+ãã 
+
+ÅÅ# +
+ÉÉS [
+
+éé '
+êêQ Y$
+
+òò 
+öö 
+õõ 
+
+üü 
+ÍÍ 0
+
+°° 
+££ 
+££ 
+©©  %0
+
+•• 
+©© 
+©© 
+©©' (0
+
+¶¶  $
+≠≠ 
+∑∑ 
+ππ 
+
+ØØ' /
+±±W _
+
+ºº# +
+ææU ]0
+
+«« 
+»» 
+‹‹ 
+ÈÈ 0
+
+ÕÕ #
+’’ $
+ÿÿ  
+‹‹* 6
+
+œœ! (
+““> E
+
+““( *
+’’' )
+
+ﬁﬁ* <
+‡‡: L
+
+‰‰ '
+ÊÊ2 :ï
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_51a.cs
+
+ E
+
+ (
+!! "" 66 CCP U(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SST Y(
+YY ZZ nn {{T Y(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_51b.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]ï
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_52a.cs
+
+ E
+
+ (
+!! "" 66 CCP U(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SST Y(
+YY ZZ nn {{T Y(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :ø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_52b.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Y’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_52c.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]ï
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_53a.cs
+
+ E
+
+ (
+!! "" 66 CCP U(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SST Y(
+YY ZZ nn {{T Y(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :ø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_53b.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_53c.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Y’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_53d.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]ï
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_54a.cs
+
+ E
+
+ (
+!! "" 66 CCP U(
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SST Y(
+YY ZZ nn {{T Y(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :ø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_54b.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_54c.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_54d.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Y’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_54e.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˚
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_61a.cs
+
+ E
 
  
-)) CC 
-88 DD 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
 
-AA ú
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_05.cs
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
 
- '
-    :: 
- ++ 
+ÜÜ# +
+ààU ]ı
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_61b.cs
+
+ E
+
+ (
+!! "" 66 CC (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+II #
+KK MM NN 
+
+RR #(
+TT UU ii vv (
+ZZ #bb $ee  ii* 6
+\\! (__> E
+__( *bb' )
+kk* <mm: L
+qq 'ss2 :˚
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_66a.cs
+
+ E
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+CC DD EEP Z
+
+II 
+PP KK 
+[[ LL 
+RR TT VV 
+UU VV WWT ^*
+]] ^^ rr 
+ÄÄ (
+cc #kk $nn  rr* 6
+ee! (hh> E
+hh( *kk' )
+tt* <vv: L
+zz '||2 :"
+ 
+ÄÄ 
+ÅÅT ^ô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_66b.cs
+
+ E
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]˜
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_67a.cs
+
+ EJ
+ HH HH' 0ZZ ZZ' 0
+ÑÑ 
+ÑÑ' 0*
+!! II #[[ #
+ÖÖ #
+
+$$ (
+&& '' ;; II& +(
+,, #44 $77  ;;* 6
+..! (11> E
+11( *44' )
+==* <??: L
+CC 'EE2 :
+HH  II JJP ^
+
+NN 
+UU PP 
+`` QQ 
+WW YY [[& +
+ZZ  [[ \\T b*
+bb cc ww 
+ÖÖ& +(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :$
+
+ÑÑ  
+ÖÖ 
+ÜÜT bô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_67b.cs
+
+ E
+
+ 
+i w   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBm {DD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddm {ff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]ﬂ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_68a.cs
+
+ E<
+ ## 77 RR YY mm 
+
+!! (
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :
+
+HH 
+OO JJ 
+WW KK (
+^^ #ff $ii  mm* 6
+``! (cc> E
+cc( *ff' )
+oo* <qq: L
+uu 'ww2 :◊
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_68b.cs
+
+ E
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]ï
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_71a.cs
+
+ E
+
+ (
+!! "" 66 CCX ](
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SS\ a(
+YY ZZ nn {{\ a(
+__ #gg $jj  nn* 6
+aa! (dd> E
+dd( *gg' )
+pp* <rr: L
+vv 'xx2 :ô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_71b.cs
+
+ E
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]ˇ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_72a.cs
+
+ E
+
+   <
+"" ## 77 EE #FF #GG #(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :2
+DD  EE FF GG HHP ^
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY #ZZ #[[ #2
+XX  YY ZZ [[ \\T bB
+bb cc ww 
+ÖÖ #
+ÜÜ #
+áá #(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :<
+
+ÑÑ  
+ÖÖ 
+ÜÜ 
+áá 
+ààT bô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_72b.cs
+
+ E
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]ˇ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_73a.cs
+
+ E
+
+   <
+"" ## 77 EE  %FF  %GG  %(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :2
+DD 'EE FF GG HHP _
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY  %ZZ  %[[  %2
+XX 'YY ZZ [[ \\T cB
+bb cc ww 
+ÖÖ  %
+ÜÜ  %
+áá  %(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :<
+
+ÑÑ '
+ÖÖ 
+ÜÜ 
+áá 
+ààT cô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_73b.cs
+
+ E
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]ˇ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_74a.cs
+
+ E
+
+   <
+"" ## 77 EE $FF $GG $(
+(( #00 $33  77* 6
+**! (--> E
+--( *00' )
+99* <;;: L
+?? 'AA2 :2
+DD +EE FF GG HHP _
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY $ZZ $[[ $2
+XX +YY ZZ [[ \\T cB
+bb cc ww 
+ÖÖ $
+ÜÜ $
+áá $(
+hh #pp $ss  ww* 6
+jj! (mm> E
+mm( *pp' )
+yy* <{{: L
+ '
+ÅÅ2 :<
+
+ÑÑ +
+ÖÖ 
+ÜÜ 
+áá 
+ààT cô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_74b.cs
+
+ E
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]≥	
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_75a.cs
+
+ E
+
+!! (
+## $$ 88 LL! &(
+)) #11 $44  88* 6
+++! (..> E
+..( *11' )
+::* <<<: L
+@@ 'BB2 :
+FF MM OOT c
+II LL 
+JJ LL MM" $
+QQ& 5SSZ i
+
+XX 
+__ ZZ 
+
+ññ [[ *
+aa bb vv 
+ää! &(
+gg #oo $rr  vv* 6
+ii! (ll> E
+ll( *oo' )
+xx* <zz: L
+~~ '
+ÄÄ2 :$
+
+ÑÑ 
+ãã 
+ççX g
+
+áá 
+ää $
+
+àà 
+ää 
+ãã" $
+
+èè& 5
+ëëZ i0
+
+òò 
+ôô 
+≠≠ 
+¡¡! &0
+
+ûû #
+¶¶ $
+©©  
+≠≠* 6
+
+††! (
+££> E
+
+££( *
+¶¶' )
+
+ØØ* <
+±±: L
+
+µµ '
+∑∑2 :$
+
+ªª 
+¬¬ 
+ƒƒX g
+
+ææ 
+¡¡ $
+
+øø 
+¡¡ 
+¬¬" $
+
+∆∆& 5
+»»Z iç	
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_75b.cs
+
+ E
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ j◊
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_81a.cs
+
+ E
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+))! (,,> E
+,,( *//' )
+88* <::: L
+>> '@@2 :
+CCL VDD 
+
+HH 
+OO JJ 
+YY KK 
+QQ SS UU 
+TTL VUU (
+[[ \\ pp ~~ (
+aa #ii $ll  pp* 6
+cc! (ff> E
+ff( *ii' )
+rr* <tt: L
+xx 'zz2 :
+}}L V~~ ˛
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_81_bad.cs
+
+ H
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Yı
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_81_base.cs
+
+ R
+
+ 
+
+$ )ñ
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_81_goodB2G.cs
+
+ L
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]Ç
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Connect_tcp_write_81_goodG2B.cs
+
+ L
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Yê
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_01.cs
+
+ D
+
+ (
+   !! 77$ )II 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;(
+GG II II II  
+
+PP 
+WW RR 
+ee SS 
+YY [[ ^^ (
+\\ ^^ ^^ ^^  B
+gg hh ~~$ )
+êê 
+êê 
+íí !
+nn% /pp rrE O(
+rr& -tt uu vv2 9
+vv- /yy2 4
+yy# /zz  ,~~6 B
+
+ÄÄ7 I
+ÇÇF X
+
+ââ  )
+ãã2 ;0
+
+éé 
+íí 
+íí 
+íí# $º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_02.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_03.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó »
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_04.cs
+
+ Dd
+"" )(( WW rr 
+ÅÅ 
+åå 
+õõ 
+·· 
+êê  
+## *gg 
+   
+
+%% 2
+'' ** @@( -UU [[ !
+00) 322 "44I S(
+44* 166 #77 #886 =
+881 3;;6 8
+;;' 3<<$ 0@@: F
+BB; MDDJ \
+KK$ -MM6 ?(
+YY [[ [[ [[# $
+dd 
+†† (
+ff kk pp vv !(
+tt vv vv vv# $
+~~ 
+°° 0
+
+ÄÄ 
+ÑÑ 
+ää 
+êê !0
+
+éé 
+êê 
+êê 
+êê# $
+
+òò 
+¢¢ T
+
+öö 
+ùù 
+≥≥( -
+»» 
+”” 
+”” "
+’’  %$
+
+££) 3
+•• "
+ßßI S0
+
+ßß* 1
+©© #
+™™ #
+´´6 =
+
+´´1 3
+ÆÆ6 8$
+
+ÆÆ' 3
+ØØ$ 0
+≥≥: F
+
+µµ; M
+∑∑J \
+
+ææ$ -
+¿¿6 ?0
+
+—— 
+’’ 
+’’ 
+’’' (
+
+ﬁﬁ 
+££ T
+
+‡‡ 
+„„ 
+˘˘( -
+éé 
+îî 
+îî "
+ññ  %$
+
+ÈÈ) 3
+ÎÎ "
+ÌÌI S0
+
+ÌÌ* 1
+ÔÔ #
+ #
+ÒÒ6 =
+
+ÒÒ1 3
+ÙÙ6 8$
+
+ÙÙ' 3
+ıı$ 0
+˘˘: F
+
+˚˚; M
+˝˝J \
+
+ÑÑ$ -
+ÜÜ6 ?0
+
+íí 
+ññ 
+ññ 
+ññ' (
+
+ûû ∆
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_05.cs
+
+ Dd
+!! '' VV qq 
+ÄÄ 
+ãã 
+öö 
+‡‡ 
+èè  
+"" ff 
+…… 
+
+$$ 2
+&& )) ??( -TT ZZ !
+//) 311 "33I S(
+33* 155 #66 #776 =
+771 3::6 8
+::' 3;;$ 0??: F
+AA; MCCJ \
+JJ$ -LL6 ?(
+XX ZZ ZZ ZZ# $
+cc 
+üü (
+ee jj oo uu !(
+ss uu uu uu# $
+}} 
+†† .
+ 
+ÉÉ 
+ââ 
+èè !0
+
+çç 
+èè 
+èè 
+èè# $
+
+óó 
+°° T
+
+ôô 
+úú 
+≤≤( -
+«« 
+““ 
+““ "
+‘‘  %$
+
+¢¢) 3
+§§ "
+¶¶I S0
+
+¶¶* 1
+®® #
+©© #
+™™6 =
+
+™™1 3
+≠≠6 8$
+
+≠≠' 3
+ÆÆ$ 0
+≤≤: F
+
+¥¥; M
+∂∂J \
+
+ΩΩ$ -
+øø6 ?0
+
+–– 
+‘‘ 
+‘‘ 
+‘‘' (
+
+›› 
+¢¢ T
+
+ﬂﬂ 
+‚‚ 
+¯¯( -
+çç 
+ìì 
+ìì "
+ïï  %$
+
+ËË) 3
+ÍÍ "
+ÏÏI S0
+
+ÏÏ* 1
+ÓÓ #
+ÔÔ #
+6 =
+
+1 3
+ÛÛ6 8$
+
+ÛÛ' 3
+ÙÙ$ 0
+¯¯: F
+
+˙˙; M
+¸¸J \
+
+ÉÉ$ -
+ÖÖ6 ?0
+
+ëë 
+ïï 
+ïï 
+ïï' (
+
+ùù ∏
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_06.cs
+
+ Dx
+!! (&& UU ee pp  
+ää 
+ôô 
+»» 
+ﬂﬂ 
+éé 
+
+## 2
+%% (( >>( -SS YY !
+..) 300 "22I S(
+22* 144 #55 #666 =
+661 3996 8
+99' 3::$ 0>>: F
+@@; MBBJ \
+II$ -KK6 ?(
+WW YY YY YY# $
+bb 
+ûû (
+dd ii nn tt !(
+rr tt tt tt# $
+|| 
+üü .
+~~ 
+ÇÇ 
+àà 
+éé !0
+
+åå 
+éé 
+éé 
+éé# $
+
+ññ 
+†† T
+
+òò 
+õõ 
+±±( -
+∆∆ 
+—— 
+—— "
+””  %$
+
+°°) 3
+££ "
+••I S0
+
+••* 1
+ßß #
+®® #
+©©6 =
+
+©©1 3
+¨¨6 8$
+
+¨¨' 3
+≠≠$ 0
+±±: F
+
+≥≥; M
+µµJ \
+
+ºº$ -
+ææ6 ?0
+
+œœ 
+”” 
+”” 
+””' (
+
+‹‹ 
+°° T
+
+ﬁﬁ 
+·· 
+˜˜( -
+åå 
+íí 
+íí "
+îî  %$
+
+ÁÁ) 3
+ÈÈ "
+ÎÎI S0
+
+ÎÎ* 1
+ÌÌ #
+ÓÓ #
+ÔÔ6 =
+
+ÔÔ1 3
+ÚÚ6 8$
+
+ÚÚ' 3
+ÛÛ$ 0
+˜˜: F
+
+˘˘; M
+˚˚J \
+
+ÇÇ$ -
+ÑÑ6 ?0
+
+êê 
+îî 
+îî 
+îî' (
+
+úú ∏
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_07.cs
+
+ Dx
+!! && UU ee pp  
+ää 
+ôô 
+»» 
+ﬂﬂ 
+éé 
+
+## 2
+%% (( >>( -SS YY !
+..) 300 "22I S(
+22* 144 #55 #666 =
+661 3996 8
+99' 3::$ 0>>: F
+@@; MBBJ \
+II$ -KK6 ?(
+WW YY YY YY# $
+bb 
+ûû (
+dd ii nn tt !(
+rr tt tt tt# $
+|| 
+üü .
+~~ 
+ÇÇ 
+àà 
+éé !0
+
+åå 
+éé 
+éé 
+éé# $
+
+ññ 
+†† T
+
+òò 
+õõ 
+±±( -
+∆∆ 
+—— 
+—— "
+””  %$
+
+°°) 3
+££ "
+••I S0
+
+••* 1
+ßß #
+®® #
+©©6 =
+
+©©1 3
+¨¨6 8$
+
+¨¨' 3
+≠≠$ 0
+±±: F
+
+≥≥; M
+µµJ \
+
+ºº$ -
+ææ6 ?0
+
+œœ 
+”” 
+”” 
+””' (
+
+‹‹ 
+°° T
+
+ﬁﬁ 
+·· 
+˜˜( -
+åå 
+íí 
+íí "
+îî  %$
+
+ÁÁ) 3
+ÈÈ "
+ÎÎI S0
+
+ÎÎ* 1
+ÌÌ #
+ÓÓ #
+ÔÔ6 =
+
+ÔÔ1 3
+ÚÚ6 8$
+
+ÚÚ' 3
+ÛÛ$ 0
+˜˜: F
+
+˘˘; M
+˚˚J \
+
+ÇÇ$ -
+ÑÑ6 ?0
+
+êê 
+îî 
+îî 
+îî' (
+
+úú  
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_08.cs
+
+ Dd
+!! *.. ]] xx 
+áá 
+íí 
+°° 
+ÁÁ 
+ññ  
+&& +mm 
+–– 
+
+++ 2
+-- 00 FF( -[[ aa !
+66) 388 "::I S(
+::* 1<< #== #>>6 =
+>>1 3AA6 8
+AA' 3BB$ 0FF: F
+HH; MJJJ \
+QQ$ -SS6 ?(
+__ aa aa aa# $
+jj 
+¶¶ (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ßß 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+®® T
+
+†† 
+££ 
+ππ( -
+ŒŒ 
+ŸŸ 
+ŸŸ "
+€€  %$
+
+©©) 3
+´´ "
+≠≠I S0
+
+≠≠* 1
+ØØ #
+∞∞ #
+±±6 =
+
+±±1 3
+¥¥6 8$
+
+¥¥' 3
+µµ$ 0
+ππ: F
+
+ªª; M
+ΩΩJ \
+
+ƒƒ$ -
+∆∆6 ?0
+
+◊◊ 
+€€ 
+€€ 
+€€' (
+
+‰‰ 
+©© T
+
+ÊÊ 
+ÈÈ 
+ˇˇ( -
+îî 
+öö 
+öö "
+úú  %$
+
+ÔÔ) 3
+ÒÒ "
+ÛÛI S0
+
+ÛÛ* 1
+ıı #
+ˆˆ #
+˜˜6 =
+
+˜˜1 3
+˙˙6 8$
+
+˙˙' 3
+˚˚$ 0
+ˇˇ: F
+
+ÅÅ; M
+ÉÉJ \
+
+ää$ -
+åå6 ?0
+
+òò 
+úú 
+úú 
+úú' (
+
+§§ º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_09.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_10.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_11.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó ã
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_12.cs
+
+ D
+
+ P
+   ## 99( -MM SS !\\ \\ "^^  %
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+QQ SS SS SS# $(
+ZZ ^^ ^^ ^^' (
+ii 
+˛˛ 4
+kk oo tt zz !
+ÉÉ !(
+xx zz zz zz# $0
+
+ÅÅ 
+ÉÉ 
+ÉÉ 
+ÉÉ# $
+
+åå 
+ˇˇ Ñ
+
+éé 
+ëë 
+ßß( -
+∫∫ 
+––( -
+ÂÂ 
+ÂÂ "
+ÁÁ  %
+ÒÒ 
+ÒÒ "
+ÛÛ  %$
+
+óó) 3
+ôô "
+õõI S0
+
+õõ* 1
+ùù #
+ûû #
+üü6 =
+
+üü1 3
+¢¢6 8$
+
+¢¢' 3
+££$ 0
+ßß: F
+
+©©; M
+´´J \
+
+≤≤$ -
+¥¥6 ?$
+
+¿¿) 3
+¬¬ "
+ƒƒI S0
+
+ƒƒ* 1
+∆∆ #
+«« #
+»»6 =
+
+»»1 3
+ÀÀ6 8$
+
+ÀÀ' 3
+ÃÃ$ 0
+––: F
+
+““; M
+‘‘J \
+
+€€$ -
+››6 ?0
+
+„„ 
+ÁÁ 
+ÁÁ 
+ÁÁ' (0
+
+ÔÔ 
+ÛÛ 
+ÛÛ 
+ÛÛ' (
+
+˚˚ º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_13.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó º
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_14.cs
+
+ D
+
+ 2
+   ## 99( -NN TT !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+RR TT TT TT# $
+]] 
+ôô (
+__ dd ii oo !(
+mm oo oo oo# $
+ww 
+öö ,
+yy }} 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+õõ T
+
+ìì 
+ññ 
+¨¨( -
+¡¡ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+úú) 3
+ûû "
+††I S0
+
+††* 1
+¢¢ #
+££ #
+§§6 =
+
+§§1 3
+ßß6 8$
+
+ßß' 3
+®®$ 0
+¨¨: F
+
+ÆÆ; M
+∞∞J \
+
+∑∑$ -
+ππ6 ?0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+◊◊ 
+úú T
+
+ŸŸ 
+‹‹ 
+ÚÚ( -
+áá 
+çç 
+çç "
+èè  %$
+
+‚‚) 3
+‰‰ "
+ÊÊI S0
+
+ÊÊ* 1
+ËË #
+ÈÈ #
+ÍÍ6 =
+
+ÍÍ1 3
+ÌÌ6 8$
+
+ÌÌ' 3
+ÓÓ$ 0
+ÚÚ: F
+
+ÙÙ; M
+ˆˆJ \
+
+˝˝$ -
+ˇˇ6 ?0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó ¬
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_15.cs
+
+ D
+
+ 2
+   $$ ::( -NN VV !
+**) 3,, "..I S(
+..* 100 #11 #226 =
+221 3556 8
+55' 366$ 0::: F
+<<; M>>J \
+EE$ -GG6 ?(
+TT VV VV VV# $
+dd 
+∑∑ (
+ff ll pp xx !(
+vv xx xx xx# $
+
+ÖÖ 
+∏∏ 0
+
+áá 
+åå 
+ëë 
+ôô !0
+
+óó 
+ôô 
+ôô 
+ôô# $
+
+¶¶ 
+ππ T
+
+®® 
+¨¨ 
+¬¬( -
+÷÷ 
+‚‚ 
+‚‚ "
+‰‰  %$
+
+≤≤) 3
+¥¥ "
+∂∂I S0
+
+∂∂* 1
+∏∏ #
+ππ #
+∫∫6 =
+
+∫∫1 3
+ΩΩ6 8$
+
+ΩΩ' 3
+ææ$ 0
+¬¬: F
+
+ƒƒ; M
+∆∆J \
+
+ÕÕ$ -
+œœ6 ?0
+
+‡‡ 
+‰‰ 
+‰‰ 
+‰‰' (
+
+ÓÓ 
+∫∫ T
+
+ 
+ÙÙ 
+ää( -
+ûû 
+¶¶ 
+¶¶ "
+®®  %$
+
+˙˙) 3
+¸¸ "
+˛˛I S0
+
+˛˛* 1
+ÄÄ #
+ÅÅ #
+ÇÇ6 =
+
+ÇÇ1 3
+ÖÖ6 8$
+
+ÖÖ' 3
+ÜÜ$ 0
+ää: F
+
+åå; M
+ééJ \
+
+ïï$ -
+óó6 ?0
+
+§§ 
+®® 
+®® 
+®®' (
+
+µµ ®
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_16.cs
+
+ D
+
+ (
+   ## 99( -OO !
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?(
+MM OO OO OO# $
+YY 
+≠≠ 
+[[ __ ff !(
+dd ff ff ff# $
+oo 
+ÆÆ D
+qq tt 
+ää( -
+†† 
+†† "
+¢¢  %
+zz) 3|| "~~I S.
+~~* 1
+ÄÄ #
+ÅÅ #
+ÇÇ6 =
+
+ÇÇ1 3
+ÖÖ6 8$
+
+ÖÖ' 3
+ÜÜ$ 0
+ää: F
+
+åå; M
+ééJ \
+
+ïï$ -
+óó6 ?0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ Ä
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_17.cs
+
+ D
+
+ (
+   %% ;;$ )OO !
+++% /-- //E O(
+//& -11 22 332 9
+33- /662 4
+66# /77  ,;;6 B
+==7 I??F X
+FF  )HH2 ;
+KK KK KK  (
+MM OO OO OO# $
+XX 
+¢¢ 
+ZZ \\ aa !
+]] ]] ]]  (
+__ aa aa aa# $
+ii 
+££ D
+kk ll 
+ÇÇ$ )
+ññ 
+ññ "
+òò  %
+rr% /tt vvE O(
+vv& -xx yy zz2 9
+zz- /}}2 4 
+}}# /~~  ,
+ÇÇ6 B
+
+ÑÑ7 I
+ÜÜF X
+
+çç  )
+èè2 ;$
+
+íí 
+íí 
+íí  0
+
+îî 
+òò 
+òò 
+òò' (
+
+†† ÿ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_21.cs
+
+ D
+ JJ PP 
+
+!! (
+## $$ ::$ )KK 
+**% /,, ..E O(
+..& -00 11 222 9
+22- /552 4
+55# /66  ,::6 B
+<<7 I>>F X
+EE  )GG2 ;
+NN KK 
+NN "TT !(
+RR TT TT TT# $"
+\\  
+ëë 
+óó "
+]]  
+‘‘ 
+⁄⁄ "
+^^ 
+ÓÓ 
+ÙÙ 
+
+`` 
+hh bb 
+
+´´ cc 
+
+ÈÈ dd ,
+jj kk 
+ÅÅ$ )
+íí 
+qq% /ss uuE O(
+uu& -ww xx yy2 9
+yy- /||2 4 
+||# /}}  ,
+ÅÅ6 B
+
+ÉÉ7 I
+ÖÖF X
+
+åå  )
+éé2 ;
+
+ïï 
+íí 0
+
+ïï" '
+†† 
+†† "
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+≠≠ 
+ÆÆ 
+ƒƒ$ )
+’’ $
+
+¥¥% /
+∂∂ 
+∏∏E O0
+
+∏∏& -
+∫∫ 
+ªª 
+ºº2 9
+
+ºº- /
+øø2 4$
+
+øø# /
+¿¿  ,
+ƒƒ6 B
+
+∆∆7 I
+»»F X
+
+œœ  )
+——2 ;
+
+ÿÿ 
+’’ 0
+
+ÿÿ" '
+ﬁﬁ 
+ﬁﬁ "
+‡‡  %0
+
+‹‹ 
+‡‡ 
+‡‡ 
+‡‡' ($
+
+ÎÎ 
+ÌÌ 
+ÔÔ 
+
+ÚÚ 
+ÔÔ 
+
+ÚÚ! &
+¯¯ !0
+
+ˆˆ 
+¯¯ 
+¯¯ 
+¯¯# $È
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_22a.cs
+
+ E
+ &JJ 
+
+!! (
+## $$ ::$ )KKP U
+**% /,, ..E O(
+..& -00 11 222 9
+22- /552 4
+55# /66  ,::6 B
+<<7 I>>F X
+EE  )GG2 ;
+OO +
+ÑÑ 
+PP +
+≤≤ 
+QQ *
+ºº 
+
+SS 
+[[ UU 
+
+ââ VV 
+
+∑∑ WW *
+]] ^^ tt$ )
+ÖÖU Z
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;0
+
+ãã 
+åå 
+¢¢$ )
+≥≥U Z$
+
+íí% /
+îî 
+ññE O0
+
+ññ& -
+òò 
+ôô 
+öö2 9
+
+öö- /
+ùù2 4$
+
+ùù# /
+ûû  ,
+¢¢6 B
+
+§§7 I
+¶¶F X
+
+≠≠  )
+ØØ2 ;$
+
+ππ 
+ªª 
+ΩΩT YŸ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_22b.cs
+
+ E
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $“
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_31.cs
+
+ D
+
+ 
+   II LL !(
+"" ## 99( -II 
+))) 3++ "--I S(
+--* 1// #00 #116 =
+111 3446 8
+44' 355$ 099: F
+;;; M==J \
+DD$ -FF6 ?
+LL OO !(
+MM OO OO OO# $
+
+WW 
+^^ YY 
+ss ZZ 
+`` ee hh !
+bb dd ee 
+hh kk !(
+ii kk kk kk# $"
+uu 
+ûû 
+°° !,
+ww xx 
+éé( -
+ûû "
+~~) 3
+ÄÄ "
+ÇÇI S0
+
+ÇÇ* 1
+ÑÑ #
+ÖÖ #
+ÜÜ6 =
+
+ÜÜ1 3
+ââ6 8$
+
+ââ' 3
+ää$ 0
+éé: F
+
+êê; M
+ííJ \
+
+ôô$ -
+õõ6 ?0
+
+°° 
+§§ 
+§§ "
+¶¶  %0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (§
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_41.cs
+
+ D
+ QQ 
+$ )"" (
+   "" "" ""  
+
+(( (
+** ++ AA$ )QQ 
+11% /33 55E O(
+55& -77 88 992 9
+99- /<<2 4
+<<# /==  ,AA6 B
+CC7 IEEF X
+LL  )NN2 ;
+
+UU 
+ff WW 
+|| XX 
+[[ #kk 
+[[( -__ (
+]] __ __ __  
+hh jj kk 
+nn #
+•• (
+nn( -rr rr tt !(
+pp tt tt tt# $,
+~~  
+ïï$ )
+•• $
+
+ÖÖ% /
+áá 
+ââE O0
+
+ââ& -
+ãã 
+åå 
+çç2 9
+
+çç- /
+êê2 4$
+
+êê# /
+ëë  ,
+ïï6 B
+
+óó7 I
+ôôF X
+
+††  )
+¢¢2 ;®
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_42.cs
+
+ D
+  LL (
+   !! 77$ )GG 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+JJ 
+LL OO (
+MM OO OO OO  
+WW $aa !
+YY [[ \\ 
+__ 
+ßß 
+aa dd (
+bb dd dd dd  
+kk $
+ôô !,
+mm nn 
+ÑÑ$ )
+îî 
+tt% /vv xxE O(
+xx& -zz {{ ||2 9
+||- /2 4"
+# /
+ÄÄ  ,
+ÑÑ6 B
+
+ÜÜ7 I
+ààF X
+
+èè  )
+ëë2 ;
+
+óó 
+®® 0
+
+ôô 
+úú 
+úú 
+ûû !0
+
+öö 
+ûû 
+ûû 
+ûû# $
+
+•• å	
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_45.cs
+
+ D
+ $$ VV 
+ cc  rr  
+   xx  
+ÆÆ 
+"" WW 
+$$ '' (
+%% '' '' ''  
+
+-- (
+// 00 FF$ )VV 
+66% /88 ::E O(
+::& -<< == >>2 9
+>>- /AA2 4
+AA# /BB  ,FF6 B
+HH7 IJJF X
+QQ  )SS2 ;
+
+[[ 
+mm ]] 
+
+ÖÖ ^^ 
+aa ss 
+cc ff (
+dd ff ff ff  
+oo qq rr 
+vv 
+ØØ (
+xx {{ {{ }} !(
+yy }} }} }}# $0
+
+áá 
+àà 
+ûû$ )
+ÆÆ $
+
+éé% /
+êê 
+ííE O0
+
+íí& -
+îî 
+ïï 
+ññ2 9
+
+ññ- /
+ôô2 4$
+
+ôô# /
+öö  ,
+ûû6 B
+
+††7 I
+¢¢F X
+
+©©  )
+´´2 ;Ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_51a.cs
+
+ E
+
+ (
+   !! 77$ )GGP U
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWT Y*
+]] ^^ tt$ )
+ÑÑT Y
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;—
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_51b.cs
+
+ E
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_52a.cs
+
+ E
+
+ (
+   !! 77$ )GGP U
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWT Y*
+]] ^^ tt$ )
+ÑÑT Y
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;ø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_52b.cs
+
+ E
+
+ 
+# (P U
+
+$$ "
+$$' ,&&T Y
+
+** "
+**' ,,,T Y—
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_52c.cs
+
+ E
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_53a.cs
+
+ E
+
+ (
+   !! 77$ )GGP U
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWT Y*
+]] ^^ tt$ )
+ÑÑT Y
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;ø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_53b.cs
+
+ E
+
+ 
+# (P U
+
+$$ "
+$$' ,&&T Y
+
+** "
+**' ,,,T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_53c.cs
+
+ E
+
+ 
+# (P U
+
+$$ "
+$$' ,&&T Y
+
+** "
+**' ,,,T Y—
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_53d.cs
+
+ E
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_54a.cs
+
+ E
+
+ (
+   !! 77$ )GGP U
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWT Y*
+]] ^^ tt$ )
+ÑÑT Y
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;ø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_54b.cs
+
+ E
+
+ 
+# (P U
+
+$$ "
+$$' ,&&T Y
+
+** "
+**' ,,,T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_54c.cs
+
+ E
+
+ 
+# (P U
+
+$$ "
+$$' ,&&T Y
+
+** "
+**' ,,,T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_54d.cs
+
+ E
+
+ 
+# (P U
+
+$$ "
+$$' ,&&T Y
+
+** "
+**' ,,,T Y—
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_54e.cs
+
+ E
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ò
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_61a.cs
+
+ E
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $…
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_61b.cs
+
+ E
+
+ (
+   !! 77$ )GG 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+MM #
+OO QQ RR 
+
+VV #(
+XX YY oo$ ) 
+__% /aa ccE O(
+cc& -ee ff gg2 9
+gg- /jj2 4
+jj# /kk  ,oo6 B
+qq7 IssF X
+zz  )||2 ;’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_66a.cs
+
+ E
+
+ (
+   !! 77$ )HH 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+GG HH IIP Z
+
+MM 
+TT OO 
+__ PP 
+VV XX ZZ 
+YY ZZ [[T ^*
+aa bb xx$ )
+ââ 
+hh% /jj llE O(
+ll& -nn oo pp2 9
+pp- /ss2 4
+ss# /tt  ,xx6 B
+zz7 I||F X
+
+ÉÉ  )
+ÖÖ2 ;$
+
+àà 
+ââ 
+ääT ^ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_66b.cs
+
+ E
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $œ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_67a.cs
+
+ EJ
+ LL LL' 0^^ ^^' 0
+çç 
+çç' 0*
+   MM #__ #
+éé #
+
+## (
+%% && <<$ )MM& +
+,,% /.. 00E O(
+00& -22 33 442 9
+44- /772 4
+77# /88  ,<<6 B
+>>7 I@@F X
+GG  )II2 ;
+LL  MM NNP ^
+
+RR 
+YY TT 
+dd UU 
+[[ ]] __& +
+^^  __ ``T b*
+ff gg }}$ )
+éé& +
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;$
+
+çç  
+éé 
+èèT bì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_67b.cs
+
+ E
+
+ 
+i w "
+ !! (
+ !! !! !!  
+
+** "
+**m {,, "
+,, // (
+-- // // //  
+
+66 "
+66m {88 "(
+88 ;; ;; == !(
+99 == == ==# $µ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_68a.cs
+
+ E<
+ "" 88$ )VV ]] ss$ )
+
+   
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;
+
+LL 
+SS NN 
+[[ OO 
+cc% /ee ggE O(
+gg& -ii jj kk2 9
+kk- /nn2 4
+nn# /oo  ,ss6 B
+uu7 IwwF X
+~~  )
+ÄÄ2 ;—
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_68b.cs
+
+ E
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $Ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_71a.cs
+
+ E
+
+ (
+   !! 77$ )GGX ]
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WW\ a*
+]] ^^ tt$ )
+ÑÑ\ a
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_71b.cs
+
+ E
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $◊
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_72a.cs
+
+ E
+
+ <
+!! "" 88$ )II #JJ #KK #
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;2
+HH  II JJ KK LLP ^
+
+PP 
+WW RR 
+dd SS 2
+YY [[ ]] #^^ #__ #2
+\\  ]] ^^ __ ``T bB
+ff gg }}$ )
+éé #
+èè #
+êê #
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;<
+
+çç  
+éé 
+èè 
+êê 
+ëëT bì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_72b.cs
+
+ E
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $◊
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_73a.cs
+
+ E
+
+ <
+!! "" 88$ )II  %JJ  %KK  %
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;2
+HH 'II JJ KK LLP _
+
+PP 
+WW RR 
+dd SS 2
+YY [[ ]]  %^^  %__  %2
+\\ ']] ^^ __ ``T cB
+ff gg }}$ )
+éé  %
+èè  %
+êê  %
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;<
+
+çç '
+éé 
+èè 
+êê 
+ëëT cì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_73b.cs
+
+ E
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $◊
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_74a.cs
+
+ E
+
+ <
+!! "" 88$ )II $JJ $KK $
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;2
+HH +II JJ KK LLP _
+
+PP 
+WW RR 
+dd SS 2
+YY [[ ]] $^^ $__ $2
+\\ +]] ^^ __ ``T cB
+ff gg }}$ )
+éé $
+èè $
+êê $
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;<
+
+çç +
+éé 
+èè 
+êê 
+ëëT cì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_74b.cs
+
+ E
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $Ω
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_75a.cs
+
+ E
+
+!! (
+## $$ ::$ )QQ! &
+**% /,, ..E O(
+..& -00 11 222 9
+22- /552 4
+55# /66  ,::6 B
+<<7 I>>F X
+EE  )GG2 ;
+KK RR TTT c
+NN QQ 
+OO QQ RR" $
+VV& 5XXZ i
+
+]] 
+dd __ 
+
+†† `` *
+ff gg }}$ )
+îî! &
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;$
+
+éé 
+ïï 
+óóX g
+
+ëë 
+îî $
+
+íí 
+îî 
+ïï" $
+
+ôô& 5
+õõZ i0
+
+¢¢ 
+££ 
+ππ$ )
+––! &$
+
+©©% /
+´´ 
+≠≠E O0
+
+≠≠& -
+ØØ 
+∞∞ 
+±±2 9
+
+±±- /
+¥¥2 4$
+
+¥¥# /
+µµ  ,
+ππ6 B
+
+ªª7 I
+ΩΩF X
+
+ƒƒ  )
+∆∆2 ;$
+
+   
+—— 
+””X g
+
+ÕÕ 
+–– $
+
+ŒŒ 
+–– 
+——" $
+
+’’& 5
+◊◊Z i—
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_75b.cs
+
+ E
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ jµ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_81a.cs
+
+ E
+
+ (
+   !! 77$ )HH 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+GGL VHH 
+
+LL 
+SS NN 
+]] OO 
+UU WW YY 
+XXL VYY *
+__ `` vv$ )
+áá 
+ff% /hh jjE O(
+jj& -ll mm nn2 9
+nn- /qq2 4
+qq# /rr  ,vv6 B
+xx7 IzzF X
+
+ÅÅ  )
+ÉÉ2 ;
+
+ÜÜL V
+áá ®
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_81_bad.cs
+
+ H
+
+ 
+$ )   (
+           ı
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_81_base.cs
+
+ R
+
+ 
+
+$ )¿
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_81_goodB2G.cs
+
+ L
+
+ (
+$ )!! !! ## !(
+ ## ## ### $¨
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_for_loop_81_goodG2B.cs
+
+ L
+
+ 
+$ )!! (
+ !! !! !!  …	
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_01.cs
+
+ A
+
+   (
+"" ## 99$ )MM !
+))% /++ --E O(
+--& -// 00 112 9
+11- /442 4
+44# /55  ,996 B
+;;7 I==F X
+DD  )FF2 ;(
+II MM MM MM# $(
+JJ  QQ [[ ]] 
+SS# +UUS [
+`` 'bbQ Y
+
+hh 
+oo jj 
+
+ìì kk 
+qq ss xx !(
+tt xx xx xx# $,
+uu  || 
+ÜÜ 
+àà 
+~~# +
+ÄÄS [
+
+ãã '
+ççQ YH
+
+ïï 
+ññ 
+¨¨$ )
+ΩΩ 
+ΩΩ 
+√√  %$
+
+úú% /
+ûû 
+††E O0
+
+††& -
+¢¢ 
+££ 
+§§2 9
+
+§§- /
+ßß2 4$
+
+ßß# /
+®®  ,
+¨¨6 B
+
+ÆÆ7 I
+∞∞F X
+
+∑∑  )
+ππ2 ;0
+
+øø 
+√√ 
+√√ 
+√√' (0
+
+¿¿  $
+«« 
+—— 
+”” 
+
+……' /
+ÀÀW _
+
+÷÷# +
+ÿÿU ]π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_02.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_03.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ ≈
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_04.cs
+
+ Af
+$$ )** YY 
+ää 
+ØØ 
+∫∫ 
+ﬂﬂ 
+ºº 
+ÎÎ  
+%% * 
+éé 
+
+'' 2
+)) ,, BB( -WW __  %
+22) 344 "66I S(
+66* 188 #99 #::6 =
+::1 3==6 8
+==' 3>>$ 0BB: F
+DD; MFFJ \
+MM$ -OO6 ?(
+[[ __ __ __' ((
+\\  $cc mm oo 
+ee' /ggW _
+rr# +ttU ]
+|| 
+íí .
+~~ 
+ÉÉ 
+àà 
+êê  %0
+
+åå 
+êê 
+êê 
+êê' (0
+
+çç  $
+îî 
+ûû 
+†† 
+
+ññ' /
+òòW _
+
+££# +
+••U ]
+
+¨¨ 
+ìì 0
+
+ÆÆ 
+≤≤ 
+∏∏ 
+¿¿  %0
+
+ºº 
+¿¿ 
+¿¿ 
+¿¿' (0
+
+ΩΩ  $
+ƒƒ 
+ŒŒ 
+–– 
+
+∆∆' /
+»»W _
+
+””# +
+’’U ]
+
+‹‹ 
+îî T
+
+ﬁﬁ 
+·· 
+˜˜( -
+åå 
+ññ 
+ññ "
+úú$ )$
+
+ÁÁ) 3
+ÈÈ "
+ÎÎI S0
+
+ÎÎ* 1
+ÌÌ #
+ÓÓ #
+ÔÔ6 =
+
+ÔÔ1 3
+ÚÚ6 8$
+
+ÚÚ' 3
+ÛÛ$ 0
+˜˜: F
+
+˘˘; M
+˚˚J \
+
+ÇÇ$ -
+ÑÑ6 ?0
+
+òò 
+úú 
+úú  !
+úú+ ,0
+
+ôô$ (
+††  
+™™  
+¨¨  
+
+¢¢+ 3
+§§[ c
+
+ØØ' /
+±±Y a
+
+ππ 
+ïï T
+
+ªª 
+ææ 
+‘‘( -
+ÈÈ 
+ÓÓ 
+ÓÓ "
+ÙÙ$ )$
+
+ƒƒ) 3
+∆∆ "
+»»I S0
+
+»»* 1
+   #
+ÀÀ #
+ÃÃ6 =
+
+ÃÃ1 3
+œœ6 8$
+
+œœ' 3
+––$ 0
+‘‘: F
+
+÷÷; M
+ÿÿJ \
+
+ﬂﬂ$ -
+··6 ?0
+
+ 
+ÙÙ 
+ÙÙ  !
+ÙÙ+ ,0
+
+ÒÒ$ (
+¯¯  
+ÇÇ  
+ÑÑ  
+
+˙˙+ 3
+¸¸[ c
+
+áá' /
+ââY a
+
+êê ≈
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_05.cs
+
+ Af
+## )) XX 
+ââ 
+ÆÆ 
+ππ 
+ﬁﬁ 
+ªª 
+ÍÍ  
+$$ ~~ 
+çç 
+
+&& 2
+(( ++ AA( -VV ^^  %
+11) 333 "55I S(
+55* 177 #88 #996 =
+991 3<<6 8
+<<' 3==$ 0AA: F
+CC; MEEJ \
+LL$ -NN6 ?(
+ZZ ^^ ^^ ^^' ((
+[[  $bb ll nn 
+dd' /ffW _
+qq# +ssU ]
+{{ 
+ëë .
+}} 
+ÇÇ 
+áá 
+èè  %0
+
+ãã 
+èè 
+èè 
+èè' (0
+
+åå  $
+ìì 
+ùù 
+üü 
+
+ïï' /
+óóW _
+
+¢¢# +
+§§U ]
+
+´´ 
+íí 0
+
+≠≠ 
+±± 
+∑∑ 
+øø  %0
+
+ªª 
+øø 
+øø 
+øø' (0
+
+ºº  $
+√√ 
+ÕÕ 
+œœ 
+
+≈≈' /
+««W _
+
+““# +
+‘‘U ]
+
+€€ 
+ìì T
+
+›› 
+‡‡ 
+ˆˆ( -
+ãã 
+ïï 
+ïï "
+õõ$ )$
+
+ÊÊ) 3
+ËË "
+ÍÍI S0
+
+ÍÍ* 1
+ÏÏ #
+ÌÌ #
+ÓÓ6 =
+
+ÓÓ1 3
+ÒÒ6 8$
+
+ÒÒ' 3
+ÚÚ$ 0
+ˆˆ: F
+
+¯¯; M
+˙˙J \
+
+ÅÅ$ -
+ÉÉ6 ?0
+
+óó 
+õõ 
+õõ  !
+õõ+ ,0
+
+òò$ (
+üü  
+©©  
+´´  
+
+°°+ 3
+££[ c
+
+ÆÆ' /
+∞∞Y a
+
+∏∏ 
+îî T
+
+∫∫ 
+ΩΩ 
+””( -
+ËË 
+ÌÌ 
+ÌÌ "
+ÛÛ$ )$
+
+√√) 3
+≈≈ "
+««I S0
+
+««* 1
+…… #
+   #
+ÀÀ6 =
+
+ÀÀ1 3
+ŒŒ6 8$
+
+ŒŒ' 3
+œœ$ 0
+””: F
+
+’’; M
+◊◊J \
+
+ﬁﬁ$ -
+‡‡6 ?0
+
+ÔÔ 
+ÛÛ 
+ÛÛ  !
+ÛÛ+ ,0
+
+$ (
+˜˜  
+ÅÅ  
+ÉÉ  
+
+˘˘+ 3
+˚˚[ c
+
+ÜÜ' /
+ààY a
+
+èè π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_06.cs
+
+ A|
+## ((( WW }} 
+àà 
+≠≠ 
+∏∏ 
+›› 
+åå 
+∫∫ 
+ÈÈ 
+
+%% 2
+'' ** @@( -UU ]]  %
+00) 322 "44I S(
+44* 166 #77 #886 =
+881 3;;6 8
+;;' 3<<$ 0@@: F
+BB; MDDJ \
+KK$ -MM6 ?(
+YY ]] ]] ]]' ((
+ZZ  $aa kk mm 
+cc' /eeW _
+pp# +rrU ]
+zz 
+êê .
+|| 
+ÅÅ 
+ÜÜ 
+éé  %0
+
+ää 
+éé 
+éé 
+éé' (0
+
+ãã  $
+íí 
+úú 
+ûû 
+
+îî' /
+ññW _
+
+°°# +
+££U ]
+
+™™ 
+ëë 0
+
+¨¨ 
+∞∞ 
+∂∂ 
+ææ  %0
+
+∫∫ 
+ææ 
+ææ 
+ææ' (0
+
+ªª  $
+¬¬ 
+ÃÃ 
+ŒŒ 
+
+ƒƒ' /
+∆∆W _
+
+——# +
+””U ]
+
+⁄⁄ 
+íí T
+
+‹‹ 
+ﬂﬂ 
+ıı( -
+ää 
+îî 
+îî "
+öö$ )$
+
+ÂÂ) 3
+ÁÁ "
+ÈÈI S0
+
+ÈÈ* 1
+ÎÎ #
+ÏÏ #
+ÌÌ6 =
+
+ÌÌ1 3
+6 8$
+
+' 3
+ÒÒ$ 0
+ıı: F
+
+˜˜; M
+˘˘J \
+
+ÄÄ$ -
+ÇÇ6 ?0
+
+ññ 
+öö 
+öö  !
+öö+ ,0
+
+óó$ (
+ûû  
+®®  
+™™  
+
+††+ 3
+¢¢[ c
+
+≠≠' /
+ØØY a
+
+∑∑ 
+ìì T
+
+ππ 
+ºº 
+““( -
+ÁÁ 
+ÏÏ 
+ÏÏ "
+ÚÚ$ )$
+
+¬¬) 3
+ƒƒ "
+∆∆I S0
+
+∆∆* 1
+»» #
+…… #
+  6 =
+
+  1 3
+ÕÕ6 8$
+
+ÕÕ' 3
+ŒŒ$ 0
+““: F
+
+‘‘; M
+÷÷J \
+
+››$ -
+ﬂﬂ6 ?0
+
+ÓÓ 
+ÚÚ 
+ÚÚ  !
+ÚÚ+ ,0
+
+ÔÔ$ (
+ˆˆ  
+ÄÄ  
+ÇÇ  
+
+¯¯+ 3
+˙˙[ c
+
+ÖÖ' /
+ááY a
+
+éé π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_07.cs
+
+ A|
+## (( WW }} 
+àà 
+≠≠ 
+∏∏ 
+›› 
+åå 
+∫∫ 
+ÈÈ 
+
+%% 2
+'' ** @@( -UU ]]  %
+00) 322 "44I S(
+44* 166 #77 #886 =
+881 3;;6 8
+;;' 3<<$ 0@@: F
+BB; MDDJ \
+KK$ -MM6 ?(
+YY ]] ]] ]]' ((
+ZZ  $aa kk mm 
+cc' /eeW _
+pp# +rrU ]
+zz 
+êê .
+|| 
+ÅÅ 
+ÜÜ 
+éé  %0
+
+ää 
+éé 
+éé 
+éé' (0
+
+ãã  $
+íí 
+úú 
+ûû 
+
+îî' /
+ññW _
+
+°°# +
+££U ]
+
+™™ 
+ëë 0
+
+¨¨ 
+∞∞ 
+∂∂ 
+ææ  %0
+
+∫∫ 
+ææ 
+ææ 
+ææ' (0
+
+ªª  $
+¬¬ 
+ÃÃ 
+ŒŒ 
+
+ƒƒ' /
+∆∆W _
+
+——# +
+””U ]
+
+⁄⁄ 
+íí T
+
+‹‹ 
+ﬂﬂ 
+ıı( -
+ää 
+îî 
+îî "
+öö$ )$
+
+ÂÂ) 3
+ÁÁ "
+ÈÈI S0
+
+ÈÈ* 1
+ÎÎ #
+ÏÏ #
+ÌÌ6 =
+
+ÌÌ1 3
+6 8$
+
+' 3
+ÒÒ$ 0
+ıı: F
+
+˜˜; M
+˘˘J \
+
+ÄÄ$ -
+ÇÇ6 ?0
+
+ññ 
+öö 
+öö  !
+öö+ ,0
+
+óó$ (
+ûû  
+®®  
+™™  
+
+††+ 3
+¢¢[ c
+
+≠≠' /
+ØØY a
+
+∑∑ 
+ìì T
+
+ππ 
+ºº 
+““( -
+ÁÁ 
+ÏÏ 
+ÏÏ "
+ÚÚ$ )$
+
+¬¬) 3
+ƒƒ "
+∆∆I S0
+
+∆∆* 1
+»» #
+…… #
+  6 =
+
+  1 3
+ÕÕ6 8$
+
+ÕÕ' 3
+ŒŒ$ 0
+““: F
+
+‘‘; M
+÷÷J \
+
+››$ -
+ﬂﬂ6 ?0
+
+ÓÓ 
+ÚÚ 
+ÚÚ  !
+ÚÚ+ ,0
+
+ÔÔ$ (
+ˆˆ  
+ÄÄ  
+ÇÇ  
+
+¯¯+ 3
+˙˙[ c
+
+ÖÖ' /
+ááY a
+
+éé À
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_08.cs
+
+ Af
+## *00 __ 
+êê 
+µµ 
+¿¿ 
+ÂÂ 
+¬¬ 
+ÒÒ "
+(( +
+ÖÖ 
+îî 
+
+-- 2
+// 22 HH( -]] ee  %
+88) 3:: "<<I S(
+<<* 1>> #?? #@@6 =
+@@1 3CC6 8
+CC' 3DD$ 0HH: F
+JJ; MLLJ \
+SS$ -UU6 ?(
+aa ee ee ee' ((
+bb  $ii ss uu 
+kk' /mmW _
+xx# +zzU ]
+
+ÇÇ 
+òò 0
+
+ÑÑ 
+ââ 
+éé 
+ññ  %0
+
+íí 
+ññ 
+ññ 
+ññ' (0
+
+ìì  $
+öö 
+§§ 
+¶¶ 
+
+úú' /
+ûûW _
+
+©©# +
+´´U ]
+
+≤≤ 
+ôô 0
+
+¥¥ 
+∏∏ 
+ææ 
+∆∆  %0
+
+¬¬ 
+∆∆ 
+∆∆ 
+∆∆' (0
+
+√√  $
+   
+‘‘ 
+÷÷ 
+
+ÃÃ' /
+ŒŒW _
+
+ŸŸ# +
+€€U ]
+
+‚‚ 
+öö T
+
+‰‰ 
+ÁÁ 
+˝˝( -
+íí 
+úú 
+úú "
+¢¢$ )$
+
+ÌÌ) 3
+ÔÔ "
+ÒÒI S0
+
+ÒÒ* 1
+ÛÛ #
+ÙÙ #
+ıı6 =
+
+ıı1 3
+¯¯6 8$
+
+¯¯' 3
+˘˘$ 0
+˝˝: F
+
+ˇˇ; M
+ÅÅJ \
+
+àà$ -
+ää6 ?0
+
+ûû 
+¢¢ 
+¢¢  !
+¢¢+ ,0
+
+üü$ (
+¶¶  
+∞∞  
+≤≤  
+
+®®+ 3
+™™[ c
+
+µµ' /
+∑∑Y a
+
+øø 
+õõ T
+
+¡¡ 
+ƒƒ 
+⁄⁄( -
+ÔÔ 
+ÙÙ 
+ÙÙ "
+˙˙$ )$
+
+  ) 3
+ÃÃ "
+ŒŒI S0
+
+ŒŒ* 1
+–– #
+—— #
+““6 =
+
+““1 3
+’’6 8$
+
+’’' 3
+÷÷$ 0
+⁄⁄: F
+
+‹‹; M
+ﬁﬁJ \
+
+ÂÂ$ -
+ÁÁ6 ?0
+
+ˆˆ 
+˙˙ 
+˙˙  !
+˙˙+ ,0
+
+˜˜$ (
+˛˛  
+àà  
+ää  
+
+ÄÄ+ 3
+ÇÇ[ c
+
+çç' /
+èèY a
+
+ññ π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_09.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_10.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_11.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ Ë
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_12.cs
+
+ A
+
+   P
+"" %% ;;( -OO WW  %ss ss "yy$ )
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+SS WW WW WW' ((
+TT  $[[ ee gg 
+]]' /__W _
+jj# +llU ](
+uu yy yy  !yy+ ,,
+vv$ (}}  
+áá  
+ââ  
++ 3
+ÅÅ[ c
+
+åå' /
+ééY a
+
+òò 
+áá <
+
+öö 
+ûû 
+££ 
+´´  %
+    %0
+
+ßß 
+´´ 
+´´ 
+´´' (0
+
+®®  $
+ØØ 
+ππ 
+ªª 
+
+±±' /
+≥≥W _
+
+ææ# +
+¿¿U ]0
+
+∆∆ 
+   
+   
+  ' (0
+
+««  $
+ŒŒ 
+ÿÿ 
+⁄⁄ 
+
+––' /
+““W _
+
+››# +
+ﬂﬂU ]
+
+ÁÁ 
+àà Ñ
+
+ÈÈ 
+ÏÏ 
+ÇÇ( -
+ïï 
+´´( -
+øø 
+øø "
+≈≈$ )
+‚‚ 
+‚‚ "
+ËË$ )$
+
+ÚÚ) 3
+ÙÙ "
+ˆˆI S0
+
+ˆˆ* 1
+¯¯ #
+˘˘ #
+˙˙6 =
+
+˙˙1 3
+˝˝6 8$
+
+˝˝' 3
+˛˛$ 0
+ÇÇ: F
+
+ÑÑ; M
+ÜÜJ \
+
+çç$ -
+èè6 ?$
+
+õõ) 3
+ùù "
+üüI S0
+
+üü* 1
+°° #
+¢¢ #
+££6 =
+
+££1 3
+¶¶6 8$
+
+¶¶' 3
+ßß$ 0
+´´: F
+
+≠≠; M
+ØØJ \
+
+∂∂$ -
+∏∏6 ?0
+
+¡¡ 
+≈≈ 
+≈≈  !
+≈≈+ ,0
+
+¬¬$ (
+……  
+””  
+’’  
+
+ÀÀ+ 3
+ÕÕ[ c
+
+ÿÿ' /
+⁄⁄Y a0
+
+‰‰ 
+ËË 
+ËË  !
+ËË+ ,0
+
+ÂÂ$ (
+ÏÏ  
+ˆˆ  
+¯¯  
+
+ÓÓ+ 3
+[ c
+
+˚˚' /
+˝˝Y a
+
+ÑÑ π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_13.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ π
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_14.cs
+
+ A
+
+   2
+"" %% ;;( -PP XX  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ãã ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+åå 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+çç T
+
+◊◊ 
+⁄⁄ 
+( -
+ÖÖ 
+èè 
+èè "
+ïï$ )$
+
+‡‡) 3
+‚‚ "
+‰‰I S0
+
+‰‰* 1
+ÊÊ #
+ÁÁ #
+ËË6 =
+
+ËË1 3
+ÎÎ6 8$
+
+ÎÎ' 3
+ÏÏ$ 0
+: F
+
+ÚÚ; M
+ÙÙJ \
+
+˚˚$ -
+˝˝6 ?0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+≤≤ 
+éé T
+
+¥¥ 
+∑∑ 
+ÕÕ( -
+‚‚ 
+ÁÁ 
+ÁÁ "
+ÌÌ$ )$
+
+ΩΩ) 3
+øø "
+¡¡I S0
+
+¡¡* 1
+√√ #
+ƒƒ #
+≈≈6 =
+
+≈≈1 3
+»»6 8$
+
+»»' 3
+……$ 0
+ÕÕ: F
+
+œœ; M
+——J \
+
+ÿÿ$ -
+⁄⁄6 ?0
+
+ÈÈ 
+ÌÌ 
+ÌÌ  !
+ÌÌ+ ,0
+
+ÍÍ$ (
+ÒÒ  
+˚˚  
+˝˝  
+
+ÛÛ+ 3
+ıı[ c
+
+ÄÄ' /
+ÇÇY a
+
+ââ ª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_15.cs
+
+ A
+
+   2
+"" && <<( -PP ZZ  %
+,,) 3.. "00I S(
+00* 122 #33 #446 =
+441 3776 8
+77' 388$ 0<<: F
+>>; M@@J \
+GG$ -II6 ?(
+VV ZZ ZZ ZZ' ((
+WW  $^^ hh jj 
+``' /bbW _
+mm# +ooU ]
+|| 
+©© .
+~~ 
+ÑÑ 
+àà 
+íí  %0
+
+éé 
+íí 
+íí 
+íí' (0
+
+èè  $
+ññ 
+†† 
+¢¢ 
+
+òò' /
+ööW _
+
+••# +
+ßßU ]
+
+≥≥ 
+™™ 0
+
+µµ 
+∫∫ 
+øø 
+……  %0
+
+≈≈ 
+…… 
+…… 
+……' (0
+
+∆∆  $
+ÕÕ 
+◊◊ 
+ŸŸ 
+
+œœ' /
+——W _
+
+‹‹# +
+ﬁﬁU ]
+
+ÍÍ 
+´´ T
+
+ÏÏ 
+ 
+ÜÜ( -
+öö 
+•• 
+•• "
+´´$ )$
+
+ˆˆ) 3
+¯¯ "
+˙˙I S0
+
+˙˙* 1
+¸¸ #
+˝˝ #
+˛˛6 =
+
+˛˛1 3
+ÅÅ6 8$
+
+ÅÅ' 3
+ÇÇ$ 0
+ÜÜ: F
+
+àà; M
+ääJ \
+
+ëë$ -
+ìì6 ?0
+
+ßß 
+´´ 
+´´  !
+´´+ ,0
+
+®®$ (
+ØØ  
+ππ  
+ªª  
+
+±±+ 3
+≥≥[ c
+
+ææ' /
+¿¿Y a
+
+…… 
+¨¨ T
+
+ÀÀ 
+œœ 
+ÂÂ( -
+˘˘ 
+ÄÄ 
+ÄÄ "
+ÜÜ$ )$
+
+’’) 3
+◊◊ "
+ŸŸI S0
+
+ŸŸ* 1
+€€ #
+‹‹ #
+››6 =
+
+››1 3
+‡‡6 8$
+
+‡‡' 3
+··$ 0
+ÂÂ: F
+
+ÁÁ; M
+ÈÈJ \
+
+$ -
+ÚÚ6 ?0
+
+ÇÇ 
+ÜÜ 
+ÜÜ  !
+ÜÜ+ ,0
+
+ÉÉ$ (
+ää  
+îî  
+ññ  
+
+åå+ 3
+éé[ c
+
+ôô' /
+õõY a
+
+ßß €	
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_16.cs
+
+ A
+
+   (
+"" %% ;;( -SS  %
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+qq 
+ÚÚ  
+ss ww 
+ÄÄ  %.
+|| 
+ÄÄ 
+ÄÄ 
+ÄÄ' (.
+}}  $
+ÑÑ 
+éé 
+êê 
+
+ÜÜ' /
+ààW _
+
+ìì# +
+ïïU ]
+
+ùù 
+ÛÛ H
+
+üü 
+¢¢ 
+∏∏( -
+ÕÕ 
+ÕÕ "
+””$ )$
+
+®®) 3
+™™ "
+¨¨I S0
+
+¨¨* 1
+ÆÆ #
+ØØ #
+∞∞6 =
+
+∞∞1 3
+≥≥6 8$
+
+≥≥' 3
+¥¥$ 0
+∏∏: F
+
+∫∫; M
+ººJ \
+
+√√$ -
+≈≈6 ?0
+
+œœ 
+”” 
+””  !
+””+ ,0
+
+––$ (
+◊◊  
+··  
+„„  
+
+ŸŸ+ 3
+€€[ c
+
+ÊÊ' /
+ËËY a
+
+ ∑
+
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_17.cs
+
+ A
+
+   (
+"" '' ==$ )SS  %
+--% /// 11E O(
+11& -33 44 552 9
+55- /882 4
+88# /99  ,==6 B
+??7 IAAF X
+HH  )JJ2 ;
+MM MM MM  (
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+ÁÁ 
+rr tt {{  %
+uu uu uu  (
+ww {{ {{ {{' (,
+xx  $ 
+ââ 
+ãã 
+
+ÅÅ' /
+ÉÉW _
+
+éé# +
+êêU ]
+
+óó 
+ËË H
+
+ôô 
+öö 
+∞∞$ )
+√√ 
+√√ "
+……$ )$
+
+††% /
+¢¢ 
+§§E O0
+
+§§& -
+¶¶ 
+ßß 
+®®2 9
+
+®®- /
+´´2 4$
+
+´´# /
+¨¨  ,
+∞∞6 B
+
+≤≤7 I
+¥¥F X
+
+ªª  )
+ΩΩ2 ;$
+
+¿¿ 
+¿¿ 
+¿¿  0
+
+≈≈ 
+…… 
+……  !
+……+ ,0
+
+∆∆$ (
+ÕÕ  
+◊◊  
+ŸŸ  
+
+œœ+ 3
+——[ c
+
+‹‹' /
+ﬁﬁY a
+
+ÂÂ ˘
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_21.cs
+
+ A
+!! LL RR 
+
+## (
+%% && <<$ )MM 
+,,% /.. 00E O(
+00& -22 33 442 9
+44- /772 4
+77# /88  ,<<6 B
+>>7 I@@F X
+GG  )II2 ;
+PP MM 
+PP "XX  %(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]"
+tt  
+©© 
+ØØ "
+uu  
+ÉÉ 
+ââ "
+vv 
+¥¥ 
+∫∫ 
+
+xx 
+
+ÄÄ zz 
+
+⁄⁄ {{ 
+
+ØØ || 0
+
+ÇÇ 
+ÉÉ 
+ôô$ )
+™™ $
+
+ââ% /
+ãã 
+ççE O0
+
+çç& -
+èè 
+êê 
+ëë2 9
+
+ëë- /
+îî2 4$
+
+îî# /
+ïï  ,
+ôô6 B
+
+õõ7 I
+ùùF X
+
+§§  )
+¶¶2 ;
+
+≠≠ 
+™™ 0
+
+≠≠" '
+∑∑ 
+∑∑ "
+ΩΩ$ )0
+
+ππ 
+ΩΩ 
+ΩΩ  !
+ΩΩ+ ,0
+
+∫∫$ (
+¡¡  
+ÀÀ  
+ÕÕ  
+
+√√+ 3
+≈≈[ c
+
+––' /
+““Y a0
+
+‹‹ 
+›› 
+ÛÛ$ )
+ÑÑ $
+
+„„% /
+ÂÂ 
+ÁÁE O0
+
+ÁÁ& -
+ÈÈ 
+ÍÍ 
+ÎÎ2 9
+
+ÎÎ- /
+ÓÓ2 4$
+
+ÓÓ# /
+ÔÔ  ,
+ÛÛ6 B
+
+ıı7 I
+˜˜F X
+
+˛˛  )
+ÄÄ2 ;
+
+áá 
+ÑÑ 0
+
+áá" '
+åå 
+åå "
+íí$ )0
+
+éé 
+íí 
+íí  !
+íí+ ,0
+
+èè$ (
+ññ  
+††  
+¢¢  
+
+òò+ 3
+öö[ c
+
+••' /
+ßßY a$
+
+±± 
+≥≥ 
+µµ 
+
+∏∏ 
+µµ 
+
+∏∏! &
+¿¿  %0
+
+ºº 
+¿¿ 
+¿¿ 
+¿¿' (0
+
+ΩΩ  $
+ƒƒ 
+ŒŒ 
+–– 
+
+∆∆' /
+»»W _
+
+””# +
+’’U ]Ê
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_22a.cs
+
+ B
+ &JJ 
+
+!! (
+## $$ ::$ )KKM R
+**% /,, ..E O(
+..& -00 11 222 9
+22- /552 4
+55# /66  ,::6 B
+<<7 I>>F X
+EE  )GG2 ;
+OO +
+ÑÑ 
+PP +
+≤≤ 
+QQ *
+ºº 
+
+SS 
+[[ UU 
+
+ââ VV 
+
+∑∑ WW *
+]] ^^ tt$ )
+ÖÖR W
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;0
+
+ãã 
+åå 
+¢¢$ )
+≥≥R W$
+
+íí% /
+îî 
+ññE O0
+
+ññ& -
+òò 
+ôô 
+öö2 9
+
+öö- /
+ùù2 4$
+
+ùù# /
+ûû  ,
+¢¢6 B
+
+§§7 I
+¶¶F X
+
+≠≠  )
+ØØ2 ;$
+
+ππ 
+ªª 
+ΩΩQ VË
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_22b.cs
+
+ B
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]â
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_31.cs
+
+ A
+
+   
+"" KK NN !(
+$$ %% ;;( -KK 
+++) 3-- "//I S(
+//* 111 #22 #336 =
+331 3666 8
+66' 377$ 0;;: F
+==; M??J \
+FF$ -HH6 ?
+NN SS  %(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+
+oo 
+vv qq 
+
+°° rr  
+xx }} 
+ÄÄ !
+zz || }} 
+
+ÄÄ 
+ÖÖ  %0
+
+ÅÅ 
+ÖÖ 
+ÖÖ 
+ÖÖ' (0
+
+ÇÇ  $
+ââ 
+ìì 
+ïï 
+
+ãã' /
+ççW _
+
+òò# +
+ööU ]$
+
+££ 
+ÃÃ 
+œœ !0
+
+•• 
+¶¶ 
+ºº( -
+ÃÃ $
+
+¨¨) 3
+ÆÆ "
+∞∞I S0
+
+∞∞* 1
+≤≤ #
+≥≥ #
+¥¥6 =
+
+¥¥1 3
+∑∑6 8$
+
+∑∑' 3
+∏∏$ 0
+ºº: F
+
+ææ; M
+¿¿J \
+
+««$ -
+……6 ?0
+
+œœ 
+—— 
+—— "
+◊◊$ )0
+
+”” 
+◊◊ 
+◊◊  !
+◊◊+ ,0
+
+‘‘$ (
+€€  
+ÂÂ  
+ÁÁ  
+
+››+ 3
+ﬂﬂ[ c
+
+ÍÍ' /
+ÏÏY aﬂ
+
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_41.cs
+
+ A
+   ii 
+  $ )&& !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+@@ (
+BB CC YY$ )ii 
+II% /KK MME O(
+MM& -OO PP QQ2 9
+QQ- /TT2 4
+TT# /UU  ,YY6 B
+[[7 I]]F X
+dd  )ff2 ;
+
+mm 
+
+îî oo 
+
+¡¡ pp 
+ss #
+ôô 
+ss( -yy !(
+uu yy yy yy# $,
+vv  }} 
+áá 
+ââ 
+# +
+ÅÅS [
+
+åå '
+ééQ Y$
+
+ññ 
+òò 
+ôô 
+
+úú #
+ÍÍ 0
+
+úú( -
+üü 
+üü 
+••  %0
+
+°° 
+•• 
+•• 
+••' (0
+
+¢¢  $
+©© 
+≥≥ 
+µµ 
+
+´´' /
+≠≠W _
+
+∏∏# +
+∫∫U ]0
+
+√√ 
+ƒƒ 
+⁄⁄$ )
+ÍÍ $
+
+  % /
+ÃÃ 
+ŒŒE O0
+
+ŒŒ& -
+–– 
+—— 
+““2 9
+
+““- /
+’’2 4$
+
+’’# /
+÷÷  ,
+⁄⁄6 B
+
+‹‹7 I
+ﬁﬁF X
+
+ÂÂ  )
+ÁÁ2 ;ﬂ
+
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_42.cs
+
+ A
+    NN (
+"" ## 99$ )II 
+))% /++ --E O(
+--& -// 00 112 9
+11- /442 4
+44# /55  ,996 B
+;;7 I==F X
+DD  )FF2 ;
+
+LL 
+NN SS !(
+OO SS SS SS# $(
+PP  WW aa cc 
+YY# +[[S [
+ff 'hhQ Y
+oo $yy !
+qq ss tt 
+ww 
+ÏÏ 
+yy ~~ !(
+zz ~~ ~~ ~~# $.
+{{  
+ÇÇ 
+åå 
+éé 
+
+ÑÑ# +
+ÜÜS [
+
+ëë '
+ììQ Y
+
+ôô $
+«« !0
+
+õõ 
+úú 
+≤≤$ )
+¬¬ $
+
+¢¢% /
+§§ 
+¶¶E O0
+
+¶¶& -
+®® 
+©© 
+™™2 9
+
+™™- /
+≠≠2 4$
+
+≠≠# /
+ÆÆ  ,
+≤≤6 B
+
+¥¥7 I
+∂∂F X
+
+ΩΩ  )
+øø2 ;
+
+≈≈ 
+ÌÌ 0
+
+«« 
+…… 
+…… 
+œœ  %0
+
+ÀÀ 
+œœ 
+œœ 
+œœ' (0
+
+ÃÃ  $
+”” 
+›› 
+ﬂﬂ 
+
+’’' /
+◊◊W _
+
+‚‚# +
+‰‰U ]
+
+ÍÍ —
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_45.cs
+
+ A
+   && nn  
+!! {{  
+†† "
+"" 
+¶¶  
+ÛÛ 
+$$ oo 
+&& ++ !(
+'' ++ ++ ++# $(
+((  // 99 ;; 
+11# +33S [
+>> '@@Q Y
+
+EE (
+GG HH ^^$ )nn 
+NN% /PP RRE O(
+RR& -TT UU VV2 9
+VV- /YY2 4
+YY# /ZZ  ,^^6 B
+``7 IbbF X
+ii  )kk2 ;
+
+ss 
+
+õõ uu 
+
+   vv 
+yy 
+°° 
+{{ 
+ÄÄ !.
+|| 
+ÄÄ 
+ÄÄ 
+ÄÄ# $.
+}}  
+ÑÑ 
+éé 
+êê 
+
+ÜÜ# +
+ààS [
+
+ìì '
+ïïQ Y$
+
+ùù 
+üü 
+†† 
+
+§§ 
+ÙÙ 0
+
+¶¶ 
+®® 
+®® 
+ÆÆ  %0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]0
+
+ÃÃ 
+ÕÕ 
+„„$ )
+ÛÛ $
+
+””% /
+’’ 
+◊◊E O0
+
+◊◊& -
+ŸŸ 
+⁄⁄ 
+€€2 9
+
+€€- /
+ﬁﬁ2 4$
+
+ﬁﬁ# /
+ﬂﬂ  ,
+„„6 B
+
+ÂÂ7 I
+ÁÁF X
+
+ÓÓ  )
+2 ;Í
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_51a.cs
+
+ B
+
+ (
+   !! 77$ )GGM R
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWQ V*
+]] ^^ tt$ )
+ÑÑQ V
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;“
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_51b.cs
+
+ B
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Í
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_52a.cs
+
+ B
+
+ (
+   !! 77$ )GGM R
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWQ V*
+]] ^^ tt$ )
+ÑÑQ V
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;º
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_52b.cs
+
+ B
+
+ 
+# (  M R
+
+&& "
+&&' ,((Q V
+
+,, "
+,,' ,..Q V“
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_52c.cs
+
+ B
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Í
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_53a.cs
+
+ B
+
+ (
+   !! 77$ )GGM R
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWQ V*
+]] ^^ tt$ )
+ÑÑQ V
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;º
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_53b.cs
+
+ B
+
+ 
+# (  M R
+
+&& "
+&&' ,((Q V
+
+,, "
+,,' ,..Q Vº
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_53c.cs
+
+ B
+
+ 
+# (  M R
+
+&& "
+&&' ,((Q V
+
+,, "
+,,' ,..Q V“
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_53d.cs
+
+ B
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Í
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_54a.cs
+
+ B
+
+ (
+   !! 77$ )GGM R
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWQ V*
+]] ^^ tt$ )
+ÑÑQ V
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;º
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_54b.cs
+
+ B
+
+ 
+# (  M R
+
+&& "
+&&' ,((Q V
+
+,, "
+,,' ,..Q Vº
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_54c.cs
+
+ B
+
+ 
+# (  M R
+
+&& "
+&&' ,((Q V
+
+,, "
+,,' ,..Q Vº
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_54d.cs
+
+ B
+
+ 
+# (  M R
+
+&& "
+&&' ,((Q V
+
+,, "
+,,' ,..Q V“
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_54e.cs
+
+ B
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]¯
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_61a.cs
+
+ B
 
  
-)) CC 
-88 DD 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
 
-AA ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_06.cs
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
 
- '(
- ( ** 99 
+ÜÜ# +
+ààU ]∆
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_61b.cs
+
+ B
+
+ (
+   !! 77$ )GG 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+MM #
+OO QQ RR 
+
+VV #(
+XX YY oo$ ) 
+__% /aa ccE O(
+cc& -ee ff gg2 9
+gg- /jj2 4
+jj# /kk  ,oo6 B
+qq7 IssF X
+zz  )||2 ;“
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_66a.cs
+
+ B
+
+ (
+   !! 77$ )HH 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+GG HH IIM W
+
+MM 
+TT OO 
+__ PP 
+VV XX ZZ 
+YY ZZ [[Q [*
+aa bb xx$ )
+ââ 
+hh% /jj llE O(
+ll& -nn oo pp2 9
+pp- /ss2 4
+ss# /tt  ,xx6 B
+zz7 I||F X
+
+ÉÉ  )
+ÖÖ2 ;$
+
+àà 
+ââ 
+ääQ [ñ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_66b.cs
+
+ B
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]Ã
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_67a.cs
+
+ BJ
+ LL LL' 0^^ ^^' 0
+çç 
+çç' 0*
+   MM #__ #
+éé #
+
+## (
+%% && <<$ )MM& +
+,,% /.. 00E O(
+00& -22 33 442 9
+44- /772 4
+77# /88  ,<<6 B
+>>7 I@@F X
+GG  )II2 ;
+LL  MM NNM [
+
+RR 
+YY TT 
+dd UU 
+[[ ]] __& +
+^^  __ ``Q _*
+ff gg }}$ )
+éé& +
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;$
+
+çç  
+éé 
+èèQ _ñ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_67b.cs
+
+ B
+
+ 
+f t   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBj xDD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddj xff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]≤
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_68a.cs
+
+ B<
+ "" 88$ )VV ]] ss$ )
+
+   
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;
+
+LL 
+SS NN 
+[[ OO 
+cc% /ee ggE O(
+gg& -ii jj kk2 9
+kk- /nn2 4
+nn# /oo  ,ss6 B
+uu7 IwwF X
+~~  )
+ÄÄ2 ;‘
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_68b.cs
+
+ B
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]Í
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_71a.cs
+
+ B
+
+ (
+   !! 77$ )GGU Z
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+
+KK 
+RR MM 
+[[ NN 
+TT VV WWY ^*
+]] ^^ tt$ )
+ÑÑY ^
+dd% /ff hhE O(
+hh& -jj kk ll2 9
+ll- /oo2 4
+oo# /pp  ,tt6 B
+vv7 IxxF X
+  )
+ÅÅ2 ;ñ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_71b.cs
+
+ B
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]‘
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_72a.cs
+
+ B
+
+ <
+!! "" 88$ )II #JJ #KK #
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;2
+HH  II JJ KK LLM [
+
+PP 
+WW RR 
+dd SS 2
+YY [[ ]] #^^ #__ #2
+\\  ]] ^^ __ ``Q _B
+ff gg }}$ )
+éé #
+èè #
+êê #
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;<
+
+çç  
+éé 
+èè 
+êê 
+ëëQ _ñ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_72b.cs
+
+ B
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]‘
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_73a.cs
+
+ B
+
+ <
+!! "" 88$ )II  %JJ  %KK  %
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;2
+HH 'II JJ KK LLM \
+
+PP 
+WW RR 
+dd SS 2
+YY [[ ]]  %^^  %__  %2
+\\ ']] ^^ __ ``Q `B
+ff gg }}$ )
+éé  %
+èè  %
+êê  %
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;<
+
+çç '
+éé 
+èè 
+êê 
+ëëQ `ñ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_73b.cs
+
+ B
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]‘
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_74a.cs
+
+ B
+
+ <
+!! "" 88$ )II $JJ $KK $
+((% /** ,,E O(
+,,& -.. // 002 9
+00- /332 4
+33# /44  ,886 B
+::7 I<<F X
+CC  )EE2 ;2
+HH +II JJ KK LLM \
+
+PP 
+WW RR 
+dd SS 2
+YY [[ ]] $^^ $__ $2
+\\ +]] ^^ __ ``Q `B
+ff gg }}$ )
+éé $
+èè $
+êê $
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;<
+
+çç +
+éé 
+èè 
+êê 
+ëëQ `ñ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_74b.cs
+
+ B
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]∫
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_75a.cs
+
+ B
+
+!! (
+## $$ ::$ )QQ! &
+**% /,, ..E O(
+..& -00 11 222 9
+22- /552 4
+55# /66  ,::6 B
+<<7 I>>F X
+EE  )GG2 ;
+KK RR TTQ `
+NN QQ 
+OO QQ RR" $
+VV& 5XXZ i
+
+]] 
+dd __ 
+
+†† `` *
+ff gg }}$ )
+îî! &
+mm% /oo qqE O(
+qq& -ss tt uu2 9
+uu- /xx2 4
+xx# /yy  ,}}6 B
+7 I
+ÅÅF X
+
+àà  )
+ää2 ;$
+
+éé 
+ïï 
+óóU d
+
+ëë 
+îî $
+
+íí 
+îî 
+ïï" $
+
+ôô& 5
+õõZ i0
+
+¢¢ 
+££ 
+ππ$ )
+––! &$
+
+©©% /
+´´ 
+≠≠E O0
+
+≠≠& -
+ØØ 
+∞∞ 
+±±2 9
+
+±±- /
+¥¥2 4$
+
+¥¥# /
+µµ  ,
+ππ6 B
+
+ªª7 I
+ΩΩF X
+
+ƒƒ  )
+∆∆2 ;$
+
+   
+—— 
+””U d
+
+ÕÕ 
+–– $
+
+ŒŒ 
+–– 
+——" $
+
+’’& 5
+◊◊Z iä	
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_75b.cs
+
+ B
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ j≤
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_81a.cs
+
+ B
+
+ (
+   !! 77$ )HH 
+''% /)) ++E O(
+++& --- .. //2 9
+//- /222 4
+22# /33  ,776 B
+997 I;;F X
+BB  )DD2 ;
+GGI SHH 
+
+LL 
+SS NN 
+]] OO 
+UU WW YY 
+XXI SYY *
+__ `` vv$ )
+áá 
+ff% /hh jjE O(
+jj& -ll mm nn2 9
+nn- /qq2 4
+qq# /rr  ,vv6 B
+xx7 IzzF X
+
+ÅÅ  )
+ÉÉ2 ;
+
+ÜÜI S
+áá ˚
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_81_bad.cs
+
+ E
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q YÚ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_81_base.cs
+
+ O
+
+ 
+
+$ )ì
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_81_goodB2G.cs
+
+ I
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]ˇ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Database_write_81_goodG2B.cs
+
+ I
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Yë
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_01.cs
+
+ G
+
+ (
+  (( 22 
+## $$ ((& 2
+**' 9,,6 H(
+00 22 22 22  
+
+99 
+@@ ;; 
+NN << 
+BB DD GG (
+EE GG GG GG  <
+PP QQ ZZ dd dd ff !
+UU VV ZZ& 2
+\\' 9^^6 H(
+bb ff ff ff# $ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_02.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_03.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ ©	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_04.cs
+
+ G`
+   )&& @@ [[ jj uu 
+ÑÑ 
+µµ 
+œœ  
+!! *PP 
+ûû 
+
+## 2
+%% (( 11 >> DD !
+,, #--  11* 6
+33+ =55: L(
+BB DD DD DD# $
+MM 
+ﬂﬂ (
+OO TT YY __ !(
+]] __ __ __# $
+gg 
+‡‡ (
+ii mm ss yy !(
+ww yy yy yy# $
+
+ÅÅ 
+·· T
+
+ÉÉ 
+ÜÜ 
+èè 
+úú 
+ßß 
+ßß "
+©©  %$
+
+ää #
+ãã  
+èè* 6
+
+ëë+ =
+ìì: L0
+
+•• 
+©© 
+©© 
+©©' (
+
+≤≤ 
+‚‚ T
+
+¥¥ 
+∑∑ 
+¿¿ 
+ÕÕ 
+”” 
+”” "
+’’  %$
+
+ªª #
+ºº  
+¿¿* 6
+
+¬¬+ =
+ƒƒ: L0
+
+—— 
+’’ 
+’’ 
+’’' (
+
+›› ©	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_05.cs
+
+ G`
+ %% ?? ZZ ii tt 
+ÉÉ 
+¥¥ 
+ŒŒ  
+   OO 
+ùù 
+
+"" 2
+$$ '' 00 == CC !
+++ #,,  00* 6
+22+ =44: L(
+AA CC CC CC# $
+LL 
+ﬁﬁ (
+NN SS XX ^^ !(
+\\ ^^ ^^ ^^# $
+ff 
+ﬂﬂ (
+hh ll rr xx !(
+vv xx xx xx# $
+
+ÄÄ 
+‡‡ T
+
+ÇÇ 
+ÖÖ 
+éé 
+õõ 
+¶¶ 
+¶¶ "
+®®  %$
+
+ââ #
+ää  
+éé* 6
+
+êê+ =
+íí: L0
+
+§§ 
+®® 
+®® 
+®®' (
+
+±± 
+·· T
+
+≥≥ 
+∂∂ 
+øø 
+ÃÃ 
+““ 
+““ "
+‘‘  %$
+
+∫∫ #
+ªª  
+øø* 6
+
+¡¡+ =
+√√: L0
+
+–– 
+‘‘ 
+‘‘ 
+‘‘' (
+
+‹‹ õ	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_06.cs
+
+ Gv
+ ($$ >> NN YY hh ss 
+ÇÇ 
+úú 
+≥≥ 
+ÕÕ 
+
+!! 2
+## && // << BB !
+** #++  //* 6
+11+ =33: L(
+@@ BB BB BB# $
+KK 
+›› (
+MM RR WW ]] !(
+[[ ]] ]] ]]# $
+ee 
+ﬁﬁ (
+gg kk qq ww !(
+uu ww ww ww# $
+ 
+ﬂﬂ T
+
+ÅÅ 
+ÑÑ 
+çç 
+öö 
+•• 
+•• "
+ßß  %$
+
+àà #
+ââ  
+çç* 6
+
+èè+ =
+ëë: L0
+
+££ 
+ßß 
+ßß 
+ßß' (
+
+∞∞ 
+‡‡ T
+
+≤≤ 
+µµ 
+ææ 
+ÀÀ 
+—— 
+—— "
+””  %$
+
+ππ #
+∫∫  
+ææ* 6
+
+¿¿+ =
+¬¬: L0
+
+œœ 
+”” 
+”” 
+””' (
+
+€€ õ	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_07.cs
+
+ Gv
+ $$ >> NN YY hh ss 
+ÇÇ 
+úú 
+≥≥ 
+ÕÕ 
+
+!! 2
+## && // << BB !
+** #++  //* 6
+11+ =33: L(
+@@ BB BB BB# $
+KK 
+›› (
+MM RR WW ]] !(
+[[ ]] ]] ]]# $
+ee 
+ﬁﬁ (
+gg kk qq ww !(
+uu ww ww ww# $
+ 
+ﬂﬂ T
+
+ÅÅ 
+ÑÑ 
+çç 
+öö 
+•• 
+•• "
+ßß  %$
+
+àà #
+ââ  
+çç* 6
+
+èè+ =
+ëë: L0
+
+££ 
+ßß 
+ßß 
+ßß' (
+
+∞∞ 
+‡‡ T
+
+≤≤ 
+µµ 
+ææ 
+ÀÀ 
+—— 
+—— "
+””  %$
+
+ππ #
+∫∫  
+ææ* 6
+
+¿¿+ =
+¬¬: L0
+
+œœ 
+”” 
+”” 
+””' (
+
+€€ ©	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_08.cs
+
+ G`
+ *,, FF aa pp {{ 
+ää 
+ªª 
+’’  
+$$ +VV 
+§§ 
+
+)) 2
+++ .. 77 DD JJ !
+22 #33  77* 6
+99+ =;;: L(
+HH JJ JJ JJ# $
+SS 
+ÂÂ (
+UU ZZ __ ee !(
+cc ee ee ee# $
+mm 
+ÊÊ (
+oo ss yy  !(
+}}   # $
+
+áá 
+ÁÁ T
+
+ââ 
+åå 
+ïï 
+¢¢ 
+≠≠ 
+≠≠ "
+ØØ  %$
+
+êê #
+ëë  
+ïï* 6
+
+óó+ =
+ôô: L0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (
+
+∏∏ 
+ËË T
+
+∫∫ 
+ΩΩ 
+∆∆ 
+”” 
+ŸŸ 
+ŸŸ "
+€€  %$
+
+¡¡ #
+¬¬  
+∆∆* 6
+
+»»+ =
+  : L0
+
+◊◊ 
+€€ 
+€€ 
+€€' (
+
+„„ ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_09.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_10.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_11.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ Ï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_12.cs
+
+ G
+
+ P
+ !! ** 66 << !EE EE "GG  %
+%% #&&  *** 6
+,,+ =..: L(
+:: << << <<# $(
+CC GG GG GG' (
+RR 
+ΩΩ 2
+TT XX ]] cc !ll !(
+aa cc cc cc# $(
+jj ll ll ll# $
+uu 
+ææ Ä
+ww zz 
+ÉÉ 
+éé 
+óó 
+§§ 
+§§ "
+¶¶  %
+∞∞ 
+∞∞ "
+≤≤  % 
+~~ #  
+ÉÉ* 6
+
+ÖÖ+ =
+áá: L$
+
+íí #
+ìì  
+óó* 6
+
+ôô+ =
+õõ: L0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_13.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ ü
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_14.cs
+
+ G
+
+ 2
+ !! ** 77 == !
+%% #&&  *** 6
+,,+ =..: L(
+;; == == ==# $
+FF 
+ÿÿ (
+HH MM RR XX !(
+VV XX XX XX# $
+`` 
+ŸŸ (
+bb ff ll rr !(
+pp rr rr rr# $
+zz 
+⁄⁄ P
+||  
+àà 
+ïï 
+†† 
+†† "
+¢¢  %$
+
+ÉÉ #
+ÑÑ  
+àà* 6
+
+ää+ =
+åå: L0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (
+
+´´ 
+€€ T
+
+≠≠ 
+∞∞ 
+ππ 
+∆∆ 
+ÃÃ 
+ÃÃ "
+ŒŒ  %$
+
+¥¥ #
+µµ  
+ππ* 6
+
+ªª+ =
+ΩΩ: L0
+
+   
+ŒŒ 
+ŒŒ 
+ŒŒ' (
+
+÷÷ Ø
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_15.cs
+
+ G
+
+ 2
+ "" ++ 77 ?? !
+&& #''  ++* 6
+--+ =//: L(
+== ?? ?? ??# $
+MM 
+ˆˆ (
+OO UU YY aa !(
+__ aa aa aa# $
+nn 
+˜˜ *
+pp uu zz 
+ÇÇ !0
+
+ÄÄ 
+ÇÇ 
+ÇÇ 
+ÇÇ# $
+
+èè 
+¯¯ T
+
+ëë 
+ïï 
+ûû 
+™™ 
+∂∂ 
+∂∂ "
+∏∏  %$
+
+ôô #
+öö  
+ûû* 6
+
+††+ =
+¢¢: L0
+
+¥¥ 
+∏∏ 
+∏∏ 
+∏∏' (
+
+¬¬ 
+˘˘ T
+
+ƒƒ 
+»» 
+—— 
+›› 
+ÂÂ 
+ÂÂ "
+ÁÁ  %$
+
+ÃÃ #
+ÕÕ  
+——* 6
+
+””+ =
+’’: L0
+
+„„ 
+ÁÁ 
+ÁÁ 
+ÁÁ' (
+
+ÙÙ ï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_16.cs
+
+ G
+
+ (
+ !! ** 88 !
+%% #&&  *** 6
+,,+ =..: L(
+66 88 88 88# $
+BB 
+ÅÅ 
+DD HH OO !(
+MM OO OO OO# $
+XX 
+ÇÇ <
+ZZ ]] ff tt tt "vv  %
+aa #bb  ff* 6
+hh+ =jj: L(
+rr vv vv vv' (
+
+ Ò
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_17.cs
+
+ G
+
+ (
+ ## ,, 88 !
+'' (( ,,& 2
+..' 9006 H
+44 44 44  (
+66 88 88 88# $
+AA vv 
+CC EE JJ !
+FF FF FF  (
+HH JJ JJ JJ# $
+RR ww <
+TT UU ^^ jj jj "ll  %
+YY ZZ ^^& 2
+``' 9bb6 H
+ff ff ff  (
+hh ll ll ll' (
+
+tt ª	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_21.cs
+
+ G
+ 33 99 
+
+ (
+!! "" ++ 44 
+&& '' ++& 2
+--' 9//6 H
+77 44 
+77 "== !(
+;; == == ==# $
+EE  ee kk "
+FF  
+ìì 
+ôô "
+GG 
+≠≠ 
+≥≥ 
+
+II 
+QQ KK 
+ LL 
+
+®® MM (
+SS TT ]] ff 
+XX YY ]]& 2
+__' 9aa6 H
+ii ff (
+ii" 'tt tt "vv  %(
+rr vv vv vv' (0
+
+ÅÅ 
+ÇÇ 
+ãã 
+îî $
+
+ÜÜ 
+áá 
+ãã& 2
+
+çç' 9
+èè6 H
+
+óó 
+îî 0
+
+óó" '
+ùù 
+ùù "
+üü  %0
+
+õõ 
+üü 
+üü 
+üü' ($
+
+™™ 
+¨¨ 
+ÆÆ 
+
+±± 
+ÆÆ 
+
+±±! &
+∑∑ !0
+
+µµ 
+∑∑ 
+∑∑ 
+∑∑# $Œ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_22a.cs
+
+ H
+ &33 
+
+ (
+!! "" ++ 44S X
+&& '' ++& 2
+--' 9//6 H
+88 +XX 
+99 +qq 
+:: *{{ 
+
+<< 
+DD >> 
+]] ?? 
+vv @@ (
+FF GG PP YYX ]
+KK LL PP& 2
+RR' 9TT6 H(
+__ `` ii rrX ]
+dd ee ii& 2
+kk' 9mm6 H
+xx zz ||W \‹
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_22b.cs
+
+ H
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $≥
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_31.cs
+
+ G
+
+ 
+ 22 55 !(
+   !! ** 22 
+%% #&&  *** 6
+,,+ =..: L
+55 88 !(
+66 88 88 88# $
+
+@@ 
+GG BB 
+\\ CC 
+II NN QQ !
+KK MM NN 
+QQ TT !(
+RR TT TT TT# $
+^^ rr uu !(
+`` aa jj rr 
+ee #ff  jj* 6
+ll+ =nn: L(
+uu xx xx "zz  %(
+vv zz zz zz' (ï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_41.cs
+
+ G
+ :: 
+$ )   (
+           
+
+&& (
+(( )) 22 :: 
+-- .. 22& 2
+44' 9666 H
+
+>> 
+OO @@ 
+ee AA 
+DD #TT 
+DD( -HH (
+FF HH HH HH  
+QQ SS TT 
+WW #yy (
+WW( -[[ [[ ]] !(
+YY ]] ]] ]]# $(
+gg hh qq yy 
+ll mm qq& 2
+ss' 9uu6 Hï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_42.cs
+
+ G
+  55 (
+  (( 00 
+## $$ ((& 2
+**' 9,,6 H
+
+33 
+55 88 (
+66 88 88 88  
+@@ $JJ !
+BB DD EE 
+HH {{ 
+JJ MM (
+KK MM MM MM  
+TT $mm !(
+VV WW `` hh 
+[[ \\ ``& 2
+bb' 9dd6 H
+kk || (
+mm pp pp rr !(
+nn rr rr rr# $
+
+yy ˚
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_45.cs
+
+ G
+ "" ?? 
+ LL  [[  
+ aa  
+ÇÇ 
+   @@ 
+"" %% (
+## %% %% %%  
+
+++ (
+-- .. 77 ?? 
+22 33 77& 2
+99' 9;;6 H
+
+DD 
+VV FF 
+nn GG 
+JJ \\ 
+LL OO (
+MM OO OO OO  
+XX ZZ [[ 
+__ 
+ÉÉ (
+aa dd dd ff !(
+bb ff ff ff# $*
+pp qq zz 
+ÇÇ 
+uu vv zz& 2
+||' 9~~6 HÄ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_51a.cs
+
+ H
+
+ (
+  (( 00S X
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@W \(
+FF GG PP XXW \
+KK LL PP& 2
+RR' 9TT6 H‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_51b.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_52a.cs
+
+ H
+
+ (
+  (( 00S X
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@W \(
+FF GG PP XXW \
+KK LL PP& 2
+RR' 9TT6 H¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_52b.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_52c.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_53a.cs
+
+ H
+
+ (
+  (( 00S X
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@W \(
+FF GG PP XXW \
+KK LL PP& 2
+RR' 9TT6 H¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_53b.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_53c.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_53d.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_54a.cs
+
+ H
+
+ (
+  (( 00S X
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@W \(
+FF GG PP XXW \
+KK LL PP& 2
+RR' 9TT6 H¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_54b.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_54c.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_54d.cs
+
+ H
+
+ 
+# (S X
+
+$$ "
+$$' ,&&W \
+
+** "
+**' ,,,W \‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_54e.cs
+
+ H
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ù
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_61a.cs
+
+ H
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $‡
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_61b.cs
+
+ H
+
+ (
+  (( 00 
+## $$ ((& 2
+**' 9,,6 H
+
+66 #
+88 :: ;; 
+
+?? #(
+AA BB KK SS 
+FF GG KK& 2
+MM' 9OO6 H‡
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_66a.cs
+
+ H
+
+ (
+  (( 11 
+## $$ ((& 2
+**' 9,,6 H
+00 11 22S ]
+
+66 
+== 88 
+HH 99 
+?? AA CC 
+BB CC DDW a(
+JJ KK TT ]] 
+OO PP TT& 2
+VV' 9XX6 H
+\\ ]] ^^W añ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_66b.cs
+
+ H
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $“
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_67a.cs
+
+ HF
+ 55 55' 0GG GG' 0aa aa' 0(
+ 66 #HH #bb #
+
+!! (
+## $$ -- 66& +
+(( )) --& 2
+//' 9116 H
+55  66 77S a
+
+;; 
+BB == 
+MM >> 
+DD FF HH& +
+GG  HH IIW e(
+OO PP YY bb& +
+TT UU YY& 2
+[[' 9]]6 H
+aa  bb ccW eñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_67b.cs
+
+ H
+
+ 
+l z "
+ !! (
+ !! !! !!  
+
+** "
+**p ~,, "
+,, // (
+-- // // //  
+
+66 "
+66p ~88 "(
+88 ;; ;; == !(
+99 == == ==# $ 
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_68a.cs
+
+ H<
+    )) ?? FF OO 
+
+ 
+$$ %% ))& 2
+++' 9--6 H
+
+55 
+<< 77 
+DD 88 
+JJ KK OO& 2
+QQ' 9SS6 H‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_68b.cs
+
+ H
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $Ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_71a.cs
+
+ H
+
+ (
+  (( 00[ `
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@_ d(
+FF GG PP XX_ d
+KK LL PP& 2
+RR' 9TT6 Hñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_71b.cs
+
+ H
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $ÿ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_72a.cs
+
+ H
+
+ <
+    )) 22 #33 #44 #
+$$ %% ))& 2
+++' 9--6 H2
+11  22 33 44 55S a
+
+99 
+@@ ;; 
+MM << 2
+BB DD FF #GG #HH #2
+EE  FF GG HH IIW e<
+OO PP YY bb #cc #dd #
+TT UU YY& 2
+[[' 9]]6 H2
+aa  bb cc dd eeW eñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_72b.cs
+
+ H
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $ÿ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_73a.cs
+
+ H
+
+ <
+    )) 22  %33  %44  %
+$$ %% ))& 2
+++' 9--6 H2
+11 '22 33 44 55S b
+
+99 
+@@ ;; 
+MM << 2
+BB DD FF  %GG  %HH  %2
+EE 'FF GG HH IIW f<
+OO PP YY bb  %cc  %dd  %
+TT UU YY& 2
+[[' 9]]6 H2
+aa 'bb cc dd eeW fñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_73b.cs
+
+ H
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $ÿ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_74a.cs
+
+ H
+
+ <
+    )) 22 $33 $44 $
+$$ %% ))& 2
+++' 9--6 H2
+11 +22 33 44 55S b
+
+99 
+@@ ;; 
+MM << 2
+BB DD FF $GG $HH $2
+EE +FF GG HH IIW f<
+OO PP YY bb $cc $dd $
+TT UU YY& 2
+[[' 9]]6 H2
+aa +bb cc dd eeW fñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_74b.cs
+
+ H
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $¢
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_75a.cs
+
+ H
+
+ (
+!! "" ++ ::! &
+&& '' ++& 2
+--' 9//6 H
+44 ;; ==W f
+77 :: 
+88 :: ;;" $
+??& 5AAZ i
+
+FF 
+MM HH 
+tt II (
+OO PP YY hh! &
+TT UU YY& 2
+[[' 9]]6 H
+bb ii kk[ j
+ee hh 
+ff hh ii" $
+mm& 5ooZ i,
+vv ww 
+ÄÄ 
+èè! & 
+{{ || 
+ÄÄ& 2
+
+ÇÇ' 9
+ÑÑ6 H$
+
+ââ 
+êê 
+íí[ j
+
+åå 
+èè $
+
+çç 
+èè 
+êê" $
+
+îî& 5
+ññZ i‘
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_75b.cs
+
+ H
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ j¬
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_81a.cs
+
+ H
+
+ (
+  (( 11 
+## $$ ((& 2
+**' 9,,6 H
+00O Y11 
+
+55 
+<< 77 
+FF 88 
+>> @@ BB 
+AAO YBB (
+HH II RR [[ 
+MM NN RR& 2
+TT' 9VV6 H
+ZZO Y[[ ´
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_81_bad.cs
+
+ K
+
+ 
+$ )   (
+           ¯
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_81_base.cs
+
+ U
+
+ 
+
+$ )√
+‘C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_81_goodB2G.cs
+
+ O
+
+ (
+$ )!! !! ## !(
+ ## ## ### $Ø
+‘C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_for_loop_81_goodG2B.cs
+
+ O
+
+ 
+$ )!! (
+ !! !! !!  ∫
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_01.cs
+
+ D
+
+ (
+   !! ** 66 !
+%% && **& 2
+,,' 9..6 H(
+22 66 66 66# $(
+33  :: DD FF 
+<<# +>>S [
+II 'KKQ Y
+
+QQ 
+XX SS 
+|| TT 
+ZZ \\ aa !(
+]] aa aa aa# $(
+^^  ee oo qq 
+gg# +iiS [
+tt 'vvQ YD
+~~  
+àà 
+ëë 
+ëë 
+óó  %$
+
+ÉÉ 
+ÑÑ 
+àà& 2
+
+ää' 9
+åå6 H0
+
+ìì 
+óó 
+óó 
+óó' (0
+
+îî  $
+õõ 
+•• 
+ßß 
+
+ùù' /
+üüW _
+
+™™# +
+¨¨U ]ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_02.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_03.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» §
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_04.cs
+
+ Dd
+"" )(( BB ss 
+òò 
+££ 
+»» 
+êê 
+™™  
+## *hh 
+‚‚ 
+
+%% 2
+'' ** 33 @@ HH  %
+.. #//  33* 6
+55+ =77: L(
+DD HH HH HH' ((
+EE  $LL VV XX 
+NN' /PPW _
+[[# +]]U ]
+ee 
+—— (
+gg ll qq yy  %(
+uu yy yy yy' (,
+vv  $}} 
+áá 
+ââ 
+' /
+ÅÅW _
+
+åå# +
+ééU ]
+
+ïï 
+““ 0
+
+óó 
+õõ 
+°° 
+©©  %0
+
+•• 
+©© 
+©© 
+©©' (0
+
+¶¶  $
+≠≠ 
+∑∑ 
+ππ 
+
+ØØ' /
+±±W _
+
+ºº# +
+ææU ]
+
+≈≈ 
+”” T
+
+«« 
+   
+”” 
+‡‡ 
+ÍÍ 
+ÍÍ "
+$ )$
+
+ŒŒ #
+œœ  
+””* 6
+
+’’+ =
+◊◊: L0
+
+ÏÏ 
+ 
+  !
++ ,0
+
+ÌÌ$ (
+ÙÙ  
+˛˛  
+ÄÄ  
+
+ˆˆ+ 3
+¯¯[ c
+
+ÉÉ' /
+ÖÖY a
+
+çç 
+‘‘ T
+
+èè 
+íí 
+õõ 
+®® 
+≠≠ 
+≠≠ "
+≥≥$ )$
+
+ññ #
+óó  
+õõ* 6
+
+ùù+ =
+üü: L0
+
+ØØ 
+≥≥ 
+≥≥  !
+≥≥+ ,0
+
+∞∞$ (
+∑∑  
+¡¡  
+√√  
+
+ππ+ 3
+ªª[ c
+
+∆∆' /
+»»Y a
+
+œœ §
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_05.cs
+
+ Dd
+!! '' AA rr 
+óó 
+¢¢ 
+«« 
+èè 
+©©  
+"" gg 
+·· 
+
+$$ 2
+&& )) 22 ?? GG  %
+-- #..  22* 6
+44+ =66: L(
+CC GG GG GG' ((
+DD  $KK UU WW 
+MM' /OOW _
+ZZ# +\\U ]
+dd 
+–– (
+ff kk pp xx  %(
+tt xx xx xx' (,
+uu  $|| 
+ÜÜ 
+àà 
+~~' /
+ÄÄW _
+
+ãã# +
+ççU ]
+
+îî 
+—— 0
+
+ññ 
+öö 
+†† 
+®®  %0
+
+§§ 
+®® 
+®® 
+®®' (0
+
+••  $
+¨¨ 
+∂∂ 
+∏∏ 
+
+ÆÆ' /
+∞∞W _
+
+ªª# +
+ΩΩU ]
+
+ƒƒ 
+““ T
+
+∆∆ 
+…… 
+““ 
+ﬂﬂ 
+ÈÈ 
+ÈÈ "
+ÔÔ$ )$
+
+ÕÕ #
+ŒŒ  
+““* 6
+
+‘‘+ =
+÷÷: L0
+
+ÎÎ 
+ÔÔ 
+ÔÔ  !
+ÔÔ+ ,0
+
+ÏÏ$ (
+ÛÛ  
+˝˝  
+ˇˇ  
+
+ıı+ 3
+˜˜[ c
+
+ÇÇ' /
+ÑÑY a
+
+åå 
+”” T
+
+éé 
+ëë 
+öö 
+ßß 
+¨¨ 
+¨¨ "
+≤≤$ )$
+
+ïï #
+ññ  
+öö* 6
+
+úú+ =
+ûû: L0
+
+ÆÆ 
+≤≤ 
+≤≤  !
+≤≤+ ,0
+
+ØØ$ (
+∂∂  
+¿¿  
+¬¬  
+
+∏∏+ 3
+∫∫[ c
+
+≈≈' /
+««Y a
+
+ŒŒ ñ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_06.cs
+
+ Dz
+!! (&& @@ ff qq 
+ññ 
+°° 
+∆∆ 
+‡‡ 
+éé 
+®® 
+
+## 2
+%% (( 11 >> FF  %
+,, #--  11* 6
+33+ =55: L(
+BB FF FF FF' ((
+CC  $JJ TT VV 
+LL' /NNW _
+YY# +[[U ]
+cc 
+œœ (
+ee jj oo ww  %(
+ss ww ww ww' (,
+tt  ${{ 
+ÖÖ 
+áá 
+}}' /W _
+
+ää# +
+ååU ]
+
+ìì 
+–– 0
+
+ïï 
+ôô 
+üü 
+ßß  %0
+
+££ 
+ßß 
+ßß 
+ßß' (0
+
+§§  $
+´´ 
+µµ 
+∑∑ 
+
+≠≠' /
+ØØW _
+
+∫∫# +
+ººU ]
+
+√√ 
+—— T
+
+≈≈ 
+»» 
+—— 
+ﬁﬁ 
+ËË 
+ËË "
+ÓÓ$ )$
+
+ÃÃ #
+ÕÕ  
+——* 6
+
+””+ =
+’’: L0
+
+ÍÍ 
+ÓÓ 
+ÓÓ  !
+ÓÓ+ ,0
+
+ÎÎ$ (
+ÚÚ  
+¸¸  
+˛˛  
+
+ÙÙ+ 3
+ˆˆ[ c
+
+ÅÅ' /
+ÉÉY a
+
+ãã 
+““ T
+
+çç 
+êê 
+ôô 
+¶¶ 
+´´ 
+´´ "
+±±$ )$
+
+îî #
+ïï  
+ôô* 6
+
+õõ+ =
+ùù: L0
+
+≠≠ 
+±± 
+±±  !
+±±+ ,0
+
+ÆÆ$ (
+µµ  
+øø  
+¡¡  
+
+∑∑+ 3
+ππ[ c
+
+ƒƒ' /
+∆∆Y a
+
+ÕÕ ñ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_07.cs
+
+ Dz
+!! && @@ ff qq 
+ññ 
+°° 
+∆∆ 
+‡‡ 
+éé 
+®® 
+
+## 2
+%% (( 11 >> FF  %
+,, #--  11* 6
+33+ =55: L(
+BB FF FF FF' ((
+CC  $JJ TT VV 
+LL' /NNW _
+YY# +[[U ]
+cc 
+œœ (
+ee jj oo ww  %(
+ss ww ww ww' (,
+tt  ${{ 
+ÖÖ 
+áá 
+}}' /W _
+
+ää# +
+ååU ]
+
+ìì 
+–– 0
+
+ïï 
+ôô 
+üü 
+ßß  %0
+
+££ 
+ßß 
+ßß 
+ßß' (0
+
+§§  $
+´´ 
+µµ 
+∑∑ 
+
+≠≠' /
+ØØW _
+
+∫∫# +
+ººU ]
+
+√√ 
+—— T
+
+≈≈ 
+»» 
+—— 
+ﬁﬁ 
+ËË 
+ËË "
+ÓÓ$ )$
+
+ÃÃ #
+ÕÕ  
+——* 6
+
+””+ =
+’’: L0
+
+ÍÍ 
+ÓÓ 
+ÓÓ  !
+ÓÓ+ ,0
+
+ÎÎ$ (
+ÚÚ  
+¸¸  
+˛˛  
+
+ÙÙ+ 3
+ˆˆ[ c
+
+ÅÅ' /
+ÉÉY a
+
+ãã 
+““ T
+
+çç 
+êê 
+ôô 
+¶¶ 
+´´ 
+´´ "
+±±$ )$
+
+îî #
+ïï  
+ôô* 6
+
+õõ+ =
+ùù: L0
+
+≠≠ 
+±± 
+±±  !
+±±+ ,0
+
+ÆÆ$ (
+µµ  
+øø  
+¡¡  
+
+∑∑+ 3
+ππ[ c
+
+ƒƒ' /
+∆∆Y a
+
+ÕÕ ®
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_08.cs
+
+ Dd
+!! *.. HH yy 
+ûû 
+©© 
+ŒŒ 
+ññ 
+∞∞  
+&& +nn 
+ËË 
+
+++ 2
+-- 00 99 FF NN  %
+44 #55  99* 6
+;;+ ===: L(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+◊◊ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ÿÿ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ŸŸ T
+
+ÕÕ 
+–– 
+ŸŸ 
+ÊÊ 
+ 
+ "
+ˆˆ$ )$
+
+‘‘ #
+’’  
+ŸŸ* 6
+
+€€+ =
+››: L0
+
+ÚÚ 
+ˆˆ 
+ˆˆ  !
+ˆˆ+ ,0
+
+ÛÛ$ (
+˙˙  
+ÑÑ  
+ÜÜ  
+
+¸¸+ 3
+˛˛[ c
+
+ââ' /
+ããY a
+
+ìì 
+⁄⁄ T
+
+ïï 
+òò 
+°° 
+ÆÆ 
+≥≥ 
+≥≥ "
+ππ$ )$
+
+úú #
+ùù  
+°°* 6
+
+££+ =
+••: L0
+
+µµ 
+ππ 
+ππ  !
+ππ+ ,0
+
+∂∂$ (
+ΩΩ  
+««  
+……  
+
+øø+ 3
+¡¡[ c
+
+ÃÃ' /
+ŒŒY a
+
+’’ ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_09.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_10.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_11.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» ”
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_12.cs
+
+ D
+
+ P
+   ## ,, 88 @@  %\\ \\ "bb$ )
+'' #((  ,,* 6
+..+ =00: L(
+<< @@ @@ @@' ((
+==  $DD NN PP 
+FF' /HHW _
+SS# +UUU ](
+^^ bb bb  !bb+ ,(
+__$ (ff  pp  rr  
+hh+ 3jj[ c
+uu' /wwY a
+
+ÅÅ 
+∆∆ <
+
+ÉÉ 
+áá 
+åå 
+îî  %
+≥≥  %0
+
+êê 
+îî 
+îî 
+îî' (0
+
+ëë  $
+òò 
+¢¢ 
+§§ 
+
+öö' /
+úúW _
+
+ßß# +
+©©U ]0
+
+ØØ 
+≥≥ 
+≥≥ 
+≥≥' (0
+
+∞∞  $
+∑∑ 
+¡¡ 
+√√ 
+
+ππ' /
+ªªW _
+
+∆∆# +
+»»U ]
+
+–– 
+«« Ñ
+
+““ 
+’’ 
+ﬁﬁ 
+ÈÈ 
+ÚÚ 
+˛˛ 
+˛˛ "
+ÑÑ$ )
+°° 
+°° "
+ßß$ )$
+
+ŸŸ #
+⁄⁄  
+ﬁﬁ* 6
+
+‡‡+ =
+‚‚: L$
+
+ÌÌ #
+ÓÓ  
+ÚÚ* 6
+
+ÙÙ+ =
+ˆˆ: L0
+
+ÄÄ 
+ÑÑ 
+ÑÑ  !
+ÑÑ+ ,0
+
+ÅÅ$ (
+àà  
+íí  
+îî  
+
+ää+ 3
+åå[ c
+
+óó' /
+ôôY a0
+
+££ 
+ßß 
+ßß  !
+ßß+ ,0
+
+§§$ (
+´´  
+µµ  
+∑∑  
+
+≠≠+ 3
+ØØ[ c
+
+∫∫' /
+ººY a
+
+√√ ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_13.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» ö
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_14.cs
+
+ D
+
+ 2
+   ## ,, 99 AA  %
+'' #((  ,,* 6
+..+ =00: L(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ]
+^^ 
+   (
+`` ee jj rr  %(
+nn rr rr rr' (,
+oo  $vv 
+ÄÄ 
+ÇÇ 
+xx' /zzW _
+
+ÖÖ# +
+ááU ]
+
+éé 
+ÀÀ 0
+
+êê 
+îî 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ÃÃ T
+
+¿¿ 
+√√ 
+ÃÃ 
+ŸŸ 
+„„ 
+„„ "
+ÈÈ$ )$
+
+«« #
+»»  
+ÃÃ* 6
+
+ŒŒ+ =
+––: L0
+
+ÂÂ 
+ÈÈ 
+ÈÈ  !
+ÈÈ+ ,0
+
+ÊÊ$ (
+ÌÌ  
+˜˜  
+˘˘  
+
+ÔÔ+ 3
+ÒÒ[ c
+
+¸¸' /
+˛˛Y a
+
+ÜÜ 
+ÕÕ T
+
+àà 
+ãã 
+îî 
+°° 
+¶¶ 
+¶¶ "
+¨¨$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+»» û
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_15.cs
+
+ D
+
+ 2
+   $$ -- 99 CC  %
+(( #))  --* 6
+//+ =11: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+ee 
+ËË (
+gg mm qq {{  %(
+ww {{ {{ {{' (,
+xx  $ 
+ââ 
+ãã 
+
+ÅÅ' /
+ÉÉW _
+
+éé# +
+êêU ]
+
+úú 
+ÈÈ 0
+
+ûû 
+££ 
+®® 
+≤≤  %0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (0
+
+ØØ  $
+∂∂ 
+¿¿ 
+¬¬ 
+
+∏∏' /
+∫∫W _
+
+≈≈# +
+««U ]
+
+”” 
+ÍÍ T
+
+’’ 
+ŸŸ 
+‚‚ 
+ÓÓ 
+˘˘ 
+˘˘ "
+ˇˇ$ )$
+
+›› #
+ﬁﬁ  
+‚‚* 6
+
+‰‰+ =
+ÊÊ: L0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+ùù 
+ÎÎ T
+
+üü 
+££ 
+¨¨ 
+∏∏ 
+øø 
+øø "
+≈≈$ )$
+
+ßß #
+®®  
+¨¨* 6
+
+ÆÆ+ =
+∞∞: L0
+
+¡¡ 
+≈≈ 
+≈≈  !
+≈≈+ ,0
+
+¬¬$ (
+……  
+””  
+’’  
+
+ÀÀ+ 3
+ÕÕ[ c
+
+ÿÿ' /
+⁄⁄Y a
+
+ÊÊ ∆
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_16.cs
+
+ D
+
+ (
+   ## ,, <<  %
+'' #((  ,,* 6
+..+ =00: L(
+88 << << <<' ((
+99  $@@ JJ LL 
+BB' /DDW _
+OO# +QQU ]
+ZZ 
+∆∆ 
+\\ `` ii  %(
+ee ii ii ii' ((
+ff  $mm ww yy 
+oo' /qqW _
+||# +~~U ]
+
+ÜÜ 
+«« H
+
+àà 
+ãã 
+îî 
+°° 
+°° "
+ßß$ )$
+
+èè #
+êê  
+îî* 6
+
+ññ+ =
+òò: L0
+
+££ 
+ßß 
+ßß  !
+ßß+ ,0
+
+§§$ (
+´´  
+µµ  
+∑∑  
+
+≠≠+ 3
+ØØ[ c
+
+∫∫' /
+ººY a
+
+ƒƒ ¨
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_17.cs
+
+ D
+
+ (
+   %% .. <<  %
+)) ** ..& 2
+00' 9226 H
+66 66 66  (
+88 << << <<' ((
+99  $@@ JJ LL 
+BB' /DDW _
+OO# +QQU ]
+YY 
+ªª 
+[[ ]] dd  %
+^^ ^^ ^^  (
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÄÄ 
+ºº H
+
+ÇÇ 
+ÉÉ 
+åå 
+óó 
+óó "
+ùù$ )$
+
+áá 
+àà 
+åå& 2
+
+éé' 9
+êê6 H$
+
+îî 
+îî 
+îî  0
+
+ôô 
+ùù 
+ùù  !
+ùù+ ,0
+
+öö$ (
+°°  
+´´  
+≠≠  
+
+££+ 3
+••[ c
+
+∞∞' /
+≤≤Y a
+
+ππ ÷
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_21.cs
+
+ D
+ 55 ;; 
+
+!! (
+## $$ -- 66 
+(( )) --& 2
+//' 9116 H
+99 66 
+99 "AA  %(
+== AA AA AA' ((
+>>  $EE OO QQ 
+GG' /IIW _
+TT# +VVU ] 
+]]  }} 
+ÉÉ "
+^^  
+¬¬ 
+»» "
+__ 
+ÛÛ 
+˘˘ 
+
+aa 
+ii cc 
+
+ÆÆ dd 
+
+ÓÓ ee (
+kk ll uu ~~ 
+pp qq uu& 2
+ww' 9yy6 H
+
+ÅÅ ~~ 0
+
+ÅÅ" '
+ãã 
+ãã "
+ëë$ )0
+
+çç 
+ëë 
+ëë  !
+ëë+ ,0
+
+éé$ (
+ïï  
+üü  
+°°  
+
+óó+ 3
+ôô[ c
+
+§§' /
+¶¶Y a0
+
+∞∞ 
+±± 
+∫∫ 
+√√ $
+
+µµ 
+∂∂ 
+∫∫& 2
+
+ºº' 9
+ææ6 H
+
+∆∆ 
+√√ 0
+
+∆∆" '
+ÀÀ 
+ÀÀ "
+——$ )0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a$
+
+ 
+ÚÚ 
+ÙÙ 
+
+˜˜ 
+ÙÙ 
+
+˜˜! &
+ˇˇ  %0
+
+˚˚ 
+ˇˇ 
+ˇˇ 
+ˇˇ' (0
+
+¸¸  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]À
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_22a.cs
+
+ E
+ &33 
+
+ (
+!! "" ++ 44P U
+&& '' ++& 2
+--' 9//6 H
+88 +XX 
+99 +qq 
+:: *{{ 
+
+<< 
+DD >> 
+]] ?? 
+vv @@ (
+FF GG PP YYU Z
+KK LL PP& 2
+RR' 9TT6 H(
+__ `` ii rrU Z
+dd ee ii& 2
+kk' 9mm6 H
+xx zz ||T YÎ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_22b.cs
+
+ E
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_31.cs
+
+ D
+
+ 
+   44 77 !(
+"" ## ,, 44 
+'' #((  ,,* 6
+..+ =00: L
+77 <<  %(
+88 << << <<' ((
+99  $@@ JJ LL 
+BB' /DDW _
+OO# +QQU ]
+
+XX 
+__ ZZ 
+
+ää [[ 
+aa ff ii !
+cc ee ff 
+ii nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]$
+
+åå 
+†† 
+££ !0
+
+éé 
+èè 
+òò 
+†† $
+
+ìì #
+îî  
+òò* 6
+
+öö+ =
+úú: L0
+
+££ 
+•• 
+•• "
+´´$ )0
+
+ßß 
+´´ 
+´´  !
+´´+ ,0
+
+®®$ (
+ØØ  
+ππ  
+ªª  
+
+±±+ 3
+≥≥[ c
+
+ææ' /
+¿¿Y a“
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_41.cs
+
+ D
+ RR 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+>> (
+@@ AA JJ RR 
+EE FF JJ& 2
+LL' 9NN6 H
+
+VV 
+}} XX 
+
+™™ YY 
+\\ #
+ÇÇ 
+\\( -bb !(
+^^ bb bb bb# $(
+__  ff pp rr 
+hh# +jjS [
+uu 'wwQ Y"
+ 
+ÅÅ 
+ÇÇ 
+
+ÖÖ #
+ææ 0
+
+ÖÖ( -
+àà 
+àà 
+éé  %0
+
+ää 
+éé 
+éé 
+éé' (0
+
+ãã  $
+íí 
+úú 
+ûû 
+
+îî' /
+ññW _
+
+°°# +
+££U ]0
+
+¨¨ 
+≠≠ 
+∂∂ 
+ææ $
+
+±± 
+≤≤ 
+∂∂& 2
+
+∏∏' 9
+∫∫6 H“
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_42.cs
+
+ D
+  77 (
+   !! ** 22 
+%% && **& 2
+,,' 9..6 H
+
+55 
+77 << !(
+88 << << <<# $(
+99  @@ JJ LL 
+BB# +DDS [
+OO 'QQQ Y
+XX $bb !
+ZZ \\ ]] 
+`` 
+¿¿ 
+bb gg !(
+cc gg gg gg# $(
+dd  kk uu ww 
+mm# +ooS [
+zz '||Q Y
+
+ÇÇ $
+õõ !0
+
+ÑÑ 
+ÖÖ 
+éé 
+ññ $
+
+ââ 
+ää 
+éé& 2
+
+êê' 9
+íí6 H
+
+ôô 
+¡¡ 0
+
+õõ 
+ùù 
+ùù 
+££  %0
+
+üü 
+££ 
+££ 
+££' (0
+
+††  $
+ßß 
+±± 
+≥≥ 
+
+©©' /
+´´W _
+
+∂∂# +
+∏∏U ]
+
+ææ º	
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_45.cs
+
+ D
+ $$ WW  
+ dd  
+ââ "
+   
+èè  
+«« 
+"" XX 
+$$ )) !(
+%% )) )) ))# $(
+&&  -- 77 99 
+//# +11S [
+<< '>>Q Y
+
+CC (
+EE FF OO WW 
+JJ KK OO& 2
+QQ' 9SS6 H
+
+\\ 
+
+ÑÑ ^^ 
+
+≥≥ __ 
+bb 
+ää 
+dd ii !(
+ee ii ii ii# $(
+ff  mm ww yy 
+oo# +qqS [
+|| '~~Q Y$
+
+ÜÜ 
+àà 
+ââ 
+
+çç 
+»» 0
+
+èè 
+ëë 
+ëë 
+óó  %0
+
+ìì 
+óó 
+óó 
+óó' (0
+
+îî  $
+õõ 
+•• 
+ßß 
+
+ùù' /
+üüW _
+
+™™# +
+¨¨U ]0
+
+µµ 
+∂∂ 
+øø 
+«« $
+
+∫∫ 
+ªª 
+øø& 2
+
+¡¡' 9
+√√6 H˝
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_51a.cs
+
+ E
+
+ (
+  (( 00P U
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@T Y(
+FF GG PP XXT Y
+KK LL PP& 2
+RR' 9TT6 H’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_51b.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˝
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_52a.cs
+
+ E
+
+ (
+  (( 00P U
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@T Y(
+FF GG PP XXT Y
+KK LL PP& 2
+RR' 9TT6 Hø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_52b.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Y’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_52c.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˝
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_53a.cs
+
+ E
+
+ (
+  (( 00P U
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@T Y(
+FF GG PP XXT Y
+KK LL PP& 2
+RR' 9TT6 Hø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_53b.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_53c.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Y’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_53d.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˝
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_54a.cs
+
+ E
+
+ (
+  (( 00P U
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@T Y(
+FF GG PP XXT Y
+KK LL PP& 2
+RR' 9TT6 Hø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_54b.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_54c.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Yø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_54d.cs
+
+ E
+
+ 
+# (  P U
+
+&& "
+&&' ,((T Y
+
+,, "
+,,' ,..T Y’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_54e.cs
+
+ E
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˚
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_61a.cs
+
+ E
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
+
+ÜÜ# +
+ààU ]›
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_61b.cs
+
+ E
+
+ (
+  (( 00 
+## $$ ((& 2
+**' 9,,6 H
+
+66 #
+88 :: ;; 
+
+?? #(
+AA BB KK SS 
+FF GG KK& 2
+MM' 9OO6 H›
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_66a.cs
+
+ E
+
+ (
+  (( 11 
+## $$ ((& 2
+**' 9,,6 H
+00 11 22P Z
+
+66 
+== 88 
+HH 99 
+?? AA CC 
+BB CC DDT ^(
+JJ KK TT ]] 
+OO PP TT& 2
+VV' 9XX6 H
+\\ ]] ^^T ^ô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_66b.cs
+
+ E
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]œ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_67a.cs
+
+ EF
+ 55 55' 0GG GG' 0aa aa' 0(
+ 66 #HH #bb #
+
+!! (
+## $$ -- 66& +
+(( )) --& 2
+//' 9116 H
+55  66 77P ^
+
+;; 
+BB == 
+MM >> 
+DD FF HH& +
+GG  HH IIT b(
+OO PP YY bb& +
+TT UU YY& 2
+[[' 9]]6 H
+aa  bb ccT bô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_67b.cs
+
+ E
+
+ 
+i w   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBm {DD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddm {ff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]«
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_68a.cs
+
+ E<
+    )) ?? FF OO 
+
+ 
+$$ %% ))& 2
+++' 9--6 H
+
+55 
+<< 77 
+DD 88 
+JJ KK OO& 2
+QQ' 9SS6 H◊
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_68b.cs
+
+ E
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]˝
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_71a.cs
+
+ E
+
+ (
+  (( 00X ]
+## $$ ((& 2
+**' 9,,6 H
+
+44 
+;; 66 
+DD 77 
+== ?? @@\ a(
+FF GG PP XX\ a
+KK LL PP& 2
+RR' 9TT6 Hô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_71b.cs
+
+ E
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_72a.cs
+
+ E
+
+ <
+    )) 22 #33 #44 #
+$$ %% ))& 2
+++' 9--6 H2
+11  22 33 44 55P ^
+
+99 
+@@ ;; 
+MM << 2
+BB DD FF #GG #HH #2
+EE  FF GG HH IIT b<
+OO PP YY bb #cc #dd #
+TT UU YY& 2
+[[' 9]]6 H2
+aa  bb cc dd eeT bô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_72b.cs
+
+ E
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_73a.cs
+
+ E
+
+ <
+    )) 22  %33  %44  %
+$$ %% ))& 2
+++' 9--6 H2
+11 '22 33 44 55P _
+
+99 
+@@ ;; 
+MM << 2
+BB DD FF  %GG  %HH  %2
+EE 'FF GG HH IIT c<
+OO PP YY bb  %cc  %dd  %
+TT UU YY& 2
+[[' 9]]6 H2
+aa 'bb cc dd eeT cô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_73b.cs
+
+ E
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]’
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_74a.cs
+
+ E
+
+ <
+    )) 22 $33 $44 $
+$$ %% ))& 2
+++' 9--6 H2
+11 +22 33 44 55P _
+
+99 
+@@ ;; 
+MM << 2
+BB DD FF $GG $HH $2
+EE +FF GG HH IIT c<
+OO PP YY bb $cc $dd $
+TT UU YY& 2
+[[' 9]]6 H2
+aa +bb cc dd eeT cô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_74b.cs
+
+ E
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]ü
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_75a.cs
+
+ E
+
+ (
+!! "" ++ ::! &
+&& '' ++& 2
+--' 9//6 H
+44 ;; ==T c
+77 :: 
+88 :: ;;" $
+??& 5AAZ i
+
+FF 
+MM HH 
+tt II (
+OO PP YY hh! &
+TT UU YY& 2
+[[' 9]]6 H
+bb ii kkX g
+ee hh 
+ff hh ii" $
+mm& 5ooZ i,
+vv ww 
+ÄÄ 
+èè! & 
+{{ || 
+ÄÄ& 2
+
+ÇÇ' 9
+ÑÑ6 H$
+
+ââ 
+êê 
+ííX g
+
+åå 
+èè $
+
+çç 
+èè 
+êê" $
+
+îî& 5
+ññZ iç	
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_75b.cs
+
+ E
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ jø
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_81a.cs
+
+ E
+
+ (
+  (( 11 
+## $$ ((& 2
+**' 9,,6 H
+00L V11 
+
+55 
+<< 77 
+FF 88 
+>> @@ BB 
+AAL VBB (
+HH II RR [[ 
+MM NN RR& 2
+TT' 9VV6 H
+ZZL V[[ ˛
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_81_bad.cs
+
+ H
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Yı
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_81_base.cs
+
+ R
+
+ 
+
+$ )ñ
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_81_goodB2G.cs
+
+ L
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]Ç
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Environment_write_81_goodG2B.cs
+
+ L
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q YÍ
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_01.cs
+
+ @
+
+ (
+   !! 00 !@@ 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :(
+>> @@ @@ @@  
+
+GG 
+NN II 
+\\ JJ 
+PP RR UU (
+SS UU UU UU  >
+^^ __ nn !~~ ~~ 
+ÄÄ !
+dd$ &ii* ,
+ii 'jj $nn. :
+pp/ Arr> P
+ww 'yy2 :.
+|| 
+ÄÄ 
+ÄÄ 
+ÄÄ# $∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_02.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ ∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_03.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ ƒ
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_04.cs
+
+ @b
+"" )(( NN ii xx 
+ÉÉ 
+íí 
+œœ 
+ıı  
+## *^^ 
+∏∏ 
+
+%% 2
+'' ** 99  %LL RR !
+//( *44. 0
+44 +55 (992 >
+;;3 E==B T
+BB# +DD6 >(
+PP RR RR RR# $
+[[ 
+ÖÖ (
+]] bb gg mm !(
+kk mm mm mm# $
+uu 
+ÜÜ ,
+ww {{ 
+ÅÅ 
+áá !0
+
+ÖÖ 
+áá 
+áá 
+áá# $
+
+èè 
+áá T
+
+ëë 
+îî 
+££  %
+∂∂ 
+¡¡ 
+¡¡ "
+√√  %
+
+ôô( *
+ûû. 0$
+
+ûû +
+üü (
+££2 >
+
+••3 E
+ßßB T
+
+¨¨# +
+ÆÆ6 >0
+
+øø 
+√√ 
+√√ 
+√√' (
+
+ÃÃ 
+àà T
+
+ŒŒ 
+—— 
+‡‡  %
+ÛÛ 
+˘˘ 
+˘˘ "
+˚˚  %
+
+÷÷( *
+€€. 0$
+
+€€ +
+‹‹ (
+‡‡2 >
+
+‚‚3 E
+‰‰B T
+
+ÈÈ# +
+ÎÎ6 >0
+
+˜˜ 
+˚˚ 
+˚˚ 
+˚˚' (
+
+ÉÉ ƒ
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_05.cs
+
+ @b
+!! '' MM hh ww 
+ÇÇ 
+ëë 
+ŒŒ 
+ÙÙ  
+"" ]] 
+∑∑ 
+
+$$ 2
+&& )) 88  %KK QQ !
+..( *33. 0
+33 +44 (882 >
+::3 E<<B T
+AA# +CC6 >(
+OO QQ QQ QQ# $
+ZZ 
+ÑÑ (
+\\ aa ff ll !(
+jj ll ll ll# $
+tt 
+ÖÖ ,
+vv zz 
+ÄÄ 
+ÜÜ !0
+
+ÑÑ 
+ÜÜ 
+ÜÜ 
+ÜÜ# $
+
+éé 
+ÜÜ T
+
+êê 
+ìì 
+¢¢  %
+µµ 
+¿¿ 
+¿¿ "
+¬¬  %
+
+òò( *
+ùù. 0$
+
+ùù +
+ûû (
+¢¢2 >
+
+§§3 E
+¶¶B T
+
+´´# +
+≠≠6 >0
+
+ææ 
+¬¬ 
+¬¬ 
+¬¬' (
+
+ÀÀ 
+áá T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¯¯ 
+¯¯ "
+˙˙  %
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+ˆˆ 
+˙˙ 
+˙˙ 
+˙˙' (
+
+ÇÇ ∂
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_06.cs
+
+ @x
+!! (&& LL \\ gg vv 
+ÅÅ 
+êê 
+∂∂ 
+ÕÕ 
+ÛÛ 
+
+## 2
+%% (( 77  %JJ PP !
+--( *22. 0
+22 +33 (772 >
+993 E;;B T
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ÉÉ (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+ÑÑ *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+ÖÖ T
+
+èè 
+íí 
+°°  %
+¥¥ 
+øø 
+øø "
+¡¡  %
+
+óó( *
+úú. 0$
+
+úú +
+ùù (
+°°2 >
+
+££3 E
+••B T
+
+™™# +
+¨¨6 >0
+
+ΩΩ 
+¡¡ 
+¡¡ 
+¡¡' (
+
+   
+ÜÜ T
+
+ÃÃ 
+œœ 
+ﬁﬁ  %
+ÒÒ 
+˜˜ 
+˜˜ "
+˘˘  %
+
+‘‘( *
+ŸŸ. 0$
+
+ŸŸ +
+⁄⁄ (
+ﬁﬁ2 >
+
+‡‡3 E
+‚‚B T
+
+ÁÁ# +
+ÈÈ6 >0
+
+ıı 
+˘˘ 
+˘˘ 
+˘˘' (
+
+ÅÅ ∂
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_07.cs
+
+ @x
+!! && LL \\ gg vv 
+ÅÅ 
+êê 
+∂∂ 
+ÕÕ 
+ÛÛ 
+
+## 2
+%% (( 77  %JJ PP !
+--( *22. 0
+22 +33 (772 >
+993 E;;B T
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ÉÉ (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+ÑÑ *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+ÖÖ T
+
+èè 
+íí 
+°°  %
+¥¥ 
+øø 
+øø "
+¡¡  %
+
+óó( *
+úú. 0$
+
+úú +
+ùù (
+°°2 >
+
+££3 E
+••B T
+
+™™# +
+¨¨6 >0
+
+ΩΩ 
+¡¡ 
+¡¡ 
+¡¡' (
+
+   
+ÜÜ T
+
+ÃÃ 
+œœ 
+ﬁﬁ  %
+ÒÒ 
+˜˜ 
+˜˜ "
+˘˘  %
+
+‘‘( *
+ŸŸ. 0$
+
+ŸŸ +
+⁄⁄ (
+ﬁﬁ2 >
+
+‡‡3 E
+‚‚B T
+
+ÁÁ# +
+ÈÈ6 >0
+
+ıı 
+˘˘ 
+˘˘ 
+˘˘' (
+
+ÅÅ ∆
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_08.cs
+
+ @b
+!! *.. TT oo ~~ 
+ââ 
+òò 
+’’ 
+˚˚  
+&& +dd 
+ææ 
+
+++ 2
+-- 00 ??  %RR XX !
+55( *::. 0
+:: +;; (??2 >
+AA3 ECCB T
+HH# +JJ6 >(
+VV XX XX XX# $
+aa 
+ãã (
+cc hh mm ss !(
+qq ss ss ss# $
+{{ 
+åå .
+}} 
+ÅÅ 
+áá 
+çç !0
+
+ãã 
+çç 
+çç 
+çç# $
+
+ïï 
+çç T
+
+óó 
+öö 
+©©  %
+ºº 
+«« 
+«« "
+……  %
+
+üü( *
+§§. 0$
+
+§§ +
+•• (
+©©2 >
+
+´´3 E
+≠≠B T
+
+≤≤# +
+¥¥6 >0
+
+≈≈ 
+…… 
+…… 
+……' (
+
+““ 
+éé T
+
+‘‘ 
+◊◊ 
+ÊÊ  %
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %
+
+‹‹( *
+··. 0$
+
+·· +
+‚‚ (
+ÊÊ2 >
+
+ËË3 E
+ÍÍB T
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_09.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ ∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_10.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ ∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_11.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ É	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_12.cs
+
+ @
+
+ P
+   ## 22  %DD JJ !SS SS "UU  %
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+HH JJ JJ JJ# $(
+QQ UU UU UU' (
+`` 
+„„ 2
+bb ff kk qq !zz !(
+oo qq qq qq# $(
+xx zz zz zz# $
+
+ÉÉ 
+‰‰ Ñ
+
+ÖÖ 
+àà 
+óó  %
+®® 
+∑∑  %
+   
+   "
+ÃÃ  %
+÷÷ 
+÷÷ "
+ÿÿ  %
+
+çç( *
+íí. 0$
+
+íí +
+ìì (
+óó2 >
+
+ôô3 E
+õõB T
+
+††# +
+¢¢6 >
+
+≠≠( *
+≤≤. 0$
+
+≤≤ +
+≥≥ (
+∑∑2 >
+
+ππ3 E
+ªªB T
+
+¿¿# +
+¬¬6 >0
+
+»» 
+ÃÃ 
+ÃÃ 
+ÃÃ' (0
+
+‘‘ 
+ÿÿ 
+ÿÿ 
+ÿÿ' (
+
+‡‡ ∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_13.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ ∫	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_14.cs
+
+ @
+
+ 2
+   ## 22  %EE KK !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+II KK KK KK# $
+TT 
+˛˛ (
+VV [[ `` ff !(
+dd ff ff ff# $
+nn 
+ˇˇ *
+pp tt zz 
+ÄÄ !.
+~~ 
+ÄÄ 
+ÄÄ 
+ÄÄ# $
+
+àà 
+ÄÄ T
+
+ää 
+çç 
+úú  %
+ØØ 
+∫∫ 
+∫∫ "
+ºº  %
+
+íí( *
+óó. 0$
+
+óó +
+òò (
+úú2 >
+
+ûû3 E
+††B T
+
+••# +
+ßß6 >0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (
+
+≈≈ 
+ÅÅ T
+
+«« 
+   
+ŸŸ  %
+ÏÏ 
+ÚÚ 
+ÚÚ "
+ÙÙ  %
+
+œœ( *
+‘‘. 0$
+
+‘‘ +
+’’ (
+ŸŸ2 >
+
+€€3 E
+››B T
+
+‚‚# +
+‰‰6 >0
+
+ 
+ÙÙ 
+ÙÙ 
+ÙÙ' (
+
+¸¸ ¿	
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_15.cs
+
+ @
+
+ 2
+   $$ 33  %EE MM !
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+KK MM MM MM# $
+[[ 
+úú (
+]] cc gg oo !(
+mm oo oo oo# $
+|| 
+ùù .
+~~ 
+ÉÉ 
+àà 
+êê !0
+
+éé 
+êê 
+êê 
+êê# $
+
+ùù 
+ûû T
+
+üü 
+££ 
+≤≤  %
+ƒƒ 
+–– 
+–– "
+““  %
+
+®®( *
+≠≠. 0$
+
+≠≠ +
+ÆÆ (
+≤≤2 >
+
+¥¥3 E
+∂∂B T
+
+ªª# +
+ΩΩ6 >0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+‹‹ 
+üü T
+
+ﬁﬁ 
+‚‚ 
+ÒÒ  %
+ÉÉ 
+ãã 
+ãã "
+çç  %
+
+ÁÁ( *
+ÏÏ. 0$
+
+ÏÏ +
+ÌÌ (
+ÒÒ2 >
+
+ÛÛ3 E
+ııB T
+
+˙˙# +
+¸¸6 >0
+
+ââ 
+çç 
+çç 
+çç' (
+
+öö ˙
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_16.cs
+
+ @
+
+ (
+   ## 22  %FF !
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >(
+DD FF FF FF# $
+PP 
+õõ 
+RR VV ]] !(
+[[ ]] ]] ]]# $
+ff 
+úú B
+hh kk zz  %
+éé 
+éé "
+êê  %
+pp( *uu. 0
+uu +vv (zz2 >
+||3 E~~B T
+
+ÉÉ# +
+ÖÖ6 >0
+
+åå 
+êê 
+êê 
+êê' (
+
+ôô ‹
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_17.cs
+
+ @
+
+ (
+   %% 44 !FF !
+**$ &//* ,
+// '00 $44. :
+66/ A88> P
+== '??2 :
+BB BB BB  (
+DD FF FF FF# $
+OO 
+êê 
+QQ SS XX !
+TT TT TT  (
+VV XX XX XX# $
+`` 
+ëë B
+bb cc rr !
+ÑÑ 
+ÑÑ "
+ÜÜ  %
+hh$ &mm* ,
+mm 'nn $rr. :
+tt/ Avv> P
+{{ '}}2 :$
+
+ÄÄ 
+ÄÄ 
+ÄÄ  0
+
+ÇÇ 
+ÜÜ 
+ÜÜ 
+ÜÜ' (
+
+éé ⁄
+
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_21.cs
+
+ @
+ AA GG 
+
+!! (
+## $$ 33 !BB 
+))$ &..* ,
+.. '// $33. :
+55/ A77> P
+<< '>>2 :
+EE BB 
+EE "KK !(
+II KK KK KK# $ 
+SS   
+ÖÖ "
+TT  
+ππ 
+øø "
+UU 
+”” 
+ŸŸ 
+
+WW 
+__ YY 
+
+ôô ZZ 
+
+ŒŒ [[ *
+aa bb qq !
+ÄÄ 
+gg$ &ll* ,
+ll 'mm $qq. :
+ss/ Auu> P
+zz '||2 :
+
+ÉÉ 
+ÄÄ 0
+
+ÉÉ" '
+éé 
+éé "
+êê  %0
+
+åå 
+êê 
+êê 
+êê' (0
+
+õõ 
+úú 
+´´ !
+∫∫ 
+
+°°$ &
+¶¶* ,$
+
+¶¶ '
+ßß $
+´´. :
+
+≠≠/ A
+ØØ> P
+
+¥¥ '
+∂∂2 :
+
+ΩΩ 
+∫∫ 0
+
+ΩΩ" '
+√√ 
+√√ "
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' ($
+
+–– 
+““ 
+‘‘ 
+
+◊◊ 
+‘‘ 
+
+◊◊! &
+›› !0
+
+€€ 
+›› 
+›› 
+››# $Î
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_22a.cs
+
+ A
+ &AA 
+
+!! (
+## $$ 33 !BBL Q
+))$ &..* ,
+.. '// $33. :
+55/ A77> P
+<< '>>2 :
+FF +rr 
+GG +
+óó 
+HH *
+°° 
+
+JJ 
+RR LL 
+ww MM 
+
+úú NN (
+TT UU dd !ssQ V
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :,
+yy zz 
+ââ !
+òòQ V
+$ &
+ÑÑ* ,$
+
+ÑÑ '
+ÖÖ $
+ââ. :
+
+ãã/ A
+çç> P
+
+íí '
+îî2 :$
+
+ûû 
+†† 
+¢¢P U’
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_22b.cs
+
+ A
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $¢
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_31.cs
+
+ @
+
+ 
+   @@ CC !(
+"" ## 22  %@@ 
+((( *--. 0
+-- +.. (222 >
+443 E66B T
+;;# +==6 >
+CC FF !(
+DD FF FF FF# $
+
+NN 
+UU PP 
+jj QQ 
+WW \\ __ !
+YY [[ \\ 
+__ bb !(
+`` bb bb bb# $"
+ll 
+åå 
+èè !*
+nn oo ~~  %
+åå 
+tt( *yy. 0
+yy +zz (~~2 >
+
+ÄÄ3 E
+ÇÇB T
+
+áá# +
+ââ6 >0
+
+èè 
+íí 
+íí "
+îî  %0
+
+êê 
+îî 
+îî 
+îî' (¸
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_41.cs
+
+ @
+ HH 
+$ )"" (
+   "" "" ""  
+
+(( (
+** ++ :: !HH 
+00$ &55* ,
+55 '66 $::. :
+<</ A>>> P
+CC 'EE2 :
+
+LL 
+]] NN 
+ss OO 
+RR #bb 
+RR( -VV (
+TT VV VV VV  
+__ aa bb 
+ee #
+ìì (
+ee( -ii ii kk !(
+gg kk kk kk# $,
+uu vv 
+ÖÖ !
+ìì 
+{{$ &
+ÄÄ* ,$
+
+ÄÄ '
+ÅÅ $
+ÖÖ. :
+
+áá/ A
+ââ> P
+
+éé '
+êê2 :Ç
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_42.cs
+
+ @
+  CC (
+   !! 00 !>> 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+AA 
+CC FF (
+DD FF FF FF  
+NN $XX !
+PP RR SS 
+VV 
+ïï 
+XX [[ (
+YY [[ [[ [[  
+bb $
+áá !*
+dd ee tt !
+ÇÇ 
+jj$ &oo* ,
+oo 'pp $tt. :
+vv/ Axx> P
+}} '2 :
+
+ÖÖ 
+ññ 0
+
+áá 
+ää 
+ää 
+åå !0
+
+àà 
+åå 
+åå 
+åå# $
+
+ìì ‡
+≈C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_45.cs
+
+ @
+ $$ MM 
+ ZZ  ii  
+   oo  
+úú 
+"" NN 
+$$ '' (
+%% '' '' ''  
+
+-- (
+// 00 ?? !MM 
+55$ &::* ,
+:: ';; $??. :
+AA/ ACC> P
+HH 'JJ2 :
+
+RR 
+dd TT 
+|| UU 
+XX jj 
+ZZ ]] (
+[[ ]] ]] ]]  
+ff hh ii 
+mm 
+ùù (
+oo rr rr tt !(
+pp tt tt tt# $,
+~~  
+éé !
+úú 
+
+ÑÑ$ &
+ââ* ,$
+
+ââ '
+ää $
+éé. :
+
+êê/ A
+íí> P
+
+óó '
+ôô2 :—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_51a.cs
+
+ A
+
+ (
+   !! 00 !>>L Q
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNP U(
+TT UU dd !rrP U
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :Õ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_51b.cs
+
+ A
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_52a.cs
+
+ A
+
+ (
+   !! 00 !>>L Q
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNP U(
+TT UU dd !rrP U
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :ª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_52b.cs
+
+ A
+
+ 
+# (L Q
+
+$$ "
+$$' ,&&P U
+
+** "
+**' ,,,P UÕ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_52c.cs
+
+ A
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_53a.cs
+
+ A
+
+ (
+   !! 00 !>>L Q
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNP U(
+TT UU dd !rrP U
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :ª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_53b.cs
+
+ A
+
+ 
+# (L Q
+
+$$ "
+$$' ,&&P U
+
+** "
+**' ,,,P Uª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_53c.cs
+
+ A
+
+ 
+# (L Q
+
+$$ "
+$$' ,&&P U
+
+** "
+**' ,,,P UÕ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_53d.cs
+
+ A
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_54a.cs
+
+ A
+
+ (
+   !! 00 !>>L Q
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNP U(
+TT UU dd !rrP U
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :ª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_54b.cs
+
+ A
+
+ 
+# (L Q
+
+$$ "
+$$' ,&&P U
+
+** "
+**' ,,,P Uª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_54c.cs
+
+ A
+
+ 
+# (L Q
+
+$$ "
+$$' ,&&P U
+
+** "
+**' ,,,P Uª
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_54d.cs
+
+ A
+
+ 
+# (L Q
+
+$$ "
+$$' ,&&P U
+
+** "
+**' ,,,P UÕ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_54e.cs
+
+ A
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ì
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_61a.cs
+
+ A
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $±
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_61b.cs
+
+ A
+
+ (
+   !! 00 !>> 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+DD #
+FF HH II 
+
+MM #(
+OO PP __ !mm 
+UU$ &ZZ* ,
+ZZ '[[ $__. :
+aa/ Acc> P
+hh 'jj2 :±
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_66a.cs
+
+ A
+
+ (
+   !! 00 !?? 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+>> ?? @@L V
+
+DD 
+KK FF 
+VV GG 
+MM OO QQ 
+PP QQ RRP Z(
+XX YY hh !ww 
+^^$ &cc* ,
+cc 'dd $hh. :
+jj/ All> P
+qq 'ss2 :
+vv ww xxP Zè
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_66b.cs
+
+ A
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $£
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_67a.cs
+
+ AF
+ CC CC' 0UU UU' 0{{ {{' 0(
+   DD #VV #|| #
+
+## (
+%% && 55 !DD& +
+++$ &00* ,
+00 '11 $55. :
+77/ A99> P
+>> '@@2 :
+CC  DD EEL Z
+
+II 
+PP KK 
+[[ LL 
+RR TT VV& +
+UU  VV WWP ^(
+]] ^^ mm !||& +
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :
+{{  || }}P ^è
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_67b.cs
+
+ A
+
+ 
+e s "
+ !! (
+ !! !! !!  
+
+** "
+**i w,, "
+,, // (
+-- // // //  
+
+66 "
+66i w88 "(
+88 ;; ;; == !(
+99 == == ==# $õ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_68a.cs
+
+ A<
+ "" 11 !MM TT cc !
+
+   
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :
+
+CC 
+JJ EE 
+RR FF 
+YY$ &^^* ,
+^^ '__ $cc. :
+ee/ Agg> P
+ll 'nn2 :Õ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_68b.cs
+
+ A
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $—
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_71a.cs
+
+ A
+
+ (
+   !! 00 !>>T Y
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNX ](
+TT UU dd !rrX ]
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :è
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_71b.cs
+
+ A
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $©
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_72a.cs
+
+ A
+
+ <
+!! "" 11 !@@ #AA #BB #
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :2
+??  @@ AA BB CCL Z
+
+GG 
+NN II 
+[[ JJ 2
+PP RR TT #UU #VV #2
+SS  TT UU VV WWP ^<
+]] ^^ mm !|| #}} #~~ #
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :2
+{{  || }} ~~ P ^è
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_72b.cs
+
+ A
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $©
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_73a.cs
+
+ A
+
+ <
+!! "" 11 !@@  %AA  %BB  %
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :2
+?? '@@ AA BB CCL [
+
+GG 
+NN II 
+[[ JJ 2
+PP RR TT  %UU  %VV  %2
+SS 'TT UU VV WWP _<
+]] ^^ mm !||  %}}  %~~  %
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :2
+{{ '|| }} ~~ P _è
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_73b.cs
+
+ A
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $©
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_74a.cs
+
+ A
+
+ <
+!! "" 11 !@@ $AA $BB $
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :2
+?? +@@ AA BB CCL [
+
+GG 
+NN II 
+[[ JJ 2
+PP RR TT $UU $VV $2
+SS +TT UU VV WWP _<
+]] ^^ mm !|| $}} $~~ $
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :2
+{{ +|| }} ~~ P _è
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_74b.cs
+
+ A
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $¡
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_75a.cs
+
+ A
+
+   (
+"" ## 22 !GG! &
+(($ &--* ,
+-- '.. $22. :
+44/ A66> P
+;; '==2 :
+AA HH JJP _
+DD GG 
+EE GG HH" $
+LL& 5NNZ i
+
+SS 
+ZZ UU 
+
+çç VV *
+\\ ]] ll !
+ÅÅ! &
+bb$ &gg* ,
+gg 'hh $ll. :
+nn/ App> P
+uu 'ww2 :"
+{{ 
+ÇÇ 
+ÑÑT c
+~~ 
+ÅÅ "
+ 
+ÅÅ 
+ÇÇ" $
+
+ÜÜ& 5
+ààZ i0
+
+èè 
+êê 
+üü !
+¥¥! &
+
+ïï$ &
+öö* ,$
+
+öö '
+õõ $
+üü. :
+
+°°/ A
+££> P
+
+®® '
+™™2 :$
+
+ÆÆ 
+µµ 
+∑∑T c
+
+±± 
+¥¥ $
+
+≤≤ 
+¥¥ 
+µµ" $
+
+ππ& 5
+ªªZ iÕ
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_75b.cs
+
+ A
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ jì
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_81a.cs
+
+ A
+
+ (
+   !! 00 !?? 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+>>H R?? 
+
+CC 
+JJ EE 
+TT FF 
+LL NN PP 
+OOH RPP (
+VV WW ff !uu 
+\\$ &aa* ,
+aa 'bb $ff. :
+hh/ Ajj> P
+oo 'qq2 :
+ttH Ruu §
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_81_bad.cs
+
+ D
+
+ 
+$ )   (
+           Ò
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_81_base.cs
+
+ N
+
+ 
+
+$ )º
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_81_goodB2G.cs
+
+ H
+
+ (
+$ )!! !! ## !(
+ ## ## ### $®
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_for_loop_81_goodG2B.cs
+
+ H
+
+ 
+$ )!! (
+ !! !! !!  ù
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_01.cs
+
+ =
+
+ (
+!! "" 11 !CC !
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :(
+?? CC CC CC# $(
+@@  GG QQ SS 
+II# +KKS [
+VV 'XXQ Y
+
+^^ 
+ee `` 
+
+ââ aa 
+gg ii nn !(
+jj nn nn nn# $(
+kk  rr || ~~ 
+tt# +vvS [
+
+ÅÅ '
+ÉÉQ YH
+
+ãã 
+åå 
+õõ !
+™™ 
+™™ 
+∞∞  %
+
+ëë$ &
+ññ* ,$
+
+ññ '
+óó $
+õõ. :
+
+ùù/ A
+üü> P
+
+§§ '
+¶¶2 :0
+
+¨¨ 
+∞∞ 
+∞∞ 
+∞∞' (0
+
+≠≠  $
+¥¥ 
+ææ 
+¿¿ 
+
+∂∂' /
+∏∏W _
+
+√√# +
+≈≈U ]≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_02.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ ≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_03.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ √
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_04.cs
+
+ =f
+## ))) OO 
+ÄÄ 
+•• 
+∞∞ 
+’’ 
+©© 
+œœ  
+$$ *uu 
+˚˚ 
+
+&& 2
+(( ++ ::  %MM UU  %
+00( *55. 0
+55 +66 (::2 >
+<<3 E>>B T
+CC# +EE6 >(
+QQ UU UU UU' ((
+RR  $YY cc ee 
+[[' /]]W _
+hh# +jjU ]
+rr 
+ˆˆ *
+tt yy ~~ 
+ÜÜ  %0
+
+ÇÇ 
+ÜÜ 
+ÜÜ 
+ÜÜ' (0
+
+ÉÉ  $
+ää 
+îî 
+ññ 
+
+åå' /
+ééW _
+
+ôô# +
+õõU ]
+
+¢¢ 
+˜˜ 0
+
+§§ 
+®® 
+ÆÆ 
+∂∂  %0
+
+≤≤ 
+∂∂ 
+∂∂ 
+∂∂' (0
+
+≥≥  $
+∫∫ 
+ƒƒ 
+∆∆ 
+
+ºº' /
+ææW _
+
+……# +
+ÀÀU ]
+
+““ 
+¯¯ T
+
+‘‘ 
+◊◊ 
+ÊÊ  %
+˘˘ 
+ÉÉ 
+ÉÉ "
+ââ$ )
+
+‹‹( *
+··. 0$
+
+·· +
+‚‚ (
+ÊÊ2 >
+
+ËË3 E
+ÍÍB T
+
+ÔÔ# +
+ÒÒ6 >0
+
+ÖÖ 
+ââ 
+ââ  !
+ââ+ ,0
+
+ÜÜ$ (
+çç  
+óó  
+ôô  
+
+èè+ 3
+ëë[ c
+
+úú' /
+ûûY a
+
+¶¶ 
+˘˘ T
+
+®® 
+´´ 
+∫∫  %
+ÕÕ 
+““ 
+““ "
+ÿÿ$ )
+
+∞∞( *
+µµ. 0$
+
+µµ +
+∂∂ (
+∫∫2 >
+
+ºº3 E
+ææB T
+
+√√# +
+≈≈6 >0
+
+‘‘ 
+ÿÿ 
+ÿÿ  !
+ÿÿ+ ,0
+
+’’$ (
+‹‹  
+ÊÊ  
+ËË  
+
+ﬁﬁ+ 3
+‡‡[ c
+
+ÎÎ' /
+ÌÌY a
+
+ÙÙ ¡
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_05.cs
+
+ =d
+"" (( NN  
+§§ 
+ØØ 
+‘‘ 
+®® 
+ŒŒ  
+## tt 
+˙˙ 
+
+%% 2
+'' ** 99  %LL TT  %
+//( *44. 0
+44 +55 (992 >
+;;3 E==B T
+BB# +DD6 >(
+PP TT TT TT' ((
+QQ  $XX bb dd 
+ZZ' /\\W _
+gg# +iiU ]
+qq 
+ıı *
+ss xx }} 
+ÖÖ  %0
+
+ÅÅ 
+ÖÖ 
+ÖÖ 
+ÖÖ' (0
+
+ÇÇ  $
+ââ 
+ìì 
+ïï 
+
+ãã' /
+ççW _
+
+òò# +
+ööU ]
+
+°° 
+ˆˆ 0
+
+££ 
+ßß 
+≠≠ 
+µµ  %0
+
+±± 
+µµ 
+µµ 
+µµ' (0
+
+≤≤  $
+ππ 
+√√ 
+≈≈ 
+
+ªª' /
+ΩΩW _
+
+»»# +
+  U ]
+
+—— 
+˜˜ T
+
+”” 
+÷÷ 
+ÂÂ  %
+¯¯ 
+ÇÇ 
+ÇÇ "
+àà$ )
+
+€€( *
+‡‡. 0$
+
+‡‡ +
+·· (
+ÂÂ2 >
+
+ÁÁ3 E
+ÈÈB T
+
+ÓÓ# +
+6 >0
+
+ÑÑ 
+àà 
+àà  !
+àà+ ,0
+
+ÖÖ$ (
+åå  
+ññ  
+òò  
+
+éé+ 3
+êê[ c
+
+õõ' /
+ùùY a
+
+•• 
+¯¯ T
+
+ßß 
+™™ 
+ππ  %
+ÃÃ 
+—— 
+—— "
+◊◊$ )
+
+ØØ( *
+¥¥. 0$
+
+¥¥ +
+µµ (
+ππ2 >
+
+ªª3 E
+ΩΩB T
+
+¬¬# +
+ƒƒ6 >0
+
+”” 
+◊◊ 
+◊◊  !
+◊◊+ ,0
+
+‘‘$ (
+€€  
+ÂÂ  
+ÁÁ  
+
+››+ 3
+ﬂﬂ[ c
+
+ÍÍ' /
+ÏÏY a
+
+ÛÛ µ
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_06.cs
+
+ =z
+"" ('' MM ss ~~ 
+££ 
+ÆÆ 
+”” 
+˘˘ 
+ßß 
+ÕÕ 
+
+$$ 2
+&& )) 88  %KK SS  %
+..( *33. 0
+33 +44 (882 >
+::3 E<<B T
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+ÙÙ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+ıı 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+ˆˆ T
+
+““ 
+’’ 
+‰‰  %
+˜˜ 
+ÅÅ 
+ÅÅ "
+áá$ )
+
+⁄⁄( *
+ﬂﬂ. 0$
+
+ﬂﬂ +
+‡‡ (
+‰‰2 >
+
+ÊÊ3 E
+ËËB T
+
+ÌÌ# +
+ÔÔ6 >0
+
+ÉÉ 
+áá 
+áá  !
+áá+ ,0
+
+ÑÑ$ (
+ãã  
+ïï  
+óó  
+
+çç+ 3
+èè[ c
+
+öö' /
+úúY a
+
+§§ 
+˜˜ T
+
+¶¶ 
+©© 
+∏∏  %
+ÀÀ 
+–– 
+–– "
+÷÷$ )
+
+ÆÆ( *
+≥≥. 0$
+
+≥≥ +
+¥¥ (
+∏∏2 >
+
+∫∫3 E
+ººB T
+
+¡¡# +
+√√6 >0
+
+““ 
+÷÷ 
+÷÷  !
+÷÷+ ,0
+
+””$ (
+⁄⁄  
+‰‰  
+ÊÊ  
+
+‹‹+ 3
+ﬁﬁ[ c
+
+ÈÈ' /
+ÎÎY a
+
+ÚÚ µ
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_07.cs
+
+ =z
+"" '' MM ss ~~ 
+££ 
+ÆÆ 
+”” 
+˘˘ 
+ßß 
+ÕÕ 
+
+$$ 2
+&& )) 88  %KK SS  %
+..( *33. 0
+33 +44 (882 >
+::3 E<<B T
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+ÙÙ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+ıı 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+ˆˆ T
+
+““ 
+’’ 
+‰‰  %
+˜˜ 
+ÅÅ 
+ÅÅ "
+áá$ )
+
+⁄⁄( *
+ﬂﬂ. 0$
+
+ﬂﬂ +
+‡‡ (
+‰‰2 >
+
+ÊÊ3 E
+ËËB T
+
+ÌÌ# +
+ÔÔ6 >0
+
+ÉÉ 
+áá 
+áá  !
+áá+ ,0
+
+ÑÑ$ (
+ãã  
+ïï  
+óó  
+
+çç+ 3
+èè[ c
+
+öö' /
+úúY a
+
+§§ 
+˜˜ T
+
+¶¶ 
+©© 
+∏∏  %
+ÀÀ 
+–– 
+–– "
+÷÷$ )
+
+ÆÆ( *
+≥≥. 0$
+
+≥≥ +
+¥¥ (
+∏∏2 >
+
+∫∫3 E
+ººB T
+
+¡¡# +
+√√6 >0
+
+““ 
+÷÷ 
+÷÷  !
+÷÷+ ,0
+
+””$ (
+⁄⁄  
+‰‰  
+ÊÊ  
+
+‹‹+ 3
+ﬁﬁ[ c
+
+ÈÈ' /
+ÎÎY a
+
+ÚÚ ≈
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_08.cs
+
+ =f
+"" *// UU 
+ÜÜ 
+´´ 
+∂∂ 
+€€ 
+ØØ 
+’’  
+'' +{{ 
+ÅÅ 
+
+,, 2
+.. 11 @@  %SS [[  %
+66( *;;. 0
+;; +<< (@@2 >
+BB3 EDDB T
+II# +KK6 >(
+WW [[ [[ [[' ((
+XX  $__ ii kk 
+aa' /ccW _
+nn# +ppU ]
+xx 
+¸¸ ,
+zz  
+ÑÑ 
+åå  %0
+
+àà 
+åå 
+åå 
+åå' (0
+
+ââ  $
+êê 
+öö 
+úú 
+
+íí' /
+îîW _
+
+üü# +
+°°U ]
+
+®® 
+˝˝ 0
+
+™™ 
+ÆÆ 
+¥¥ 
+ºº  %0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (0
+
+ππ  $
+¿¿ 
+   
+ÃÃ 
+
+¬¬' /
+ƒƒW _
+
+œœ# +
+——U ]
+
+ÿÿ 
+˛˛ T
+
+⁄⁄ 
+›› 
+ÏÏ  %
+ˇˇ 
+ââ 
+ââ "
+èè$ )
+
+‚‚( *
+ÁÁ. 0$
+
+ÁÁ +
+ËË (
+ÏÏ2 >
+
+ÓÓ3 E
+B T
+
+ıı# +
+˜˜6 >0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+¨¨ 
+ˇˇ T
+
+ÆÆ 
+±± 
+¿¿  %
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )
+
+∂∂( *
+ªª. 0$
+
+ªª +
+ºº (
+¿¿2 >
+
+¬¬3 E
+ƒƒB T
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_09.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ ≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_10.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ ≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_11.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ ‰
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_12.cs
+
+ =
+
+ P
+!! $$ 33  %EE MM  %ii ii "oo$ )
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+II MM MM MM' ((
+JJ  $QQ [[ ]] 
+SS' /UUW _
+``# +bbU ](
+kk oo oo  !oo+ ,(
+ll$ (ss  }}    
+uu+ 3ww[ c
+
+ÇÇ' /
+ÑÑY a
+
+éé 
+ÎÎ <
+
+êê 
+îî 
+ôô 
+°°  %
+¿¿  %0
+
+ùù 
+°° 
+°° 
+°°' (0
+
+ûû  $
+•• 
+ØØ 
+±± 
+
+ßß' /
+©©W _
+
+¥¥# +
+∂∂U ]0
+
+ºº 
+¿¿ 
+¿¿ 
+¿¿' (0
+
+ΩΩ  $
+ƒƒ 
+ŒŒ 
+–– 
+
+∆∆' /
+»»W _
+
+””# +
+’’U ]
+
+›› 
+ÏÏ Ñ
+
+ﬂﬂ 
+‚‚ 
+ÒÒ  %
+ÇÇ 
+ëë  %
+££ 
+££ "
+©©$ )
+∆∆ 
+∆∆ "
+ÃÃ$ )
+
+ÁÁ( *
+ÏÏ. 0$
+
+ÏÏ +
+ÌÌ (
+ÒÒ2 >
+
+ÛÛ3 E
+ııB T
+
+˙˙# +
+¸¸6 >
+
+áá( *
+åå. 0$
+
+åå +
+çç (
+ëë2 >
+
+ìì3 E
+ïïB T
+
+öö# +
+úú6 >0
+
+•• 
+©© 
+©©  !
+©©+ ,0
+
+¶¶$ (
+≠≠  
+∑∑  
+ππ  
+
+ØØ+ 3
+±±[ c
+
+ºº' /
+ææY a0
+
+»» 
+ÃÃ 
+ÃÃ  !
+ÃÃ+ ,0
+
+……$ (
+––  
+⁄⁄  
+‹‹  
+
+““+ 3
+‘‘[ c
+
+ﬂﬂ' /
+··Y a
+
+ËË ≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_13.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ ≠
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_14.cs
+
+ =
+
+ 2
+!! $$ 33  %FF NN  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+ÔÔ (
+mm rr ww   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]
+
+õõ 
+ 0
+
+ùù 
+°° 
+ßß 
+ØØ  %0
+
+´´ 
+ØØ 
+ØØ 
+ØØ' (0
+
+¨¨  $
+≥≥ 
+ΩΩ 
+øø 
+
+µµ' /
+∑∑W _
+
+¬¬# +
+ƒƒU ]
+
+ÀÀ 
+ÒÒ T
+
+ÕÕ 
+–– 
+ﬂﬂ  %
+ÚÚ 
+¸¸ 
+¸¸ "
+ÇÇ$ )
+
+’’( *
+⁄⁄. 0$
+
+⁄⁄ +
+€€ (
+ﬂﬂ2 >
+
+··3 E
+„„B T
+
+ËË# +
+ÍÍ6 >0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+üü 
+ÚÚ T
+
+°° 
+§§ 
+≥≥  %
+∆∆ 
+ÀÀ 
+ÀÀ "
+——$ )
+
+©©( *
+ÆÆ. 0$
+
+ÆÆ +
+ØØ (
+≥≥2 >
+
+µµ3 E
+∑∑B T
+
+ºº# +
+ææ6 >0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÌÌ π
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_15.cs
+
+ =
+
+ 2
+!! %% 44  %FF PP  %
+**( *//. 0
+// +00 (442 >
+663 E88B T
+==# +??6 >(
+LL PP PP PP' ((
+MM  $TT ^^ `` 
+VV' /XXW _
+cc# +eeU ]
+rr 
+çç *
+tt zz ~~ 
+àà  %0
+
+ÑÑ 
+àà 
+àà 
+àà' (0
+
+ÖÖ  $
+åå 
+ññ 
+òò 
+
+éé' /
+êêW _
+
+õõ# +
+ùùU ]
+
+©© 
+éé 0
+
+´´ 
+∞∞ 
+µµ 
+øø  %0
+
+ªª 
+øø 
+øø 
+øø' (0
+
+ºº  $
+√√ 
+ÕÕ 
+œœ 
+
+≈≈' /
+««W _
+
+““# +
+‘‘U ]
+
+‡‡ 
+èè T
+
+‚‚ 
+ÊÊ 
+ıı  %
+áá 
+íí 
+íí "
+òò$ )
+
+ÎÎ( *
+. 0$
+
+ +
+ÒÒ (
+ıı2 >
+
+˜˜3 E
+˘˘B T
+
+˛˛# +
+ÄÄ6 >0
+
+îî 
+òò 
+òò  !
+òò+ ,0
+
+ïï$ (
+úú  
+¶¶  
+®®  
+
+ûû+ 3
+††[ c
+
+´´' /
+≠≠Y a
+
+∂∂ 
+êê T
+
+∏∏ 
+ºº 
+ÀÀ  %
+›› 
+‰‰ 
+‰‰ "
+ÍÍ$ )
+
+¡¡( *
+∆∆. 0$
+
+∆∆ +
+«« (
+ÀÀ2 >
+
+ÕÕ3 E
+œœB T
+
+‘‘# +
+÷÷6 >0
+
+ÊÊ 
+ÍÍ 
+ÍÍ  !
+ÍÍ+ ,0
+
+ÁÁ$ (
+ÓÓ  
+¯¯  
+˙˙  
+
++ 3
+ÚÚ[ c
+
+˝˝' /
+ˇˇY a
+
+ãã ß
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_16.cs
+
+ =
+
+ (
+!! $$ 33  %II  %
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >(
+EE II II II' ((
+FF  $MM WW YY 
+OO' /QQW _
+\\# +^^U ]
+gg 
+ﬂﬂ 
+ii mm vv  %(
+rr vv vv vv' (,
+ss  $zz 
+ÑÑ 
+ÜÜ 
+||' /~~W _
+
+ââ# +
+ããU ]
+
+ìì 
+‡‡ H
+
+ïï 
+òò 
+ßß  %
+∫∫ 
+∫∫ "
+¿¿$ )
+
+ùù( *
+¢¢. 0$
+
+¢¢ +
+££ (
+ßß2 >
+
+©©3 E
+´´B T
+
+∞∞# +
+≤≤6 >0
+
+ºº 
+¿¿ 
+¿¿  !
+¿¿+ ,0
+
+ΩΩ$ (
+ƒƒ  
+ŒŒ  
+––  
+
+∆∆+ 3
+»»[ c
+
+””' /
+’’Y a
+
+›› ã	
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_17.cs
+
+ =
+
+ (
+!! && 55 !II  %
+++$ &00* ,
+00 '11 $55. :
+77/ A99> P
+>> '@@2 :
+CC CC CC  (
+EE II II II' ((
+FF  $MM WW YY 
+OO' /QQW _
+\\# +^^U ]
+ff 
+‘‘ 
+hh jj qq  %
+kk kk kk  (
+mm qq qq qq' (*
+nn  $uu  
+ÅÅ 
+ww' /yyW _
+
+ÑÑ# +
+ÜÜU ]
+
+çç 
+’’ H
+
+èè 
+êê 
+üü !
+∞∞ 
+∞∞ "
+∂∂$ )
+
+ïï$ &
+öö* ,$
+
+öö '
+õõ $
+üü. :
+
+°°/ A
+££> P
+
+®® '
+™™2 :$
+
+≠≠ 
+≠≠ 
+≠≠  0
+
+≤≤ 
+∂∂ 
+∂∂  !
+∂∂+ ,0
+
+≥≥$ (
+∫∫  
+ƒƒ  
+∆∆  
+
+ºº+ 3
+ææ[ c
+
+……' /
+ÀÀY a
+
+““ Û
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_21.cs
+
+ =
+   BB HH 
+
+"" (
+$$ %% 44 !CC 
+**$ &//* ,
+// '00 $44. :
+66/ A88> P
+== '??2 :
+FF CC 
+FF "NN  %(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]"
+jj  
+ññ 
+úú "
+kk  
+ÁÁ 
+ÌÌ "
+ll 
+òò 
+ûû 
+
+nn 
+vv pp 
+
+«« qq 
+
+ìì rr ,
+xx yy 
+àà !
+óó 
+~~$ &
+ÉÉ* ,$
+
+ÉÉ '
+ÑÑ $
+àà. :
+
+ää/ A
+åå> P
+
+ëë '
+ìì2 :
+
+öö 
+óó 0
+
+öö" '
+§§ 
+§§ "
+™™$ )0
+
+¶¶ 
+™™ 
+™™  !
+™™+ ,0
+
+ßß$ (
+ÆÆ  
+∏∏  
+∫∫  
+
+∞∞+ 3
+≤≤[ c
+
+ΩΩ' /
+øøY a0
+
+…… 
+   
+ŸŸ !
+ËË 
+
+œœ$ &
+‘‘* ,$
+
+‘‘ '
+’’ $
+ŸŸ. :
+
+€€/ A
+››> P
+
+‚‚ '
+‰‰2 :
+
+ÎÎ 
+ËË 0
+
+ÎÎ" '
+ 
+ "
+ˆˆ$ )0
+
+ÚÚ 
+ˆˆ 
+ˆˆ  !
+ˆˆ+ ,0
+
+ÛÛ$ (
+˙˙  
+ÑÑ  
+ÜÜ  
+
+¸¸+ 3
+˛˛[ c
+
+ââ' /
+ããY a$
+
+ïï 
+óó 
+ôô 
+
+úú 
+ôô 
+
+úú! &
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]Ë
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_22a.cs
+
+ >
+ &AA 
+
+!! (
+## $$ 33 !BBI N
+))$ &..* ,
+.. '// $33. :
+55/ A77> P
+<< '>>2 :
+FF +rr 
+GG +
+óó 
+HH *
+°° 
+
+JJ 
+RR LL 
+ww MM 
+
+úú NN (
+TT UU dd !ssN S
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :,
+yy zz 
+ââ !
+òòN S
+$ &
+ÑÑ* ,$
+
+ÑÑ '
+ÖÖ $
+ââ. :
+
+ãã/ A
+çç> P
+
+íí '
+îî2 :$
+
+ûû 
+†† 
+¢¢M R‰
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_22b.cs
+
+ >
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]—	
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_31.cs
+
+ =
+
+ 
+!! AA DD !(
+## $$ 33  %AA 
+))( *... 0
+.. +// (332 >
+553 E77B T
+<<# +>>6 >
+DD II  %(
+EE II II II' ((
+FF  $MM WW YY 
+OO' /QQW _
+\\# +^^U ]
+
+ee 
+ll gg 
+
+óó hh 
+nn ss vv !
+pp rr ss 
+vv {{  %(
+ww {{ {{ {{' (,
+xx  $ 
+ââ 
+ãã 
+
+ÅÅ' /
+ÉÉW _
+
+éé# +
+êêU ]$
+
+ôô 
+ππ 
+ºº !0
+
+õõ 
+úú 
+´´  %
+ππ 
+
+°°( *
+¶¶. 0$
+
+¶¶ +
+ßß (
+´´2 >
+
+≠≠3 E
+ØØB T
+
+¥¥# +
+∂∂6 >0
+
+ºº 
+ææ 
+ææ "
+ƒƒ$ )0
+
+¿¿ 
+ƒƒ 
+ƒƒ  !
+ƒƒ+ ,0
+
+¡¡$ (
+»»  
+““  
+‘‘  
+
+  + 3
+ÃÃ[ c
+
+◊◊' /
+ŸŸY a≥	
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_41.cs
+
+ =
+ __ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+?? (
+AA BB QQ !__ 
+GG$ &LL* ,
+LL 'MM $QQ. :
+SS/ AUU> P
+ZZ '\\2 :
+
+cc 
+
+ää ee 
+
+∑∑ ff 
+ii #
+èè 
+ii( -oo !(
+kk oo oo oo# $(
+ll  ss }}  
+uu# +wwS [
+
+ÇÇ '
+ÑÑQ Y$
+
+åå 
+éé 
+èè 
+
+íí #
+◊◊ 0
+
+íí( -
+ïï 
+ïï 
+õõ  %0
+
+óó 
+õõ 
+õõ 
+õõ' (0
+
+òò  $
+üü 
+©© 
+´´ 
+
+°°' /
+££W _
+
+ÆÆ# +
+∞∞U ]0
+
+ππ 
+∫∫ 
+…… !
+◊◊ 
+
+øø$ &
+ƒƒ* ,$
+
+ƒƒ '
+≈≈ $
+……. :
+
+ÀÀ/ A
+ÕÕ> P
+
+““ '
+‘‘2 :≥	
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_42.cs
+
+ =
+  DD (
+!! "" 11 !?? 
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :
+
+BB 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+ee $oo !
+gg ii jj 
+mm 
+ŸŸ 
+oo tt !(
+pp tt tt tt# $,
+qq  xx 
+ÇÇ 
+ÑÑ 
+zz# +||S [
+
+áá '
+ââQ Y
+
+èè $
+¥¥ !0
+
+ëë 
+íí 
+°° !
+ØØ 
+
+óó$ &
+úú* ,$
+
+úú '
+ùù $
+°°. :
+
+££/ A
+••> P
+
+™™ '
+¨¨2 :
+
+≤≤ 
+⁄⁄ 0
+
+¥¥ 
+∂∂ 
+∂∂ 
+ºº  %0
+
+∏∏ 
+ºº 
+ºº 
+ºº' (0
+
+ππ  $
+¿¿ 
+   
+ÃÃ 
+
+¬¬' /
+ƒƒW _
+
+œœ# +
+——U ]
+
+◊◊ ù
+
+¬C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_45.cs
+
+ =
+ %% dd  
+   qq  
+ññ "
+!! 
+úú  
+‡‡ 
+## ee 
+%% ** !(
+&& ** ** **# $(
+''  .. 88 :: 
+00# +22S [
+== '??Q Y
+
+DD (
+FF GG VV !dd 
+LL$ &QQ* ,
+QQ 'RR $VV. :
+XX/ AZZ> P
+__ 'aa2 :
+
+ii 
+
+ëë kk 
+
+¿¿ ll 
+oo 
+óó 
+qq vv !(
+rr vv vv vv# $,
+ss  zz 
+ÑÑ 
+ÜÜ 
+||# +~~S [
+
+ââ '
+ããQ Y$
+
+ìì 
+ïï 
+ññ 
+
+öö 
+·· 0
+
+úú 
+ûû 
+ûû 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]0
+
+¬¬ 
+√√ 
+““ !
+‡‡ 
+
+»»$ &
+ÕÕ* ,$
+
+ÕÕ '
+ŒŒ $
+““. :
+
+‘‘/ A
+÷÷> P
+
+€€ '
+››2 :Œ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_51a.cs
+
+ >
+
+ (
+   !! 00 !>>I N
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNM R(
+TT UU dd !rrM R
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :Œ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_51b.cs
+
+ >
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Œ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_52a.cs
+
+ >
+
+ (
+   !! 00 !>>I N
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNM R(
+TT UU dd !rrM R
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :∏
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_52b.cs
+
+ >
+
+ 
+# (  I N
+
+&& "
+&&' ,((M R
+
+,, "
+,,' ,..M RŒ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_52c.cs
+
+ >
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Œ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_53a.cs
+
+ >
+
+ (
+   !! 00 !>>I N
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNM R(
+TT UU dd !rrM R
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :∏
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_53b.cs
+
+ >
+
+ 
+# (  I N
+
+&& "
+&&' ,((M R
+
+,, "
+,,' ,..M R∏
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_53c.cs
+
+ >
+
+ 
+# (  I N
+
+&& "
+&&' ,((M R
+
+,, "
+,,' ,..M RŒ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_53d.cs
+
+ >
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Œ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_54a.cs
+
+ >
+
+ (
+   !! 00 !>>I N
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNM R(
+TT UU dd !rrM R
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :∏
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_54b.cs
+
+ >
+
+ 
+# (  I N
+
+&& "
+&&' ,((M R
+
+,, "
+,,' ,..M R∏
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_54c.cs
+
+ >
+
+ 
+# (  I N
+
+&& "
+&&' ,((M R
+
+,, "
+,,' ,..M R∏
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_54d.cs
+
+ >
+
+ 
+# (  I N
+
+&& "
+&&' ,((M R
+
+,, "
+,,' ,..M RŒ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_54e.cs
+
+ >
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Ù
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_61a.cs
+
+ >
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
+
+ÜÜ# +
+ààU ]Æ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_61b.cs
+
+ >
+
+ (
+   !! 00 !>> 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+DD #
+FF HH II 
+
+MM #(
+OO PP __ !mm 
+UU$ &ZZ* ,
+ZZ '[[ $__. :
+aa/ Acc> P
+hh 'jj2 :Æ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_66a.cs
+
+ >
+
+ (
+   !! 00 !?? 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+>> ?? @@I S
+
+DD 
+KK FF 
+VV GG 
+MM OO QQ 
+PP QQ RRM W(
+XX YY hh !ww 
+^^$ &cc* ,
+cc 'dd $hh. :
+jj/ All> P
+qq 'ss2 :
+vv ww xxM Wí
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_66b.cs
+
+ >
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]†
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_67a.cs
+
+ >F
+ CC CC' 0UU UU' 0{{ {{' 0(
+   DD #VV #|| #
+
+## (
+%% && 55 !DD& +
+++$ &00* ,
+00 '11 $55. :
+77/ A99> P
+>> '@@2 :
+CC  DD EEI W
+
+II 
+PP KK 
+[[ LL 
+RR TT VV& +
+UU  VV WWM [(
+]] ^^ mm !||& +
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :
+{{  || }}M [í
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_67b.cs
+
+ >
+
+ 
+b p   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBf tDD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddf tff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]ò
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_68a.cs
+
+ ><
+ "" 11 !MM TT cc !
+
+   
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :
+
+CC 
+JJ EE 
+RR FF 
+YY$ &^^* ,
+^^ '__ $cc. :
+ee/ Agg> P
+ll 'nn2 :–
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_68b.cs
+
+ >
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]Œ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_71a.cs
+
+ >
+
+ (
+   !! 00 !>>Q V
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+
+BB 
+II DD 
+RR EE 
+KK MM NNU Z(
+TT UU dd !rrU Z
+ZZ$ &__* ,
+__ '`` $dd. :
+ff/ Ahh> P
+mm 'oo2 :í
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_71b.cs
+
+ >
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]¶
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_72a.cs
+
+ >
+
+ <
+!! "" 11 !@@ #AA #BB #
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :2
+??  @@ AA BB CCI W
+
+GG 
+NN II 
+[[ JJ 2
+PP RR TT #UU #VV #2
+SS  TT UU VV WWM [<
+]] ^^ mm !|| #}} #~~ #
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :2
+{{  || }} ~~ M [í
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_72b.cs
+
+ >
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]¶
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_73a.cs
+
+ >
+
+ <
+!! "" 11 !@@  %AA  %BB  %
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :2
+?? '@@ AA BB CCI X
+
+GG 
+NN II 
+[[ JJ 2
+PP RR TT  %UU  %VV  %2
+SS 'TT UU VV WWM \<
+]] ^^ mm !||  %}}  %~~  %
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :2
+{{ '|| }} ~~ M \í
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_73b.cs
+
+ >
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]¶
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_74a.cs
+
+ >
+
+ <
+!! "" 11 !@@ $AA $BB $
+''$ &,,* ,
+,, '-- $11. :
+33/ A55> P
+:: '<<2 :2
+?? +@@ AA BB CCI X
+
+GG 
+NN II 
+[[ JJ 2
+PP RR TT $UU $VV $2
+SS +TT UU VV WWM \<
+]] ^^ mm !|| $}} $~~ $
+cc$ &hh* ,
+hh 'ii $mm. :
+oo/ Aqq> P
+vv 'xx2 :2
+{{ +|| }} ~~ M \í
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_74b.cs
+
+ >
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]æ
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_75a.cs
+
+ >
+
+   (
+"" ## 22 !GG! &
+(($ &--* ,
+-- '.. $22. :
+44/ A66> P
+;; '==2 :
+AA HH JJM \
+DD GG 
+EE GG HH" $
+LL& 5NNZ i
+
+SS 
+ZZ UU 
+
+çç VV *
+\\ ]] ll !
+ÅÅ! &
+bb$ &gg* ,
+gg 'hh $ll. :
+nn/ App> P
+uu 'ww2 :"
+{{ 
+ÇÇ 
+ÑÑQ `
+~~ 
+ÅÅ "
+ 
+ÅÅ 
+ÇÇ" $
+
+ÜÜ& 5
+ààZ i0
+
+èè 
+êê 
+üü !
+¥¥! &
+
+ïï$ &
+öö* ,$
+
+öö '
+õõ $
+üü. :
+
+°°/ A
+££> P
+
+®® '
+™™2 :$
+
+ÆÆ 
+µµ 
+∑∑Q `
+
+±± 
+¥¥ $
+
+≤≤ 
+¥¥ 
+µµ" $
+
+ππ& 5
+ªªZ iÜ	
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_75b.cs
+
+ >
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ jê
+√C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_81a.cs
+
+ >
+
+ (
+   !! 00 !?? 
+&&$ &++* ,
+++ ',, $00. :
+22/ A44> P
+99 ';;2 :
+>>E O?? 
+
+CC 
+JJ EE 
+TT FF 
+LL NN PP 
+OOE OPP (
+VV WW ff !uu 
+\\$ &aa* ,
+aa 'bb $ff. :
+hh/ Ajj> P
+oo 'qq2 :
+ttE Ouu ˜
+∆C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_81_bad.cs
+
+ A
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q YÓ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_81_base.cs
+
+ K
+
+ 
+
+$ )è
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_81_goodB2G.cs
+
+ E
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]˚
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__File_write_81_goodG2B.cs
+
+ E
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y›
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_01.cs
+
+ K
 
  
-(( BB 
-77 CC 
+) ,##1 4
 
-@@ ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_07.cs
+; ?(
+    ** 44 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H(
+22 44 44 44  
 
- '(
-  ** 99 
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+PP >> 
+
+BB% (
+
+BB7 ;
+DD FF II (
+GG II II II  
+PP% (VV1 4
+
+PP7 ;<
+RR SS ]] gg gg ii !
+VV! .WW ZZ& 3
+ZZ #]]& 2
+__' 9aa6 H(
+ee ii ii ii# $â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_02.cs
+
+ K
 
  
-(( BB 
-77 CC 
+) ,%%5 8
 
-@@ ú
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_08.cs
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
 
- '
- *'' AA 
-   +22 
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_03.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
+
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ ï
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_04.cs
+
+ K`
+!! )'' BB ]] ll ww 
+ÜÜ 
+∏∏ 
+””  
+"" *RR 
+°° 
+
+$$ 
+$$) ,,,5 8
+
+$$; ?2
+&& )) 33 @@ FF !
+,,% 2-- !00* 7
+00 '33* 6
+55+ =77: L(
+DD FF FF FF# $
+OO 
+„„ 
+
+OO& )
+
+OO8 <(
+QQ VV [[ aa !(
+__ aa aa aa# $
+ii 
+‰‰ 
+
+ii& )
+
+ii8 <(
+kk oo uu {{ !(
+yy {{ {{ {{# $
+
+ÉÉ 
+ÂÂ 
+
+ÉÉ& )
+ãã5 8
+
+ÉÉ8 <T
+
+ÖÖ 
+àà 
+íí 
+üü 
+™™ 
+™™ "
+¨¨  %$
+
+ãã% 2
+åå !
+èè* 7
+
+èè '
+íí* 6
+
+îî+ =
+ññ: L0
+
+®® 
+¨¨ 
+¨¨ 
+¨¨' (
+
+µµ 
+ÊÊ 
+
+µµ& )
+ΩΩ5 8
+
+µµ8 <T
+
+∑∑ 
+∫∫ 
+ƒƒ 
+—— 
+◊◊ 
+◊◊ "
+ŸŸ  %$
+
+ΩΩ% 2
+ææ !
+¡¡* 7
+
+¡¡ '
+ƒƒ* 6
+
+∆∆+ =
+»»: L0
+
+’’ 
+ŸŸ 
+ŸŸ 
+ŸŸ' (
+
+·· <
+
+··* -
+„„ 
+‰‰ 
+ÂÂ 
+ÊÊ <
+
+··< @
+„„ 
+‰‰ 
+ÂÂ 
+ÊÊ ï
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_05.cs
+
+ K`
+   && AA \\ kk vv 
+ÖÖ 
+∑∑ 
+““  
+!! QQ 
+†† 
+
+## 
+##) ,++5 8
+
+##; ?2
+%% (( 22 ?? EE !
+++% 2,, !//* 7
+// '22* 6
+44+ =66: L(
+CC EE EE EE# $
+NN 
+‚‚ 
+
+NN& )
+
+NN8 <(
+PP UU ZZ `` !(
+^^ `` `` ``# $
+hh 
+„„ 
+
+hh& )
+
+hh8 <(
+jj nn tt zz !(
+xx zz zz zz# $
+
+ÇÇ 
+‰‰ 
+
+ÇÇ& )
+ää5 8
+
+ÇÇ8 <T
+
+ÑÑ 
+áá 
+ëë 
+ûû 
+©© 
+©© "
+´´  %$
+
+ää% 2
+ãã !
+éé* 7
+
+éé '
+ëë* 6
+
+ìì+ =
+ïï: L0
+
+ßß 
+´´ 
+´´ 
+´´' (
+
+¥¥ 
+ÂÂ 
+
+¥¥& )
+ºº5 8
+
+¥¥8 <T
+
+∂∂ 
+ππ 
+√√ 
+–– 
+÷÷ 
+÷÷ "
+ÿÿ  %$
+
+ºº% 2
+ΩΩ !
+¿¿* 7
+
+¿¿ '
+√√* 6
+
+≈≈+ =
+««: L0
+
+‘‘ 
+ÿÿ 
+ÿÿ 
+ÿÿ' (
+
+‡‡ <
+
+‡‡* -
+‚‚ 
+„„ 
+‰‰ 
+ÂÂ <
+
+‡‡< @
+‚‚ 
+„„ 
+‰‰ 
+ÂÂ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_06.cs
+
+ Kv
+   (%% @@ PP [[ jj uu 
+ÑÑ 
+üü 
+∂∂ 
+—— 
+
+"" 
+"") ,**5 8
+
+""; ?2
+$$ '' 11 >> DD !
+**% 2++ !..* 7
+.. '11* 6
+33+ =55: L(
+BB DD DD DD# $
+MM 
+·· 
+
+MM& )
+
+MM8 <(
+OO TT YY __ !(
+]] __ __ __# $
+gg 
+‚‚ 
+
+gg& )
+
+gg8 <(
+ii mm ss yy !(
+ww yy yy yy# $
+
+ÅÅ 
+„„ 
+
+ÅÅ& )
+ââ5 8
+
+ÅÅ8 <T
+
+ÉÉ 
+ÜÜ 
+êê 
+ùù 
+®® 
+®® "
+™™  %$
+
+ââ% 2
+ää !
+çç* 7
+
+çç '
+êê* 6
+
+íí+ =
+îî: L0
+
+¶¶ 
+™™ 
+™™ 
+™™' (
+
+≥≥ 
+‰‰ 
+
+≥≥& )
+ªª5 8
+
+≥≥8 <T
+
+µµ 
+∏∏ 
+¬¬ 
+œœ 
+’’ 
+’’ "
+◊◊  %$
+
+ªª% 2
+ºº !
+øø* 7
+
+øø '
+¬¬* 6
+
+ƒƒ+ =
+∆∆: L0
+
+”” 
+◊◊ 
+◊◊ 
+◊◊' (
+
+ﬂﬂ <
+
+ﬂﬂ* -
+·· 
+‚‚ 
+„„ 
+‰‰ <
+
+ﬂﬂ< @
+·· 
+‚‚ 
+„„ 
+‰‰ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_07.cs
+
+ Kv
+   %% @@ PP [[ jj uu 
+ÑÑ 
+üü 
+∂∂ 
+—— 
+
+"" 
+"") ,**5 8
+
+""; ?2
+$$ '' 11 >> DD !
+**% 2++ !..* 7
+.. '11* 6
+33+ =55: L(
+BB DD DD DD# $
+MM 
+·· 
+
+MM& )
+
+MM8 <(
+OO TT YY __ !(
+]] __ __ __# $
+gg 
+‚‚ 
+
+gg& )
+
+gg8 <(
+ii mm ss yy !(
+ww yy yy yy# $
+
+ÅÅ 
+„„ 
+
+ÅÅ& )
+ââ5 8
+
+ÅÅ8 <T
+
+ÉÉ 
+ÜÜ 
+êê 
+ùù 
+®® 
+®® "
+™™  %$
+
+ââ% 2
+ää !
+çç* 7
+
+çç '
+êê* 6
+
+íí+ =
+îî: L0
+
+¶¶ 
+™™ 
+™™ 
+™™' (
+
+≥≥ 
+‰‰ 
+
+≥≥& )
+ªª5 8
+
+≥≥8 <T
+
+µµ 
+∏∏ 
+¬¬ 
+œœ 
+’’ 
+’’ "
+◊◊  %$
+
+ªª% 2
+ºº !
+øø* 7
+
+øø '
+¬¬* 6
+
+ƒƒ+ =
+∆∆: L0
+
+”” 
+◊◊ 
+◊◊ 
+◊◊' (
+
+ﬂﬂ <
+
+ﬂﬂ* -
+·· 
+‚‚ 
+„„ 
+‰‰ <
+
+ﬂﬂ< @
+·· 
+‚‚ 
+„„ 
+‰‰ ù
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_08.cs
+
+ K`
+   *-- HH cc rr }} 
+åå 
+ææ 
+ŸŸ  
+%% +XX 
+ßß 
+
+** 
+**) ,225 8
+
+**; ?2
+,, // 99 FF LL !
+22% 233 !66* 7
+66 '99* 6
+;;+ ===: L(
+JJ LL LL LL# $
+UU 
+ÈÈ 
+
+UU& )
+
+UU8 <(
+WW \\ aa gg !(
+ee gg gg gg# $
+oo 
+ÍÍ 
+
+oo& )
+
+oo8 <*
+qq uu {{ 
+ÅÅ !.
+ 
+ÅÅ 
+ÅÅ 
+ÅÅ# $
+
+ââ 
+ÎÎ 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+∞∞ 
+∞∞ "
+≤≤  %$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+ªª 
+ÏÏ 
+
+ªª& )
+√√5 8
+
+ªª8 <T
+
+ΩΩ 
+¿¿ 
+   
+◊◊ 
+›› 
+›› "
+ﬂﬂ  %$
+
+√√% 2
+ƒƒ !
+««* 7
+
+«« '
+  * 6
+
+ÃÃ+ =
+ŒŒ: L0
+
+€€ 
+ﬂﬂ 
+ﬂﬂ 
+ﬂﬂ' (
+
+ÁÁ <
+
+ÁÁ* -
+ÈÈ 
+ÍÍ 
+ÎÎ 
+ÏÏ <
+
+ÁÁ< @
+ÈÈ 
+ÍÍ 
+ÎÎ 
+ÏÏ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_09.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
+
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_10.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
+
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_11.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
+
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ 	
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_12.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?P
+ "" ,, 88 >> !GG GG "II  %
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+<< >> >> >># $(
+EE II II II' (
+TT 
+¡¡ 
+
+TT% (
+
+TT7 ;2
+VV ZZ __ ee !nn !(
+cc ee ee ee# $(
+ll nn nn nn# $
+ww 
+¬¬  
+ww% (5 8
+îî5 8
+
+ww7 ;Ä
+yy || 
+ÜÜ 
+ëë 
+õõ 
+®® 
+®® "
+™™  %
+¥¥ 
+¥¥ "
+∂∂  %"
+% 2
+ÄÄ !
+ÉÉ* 7
+
+ÉÉ '
+ÜÜ* 6
+
+àà+ =
+ää: L$
+
+îî% 2
+ïï !
+òò* 7
+
+òò '
+õõ* 6
+
+ùù+ =
+üü: L0
+
+¶¶ 
+™™ 
+™™ 
+™™' (0
+
+≤≤ 
+∂∂ 
+∂∂ 
+∂∂' (
+
+ææ $
+
+ææ* -
+¡¡ 
+¬¬ $
+
+ææ< @
+¡¡ 
+¬¬ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_13.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
+
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_14.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?2
+ "" ,, 99 ?? !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+== ?? ?? ??# $
+HH 
+‹‹ 
+
+HH& )
+
+HH8 <(
+JJ OO TT ZZ !(
+XX ZZ ZZ ZZ# $
+bb 
+›› 
+
+bb& )
+
+bb8 <(
+dd hh nn tt !(
+rr tt tt tt# $
+|| 
+ﬁﬁ 
+||& )
+ÑÑ5 8
+
+||8 <R
+~~ 
+ÅÅ 
+ãã 
+òò 
+££ 
+££ "
+••  %$
+
+ÑÑ% 2
+ÖÖ !
+àà* 7
+
+àà '
+ãã* 6
+
+çç+ =
+èè: L0
+
+°° 
+•• 
+•• 
+••' (
+
+ÆÆ 
+ﬂﬂ 
+
+ÆÆ& )
+∂∂5 8
+
+ÆÆ8 <T
+
+∞∞ 
+≥≥ 
+ΩΩ 
+   
+–– 
+–– "
+““  %$
+
+∂∂% 2
+∑∑ !
+∫∫* 7
+
+∫∫ '
+ΩΩ* 6
+
+øø+ =
+¡¡: L0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+⁄⁄ <
+
+⁄⁄* -
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ <
+
+⁄⁄< @
+‹‹ 
+›› 
+ﬁﬁ 
+ﬂﬂ õ
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_15.cs
+
+ K
+
+ 
+) ,&&5 8
+
+; ?2
+ ## -- 99 AA !
+&&% 2'' !*** 7
+** '--* 6
+//+ =11: L(
+?? AA AA AA# $
+OO 
+˙˙ 
+
+OO& )
+
+OO8 <(
+QQ WW [[ cc !(
+aa cc cc cc# $
+pp 
+˚˚ 
+
+pp& )
+
+pp8 <*
+rr ww || 
+ÑÑ !0
+
+ÇÇ 
+ÑÑ 
+ÑÑ 
+ÑÑ# $
+
+ëë 
+¸¸ 
+
+ëë& )
+öö5 8
+
+ëë8 <T
+
+ìì 
+óó 
+°° 
+≠≠ 
+ππ 
+ππ "
+ªª  %$
+
+öö% 2
+õõ !
+ûû* 7
+
+ûû '
+°°* 6
+
+££+ =
+••: L0
+
+∑∑ 
+ªª 
+ªª 
+ªª' (
+
+≈≈ 
+˝˝ 
+
+≈≈& )
+ŒŒ5 8
+
+≈≈8 <T
+
+«« 
+ÀÀ 
+’’ 
+·· 
+ÈÈ 
+ÈÈ "
+ÎÎ  %$
+
+ŒŒ% 2
+œœ !
+““* 7
+
+““ '
+’’* 6
+
+◊◊+ =
+ŸŸ: L0
+
+ÁÁ 
+ÎÎ 
+ÎÎ 
+ÎÎ' (
+
+¯¯ <
+
+¯¯* -
+˙˙ 
+˚˚ 
+¸¸ 
+˝˝ <
+
+¯¯< @
+˙˙ 
+˚˚ 
+¸¸ 
+˝˝ Ô
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_16.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?(
+ "" ,, :: !
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L(
+88 :: :: ::# $
+DD 
+ÑÑ 
+
+DD% (
+
+DD7 ;
+FF JJ QQ !(
+OO QQ QQ QQ# $
+ZZ 
+ÖÖ 
+ZZ% (bb5 8
+
+ZZ7 ;<
+\\ __ ii ww ww "yy  %
+bb% 2cc !ff* 7
+ff 'ii* 6
+kk+ =mm: L(
+uu yy yy yy' (
+
+ÇÇ $
+
+ÇÇ* -
+ÑÑ 
+ÖÖ $
+
+ÇÇ< @
+ÑÑ 
+ÖÖ Ω
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_17.cs
+
+ K
+
+ 
+) ,''1 4
+
+; ?(
+ $$ .. :: !
+''! .(( ++& 3
+++ #..& 2
+00' 9226 H
+66 66 66  (
+88 :: :: ::# $
+CC yy 
+
+CC% (
+
+CC7 ;
+EE GG LL !
+HH HH HH  (
+JJ LL LL LL# $
+TT zz 
+TT% (ZZ1 4
+
+TT7 ;<
+VV WW aa mm mm "oo  %
+ZZ! .[[ ^^& 3
+^^ #aa& 2
+cc' 9ee6 H
+ii ii ii  (
+kk oo oo oo' (
+
+ww 
+ww* -yy zz 
+ww< @yy zz £
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_21.cs
+
+ K
+ 55 ;; 
+
+   
+  ) ,&&1 466 
+  ; ?66 !(
+"" ## -- 66 
+&&! .'' **& 3
+** #--& 2
+//' 9116 H
+99 66 
+99 "?? !
+
+991 4
+
+99C G(
+== ?? ?? ??# $
+GG  hh nn "
+HH  
+óó 
+ùù "
+II 
+±± 
+∑∑ 
+
+KK (
+KK* -MM NN OO (
+KK< @MM NN OO 
+SS MM 
+
+ÇÇ NN 
+
+¨¨ OO 
+SS& )YY1 4ii  
+SS8 <ii" &(
+UU VV `` ii 
+YY! .ZZ ]]& 3
+]] #``& 2
+bb' 9dd6 H
+ll ii (
+ll" 'ww ww "yy  %
+
+ll6 9
+
+llH L(
+uu yy yy yy' ($
+
+ÇÇ& )
+àà1 4
+òò  
+
+ÇÇ8 <
+òò" &0
+
+ÑÑ 
+ÖÖ 
+èè 
+òò $
+
+àà! .
+ââ 
+åå& 3
+
+åå #
+èè& 2
+
+ëë' 9
+ìì6 H
+
+õõ 
+òò 0
+
+õõ" '
+°° 
+°° "
+££  %
+
+õõ6 9
+
+õõH L0
+
+üü 
+££ 
+££ 
+££' (
+
+¨¨% (
+≤≤ 
+
+¨¨7 ;
+≤≤! %$
+
+ÆÆ 
+∞∞ 
+≤≤ 
+
+µµ 
+≤≤ 
+
+µµ! &
+ªª !
+
+µµ5 8
+
+µµG K0
+
+ππ 
+ªª 
+ªª 
+ªª# $º
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_22a.cs
+
+ L
+ &55 
+
+   
+  ) ,&&1 466_ b
+  ; ?66d h(
+"" ## -- 66W \
+&&! .'' **& 3
+** #--& 2
+//' 9116 H
+:: +[[ 
+;; +uu 
+<< * 
+
+>> (
+>>* -@@ AA BB (
+>>< @@@ AA BB 
+FF @@ 
+`` AA 
+zz BB 
+FF& )LL1 4\\d g
+FF8 <\\i m(
+HH II SS \\\ a
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H
+``& )ff1 4vvd g
+``8 <vvi m(
+bb cc mm vv\ a
+ff! .gg jj& 3
+jj #mm& 2
+oo' 9qq6 H
+zz% (
+ÄÄc f
+zz7 ;
+ÄÄh l 
+|| ~~ 
+ÄÄ[ `¿
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_22b.cs
+
+ L
+
+ 
+# ("" !++ 
+
+7 :
+
+I M(
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %
+
+22< ?
+
+22N R(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ 
+
+II< ?
+
+IIN R(
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo 
+
+``; >
+
+``M Q(
+dd ff ff ff# $ˇ
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_31.cs
+
+ K
+
+ 
+) ,%%5 8
+
+; ?
+ 44 77 !(
+!! "" ,, 44 
+%%% 2&& !))* 7
+)) ',,* 6
+..+ =00: L
+77 :: !(
+88 :: :: ::# $
+
+BB 
+BB* -DD EE 
+BB< @DD EE 
+II DD 
+^^ EE 
+
+II% (
+
+II7 ;
+KK PP SS !
+MM OO PP 
+SS VV !(
+TT VV VV VV# $
+^^% (ff5 8
+
+^^7 ;
+`` uu xx !(
+bb cc mm uu 
+ff% 2gg !jj* 7
+jj 'mm* 6
+oo+ =qq: L(
+xx {{ {{ "}}  %(
+yy }} }} }}' (Â
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_41.cs
+
+ K
+ << 
+$ )!! 
+
+8 ;
+
+J N(
+ !! !! !!  
+
+'' 
+'') ,--1 4<< 
+''; ?<< !(
+)) ** 44 << 
+--! ... 11& 3
+11 #44& 2
+66' 9886 H
+
+@@ 
+@@* -BB CC 
+@@< @BB CC 
+QQ BB 
+gg CC 
+FF #VV 
+FF( -JJ 
+
+FF< ?
+
+FFN R(
+HH JJ JJ JJ  
+QQ, /VV 
+QQ> BVV! %
+SS UU VV 
+YY #|| (
+YY( -]] ]] __ !
+
+YY< ?
+
+YYN R(
+[[ __ __ __# $
+gg, /mm1 4|| 
+gg> B||! %(
+ii jj tt || 
+mm! .nn qq& 3
+qq #tt& 2
+vv' 9xx6 HÂ
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_42.cs
+
+ K
+  77 
+- 0##1 4
+
+? C(
+    ** 22 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+55 
+55) ,77 !
+55; ?77# '
+77 :: (
+88 :: :: ::  
+BB $LL !
+
+BB1 4
+
+BBC G
+DD FF GG 
+JJ ~~ 
+JJ, /LL" %
+JJ> BLL' +
+LL OO (
+MM OO OO OO  
+VV $pp !
+VV1 4\\1 4
+
+VVC G(
+XX YY cc kk 
+\\! .]] ``& 3
+`` #cc& 2
+ee' 9gg6 H
+nn  
+nn, /pp" %
+nn> Bpp' +(
+pp ss ss uu !(
+qq uu uu uu# $
+
+|| 
+||* -~~  
+||< @~~  —	
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_45.cs
+
+ K
+ ## AA 
+ NN  ]]  
+ cc  
+ÖÖ 
+!! BB 
+
+!!% (
+
+!!7 ;
+## && (
+$$ && && &&  
+
+,, 
+,,) ,221 4BB 
+,,; ?BB (
+.. // 99 AA 
+22! .33 66& 3
+66 #99& 2
+;;' 9==6 H
+
+FF 
+FF* -HH II 
+FF< @HH II 
+XX HH 
+pp II 
+LL ^^ 
+
+LL) ,
+
+LL; ?
+NN QQ (
+OO QQ QQ QQ  
+XX% (^^ 
+XX7 ;^^ 
+ZZ \\ ]] 
+aa 
+ÜÜ 
+
+aa) ,
+
+aa; ?(
+cc ff ff hh !(
+dd hh hh hh# $ 
+pp% (vv1 4
+ÜÜ 
+pp7 ;
+ÜÜ *
+rr ss }} 
+ÖÖ 
+vv! .ww zz& 3
+zz #}}& 2
+' 9
+ÅÅ6 Hà
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_51a.cs
+
+ L
+
+ 
+) ,##1 422_ b
+; ?22d h(
+    ** 22W \
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BBc f
+==7 ;BBh l
+?? AA BB[ `
+FF% (LL1 4[[c f
+FF7 ;[[h l(
+HH II SS [[[ `
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H†
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_51b.cs
+
+ L
+
+ 
+# (   
+
+7 :
+
+I M(
+           
+
+)) "
+))' ,-- 
+
+)); >
+
+))M Q(
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !
+
+44; >
+
+44M Q(
+66 :: :: ::# $à
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_52a.cs
+
+ L
+
+ 
+) ,##1 422_ b
+; ?22d h(
+    ** 22W \
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BBc f
+==7 ;BBh l
+?? AA BB[ `
+FF% (LL1 4[[c f
+FF7 ;[[h l(
+HH II SS [[[ `
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_52b.cs
+
+ L
+
+ 
+# (W \
+7 :_ b
+I Md h
+
+$$ "
+$$' ,&&[ `
+$$; >&&c f
+$$M Q&&h l
+
+** "
+**' ,,,[ `
+**; >,,c f
+**M Q,,h l†
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_52c.cs
+
+ L
+
+ 
+# (   
+
+7 :
+
+I M(
+           
+
+)) "
+))' ,-- 
+
+)); >
+
+))M Q(
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !
+
+44; >
+
+44M Q(
+66 :: :: ::# $à
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_53a.cs
+
+ L
+
+ 
+) ,##1 422_ b
+; ?22d h(
+    ** 22W \
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BBc f
+==7 ;BBh l
+?? AA BB[ `
+FF% (LL1 4[[c f
+FF7 ;[[h l(
+HH II SS [[[ `
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_53b.cs
+
+ L
+
+ 
+# (W \
+7 :_ b
+I Md h
+
+$$ "
+$$' ,&&[ `
+$$; >&&c f
+$$M Q&&h l
+
+** "
+**' ,,,[ `
+**; >,,c f
+**M Q,,h l 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_53c.cs
+
+ L
+
+ 
+# (W \
+7 :_ b
+I Md h
+
+$$ "
+$$' ,&&[ `
+$$; >&&c f
+$$M Q&&h l
+
+** "
+**' ,,,[ `
+**; >,,c f
+**M Q,,h l†
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_53d.cs
+
+ L
+
+ 
+# (   
+
+7 :
+
+I M(
+           
+
+)) "
+))' ,-- 
+
+)); >
+
+))M Q(
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !
+
+44; >
+
+44M Q(
+66 :: :: ::# $à
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_54a.cs
+
+ L
+
+ 
+) ,##1 422_ b
+; ?22d h(
+    ** 22W \
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BBc f
+==7 ;BBh l
+?? AA BB[ `
+FF% (LL1 4[[c f
+FF7 ;[[h l(
+HH II SS [[[ `
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_54b.cs
+
+ L
+
+ 
+# (W \
+7 :_ b
+I Md h
+
+$$ "
+$$' ,&&[ `
+$$; >&&c f
+$$M Q&&h l
+
+** "
+**' ,,,[ `
+**; >,,c f
+**M Q,,h l 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_54c.cs
+
+ L
+
+ 
+# (W \
+7 :_ b
+I Md h
+
+$$ "
+$$' ,&&[ `
+$$; >&&c f
+$$M Q&&h l
+
+** "
+**' ,,,[ `
+**; >,,c f
+**M Q,,h l 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_54d.cs
+
+ L
+
+ 
+# (W \
+7 :_ b
+I Md h
+
+$$ "
+$$' ,&&[ `
+$$; >&&c f
+$$M Q&&h l
+
+** "
+**' ,,,[ `
+**; >,,c f
+**M Q,,h l†
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_54e.cs
+
+ L
+
+ 
+# (   
+
+7 :
+
+I M(
+           
+
+)) "
+))' ,-- 
+
+)); >
+
+))M Q(
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !
+
+44; >
+
+44M Q(
+66 :: :: ::# $º
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_61a.cs
+
+ L
+
+ 
+) ,e h
+; ?j n
+ !! (
+ !! !! !!  
+
+(( 
+((* -** ++ 
+((< @** ++ 
+// ** 
+;; ++ 
+//, /11i l
+//> B11n r
+11 44 (
+22 44 44 44  
+;;, /==i l
+;;> B==n r(
+== @@ @@ BB !(
+>> BB BB BB# $Ï
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_61b.cs
+
+ L
+
+ 
+, /##1 4
+
+> B(
+    ** 22 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+88 #
+
+880 3
+
+88B F
+:: << == 
+
+AA #
+AA0 3GG1 4
+
+AAB F(
+CC DD NN VV 
+GG! .HH KK& 3
+KK #NN& 2
+PP' 9RR6 HË
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_66a.cs
+
+ L
+
+ 
+) ,##1 444d g
+; ?44i m(
+    ** 33 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+22 33 44W a
+
+88 
+88* -:: ;; 
+88< @:: ;; 
+?? :: 
+JJ ;; 
+??, /FFh k
+??> BFFm q
+AA CC EE 
+DD EE FF[ e
+JJ, /PP1 4aah k
+JJ> Baam q(
+LL MM WW `` 
+PP! .QQ TT& 3
+TT #WW& 2
+YY' 9[[6 H
+__ `` aa[ e‚
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_66b.cs
+
+ L
+
+ 
+% / 
+
+> A
+
+P T
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+
+**B E
+
+**T X
+,, // (
+-- // // //  
+
+66 "
+66) 388 
+
+66B E
+
+66T X(
+88 ;; ;; == !(
+99 == == ==# $⁄
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_67a.cs
+
+ LF
+ 77 77' 0II II' 0dd dd' 0(
+ 88 #JJ #ee #
+
+"" 
+"") ,((1 499h k
+""; ?99m q(
+$$ %% // 88& +
+((! .)) ,,& 3
+,, #//& 2
+11' 9336 H
+77  88 99W e
+
+== 
+==* -?? @@ 
+==< @?? @@ 
+DD ?? 
+OO @@ 
+DD, /KKl o
+DD> BKKq u
+FF HH JJ& +
+II  JJ KK[ i
+OO, /UU1 4ffl o
+OO> Bffq u(
+QQ RR \\ ee& +
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H
+dd  ee ff[ i
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_67b.cs
+
+ L
+
+ 
+p ~ "
+
+ç ê
+
+ü £
+ !! (
+ !! !! !!  
+
+** "
+	**t Ç,, "
+
+**ë î
+
+**£ ß
+,, // (
+-- // // //  
+
+66 "
+	66t Ç88 "
+
+66ë î
+
+66£ ß(
+88 ;; ;; == !(
+99 == == ==# $“
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_68a.cs
+
+ L<
+ !! ++ AA HH RR 
+
+ 
+) ,$$1 433W Z
+; ?33\ `
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H
+
+77 
+77* -99 :: 
+77< @99 :: 
+>> 99 
+FF :: 
+>>, /BB[ ^
+>>> BBB` d
+FF, /KK1 4ZZ[ ^
+FF> BZZ` d
+KK! .LL OO& 3
+OO #RR& 2
+TT' 9VV6 H†
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_68b.cs
+
+ L
+
+ 
+
++ .
+
+= A
+ !! (
+ !! !! !!  
+
+** "
+
+**/ 2
+
+**A E
+,, // (
+-- // // //  
+
+66 "
+
+66/ 2
+
+66A E(
+88 ;; ;; == !(
+99 == == ==# $à
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_71a.cs
+
+ L
+
+ 
+) ,##1 422g j
+; ?22l p(
+    ** 22_ d
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==, /BBk n
+==> BBBp t
+?? AA BBc h
+FF, /LL1 4[[k n
+FF> B[[p t(
+HH II SS [[c h
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H‚
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_71b.cs
+
+ L
+
+ 
+& 1 $
+
+@ C
+
+R V
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+
+++D G
+
+++V Z
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $
+
+77D G
+
+77V Z(
+99 << << >> !(
+:: >> >> >># $‡
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_72a.cs
+
+ L
+
+ 
+) ,$$1 477h k
+; ?77m q<
+   !! ++ 44 #55 #66 #
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H2
+33  44 55 66 77W e
+
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+OO >> 
+BB, /KKl o
+BB> BKKq u2
+DD FF HH #II #JJ #2
+GG  HH II JJ KK[ i
+OO, /UU1 4hhl o
+OO> Bhhq u<
+QQ RR \\ ee #ff #gg #
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H2
+dd  ee ff gg hh[ i‚
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_72b.cs
+
+ L
+
+ 
+) 7 (
+
+F I
+
+X \
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+
+++J M
+
+++\ `
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 (
+
+77J M
+
+77\ `(
+99 << << >> !(
+:: >> >> >># $‡
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_73a.cs
+
+ L
+
+ 
+) ,$$1 477i l
+; ?77n r<
+   !! ++ 44  %55  %66  %
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H2
+33 '44 55 66 77W f
+
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+OO >> 
+BB, /KKm p
+BB> BKKr v2
+DD FF HH  %II  %JJ  %2
+GG 'HH II JJ KK[ j
+OO, /UU1 4hhm p
+OO> Bhhr v<
+QQ RR \\ ee  %ff  %gg  %
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H2
+dd 'ee ff gg hh[ j‚
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_73b.cs
+
+ L
+
+ 
+/ > #
+
+M P
+
+_ c
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+
+++Q T
+
+++c g
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #
+
+77Q T
+
+77c g(
+99 << << >> !(
+:: >> >> >># $‡
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_74a.cs
+
+ L
+
+ 
+) ,$$1 477i l
+; ?77n r<
+   !! ++ 44 $55 $66 $
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H2
+33 +44 55 66 77W f
+
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+OO >> 
+BB, /KKm p
+BB> BKKr v2
+DD FF HH $II $JJ $2
+GG +HH II JJ KK[ j
+OO, /UU1 4hhm p
+OO> Bhhr v<
+QQ RR \\ ee $ff $gg $
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H2
+dd +ee ff gg hh[ j‚
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_74b.cs
+
+ L
+
+ 
+3 B #
+
+Q T
+
+c g
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+
+++V Y
+
+++h l
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #
+
+77U X
+
+77g k(
+99 << << >> !(
+:: >> >> >># $“	
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_75a.cs
+
+ L
+
+   
+  ) ,&&1 4??m p
+  ; ???r v(
+"" ## -- <<! &
+&&! .'' **& 3
+** #--& 2
+//' 9116 H
+66 == ??[ j
+99 << 
+:: << ==" $
+AA& 5CCZ i
+
+HH 
+HH* -JJ KK 
+HH< @JJ KK 
+OO JJ 
+ww KK 
+OO, /UU1 4nnq t
+OO> Bnnv z(
+QQ RR \\ kk! &
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H
+ee ll nn_ n
+hh kk 
+ii kk ll" $
+pp& 5rrZ i 
+ww, /}}1 4
+ññq t
+ww> B
+ññv z,
+yy zz 
+ÑÑ 
+ìì! & 
+}}! .~~ 
+ÅÅ& 3
+
+ÅÅ #
+ÑÑ& 2
+
+ÜÜ' 9
+àà6 H$
+
+çç 
+îî 
+ññ_ n
+
+êê 
+ìì $
+
+ëë 
+ìì 
+îî" $
+
+òò& 5
+ööZ i†
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_75b.cs
+
+ L
+
+ 
+& 5''  /''4 C
+
+D G
+
+V Z
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+
+;;H K
+
+;;Z ^
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C
+
+UUH K
+
+UUZ ^2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ j 
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_81a.cs
+
+ L
+
+ 
+) ,##1 433" %
+; ?33' +(
+    ** 33 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+22S ]33 
+
+77 
+77* -99 :: 
+77< @99 :: 
+>> 99 
+HH :: 
+>>% (DD" %
+>>7 ;DD' +
+@@ BB DD 
+CCS ]DD 
+HH% (NN1 4^^" %
+HH7 ;^^' +(
+JJ KK UU ^^ 
+NN! .OO RR& 3
+RR #UU& 2
+WW' 9YY6 H
+]]S ]^^ «
+‘C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_81_bad.cs
+
+ O
+
+ 
+$ )   
+
+8 ;
+
+J N(
+           î
+’C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_81_base.cs
+
+ Y
+
+ 
+
+$ )
+
+8 ;
+
+J Nﬂ
+ÿC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_81_goodB2G.cs
+
+ S
+
+ (
+$ )!! !! ## !
+
+8 ;
+
+J N(
+ ## ## ### $À
+ÿC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_for_loop_81_goodG2B.cs
+
+ S
+
+ 
+$ )!! 
+
+8 ;
+
+J N(
+ !! !! !!  ê	
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_01.cs
+
+ H
+
+ 
+) ,%%1 4
+
+; ?(
+!! "" ,, 88 !
+%%! .&& ))& 3
+)) #,,& 2
+..' 9006 H(
+44 88 88 88# $(
+55  << FF HH 
+>># +@@S [
+KK 'MMQ Y
+
+SS 
+SS* -UU VV 
+SS< @UU VV 
+ZZ UU 
+~~ VV 
+
+ZZ% (
+
+ZZ7 ;
+\\ ^^ cc !(
+__ cc cc cc# $(
+``  gg qq ss 
+ii# +kkS [
+vv 'xxQ Y
+~~% (
+ÑÑ1 4
+
+~~7 ;H
+
+ÄÄ 
+ÅÅ 
+ãã 
+îî 
+îî 
+öö  %$
+
+ÑÑ! .
+ÖÖ 
+àà& 3
+
+àà #
+ãã& 2
+
+çç' 9
+èè6 H0
+
+ññ 
+öö 
+öö 
+öö' (0
+
+óó  $
+ûû 
+®® 
+™™ 
+
+††' /
+¢¢W _
+
+≠≠# +
+ØØU ]ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_02.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_03.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_04.cs
+
+ Hd
+## ))) DD uu 
+öö 
+•• 
+   
+ìì 
+ÆÆ  
+$$ *jj 
+ÂÂ 
+
+&& 
+&&) ,..5 8
+
+&&; ?2
+(( ++ 55 BB JJ  %
+..% 2// !22* 7
+22 '55* 6
+77+ =99: L(
+FF JJ JJ JJ' ((
+GG  $NN XX ZZ 
+PP' /RRW _
+]]# +__U ]
+gg 
+’’ 
+
+gg& )
+
+gg8 <(
+ii nn ss {{  %(
+ww {{ {{ {{' (,
+xx  $ 
+ââ 
+ãã 
+
+ÅÅ' /
+ÉÉW _
+
+éé# +
+êêU ]
+
+óó 
+÷÷ 
+
+óó& )
+
+óó8 <0
+
+ôô 
+ùù 
+££ 
+´´  %0
+
+ßß 
+´´ 
+´´ 
+´´' (0
+
+®®  $
+ØØ 
+ππ 
+ªª 
+
+±±' /
+≥≥W _
+
+ææ# +
+¿¿U ]
+
+«« 
+◊◊ 
+
+««& )
+œœ5 8
+
+««8 <T
+
+…… 
+ÃÃ 
+÷÷ 
+„„ 
+ÌÌ 
+ÌÌ "
+ÛÛ$ )$
+
+œœ% 2
+–– !
+””* 7
+
+”” '
+÷÷* 6
+
+ÿÿ+ =
+⁄⁄: L0
+
+ÔÔ 
+ÛÛ 
+ÛÛ  !
+ÛÛ+ ,0
+
+$ (
+˜˜  
+ÅÅ  
+ÉÉ  
+
+˘˘+ 3
+˚˚[ c
+
+ÜÜ' /
+ààY a
+
+êê 
+ÿÿ 
+
+êê& )
+òò5 8
+
+êê8 <T
+
+íí 
+ïï 
+üü 
+¨¨ 
+±± 
+±± "
+∑∑$ )$
+
+òò% 2
+ôô !
+úú* 7
+
+úú '
+üü* 6
+
+°°+ =
+££: L0
+
+≥≥ 
+∑∑ 
+∑∑  !
+∑∑+ ,0
+
+¥¥$ (
+ªª  
+≈≈  
+««  
+
+ΩΩ+ 3
+øø[ c
+
+  ' /
+ÃÃY a
+
+”” <
+
+””* -
+’’ 
+÷÷ 
+◊◊ 
+ÿÿ <
+
+””< @
+’’ 
+÷÷ 
+◊◊ 
+ÿÿ ñ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_05.cs
+
+ Hd
+"" (( CC tt 
+ôô 
+§§ 
+…… 
+íí 
+≠≠  
+## ii 
+‰‰ 
 
 %% 
-00 JJ 
-?? KK 
+%%) ,--5 8
 
-HH Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_09.cs
+%%; ?2
+'' ** 44 AA II  %
+--% 2.. !11* 7
+11 '44* 6
+66+ =88: L(
+EE II II II' ((
+FF  $MM WW YY 
+OO' /QQW _
+\\# +^^U ]
+ff 
+‘‘ 
 
- '
+ff& )
 
- 
-## == 
-22 >> 
+ff8 <(
+hh mm rr zz  %(
+vv zz zz zz' (,
+ww  $~~ 
+àà 
+ää 
 
-;; Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_10.cs
+ÄÄ' /
+ÇÇW _
 
- '
+çç# +
+èèU ]
 
- 
-## == 
-22 >> 
+ññ 
+’’ 
 
-;; Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_11.cs
+ññ& )
 
- '
+ññ8 <0
 
- 
-## == 
-22 >> 
+òò 
+úú 
+¢¢ 
+™™  %0
 
-;; –
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_12.cs
+¶¶ 
+™™ 
+™™ 
+™™' (0
 
- '
+ßß  $
+ÆÆ 
+∏∏ 
+∫∫ 
 
- 
-(( 88 
+∞∞' /
+≤≤W _
 
-66 Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_13.cs
+ΩΩ# +
+øøU ]
 
- '
+∆∆ 
+÷÷ 
 
- 
-## == 
-22 >> 
+∆∆& )
+ŒŒ5 8
 
-;; Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_14.cs
+∆∆8 <T
 
- '
+»» 
+ÀÀ 
+’’ 
+‚‚ 
+ÏÏ 
+ÏÏ "
+ÚÚ$ )$
 
- 
-## == 
-22 >> 
+ŒŒ% 2
+œœ !
+““* 7
 
-;; Ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_15.cs
+““ '
+’’* 6
 
- '
+◊◊+ =
+ŸŸ: L0
 
- 
-)) JJ 
-99 KK 
+ÓÓ 
+ÚÚ 
+ÚÚ  !
+ÚÚ+ ,0
 
-HH –
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_16.cs
+ÔÔ$ (
+ˆˆ  
+ÄÄ  
+ÇÇ  
 
- '
+¯¯+ 3
+˙˙[ c
 
- 
-$$ 00 
+ÖÖ' /
+ááY a
 
-.. ê
-ìC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\CWE398_Code_Quality__semicolon_17.cs
+èè 
+◊◊ 
 
- '
+èè& )
+óó5 8
 
- 
-   
-## .. 
-%% %% %% 
+èè8 <T
 
-,, è
-yC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\Program.cs
+ëë 
+îî 
+ûû 
+´´ 
+∞∞ 
+∞∞ "
+∂∂$ )$
+
+óó% 2
+òò !
+õõ* 7
+
+õõ '
+ûû* 6
+
+††+ =
+¢¢: L0
+
+≤≤ 
+∂∂ 
+∂∂  !
+∂∂+ ,0
+
+≥≥$ (
+∫∫  
+ƒƒ  
+∆∆  
+
+ºº+ 3
+ææ[ c
+
+……' /
+ÀÀY a
+
+““ <
+
+““* -
+‘‘ 
+’’ 
+÷÷ 
+◊◊ <
+
+““< @
+‘‘ 
+’’ 
+÷÷ 
+◊◊ à
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_06.cs
+
+ Hz
+"" ('' BB hh ss 
+òò 
+££ 
+»» 
+„„ 
+ëë 
+¨¨ 
+
+$$ 
+$$) ,,,5 8
+
+$$; ?2
+&& )) 33 @@ HH  %
+,,% 2-- !00* 7
+00 '33* 6
+55+ =77: L(
+DD HH HH HH' ((
+EE  $LL VV XX 
+NN' /PPW _
+[[# +]]U ]
+ee 
+”” 
+
+ee& )
+
+ee8 <(
+gg ll qq yy  %(
+uu yy yy yy' (,
+vv  $}} 
+áá 
+ââ 
+' /
+ÅÅW _
+
+åå# +
+ééU ]
+
+ïï 
+‘‘ 
+
+ïï& )
+
+ïï8 <0
+
+óó 
+õõ 
+°° 
+©©  %0
+
+•• 
+©© 
+©© 
+©©' (0
+
+¶¶  $
+≠≠ 
+∑∑ 
+ππ 
+
+ØØ' /
+±±W _
+
+ºº# +
+ææU ]
+
+≈≈ 
+’’ 
+
+≈≈& )
+ÕÕ5 8
+
+≈≈8 <T
+
+«« 
+   
+‘‘ 
+·· 
+ÎÎ 
+ÎÎ "
+ÒÒ$ )$
+
+ÕÕ% 2
+ŒŒ !
+——* 7
+
+—— '
+‘‘* 6
+
+÷÷+ =
+ÿÿ: L0
+
+ÌÌ 
+ÒÒ 
+ÒÒ  !
+ÒÒ+ ,0
+
+ÓÓ$ (
+ıı  
+ˇˇ  
+ÅÅ  
+
+˜˜+ 3
+˘˘[ c
+
+ÑÑ' /
+ÜÜY a
+
+éé 
+÷÷ 
+
+éé& )
+ññ5 8
+
+éé8 <T
+
+êê 
+ìì 
+ùù 
+™™ 
+ØØ 
+ØØ "
+µµ$ )$
+
+ññ% 2
+óó !
+öö* 7
+
+öö '
+ùù* 6
+
+üü+ =
+°°: L0
+
+±± 
+µµ 
+µµ  !
+µµ+ ,0
+
+≤≤$ (
+ππ  
+√√  
+≈≈  
+
+ªª+ 3
+ΩΩ[ c
+
+»»' /
+  Y a
+
+—— <
+
+——* -
+”” 
+‘‘ 
+’’ 
+÷÷ <
+
+——< @
+”” 
+‘‘ 
+’’ 
+÷÷ à
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_07.cs
+
+ Hz
+"" '' BB hh ss 
+òò 
+££ 
+»» 
+„„ 
+ëë 
+¨¨ 
+
+$$ 
+$$) ,,,5 8
+
+$$; ?2
+&& )) 33 @@ HH  %
+,,% 2-- !00* 7
+00 '33* 6
+55+ =77: L(
+DD HH HH HH' ((
+EE  $LL VV XX 
+NN' /PPW _
+[[# +]]U ]
+ee 
+”” 
+
+ee& )
+
+ee8 <(
+gg ll qq yy  %(
+uu yy yy yy' (,
+vv  $}} 
+áá 
+ââ 
+' /
+ÅÅW _
+
+åå# +
+ééU ]
+
+ïï 
+‘‘ 
+
+ïï& )
+
+ïï8 <0
+
+óó 
+õõ 
+°° 
+©©  %0
+
+•• 
+©© 
+©© 
+©©' (0
+
+¶¶  $
+≠≠ 
+∑∑ 
+ππ 
+
+ØØ' /
+±±W _
+
+ºº# +
+ææU ]
+
+≈≈ 
+’’ 
+
+≈≈& )
+ÕÕ5 8
+
+≈≈8 <T
+
+«« 
+   
+‘‘ 
+·· 
+ÎÎ 
+ÎÎ "
+ÒÒ$ )$
+
+ÕÕ% 2
+ŒŒ !
+——* 7
+
+—— '
+‘‘* 6
+
+÷÷+ =
+ÿÿ: L0
+
+ÌÌ 
+ÒÒ 
+ÒÒ  !
+ÒÒ+ ,0
+
+ÓÓ$ (
+ıı  
+ˇˇ  
+ÅÅ  
+
+˜˜+ 3
+˘˘[ c
+
+ÑÑ' /
+ÜÜY a
+
+éé 
+÷÷ 
+
+éé& )
+ññ5 8
+
+éé8 <T
+
+êê 
+ìì 
+ùù 
+™™ 
+ØØ 
+ØØ "
+µµ$ )$
+
+ññ% 2
+óó !
+öö* 7
+
+öö '
+ùù* 6
+
+üü+ =
+°°: L0
+
+±± 
+µµ 
+µµ  !
+µµ+ ,0
+
+≤≤$ (
+ππ  
+√√  
+≈≈  
+
+ªª+ 3
+ΩΩ[ c
+
+»»' /
+  Y a
+
+—— <
+
+——* -
+”” 
+‘‘ 
+’’ 
+÷÷ <
+
+——< @
+”” 
+‘‘ 
+’’ 
+÷÷ †
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_08.cs
+
+ Hd
+"" *// JJ {{ 
+†† 
+´´ 
+–– 
+ôô 
+¥¥  
+'' +pp 
+ÎÎ 
+
+,, 
+,,) ,445 8
+
+,,; ?2
+.. 11 ;; HH PP  %
+44% 255 !88* 7
+88 ';;* 6
+==+ =??: L(
+LL PP PP PP' ((
+MM  $TT ^^ `` 
+VV' /XXW _
+cc# +eeU ]
+mm 
+€€ 
+
+mm& )
+
+mm8 <*
+oo tt yy 
+ÅÅ  %.
+}} 
+ÅÅ 
+ÅÅ 
+ÅÅ' (.
+~~  $
+ÖÖ 
+èè 
+ëë 
+
+áá' /
+ââW _
+
+îî# +
+ññU ]
+
+ùù 
+‹‹ 
+
+ùù& )
+
+ùù8 <0
+
+üü 
+££ 
+©© 
+±±  %0
+
+≠≠ 
+±± 
+±± 
+±±' (0
+
+ÆÆ  $
+µµ 
+øø 
+¡¡ 
+
+∑∑' /
+ππW _
+
+ƒƒ# +
+∆∆U ]
+
+ÕÕ 
+›› 
+
+ÕÕ& )
+’’5 8
+
+ÕÕ8 <T
+
+œœ 
+““ 
+‹‹ 
+ÈÈ 
+ÛÛ 
+ÛÛ "
+˘˘$ )$
+
+’’% 2
+÷÷ !
+ŸŸ* 7
+
+ŸŸ '
+‹‹* 6
+
+ﬁﬁ+ =
+‡‡: L0
+
+ıı 
+˘˘ 
+˘˘  !
+˘˘+ ,0
+
+ˆˆ$ (
+˝˝  
+áá  
+ââ  
+
+ˇˇ+ 3
+ÅÅ[ c
+
+åå' /
+ééY a
+
+ññ 
+ﬁﬁ 
+
+ññ& )
+ûû5 8
+
+ññ8 <T
+
+òò 
+õõ 
+•• 
+≤≤ 
+∑∑ 
+∑∑ "
+ΩΩ$ )$
+
+ûû% 2
+üü !
+¢¢* 7
+
+¢¢ '
+••* 6
+
+ßß+ =
+©©: L0
+
+ππ 
+ΩΩ 
+ΩΩ  !
+ΩΩ+ ,0
+
+∫∫$ (
+¡¡  
+ÀÀ  
+ÕÕ  
+
+√√+ 3
+≈≈[ c
+
+––' /
+““Y a
+
+ŸŸ <
+
+ŸŸ* -
+€€ 
+‹‹ 
+›› 
+ﬁﬁ <
+
+ŸŸ< @
+€€ 
+‹‹ 
+›› 
+ﬁﬁ ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_09.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_10.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_11.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ﬂ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_12.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?P
+!! $$ .. :: BB  %^^ ^^ "dd$ )
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+>> BB BB BB' ((
+??  $FF PP RR 
+HH' /JJW _
+UU# +WWU ](
+`` dd dd  !dd+ ,(
+aa$ (hh  rr  tt  
+jj+ 3ll[ c
+ww' /yyY a
+
+ÉÉ 
+   
+
+ÉÉ% (
+
+ÉÉ7 ;<
+
+ÖÖ 
+ââ 
+éé 
+ññ  %
+µµ  %0
+
+íí 
+ññ 
+ññ 
+ññ' (0
+
+ìì  $
+öö 
+§§ 
+¶¶ 
+
+úú' /
+ûûW _
+
+©©# +
+´´U ]0
+
+±± 
+µµ 
+µµ 
+µµ' (0
+
+≤≤  $
+ππ 
+√√ 
+≈≈ 
+
+ªª' /
+ΩΩW _
+
+»»# +
+  U ]
+
+““ 
+ÀÀ $
+
+““% (
+⁄⁄5 8
+ÔÔ5 8
+
+““7 ;Ñ
+
+‘‘ 
+◊◊ 
+·· 
+ÏÏ 
+ˆˆ 
+ÇÇ 
+ÇÇ "
+àà$ )
+•• 
+•• "
+´´$ )$
+
+⁄⁄% 2
+€€ !
+ﬁﬁ* 7
+
+ﬁﬁ '
+··* 6
+
+„„+ =
+ÂÂ: L$
+
+ÔÔ% 2
+ !
+ÛÛ* 7
+
+ÛÛ '
+ˆˆ* 6
+
+¯¯+ =
+˙˙: L0
+
+ÑÑ 
+àà 
+àà  !
+àà+ ,0
+
+ÖÖ$ (
+åå  
+ññ  
+òò  
+
+éé+ 3
+êê[ c
+
+õõ' /
+ùùY a0
+
+ßß 
+´´ 
+´´  !
+´´+ ,0
+
+®®$ (
+ØØ  
+ππ  
+ªª  
+
+±±+ 3
+≥≥[ c
+
+ææ' /
+¿¿Y a
+
+«« $
+
+««* -
+   
+ÀÀ $
+
+««< @
+   
+ÀÀ ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_13.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ä
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_14.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?2
+!! $$ .. ;; CC  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]
+`` 
+ŒŒ 
+
+``& )
+
+``8 <(
+bb gg ll tt  %(
+pp tt tt tt' (,
+qq  $xx 
+ÇÇ 
+ÑÑ 
+zz' /||W _
+
+áá# +
+ââU ]
+
+êê 
+œœ 
+
+êê& )
+
+êê8 <0
+
+íí 
+ññ 
+úú 
+§§  %0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¿¿ 
+–– 
+
+¿¿& )
+»»5 8
+
+¿¿8 <T
+
+¬¬ 
+≈≈ 
+œœ 
+‹‹ 
+ÊÊ 
+ÊÊ "
+ÏÏ$ )$
+
+»»% 2
+…… !
+ÃÃ* 7
+
+ÃÃ '
+œœ* 6
+
+——+ =
+””: L0
+
+ËË 
+ÏÏ 
+ÏÏ  !
+ÏÏ+ ,0
+
+ÈÈ$ (
+  
+˙˙  
+¸¸  
+
+ÚÚ+ 3
+ÙÙ[ c
+
+ˇˇ' /
+ÅÅY a
+
+ââ 
+—— 
+
+ââ& )
+ëë5 8
+
+ââ8 <T
+
+ãã 
+éé 
+òò 
+•• 
+™™ 
+™™ "
+∞∞$ )$
+
+ëë% 2
+íí !
+ïï* 7
+
+ïï '
+òò* 6
+
+öö+ =
+úú: L0
+
+¨¨ 
+∞∞ 
+∞∞  !
+∞∞+ ,0
+
+≠≠$ (
+¥¥  
+ææ  
+¿¿  
+
+∂∂+ 3
+∏∏[ c
+
+√√' /
+≈≈Y a
+
+ÃÃ <
+
+ÃÃ* -
+ŒŒ 
+œœ 
+–– 
+—— <
+
+ÃÃ< @
+ŒŒ 
+œœ 
+–– 
+—— ê
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_15.cs
+
+ H
+
+ 
+) ,((5 8
+
+; ?2
+!! %% // ;; EE  %
+((% 2)) !,,* 7
+,, '//* 6
+11+ =33: L(
+AA EE EE EE' ((
+BB  $II SS UU 
+KK' /MMW _
+XX# +ZZU ]
+gg 
+ÏÏ 
+
+gg& )
+
+gg8 <(
+ii oo ss }}  %(
+yy }} }} }}' (.
+zz  $
+ÅÅ 
+ãã 
+çç 
+
+ÉÉ' /
+ÖÖW _
+
+êê# +
+ííU ]
+
+ûû 
+ÌÌ 
+
+ûû& )
+
+ûû8 <0
+
+†† 
+•• 
+™™ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+’’ 
+ÓÓ 
+
+’’& )
+ﬁﬁ5 8
+
+’’8 <T
+
+◊◊ 
+€€ 
+ÂÂ 
+ÒÒ 
+¸¸ 
+¸¸ "
+ÇÇ$ )$
+
+ﬁﬁ% 2
+ﬂﬂ !
+‚‚* 7
+
+‚‚ '
+ÂÂ* 6
+
+ÁÁ+ =
+ÈÈ: L0
+
+˛˛ 
+ÇÇ 
+ÇÇ  !
+ÇÇ+ ,0
+
+ˇˇ$ (
+ÜÜ  
+êê  
+íí  
+
+àà+ 3
+ää[ c
+
+ïï' /
+óóY a
+
+†† 
+ÔÔ 
+
+††& )
+©©5 8
+
+††8 <T
+
+¢¢ 
+¶¶ 
+∞∞ 
+ºº 
+√√ 
+√√ "
+……$ )$
+
+©©% 2
+™™ !
+≠≠* 7
+
+≠≠ '
+∞∞* 6
+
+≤≤+ =
+¥¥: L0
+
+≈≈ 
+…… 
+……  !
+……+ ,0
+
+∆∆$ (
+ÕÕ  
+◊◊  
+ŸŸ  
+
+œœ+ 3
+——[ c
+
+‹‹' /
+ﬁﬁY a
+
+ÍÍ <
+
+ÍÍ* -
+ÏÏ 
+ÌÌ 
+ÓÓ 
+ÔÔ <
+
+ÍÍ< @
+ÏÏ 
+ÌÌ 
+ÓÓ 
+ÔÔ ™	
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_16.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?(
+!! $$ .. >>  %
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L(
+:: >> >> >>' ((
+;;  $BB LL NN 
+DD' /FFW _
+QQ# +SSU ]
+\\ 
+…… 
+
+\\% (
+
+\\7 ;
+^^ bb kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]
+
+àà 
+   
+
+àà% (
+êê5 8
+
+àà7 ;H
+
+ää 
+çç 
+óó 
+§§ 
+§§ "
+™™$ )$
+
+êê% 2
+ëë !
+îî* 7
+
+îî '
+óó* 6
+
+ôô+ =
+õõ: L0
+
+¶¶ 
+™™ 
+™™  !
+™™+ ,0
+
+ßß$ (
+ÆÆ  
+∏∏  
+∫∫  
+
+∞∞+ 3
+≤≤[ c
+
+ΩΩ' /
+øøY a
+
+«« $
+
+««* -
+…… 
+   $
+
+««< @
+…… 
+   é
+
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_17.cs
+
+ H
+
+ 
+) ,))1 4
+
+; ?(
+!! && 00 >>  %
+))! .** --& 3
+-- #00& 2
+22' 9446 H
+88 88 88  (
+:: >> >> >>' ((
+;;  $BB LL NN 
+DD' /FFW _
+QQ# +SSU ]
+[[ 
+ææ 
+
+[[% (
+
+[[7 ;
+]] __ ff  %
+`` `` ``  (
+bb ff ff ff' ((
+cc  $jj tt vv 
+ll' /nnW _
+yy# +{{U ]
+
+ÇÇ 
+øø 
+
+ÇÇ% (
+àà1 4
+
+ÇÇ7 ;H
+
+ÑÑ 
+ÖÖ 
+èè 
+öö 
+öö "
+††$ )$
+
+àà! .
+ââ 
+åå& 3
+
+åå #
+èè& 2
+
+ëë' 9
+ìì6 H$
+
+óó 
+óó 
+óó  0
+
+úú 
+†† 
+††  !
+††+ ,0
+
+ùù$ (
+§§  
+ÆÆ  
+∞∞  
+
+¶¶+ 3
+®®[ c
+
+≥≥' /
+µµY a
+
+ºº $
+
+ºº* -
+ææ 
+øø $
+
+ºº< @
+ææ 
+øø  
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_21.cs
+
+ H
+   77 == 
+
+"" 
+"") ,((1 488 
+""; ?88 !(
+$$ %% // 88 
+((! .)) ,,& 3
+,, #//& 2
+11' 9336 H
+;; 88 
+;; "CC  %
+
+;;1 4
+
+;;C G(
+?? CC CC CC' ((
+@@  $GG QQ SS 
+II' /KKW _
+VV# +XXU ]"
+__  
+ÄÄ 
+ÜÜ "
+``  
+∆∆ 
+ÃÃ "
+aa 
+˜˜ 
+˝˝ 
+
+cc (
+cc* -ee ff gg (
+cc< @ee ff gg 
+kk ee 
+
+±± ff 
+
+ÚÚ gg  
+kk& )qq1 4
+ÅÅ  
+kk8 <
+ÅÅ" &*
+mm nn xx 
+ÅÅ 
+qq! .rr uu& 3
+uu #xx& 2
+zz' 9||6 H
+
+ÑÑ 
+ÅÅ 0
+
+ÑÑ" '
+éé 
+éé "
+îî$ )
+
+ÑÑ6 9
+
+ÑÑH L0
+
+êê 
+îî 
+îî  !
+îî+ ,0
+
+ëë$ (
+òò  
+¢¢  
+§§  
+
+öö+ 3
+úú[ c
+
+ßß' /
+©©Y a$
+
+±±& )
+∑∑1 4
+««  
+
+±±8 <
+««" &0
+
+≥≥ 
+¥¥ 
+ææ 
+«« $
+
+∑∑! .
+∏∏ 
+ªª& 3
+
+ªª #
+ææ& 2
+
+¿¿' 9
+¬¬6 H
+
+   
+«« 0
+
+  " '
+œœ 
+œœ "
+’’$ )
+
+  6 9
+
+  H L0
+
+—— 
+’’ 
+’’  !
+’’+ ,0
+
+““$ (
+ŸŸ  
+„„  
+ÂÂ  
+
+€€+ 3
+››[ c
+
+ËË' /
+ÍÍY a
+
+ÚÚ% (
+¯¯ 
+
+ÚÚ7 ;
+¯¯! %$
+
+ÙÙ 
+ˆˆ 
+¯¯ 
+
+˚˚ 
+¯¯ 
+
+˚˚! &
+ÉÉ  %
+
+˚˚5 8
+
+˚˚G K0
+
+ˇˇ 
+ÉÉ 
+ÉÉ 
+ÉÉ' (0
+
+ÄÄ  $
+áá 
+ëë 
+ìì 
+
+ââ' /
+ããW _
+
+ññ# +
+òòU ]π
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_22a.cs
+
+ I
+ &55 
+
+   
+  ) ,&&1 466\ _
+  ; ?66a e(
+"" ## -- 66T Y
+&&! .'' **& 3
+** #--& 2
+//' 9116 H
+:: +[[ 
+;; +uu 
+<< * 
+
+>> (
+>>* -@@ AA BB (
+>>< @@@ AA BB 
+FF @@ 
+`` AA 
+zz BB 
+FF& )LL1 4\\a d
+FF8 <\\f j(
+HH II SS \\Y ^
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H
+``& )ff1 4vva d
+``8 <vvf j(
+bb cc mm vvY ^
+ff! .gg jj& 3
+jj #mm& 2
+oo' 9qq6 H
+zz% (
+ÄÄ` c
+zz7 ;
+ÄÄe i 
+|| ~~ 
+ÄÄX ]”
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_22b.cs
+
+ I
+
+ 
+# (&&  %CC 
+
+7 :
+
+I M(
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )
+
+JJ< ?
+
+JJN R(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° 
+
+xx< ?
+
+xxN R.
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 
+
+¶¶; >
+
+¶¶M Q0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]»
+
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_31.cs
+
+ H
+
+ 
+) ,''5 8
+
+; ?
+!! 66 99 !(
+## $$ .. 66 
+''% 2(( !++* 7
+++ '..* 6
+00+ =22: L
+99 >>  %(
+:: >> >> >>' ((
+;;  $BB LL NN 
+DD' /FFW _
+QQ# +SSU ]
+
+ZZ 
+ZZ* -\\ ]] 
+ZZ< @\\ ]] 
+aa \\ 
+
+åå ]] 
+
+aa% (
+
+aa7 ;
+cc hh kk !
+ee gg hh 
+kk pp  %(
+ll pp pp pp' (*
+mm  $tt ~~ 
+ÄÄ 
+vv' /xxW _
+
+ÉÉ# +
+ÖÖU ]
+
+åå% (
+îî5 8
+
+åå7 ;$
+
+éé 
+££ 
+¶¶ !0
+
+êê 
+ëë 
+õõ 
+££ $
+
+îî% 2
+ïï !
+òò* 7
+
+òò '
+õõ* 6
+
+ùù+ =
+üü: L0
+
+¶¶ 
+®® 
+®® "
+ÆÆ$ )0
+
+™™ 
+ÆÆ 
+ÆÆ  !
+ÆÆ+ ,0
+
+´´$ (
+≤≤  
+ºº  
+ææ  
+
+¥¥+ 3
+∂∂[ c
+
+¡¡' /
+√√Y a∫
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_41.cs
+
+ H
+ TT 
+$ )%% !
+
+8 ;
+
+J N(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+?? 
+??) ,EE1 4TT 
+??; ?TT !(
+AA BB LL TT 
+EE! .FF II& 3
+II #LL& 2
+NN' 9PP6 H
+
+XX 
+XX* -ZZ [[ 
+XX< @ZZ [[ 
+ ZZ 
+
+¨¨ [[ 
+^^ #
+ÑÑ 
+^^( -dd !
+
+^^< ?
+
+^^N R(
+`` dd dd dd# $(
+aa  hh rr tt 
+jj# +llS [
+ww 'yyQ Y
+, /
+ÑÑ 
+> B
+ÑÑ! %$
+
+ÅÅ 
+ÉÉ 
+ÑÑ 
+
+áá #
+¡¡ 0
+
+áá( -
+ää 
+ää 
+êê  %
+
+áá< ?
+
+ááN R0
+
+åå 
+êê 
+êê 
+êê' (0
+
+çç  $
+îî 
+ûû 
+†† 
+
+ññ' /
+òòW _
+
+££# +
+••U ]$
+
+¨¨, /
+≤≤1 4
+¡¡ 
+
+¨¨> B
+¡¡! %0
+
+ÆÆ 
+ØØ 
+ππ 
+¡¡ $
+
+≤≤! .
+≥≥ 
+∂∂& 3
+
+∂∂ #
+ππ& 2
+
+ªª' 9
+ΩΩ6 H¿
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_42.cs
+
+ H
+  99 
+- 0%%1 4
+
+? C(
+!! "" ,, 44 
+%%! .&& ))& 3
+)) #,,& 2
+..' 9006 H
+
+77 
+77) ,99 !
+77; ?99# '
+99 >> !(
+:: >> >> >># $(
+;;  BB LL NN 
+DD# +FFS [
+QQ 'SSQ Y
+ZZ $dd !
+
+ZZ1 4
+
+ZZC G
+\\ ^^ __ 
+bb 
+√√ 
+bb, /dd" %
+bb> Bdd' +
+dd ii !(
+ee ii ii ii# $(
+ff  mm ww yy 
+oo# +qqS [
+|| '~~Q Y
+
+ÑÑ $
+ûû !
+
+ÑÑ1 4
+ää1 4
+
+ÑÑC G0
+
+ÜÜ 
+áá 
+ëë 
+ôô $
+
+ää! .
+ãã 
+éé& 3
+
+éé #
+ëë& 2
+
+ìì' 9
+ïï6 H
+
+úú 
+ƒƒ 
+
+úú, /
+ûû" %
+
+úú> B
+ûû' +0
+
+ûû 
+†† 
+†† 
+¶¶  %0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (0
+
+££  $
+™™ 
+¥¥ 
+∂∂ 
+
+¨¨' /
+ÆÆW _
+
+ππ# +
+ªªU ]
+
+¡¡ $
+
+¡¡* -
+√√ 
+ƒƒ $
+
+¡¡< @
+√√ 
+ƒƒ ®
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_45.cs
+
+ H
+ %% YY  
+   ff  
+ãã "
+!! 
+ëë  
+   
+## ZZ 
+
+##% (
+
+##7 ;
+%% ** !(
+&& ** ** **# $(
+''  .. 88 :: 
+00# +22S [
+== '??Q Y
+
+DD 
+DD) ,JJ1 4ZZ 
+DD; ?ZZ (
+FF GG QQ YY 
+JJ! .KK NN& 3
+NN #QQ& 2
+SS' 9UU6 H
+
+^^ 
+^^* -`` aa 
+^^< @`` aa 
+
+ÜÜ `` 
+
+µµ aa 
+dd 
+åå 
+
+dd) ,
+
+dd; ?
+ff kk !(
+gg kk kk kk# $(
+hh  oo yy {{ 
+qq# +ssS [
+~~ '
+ÄÄQ Y
+
+ÜÜ% (
+åå 
+
+ÜÜ7 ;
+åå $
+
+àà 
+ää 
+ãã 
+
+èè 
+ÀÀ 
+
+èè) ,
+
+èè; ?0
+
+ëë 
+ìì 
+ìì 
+ôô  %0
+
+ïï 
+ôô 
+ôô 
+ôô' (0
+
+ññ  $
+ùù 
+ßß 
+©© 
+
+üü' /
+°°W _
+
+¨¨# +
+ÆÆU ]$
+
+µµ% (
+ªª1 4
+ÀÀ 
+
+µµ7 ;
+ÀÀ 0
+
+∑∑ 
+∏∏ 
+¬¬ 
+   $
+
+ªª! .
+ºº 
+øø& 3
+
+øø #
+¬¬& 2
+
+ƒƒ' 9
+∆∆6 HÖ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_51a.cs
+
+ I
+
+ 
+) ,##1 422\ _
+; ?22a e(
+    ** 22T Y
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BB` c
+==7 ;BBe i
+?? AA BBX ]
+FF% (LL1 4[[` c
+FF7 ;[[e i(
+HH II SS [[X ]
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H°
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_51b.cs
+
+ I
+
+ 
+# ($$ !
+
+7 :
+
+I M(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !
+
+AA; >
+
+AAM Q(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %
+
+bb; >
+
+bbM Q(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Ö
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_52a.cs
+
+ I
+
+ 
+) ,##1 422\ _
+; ?22a e(
+    ** 22T Y
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BB` c
+==7 ;BBe i
+?? AA BBX ]
+FF% (LL1 4[[` c
+FF7 ;[[e i(
+HH II SS [[X ]
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_52b.cs
+
+ I
+
+ 
+# (  T Y
+7 :  \ _
+I M  a e
+
+&& "
+&&' ,((X ]
+&&; >((` c
+&&M Q((e i
+
+,, "
+,,' ,..X ]
+,,; >..` c
+,,M Q..e i°
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_52c.cs
+
+ I
+
+ 
+# ($$ !
+
+7 :
+
+I M(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !
+
+AA; >
+
+AAM Q(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %
+
+bb; >
+
+bbM Q(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Ö
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_53a.cs
+
+ I
+
+ 
+) ,##1 422\ _
+; ?22a e(
+    ** 22T Y
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BB` c
+==7 ;BBe i
+?? AA BBX ]
+FF% (LL1 4[[` c
+FF7 ;[[e i(
+HH II SS [[X ]
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_53b.cs
+
+ I
+
+ 
+# (  T Y
+7 :  \ _
+I M  a e
+
+&& "
+&&' ,((X ]
+&&; >((` c
+&&M Q((e i
+
+,, "
+,,' ,..X ]
+,,; >..` c
+,,M Q..e i«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_53c.cs
+
+ I
+
+ 
+# (  T Y
+7 :  \ _
+I M  a e
+
+&& "
+&&' ,((X ]
+&&; >((` c
+&&M Q((e i
+
+,, "
+,,' ,..X ]
+,,; >..` c
+,,M Q..e i°
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_53d.cs
+
+ I
+
+ 
+# ($$ !
+
+7 :
+
+I M(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !
+
+AA; >
+
+AAM Q(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %
+
+bb; >
+
+bbM Q(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]Ö
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_54a.cs
+
+ I
+
+ 
+) ,##1 422\ _
+; ?22a e(
+    ** 22T Y
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==% (BB` c
+==7 ;BBe i
+?? AA BBX ]
+FF% (LL1 4[[` c
+FF7 ;[[e i(
+HH II SS [[X ]
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 H«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_54b.cs
+
+ I
+
+ 
+# (  T Y
+7 :  \ _
+I M  a e
+
+&& "
+&&' ,((X ]
+&&; >((` c
+&&M Q((e i
+
+,, "
+,,' ,..X ]
+,,; >..` c
+,,M Q..e i«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_54c.cs
+
+ I
+
+ 
+# (  T Y
+7 :  \ _
+I M  a e
+
+&& "
+&&' ,((X ]
+&&; >((` c
+&&M Q((e i
+
+,, "
+,,' ,..X ]
+,,; >..` c
+,,M Q..e i«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_54d.cs
+
+ I
+
+ 
+# (  T Y
+7 :  \ _
+I M  a e
+
+&& "
+&&' ,((X ]
+&&; >((` c
+&&M Q((e i
+
+,, "
+,,' ,..X ]
+,,; >..` c
+,,M Q..e i°
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_54e.cs
+
+ I
+
+ 
+# ($$ !
+
+7 :
+
+I M(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !
+
+AA; >
+
+AAM Q(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %
+
+bb; >
+
+bbM Q(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]√
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_61a.cs
+
+ I
+
+ 
+) ,  b e
+; ?  g k
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+@@ 
+@@* -BB CC 
+@@< @BB CC 
+GG BB 
+ii CC 
+GG, /IIf i
+GG> BIIk o
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y
+ii, /kkf i
+ii> Bkkk o(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
+
+ÜÜ# +
+ààU ]È
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_61b.cs
+
+ I
+
+ 
+, /##1 4
+
+> B(
+    ** 22 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+88 #
+
+880 3
+
+88B F
+:: << == 
+
+AA #
+AA0 3GG1 4
+
+AAB F(
+CC DD NN VV 
+GG! .HH KK& 3
+KK #NN& 2
+PP' 9RR6 HÂ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_66a.cs
+
+ I
+
+ 
+) ,##1 444a d
+; ?44f j(
+    ** 33 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+22 33 44T ^
+
+88 
+88* -:: ;; 
+88< @:: ;; 
+?? :: 
+JJ ;; 
+??, /FFe h
+??> BFFj n
+AA CC EE 
+DD EE FFX b
+JJ, /PP1 4aae h
+JJ> Baaj n(
+LL MM WW `` 
+PP! .QQ TT& 3
+TT #WW& 2
+YY' 9[[6 H
+__ `` aaX bÂ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_66b.cs
+
+ I
+
+ 
+% /   
+
+> A
+
+P T
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+
+BBB E
+
+BBT X
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff 
+
+ddB E
+
+ddT X(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]◊
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_67a.cs
+
+ IF
+ 77 77' 0II II' 0dd dd' 0(
+ 88 #JJ #ee #
+
+"" 
+"") ,((1 499e h
+""; ?99j n(
+$$ %% // 88& +
+((! .)) ,,& 3
+,, #//& 2
+11' 9336 H
+77  88 99T b
+
+== 
+==* -?? @@ 
+==< @?? @@ 
+DD ?? 
+OO @@ 
+DD, /KKi l
+DD> BKKn r
+FF HH JJ& +
+II  JJ KKX f
+OO, /UU1 4ffi l
+OO> Bffn r(
+QQ RR \\ ee& +
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H
+dd  ee ffX fÒ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_67b.cs
+
+ I
+
+ 
+m {   "
+
+ä ç
+
+ú †
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBq DD "
+
+BBé ë
+
+BB† §
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddq ff "
+
+ddé ë
+
+dd† §(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]œ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_68a.cs
+
+ I<
+ !! ++ AA HH RR 
+
+ 
+) ,$$1 433T W
+; ?33Y ]
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H
+
+77 
+77* -99 :: 
+77< @99 :: 
+>> 99 
+FF :: 
+>>, /BBX [
+>>> BBB] a
+FF, /KK1 4ZZX [
+FF> BZZ] a
+KK! .LL OO& 3
+OO #RR& 2
+TT' 9VV6 H£
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_68b.cs
+
+ I
+
+ 
+
++ .
+
+= A
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+
+BB/ 2
+
+BBA E
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+
+dd/ 2
+
+ddA E(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]Ö
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_71a.cs
+
+ I
+
+ 
+) ,##1 422d g
+; ?22i m(
+    ** 22\ a
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+
+66 
+66* -88 99 
+66< @88 99 
+== 88 
+FF 99 
+==, /BBh k
+==> BBBm q
+?? AA BB` e
+FF, /LL1 4[[h k
+FF> B[[m q(
+HH II SS [[` e
+LL! .MM PP& 3
+PP #SS& 2
+UU' 9WW6 HÂ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_71b.cs
+
+ I
+
+ 
+& 1!! $
+
+@ C
+
+R V
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+
+CCD G
+
+CCV Z
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $
+
+eeD G
+
+eeV Z(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]›
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_72a.cs
+
+ I
+
+ 
+) ,$$1 477e h
+; ?77j n<
+   !! ++ 44 #55 #66 #
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H2
+33  44 55 66 77T b
+
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+OO >> 
+BB, /KKi l
+BB> BKKn r2
+DD FF HH #II #JJ #2
+GG  HH II JJ KKX f
+OO, /UU1 4hhi l
+OO> Bhhn r<
+QQ RR \\ ee #ff #gg #
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H2
+dd  ee ff gg hhX fÂ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_72b.cs
+
+ I
+
+ 
+) 7!! (
+
+F I
+
+X \
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+
+CCJ M
+
+CC\ `
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg (
+
+eeJ M
+
+ee\ `(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]›
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_73a.cs
+
+ I
+
+ 
+) ,$$1 477f i
+; ?77k o<
+   !! ++ 44  %55  %66  %
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H2
+33 '44 55 66 77T c
+
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+OO >> 
+BB, /KKj m
+BB> BKKo s2
+DD FF HH  %II  %JJ  %2
+GG 'HH II JJ KKX g
+OO, /UU1 4hhj m
+OO> Bhho s<
+QQ RR \\ ee  %ff  %gg  %
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H2
+dd 'ee ff gg hhX gÂ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_73b.cs
+
+ I
+
+ 
+/ >!! #
+
+M P
+
+_ c
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+
+CCQ T
+
+CCc g
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #
+
+eeQ T
+
+eec g(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]›
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_74a.cs
+
+ I
+
+ 
+) ,$$1 477f i
+; ?77k o<
+   !! ++ 44 $55 $66 $
+$$! .%% ((& 3
+(( #++& 2
+--' 9//6 H2
+33 +44 55 66 77T c
+
+;; 
+;;* -== >> 
+;;< @== >> 
+BB == 
+OO >> 
+BB, /KKj m
+BB> BKKo s2
+DD FF HH $II $JJ $2
+GG +HH II JJ KKX g
+OO, /UU1 4hhj m
+OO> Bhho s<
+QQ RR \\ ee $ff $gg $
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H2
+dd +ee ff gg hhX gÂ
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_74b.cs
+
+ I
+
+ 
+3 B!! #
+
+Q T
+
+c g
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+
+CCV Y
+
+CCh l
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #
+
+eeU X
+
+eeg k(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]œ	
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_75a.cs
+
+ I
+
+   
+  ) ,&&1 4??j m
+  ; ???o s(
+"" ## -- <<! &
+&&! .'' **& 3
+** #--& 2
+//' 9116 H
+66 == ??X g
+99 << 
+:: << ==" $
+AA& 5CCZ i
+
+HH 
+HH* -JJ KK 
+HH< @JJ KK 
+OO JJ 
+ww KK 
+OO, /UU1 4nnn q
+OO> Bnns w(
+QQ RR \\ kk! &
+UU! .VV YY& 3
+YY #\\& 2
+^^' 9``6 H
+ee ll nn\ k
+hh kk 
+ii kk ll" $
+pp& 5rrZ i 
+ww, /}}1 4
+ññn q
+ww> B
+ññs w,
+yy zz 
+ÑÑ 
+ìì! & 
+}}! .~~ 
+ÅÅ& 3
+
+ÅÅ #
+ÑÑ& 2
+
+ÜÜ' 9
+àà6 H$
+
+çç 
+îî 
+ññ\ k
+
+êê 
+ìì $
+
+ëë 
+ìì 
+îî" $
+
+òò& 5
+ööZ i›	
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_75b.cs
+
+ I
+
+   
+  & 5((  /((4 C
+
+  D G
+
+  V Z
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+
+RRH K
+
+RRZ ^
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C
+
+ÇÇH K
+
+ÇÇZ ^<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ j«
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_81a.cs
+
+ I
+
+ 
+) ,##1 433" %
+; ?33' +(
+    ** 33 
+##! .$$ ''& 3
+'' #**& 2
+,,' 9..6 H
+22P Z33 
+
+77 
+77* -99 :: 
+77< @99 :: 
+>> 99 
+HH :: 
+>>% (DD" %
+>>7 ;DD' +
+@@ BB DD 
+CCP ZDD 
+HH% (NN1 4^^" %
+HH7 ;^^' +(
+JJ KK UU ^^ 
+NN! .OO RR& 3
+RR #UU& 2
+WW' 9YY6 H
+]]P Z^^ ö
+—C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_81_bad.cs
+
+ L
+
+ 
+$ )$$ !
+
+8 ;
+
+J N(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Yë
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_81_base.cs
+
+ V
+
+ 
+
+$ )
+
+8 ;
+
+J N≤
+’C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_81_goodB2G.cs
+
+ P
+
+ (
+$ )"" "" ((  %
+
+8 ;
+
+J N(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]û
+’C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Get_Cookies_Web_write_81_goodG2B.cs
+
+ P
+
+ 
+$ )%% !
+
+8 ;
+
+J N(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q YË
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_01.cs
+
+ F
+
+   (
+"" ## 77  %VV <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8(
+TT VV VV VV  
+
+]] 
+dd __ 
+rr `` 
+ff hh kk (
+ii kk kk kk  D
+tt uu 
+ââ  %
+®® 
+®® 
+™™ !@
+xx  || }} ~~+ 3
+õõ  
+ùù  
+~~! (
+ÅÅ> E
+
+ÅÅ( *
+ÑÑ. 0$
+
+ÑÑ +
+ÖÖ (
+ââ2 >
+
+ãã2 D
+ççB T
+
+ìì '
+ïï2 :
+
+††& (
+¢¢6 80
+
+¶¶ 
+™™ 
+™™ 
+™™# $∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_02.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_03.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ¬
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_04.cs
+
+ Fd
+$$ )** dd  
+éé 
+ôô 
+®® 
+˘˘ 
+≥≥  
+%% *tt 
+‚‚ 
+
+'' 2
+)) ,, @@$ )bb hh !<
+// $33 44 55/ 7RR $TT $
+55% ,88B I
+88, .;;2 4
+;;# /<<  ,@@6 B
+BB6 HDDF X
+JJ# +LL6 >
+WW* ,YY: <(
+ff hh hh hh# $
+qq 
+√√ *
+ss xx }} 
+ÉÉ !0
+
+ÅÅ 
+ÉÉ 
+ÉÉ 
+ÉÉ# $
+
+ãã 
+ƒƒ 0
+
+çç 
+ëë 
+óó 
+ùù !0
+
+õõ 
+ùù 
+ùù 
+ùù# $
+
+•• 
+≈≈ T
+
+ßß 
+™™ 
+ææ$ )
+‡‡ 
+ÎÎ 
+ÎÎ "
+ÌÌ  %H
+
+≠≠ $
+±± 
+≤≤ 
+≥≥/ 7
+–– $
+““ $
+
+≥≥% ,
+∂∂B I
+
+∂∂, .
+ππ2 4$
+
+ππ# /
+∫∫  ,
+ææ6 B
+
+¿¿6 H
+¬¬F X
+
+»»# +
+  6 >
+
+’’* ,
+◊◊: <0
+
+ÈÈ 
+ÌÌ 
+ÌÌ 
+ÌÌ' (
+
+ˆˆ 
+∆∆ T
+
+¯¯ 
+˚˚ 
+èè$ )
+±± 
+∑∑ 
+∑∑ "
+ππ  %H
+
+˛˛ $
+ÇÇ 
+ÉÉ 
+ÑÑ/ 7
+°° $
+££ $
+
+ÑÑ% ,
+ááB I
+
+áá, .
+ää2 4$
+
+ää# /
+ãã  ,
+èè6 B
+
+ëë6 H
+ììF X
+
+ôô# +
+õõ6 >
+
+¶¶* ,
+®®: <0
+
+µµ 
+ππ 
+ππ 
+ππ' (
+
+¡¡ ¬
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_05.cs
+
+ Fd
+## )) cc ~~ 
+çç 
+òò 
+ßß 
+¯¯ 
+≤≤  
+$$ ss 
+·· 
+
+&& 2
+(( ++ ??$ )aa gg !<
+.. $22 33 44/ 7QQ $SS $
+44% ,77B I
+77, .::2 4
+::# /;;  ,??6 B
+AA6 HCCF X
+II# +KK6 >
+VV* ,XX: <(
+ee gg gg gg# $
+pp 
+¬¬ *
+rr ww || 
+ÇÇ !0
+
+ÄÄ 
+ÇÇ 
+ÇÇ 
+ÇÇ# $
+
+ää 
+√√ 0
+
+åå 
+êê 
+ññ 
+úú !0
+
+öö 
+úú 
+úú 
+úú# $
+
+§§ 
+ƒƒ T
+
+¶¶ 
+©© 
+ΩΩ$ )
+ﬂﬂ 
+ÍÍ 
+ÍÍ "
+ÏÏ  %H
+
+¨¨ $
+∞∞ 
+±± 
+≤≤/ 7
+œœ $
+—— $
+
+≤≤% ,
+µµB I
+
+µµ, .
+∏∏2 4$
+
+∏∏# /
+ππ  ,
+ΩΩ6 B
+
+øø6 H
+¡¡F X
+
+««# +
+……6 >
+
+‘‘* ,
+÷÷: <0
+
+ËË 
+ÏÏ 
+ÏÏ 
+ÏÏ' (
+
+ıı 
+≈≈ T
+
+˜˜ 
+˙˙ 
+éé$ )
+∞∞ 
+∂∂ 
+∂∂ "
+∏∏  %H
+
+˝˝ $
+ÅÅ 
+ÇÇ 
+ÉÉ/ 7
+†† $
+¢¢ $
+
+ÉÉ% ,
+ÜÜB I
+
+ÜÜ, .
+ââ2 4$
+
+ââ# /
+ää  ,
+éé6 B
+
+êê6 H
+ííF X
+
+òò# +
+öö6 >
+
+••* ,
+ßß: <0
+
+¥¥ 
+∏∏ 
+∏∏ 
+∏∏' (
+
+¿¿ ¥
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_06.cs
+
+ Fz
+## ((( bb rr }} 
+åå 
+óó 
+¶¶ 
+‡‡ 
+˜˜ 
+±± 
+
+%% 2
+'' ** >>$ )`` ff !<
+-- $11 22 33/ 7PP $RR $
+33% ,66B I
+66, .992 4
+99# /::  ,>>6 B
+@@6 HBBF X
+HH# +JJ6 >
+UU* ,WW: <(
+dd ff ff ff# $
+oo 
+¡¡ *
+qq vv {{ 
+ÅÅ !.
+ 
+ÅÅ 
+ÅÅ 
+ÅÅ# $
+
+ââ 
+¬¬ 0
+
+ãã 
+èè 
+ïï 
+õõ !0
+
+ôô 
+õõ 
+õõ 
+õõ# $
+
+££ 
+√√ T
+
+•• 
+®® 
+ºº$ )
+ﬁﬁ 
+ÈÈ 
+ÈÈ "
+ÎÎ  %H
+
+´´ $
+ØØ 
+∞∞ 
+±±/ 7
+ŒŒ $
+–– $
+
+±±% ,
+¥¥B I
+
+¥¥, .
+∑∑2 4$
+
+∑∑# /
+∏∏  ,
+ºº6 B
+
+ææ6 H
+¿¿F X
+
+∆∆# +
+»»6 >
+
+””* ,
+’’: <0
+
+ÁÁ 
+ÎÎ 
+ÎÎ 
+ÎÎ' (
+
+ÙÙ 
+ƒƒ T
+
+ˆˆ 
+˘˘ 
+çç$ )
+ØØ 
+µµ 
+µµ "
+∑∑  %H
+
+¸¸ $
+ÄÄ 
+ÅÅ 
+ÇÇ/ 7
+üü $
+°° $
+
+ÇÇ% ,
+ÖÖB I
+
+ÖÖ, .
+àà2 4$
+
+àà# /
+ââ  ,
+çç6 B
+
+èè6 H
+ëëF X
+
+óó# +
+ôô6 >
+
+§§* ,
+¶¶: <0
+
+≥≥ 
+∑∑ 
+∑∑ 
+∑∑' (
+
+øø ¥
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_07.cs
+
+ Fz
+## (( bb rr }} 
+åå 
+óó 
+¶¶ 
+‡‡ 
+˜˜ 
+±± 
+
+%% 2
+'' ** >>$ )`` ff !<
+-- $11 22 33/ 7PP $RR $
+33% ,66B I
+66, .992 4
+99# /::  ,>>6 B
+@@6 HBBF X
+HH# +JJ6 >
+UU* ,WW: <(
+dd ff ff ff# $
+oo 
+¡¡ *
+qq vv {{ 
+ÅÅ !.
+ 
+ÅÅ 
+ÅÅ 
+ÅÅ# $
+
+ââ 
+¬¬ 0
+
+ãã 
+èè 
+ïï 
+õõ !0
+
+ôô 
+õõ 
+õõ 
+õõ# $
+
+££ 
+√√ T
+
+•• 
+®® 
+ºº$ )
+ﬁﬁ 
+ÈÈ 
+ÈÈ "
+ÎÎ  %H
+
+´´ $
+ØØ 
+∞∞ 
+±±/ 7
+ŒŒ $
+–– $
+
+±±% ,
+¥¥B I
+
+¥¥, .
+∑∑2 4$
+
+∑∑# /
+∏∏  ,
+ºº6 B
+
+ææ6 H
+¿¿F X
+
+∆∆# +
+»»6 >
+
+””* ,
+’’: <0
+
+ÁÁ 
+ÎÎ 
+ÎÎ 
+ÎÎ' (
+
+ÙÙ 
+ƒƒ T
+
+ˆˆ 
+˘˘ 
+çç$ )
+ØØ 
+µµ 
+µµ "
+∑∑  %H
+
+¸¸ $
+ÄÄ 
+ÅÅ 
+ÇÇ/ 7
+üü $
+°° $
+
+ÇÇ% ,
+ÖÖB I
+
+ÖÖ, .
+àà2 4$
+
+àà# /
+ââ  ,
+çç6 B
+
+èè6 H
+ëëF X
+
+óó# +
+ôô6 >
+
+§§* ,
+¶¶: <0
+
+≥≥ 
+∑∑ 
+∑∑ 
+∑∑' (
+
+øø ∆
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_08.cs
+
+ Ff
+## *00 jj 
+ÖÖ 
+îî 
+üü 
+ÆÆ 
+ˇˇ 
+ππ  
+(( +zz 
+ËË 
+
+-- 2
+// 22 FF$ )hh nn !<
+55 $99 :: ;;/ 7XX $ZZ $
+;;% ,>>B I
+>>, .AA2 4
+AA# /BB  ,FF6 B
+HH6 HJJF X
+PP# +RR6 >
+]]* ,__: <(
+ll nn nn nn# $
+ww 
+…… ,
+yy ~~ 
+ÉÉ 
+ââ !0
+
+áá 
+ââ 
+ââ 
+ââ# $
+
+ëë 
+   0
+
+ìì 
+óó 
+ùù 
+££ !0
+
+°° 
+££ 
+££ 
+££# $
+
+´´ 
+ÀÀ T
+
+≠≠ 
+∞∞ 
+ƒƒ$ )
+ÊÊ 
+ÒÒ 
+ÒÒ "
+ÛÛ  %H
+
+≥≥ $
+∑∑ 
+∏∏ 
+ππ/ 7
+÷÷ $
+ÿÿ $
+
+ππ% ,
+ººB I
+
+ºº, .
+øø2 4$
+
+øø# /
+¿¿  ,
+ƒƒ6 B
+
+∆∆6 H
+»»F X
+
+ŒŒ# +
+––6 >
+
+€€* ,
+››: <0
+
+ÔÔ 
+ÛÛ 
+ÛÛ 
+ÛÛ' (
+
+¸¸ 
+ÃÃ T
+
+˛˛ 
+ÅÅ 
+ïï$ )
+∑∑ 
+ΩΩ 
+ΩΩ "
+øø  %H
+
+ÑÑ $
+àà 
+ââ 
+ää/ 7
+ßß $
+©© $
+
+ää% ,
+ççB I
+
+çç, .
+êê2 4$
+
+êê# /
+ëë  ,
+ïï6 B
+
+óó6 H
+ôôF X
+
+üü# +
+°°6 >
+
+¨¨* ,
+ÆÆ: <0
+
+ªª 
+øø 
+øø 
+øø' (
+
+«« ∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_09.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_10.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_11.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ Ö
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_12.cs
+
+ F
+
+   P
+"" %% 99$ )ZZ `` !ii ii "kk  %<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+^^ `` `` ``# $(
+gg kk kk kk' (
+vv 
+°° 8
+xx || 
+ÅÅ 
+áá !
+êê !0
+
+ÖÖ 
+áá 
+áá 
+áá# $0
+
+éé 
+êê 
+êê 
+êê# $
+
+ôô 
+¢¢ Ñ
+
+õõ 
+ûû 
+≤≤$ )
+““ 
+ÊÊ$ )
+àà 
+àà "
+ää  %
+îî 
+îî "
+ññ  %H
+
+°° $
+•• 
+¶¶ 
+ßß/ 7
+ƒƒ $
+∆∆ $
+
+ßß% ,
+™™B I
+
+™™, .
+≠≠2 4$
+
+≠≠# /
+ÆÆ  ,
+≤≤6 B
+
+¥¥6 H
+∂∂F X
+
+ºº# +
+ææ6 >
+
+……* ,
+ÀÀ: <H
+
+’’ $
+ŸŸ 
+⁄⁄ 
+€€/ 7
+¯¯ $
+˙˙ $
+
+€€% ,
+ﬁﬁB I
+
+ﬁﬁ, .
+··2 4$
+
+··# /
+‚‚  ,
+ÊÊ6 B
+
+ËË6 H
+ÍÍF X
+
+# +
+ÚÚ6 >
+
+˝˝* ,
+ˇˇ: <0
+
+ÜÜ 
+ää 
+ää 
+ää' (0
+
+íí 
+ññ 
+ññ 
+ññ' (
+
+ûû ∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_13.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ∞
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_14.cs
+
+ F
+
+   2
+"" %% 99$ )[[ aa !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+__ aa aa aa# $
+jj 
+ºº (
+ll qq vv || !(
+zz || || ||# $
+
+ÑÑ 
+ΩΩ 0
+
+ÜÜ 
+ää 
+êê 
+ññ !0
+
+îî 
+ññ 
+ññ 
+ññ# $
+
+ûû 
+ææ T
+
+†† 
+££ 
+∑∑$ )
+ŸŸ 
+‰‰ 
+‰‰ "
+ÊÊ  %H
+
+¶¶ $
+™™ 
+´´ 
+¨¨/ 7
+…… $
+ÀÀ $
+
+¨¨% ,
+ØØB I
+
+ØØ, .
+≤≤2 4$
+
+≤≤# /
+≥≥  ,
+∑∑6 B
+
+ππ6 H
+ªªF X
+
+¡¡# +
+√√6 >
+
+ŒŒ* ,
+––: <0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (
+
+ÔÔ 
+øø T
+
+ÒÒ 
+ÙÙ 
+àà$ )
+™™ 
+∞∞ 
+∞∞ "
+≤≤  %H
+
+˜˜ $
+˚˚ 
+¸¸ 
+˝˝/ 7
+öö $
+úú $
+
+˝˝% ,
+ÄÄB I
+
+ÄÄ, .
+ÉÉ2 4$
+
+ÉÉ# /
+ÑÑ  ,
+àà6 B
+
+ää6 H
+ååF X
+
+íí# +
+îî6 >
+
+üü* ,
+°°: <0
+
+ÆÆ 
+≤≤ 
+≤≤ 
+≤≤' (
+
+∫∫ ∫
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_15.cs
+
+ F
+
+   2
+"" && ::$ )[[ cc !<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+aa cc cc cc# $
+qq 
+⁄⁄ *
+ss yy }} 
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+íí 
+€€ 0
+
+îî 
+ôô 
+ûû 
+¶¶ !0
+
+§§ 
+¶¶ 
+¶¶ 
+¶¶# $
+
+≥≥ 
+‹‹ T
+
+µµ 
+ππ 
+ÕÕ$ )
+ÓÓ 
+˙˙ 
+˙˙ "
+¸¸  %H
+
+ºº $
+¿¿ 
+¡¡ 
+¬¬/ 7
+ﬂﬂ $
+·· $
+
+¬¬% ,
+≈≈B I
+
+≈≈, .
+»»2 4$
+
+»»# /
+……  ,
+ÕÕ6 B
+
+œœ6 H
+——F X
+
+◊◊# +
+ŸŸ6 >
+
+‰‰* ,
+ÊÊ: <0
+
+¯¯ 
+¸¸ 
+¸¸ 
+¸¸' (
+
+ÜÜ 
+›› T
+
+àà 
+åå 
+††$ )
+¡¡ 
+…… 
+…… "
+ÀÀ  %H
+
+èè $
+ìì 
+îî 
+ïï/ 7
+≤≤ $
+¥¥ $
+
+ïï% ,
+òòB I
+
+òò, .
+õõ2 4$
+
+õõ# /
+úú  ,
+††6 B
+
+¢¢6 H
+§§F X
+
+™™# +
+¨¨6 >
+
+∑∑* ,
+ππ: <0
+
+«« 
+ÀÀ 
+ÀÀ 
+ÀÀ' (
+
+ÿÿ ˙
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_16.cs
+
+ F
+
+   (
+"" %% 99$ )\\ !<
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <(
+ZZ \\ \\ \\# $
+ff 
+≈≈ 
+hh ll ss !(
+qq ss ss ss# $
+|| 
+∆∆ F
+~~ 
+ÅÅ 
+ïï$ )
+∏∏ 
+∏∏ "
+∫∫  %H
+
+ÑÑ $
+àà 
+ââ 
+ää/ 7
+ßß $
+©© $
+
+ää% ,
+ççB I
+
+çç, .
+êê2 4$
+
+êê# /
+ëë  ,
+ïï6 B
+
+óó6 H
+ôôF X
+
+üü# +
+°°6 >
+
+¨¨* ,
+ÆÆ: <0
+
+∂∂ 
+∫∫ 
+∫∫ 
+∫∫' (
+
+√√ ‹
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_17.cs
+
+ F
+
+   (
+"" '' ;;  %\\ !<
+**  .. // 00+ 3MM  OO  
+00! (33> E
+33( *66. 0
+66 +77 (;;2 >
+==2 D??B T
+EE 'GG2 :
+RR& (TT6 8
+XX XX XX  (
+ZZ \\ \\ \\# $
+ee 
+∫∫ 
+gg ii nn !
+jj jj jj  (
+ll nn nn nn# $
+vv 
+ªª D
+xx yy 
+çç  %
+ÆÆ 
+ÆÆ "
+∞∞  %F
+||  
+ÄÄ 
+ÅÅ 
+ÇÇ+ 3
+üü  
+°°  
+
+ÇÇ! (
+ÖÖ> E
+
+ÖÖ( *
+àà. 0$
+
+àà +
+ââ (
+çç2 >
+
+èè2 D
+ëëB T
+
+óó '
+ôô2 :
+
+§§& (
+¶¶6 8$
+
+™™ 
+™™ 
+™™  0
+
+¨¨ 
+∞∞ 
+∞∞ 
+∞∞' (
+
+∏∏ ÿ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_21.cs
+
+ F
+!! WW ]] 
+
+## (
+%% && ::  %XX <
+))  -- .. //+ 3LL  NN  
+//! (22> E
+22( *55. 0
+55 +66 (::2 >
+<<2 D>>B T
+DD 'FF2 :
+QQ& (SS6 8
+[[ XX 
+[[ "aa !(
+__ aa aa aa# $"
+ii  
+©© 
+ØØ "
+jj  
+˜˜ 
+˝˝ "
+kk 
+ëë 
+óó 
+
+mm 
+uu oo 
+
+√√ pp 
+
+åå qq ,
+ww xx 
+åå  %
+™™ D
+{{   
+ÄÄ 
+ÅÅ+ 3
+ûû  
+††  
+
+ÅÅ! (
+ÑÑ> E
+
+ÑÑ( *
+áá. 0$
+
+áá +
+àà (
+åå2 >
+
+éé2 D
+êêB T
+
+ññ '
+òò2 :
+
+££& (
+••6 8
+
+≠≠ 
+™™ 0
+
+≠≠" '
+∏∏ 
+∏∏ "
+∫∫  %0
+
+∂∂ 
+∫∫ 
+∫∫ 
+∫∫' (0
+
+≈≈ 
+∆∆ 
+⁄⁄  %
+¯¯ H
+
+……  
+ÕÕ 
+ŒŒ 
+œœ+ 3
+ÏÏ  
+ÓÓ  
+
+œœ! (
+““> E
+
+““( *
+’’. 0$
+
+’’ +
+÷÷ (
+⁄⁄2 >
+
+‹‹2 D
+ﬁﬁB T
+
+‰‰ '
+ÊÊ2 :
+
+ÒÒ& (
+ÛÛ6 8
+
+˚˚ 
+¯¯ 0
+
+˚˚" '
+ÅÅ 
+ÅÅ "
+ÉÉ  %0
+
+ˇˇ 
+ÉÉ 
+ÉÉ 
+ÉÉ' ($
+
+éé 
+êê 
+íí 
+
+ïï 
+íí 
+
+ïï! &
+õõ !0
+
+ôô 
+õõ 
+õõ 
+õõ# $ﬂ	
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_22a.cs
+
+ G
+!! &WW 
+
+## (
+%% && ::  %XXR W<
+))  -- .. //+ 3LL  NN  
+//! (22> E
+22( *55. 0
+55 +66 (::2 >
+<<2 D>>B T
+DD 'FF2 :
+QQ& (SS6 8
+\\ +
+úú 
+]] +
+’’ 
+^^ *
+ﬂﬂ 
+
+`` 
+hh bb 
+
+°° cc 
+
+⁄⁄ dd *
+jj kk   %
+ùùW \@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 80
+
+££ 
+§§ 
+∏∏  %
+÷÷W \H
+
+ßß  
+´´ 
+¨¨ 
+≠≠+ 3
+    
+ÃÃ  
+
+≠≠! (
+∞∞> E
+
+∞∞( *
+≥≥. 0$
+
+≥≥ +
+¥¥ (
+∏∏2 >
+
+∫∫2 D
+ººB T
+
+¬¬ '
+ƒƒ2 :
+
+œœ& (
+——6 8$
+
+‹‹ 
+ﬁﬁ 
+‡‡V [€
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_22b.cs
+
+ G
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $§	
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_31.cs
+
+ F
+
+   
+"" VV YY !(
+$$ %% 99$ )VV <
+(( $,, -- ../ 7KK $MM $
+..% ,11B I
+11, .442 4
+44# /55  ,996 B
+;;6 H==F X
+CC# +EE6 >
+PP* ,RR: <
+YY \\ !(
+ZZ \\ \\ \\# $
+
+dd 
+kk ff 
+
+ÄÄ gg 
+mm rr uu !
+oo qq rr 
+uu xx !(
+vv xx xx xx# $$
+
+ÇÇ 
+∂∂ 
+ππ !0
+
+ÑÑ 
+ÖÖ 
+ôô$ )
+∂∂ H
+
+àà $
+åå 
+çç 
+éé/ 7
+´´ $
+≠≠ $
+
+éé% ,
+ëëB I
+
+ëë, .
+îî2 4$
+
+îî# /
+ïï  ,
+ôô6 B
+
+õõ6 H
+ùùF X
+
+££# +
+••6 >
+
+∞∞* ,
+≤≤: <0
+
+ππ 
+ºº 
+ºº "
+ææ  %0
+
+∫∫ 
+ææ 
+ææ 
+ææ' (˙
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_41.cs
+
+ F
+   ^^ 
+  $ )$$ (
+"" $$ $$ $$  
+
+** (
+,, -- AA  %^^ <
+00  44 55 66+ 3SS  UU  
+66! (99> E
+99( *<<. 0
+<< +== (AA2 >
+CC2 DEEB T
+KK 'MM2 :
+XX& (ZZ6 8
+
+bb 
+ss dd 
+
+ââ ee 
+hh #xx 
+hh( -ll (
+jj ll ll ll  
+uu ww xx 
+{{ #
+ΩΩ *
+{{( -  
+ÅÅ !.
+}} 
+ÅÅ 
+ÅÅ 
+ÅÅ# $0
+
+ãã 
+åå 
+††  %
+ΩΩ H
+
+èè  
+ìì 
+îî 
+ïï+ 3
+≤≤  
+¥¥  
+
+ïï! (
+òò> E
+
+òò( *
+õõ. 0$
+
+õõ +
+úú (
+††2 >
+
+¢¢2 D
+§§B T
+
+™™ '
+¨¨2 :
+
+∑∑& (
+ππ6 8Ç	
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_42.cs
+
+ F
+    YY (
+"" ## 77  %TT <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+WW 
+YY \\ (
+ZZ \\ \\ \\  
+dd $nn !
+ff hh ii 
+ll 
+øø 
+nn qq (
+oo qq qq qq  
+xx $
+±± !,
+zz {{ 
+èè  %
+¨¨ F
+~~  
+ÇÇ 
+ÉÉ 
+ÑÑ+ 3
+°°  
+££  
+
+ÑÑ! (
+áá> E
+
+áá( *
+ää. 0$
+
+ää +
+ãã (
+èè2 >
+
+ëë2 D
+ììB T
+
+ôô '
+õõ2 :
+
+¶¶& (
+®®6 8
+
+ØØ 
+¿¿ 0
+
+±± 
+¥¥ 
+¥¥ 
+∂∂ !0
+
+≤≤ 
+∂∂ 
+∂∂ 
+∂∂# $
+
+ΩΩ Í	
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_45.cs
+
+ F
+   && cc 
+!! pp   "
+"" 
+ÖÖ  
+∆∆ 
+$$ dd 
+&& )) (
+'' )) )) ))  
+
+// (
+11 22 FF  %cc <
+55  99 :: ;;+ 3XX  ZZ  
+;;! (>>> E
+>>( *AA. 0
+AA +BB (FF2 >
+HH2 DJJB T
+PP 'RR2 :
+]]& (__6 8
+
+hh 
+zz jj 
+
+íí kk 
+nn 
+ÄÄ 
+pp ss (
+qq ss ss ss  
+|| ~~  
+
+ÉÉ 
+«« 0
+
+ÖÖ 
+àà 
+àà 
+ää !0
+
+ÜÜ 
+ää 
+ää 
+ää# $0
+
+îî 
+ïï 
+©©  %
+∆∆ H
+
+òò  
+úú 
+ùù 
+ûû+ 3
+ªª  
+ΩΩ  
+
+ûû! (
+°°> E
+
+°°( *
+§§. 0$
+
+§§ +
+•• (
+©©2 >
+
+´´2 D
+≠≠B T
+
+≥≥ '
+µµ2 :
+
+¿¿& (
+¬¬6 8Ω
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_51a.cs
+
+ G
+
+   (
+"" ## 77  %TTR W<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddV [*
+jj kk   %
+úúV [@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8”
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_51b.cs
+
+ G
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ω
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_52a.cs
+
+ G
+
+   (
+"" ## 77  %TTR W<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddV [*
+jj kk   %
+úúV [@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8¡
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_52b.cs
+
+ G
+
+ 
+# (R W
+
+$$ "
+$$' ,&&V [
+
+** "
+**' ,,,V [”
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_52c.cs
+
+ G
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ω
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_53a.cs
+
+ G
+
+   (
+"" ## 77  %TTR W<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddV [*
+jj kk   %
+úúV [@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8¡
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_53b.cs
+
+ G
+
+ 
+# (R W
+
+$$ "
+$$' ,&&V [
+
+** "
+**' ,,,V [¡
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_53c.cs
+
+ G
+
+ 
+# (R W
+
+$$ "
+$$' ,&&V [
+
+** "
+**' ,,,V [”
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_53d.cs
+
+ G
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ω
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_54a.cs
+
+ G
+
+   (
+"" ## 77  %TTR W<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddV [*
+jj kk   %
+úúV [@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8¡
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_54b.cs
+
+ G
+
+ 
+# (R W
+
+$$ "
+$$' ,&&V [
+
+** "
+**' ,,,V [¡
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_54c.cs
+
+ G
+
+ 
+# (R W
+
+$$ "
+$$' ,&&V [
+
+** "
+**' ,,,V [¡
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_54d.cs
+
+ G
+
+ 
+# (R W
+
+$$ "
+$$' ,&&V [
+
+** "
+**' ,,,V [”
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_54e.cs
+
+ G
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Û
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_61a.cs
+
+ G
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $ô
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_61b.cs
+
+ G
+
+   (
+"" ## 77  %TT <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+ZZ #
+\\ ^^ __ 
+
+cc #*
+ee ff zz  %
+óó @
+ii  mm nn oo+ 3
+åå  
+éé  
+oo! (rr> E
+rr( *uu. 0
+uu +vv (zz2 >
+||2 D~~B T
+
+ÑÑ '
+ÜÜ2 :
+
+ëë& (
+ìì6 8ß
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_66a.cs
+
+ G
+
+   (
+"" ## 77  %UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TT UU VVR \
+
+ZZ 
+aa \\ 
+ll ]] 
+cc ee gg 
+ff gg hhV `,
+nn oo 
+ÉÉ  %
+°° @
+rr  vv ww xx+ 3
+ïï  
+óó  
+xx! ({{> E
+{{( *~~. 0 
+~~ + (
+ÉÉ2 >
+
+ÖÖ2 D
+ááB T
+
+çç '
+èè2 :
+
+öö& (
+úú6 8$
+
+†† 
+°° 
+¢¢V `ï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_66b.cs
+
+ G
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $©
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_67a.cs
+
+ GJ
+   YY YY' 0kk kk' 0
+•• 
+••' 0*
+"" ZZ #ll #
+¶¶ #
+
+%% (
+'' (( <<  %ZZ& +<
+++  // 00 11+ 3NN  PP  
+11! (44> E
+44( *77. 0
+77 +88 (<<2 >
+>>2 D@@B T
+FF 'HH2 :
+SS& (UU6 8
+YY  ZZ [[R `
+
+__ 
+ff aa 
+qq bb 
+hh jj ll& +
+kk  ll mmV d,
+ss tt 
+àà  %
+¶¶& +@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8$
+
+••  
+¶¶ 
+ßßV dï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_67b.cs
+
+ G
+
+ 
+k y "
+ !! (
+ !! !! !!  
+
+** "
+**o },, "
+,, // (
+-- // // //  
+
+66 "
+66o }88 "(
+88 ;; ;; == !(
+99 == == ==# $Ö
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_68a.cs
+
+ G<
+   $$ 88  %cc jj ~~  %
+
+"" <
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+
+YY 
+`` [[ 
+hh \\ @
+mm  qq rr ss+ 3
+êê  
+íí  
+ss! (vv> E
+vv( *yy. 0
+yy +zz (~~2 >
+
+ÄÄ2 D
+ÇÇB T
+
+àà '
+ää2 :
+
+ïï& (
+óó6 8”
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_68b.cs
+
+ G
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $Ω
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_71a.cs
+
+ G
+
+   (
+"" ## 77  %TTZ _<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc dd^ c*
+jj kk   %
+úú^ c@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8ï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_71b.cs
+
+ G
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $±
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_72a.cs
+
+ G
+
+!! <
+## $$ 88  %VV #WW #XX #<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU  VV WW XX YYR `
+
+]] 
+dd __ 
+qq `` 2
+ff hh jj #kk #ll #2
+ii  jj kk ll mmV dD
+ss tt 
+àà  %
+¶¶ #
+ßß #
+®® #@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8<
+
+••  
+¶¶ 
+ßß 
+®® 
+©©V dï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_72b.cs
+
+ G
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $±
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_73a.cs
+
+ G
+
+!! <
+## $$ 88  %VV  %WW  %XX  %<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU 'VV WW XX YYR a
+
+]] 
+dd __ 
+qq `` 2
+ff hh jj  %kk  %ll  %2
+ii 'jj kk ll mmV eD
+ss tt 
+àà  %
+¶¶  %
+ßß  %
+®®  %@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8<
+
+•• '
+¶¶ 
+ßß 
+®® 
+©©V eï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_73b.cs
+
+ G
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $±
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_74a.cs
+
+ G
+
+!! <
+## $$ 88  %VV $WW $XX $<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU +VV WW XX YYR a
+
+]] 
+dd __ 
+qq `` 2
+ff hh jj $kk $ll $2
+ii +jj kk ll mmV eD
+ss tt 
+àà  %
+¶¶ $
+ßß $
+®® $@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8<
+
+•• +
+¶¶ 
+ßß 
+®® 
+©©V eï
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_74b.cs
+
+ G
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $π
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_75a.cs
+
+ G
+
+"" (
+$$ %% 99  %]]! &<
+((  ,, -- ..+ 3KK  MM  
+..! (11> E
+11( *44. 0
+44 +55 (992 >
+;;2 D==B T
+CC 'EE2 :
+PP& (RR6 8
+WW ^^ ``V e
+ZZ ]] 
+[[ ]] ^^" $
+bb& 5ddZ i
+
+ii 
+pp kk 
+
+∑∑ ll ,
+rr ss 
+áá  %
+´´! &@
+vv  zz {{ ||+ 3
+ôô  
+õõ  
+||! (> E
+( *
+ÇÇ. 0$
+
+ÇÇ +
+ÉÉ (
+áá2 >
+
+ââ2 D
+ããB T
+
+ëë '
+ìì2 :
+
+ûû& (
+††6 8$
+
+•• 
+¨¨ 
+ÆÆZ i
+
+®® 
+´´ $
+
+©© 
+´´ 
+¨¨" $
+
+∞∞& 5
+≤≤Z i0
+
+ππ 
+∫∫ 
+ŒŒ  %
+ÚÚ! &H
+
+ΩΩ  
+¡¡ 
+¬¬ 
+√√+ 3
+‡‡  
+‚‚  
+
+√√! (
+∆∆> E
+
+∆∆( *
+……. 0$
+
+…… +
+   (
+ŒŒ2 >
+
+––2 D
+““B T
+
+ÿÿ '
+⁄⁄2 :
+
+ÂÂ& (
+ÁÁ6 8$
+
+ÏÏ 
+ÛÛ 
+ııZ i
+
+ÔÔ 
+ÚÚ $
+
+ 
+ÚÚ 
+ÛÛ" $
+
+˜˜& 5
+˘˘Z i”
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_75b.cs
+
+ G
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ já
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_81a.cs
+
+ G
+
+   (
+"" ## 77  %UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TTN XUU 
+
+YY 
+`` [[ 
+jj \\ 
+bb dd ff 
+eeN Xff ,
+ll mm 
+ÅÅ  %
+üü @
+pp  tt uu vv+ 3
+ìì  
+ïï  
+vv! (yy> E
+yy( *||. 0 
+|| +}} (
+ÅÅ2 >
+
+ÉÉ2 D
+ÖÖB T
+
+ãã '
+çç2 :
+
+òò& (
+öö6 8
+
+ûûN X
+üü ™
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_81_bad.cs
+
+ J
+
+ 
+$ )   (
+           ˜
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_81_base.cs
+
+ T
+
+ 
+
+$ )¬
+”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_81_goodB2G.cs
+
+ N
+
+ (
+$ )!! !! ## !(
+ ## ## ### $Æ
+”C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_for_loop_81_goodG2B.cs
+
+ N
+
+ 
+$ )!! (
+ !! !! !!  °
+
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_01.cs
+
+ C
+
+!! (
+## $$ 88  %YY !<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8(
+UU YY YY YY# $(
+VV  ]] gg ii 
+__# +aaS [
+ll 'nnQ Y
+
+tt 
+{{ vv 
+
+üü ww  
+}}  
+ÑÑ !0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ# $0
+
+ÅÅ  
+àà 
+íí 
+îî 
+
+ää# +
+ååS [
+
+óó '
+ôôQ YH
+
+°° 
+¢¢ 
+∂∂  %
+‘‘ 
+‘‘ 
+⁄⁄  %H
+
+••  
+©© 
+™™ 
+´´+ 3
+»»  
+    
+
+´´! (
+ÆÆ> E
+
+ÆÆ( *
+±±. 0$
+
+±± +
+≤≤ (
+∂∂2 >
+
+∏∏2 D
+∫∫B T
+
+¿¿ '
+¬¬2 :
+
+ÕÕ& (
+œœ6 80
+
+÷÷ 
+⁄⁄ 
+⁄⁄ 
+⁄⁄' (0
+
+◊◊  $
+ﬁﬁ 
+ËË 
+ÍÍ 
+
+‡‡' /
+‚‚W _
+
+ÌÌ# +
+ÔÔU ]≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_02.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_03.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ ª
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_04.cs
+
+ Cf
+%% )++ ee 
+ññ 
+ªª 
+∆∆ 
+ÎÎ 
+”” 
+çç "
+&& *
+ãã 
+•• 
+
+(( 2
+** -- AA$ )cc kk  %<
+00 $44 55 66/ 7SS $UU $
+66% ,99B I
+99, .<<2 4
+<<# /==  ,AA6 B
+CC6 HEEF X
+KK# +MM6 >
+XX* ,ZZ: <(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]
+
+àà 
+¥¥ 0
+
+ää 
+èè 
+îî 
+úú  %0
+
+òò 
+úú 
+úú 
+úú' (0
+
+ôô  $
+†† 
+™™ 
+¨¨ 
+
+¢¢' /
+§§W _
+
+ØØ# +
+±±U ]
+
+∏∏ 
+µµ 0
+
+∫∫ 
+ææ 
+ƒƒ 
+ÃÃ  %0
+
+»» 
+ÃÃ 
+ÃÃ 
+ÃÃ' (0
+
+……  $
+–– 
+⁄⁄ 
+‹‹ 
+
+““' /
+‘‘W _
+
+ﬂﬂ# +
+··U ]
+
+ËË 
+∂∂ T
+
+ÍÍ 
+ÌÌ 
+ÅÅ$ )
+££ 
+≠≠ 
+≠≠ "
+≥≥$ )H
+
+ $
+ÙÙ 
+ıı 
+ˆˆ/ 7
+ìì $
+ïï $
+
+ˆˆ% ,
+˘˘B I
+
+˘˘, .
+¸¸2 4$
+
+¸¸# /
+˝˝  ,
+ÅÅ6 B
+
+ÉÉ6 H
+ÖÖF X
+
+ãã# +
+çç6 >
+
+òò* ,
+öö: <0
+
+ØØ 
+≥≥ 
+≥≥  !
+≥≥+ ,0
+
+∞∞$ (
+∑∑  
+¡¡  
+√√  
+
+ππ+ 3
+ªª[ c
+
+∆∆' /
+»»Y a
+
+–– 
+∑∑ T
+
+““ 
+’’ 
+ÈÈ$ )
+ãã 
+êê 
+êê "
+ññ$ )H
+
+ÿÿ $
+‹‹ 
+›› 
+ﬁﬁ/ 7
+˚˚ $
+˝˝ $
+
+ﬁﬁ% ,
+··B I
+
+··, .
+‰‰2 4$
+
+‰‰# /
+ÂÂ  ,
+ÈÈ6 B
+
+ÎÎ6 H
+ÌÌF X
+
+ÛÛ# +
+ıı6 >
+
+ÄÄ* ,
+ÇÇ: <0
+
+íí 
+ññ 
+ññ  !
+ññ+ ,0
+
+ìì$ (
+öö  
+§§  
+¶¶  
+
+úú+ 3
+ûû[ c
+
+©©' /
+´´Y a
+
+≤≤ π
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_05.cs
+
+ Cf
+$$ ** dd 
+ïï 
+∫∫ 
+≈≈ 
+ÍÍ 
+““ 
+åå "
+%% 
+ää 
+§§ 
+
+'' 2
+)) ,, @@$ )bb jj  %<
+// $33 44 55/ 7RR $TT $
+55% ,88B I
+88, .;;2 4
+;;# /<<  ,@@6 B
+BB6 HDDF X
+JJ# +LL6 >
+WW* ,YY: <(
+ff jj jj jj' ((
+gg  $nn xx zz 
+pp' /rrW _
+}}# +U ]
+
+áá 
+≥≥ 0
+
+ââ 
+éé 
+ìì 
+õõ  %0
+
+óó 
+õõ 
+õõ 
+õõ' (0
+
+òò  $
+üü 
+©© 
+´´ 
+
+°°' /
+££W _
+
+ÆÆ# +
+∞∞U ]
+
+∑∑ 
+¥¥ 0
+
+ππ 
+ΩΩ 
+√√ 
+ÀÀ  %0
+
+«« 
+ÀÀ 
+ÀÀ 
+ÀÀ' (0
+
+»»  $
+œœ 
+ŸŸ 
+€€ 
+
+——' /
+””W _
+
+ﬁﬁ# +
+‡‡U ]
+
+ÁÁ 
+µµ T
+
+ÈÈ 
+ÏÏ 
+ÄÄ$ )
+¢¢ 
+¨¨ 
+¨¨ "
+≤≤$ )H
+
+ÔÔ $
+ÛÛ 
+ÙÙ 
+ıı/ 7
+íí $
+îî $
+
+ıı% ,
+¯¯B I
+
+¯¯, .
+˚˚2 4$
+
+˚˚# /
+¸¸  ,
+ÄÄ6 B
+
+ÇÇ6 H
+ÑÑF X
+
+ää# +
+åå6 >
+
+óó* ,
+ôô: <0
+
+ÆÆ 
+≤≤ 
+≤≤  !
+≤≤+ ,0
+
+ØØ$ (
+∂∂  
+¿¿  
+¬¬  
+
+∏∏+ 3
+∫∫[ c
+
+≈≈' /
+««Y a
+
+œœ 
+∂∂ T
+
+—— 
+‘‘ 
+ËË$ )
+ää 
+èè 
+èè "
+ïï$ )H
+
+◊◊ $
+€€ 
+‹‹ 
+››/ 7
+˙˙ $
+¸¸ $
+
+››% ,
+‡‡B I
+
+‡‡, .
+„„2 4$
+
+„„# /
+‰‰  ,
+ËË6 B
+
+ÍÍ6 H
+ÏÏF X
+
+ÚÚ# +
+ÙÙ6 >
+
+ˇˇ* ,
+ÅÅ: <0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+±± ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_06.cs
+
+ C~
+$$ ()) cc 
+ââ 
+îî 
+ππ 
+ƒƒ 
+ÈÈ 
+££ 
+—— 
+ãã 
+
+&& 2
+(( ++ ??$ )aa ii  %<
+.. $22 33 44/ 7QQ $SS $
+44% ,77B I
+77, .::2 4
+::# /;;  ,??6 B
+AA6 HCCF X
+II# +KK6 >
+VV* ,XX: <(
+ee ii ii ii' ((
+ff  $mm ww yy 
+oo' /qqW _
+||# +~~U ]
+
+ÜÜ 
+≤≤ 0
+
+àà 
+çç 
+íí 
+öö  %0
+
+ññ 
+öö 
+öö 
+öö' (0
+
+óó  $
+ûû 
+®® 
+™™ 
+
+††' /
+¢¢W _
+
+≠≠# +
+ØØU ]
+
+∂∂ 
+≥≥ 0
+
+∏∏ 
+ºº 
+¬¬ 
+    %0
+
+∆∆ 
+   
+   
+  ' (0
+
+««  $
+ŒŒ 
+ÿÿ 
+⁄⁄ 
+
+––' /
+““W _
+
+››# +
+ﬂﬂU ]
+
+ÊÊ 
+¥¥ T
+
+ËË 
+ÎÎ 
+ˇˇ$ )
+°° 
+´´ 
+´´ "
+±±$ )H
+
+ÓÓ $
+ÚÚ 
+ÛÛ 
+ÙÙ/ 7
+ëë $
+ìì $
+
+ÙÙ% ,
+˜˜B I
+
+˜˜, .
+˙˙2 4$
+
+˙˙# /
+˚˚  ,
+ˇˇ6 B
+
+ÅÅ6 H
+ÉÉF X
+
+ââ# +
+ãã6 >
+
+ññ* ,
+òò: <0
+
+≠≠ 
+±± 
+±±  !
+±±+ ,0
+
+ÆÆ$ (
+µµ  
+øø  
+¡¡  
+
+∑∑+ 3
+ππ[ c
+
+ƒƒ' /
+∆∆Y a
+
+ŒŒ 
+µµ T
+
+–– 
+”” 
+ÁÁ$ )
+ââ 
+éé 
+éé "
+îî$ )H
+
+÷÷ $
+⁄⁄ 
+€€ 
+‹‹/ 7
+˘˘ $
+˚˚ $
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚2 4$
+
+‚‚# /
+„„  ,
+ÁÁ6 B
+
+ÈÈ6 H
+ÎÎF X
+
+ÒÒ# +
+ÛÛ6 >
+
+˛˛* ,
+ÄÄ: <0
+
+êê 
+îî 
+îî  !
+îî+ ,0
+
+ëë$ (
+òò  
+¢¢  
+§§  
+
+öö+ 3
+úú[ c
+
+ßß' /
+©©Y a
+
+∞∞ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_07.cs
+
+ C~
+$$ )) cc 
+ââ 
+îî 
+ππ 
+ƒƒ 
+ÈÈ 
+££ 
+—— 
+ãã 
+
+&& 2
+(( ++ ??$ )aa ii  %<
+.. $22 33 44/ 7QQ $SS $
+44% ,77B I
+77, .::2 4
+::# /;;  ,??6 B
+AA6 HCCF X
+II# +KK6 >
+VV* ,XX: <(
+ee ii ii ii' ((
+ff  $mm ww yy 
+oo' /qqW _
+||# +~~U ]
+
+ÜÜ 
+≤≤ 0
+
+àà 
+çç 
+íí 
+öö  %0
+
+ññ 
+öö 
+öö 
+öö' (0
+
+óó  $
+ûû 
+®® 
+™™ 
+
+††' /
+¢¢W _
+
+≠≠# +
+ØØU ]
+
+∂∂ 
+≥≥ 0
+
+∏∏ 
+ºº 
+¬¬ 
+    %0
+
+∆∆ 
+   
+   
+  ' (0
+
+««  $
+ŒŒ 
+ÿÿ 
+⁄⁄ 
+
+––' /
+““W _
+
+››# +
+ﬂﬂU ]
+
+ÊÊ 
+¥¥ T
+
+ËË 
+ÎÎ 
+ˇˇ$ )
+°° 
+´´ 
+´´ "
+±±$ )H
+
+ÓÓ $
+ÚÚ 
+ÛÛ 
+ÙÙ/ 7
+ëë $
+ìì $
+
+ÙÙ% ,
+˜˜B I
+
+˜˜, .
+˙˙2 4$
+
+˙˙# /
+˚˚  ,
+ˇˇ6 B
+
+ÅÅ6 H
+ÉÉF X
+
+ââ# +
+ãã6 >
+
+ññ* ,
+òò: <0
+
+≠≠ 
+±± 
+±±  !
+±±+ ,0
+
+ÆÆ$ (
+µµ  
+øø  
+¡¡  
+
+∑∑+ 3
+ππ[ c
+
+ƒƒ' /
+∆∆Y a
+
+ŒŒ 
+µµ T
+
+–– 
+”” 
+ÁÁ$ )
+ââ 
+éé 
+éé "
+îî$ )H
+
+÷÷ $
+⁄⁄ 
+€€ 
+‹‹/ 7
+˘˘ $
+˚˚ $
+
+‹‹% ,
+ﬂﬂB I
+
+ﬂﬂ, .
+‚‚2 4$
+
+‚‚# /
+„„  ,
+ÁÁ6 B
+
+ÈÈ6 H
+ÎÎF X
+
+ÒÒ# +
+ÛÛ6 >
+
+˛˛* ,
+ÄÄ: <0
+
+êê 
+îî 
+îî  !
+îî+ ,0
+
+ëë$ (
+òò  
+¢¢  
+§§  
+
+öö+ 3
+úú[ c
+
+ßß' /
+©©Y a
+
+∞∞ ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_08.cs
+
+ Cf
+$$ *11 kk 
+úú 
+¡¡ 
+ÃÃ 
+ÒÒ 
+ŸŸ 
+ìì "
+)) +
+ëë 
+´´ 
+
+.. 2
+00 33 GG$ )ii qq  %<
+66 $:: ;; <</ 7YY $[[ $
+<<% ,??B I
+??, .BB2 4
+BB# /CC  ,GG6 B
+II6 HKKF X
+QQ# +SS6 >
+^^* ,``: <(
+mm qq qq qq' (*
+nn  $uu  
+ÅÅ 
+ww' /yyW _
+
+ÑÑ# +
+ÜÜU ]
+
+éé 
+∫∫ 0
+
+êê 
+ïï 
+öö 
+¢¢  %0
+
+ûû 
+¢¢ 
+¢¢ 
+¢¢' (0
+
+üü  $
+¶¶ 
+∞∞ 
+≤≤ 
+
+®®' /
+™™W _
+
+µµ# +
+∑∑U ]
+
+ææ 
+ªª 0
+
+¿¿ 
+ƒƒ 
+   
+““  %0
+
+ŒŒ 
+““ 
+““ 
+““' (0
+
+œœ  $
+÷÷ 
+‡‡ 
+‚‚ 
+
+ÿÿ' /
+⁄⁄W _
+
+ÂÂ# +
+ÁÁU ]
+
+ÓÓ 
+ºº T
+
+ 
+ÛÛ 
+áá$ )
+©© 
+≥≥ 
+≥≥ "
+ππ$ )H
+
+ˆˆ $
+˙˙ 
+˚˚ 
+¸¸/ 7
+ôô $
+õõ $
+
+¸¸% ,
+ˇˇB I
+
+ˇˇ, .
+ÇÇ2 4$
+
+ÇÇ# /
+ÉÉ  ,
+áá6 B
+
+ââ6 H
+ããF X
+
+ëë# +
+ìì6 >
+
+ûû* ,
+††: <0
+
+µµ 
+ππ 
+ππ  !
+ππ+ ,0
+
+∂∂$ (
+ΩΩ  
+««  
+……  
+
+øø+ 3
+¡¡[ c
+
+ÃÃ' /
+ŒŒY a
+
+÷÷ 
+ΩΩ T
+
+ÿÿ 
+€€ 
+ÔÔ$ )
+ëë 
+ññ 
+ññ "
+úú$ )H
+
+ﬁﬁ $
+‚‚ 
+„„ 
+‰‰/ 7
+ÅÅ $
+ÉÉ $
+
+‰‰% ,
+ÁÁB I
+
+ÁÁ, .
+ÍÍ2 4$
+
+ÍÍ# /
+ÎÎ  ,
+ÔÔ6 B
+
+ÒÒ6 H
+ÛÛF X
+
+˘˘# +
+˚˚6 >
+
+ÜÜ* ,
+àà: <0
+
+òò 
+úú 
+úú  !
+úú+ ,0
+
+ôô$ (
+††  
+™™  
+¨¨  
+
+¢¢+ 3
+§§[ c
+
+ØØ' /
+±±Y a
+
+∏∏ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_09.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_10.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_11.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ Ê
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_12.cs
+
+ C
+
+!! R
+## && ::$ )[[ cc  %  "
+ÖÖ$ )<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]0
+
+ÅÅ 
+ÖÖ 
+ÖÖ  !
+ÖÖ+ ,0
+
+ÇÇ$ (
+ââ  
+ìì  
+ïï  
+
+ãã+ 3
+çç[ c
+
+òò' /
+ööY a
+
+§§ 
+©© <
+
+¶¶ 
+™™ 
+ØØ 
+∑∑  %
+÷÷  %0
+
+≥≥ 
+∑∑ 
+∑∑ 
+∑∑' (0
+
+¥¥  $
+ªª 
+≈≈ 
+«« 
+
+ΩΩ' /
+øøW _
+
+  # +
+ÃÃU ]0
+
+““ 
+÷÷ 
+÷÷ 
+÷÷' (0
+
+””  $
+⁄⁄ 
+‰‰ 
+ÊÊ 
+
+‹‹' /
+ﬁﬁW _
+
+ÈÈ# +
+ÎÎU ]
+
+ÛÛ 
+™™ Ñ
+
+ıı 
+¯¯ 
+åå$ )
+¨¨ 
+¿¿$ )
+·· 
+·· "
+ÁÁ$ )
+ÑÑ 
+ÑÑ "
+ää$ )H
+
+˚˚ $
+ˇˇ 
+ÄÄ 
+ÅÅ/ 7
+ûû $
+†† $
+
+ÅÅ% ,
+ÑÑB I
+
+ÑÑ, .
+áá2 4$
+
+áá# /
+àà  ,
+åå6 B
+
+éé6 H
+êêF X
+
+ññ# +
+òò6 >
+
+££* ,
+••: <H
+
+ØØ $
+≥≥ 
+¥¥ 
+µµ/ 7
+““ $
+‘‘ $
+
+µµ% ,
+∏∏B I
+
+∏∏, .
+ªª2 4$
+
+ªª# /
+ºº  ,
+¿¿6 B
+
+¬¬6 H
+ƒƒF X
+
+  # +
+ÃÃ6 >
+
+◊◊* ,
+ŸŸ: <0
+
+„„ 
+ÁÁ 
+ÁÁ  !
+ÁÁ+ ,0
+
+‰‰$ (
+ÎÎ  
+ıı  
+˜˜  
+
+ÌÌ+ 3
+ÔÔ[ c
+
+˙˙' /
+¸¸Y a0
+
+ÜÜ 
+ää 
+ää  !
+ää+ ,0
+
+áá$ (
+éé  
+òò  
+öö  
+
+êê+ 3
+íí[ c
+
+ùù' /
+üüY a
+
+¶¶ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_13.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_14.cs
+
+ C
+
+!! 2
+## && ::$ )\\ dd  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]
+
+ÅÅ 
+≠≠ 0
+
+ÉÉ 
+àà 
+çç 
+ïï  %0
+
+ëë 
+ïï 
+ïï 
+ïï' (0
+
+íí  $
+ôô 
+££ 
+•• 
+
+õõ' /
+ùùW _
+
+®®# +
+™™U ]
+
+±± 
+ÆÆ 0
+
+≥≥ 
+∑∑ 
+ΩΩ 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+·· 
+ØØ T
+
+„„ 
+ÊÊ 
+˙˙$ )
+úú 
+¶¶ 
+¶¶ "
+¨¨$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+®® 
+¨¨ 
+¨¨  !
+¨¨+ ,0
+
+©©$ (
+∞∞  
+∫∫  
+ºº  
+
+≤≤+ 3
+¥¥[ c
+
+øø' /
+¡¡Y a
+
+…… 
+∞∞ T
+
+ÀÀ 
+ŒŒ 
+‚‚$ )
+ÑÑ 
+ââ 
+ââ "
+èè$ )H
+
+—— $
+’’ 
+÷÷ 
+◊◊/ 7
+ÙÙ $
+ˆˆ $
+
+◊◊% ,
+⁄⁄B I
+
+⁄⁄, .
+››2 4$
+
+››# /
+ﬁﬁ  ,
+‚‚6 B
+
+‰‰6 H
+ÊÊF X
+
+ÏÏ# +
+ÓÓ6 >
+
+˘˘* ,
+˚˚: <0
+
+ãã 
+èè 
+èè  !
+èè+ ,0
+
+åå$ (
+ìì  
+ùù  
+üü  
+
+ïï+ 3
+óó[ c
+
+¢¢' /
+§§Y a
+
+´´ ≠
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_15.cs
+
+ C
+
+!! 2
+## '' ;;$ )\\ ff  %<
+** $.. // 00/ 7MM $OO $
+00% ,33B I
+33, .662 4
+66# /77  ,;;6 B
+==6 H??F X
+EE# +GG6 >
+RR* ,TT: <(
+bb ff ff ff' ((
+cc  $jj tt vv 
+ll' /nnW _
+yy# +{{U ]
+
+àà 
+ÀÀ 0
+
+ää 
+êê 
+îî 
+ûû  %0
+
+öö 
+ûû 
+ûû 
+ûû' (0
+
+õõ  $
+¢¢ 
+¨¨ 
+ÆÆ 
+
+§§' /
+¶¶W _
+
+±±# +
+≥≥U ]
+
+øø 
+ÃÃ 0
+
+¡¡ 
+∆∆ 
+ÀÀ 
+’’  %0
+
+—— 
+’’ 
+’’ 
+’’' (0
+
+““  $
+ŸŸ 
+„„ 
+ÂÂ 
+
+€€' /
+››W _
+
+ËË# +
+ÍÍU ]
+
+ˆˆ 
+ÕÕ T
+
+¯¯ 
+¸¸ 
+êê$ )
+±± 
+ºº 
+ºº "
+¬¬$ )H
+
+ˇˇ $
+ÉÉ 
+ÑÑ 
+ÖÖ/ 7
+¢¢ $
+§§ $
+
+ÖÖ% ,
+ààB I
+
+àà, .
+ãã2 4$
+
+ãã# /
+åå  ,
+êê6 B
+
+íí6 H
+îîF X
+
+öö# +
+úú6 >
+
+ßß* ,
+©©: <0
+
+ææ 
+¬¬ 
+¬¬  !
+¬¬+ ,0
+
+øø$ (
+∆∆  
+––  
+““  
+
+»»+ 3
+  [ c
+
+’’' /
+◊◊Y a
+
+‡‡ 
+ŒŒ T
+
+‚‚ 
+ÊÊ 
+˙˙$ )
+õõ 
+¢¢ 
+¢¢ "
+®®$ )H
+
+ÈÈ $
+ÌÌ 
+ÓÓ 
+ÔÔ/ 7
+åå $
+éé $
+
+ÔÔ% ,
+ÚÚB I
+
+ÚÚ, .
+ıı2 4$
+
+ıı# /
+ˆˆ  ,
+˙˙6 B
+
+¸¸6 H
+˛˛F X
+
+ÑÑ# +
+ÜÜ6 >
+
+ëë* ,
+ìì: <0
+
+§§ 
+®® 
+®®  !
+®®+ ,0
+
+••$ (
+¨¨  
+∂∂  
+∏∏  
+
+ÆÆ+ 3
+∞∞[ c
+
+ªª' /
+ΩΩY a
+
+…… ©
+
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_16.cs
+
+ C
+
+!! (
+## && ::$ )__  %<
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <(
+[[ __ __ __' ((
+\\  $cc mm oo 
+ee' /ggW _
+rr# +ttU ]
+}} 
+ââ "
+ 
+ÉÉ 
+åå  %0
+
+àà 
+åå 
+åå 
+åå' (0
+
+ââ  $
+êê 
+öö 
+úú 
+
+íí' /
+îîW _
+
+üü# +
+°°U ]
+
+©© 
+ää H
+
+´´ 
+ÆÆ 
+¬¬$ )
+‰‰ 
+‰‰ "
+ÍÍ$ )H
+
+±± $
+µµ 
+∂∂ 
+∑∑/ 7
+‘‘ $
+÷÷ $
+
+∑∑% ,
+∫∫B I
+
+∫∫, .
+ΩΩ2 4$
+
+ΩΩ# /
+ææ  ,
+¬¬6 B
+
+ƒƒ6 H
+∆∆F X
+
+ÃÃ# +
+ŒŒ6 >
+
+ŸŸ* ,
+€€: <0
+
+ÊÊ 
+ÍÍ 
+ÍÍ  !
+ÍÍ+ ,0
+
+ÁÁ$ (
+ÓÓ  
+¯¯  
+˙˙  
+
++ 3
+ÚÚ[ c
+
+˝˝' /
+ˇˇY a
+
+áá ï
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_17.cs
+
+ C
+
+!! (
+## (( <<  %__  %<
+++  // 00 11+ 3NN  PP  
+11! (44> E
+44( *77. 0
+77 +88 (<<2 >
+>>2 D@@B T
+FF 'HH2 :
+SS& (UU6 8
+YY YY YY  (
+[[ __ __ __' ((
+\\  $cc mm oo 
+ee' /ggW _
+rr# +ttU ]
+|| 
+˛˛ "
+~~ 
+ÄÄ 
+áá  %$
+
+ÅÅ 
+ÅÅ 
+ÅÅ  0
+
+ÉÉ 
+áá 
+áá 
+áá' (0
+
+ÑÑ  $
+ãã 
+ïï 
+óó 
+
+çç' /
+èèW _
+
+öö# +
+úúU ]
+
+££ 
+ˇˇ H
+
+•• 
+¶¶ 
+∫∫  %
+⁄⁄ 
+⁄⁄ "
+‡‡$ )H
+
+©©  
+≠≠ 
+ÆÆ 
+ØØ+ 3
+ÃÃ  
+ŒŒ  
+
+ØØ! (
+≤≤> E
+
+≤≤( *
+µµ. 0$
+
+µµ +
+∂∂ (
+∫∫2 >
+
+ºº2 D
+ææB T
+
+ƒƒ '
+∆∆2 :
+
+——& (
+””6 8$
+
+◊◊ 
+◊◊ 
+◊◊  0
+
+‹‹ 
+‡‡ 
+‡‡  !
+‡‡+ ,0
+
+››$ (
+‰‰  
+ÓÓ  
+  
+
+ÊÊ+ 3
+ËË[ c
+
+ÛÛ' /
+ııY a
+
+¸¸ ı
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_21.cs
+
+ C
+"" XX ^^ 
+
+$$ (
+&& '' ;;  %YY <
+**  .. // 00+ 3MM  OO  
+00! (33> E
+33( *66. 0
+66 +77 (;;2 >
+==2 D??B T
+EE 'GG2 :
+RR& (TT6 8
+\\ YY 
+\\ "dd  %(
+`` dd dd dd' ((
+aa  $hh rr tt 
+jj' /llW _
+ww# +yyU ]$
+
+ÄÄ  
+¿¿ 
+∆∆ $
+
+ÅÅ  
+•• 
+´´ $
+
+ÇÇ 
+÷÷ 
+‹‹ 
+
+ÑÑ 
+
+åå 
+ÜÜ 
+
+ÒÒ 
+áá 
+
+—— 
+àà 0
+
+éé 
+èè 
+££  %
+¡¡ H
+
+íí  
+ññ 
+óó 
+òò+ 3
+µµ  
+∑∑  
+
+òò! (
+õõ> E
+
+õõ( *
+ûû. 0$
+
+ûû +
+üü (
+££2 >
+
+••2 D
+ßßB T
+
+≠≠ '
+ØØ2 :
+
+∫∫& (
+ºº6 8
+
+ƒƒ 
+¡¡ 0
+
+ƒƒ" '
+ŒŒ 
+ŒŒ "
+‘‘$ )0
+
+–– 
+‘‘ 
+‘‘  !
+‘‘+ ,0
+
+——$ (
+ÿÿ  
+‚‚  
+‰‰  
+
+⁄⁄+ 3
+‹‹[ c
+
+ÁÁ' /
+ÈÈY a0
+
+ÛÛ 
+ÙÙ 
+àà  %
+¶¶ H
+
+˜˜  
+˚˚ 
+¸¸ 
+˝˝+ 3
+öö  
+úú  
+
+˝˝! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8
+
+©© 
+¶¶ 0
+
+©©" '
+ÆÆ 
+ÆÆ "
+¥¥$ )0
+
+∞∞ 
+¥¥ 
+¥¥  !
+¥¥+ ,0
+
+±±$ (
+∏∏  
+¬¬  
+ƒƒ  
+
+∫∫+ 3
+ºº[ c
+
+««' /
+……Y a$
+
+”” 
+’’ 
+◊◊ 
+
+⁄⁄ 
+◊◊ 
+
+⁄⁄! &
+‚‚  %0
+
+ﬁﬁ 
+‚‚ 
+‚‚ 
+‚‚' (0
+
+ﬂﬂ  $
+ÊÊ 
+ 
+ÚÚ 
+
+ËË' /
+ÍÍW _
+
+ıı# +
+˜˜U ]‹	
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_22a.cs
+
+ D
+!! &WW 
+
+## (
+%% && ::  %XXO T<
+))  -- .. //+ 3LL  NN  
+//! (22> E
+22( *55. 0
+55 +66 (::2 >
+<<2 D>>B T
+DD 'FF2 :
+QQ& (SS6 8
+\\ +
+úú 
+]] +
+’’ 
+^^ *
+ﬂﬂ 
+
+`` 
+hh bb 
+
+°° cc 
+
+⁄⁄ dd *
+jj kk   %
+ùùT Y@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 80
+
+££ 
+§§ 
+∏∏  %
+÷÷T YH
+
+ßß  
+´´ 
+¨¨ 
+≠≠+ 3
+    
+ÃÃ  
+
+≠≠! (
+∞∞> E
+
+∞∞( *
+≥≥. 0$
+
+≥≥ +
+¥¥ (
+∏∏2 >
+
+∫∫2 D
+ººB T
+
+¬¬ '
+ƒƒ2 :
+
+œœ& (
+——6 8$
+
+‹‹ 
+ﬁﬁ 
+‡‡S XÍ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_22b.cs
+
+ D
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]›
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_31.cs
+
+ C
+
+!! 
+## WW ZZ !(
+%% && ::$ )WW <
+)) $-- .. /// 7LL $NN $
+//% ,22B I
+22, .552 4
+55# /66  ,::6 B
+<<6 H>>F X
+DD# +FF6 >
+QQ* ,SS: <
+ZZ __  %(
+[[ __ __ __' ((
+\\  $cc mm oo 
+ee' /ggW _
+rr# +ttU ]
+
+{{ 
+
+ÇÇ }} 
+
+≠≠ ~~ $
+
+ÑÑ 
+ââ 
+åå !$
+
+ÜÜ 
+àà 
+ââ 
+
+åå 
+ëë  %0
+
+çç 
+ëë 
+ëë 
+ëë' (0
+
+éé  $
+ïï 
+üü 
+°° 
+
+óó' /
+ôôW _
+
+§§# +
+¶¶U ]$
+
+ØØ 
+„„ 
+ÊÊ !0
+
+±± 
+≤≤ 
+∆∆$ )
+„„ H
+
+µµ $
+ππ 
+∫∫ 
+ªª/ 7
+ÿÿ $
+⁄⁄ $
+
+ªª% ,
+ææB I
+
+ææ, .
+¡¡2 4$
+
+¡¡# /
+¬¬  ,
+∆∆6 B
+
+»»6 H
+  F X
+
+––# +
+““6 >
+
+››* ,
+ﬂﬂ: <0
+
+ÊÊ 
+ËË 
+ËË "
+ÓÓ$ )0
+
+ÍÍ 
+ÓÓ 
+ÓÓ  !
+ÓÓ+ ,0
+
+ÎÎ$ (
+ÚÚ  
+¸¸  
+˛˛  
+
+ÙÙ+ 3
+ˆˆ[ c
+
+ÅÅ' /
+ÉÉY a∑
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_41.cs
+
+ C
+!! uu 
+!!$ )'' !(
+## '' '' ''# $(
+$$  ++ 55 77 
+--# +//S [
+:: '<<Q Y
+
+AA (
+CC DD XX  %uu <
+GG  KK LL MM+ 3jj  ll  
+MM! (PP> E
+PP( *SS. 0
+SS +TT (XX2 >
+ZZ2 D\\B T
+bb 'dd2 :
+oo& (qq6 8
+
+yy 
+
+†† {{ 
+
+ÕÕ || 
+ #
+•• 
+( -
+ÖÖ !0
+
+ÅÅ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $0
+
+ÇÇ  
+ââ 
+ìì 
+ïï 
+
+ãã# +
+ççS [
+
+òò '
+ööQ Y$
+
+¢¢ 
+§§ 
+•• 
+
+®® #
+ÅÅ 0
+
+®®( -
+´´ 
+´´ 
+±±  %0
+
+≠≠ 
+±± 
+±± 
+±±' (0
+
+ÆÆ  $
+µµ 
+øø 
+¡¡ 
+
+∑∑' /
+ππW _
+
+ƒƒ# +
+∆∆U ]0
+
+œœ 
+–– 
+‰‰  %
+ÅÅ H
+
+””  
+◊◊ 
+ÿÿ 
+ŸŸ+ 3
+ˆˆ  
+¯¯  
+
+ŸŸ! (
+‹‹> E
+
+‹‹( *
+ﬂﬂ. 0$
+
+ﬂﬂ +
+‡‡ (
+‰‰2 >
+
+ÊÊ2 D
+ËËB T
+
+ÓÓ '
+2 :
+
+˚˚& (
+˝˝6 8ª
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_42.cs
+
+ C
+!!  ZZ (
+## $$ 88  %UU <
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+
+XX 
+ZZ __ !(
+[[ __ __ __# $(
+\\  cc mm oo 
+ee# +ggS [
+rr 'ttQ Y
+{{ $
+ÖÖ ! 
+}}  
+ÄÄ 
+
+ÉÉ 
+ÉÉ 
+
+ÖÖ 
+ää !0
+
+ÜÜ 
+ää 
+ää 
+ää# $0
+
+áá  
+éé 
+òò 
+öö 
+
+êê# +
+ííS [
+
+ùù '
+üüQ Y
+
+•• $
+ﬁﬁ !0
+
+ßß 
+®® 
+ºº  %
+ŸŸ H
+
+´´  
+ØØ 
+∞∞ 
+±±+ 3
+ŒŒ  
+––  
+
+±±! (
+¥¥> E
+
+¥¥( *
+∑∑. 0$
+
+∑∑ +
+∏∏ (
+ºº2 >
+
+ææ2 D
+¿¿B T
+
+∆∆ '
+»»2 :
+
+””& (
+’’6 8
+
+‹‹ 
+ÑÑ 0
+
+ﬁﬁ 
+‡‡ 
+‡‡ 
+ÊÊ  %0
+
+‚‚ 
+ÊÊ 
+ÊÊ 
+ÊÊ' (0
+
+„„  $
+ÍÍ 
+ÙÙ 
+ˆˆ 
+
+ÏÏ' /
+ÓÓW _
+
+˘˘# +
+˚˚U ]
+
+ÅÅ ß
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_45.cs
+
+ C
+!! '' zz "
+"" 
+áá  
+¨¨ "
+## 
+≤≤  
+ää 
+%% {{ 
+'' ,, !(
+(( ,, ,, ,,# $(
+))  00 :: << 
+22# +44S [
+?? 'AAQ Y
+
+FF (
+HH II ]]  %zz <
+LL  PP QQ RR+ 3oo  qq  
+RR! (UU> E
+UU( *XX. 0
+XX +YY (]]2 >
+__2 DaaB T
+gg 'ii2 :
+tt& (vv6 8
+
+ 
+
+ßß 
+ÅÅ 
+
+÷÷ 
+ÇÇ 
+
+ÖÖ 
+≠≠ 
+
+áá 
+åå !0
+
+àà 
+åå 
+åå 
+åå# $0
+
+ââ  
+êê 
+öö 
+úú 
+
+íí# +
+îîS [
+
+üü '
+°°Q Y$
+
+©© 
+´´ 
+¨¨ 
+
+∞∞ 
+ãã 0
+
+≤≤ 
+¥¥ 
+¥¥ 
+∫∫  %0
+
+∂∂ 
+∫∫ 
+∫∫ 
+∫∫' (0
+
+∑∑  $
+ææ 
+»» 
+   
+
+¿¿' /
+¬¬W _
+
+ÕÕ# +
+œœU ]0
+
+ÿÿ 
+ŸŸ 
+ÌÌ  %
+ää H
+
+‹‹  
+‡‡ 
+·· 
+‚‚+ 3
+ˇˇ  
+ÅÅ  
+
+‚‚! (
+ÂÂ> E
+
+ÂÂ( *
+ËË. 0$
+
+ËË +
+ÈÈ (
+ÌÌ2 >
+
+ÔÔ2 D
+ÒÒB T
+
+˜˜ '
+˘˘2 :
+
+ÑÑ& (
+ÜÜ6 8∫
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_51a.cs
+
+ D
+
+   (
+"" ## 77  %TTO T<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddS X*
+jj kk   %
+úúS X@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8‘
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_51b.cs
+
+ D
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]∫
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_52a.cs
+
+ D
+
+   (
+"" ## 77  %TTO T<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddS X*
+jj kk   %
+úúS X@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_52b.cs
+
+ D
+
+ 
+# (  O T
+
+&& "
+&&' ,((S X
+
+,, "
+,,' ,..S X‘
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_52c.cs
+
+ D
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]∫
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_53a.cs
+
+ D
+
+   (
+"" ## 77  %TTO T<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddS X*
+jj kk   %
+úúS X@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_53b.cs
+
+ D
+
+ 
+# (  O T
+
+&& "
+&&' ,((S X
+
+,, "
+,,' ,..S Xæ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_53c.cs
+
+ D
+
+ 
+# (  O T
+
+&& "
+&&' ,((S X
+
+,, "
+,,' ,..S X‘
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_53d.cs
+
+ D
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]∫
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_54a.cs
+
+ D
+
+   (
+"" ## 77  %TTO T<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc ddS X*
+jj kk   %
+úúS X@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_54b.cs
+
+ D
+
+ 
+# (  O T
+
+&& "
+&&' ,((S X
+
+,, "
+,,' ,..S Xæ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_54c.cs
+
+ D
+
+ 
+# (  O T
+
+&& "
+&&' ,((S X
+
+,, "
+,,' ,..S Xæ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_54d.cs
+
+ D
+
+ 
+# (  O T
+
+&& "
+&&' ,((S X
+
+,, "
+,,' ,..S X‘
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_54e.cs
+
+ D
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˙
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_61a.cs
+
+ D
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
+
+ÜÜ# +
+ààU ]ñ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_61b.cs
+
+ D
+
+   (
+"" ## 77  %TT <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+ZZ #
+\\ ^^ __ 
+
+cc #*
+ee ff zz  %
+óó @
+ii  mm nn oo+ 3
+åå  
+éé  
+oo! (rr> E
+rr( *uu. 0
+uu +vv (zz2 >
+||2 D~~B T
+
+ÑÑ '
+ÜÜ2 :
+
+ëë& (
+ìì6 8§
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_66a.cs
+
+ D
+
+   (
+"" ## 77  %UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TT UU VVO Y
+
+ZZ 
+aa \\ 
+ll ]] 
+cc ee gg 
+ff gg hhS ],
+nn oo 
+ÉÉ  %
+°° @
+rr  vv ww xx+ 3
+ïï  
+óó  
+xx! ({{> E
+{{( *~~. 0 
+~~ + (
+ÉÉ2 >
+
+ÖÖ2 D
+ááB T
+
+çç '
+èè2 :
+
+öö& (
+úú6 8$
+
+†† 
+°° 
+¢¢S ]ò
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_66b.cs
+
+ D
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]¶
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_67a.cs
+
+ DJ
+   YY YY' 0kk kk' 0
+•• 
+••' 0*
+"" ZZ #ll #
+¶¶ #
+
+%% (
+'' (( <<  %ZZ& +<
+++  // 00 11+ 3NN  PP  
+11! (44> E
+44( *77. 0
+77 +88 (<<2 >
+>>2 D@@B T
+FF 'HH2 :
+SS& (UU6 8
+YY  ZZ [[O ]
+
+__ 
+ff aa 
+qq bb 
+hh jj ll& +
+kk  ll mmS a,
+ss tt 
+àà  %
+¶¶& +@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8$
+
+••  
+¶¶ 
+ßßS aò
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_67b.cs
+
+ D
+
+ 
+h v   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBl zDD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddl zff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]Ç
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_68a.cs
+
+ D<
+   $$ 88  %cc jj ~~  %
+
+"" <
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 8
+
+YY 
+`` [[ 
+hh \\ @
+mm  qq rr ss+ 3
+êê  
+íí  
+ss! (vv> E
+vv( *yy. 0
+yy +zz (~~2 >
+
+ÄÄ2 D
+ÇÇB T
+
+àà '
+ää2 :
+
+ïï& (
+óó6 8÷
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_68b.cs
+
+ D
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]∫
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_71a.cs
+
+ D
+
+   (
+"" ## 77  %TTW \<
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+
+XX 
+__ ZZ 
+hh [[ 
+aa cc dd[ `*
+jj kk   %
+úú[ `@
+nn  rr ss tt+ 3
+ëë  
+ìì  
+tt! (ww> E
+ww( *zz. 0
+zz +{{ (2 >
+
+ÅÅ2 D
+ÉÉB T
+
+ââ '
+ãã2 :
+
+ññ& (
+òò6 8ò
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_71b.cs
+
+ D
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]Æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_72a.cs
+
+ D
+
+!! <
+## $$ 88  %VV #WW #XX #<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU  VV WW XX YYO ]
+
+]] 
+dd __ 
+qq `` 2
+ff hh jj #kk #ll #2
+ii  jj kk ll mmS aD
+ss tt 
+àà  %
+¶¶ #
+ßß #
+®® #@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8<
+
+••  
+¶¶ 
+ßß 
+®® 
+©©S aò
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_72b.cs
+
+ D
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]Æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_73a.cs
+
+ D
+
+!! <
+## $$ 88  %VV  %WW  %XX  %<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU 'VV WW XX YYO ^
+
+]] 
+dd __ 
+qq `` 2
+ff hh jj  %kk  %ll  %2
+ii 'jj kk ll mmS bD
+ss tt 
+àà  %
+¶¶  %
+ßß  %
+®®  %@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8<
+
+•• '
+¶¶ 
+ßß 
+®® 
+©©S bò
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_73b.cs
+
+ D
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]Æ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_74a.cs
+
+ D
+
+!! <
+## $$ 88  %VV $WW $XX $<
+''  ++ ,, --+ 3JJ  LL  
+--! (00> E
+00( *33. 0
+33 +44 (882 >
+::2 D<<B T
+BB 'DD2 :
+OO& (QQ6 82
+UU +VV WW XX YYO ^
+
+]] 
+dd __ 
+qq `` 2
+ff hh jj $kk $ll $2
+ii +jj kk ll mmS bD
+ss tt 
+àà  %
+¶¶ $
+ßß $
+®® $@
+ww  {{ || }}+ 3
+öö  
+úú  
+}}! (
+ÄÄ> E
+
+ÄÄ( *
+ÉÉ. 0$
+
+ÉÉ +
+ÑÑ (
+àà2 >
+
+ää2 D
+ååB T
+
+íí '
+îî2 :
+
+üü& (
+°°6 8<
+
+•• +
+¶¶ 
+ßß 
+®® 
+©©S bò
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_74b.cs
+
+ D
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]∂
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_75a.cs
+
+ D
+
+"" (
+$$ %% 99  %]]! &<
+((  ,, -- ..+ 3KK  MM  
+..! (11> E
+11( *44. 0
+44 +55 (992 >
+;;2 D==B T
+CC 'EE2 :
+PP& (RR6 8
+WW ^^ ``S b
+ZZ ]] 
+[[ ]] ^^" $
+bb& 5ddZ i
+
+ii 
+pp kk 
+
+∑∑ ll ,
+rr ss 
+áá  %
+´´! &@
+vv  zz {{ ||+ 3
+ôô  
+õõ  
+||! (> E
+( *
+ÇÇ. 0$
+
+ÇÇ +
+ÉÉ (
+áá2 >
+
+ââ2 D
+ããB T
+
+ëë '
+ìì2 :
+
+ûû& (
+††6 8$
+
+•• 
+¨¨ 
+ÆÆW f
+
+®® 
+´´ $
+
+©© 
+´´ 
+¨¨" $
+
+∞∞& 5
+≤≤Z i0
+
+ππ 
+∫∫ 
+ŒŒ  %
+ÚÚ! &H
+
+ΩΩ  
+¡¡ 
+¬¬ 
+√√+ 3
+‡‡  
+‚‚  
+
+√√! (
+∆∆> E
+
+∆∆( *
+……. 0$
+
+…… +
+   (
+ŒŒ2 >
+
+––2 D
+““B T
+
+ÿÿ '
+⁄⁄2 :
+
+ÂÂ& (
+ÁÁ6 8$
+
+ÏÏ 
+ÛÛ 
+ııW f
+
+ÔÔ 
+ÚÚ $
+
+ 
+ÚÚ 
+ÛÛ" $
+
+˜˜& 5
+˘˘Z iå	
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_75b.cs
+
+ D
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ jÑ
+…C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_81a.cs
+
+ D
+
+   (
+"" ## 77  %UU <
+&&  ** ++ ,,+ 3II  KK  
+,,! (//> E
+//( *22. 0
+22 +33 (772 >
+992 D;;B T
+AA 'CC2 :
+NN& (PP6 8
+TTK UUU 
+
+YY 
+`` [[ 
+jj \\ 
+bb dd ff 
+eeK Uff ,
+ll mm 
+ÅÅ  %
+üü @
+pp  tt uu vv+ 3
+ìì  
+ïï  
+vv! (yy> E
+yy( *||. 0 
+|| +}} (
+ÅÅ2 >
+
+ÉÉ2 D
+ÖÖB T
+
+ãã '
+çç2 :
+
+òò& (
+öö6 8
+
+ûûK U
+üü ˝
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_81_bad.cs
+
+ G
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q YÙ
+ÕC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_81_base.cs
+
+ Q
+
+ 
+
+$ )ï
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_81_goodB2G.cs
+
+ K
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]Å
+–C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__Listen_tcp_write_81_goodG2B.cs
+
+ K
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Yè
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_01.cs
+
+ E
+
+ 
+    ## (
+!! ## ## ##  
+
+** 
+11 ,, 
+?? -- 
+33 55 88 (
+66 88 88 88  2
+AA CC FF FF HH !(
+DD HH HH HH# $√
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_02.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_03.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© ≈
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_04.cs
+
+ E^
+   )&& 11 LL [[ ff uu 
+óó 
+¢¢  
+!! *AA 
+ÄÄ 
+
+## (
+%% )) // 55 !(
+33 55 55 55# $
+>> 
+≤≤ (
+@@ EE JJ PP !(
+NN PP PP PP# $
+XX 
+≥≥ (
+ZZ ^^ dd jj !(
+hh jj jj jj# $
+rr 
+¥¥ B
+tt xx ~~ 
+ââ 
+ââ "
+ãã  %0
+
+áá 
+ãã 
+ãã 
+ãã' (
+
+îî 
+µµ H
+
+ññ 
+öö 
+†† 
+¶¶ 
+¶¶ "
+®®  %0
+
+§§ 
+®® 
+®® 
+®®' (
+
+∞∞ √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_05.cs
+
+ E^
+ %% 00 KK ZZ ee tt 
+ññ 
+°° 
+   @@  
+
+"" (
+$$ (( .. 44 !(
+22 44 44 44# $
+== 
+±± (
+?? DD II OO !(
+MM OO OO OO# $
+WW 
+≤≤ (
+YY ]] cc ii !(
+gg ii ii ii# $
+qq 
+≥≥ B
+ss ww }} 
+àà 
+àà "
+ää  %0
+
+ÜÜ 
+ää 
+ää 
+ää' (
+
+ìì 
+¥¥ H
+
+ïï 
+ôô 
+üü 
+•• 
+•• "
+ßß  %0
+
+££ 
+ßß 
+ßß 
+ßß' (
+
+ØØ ∑
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_06.cs
+
+ Er
+ ($$ // ?? JJ YY dd ss ~~ 
+ïï 
+†† 
+
+!! (
+## '' -- 33 !(
+11 33 33 33# $
+<< 
+∞∞ (
+>> CC HH NN !(
+LL NN NN NN# $
+VV 
+±± (
+XX \\ bb hh !(
+ff hh hh hh# $
+pp 
+≤≤ B
+rr vv || 
+áá 
+áá "
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (
+
+íí 
+≥≥ H
+
+îî 
+òò 
+ûû 
+§§ 
+§§ "
+¶¶  %0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (
+
+ÆÆ ∑
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_07.cs
+
+ Er
+ $$ // ?? JJ YY dd ss ~~ 
+ïï 
+†† 
+
+!! (
+## '' -- 33 !(
+11 33 33 33# $
+<< 
+∞∞ (
+>> CC HH NN !(
+LL NN NN NN# $
+VV 
+±± (
+XX \\ bb hh !(
+ff hh hh hh# $
+pp 
+≤≤ B
+rr vv || 
+áá 
+áá "
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (
+
+íí 
+≥≥ H
+
+îî 
+òò 
+ûû 
+§§ 
+§§ "
+¶¶  %0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (
+
+ÆÆ «
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_08.cs
+
+ E^
+ *,, 77 RR aa ll {{ 
+ùù 
+®®  
+$$ +GG 
+ÜÜ 
+
+)) (
+++ // 55 ;; !(
+99 ;; ;; ;;# $
+DD 
+∏∏ (
+FF KK PP VV !(
+TT VV VV VV# $
+^^ 
+ππ (
+`` dd jj pp !(
+nn pp pp pp# $
+xx 
+∫∫ D
+zz ~~ 
+ÑÑ 
+èè 
+èè "
+ëë  %0
+
+çç 
+ëë 
+ëë 
+ëë' (
+
+öö 
+ªª H
+
+úú 
+†† 
+¶¶ 
+¨¨ 
+¨¨ "
+ÆÆ  %0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (
+
+∂∂ √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_09.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_10.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_11.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© Ö
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_12.cs
+
+ E
+
+ F
+ "" '' -- !66 66 "88  %(
+++ -- -- --# $(
+44 88 88 88' (
+CC 
+êê 2
+EE II NN TT !]] !(
+RR TT TT TT# $(
+[[ ]] ]] ]]# $
+ff 
+ëë `
+hh ll qq ww ww "yy  %
+ÉÉ 
+ÉÉ "
+ÖÖ  %(
+uu yy yy yy' (0
+
+ÅÅ 
+ÖÖ 
+ÖÖ 
+ÖÖ' (
+
+çç √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_13.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© √
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_14.cs
+
+ E
+
+ (
+ "" (( .. !(
+,, .. .. ..# $
+77 
+´´ (
+99 >> CC II !(
+GG II II II# $
+QQ 
+¨¨ (
+SS WW ]] cc !(
+aa cc cc cc# $
+kk 
+≠≠ B
+mm qq ww 
+ÇÇ 
+ÇÇ "
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (
+
+çç 
+ÆÆ H
+
+èè 
+ìì 
+ôô 
+üü 
+üü "
+°°  %0
+
+ùù 
+°° 
+°° 
+°°' (
+
+©© À
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_15.cs
+
+ E
+
+ (
+ ## (( 00 !(
+.. 00 00 00# $
+>> 
+…… (
+@@ FF JJ RR !(
+PP RR RR RR# $
+__ 
+   (
+aa ff kk ss !(
+qq ss ss ss# $
+
+ÄÄ 
+ÀÀ H
+
+ÇÇ 
+áá 
+åå 
+òò 
+òò "
+öö  %0
+
+ññ 
+öö 
+öö 
+öö' (
+
+§§ 
+ÃÃ H
+
+¶¶ 
+´´ 
+∞∞ 
+∏∏ 
+∏∏ "
+∫∫  %0
+
+∂∂ 
+∫∫ 
+∫∫ 
+∫∫' (
+
+«« è
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_16.cs
+
+ E
+
+ 
+ "" )) !(
+'' )) )) ))# $
+33 cc 
+55 99 @@ !(
+>> @@ @@ @@# $
+II dd 2
+KK OO VV VV "XX  %(
+TT XX XX XX' (
+
+aa Ô
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_17.cs
+
+ E
+
+ 
+ $$ )) !
+%% %% %%  (
+'' )) )) ))# $
+22 XX 
+44 66 ;; !
+77 77 77  (
+99 ;; ;; ;;# $
+CC YY 2
+EE GG LL LL "NN  %
+HH HH HH  (
+JJ NN NN NN' (
+
+VV …
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_21.cs
+
+ E
+ $$ ** 
+
+ 
+!! ## %% 
+(( %% 
+(( ".. !(
+,, .. .. ..# $
+66  GG MM 
+77  ff ll "
+88 
+ÄÄ 
+ÜÜ 
+
+:: 
+BB << 
+aa == 
+{{ >> 
+DD FF HH 
+KK HH (
+KK" 'VV VV "XX  %(
+TT XX XX XX' (
+cc ee gg 
+jj gg (
+jj" 'pp pp "rr  %(
+nn rr rr rr' ( 
+}}  
+ÅÅ 
+
+ÑÑ 
+ÅÅ 
+
+ÑÑ! &
+ää !0
+
+àà 
+ää 
+ää 
+ää# $å
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_22a.cs
+
+ F
+ &$$ 
+
+ 
+!! ## %%Q V
+)) +:: 
+** +DD 
+++ *NN 
+
+-- 
+55 // 
+?? 00 
+II 11 
+77 99 ;;V [
+AA CC EEV [
+KK MM OOU Z⁄
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_22b.cs
+
+ F
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $±
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_31.cs
+
+ E
+
+ 
+ ## && !
+   "" ## 
+&& )) !(
+'' )) )) ))# $
+
+11 
+88 33 
+MM 44 
+:: ?? BB !
+<< >> ?? 
+BB EE !(
+CC EE EE EE# $
+OO TT WW !
+QQ SS TT (
+WW ZZ ZZ "\\  %(
+XX \\ \\ \\' (ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_41.cs
+
+ E
+ ++ 
+$ )   (
+           
+
+&& 
+(( ** ++ 
+
+// 
+@@ 11 
+VV 22 
+55 #EE 
+55( -99 (
+77 99 99 99  
+BB DD EE 
+HH #[[ (
+HH( -LL LL NN !(
+JJ NN NN NN# $
+XX ZZ [[ ì
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_42.cs
+
+ E
+  && 
+    !! 
+
+$$ 
+&& )) (
+'' )) )) ))  
+11 $;; !
+33 55 66 
+99 ]] 
+;; >> (
+<< >> >> >>  
+EE $OO !
+GG II JJ 
+MM ^^ (
+OO RR RR TT !(
+PP TT TT TT# $
+
+[[ Û
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_45.cs
+
+ E
+ "" 00 
+ ==  LL 
+ RR  dd 
+   11 
+"" %% (
+## %% %% %%  
+
+++ 
+-- // 00 
+
+55 
+GG 77 
+__ 88 
+;; MM 
+== @@ (
+>> @@ @@ @@  
+II KK LL 
+PP ee (
+RR UU UU WW !(
+SS WW WW WW# $
+aa cc dd ˛
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_51a.cs
+
+ F
+
+ 
+    !!Q V
+
+%% 
+,, '' 
+55 (( 
+.. 00 11U Z
+77 99 ::U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_51b.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $˛
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_52a.cs
+
+ F
+
+ 
+    !!Q V
+
+%% 
+,, '' 
+55 (( 
+.. 00 11U Z
+77 99 ::U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_52b.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_52c.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $˛
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_53a.cs
+
+ F
+
+ 
+    !!Q V
+
+%% 
+,, '' 
+55 (( 
+.. 00 11U Z
+77 99 ::U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_53b.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_53c.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_53d.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $˛
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_54a.cs
+
+ F
+
+ 
+    !!Q V
+
+%% 
+,, '' 
+55 (( 
+.. 00 11U Z
+77 99 ::U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_54b.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_54c.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_54d.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_54e.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ú
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_61a.cs
+
+ F
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $ﬁ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_61b.cs
+
+ F
+
+ 
+    !! 
+
+'' #
+)) ++ ,, 
+
+00 #
+22 44 55 ﬁ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_66a.cs
+
+ F
+
+ 
+    "" 
+!! "" ##Q [
+
+'' 
+.. )) 
+99 ** 
+00 22 44 
+33 44 55U _
+;; == ?? 
+>> ?? @@U _î
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_66b.cs
+
+ F
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $–
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_67a.cs
+
+ FF
+ && &&' 088 88' 0CC CC' 0(
+ '' #99 #DD #
+
+!! 
+## %% ''& +
+&&  '' ((Q _
+
+,, 
+33 .. 
+>> // 
+55 77 99& +
+88  99 ::U c
+@@ BB DD& +
+CC  DD EEU cî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_67b.cs
+
+ F
+
+ 
+j x "
+ !! (
+ !! !! !!  
+
+** "
+**n |,, "
+,, // (
+-- // // //  
+
+66 "
+66n |88 "(
+88 ;; ;; == !(
+99 == == ==# $»
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_68a.cs
+
+ F(
+ !! 00 88 
+
+ 
+
+&& 
+-- (( 
+55 )) “
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_68b.cs
+
+ F
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $˛
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_71a.cs
+
+ F
+
+ 
+    !!Y ^
+
+%% 
+,, '' 
+55 (( 
+.. 00 11] b
+77 99 ::] bî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_71b.cs
+
+ F
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $÷
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_72a.cs
+
+ F
+
+ 2
+ !! ## #$$ #%% #2
+""  ## $$ %% &&Q _
+
+** 
+11 ,, 
+>> -- 2
+33 55 77 #88 #99 #2
+66  77 88 99 ::U c2
+@@ BB DD #EE #FF #2
+CC  DD EE FF GGU cî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_72b.cs
+
+ F
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $÷
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_73a.cs
+
+ F
+
+ 2
+ !! ##  %$$  %%%  %2
+"" '## $$ %% &&Q `
+
+** 
+11 ,, 
+>> -- 2
+33 55 77  %88  %99  %2
+66 '77 88 99 ::U d2
+@@ BB DD  %EE  %FF  %2
+CC 'DD EE FF GGU dî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_73b.cs
+
+ F
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $÷
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_74a.cs
+
+ F
+
+ 2
+ !! ## $$$ $%% $2
+"" +## $$ %% &&Q `
+
+** 
+11 ,, 
+>> -- 2
+33 55 77 $88 $99 $2
+66 +77 88 99 ::U d2
+@@ BB DD $EE $FF $2
+CC +DD EE FF GGU dî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_74b.cs
+
+ F
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $¬
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_75a.cs
+
+ F
+
+ 
+!! ## ++! &
+%% ,, ..U d
+(( ++ 
+)) ++ ,," $
+00& 522Z i
+
+77 
+>> 99 
+VV :: 
+@@ BB JJ! &
+DD KK MMY h
+GG JJ 
+HH JJ KK" $
+OO& 5QQZ i
+XX ZZ bb! &
+\\ cc eeY h
+__ bb 
+`` bb cc" $
+gg& 5iiZ i“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_75b.cs
+
+ F
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ j¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_81a.cs
+
+ F
+
+ 
+    "" 
+!!M W"" 
+
+&& 
+-- (( 
+77 )) 
+// 11 33 
+22M W33 
+99 ;; == 
+<<M W== ©
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_81_bad.cs
+
+ I
+
+ 
+$ )   (
+           ˆ
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_81_base.cs
+
+ S
+
+ 
+
+$ )¡
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_81_goodB2G.cs
+
+ M
+
+ (
+$ )!! !! ## !(
+ ## ## ### $≠
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_for_loop_81_goodG2B.cs
+
+ M
+
+ 
+$ )!! (
+ !! !! !!  ò
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_01.cs
+
+ B
+
+ 
+   "" '' !(
+## '' '' ''# $(
+$$  ++ 55 77 
+--# +//S [
+:: '<<Q Y
+
+BB 
+II DD 
+mm EE 
+KK MM RR !(
+NN RR RR RR# $(
+OO  VV `` bb 
+XX# +ZZS [
+ee 'ggQ Y2
+oo qq ss ss yy  %(
+uu yy yy yy' (,
+vv  $}} 
+áá 
+ââ 
+' /
+ÅÅW _
+
+åå# +
+ééU ]∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_02.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ ∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_03.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ ¿
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_04.cs
+
+ Bd
+"" )(( 33 dd 
+ââ 
+îî 
+ππ 
+ÚÚ 
+˝˝  
+## *YY 
+ƒƒ 
+
+%% (
+'' ++ 11 99  %(
+55 99 99 99' ((
+66  $== GG II 
+??' /AAW _
+LL# +NNU ]
+VV 
+§§ (
+XX ]] bb jj  %(
+ff jj jj jj' ((
+gg  $nn xx zz 
+pp' /rrW _
+}}# +U ]
+
+ÜÜ 
+•• 0
+
+àà 
+åå 
+íí 
+öö  %0
+
+ññ 
+öö 
+öö 
+öö' (0
+
+óó  $
+ûû 
+®® 
+™™ 
+
+††' /
+¢¢W _
+
+≠≠# +
+ØØU ]
+
+∂∂ 
+¶¶ H
+
+∏∏ 
+ºº 
+¬¬ 
+ÃÃ 
+ÃÃ "
+““$ )0
+
+ŒŒ 
+““ 
+““  !
+““+ ,0
+
+œœ$ (
+÷÷  
+‡‡  
+‚‚  
+
+ÿÿ+ 3
+⁄⁄[ c
+
+ÂÂ' /
+ÁÁY a
+
+ÔÔ 
+ßß H
+
+ÒÒ 
+ıı 
+˚˚ 
+ÄÄ 
+ÄÄ "
+ÜÜ$ )0
+
+ÇÇ 
+ÜÜ 
+ÜÜ  !
+ÜÜ+ ,0
+
+ÉÉ$ (
+ää  
+îî  
+ññ  
+
+åå+ 3
+éé[ c
+
+ôô' /
+õõY a
+
+¢¢ ¿
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_05.cs
+
+ Bd
+!! '' 22 cc 
+àà 
+ìì 
+∏∏ 
+ÒÒ 
+¸¸  
+"" XX 
+√√ 
+
+$$ (
+&& ** 00 88  %(
+44 88 88 88' ((
+55  $<< FF HH 
+>>' /@@W _
+KK# +MMU ]
+UU 
+££ (
+WW \\ aa ii  %(
+ee ii ii ii' ((
+ff  $mm ww yy 
+oo' /qqW _
+||# +~~U ]
+
+ÖÖ 
+§§ 0
+
+áá 
+ãã 
+ëë 
+ôô  %0
+
+ïï 
+ôô 
+ôô 
+ôô' (0
+
+ññ  $
+ùù 
+ßß 
+©© 
+
+üü' /
+°°W _
+
+¨¨# +
+ÆÆU ]
+
+µµ 
+•• H
+
+∑∑ 
+ªª 
+¡¡ 
+ÀÀ 
+ÀÀ "
+——$ )0
+
+ÕÕ 
+—— 
+——  !
+——+ ,0
+
+ŒŒ$ (
+’’  
+ﬂﬂ  
+··  
+
+◊◊+ 3
+ŸŸ[ c
+
+‰‰' /
+ÊÊY a
+
+ÓÓ 
+¶¶ H
+
+ 
+ÙÙ 
+˙˙ 
+ˇˇ 
+ˇˇ "
+ÖÖ$ )0
+
+ÅÅ 
+ÖÖ 
+ÖÖ  !
+ÖÖ+ ,0
+
+ÇÇ$ (
+ââ  
+ìì  
+ïï  
+
+ãã+ 3
+çç[ c
+
+òò' /
+ööY a
+
+°° ¥
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_06.cs
+
+ Bz
+!! (&& 11 WW bb 
+áá 
+íí 
+∑∑ 
+¬¬ 
+ 
+˚˚ 
+
+## (
+%% )) // 77  %(
+33 77 77 77' ((
+44  $;; EE GG 
+==' /??W _
+JJ# +LLU ]
+TT 
+¢¢ (
+VV [[ `` hh  %(
+dd hh hh hh' ((
+ee  $ll vv xx 
+nn' /ppW _
+{{# +}}U ]
+
+ÑÑ 
+££ 0
+
+ÜÜ 
+ää 
+êê 
+òò  %0
+
+îî 
+òò 
+òò 
+òò' (0
+
+ïï  $
+úú 
+¶¶ 
+®® 
+
+ûû' /
+††W _
+
+´´# +
+≠≠U ]
+
+¥¥ 
+§§ H
+
+∂∂ 
+∫∫ 
+¿¿ 
+   
+   "
+––$ )0
+
+ÃÃ 
+–– 
+––  !
+––+ ,0
+
+ÕÕ$ (
+‘‘  
+ﬁﬁ  
+‡‡  
+
+÷÷+ 3
+ÿÿ[ c
+
+„„' /
+ÂÂY a
+
+ÌÌ 
+•• H
+
+ÔÔ 
+ÛÛ 
+˘˘ 
+˛˛ 
+˛˛ "
+ÑÑ$ )0
+
+ÄÄ 
+ÑÑ 
+ÑÑ  !
+ÑÑ+ ,0
+
+ÅÅ$ (
+àà  
+íí  
+îî  
+
+ää+ 3
+åå[ c
+
+óó' /
+ôôY a
+
+†† ¥
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_07.cs
+
+ Bz
+!! && 11 WW bb 
+áá 
+íí 
+∑∑ 
+¬¬ 
+ 
+˚˚ 
+
+## (
+%% )) // 77  %(
+33 77 77 77' ((
+44  $;; EE GG 
+==' /??W _
+JJ# +LLU ]
+TT 
+¢¢ (
+VV [[ `` hh  %(
+dd hh hh hh' ((
+ee  $ll vv xx 
+nn' /ppW _
+{{# +}}U ]
+
+ÑÑ 
+££ 0
+
+ÜÜ 
+ää 
+êê 
+òò  %0
+
+îî 
+òò 
+òò 
+òò' (0
+
+ïï  $
+úú 
+¶¶ 
+®® 
+
+ûû' /
+††W _
+
+´´# +
+≠≠U ]
+
+¥¥ 
+§§ H
+
+∂∂ 
+∫∫ 
+¿¿ 
+   
+   "
+––$ )0
+
+ÃÃ 
+–– 
+––  !
+––+ ,0
+
+ÕÕ$ (
+‘‘  
+ﬁﬁ  
+‡‡  
+
+÷÷+ 3
+ÿÿ[ c
+
+„„' /
+ÂÂY a
+
+ÌÌ 
+•• H
+
+ÔÔ 
+ÛÛ 
+˘˘ 
+˛˛ 
+˛˛ "
+ÑÑ$ )0
+
+ÄÄ 
+ÑÑ 
+ÑÑ  !
+ÑÑ+ ,0
+
+ÅÅ$ (
+àà  
+íí  
+îî  
+
+ää+ 3
+åå[ c
+
+óó' /
+ôôY a
+
+†† ∆
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_08.cs
+
+ Bd
+!! *.. 99 jj 
+èè 
+öö 
+øø 
+¯¯ 
+ÉÉ  
+&& +__ 
+   
+
+++ (
+-- 11 77 ??  %(
+;; ?? ?? ??' ((
+<<  $CC MM OO 
+EE' /GGW _
+RR# +TTU ]
+\\ 
+™™ (
+^^ cc hh pp  %(
+ll pp pp pp' (*
+mm  $tt ~~ 
+ÄÄ 
+vv' /xxW _
+
+ÉÉ# +
+ÖÖU ]
+
+åå 
+´´ 0
+
+éé 
+íí 
+òò 
+††  %0
+
+úú 
+†† 
+†† 
+††' (0
+
+ùù  $
+§§ 
+ÆÆ 
+∞∞ 
+
+¶¶' /
+®®W _
+
+≥≥# +
+µµU ]
+
+ºº 
+¨¨ H
+
+ææ 
+¬¬ 
+»» 
+““ 
+““ "
+ÿÿ$ )0
+
+‘‘ 
+ÿÿ 
+ÿÿ  !
+ÿÿ+ ,0
+
+’’$ (
+‹‹  
+ÊÊ  
+ËË  
+
+ﬁﬁ+ 3
+‡‡[ c
+
+ÎÎ' /
+ÌÌY a
+
+ıı 
+≠≠ H
+
+˜˜ 
+˚˚ 
+ÅÅ 
+ÜÜ 
+ÜÜ "
+åå$ )0
+
+àà 
+åå 
+åå  !
+åå+ ,0
+
+ââ$ (
+êê  
+öö  
+úú  
+
+íí+ 3
+îî[ c
+
+üü' /
+°°Y a
+
+®® ∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_09.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ ∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_10.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ ∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_11.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ 
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_12.cs
+
+ B
+
+ F
+   $$ )) 11  %MM MM "SS$ )(
+-- 11 11 11' ((
+..  $55 ?? AA 
+77' /99W _
+DD# +FFU ](
+OO SS SS  !SS+ ,(
+PP$ (WW  aa  cc  
+YY+ 3[[[ c
+ff' /hhY a
+rr 
+ôô 6
+tt xx }} 
+ÖÖ  %
+§§  %0
+
+ÅÅ 
+ÖÖ 
+ÖÖ 
+ÖÖ' (0
+
+ÇÇ  $
+ââ 
+ìì 
+ïï 
+
+ãã' /
+ççW _
+
+òò# +
+ööU ]0
+
+†† 
+§§ 
+§§ 
+§§' (0
+
+°°  $
+®® 
+≤≤ 
+¥¥ 
+
+™™' /
+¨¨W _
+
+∑∑# +
+ππU ]
+
+¡¡ 
+öö l
+
+√√ 
+«« 
+ÃÃ 
+—— 
+—— "
+◊◊$ )
+ÙÙ 
+ÙÙ "
+˙˙$ )0
+
+”” 
+◊◊ 
+◊◊  !
+◊◊+ ,0
+
+‘‘$ (
+€€  
+ÂÂ  
+ÁÁ  
+
+››+ 3
+ﬂﬂ[ c
+
+ÍÍ' /
+ÏÏY a0
+
+ˆˆ 
+˙˙ 
+˙˙  !
+˙˙+ ,0
+
+˜˜$ (
+˛˛  
+àà  
+ää  
+
+ÄÄ+ 3
+ÇÇ[ c
+
+çç' /
+èèY a
+
+ññ ∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_13.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ ∂
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_14.cs
+
+ B
+
+ (
+   $$ ** 22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+OO 
+ùù (
+QQ VV [[ cc  %(
+__ cc cc cc' ((
+``  $gg qq ss 
+ii' /kkW _
+vv# +xxU ]
+ 
+ûû 0
+
+ÅÅ 
+ÖÖ 
+ãã 
+ìì  %0
+
+èè 
+ìì 
+ìì 
+ìì' (0
+
+êê  $
+óó 
+°° 
+££ 
+
+ôô' /
+õõW _
+
+¶¶# +
+®®U ]
+
+ØØ 
+üü H
+
+±± 
+µµ 
+ªª 
+≈≈ 
+≈≈ "
+ÀÀ$ )0
+
+«« 
+ÀÀ 
+ÀÀ  !
+ÀÀ+ ,0
+
+»»$ (
+œœ  
+ŸŸ  
+€€  
+
+——+ 3
+””[ c
+
+ﬁﬁ' /
+‡‡Y a
+
+ËË 
+†† H
+
+ÍÍ 
+ÓÓ 
+ÙÙ 
+˘˘ 
+˘˘ "
+ˇˇ$ )0
+
+˚˚ 
+ˇˇ 
+ˇˇ  !
+ˇˇ+ ,0
+
+¸¸$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ ∫
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_15.cs
+
+ B
+
+ (
+   %% ** 44  %(
+00 44 44 44' ((
+11  $88 BB DD 
+::' /<<W _
+GG# +IIU ]
+VV 
+ªª (
+XX ^^ bb ll  %(
+hh ll ll ll' ((
+ii  $pp zz || 
+rr' /ttW _
+# +
+ÅÅU ]
+
+çç 
+ºº 0
+
+èè 
+îî 
+ôô 
+££  %0
+
+üü 
+££ 
+££ 
+££' (0
+
+††  $
+ßß 
+±± 
+≥≥ 
+
+©©' /
+´´W _
+
+∂∂# +
+∏∏U ]
+
+ƒƒ 
+ΩΩ H
+
+∆∆ 
+ÀÀ 
+–– 
+€€ 
+€€ "
+··$ )0
+
+›› 
+·· 
+··  !
+··+ ,0
+
+ﬁﬁ$ (
+ÂÂ  
+ÔÔ  
+ÒÒ  
+
+ÁÁ+ 3
+ÈÈ[ c
+
+ÙÙ' /
+ˆˆY a
+
+ˇˇ 
+ææ H
+
+ÅÅ 
+ÜÜ 
+ãã 
+íí 
+íí "
+òò$ )0
+
+îî 
+òò 
+òò  !
+òò+ ,0
+
+ïï$ (
+úú  
+¶¶  
+®®  
+
+ûû+ 3
+††[ c
+
+´´' /
+≠≠Y a
+
+ππ ≤
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_16.cs
+
+ B
+
+ 
+   $$ --  %(
+)) -- -- --' ((
+**  $11 ;; == 
+33' /55W _
+@@# +BBU ]
+KK 
+®® 
+MM QQ ZZ  %(
+VV ZZ ZZ ZZ' ((
+WW  $^^ hh jj 
+``' /bbW _
+mm# +ooU ]
+ww 
+©© 8
+yy }} 
+ÉÉ 
+ÉÉ "
+ââ$ )0
+
+ÖÖ 
+ââ 
+ââ  !
+ââ+ ,0
+
+ÜÜ$ (
+çç  
+óó  
+ôô  
+
+èè+ 3
+ëë[ c
+
+úú' /
+ûûY a
+
+¶¶ Ç
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_17.cs
+
+ B
+
+ 
+   && --  %
+'' '' ''  (
+)) -- -- --' ((
+**  $11 ;; == 
+33' /55W _
+@@# +BBU ]
+JJ 
+ùù 
+LL NN UU  %
+OO OO OO  (
+QQ UU UU UU' ((
+RR  $YY cc ee 
+[[' /]]W _
+hh# +jjU ]
+qq 
+ûû 2
+ss uu yy yy "$ )
+vv vv vv  (
+{{    !+ ,.
+||$ (
+ÉÉ  
+çç  
+èè  
+
+ÖÖ+ 3
+áá[ c
+
+íí' /
+îîY a
+
+õõ Ï
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_21.cs
+
+ B
+ && ,, 
+
+!! 
+## %% '' 
+** '' 
+** "22  %(
+.. 22 22 22' ((
+//  $66 @@ BB 
+88' /::W _
+EE# +GGU ]
+NN  __ ee "
+OO  
+ïï 
+õõ "
+PP 
+∆∆ 
+ÃÃ 
+
+RR 
+ZZ TT 
+
+êê UU 
+
+¡¡ VV 
+\\ ^^ `` 
+cc `` (
+cc" 'mm mm "ss$ )(
+oo ss ss  !ss+ ,,
+pp$ (ww  
+ÅÅ  
+ÉÉ  
+yy+ 3{{[ c
+
+ÜÜ' /
+ààY a$
+
+íí 
+îî 
+ññ 
+
+ôô 
+ññ 0
+
+ôô" '
+ûû 
+ûû "
+§§$ )0
+
+†† 
+§§ 
+§§  !
+§§+ ,0
+
+°°$ (
+®®  
+≤≤  
+¥¥  
+
+™™+ 3
+¨¨[ c
+
+∑∑' /
+ππY a$
+
+√√ 
+≈≈ 
+«« 
+
+   
+«« 
+
+  ! &
+““  %0
+
+ŒŒ 
+““ 
+““ 
+““' (0
+
+œœ  $
+÷÷ 
+‡‡ 
+‚‚ 
+
+ÿÿ' /
+⁄⁄W _
+
+ÂÂ# +
+ÁÁU ]â
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_22a.cs
+
+ C
+ &$$ 
+
+ 
+!! ## %%N S
+)) +:: 
+** +DD 
+++ *NN 
+
+-- 
+55 // 
+?? 00 
+II 11 
+77 99 ;;S X
+AA CC EES X
+KK MM OOR WÈ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_22b.cs
+
+ C
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]ÿ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_31.cs
+
+ B
+
+ 
+   %% (( !
+"" $$ %% 
+(( --  %(
+)) -- -- --' ((
+**  $11 ;; == 
+33' /55W _
+@@# +BBU ]
+
+II 
+PP KK 
+{{ LL 
+RR WW ZZ !
+TT VV WW 
+ZZ __  %(
+[[ __ __ __' ((
+\\  $cc mm oo 
+ee' /ggW _
+rr# +ttU ]"
+}} 
+ÇÇ 
+ÖÖ !"
+ 
+ÅÅ 
+ÇÇ 0
+
+ÖÖ 
+áá 
+áá "
+çç$ )0
+
+ââ 
+çç 
+çç  !
+çç+ ,0
+
+ää$ (
+ëë  
+õõ  
+ùù  
+
+ìì+ 3
+ïï[ c
+
+††' /
+¢¢Y a™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_41.cs
+
+ B
+ CC 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+>> 
+@@ BB CC 
+
+GG 
+nn II 
+
+õõ JJ 
+MM #ss 
+MM( -SS !(
+OO SS SS SS# $(
+PP  WW aa cc 
+YY# +[[S [
+ff 'hhQ Y
+pp rr ss 
+vv #
+†† (
+vv( -yy yy   %(
+{{   ' (.
+||  $
+ÉÉ 
+çç 
+èè 
+
+ÖÖ' /
+ááW _
+
+íí# +
+îîU ]$
+
+ùù 
+üü 
+†† ≤
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_42.cs
+
+ B
+  (( 
+   "" ## 
+
+&& 
+(( -- !(
+)) -- -- --# $(
+**  11 ;; == 
+33# +55S [
+@@ 'BBQ Y
+II $SS !
+KK MM NN 
+QQ 
+¢¢ 
+SS XX !(
+TT XX XX XX# $(
+UU  \\ ff hh 
+^^# +``S [
+kk 'mmQ Y
+ss $}} !
+uu ww xx 
+{{ 
+££ *
+}}   
+ÖÖ  %0
+
+ÅÅ 
+ÖÖ 
+ÖÖ 
+ÖÖ' (0
+
+ÇÇ  $
+ââ 
+ìì 
+ïï 
+
+ãã' /
+ççW _
+
+òò# +
+ööU ]
+
+†† †
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_45.cs
+
+ B
+ $$ HH 
+ UU  zz "
+   
+ÄÄ  
+©© 
+"" II 
+$$ )) !(
+%% )) )) ))# $(
+&&  -- 77 99 
+//# +11S [
+<< '>>Q Y
+
+CC 
+EE GG HH 
+
+MM 
+uu OO 
+
+§§ PP 
+SS {{ 
+UU ZZ !(
+VV ZZ ZZ ZZ# $(
+WW  ^^ hh jj 
+``# +bbS [
+mm 'ooQ Y
+ww yy zz 
+~~ 
+™™ 0
+
+ÄÄ 
+ÇÇ 
+ÇÇ 
+àà  %0
+
+ÑÑ 
+àà 
+àà 
+àà' (0
+
+ÖÖ  $
+åå 
+ññ 
+òò 
+
+éé' /
+êêW _
+
+õõ# +
+ùùU ]$
+
+¶¶ 
+®® 
+©© ˚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_51a.cs
+
+ C
+
+ 
+    !!N S
+
+%% 
+,, '' 
+55 (( 
+.. 00 11R W
+77 99 ::R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_51b.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_52a.cs
+
+ C
+
+ 
+    !!N S
+
+%% 
+,, '' 
+55 (( 
+.. 00 11R W
+77 99 ::R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_52b.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_52c.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_53a.cs
+
+ C
+
+ 
+    !!N S
+
+%% 
+,, '' 
+55 (( 
+.. 00 11R W
+77 99 ::R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_53b.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_53c.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_53d.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_54a.cs
+
+ C
+
+ 
+    !!N S
+
+%% 
+,, '' 
+55 (( 
+.. 00 11R W
+77 99 ::R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_54b.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_54c.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_54d.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_54e.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˘
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_61a.cs
+
+ C
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
+
+ÜÜ# +
+ààU ]€
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_61b.cs
+
+ C
+
+ 
+    !! 
+
+'' #
+)) ++ ,, 
+
+00 #
+22 44 55 €
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_66a.cs
+
+ C
+
+ 
+    "" 
+!! "" ##N X
+
+'' 
+.. )) 
+99 ** 
+00 22 44 
+33 44 55R \
+;; == ?? 
+>> ?? @@R \ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_66b.cs
+
+ C
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]Õ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_67a.cs
+
+ CF
+ && &&' 088 88' 0CC CC' 0(
+ '' #99 #DD #
+
+!! 
+## %% ''& +
+&&  '' ((N \
+
+,, 
+33 .. 
+>> // 
+55 77 99& +
+88  99 ::R `
+@@ BB DD& +
+CC  DD EER `ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_67b.cs
+
+ C
+
+ 
+g u   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBk yDD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddk yff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]≈
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_68a.cs
+
+ C(
+ !! 00 88 
+
+ 
+
+&& 
+-- (( 
+55 )) ’
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_68b.cs
+
+ C
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]˚
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_71a.cs
+
+ C
+
+ 
+    !!V [
+
+%% 
+,, '' 
+55 (( 
+.. 00 11Z _
+77 99 ::Z _ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_71b.cs
+
+ C
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_72a.cs
+
+ C
+
+ 2
+ !! ## #$$ #%% #2
+""  ## $$ %% &&N \
+
+** 
+11 ,, 
+>> -- 2
+33 55 77 #88 #99 #2
+66  77 88 99 ::R `2
+@@ BB DD #EE #FF #2
+CC  DD EE FF GGR `ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_72b.cs
+
+ C
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_73a.cs
+
+ C
+
+ 2
+ !! ##  %$$  %%%  %2
+"" '## $$ %% &&N ]
+
+** 
+11 ,, 
+>> -- 2
+33 55 77  %88  %99  %2
+66 '77 88 99 ::R a2
+@@ BB DD  %EE  %FF  %2
+CC 'DD EE FF GGR aó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_73b.cs
+
+ C
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_74a.cs
+
+ C
+
+ 2
+ !! ## $$$ $%% $2
+"" +## $$ %% &&N ]
+
+** 
+11 ,, 
+>> -- 2
+33 55 77 $88 $99 $2
+66 +77 88 99 ::R a2
+@@ BB DD $EE $FF $2
+CC +DD EE FF GGR aó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_74b.cs
+
+ C
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]ø
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_75a.cs
+
+ C
+
+ 
+!! ## ++! &
+%% ,, ..R a
+(( ++ 
+)) ++ ,," $
+00& 522Z i
+
+77 
+>> 99 
+VV :: 
+@@ BB JJ! &
+DD KK MMV e
+GG JJ 
+HH JJ KK" $
+OO& 5QQZ i
+XX ZZ bb! &
+\\ cc eeV e
+__ bb 
+`` bb cc" $
+gg& 5iiZ iã	
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_75b.cs
+
+ C
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ jΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_81a.cs
+
+ C
+
+ 
+    "" 
+!!J T"" 
+
+&& 
+-- (( 
+77 )) 
+// 11 33 
+22J T33 
+99 ;; == 
+<<J T== ¸
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_81_bad.cs
+
+ F
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q YÛ
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_81_base.cs
+
+ P
+
+ 
+
+$ )î
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_81_goodB2G.cs
+
+ J
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]Ä
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__max_value_write_81_goodG2B.cs
+
+ J
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Yπ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_01.cs
+
+ E
+
+ (
+!! "" 66 EE (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :(
+CC EE EE EE  
+
+LL 
+SS NN 
+aa OO 
+UU WW ZZ (
+XX ZZ ZZ ZZ  B
+cc dd xx 
+áá 
+áá 
+ââ !(
+ii #qq $tt  xx* 6
+jj! 'll> D
+ll( *qq' )
+zz+ =||: L
+
+ÄÄ '
+ÇÇ2 :0
+
+ÖÖ 
+ââ 
+ââ 
+ââ# $≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_02.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_03.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ∑
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_04.cs
+
+ Eb
+## ))) SS nn }} 
+àà 
+óó 
+ÿÿ 
+ÇÇ  
+$$ *cc 
+¡¡ 
+
+&& 2
+(( ++ ?? !QQ WW !(
+00 '88 (;; $??. :
+11% +33B H
+33, .88+ -
+AA/ ACC> P
+GG# +II6 >(
+UU WW WW WW# $
+`` 
+íí (
+bb gg ll rr !(
+pp rr rr rr# $
+zz 
+ìì .
+|| 
+ÄÄ 
+ÜÜ 
+åå !0
+
+ää 
+åå 
+åå 
+åå# $
+
+îî 
+îî T
+
+ññ 
+ôô 
+≠≠ !
+øø 
+   
+   "
+ÃÃ  %0
+
+ûû '
+¶¶ (
+©© $
+≠≠. :
+
+üü% +
+°°B H
+
+°°, .
+¶¶+ -
+
+ØØ/ A
+±±> P
+
+µµ# +
+∑∑6 >0
+
+»» 
+ÃÃ 
+ÃÃ 
+ÃÃ' (
+
+’’ 
+ïï T
+
+◊◊ 
+⁄⁄ 
+ÓÓ !
+ÄÄ 
+ÜÜ 
+ÜÜ "
+àà  %0
+
+ﬂﬂ '
+ÁÁ (
+ÍÍ $
+ÓÓ. :
+
+‡‡% +
+‚‚B H
+
+‚‚, .
+ÁÁ+ -
+
+/ A
+ÚÚ> P
+
+ˆˆ# +
+¯¯6 >0
+
+ÑÑ 
+àà 
+àà 
+àà' (
+
+êê µ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_05.cs
+
+ Eb
+"" (( RR mm || 
+áá 
+ññ 
+◊◊ 
+ÅÅ  
+## bb 
+¿¿ 
+
+%% 2
+'' ** >> !PP VV !(
+// '77 (:: $>>. :
+00% +22B H
+22, .77+ -
+@@/ ABB> P
+FF# +HH6 >(
+TT VV VV VV# $
+__ 
+ëë (
+aa ff kk qq !(
+oo qq qq qq# $
+yy 
+íí ,
+{{  
+ÖÖ 
+ãã !0
+
+ââ 
+ãã 
+ãã 
+ãã# $
+
+ìì 
+ìì T
+
+ïï 
+òò 
+¨¨ !
+ææ 
+…… 
+…… "
+ÀÀ  %0
+
+ùù '
+•• (
+®® $
+¨¨. :
+
+ûû% +
+††B H
+
+††, .
+••+ -
+
+ÆÆ/ A
+∞∞> P
+
+¥¥# +
+∂∂6 >0
+
+«« 
+ÀÀ 
+ÀÀ 
+ÀÀ' (
+
+‘‘ 
+îî T
+
+÷÷ 
+ŸŸ 
+ÌÌ !
+ˇˇ 
+ÖÖ 
+ÖÖ "
+áá  %0
+
+ﬁﬁ '
+ÊÊ (
+ÈÈ $
+ÌÌ. :
+
+ﬂﬂ% +
+··B H
+
+··, .
+ÊÊ+ -
+
+ÔÔ/ A
+ÒÒ> P
+
+ıı# +
+˜˜6 >0
+
+ÉÉ 
+áá 
+áá 
+áá' (
+
+èè ©
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_06.cs
+
+ Ex
+"" ('' QQ aa ll {{ 
+ÜÜ 
+ïï 
+øø 
+÷÷ 
+ÄÄ 
+
+$$ 2
+&& )) == !OO UU !(
+.. '66 (99 $==. :
+//% +11B H
+11, .66+ -
+??/ AAA> P
+EE# +GG6 >(
+SS UU UU UU# $
+^^ 
+êê (
+`` ee jj pp !(
+nn pp pp pp# $
+xx 
+ëë ,
+zz ~~ 
+ÑÑ 
+ää !0
+
+àà 
+ää 
+ää 
+ää# $
+
+íí 
+íí T
+
+îî 
+óó 
+´´ !
+ΩΩ 
+»» 
+»» "
+    %0
+
+úú '
+§§ (
+ßß $
+´´. :
+
+ùù% +
+üüB H
+
+üü, .
+§§+ -
+
+≠≠/ A
+ØØ> P
+
+≥≥# +
+µµ6 >0
+
+∆∆ 
+   
+   
+  ' (
+
+”” 
+ìì T
+
+’’ 
+ÿÿ 
+ÏÏ !
+˛˛ 
+ÑÑ 
+ÑÑ "
+ÜÜ  %0
+
+›› '
+ÂÂ (
+ËË $
+ÏÏ. :
+
+ﬁﬁ% +
+‡‡B H
+
+‡‡, .
+ÂÂ+ -
+
+ÓÓ/ A
+> P
+
+ÙÙ# +
+ˆˆ6 >0
+
+ÇÇ 
+ÜÜ 
+ÜÜ 
+ÜÜ' (
+
+éé ©
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_07.cs
+
+ Ex
+"" '' QQ aa ll {{ 
+ÜÜ 
+ïï 
+øø 
+÷÷ 
+ÄÄ 
+
+$$ 2
+&& )) == !OO UU !(
+.. '66 (99 $==. :
+//% +11B H
+11, .66+ -
+??/ AAA> P
+EE# +GG6 >(
+SS UU UU UU# $
+^^ 
+êê (
+`` ee jj pp !(
+nn pp pp pp# $
+xx 
+ëë ,
+zz ~~ 
+ÑÑ 
+ää !0
+
+àà 
+ää 
+ää 
+ää# $
+
+íí 
+íí T
+
+îî 
+óó 
+´´ !
+ΩΩ 
+»» 
+»» "
+    %0
+
+úú '
+§§ (
+ßß $
+´´. :
+
+ùù% +
+üüB H
+
+üü, .
+§§+ -
+
+≠≠/ A
+ØØ> P
+
+≥≥# +
+µµ6 >0
+
+∆∆ 
+   
+   
+  ' (
+
+”” 
+ìì T
+
+’’ 
+ÿÿ 
+ÏÏ !
+˛˛ 
+ÑÑ 
+ÑÑ "
+ÜÜ  %0
+
+›› '
+ÂÂ (
+ËË $
+ÏÏ. :
+
+ﬁﬁ% +
+‡‡B H
+
+‡‡, .
+ÂÂ+ -
+
+ÓÓ/ A
+> P
+
+ÙÙ# +
+ˆˆ6 >0
+
+ÇÇ 
+ÜÜ 
+ÜÜ 
+ÜÜ' (
+
+éé Ω
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_08.cs
+
+ Ed
+"" *// YY tt 
+ÉÉ 
+éé 
+ùù 
+ﬁﬁ 
+àà  
+'' +ii 
+«« 
+
+,, 2
+.. 11 EE !WW ]] !(
+66 '>> (AA $EE. :
+77% +99B H
+99, .>>+ -
+GG/ AII> P
+MM# +OO6 >(
+[[ ]] ]] ]]# $
+ff 
+òò (
+hh mm rr xx !(
+vv xx xx xx# $
+
+ÄÄ 
+ôô 0
+
+ÇÇ 
+ÜÜ 
+åå 
+íí !0
+
+êê 
+íí 
+íí 
+íí# $
+
+öö 
+öö T
+
+úú 
+üü 
+≥≥ !
+≈≈ 
+–– 
+–– "
+““  %0
+
+§§ '
+¨¨ (
+ØØ $
+≥≥. :
+
+••% +
+ßßB H
+
+ßß, .
+¨¨+ -
+
+µµ/ A
+∑∑> P
+
+ªª# +
+ΩΩ6 >0
+
+ŒŒ 
+““ 
+““ 
+““' (
+
+€€ 
+õõ T
+
+›› 
+‡‡ 
+ÙÙ !
+ÜÜ 
+åå 
+åå "
+éé  %0
+
+ÂÂ '
+ÌÌ (
+ $
+ÙÙ. :
+
+ÊÊ% +
+ËËB H
+
+ËË, .
+ÌÌ+ -
+
+ˆˆ/ A
+¯¯> P
+
+¸¸# +
+˛˛6 >0
+
+ää 
+éé 
+éé 
+éé' (
+
+ññ ≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_09.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_10.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_11.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ Ù	
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_12.cs
+
+ E
+
+ P
+!! $$ 88 !II OO !XX XX "ZZ  %(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+MM OO OO OO# $(
+VV ZZ ZZ ZZ' (
+ee 
+ 2
+gg kk pp vv ! !(
+tt vv vv vv# $(
+}}   # $
+
+àà 
+ÒÒ Ñ
+
+ää 
+çç 
+°° !
+±± 
+≈≈ !
+◊◊ 
+◊◊ "
+ŸŸ  %
+„„ 
+„„ "
+ÂÂ  %0
+
+íí '
+öö (
+ùù $
+°°. :
+
+ìì% +
+ïïB H
+
+ïï, .
+öö+ -
+
+££/ A
+••> P
+
+©©# +
+´´6 >0
+
+∂∂ '
+ææ (
+¡¡ $
+≈≈. :
+
+∑∑% +
+ππB H
+
+ππ, .
+ææ+ -
+
+««/ A
+……> P
+
+ÕÕ# +
+œœ6 >0
+
+’’ 
+ŸŸ 
+ŸŸ 
+ŸŸ' (0
+
+·· 
+ÂÂ 
+ÂÂ 
+ÂÂ' (
+
+ÌÌ ≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_13.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ ≠
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_14.cs
+
+ E
+
+ 2
+!! $$ 88 !JJ PP !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+NN PP PP PP# $
+YY 
+ãã (
+[[ `` ee kk !(
+ii kk kk kk# $
+ss 
+åå *
+uu yy  
+ÖÖ !0
+
+ÉÉ 
+ÖÖ 
+ÖÖ 
+ÖÖ# $
+
+çç 
+çç T
+
+èè 
+íí 
+¶¶ !
+∏∏ 
+√√ 
+√√ "
+≈≈  %0
+
+óó '
+üü (
+¢¢ $
+¶¶. :
+
+òò% +
+ööB H
+
+öö, .
+üü+ -
+
+®®/ A
+™™> P
+
+ÆÆ# +
+∞∞6 >0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (
+
+ŒŒ 
+éé T
+
+–– 
+”” 
+ÁÁ !
+˘˘ 
+ˇˇ 
+ˇˇ "
+ÅÅ  %0
+
+ÿÿ '
+‡‡ (
+„„ $
+ÁÁ. :
+
+ŸŸ% +
+€€B H
+
+€€, .
+‡‡+ -
+
+ÈÈ/ A
+ÎÎ> P
+
+ÔÔ# +
+ÒÒ6 >0
+
+˝˝ 
+ÅÅ 
+ÅÅ 
+ÅÅ' (
+
+ââ µ
+
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_15.cs
+
+ E
+
+ 2
+!! %% 99 !JJ RR !(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+PP RR RR RR# $
+`` 
+©© (
+bb hh ll tt !(
+rr tt tt tt# $
+
+ÅÅ 
+™™ 0
+
+ÉÉ 
+àà 
+çç 
+ïï !0
+
+ìì 
+ïï 
+ïï 
+ïï# $
+
+¢¢ 
+´´ T
+
+§§ 
+®® 
+ºº !
+ÕÕ 
+ŸŸ 
+ŸŸ "
+€€  %0
+
+≠≠ '
+µµ (
+∏∏ $
+ºº. :
+
+ÆÆ% +
+∞∞B H
+
+∞∞, .
+µµ+ -
+
+ææ/ A
+¿¿> P
+
+ƒƒ# +
+∆∆6 >0
+
+◊◊ 
+€€ 
+€€ 
+€€' (
+
+ÂÂ 
+¨¨ T
+
+ÁÁ 
+ÎÎ 
+ˇˇ !
+êê 
+òò 
+òò "
+öö  %0
+
+ '
+¯¯ (
+˚˚ $
+ˇˇ. :
+
+ÒÒ% +
+ÛÛB H
+
+ÛÛ, .
+¯¯+ -
+
+ÅÅ/ A
+ÉÉ> P
+
+áá# +
+ââ6 >0
+
+ññ 
+öö 
+öö 
+öö' (
+
+ßß …
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_16.cs
+
+ E
+
+ (
+!! $$ 88 !KK !(
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >(
+II KK KK KK# $
+UU 
+§§ 
+WW [[ bb !(
+`` bb bb bb# $
+kk 
+•• D
+mm pp 
+ÑÑ !
+óó 
+óó "
+ôô  %,
+uu '}} (
+ÄÄ $
+ÑÑ. :
+vv% +xxB H
+xx, .}}+ -
+
+ÜÜ/ A
+àà> P
+
+åå# +
+éé6 >0
+
+ïï 
+ôô 
+ôô 
+ôô' (
+
+¢¢ ß
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_17.cs
+
+ E
+
+ (
+!! && :: KK !(
+++ #33 $66  ::* 6
+,,! '..> D
+..( *33' )
+<<+ =>>: L
+BB 'DD2 :
+GG GG GG  (
+II KK KK KK# $
+TT 
+ôô 
+VV XX ]] !
+YY YY YY  (
+[[ ]] ]] ]]# $
+ee 
+öö B
+gg hh || 
+çç 
+çç "
+èè  %(
+mm #uu $xx  ||* 6
+nn! 'pp> D
+pp( *uu' )
+~~+ =
+ÄÄ: L
+
+ÑÑ '
+ÜÜ2 :$
+
+ââ 
+ââ 
+ââ  0
+
+ãã 
+èè 
+èè 
+èè' (
+
+óó À
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_21.cs
+
+ E
+   FF LL 
+
+"" (
+$$ %% 99 GG (
+** #22 $55  99* 6
+++! '--> D
+--( *22' )
+;;+ ===: L
+AA 'CC2 :
+JJ GG 
+JJ "PP !(
+NN PP PP PP# $"
+XX  
+àà 
+éé "
+YY  
+∆∆ 
+ÃÃ "
+ZZ 
+‡‡ 
+ÊÊ 
+
+\\ 
+dd ^^ 
+
+¢¢ __ 
+
+€€ `` *
+ff gg {{ 
+ââ (
+ll #tt $ww  {{* 6
+mm! 'oo> D
+oo( *tt' )
+}}+ =: L
+
+ÉÉ '
+ÖÖ2 :
+
+åå 
+ââ 0
+
+åå" '
+óó 
+óó "
+ôô  %0
+
+ïï 
+ôô 
+ôô 
+ôô' (0
+
+§§ 
+•• 
+ππ 
+«« 0
+
+™™ #
+≤≤ $
+µµ  
+ππ* 6
+
+´´! '
+≠≠> D
+
+≠≠( *
+≤≤' )
+
+ªª+ =
+ΩΩ: L
+
+¡¡ '
+√√2 :
+
+   
+«« 0
+
+  " '
+–– 
+–– "
+““  %0
+
+ŒŒ 
+““ 
+““ 
+““' ($
+
+›› 
+ﬂﬂ 
+·· 
+
+‰‰ 
+·· 
+
+‰‰! &
+ÍÍ !0
+
+ËË 
+ÍÍ 
+ÍÍ 
+ÍÍ# $ﬁ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_22a.cs
+
+ F
+   &FF 
+
+"" (
+$$ %% 99 GGQ V(
+** #22 $55  99* 6
+++! '--> D
+--( *22' )
+;;+ ===: L
+AA 'CC2 :
+KK +{{ 
+LL +
+§§ 
+MM *
+ÆÆ 
+
+OO 
+WW QQ 
+
+ÄÄ RR 
+
+©© SS (
+YY ZZ nn ||V [(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :0
+
+ÇÇ 
+ÉÉ 
+óó 
+••V [0
+
+àà #
+êê $
+ìì  
+óó* 6
+
+ââ! '
+ãã> D
+
+ãã( *
+êê' )
+
+ôô+ =
+õõ: L
+
+üü '
+°°2 :$
+
+´´ 
+≠≠ 
+ØØU Z⁄
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_22b.cs
+
+ F
+
+ 
+# ("" !++ (
+   "" "" ""# $
+
+22 #2
+22( -88 >> >> "@@  %(
+<< @@ @@ @@' (
+
+II #2
+II( -OO OO "QQ  %[[ (
+MM QQ QQ QQ' (
+
+`` "
+``' ,ff !oo (
+dd ff ff ff# $Ò
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_31.cs
+
+ E
+
+ 
+!! EE HH !(
+## $$ 88 !EE (
+)) '11 (44 $88. :
+**% +,,B H
+,,, .11+ -
+::/ A<<> P
+@@# +BB6 >
+HH KK !(
+II KK KK KK# $
+
+SS 
+ZZ UU 
+oo VV 
+\\ aa dd !
+^^ `` aa 
+dd gg !(
+ee gg gg gg# $"
+qq 
+ïï 
+òò !,
+ss tt 
+àà !
+ïï .
+yy '
+ÅÅ (
+ÑÑ $
+àà. :
+zz% +||B H
+||, .
+ÅÅ+ -
+
+ää/ A
+åå> P
+
+êê# +
+íí6 >0
+
+òò 
+õõ 
+õõ "
+ùù  %0
+
+ôô 
+ùù 
+ùù 
+ùù' (…
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_41.cs
+
+ E
+ MM 
+$ )## (
+!! ## ## ##  
+
+)) (
+++ ,, @@ MM (
+11 #99 $<<  @@* 6
+22! '44> D
+44( *99' )
+BB+ =DD: L
+HH 'JJ2 :
+
+QQ 
+bb SS 
+xx TT 
+WW #gg 
+WW( -[[ (
+YY [[ [[ [[  
+dd ff gg 
+jj #
+úú (
+jj( -nn nn pp !(
+ll pp pp pp# $,
+zz {{ 
+èè 
+úú 0
+
+ÄÄ #
+àà $
+ãã  
+èè* 6
+
+ÅÅ! '
+ÉÉ> D
+
+ÉÉ( *
+àà' )
+
+ëë+ =
+ìì: L
+
+óó '
+ôô2 :œ
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_42.cs
+
+ E
+  HH (
+!! "" 66 CC (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+FF 
+HH KK (
+II KK KK KK  
+SS $]] !
+UU WW XX 
+[[ 
+ûû 
+]] `` (
+^^ `` `` ``  
+gg $
+êê !*
+ii jj ~~ 
+ãã (
+oo #ww $zz  ~~* 6
+pp! 'rr> D
+rr( *ww' )
+
+ÄÄ+ =
+ÇÇ: L
+
+ÜÜ '
+àà2 :
+
+éé 
+üü 0
+
+êê 
+ìì 
+ìì 
+ïï !0
+
+ëë 
+ïï 
+ïï 
+ïï# $
+
+úú ±
+ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_45.cs
+
+ E
+ %% RR 
+   __  nn  
+!! tt  
+•• 
+## SS 
+%% (( (
+&& (( (( ((  
+
+.. (
+00 11 EE RR (
+66 #>> $AA  EE* 6
+77! '99> D
+99( *>>' )
+GG+ =II: L
+MM 'OO2 :
+
+WW 
+ii YY 
+
+ÅÅ ZZ 
+]] oo 
+__ bb (
+`` bb bb bb  
+kk mm nn 
+rr 
+¶¶ (
+tt ww ww yy !(
+uu yy yy yy# $0
+
+ÉÉ 
+ÑÑ 
+òò 
+•• 0
+
+ââ #
+ëë $
+îî  
+òò* 6
+
+ää! '
+åå> D
+
+åå( *
+ëë' )
+
+öö+ =
+úú: L
+
+†† '
+¢¢2 :ñ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_51a.cs
+
+ F
+
+ (
+!! "" 66 CCQ V(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSU Z(
+YY ZZ nn {{U Z(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_51b.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $ñ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_52a.cs
+
+ F
+
+ (
+!! "" 66 CCQ V(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSU Z(
+YY ZZ nn {{U Z(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_52b.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_52c.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $ñ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_53a.cs
+
+ F
+
+ (
+!! "" 66 CCQ V(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSU Z(
+YY ZZ nn {{U Z(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_53b.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_53c.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_53d.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $ñ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_54a.cs
+
+ F
+
+ (
+!! "" 66 CCQ V(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSU Z(
+YY ZZ nn {{U Z(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_54b.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_54c.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z¿
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_54d.cs
+
+ F
+
+ 
+# (Q V
+
+$$ "
+$$' ,&&U Z
+
+** "
+**' ,,,U Z“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_54e.cs
+
+ F
+
+ 
+# (   (
+           
+
+)) "
+))' ,-- (
+++ -- -- --  
+
+44 "(
+44' ,88 88 :: !(
+66 :: :: ::# $Ú
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_61a.cs
+
+ F
+
+ 
+ !! (
+ !! !! !!  
+
+(( 
+// ** 
+;; ++ 
+11 44 (
+22 44 44 44  (
+== @@ @@ BB !(
+>> BB BB BB# $ˆ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_61b.cs
+
+ F
+
+ (
+!! "" 66 CC (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+II #
+KK MM NN 
+
+RR #(
+TT UU ii vv (
+ZZ #bb $ee  ii* 6
+[[! ']]> D
+]]( *bb' )
+kk+ =mm: L
+qq 'ss2 :¸
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_66a.cs
+
+ F
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+CC DD EEQ [
+
+II 
+PP KK 
+[[ LL 
+RR TT VV 
+UU VV WWU _*
+]] ^^ rr 
+ÄÄ (
+cc #kk $nn  rr* 6
+dd! 'ff> D
+ff( *kk' )
+tt+ =vv: L
+zz '||2 :"
+ 
+ÄÄ 
+ÅÅU _î
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_66b.cs
+
+ F
+
+ 
+% / 
+ !! (
+ !! !! !!  
+
+** "
+**) 3,, 
+,, // (
+-- // // //  
+
+66 "
+66) 388 (
+88 ;; ;; == !(
+99 == == ==# $¯
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_67a.cs
+
+ FJ
+ HH HH' 0ZZ ZZ' 0
+ÑÑ 
+ÑÑ' 0*
+!! II #[[ #
+ÖÖ #
+
+$$ (
+&& '' ;; II& +(
+,, #44 $77  ;;* 6
+--! '//> D
+//( *44' )
+==+ =??: L
+CC 'EE2 :
+HH  II JJQ _
+
+NN 
+UU PP 
+`` QQ 
+WW YY [[& +
+ZZ  [[ \\U c*
+bb cc ww 
+ÖÖ& +(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :$
+
+ÑÑ  
+ÖÖ 
+ÜÜU cî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_67b.cs
+
+ F
+
+ 
+j x "
+ !! (
+ !! !! !!  
+
+** "
+**n |,, "
+,, // (
+-- // // //  
+
+66 "
+66n |88 "(
+88 ;; ;; == !(
+99 == == ==# $‡
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_68a.cs
+
+ F<
+ ## 77 RR YY mm 
+
+!! (
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :
+
+HH 
+OO JJ 
+WW KK (
+^^ #ff $ii  mm* 6
+__! 'aa> D
+aa( *ff' )
+oo+ =qq: L
+uu 'ww2 :“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_68b.cs
+
+ F
+
+ 
+ !! (
+ !! !! !!  
+
+** "
+,, // (
+-- // // //  
+
+66 "(
+88 ;; ;; == !(
+99 == == ==# $ñ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_71a.cs
+
+ F
+
+ (
+!! "" 66 CCY ^(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SS] b(
+YY ZZ nn {{] b(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :î
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_71b.cs
+
+ F
+
+ 
+& 1 $
+ "" (
+   "" "" ""  
+
+++ "
+++* 5-- $
+-- 00 (
+.. 00 00 00  
+
+77 "
+77* 599 $(
+99 << << >> !(
+:: >> >> >># $Ä
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_72a.cs
+
+ F
+
+   <
+"" ## 77 EE #FF #GG #(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :2
+DD  EE FF GG HHQ _
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY #ZZ #[[ #2
+XX  YY ZZ [[ \\U cB
+bb cc ww 
+ÖÖ #
+ÜÜ #
+áá #(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :<
+
+ÑÑ  
+ÖÖ 
+ÜÜ 
+áá 
+ààU cî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_72b.cs
+
+ F
+
+ 
+) 7 (
+ "" (
+   "" "" ""  
+
+++ "
+++- ;-- (
+-- 00 (
+.. 00 00 00  
+
+77 "
+77- ;99 ((
+99 << << >> !(
+:: >> >> >># $Ä
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_73a.cs
+
+ F
+
+   <
+"" ## 77 EE  %FF  %GG  %(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :2
+DD 'EE FF GG HHQ `
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY  %ZZ  %[[  %2
+XX 'YY ZZ [[ \\U dB
+bb cc ww 
+ÖÖ  %
+ÜÜ  %
+áá  %(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :<
+
+ÑÑ '
+ÖÖ 
+ÜÜ 
+áá 
+ààU dî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_73b.cs
+
+ F
+
+ 
+/ > #
+ "" (
+   "" "" ""  
+
+++ "
+++3 B-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+773 B99 #(
+99 << << >> !(
+:: >> >> >># $Ä
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_74a.cs
+
+ F
+
+   <
+"" ## 77 EE $FF $GG $(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :2
+DD +EE FF GG HHQ `
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY $ZZ $[[ $2
+XX +YY ZZ [[ \\U dB
+bb cc ww 
+ÖÖ $
+ÜÜ $
+áá $(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :<
+
+ÑÑ +
+ÖÖ 
+ÜÜ 
+áá 
+ààU dî
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_74b.cs
+
+ F
+
+ 
+3 B #
+ "" (
+   "" "" ""  
+
+++ #
+++8 G-- #
+-- 00 (
+.. 00 00 00  
+
+77 "
+777 F99 #(
+99 << << >> !(
+:: >> >> >># $¥	
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_75a.cs
+
+ F
+
+!! (
+## $$ 88 LL! &(
+)) #11 $44  88* 6
+**! ',,> D
+,,( *11' )
+::+ =<<: L
+@@ 'BB2 :
+FF MM OOU d
+II LL 
+JJ LL MM" $
+QQ& 5SSZ i
+
+XX 
+__ ZZ 
+
+ññ [[ *
+aa bb vv 
+ää! &(
+gg #oo $rr  vv* 6
+hh! 'jj> D
+jj( *oo' )
+xx+ =zz: L
+~~ '
+ÄÄ2 :$
+
+ÑÑ 
+ãã 
+ççY h
+
+áá 
+ää $
+
+àà 
+ää 
+ãã" $
+
+èè& 5
+ëëZ i0
+
+òò 
+ôô 
+≠≠ 
+¡¡! &0
+
+ûû #
+¶¶ $
+©©  
+≠≠* 6
+
+üü! '
+°°> D
+
+°°( *
+¶¶' )
+
+ØØ+ =
+±±: L
+
+µµ '
+∑∑2 :$
+
+ªª 
+¬¬ 
+ƒƒY h
+
+ææ 
+¡¡ $
+
+øø 
+¡¡ 
+¬¬" $
+
+∆∆& 5
+»»Z i“
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_75b.cs
+
+ F
+
+ 
+& 5''  /''4 C
+## )) -- !
+$$ )) $(
+%%  '' (( ))1 :(
+++ -- -- --# $
+22& 544[ j
+
+;; "
+;;* 9CC  /CC4 C
+?? EE II !
+@@ EE $(
+AA  CC DD EE1 :(
+GG II II II# $
+NN& 5PP[ j
+
+UU "
+UU* 9]]  /]]4 C2
+YY __ cc cc "ee  %
+ZZ __ $(
+[[  ]] ^^ __1 :(
+aa ee ee ee' (
+kk& 5mm[ jÿ
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_81a.cs
+
+ F
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+CCM WDD 
+
+HH 
+OO JJ 
+YY KK 
+QQ SS UU 
+TTM WUU (
+[[ \\ pp ~~ (
+aa #ii $ll  pp* 6
+bb! 'dd> D
+dd( *ii' )
+rr+ =tt: L
+xx 'zz2 :
+}}M W~~ ©
+ŒC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_81_bad.cs
+
+ I
+
+ 
+$ )   (
+           ˆ
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_81_base.cs
+
+ S
+
+ 
+
+$ )¡
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_81_goodB2G.cs
+
+ M
+
+ (
+$ )!! !! ## !(
+ ## ## ### $≠
+“C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_for_loop_81_goodG2B.cs
+
+ M
+
+ 
+$ )!! (
+ !! !! !!  Ï
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_01.cs
+
+ B
+
+   (
+"" ## 77 HH !(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :(
+DD HH HH HH# $(
+EE  LL VV XX 
+NN# +PPS [
+[[ ']]Q Y
+
+cc 
+jj ee 
+
+éé ff 
+ll nn ss !(
+oo ss ss ss# $,
+pp  ww 
+ÅÅ 
+ÉÉ 
+yy# +{{S [
+
+ÜÜ '
+ààQ YH
+
+êê 
+ëë 
+•• 
+≥≥ 
+≥≥ 
+ππ  %0
+
+ññ #
+ûû $
+°°  
+••* 6
+
+óó! '
+ôô> D
+
+ôô( *
+ûû' )
+
+ßß+ =
+©©: L
+
+≠≠ '
+ØØ2 :0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_02.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_03.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ∂
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_04.cs
+
+ Bf
+$$ )** TT 
+ÖÖ 
+™™ 
+µµ 
+⁄⁄ 
+≤≤ 
+‹‹  
+%% *zz 
+ÑÑ 
+
+'' 2
+)) ,, @@ !RR ZZ  %(
+11 '99 (<< $@@. :
+22% +44B H
+44, .99+ -
+BB/ ADD> P
+HH# +JJ6 >(
+VV ZZ ZZ ZZ' ((
+WW  $^^ hh jj 
+``' /bbW _
+mm# +ooU ]
+ww 
+ÉÉ ,
+yy ~~ 
+ÉÉ 
+ãã  %0
+
+áá 
+ãã 
+ãã 
+ãã' (0
+
+àà  $
+èè 
+ôô 
+õõ 
+
+ëë' /
+ììW _
+
+ûû# +
+††U ]
+
+ßß 
+ÑÑ 0
+
+©© 
+≠≠ 
+≥≥ 
+ªª  %0
+
+∑∑ 
+ªª 
+ªª 
+ªª' (0
+
+∏∏  $
+øø 
+…… 
+ÀÀ 
+
+¡¡' /
+√√W _
+
+ŒŒ# +
+––U ]
+
+◊◊ 
+ÖÖ T
+
+ŸŸ 
+‹‹ 
+ !
+ÇÇ 
+åå 
+åå "
+íí$ )0
+
+·· '
+ÈÈ (
+ÏÏ $
+. :
+
+‚‚% +
+‰‰B H
+
+‰‰, .
+ÈÈ+ -
+
+ÚÚ/ A
+ÙÙ> P
+
+¯¯# +
+˙˙6 >0
+
+éé 
+íí 
+íí  !
+íí+ ,0
+
+èè$ (
+ññ  
+††  
+¢¢  
+
+òò+ 3
+öö[ c
+
+••' /
+ßßY a
+
+ØØ 
+ÜÜ T
+
+±± 
+¥¥ 
+»» !
+⁄⁄ 
+ﬂﬂ 
+ﬂﬂ "
+ÂÂ$ )0
+
+ππ '
+¡¡ (
+ƒƒ $
+»». :
+
+∫∫% +
+ººB H
+
+ºº, .
+¡¡+ -
+
+  / A
+ÃÃ> P
+
+––# +
+““6 >0
+
+·· 
+ÂÂ 
+ÂÂ  !
+ÂÂ+ ,0
+
+‚‚$ (
+ÈÈ  
+ÛÛ  
+ıı  
+
+ÎÎ+ 3
+ÌÌ[ c
+
+¯¯' /
+˙˙Y a
+
+ÅÅ ∂
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_05.cs
+
+ Bf
+## )) SS 
+ÑÑ 
+©© 
+¥¥ 
+ŸŸ 
+±± 
+€€  
+$$ yy 
+ÉÉ 
+
+&& 2
+(( ++ ?? !QQ YY  %(
+00 '88 (;; $??. :
+11% +33B H
+33, .88+ -
+AA/ ACC> P
+GG# +II6 >(
+UU YY YY YY' ((
+VV  $]] gg ii 
+__' /aaW _
+ll# +nnU ]
+vv 
+ÇÇ ,
+xx }} 
+ÇÇ 
+ää  %0
+
+ÜÜ 
+ää 
+ää 
+ää' (0
+
+áá  $
+éé 
+òò 
+öö 
+
+êê' /
+ííW _
+
+ùù# +
+üüU ]
+
+¶¶ 
+ÉÉ 0
+
+®® 
+¨¨ 
+≤≤ 
+∫∫  %0
+
+∂∂ 
+∫∫ 
+∫∫ 
+∫∫' (0
+
+∑∑  $
+ææ 
+»» 
+   
+
+¿¿' /
+¬¬W _
+
+ÕÕ# +
+œœU ]
+
+÷÷ 
+ÑÑ T
+
+ÿÿ 
+€€ 
+ÔÔ !
+ÅÅ 
+ãã 
+ãã "
+ëë$ )0
+
+‡‡ '
+ËË (
+ÎÎ $
+ÔÔ. :
+
+··% +
+„„B H
+
+„„, .
+ËË+ -
+
+ÒÒ/ A
+ÛÛ> P
+
+˜˜# +
+˘˘6 >0
+
+çç 
+ëë 
+ëë  !
+ëë+ ,0
+
+éé$ (
+ïï  
+üü  
+°°  
+
+óó+ 3
+ôô[ c
+
+§§' /
+¶¶Y a
+
+ÆÆ 
+ÖÖ T
+
+∞∞ 
+≥≥ 
+«« !
+ŸŸ 
+ﬁﬁ 
+ﬁﬁ "
+‰‰$ )0
+
+∏∏ '
+¿¿ (
+√√ $
+««. :
+
+ππ% +
+ªªB H
+
+ªª, .
+¿¿+ -
+
+……/ A
+ÀÀ> P
+
+œœ# +
+——6 >0
+
+‡‡ 
+‰‰ 
+‰‰  !
+‰‰+ ,0
+
+··$ (
+ËË  
+ÚÚ  
+ÙÙ  
+
+ÍÍ+ 3
+ÏÏ[ c
+
+˜˜' /
+˘˘Y a
+
+ÄÄ ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_06.cs
+
+ B|
+## ((( RR xx 
+ÉÉ 
+®® 
+≥≥ 
+ÿÿ 
+ÇÇ 
+∞∞ 
+⁄⁄ 
+
+%% 2
+'' ** >> !PP XX  %(
+// '77 (:: $>>. :
+00% +22B H
+22, .77+ -
+@@/ ABB> P
+FF# +HH6 >(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ÅÅ ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+ÇÇ 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+ÉÉ T
+
+◊◊ 
+⁄⁄ 
+ÓÓ !
+ÄÄ 
+ää 
+ää "
+êê$ )0
+
+ﬂﬂ '
+ÁÁ (
+ÍÍ $
+ÓÓ. :
+
+‡‡% +
+‚‚B H
+
+‚‚, .
+ÁÁ+ -
+
+/ A
+ÚÚ> P
+
+ˆˆ# +
+¯¯6 >0
+
+åå 
+êê 
+êê  !
+êê+ ,0
+
+çç$ (
+îî  
+ûû  
+††  
+
+ññ+ 3
+òò[ c
+
+££' /
+••Y a
+
+≠≠ 
+ÑÑ T
+
+ØØ 
+≤≤ 
+∆∆ !
+ÿÿ 
+›› 
+›› "
+„„$ )0
+
+∑∑ '
+øø (
+¬¬ $
+∆∆. :
+
+∏∏% +
+∫∫B H
+
+∫∫, .
+øø+ -
+
+»»/ A
+  > P
+
+ŒŒ# +
+––6 >0
+
+ﬂﬂ 
+„„ 
+„„  !
+„„+ ,0
+
+‡‡$ (
+ÁÁ  
+ÒÒ  
+ÛÛ  
+
+ÈÈ+ 3
+ÎÎ[ c
+
+ˆˆ' /
+¯¯Y a
+
+ˇˇ ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_07.cs
+
+ B|
+## (( RR xx 
+ÉÉ 
+®® 
+≥≥ 
+ÿÿ 
+ÇÇ 
+∞∞ 
+⁄⁄ 
+
+%% 2
+'' ** >> !PP XX  %(
+// '77 (:: $>>. :
+00% +22B H
+22, .77+ -
+@@/ ABB> P
+FF# +HH6 >(
+TT XX XX XX' ((
+UU  $\\ ff hh 
+^^' /``W _
+kk# +mmU ]
+uu 
+ÅÅ ,
+ww || 
+ÅÅ 
+ââ  %0
+
+ÖÖ 
+ââ 
+ââ 
+ââ' (0
+
+ÜÜ  $
+çç 
+óó 
+ôô 
+
+èè' /
+ëëW _
+
+úú# +
+ûûU ]
+
+•• 
+ÇÇ 0
+
+ßß 
+´´ 
+±± 
+ππ  %0
+
+µµ 
+ππ 
+ππ 
+ππ' (0
+
+∂∂  $
+ΩΩ 
+«« 
+…… 
+
+øø' /
+¡¡W _
+
+ÃÃ# +
+ŒŒU ]
+
+’’ 
+ÉÉ T
+
+◊◊ 
+⁄⁄ 
+ÓÓ !
+ÄÄ 
+ää 
+ää "
+êê$ )0
+
+ﬂﬂ '
+ÁÁ (
+ÍÍ $
+ÓÓ. :
+
+‡‡% +
+‚‚B H
+
+‚‚, .
+ÁÁ+ -
+
+/ A
+ÚÚ> P
+
+ˆˆ# +
+¯¯6 >0
+
+åå 
+êê 
+êê  !
+êê+ ,0
+
+çç$ (
+îî  
+ûû  
+††  
+
+ññ+ 3
+òò[ c
+
+££' /
+••Y a
+
+≠≠ 
+ÑÑ T
+
+ØØ 
+≤≤ 
+∆∆ !
+ÿÿ 
+›› 
+›› "
+„„$ )0
+
+∑∑ '
+øø (
+¬¬ $
+∆∆. :
+
+∏∏% +
+∫∫B H
+
+∫∫, .
+øø+ -
+
+»»/ A
+  > P
+
+ŒŒ# +
+––6 >0
+
+ﬂﬂ 
+„„ 
+„„  !
+„„+ ,0
+
+‡‡$ (
+ÁÁ  
+ÒÒ  
+ÛÛ  
+
+ÈÈ+ 3
+ÎÎ[ c
+
+ˆˆ' /
+¯¯Y a
+
+ˇˇ ∫
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_08.cs
+
+ Bf
+## *00 ZZ 
+ãã 
+∞∞ 
+ªª 
+‡‡ 
+∏∏ 
+‚‚ "
+(( +
+ÄÄ 
+ää 
+
+-- 2
+// 22 FF !XX ``  %(
+77 '?? (BB $FF. :
+88% +::B H
+::, .??+ -
+HH/ AJJ> P
+NN# +PP6 >(
+\\ `` `` ``' ((
+]]  $dd nn pp 
+ff' /hhW _
+ss# +uuU ]
+}} 
+ââ .
+ 
+ÑÑ 
+ââ 
+ëë  %0
+
+çç 
+ëë 
+ëë 
+ëë' (0
+
+éé  $
+ïï 
+üü 
+°° 
+
+óó' /
+ôôW _
+
+§§# +
+¶¶U ]
+
+≠≠ 
+ää 0
+
+ØØ 
+≥≥ 
+ππ 
+¡¡  %0
+
+ΩΩ 
+¡¡ 
+¡¡ 
+¡¡' (0
+
+ææ  $
+≈≈ 
+œœ 
+—— 
+
+««' /
+……W _
+
+‘‘# +
+÷÷U ]
+
+›› 
+ãã T
+
+ﬂﬂ 
+‚‚ 
+ˆˆ !
+àà 
+íí 
+íí "
+òò$ )0
+
+ÁÁ '
+ÔÔ (
+ÚÚ $
+ˆˆ. :
+
+ËË% +
+ÍÍB H
+
+ÍÍ, .
+ÔÔ+ -
+
+¯¯/ A
+˙˙> P
+
+˛˛# +
+ÄÄ6 >0
+
+îî 
+òò 
+òò  !
+òò+ ,0
+
+ïï$ (
+úú  
+¶¶  
+®®  
+
+ûû+ 3
+††[ c
+
+´´' /
+≠≠Y a
+
+µµ 
+åå T
+
+∑∑ 
+∫∫ 
+ŒŒ !
+‡‡ 
+ÂÂ 
+ÂÂ "
+ÎÎ$ )0
+
+øø '
+«« (
+   $
+ŒŒ. :
+
+¿¿% +
+¬¬B H
+
+¬¬, .
+««+ -
+
+––/ A
+““> P
+
+÷÷# +
+ÿÿ6 >0
+
+ÁÁ 
+ÎÎ 
+ÎÎ  !
+ÎÎ+ ,0
+
+ËË$ (
+ÔÔ  
+˘˘  
+˚˚  
+
+ÒÒ+ 3
+ÛÛ[ c
+
+˛˛' /
+ÄÄY a
+
+áá ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_09.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_10.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_11.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ Ÿ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_12.cs
+
+ B
+
+   P
+"" %% 99 !JJ RR  %nn nn "tt$ )(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+NN RR RR RR' ((
+OO  $VV `` bb 
+XX' /ZZW _
+ee# +ggU ](
+pp tt tt  !tt+ ,,
+qq$ (xx  
+ÇÇ  
+ÑÑ  
+zz+ 3||[ c
+
+áá' /
+ââY a
+
+ìì 
+¯¯ <
+
+ïï 
+ôô 
+ûû 
+¶¶  %
+≈≈  %0
+
+¢¢ 
+¶¶ 
+¶¶ 
+¶¶' (0
+
+££  $
+™™ 
+¥¥ 
+∂∂ 
+
+¨¨' /
+ÆÆW _
+
+ππ# +
+ªªU ]0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+‚‚ 
+˘˘ Ñ
+
+‰‰ 
+ÁÁ 
+˚˚ !
+ãã 
+üü !
+∞∞ 
+∞∞ "
+∂∂$ )
+”” 
+”” "
+ŸŸ$ )0
+
+ÏÏ '
+ÙÙ (
+˜˜ $
+˚˚. :
+
+ÌÌ% +
+ÔÔB H
+
+ÔÔ, .
+ÙÙ+ -
+
+˝˝/ A
+ˇˇ> P
+
+ÉÉ# +
+ÖÖ6 >0
+
+êê '
+òò (
+õõ $
+üü. :
+
+ëë% +
+ììB H
+
+ìì, .
+òò+ -
+
+°°/ A
+££> P
+
+ßß# +
+©©6 >0
+
+≤≤ 
+∂∂ 
+∂∂  !
+∂∂+ ,0
+
+≥≥$ (
+∫∫  
+ƒƒ  
+∆∆  
+
+ºº+ 3
+ææ[ c
+
+……' /
+ÀÀY a0
+
+’’ 
+ŸŸ 
+ŸŸ  !
+ŸŸ+ ,0
+
+÷÷$ (
+››  
+ÁÁ  
+ÈÈ  
+
+ﬂﬂ+ 3
+··[ c
+
+ÏÏ' /
+ÓÓY a
+
+ıı ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_13.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ™
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_14.cs
+
+ B
+
+   2
+"" %% 99 !KK SS  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]
+pp 
+¸¸ *
+rr ww || 
+ÑÑ  %0
+
+ÄÄ 
+ÑÑ 
+ÑÑ 
+ÑÑ' (0
+
+ÅÅ  $
+àà 
+íí 
+îî 
+
+ää' /
+ååW _
+
+óó# +
+ôôU ]
+
+†† 
+˝˝ 0
+
+¢¢ 
+¶¶ 
+¨¨ 
+¥¥  %0
+
+∞∞ 
+¥¥ 
+¥¥ 
+¥¥' (0
+
+±±  $
+∏∏ 
+¬¬ 
+ƒƒ 
+
+∫∫' /
+ººW _
+
+««# +
+……U ]
+
+–– 
+˛˛ T
+
+““ 
+’’ 
+ÈÈ !
+˚˚ 
+ÖÖ 
+ÖÖ "
+ãã$ )0
+
+⁄⁄ '
+‚‚ (
+ÂÂ $
+ÈÈ. :
+
+€€% +
+››B H
+
+››, .
+‚‚+ -
+
+ÎÎ/ A
+ÌÌ> P
+
+ÒÒ# +
+ÛÛ6 >0
+
+áá 
+ãã 
+ãã  !
+ãã+ ,0
+
+àà$ (
+èè  
+ôô  
+õõ  
+
+ëë+ 3
+ìì[ c
+
+ûû' /
+††Y a
+
+®® 
+ˇˇ T
+
+™™ 
+≠≠ 
+¡¡ !
+”” 
+ÿÿ 
+ÿÿ "
+ﬁﬁ$ )0
+
+≤≤ '
+∫∫ (
+ΩΩ $
+¡¡. :
+
+≥≥% +
+µµB H
+
+µµ, .
+∫∫+ -
+
+√√/ A
+≈≈> P
+
+……# +
+ÀÀ6 >0
+
+⁄⁄ 
+ﬁﬁ 
+ﬁﬁ  !
+ﬁﬁ+ ,0
+
+€€$ (
+‚‚  
+ÏÏ  
+ÓÓ  
+
+‰‰+ 3
+ÊÊ[ c
+
+ÒÒ' /
+ÛÛY a
+
+˙˙ ¨
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_15.cs
+
+ B
+
+   2
+"" && :: !KK UU  %(
+++ '33 (66 $::. :
+,,% +..B H
+.., .33+ -
+<</ A>>> P
+BB# +DD6 >(
+QQ UU UU UU' ((
+RR  $YY cc ee 
+[[' /]]W _
+hh# +jjU ]
+ww 
+öö ,
+yy  
+ÉÉ 
+çç  %0
+
+ââ 
+çç 
+çç 
+çç' (0
+
+ää  $
+ëë 
+õõ 
+ùù 
+
+ìì' /
+ïïW _
+
+††# +
+¢¢U ]
+
+ÆÆ 
+õõ 0
+
+∞∞ 
+µµ 
+∫∫ 
+ƒƒ  %0
+
+¿¿ 
+ƒƒ 
+ƒƒ 
+ƒƒ' (0
+
+¡¡  $
+»» 
+““ 
+‘‘ 
+
+  ' /
+ÃÃW _
+
+◊◊# +
+ŸŸU ]
+
+ÂÂ 
+úú T
+
+ÁÁ 
+ÎÎ 
+ˇˇ !
+êê 
+õõ 
+õõ "
+°°$ )0
+
+ '
+¯¯ (
+˚˚ $
+ˇˇ. :
+
+ÒÒ% +
+ÛÛB H
+
+ÛÛ, .
+¯¯+ -
+
+ÅÅ/ A
+ÉÉ> P
+
+áá# +
+ââ6 >0
+
+ùù 
+°° 
+°°  !
+°°+ ,0
+
+ûû$ (
+••  
+ØØ  
+±±  
+
+ßß+ 3
+©©[ c
+
+¥¥' /
+∂∂Y a
+
+øø 
+ùù T
+
+¡¡ 
+≈≈ 
+ŸŸ !
+ÍÍ 
+ÒÒ 
+ÒÒ "
+˜˜$ )0
+
+   '
+““ (
+’’ $
+ŸŸ. :
+
+ÀÀ% +
+ÕÕB H
+
+ÕÕ, .
+““+ -
+
+€€/ A
+››> P
+
+··# +
+„„6 >0
+
+ÛÛ 
+˜˜ 
+˜˜  !
+˜˜+ ,0
+
+ÙÙ$ (
+˚˚  
+ÖÖ  
+áá  
+
+˝˝+ 3
+ˇˇ[ c
+
+ää' /
+ååY a
+
+òò ˆ
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_16.cs
+
+ B
+
+   (
+"" %% 99 !NN  %(
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+ll 
+ËË 
+nn rr {{  %(
+ww {{ {{ {{' (,
+xx  $ 
+ââ 
+ãã 
+
+ÅÅ' /
+ÉÉW _
+
+éé# +
+êêU ]
+
+òò 
+ÈÈ H
+
+öö 
+ùù 
+±± !
+√√ 
+√√ "
+……$ )0
+
+¢¢ '
+™™ (
+≠≠ $
+±±. :
+
+££% +
+••B H
+
+••, .
+™™+ -
+
+≥≥/ A
+µµ> P
+
+ππ# +
+ªª6 >0
+
+≈≈ 
+…… 
+……  !
+……+ ,0
+
+∆∆$ (
+ÕÕ  
+◊◊  
+ŸŸ  
+
+œœ+ 3
+——[ c
+
+‹‹' /
+ﬁﬁY a
+
+ÊÊ ÿ	
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_17.cs
+
+ B
+
+   (
+"" '' ;; NN  %(
+,, #44 $77  ;;* 6
+--! '//> D
+//( *44' )
+==+ =??: L
+CC 'EE2 :
+HH HH HH  (
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+kk 
+›› 
+mm oo vv  %
+pp pp pp  (
+rr vv vv vv' (,
+ss  $zz 
+ÑÑ 
+ÜÜ 
+||' /~~W _
+
+ââ# +
+ããU ]
+
+íí 
+ﬁﬁ H
+
+îî 
+ïï 
+©© 
+ππ 
+ππ "
+øø$ )0
+
+öö #
+¢¢ $
+••  
+©©* 6
+
+õõ! '
+ùù> D
+
+ùù( *
+¢¢' )
+
+´´+ =
+≠≠: L
+
+±± '
+≥≥2 :$
+
+∂∂ 
+∂∂ 
+∂∂  0
+
+ªª 
+øø 
+øø  !
+øø+ ,0
+
+ºº$ (
+√√  
+ÕÕ  
+œœ  
+
+≈≈+ 3
+««[ c
+
+““' /
+‘‘Y a
+
+€€ Ê
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_21.cs
+
+ B
+!! GG MM 
+
+## (
+%% && :: HH (
+++ #33 $66  ::* 6
+,,! '..> D
+..( *33' )
+<<+ =>>: L
+BB 'DD2 :
+KK HH 
+KK "SS  %(
+OO SS SS SS' ((
+PP  $WW aa cc 
+YY' /[[W _
+ff# +hhU ]"
+oo  
+üü 
+•• "
+pp  
+ÙÙ 
+˙˙ "
+qq 
+•• 
+´´ 
+
+ss 
+{{ uu 
+
+–– vv 
+
+†† ww ,
+}} ~~ 
+íí 
+†† 0
+
+ÉÉ #
+ãã $
+éé  
+íí* 6
+
+ÑÑ! '
+ÜÜ> D
+
+ÜÜ( *
+ãã' )
+
+îî+ =
+ññ: L
+
+öö '
+úú2 :
+
+££ 
+†† 0
+
+££" '
+≠≠ 
+≠≠ "
+≥≥$ )0
+
+ØØ 
+≥≥ 
+≥≥  !
+≥≥+ ,0
+
+∞∞$ (
+∑∑  
+¡¡  
+√√  
+
+ππ+ 3
+ªª[ c
+
+∆∆' /
+»»Y a0
+
+““ 
+”” 
+ÁÁ 
+ıı 0
+
+ÿÿ #
+‡‡ $
+„„  
+ÁÁ* 6
+
+ŸŸ! '
+€€> D
+
+€€( *
+‡‡' )
+
+ÈÈ+ =
+ÎÎ: L
+
+ÔÔ '
+ÒÒ2 :
+
+¯¯ 
+ıı 0
+
+¯¯" '
+˝˝ 
+˝˝ "
+ÉÉ$ )0
+
+ˇˇ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a$
+
+¢¢ 
+§§ 
+¶¶ 
+
+©© 
+¶¶ 
+
+©©! &
+±±  %0
+
+≠≠ 
+±± 
+±± 
+±±' (0
+
+ÆÆ  $
+µµ 
+øø 
+¡¡ 
+
+∑∑' /
+ππW _
+
+ƒƒ# +
+∆∆U ]€
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_22a.cs
+
+ C
+   &FF 
+
+"" (
+$$ %% 99 GGN S(
+** #22 $55  99* 6
+++! '--> D
+--( *22' )
+;;+ ===: L
+AA 'CC2 :
+KK +{{ 
+LL +
+§§ 
+MM *
+ÆÆ 
+
+OO 
+WW QQ 
+
+ÄÄ RR 
+
+©© SS (
+YY ZZ nn ||S X(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :0
+
+ÇÇ 
+ÉÉ 
+óó 
+••S X0
+
+àà #
+êê $
+ìì  
+óó* 6
+
+ââ! '
+ãã> D
+
+ãã( *
+êê' )
+
+ôô+ =
+õõ: L
+
+üü '
+°°2 :$
+
+´´ 
+≠≠ 
+ØØR WÈ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_22b.cs
+
+ C
+
+ 
+# (&&  %CC (
+"" && && &&' ((
+##  $** 44 66 
+,,' /..W _
+99# +;;U ]
+
+JJ #2
+JJ( -PP UU UU "[[$ )(
+WW [[ [[  ![[+ ,(
+XX$ (__  ii  kk  
+aa+ 3cc[ c
+nn' /ppY a
+
+xx #6
+xx( -}} }} "
+ÉÉ$ )
+°° .
+ 
+ÉÉ 
+ÉÉ  !
+ÉÉ+ ,0
+
+ÄÄ$ (
+áá  
+ëë  
+ìì  
+
+ââ+ 3
+ãã[ c
+
+ññ' /
+òòY a
+
+¶¶ "$
+
+¶¶' ,
+ÆÆ  %
+ÀÀ 0
+
+™™ 
+ÆÆ 
+ÆÆ 
+ÆÆ' (0
+
+´´  $
+≤≤ 
+ºº 
+ææ 
+
+¥¥' /
+∂∂W _
+
+¡¡# +
+√√U ]¶
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_31.cs
+
+ B
+
+   
+"" FF II !(
+$$ %% 99 !FF (
+** '22 (55 $99. :
+++% +--B H
+--, .22+ -
+;;/ A==> P
+AA# +CC6 >
+II NN  %(
+JJ NN NN NN' ((
+KK  $RR \\ ^^ 
+TT' /VVW _
+aa# +ccU ]
+
+jj 
+qq ll 
+
+úú mm 
+ss xx {{ !
+uu ww xx 
+{{ 
+ÄÄ  %.
+|| 
+ÄÄ 
+ÄÄ 
+ÄÄ' (.
+}}  $
+ÑÑ 
+éé 
+êê 
+
+ÜÜ' /
+ààW _
+
+ìì# +
+ïïU ]$
+
+ûû 
+¬¬ 
+≈≈ !0
+
+†† 
+°° 
+µµ !
+¬¬ 0
+
+¶¶ '
+ÆÆ (
+±± $
+µµ. :
+
+ßß% +
+©©B H
+
+©©, .
+ÆÆ+ -
+
+∑∑/ A
+ππ> P
+
+ΩΩ# +
+øø6 >0
+
+≈≈ 
+«« 
+«« "
+ÕÕ$ )0
+
+…… 
+ÕÕ 
+ÕÕ  !
+ÕÕ+ ,0
+
+  $ (
+——  
+€€  
+››  
+
+””+ 3
+’’[ c
+
+‡‡' /
+‚‚Y aÇ
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_41.cs
+
+ B
+   dd 
+  $ )&& !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+@@ (
+BB CC WW dd (
+HH #PP $SS  WW* 6
+II! 'KK> D
+KK( *PP' )
+YY+ =[[: L
+__ 'aa2 :
+
+hh 
+
+èè jj 
+
+ºº kk 
+nn #
+îî 
+nn( -tt !(
+pp tt tt tt# $,
+qq  xx 
+ÇÇ 
+ÑÑ 
+zz# +||S [
+
+áá '
+ââQ Y$
+
+ëë 
+ìì 
+îî 
+
+óó #
+‡‡ 0
+
+óó( -
+öö 
+öö 
+††  %0
+
+úú 
+†† 
+†† 
+††' (0
+
+ùù  $
+§§ 
+ÆÆ 
+∞∞ 
+
+¶¶' /
+®®W _
+
+≥≥# +
+µµU ]0
+
+ææ 
+øø 
+”” 
+‡‡ 0
+
+ƒƒ #
+ÃÃ $
+œœ  
+””* 6
+
+≈≈! '
+««> D
+
+««( *
+ÃÃ' )
+
+’’+ =
+◊◊: L
+
+€€ '
+››2 :Ä
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_42.cs
+
+ B
+    II (
+"" ## 77 DD (
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :
+
+GG 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y
+jj $tt !
+ll nn oo 
+rr 
+‚‚ 
+tt yy !(
+uu yy yy yy# $,
+vv  }} 
+áá 
+ââ 
+# +
+ÅÅS [
+
+åå '
+ééQ Y
+
+îî $
+ΩΩ !0
+
+ññ 
+óó 
+´´ 
+∏∏ 0
+
+úú #
+§§ $
+ßß  
+´´* 6
+
+ùù! '
+üü> D
+
+üü( *
+§§' )
+
+≠≠+ =
+ØØ: L
+
+≥≥ '
+µµ2 :
+
+ªª 
+„„ 0
+
+ΩΩ 
+øø 
+øø 
+≈≈  %0
+
+¡¡ 
+≈≈ 
+≈≈ 
+≈≈' (0
+
+¬¬  $
+…… 
+”” 
+’’ 
+
+ÀÀ' /
+ÕÕW _
+
+ÿÿ# +
+⁄⁄U ]
+
+‡‡ Ï
+
+«C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_45.cs
+
+ B
+   && ii  
+!! vv  
+õõ "
+"" 
+°°  
+ÈÈ 
+$$ jj 
+&& ++ !(
+'' ++ ++ ++# $(
+((  // 99 ;; 
+11# +33S [
+>> '@@Q Y
+
+EE (
+GG HH \\ ii (
+MM #UU $XX  \\* 6
+NN! 'PP> D
+PP( *UU' )
+^^+ =``: L
+dd 'ff2 :
+
+nn 
+
+ññ pp 
+
+≈≈ qq 
+tt 
+úú 
+vv {{ !(
+ww {{ {{ {{# $,
+xx   
+ââ 
+ãã 
+
+ÅÅ# +
+ÉÉS [
+
+éé '
+êêQ Y$
+
+òò 
+öö 
+õõ 
+
+üü 
+ÍÍ 0
+
+°° 
+££ 
+££ 
+©©  %0
+
+•• 
+©© 
+©© 
+©©' (0
+
+¶¶  $
+≠≠ 
+∑∑ 
+ππ 
+
+ØØ' /
+±±W _
+
+ºº# +
+ææU ]0
+
+«« 
+»» 
+‹‹ 
+ÈÈ 0
+
+ÕÕ #
+’’ $
+ÿÿ  
+‹‹* 6
+
+ŒŒ! '
+––> D
+
+––( *
+’’' )
+
+ﬁﬁ+ =
+‡‡: L
+
+‰‰ '
+ÊÊ2 :ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_51a.cs
+
+ C
+
+ (
+!! "" 66 CCN S(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSR W(
+YY ZZ nn {{R W(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_51b.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_52a.cs
+
+ C
+
+ (
+!! "" 66 CCN S(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSR W(
+YY ZZ nn {{R W(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :Ω
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_52b.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_52c.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_53a.cs
+
+ C
+
+ (
+!! "" 66 CCN S(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSR W(
+YY ZZ nn {{R W(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :Ω
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_53b.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_53c.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_53d.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_54a.cs
+
+ C
+
+ (
+!! "" 66 CCN S(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSR W(
+YY ZZ nn {{R W(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :Ω
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_54b.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_54c.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R WΩ
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_54d.cs
+
+ C
+
+ 
+# (  N S
+
+&& "
+&&' ,((R W
+
+,, "
+,,' ,..R W”
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_54e.cs
+
+ C
+
+ 
+# ($$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q Y
+
+AA "
+AA' ,GG !(
+CC GG GG GG# $(
+DD  KK UU WW 
+MM# +OOS [
+ZZ '\\Q Y
+
+bb "(
+bb' ,ee ee kk  %(
+gg kk kk kk' ((
+hh  $oo yy {{ 
+qq' /ssW _
+~~# +
+ÄÄU ]˘
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_61a.cs
+
+ C
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+@@ 
+GG BB 
+ii CC 
+II NN !(
+JJ NN NN NN# $(
+KK  RR \\ ^^ 
+TT# +VVS [
+aa 'ccQ Y(
+kk mm mm ss  %(
+oo ss ss ss' (,
+pp  $ww 
+ÅÅ 
+ÉÉ 
+yy' /{{W _
+
+ÜÜ# +
+ààU ]Û
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_61b.cs
+
+ C
+
+ (
+!! "" 66 CC (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+II #
+KK MM NN 
+
+RR #(
+TT UU ii vv (
+ZZ #bb $ee  ii* 6
+[[! ']]> D
+]]( *bb' )
+kk+ =mm: L
+qq 'ss2 :˘
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_66a.cs
+
+ C
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+CC DD EEN X
+
+II 
+PP KK 
+[[ LL 
+RR TT VV 
+UU VV WWR \*
+]] ^^ rr 
+ÄÄ (
+cc #kk $nn  rr* 6
+dd! 'ff> D
+ff( *kk' )
+tt+ =vv: L
+zz '||2 :"
+ 
+ÄÄ 
+ÅÅR \ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_66b.cs
+
+ C
+
+ 
+% /   
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BB) 3DD 
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+dd) 3ff (
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]ı
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_67a.cs
+
+ CJ
+ HH HH' 0ZZ ZZ' 0
+ÑÑ 
+ÑÑ' 0*
+!! II #[[ #
+ÖÖ #
+
+$$ (
+&& '' ;; II& +(
+,, #44 $77  ;;* 6
+--! '//> D
+//( *44' )
+==+ =??: L
+CC 'EE2 :
+HH  II JJN \
+
+NN 
+UU PP 
+`` QQ 
+WW YY [[& +
+ZZ  [[ \\R `*
+bb cc ww 
+ÖÖ& +(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :$
+
+ÑÑ  
+ÖÖ 
+ÜÜR `ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_67b.cs
+
+ C
+
+ 
+g u   "
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+BBk yDD "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "
+ddk yff "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]›
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_68a.cs
+
+ C<
+ ## 77 RR YY mm 
+
+!! (
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :
+
+HH 
+OO JJ 
+WW KK (
+^^ #ff $ii  mm* 6
+__! 'aa> D
+aa( *ff' )
+oo+ =qq: L
+uu 'ww2 :’
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_68b.cs
+
+ C
+
+ 
+   %% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Y
+
+BB "
+DD II !(
+EE II II II# $(
+FF  MM WW YY 
+OO# +QQS [
+\\ '^^Q Y
+
+dd "(
+ff hh hh nn  %(
+jj nn nn nn' ((
+kk  $rr || ~~ 
+tt' /vvW _
+
+ÅÅ# +
+ÉÉU ]ì
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_71a.cs
+
+ C
+
+ (
+!! "" 66 CCV [(
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+
+GG 
+NN II 
+WW JJ 
+PP RR SSZ _(
+YY ZZ nn {{Z _(
+__ #gg $jj  nn* 6
+``! 'bb> D
+bb( *gg' )
+pp+ =rr: L
+vv 'xx2 :ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_71b.cs
+
+ C
+
+ 
+& 1!! $
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC* 5EE $
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee* 5gg $(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]˝
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_72a.cs
+
+ C
+
+   <
+"" ## 77 EE #FF #GG #(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :2
+DD  EE FF GG HHN \
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY #ZZ #[[ #2
+XX  YY ZZ [[ \\R `B
+bb cc ww 
+ÖÖ #
+ÜÜ #
+áá #(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :<
+
+ÑÑ  
+ÖÖ 
+ÜÜ 
+áá 
+ààR `ó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_72b.cs
+
+ C
+
+ 
+) 7!! (
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC- ;EE (
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee- ;gg ((
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]˝
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_73a.cs
+
+ C
+
+   <
+"" ## 77 EE  %FF  %GG  %(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :2
+DD 'EE FF GG HHN ]
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY  %ZZ  %[[  %2
+XX 'YY ZZ [[ \\R aB
+bb cc ww 
+ÖÖ  %
+ÜÜ  %
+áá  %(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :<
+
+ÑÑ '
+ÖÖ 
+ÜÜ 
+áá 
+ààR aó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_73b.cs
+
+ C
+
+ 
+/ >!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC "
+CC3 BEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee3 Bgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]˝
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_74a.cs
+
+ C
+
+   <
+"" ## 77 EE $FF $GG $(
+(( #00 $33  77* 6
+))! '++> D
+++( *00' )
+99+ =;;: L
+?? 'AA2 :2
+DD +EE FF GG HHN ]
+
+LL 
+SS NN 
+`` OO 2
+UU WW YY $ZZ $[[ $2
+XX +YY ZZ [[ \\R aB
+bb cc ww 
+ÖÖ $
+ÜÜ $
+áá $(
+hh #pp $ss  ww* 6
+ii! 'kk> D
+kk( *pp' )
+yy+ ={{: L
+ '
+ÅÅ2 :<
+
+ÑÑ +
+ÖÖ 
+ÜÜ 
+áá 
+ààR aó
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_74b.cs
+
+ C
+
+ 
+3 B!! #
+!! && !(
+"" && && &&# $(
+##  ** 44 66 
+,,# +..S [
+99 ';;Q Y
+
+CC #
+CC8 GEE #
+EE JJ !(
+FF JJ JJ JJ# $(
+GG  NN XX ZZ 
+PP# +RRS [
+]] '__Q Y
+
+ee "
+ee7 Fgg #(
+gg ii ii oo  %(
+kk oo oo oo' ((
+ll  $ss }}  
+uu' /wwW _
+
+ÇÇ# +
+ÑÑU ]±	
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_75a.cs
+
+ C
+
+!! (
+## $$ 88 LL! &(
+)) #11 $44  88* 6
+**! ',,> D
+,,( *11' )
+::+ =<<: L
+@@ 'BB2 :
+FF MM OOR a
+II LL 
+JJ LL MM" $
+QQ& 5SSZ i
+
+XX 
+__ ZZ 
+
+ññ [[ *
+aa bb vv 
+ää! &(
+gg #oo $rr  vv* 6
+hh! 'jj> D
+jj( *oo' )
+xx+ =zz: L
+~~ '
+ÄÄ2 :$
+
+ÑÑ 
+ãã 
+ççV e
+
+áá 
+ää $
+
+àà 
+ää 
+ãã" $
+
+èè& 5
+ëëZ i0
+
+òò 
+ôô 
+≠≠ 
+¡¡! &0
+
+ûû #
+¶¶ $
+©©  
+≠≠* 6
+
+üü! '
+°°> D
+
+°°( *
+¶¶' )
+
+ØØ+ =
+±±: L
+
+µµ '
+∑∑2 :$
+
+ªª 
+¬¬ 
+ƒƒV e
+
+ææ 
+¡¡ $
+
+øø 
+¡¡ 
+¬¬" $
+
+∆∆& 5
+»»Z iã	
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_75b.cs
+
+ C
+
+   
+  & 5((  /((4 C
+$$ ** 00  %
+%% ** $(
+&&  (( )) **1 :(
+,, 00 00 00' ((
+--  $44 >> @@ 
+66' /88W _
+CC# +EEU ]
+II& 5KK[ j
+
+RR "
+RR* 9ZZ  /ZZ4 C
+VV \\ bb  %
+WW \\ $(
+XX  ZZ [[ \\1 :(
+^^ bb bb bb' ((
+__  $ff pp rr 
+hh' /jjW _
+uu# +wwU ]
+{{& 5}}[ j
+
+ÇÇ "$
+
+ÇÇ* 9
+ää  /
+ää4 C<
+
+ÜÜ 
+åå 
+èè 
+èè "
+ïï$ )
+
+áá 
+åå $0
+
+àà  
+ää 
+ãã 
+åå1 :0
+
+ëë 
+ïï 
+ïï  !
+ïï+ ,0
+
+íí$ (
+ôô  
+££  
+••  
+
+õõ+ 3
+ùù[ c
+
+®®' /
+™™Y a
+
+ØØ& 5
+±±[ j’
+»C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_81a.cs
+
+ C
+
+ (
+!! "" 66 DD (
+'' #// $22  66* 6
+((! '**> D
+**( *//' )
+88+ =::: L
+>> '@@2 :
+CCJ TDD 
+
+HH 
+OO JJ 
+YY KK 
+QQ SS UU 
+TTJ TUU (
+[[ \\ pp ~~ (
+aa #ii $ll  pp* 6
+bb! 'dd> D
+dd( *ii' )
+rr+ =tt: L
+xx 'zz2 :
+}}J T~~ ¸
+ÀC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_81_bad.cs
+
+ F
+
+ 
+$ )$$ !(
+   $$ $$ $$# $(
+!!  (( 22 44 
+**# +,,S [
+77 '99Q YÛ
+ÃC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_81_base.cs
+
+ P
+
+ 
+
+$ )î
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_81_goodB2G.cs
+
+ J
+
+ (
+$ )"" "" ((  %(
+$$ (( (( ((' ((
+%%  $,, 66 88 
+..' /00W _
+;;# +==U ]Ä
+œC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\CWE400_Uncontrolled_Resource_Consumption__NetClient_write_81_goodG2B.cs
+
+ J
+
+ 
+$ )%% !(
+!! %% %% %%# $(
+""  )) 33 55 
+++# +--S [
+88 '::Q Yß
+íC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\Program.cs
 
  
 
@@ -1653,17 +49801,16 @@ yC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\sr
 22 55 
 OO  CC 
 UU  DD 
-[[  EE 
+[[  EE 
+aa  FF 
 
-ÈÈ  FF 
+ÏÏ  GG 
 
-ÔÔ  GG 
+ÚÚ  HH 
 
-ıı  HH 
+¯¯  II 
 
-˚˚  II 
+˛˛  JJ 
 
-ÅÅ  JJ 
-
-áá  KK å
-âC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE398_Code_Quality\Properties\AssemblyInfo.cs
+ÑÑ  KK •
+¢C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE400_Uncontrolled_Resource_Consumption\s01\Properties\AssemblyInfo.cs

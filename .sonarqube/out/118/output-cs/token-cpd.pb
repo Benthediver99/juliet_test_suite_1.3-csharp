@@ -1,5 +1,5 @@
-¶
-¼C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource__console_StreamReader_01.cs
+Ì
+ÖC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\CWE775_Missing_Release_of_File_Descriptor_or_Handle__StreamReader_01.cs
 	namespace
 
  	
@@ -9,16 +9,16 @@
  
 .
 
- .
-"CWE772_Missing_Release_of_Resource
+ ?
+3CWE775_Missing_Release_of_File_Descriptor_or_Handle
 
- 6
+ G
 { 
-class 	G
-;CWE772_Missing_Release_of_Resource__console_StreamReader_01
- E
-:F G
-AbstractTestCaseH X
+class 	P
+DCWE775_Missing_Release_of_File_Descriptor_or_Handle__StreamReader_01
+ N
+:O P
+AbstractTestCaseQ a
 { 
 public 
 override 
@@ -38,14 +38,10 @@
 = 
 new 
 StreamReader %
-(% &
-Console& -
-.- .
-OpenStandardInput. ?
-(? @
-)@ A
-)A B
-;B C
+(% &
+$str& 4
+)4 5
+;5 6
 string 
 
 readString !
@@ -107,14 +103,10 @@ readString '
 ='' 
 new'' 
 StreamReader'' %
-(''% &
-Console''& -
-.''- .
-OpenStandardInput''. ?
-(''? @
-)''@ A
-)''A B
-;''B C
+(''% &
+$str''& 4
+)''4 5
+;''5 6
 string(( 
 
 readString(( !
@@ -158,8 +150,8 @@ readString** '
 )..W X
 ;..X Y
 }// 
-finally11 
-{22 
+finally00 
+{11 
 try33 
 {44 
 if55 
@@ -216,361 +208,13 @@ readString** '
 ;CC 
 }DD 	
 }GG 
-}HH ½.
-µC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\CWE772_Missing_Release_of_Resource__db_Connection_01.cs
-	namespace
-
- 	
-	testcases
-
-
- 
-.
-
- .
-"CWE772_Missing_Release_of_Resource
-
- 6
-{ 
-class 	@
-4CWE772_Missing_Release_of_Resource__db_Connection_01
- >
-:? @
-AbstractTestCaseA Q
-{ 
-public 
-override 
-void 
-Bad  
-(  !
-)! "
-{ 	
-SqlConnection 
-dBConnection &
-=' (
-null) -
-;- .
-
-SqlCommand 
-command 
-=  
-null! %
-;% &
-SqlDataReader 
-dr 
-= 
-null #
-;# $
-try 
-{ 
-int 
-intId 
-= 
-( 
-new  
-Random! '
-(' (
-)( )
-)) *
-.* +
-Next+ /
-(/ 0
-$num0 3
-)3 4
-;4 5
-dBConnection 
-= 
-IO !
-.! "
-GetDBConnection" 1
-(1 2
-)2 3
-;3 4
-command 
-= 
-new 
-
-SqlCommand (
-(( )
-$str) I
-)I J
-;J K
-dBConnection 
-. 
-Open !
-(! "
-)" #
-;# $
-dr 
-= 
-command 
-. 
-ExecuteReader *
-(* +
-)+ ,
-;, -
-if 
-( 
-dr 
-. 
-Read 
-( 
-) 
-) 
-{   
-IO!! 
-.!! 
-	WriteLine!!  
-(!!  !
-dr!!! #
-[!!# $
-$num!!$ %
-]!!% &
-.!!& '
-ToString!!' /
-(!!/ 0
-)!!0 1
-)!!1 2
-;!!2 3
-}"" 
-}## 
-catch$$ 
-($$ 
-SqlException$$ 
-	exceptSql$$  )
-)$$) *
-{%% 
-IO&& 
-.&& 
-Logger&& 
-.&& 
-Log&& 
-(&& 
-NLog&& "
-.&&" #
-LogLevel&&# +
-.&&+ ,
-Warn&&, 0
-,&&0 1
-$str&&2 :
-,&&: ;
-	exceptSql&&< E
-)&&E F
-;&&F G
-}'' 
-})) 	
-public-- 
-void-- 
-Good1-- 
-(-- 
-)-- 
-{.. 	
-SqlConnection// 
-dBConnection// &
-=//' (
-null//) -
-;//- .
-
-SqlCommand00 
-command00 
-=00  
-null00! %
-;00% &
-SqlDataReader11 
-dr11 
-=11 
-null11 #
-;11# $
-try33 
-{44 
-int55 
-intId55 
-=55 
-(55 
-new55  
-Random55! '
-(55' (
-)55( )
-)55) *
-.55* +
-Next55+ /
-(55/ 0
-$num550 3
-)553 4
-;554 5
-dBConnection77 
-=77 
-IO77 !
-.77! "
-GetDBConnection77" 1
-(771 2
-)772 3
-;773 4
-command88 
-=88 
-new88 
-
-SqlCommand88 (
-(88( )
-$str88) I
-)88I J
-;88J K
-dBConnection:: 
-.:: 
-Open:: !
-(::! "
-)::" #
-;::# $
-dr;; 
-=;; 
-command;; 
-.;; 
-ExecuteReader;; *
-(;;* +
-);;+ ,
-;;;, -
-if== 
-(== 
-dr== 
-.== 
-Read== 
-(== 
-)== 
-)== 
-{>> 
-IO?? 
-.?? 
-	WriteLine??  
-(??  !
-dr??! #
-[??# $
-$num??$ %
-]??% &
-.??& '
-ToString??' /
-(??/ 0
-)??0 1
-)??1 2
-;??2 3
-}@@ 
-}AA 
-catchBB 
-(BB 
-SqlExceptionBB 
-	exceptSqlBB  )
-)BB) *
-{CC 
-IODD 
-.DD 
-LoggerDD 
-.DD 
-LogDD 
-(DD 
-NLogDD "
-.DD" #
-LogLevelDD# +
-.DD+ ,
-WarnDD, 0
-,DD0 1
-$strDD2 :
-,DD: ;
-	exceptSqlDD< E
-)DDE F
-;DDF G
-}EE 
-finallyFF 
-{HH 
-ifII 
-(II 
-drII 
-!=II 
-nullII 
-)II 
-{JJ 
-drKK 
-.KK 
-CloseKK 
-(KK 
-)KK 
-;KK 
-}LL 
-ifNN 
-(NN 
-commandNN 
-!=NN 
-nullNN #
-)NN# $
-{OO 
-commandPP 
-.PP 
-DisposePP #
-(PP# $
-)PP$ %
-;PP% &
-}QQ 
-trySS 
-{TT 
-ifUU 
-(UU 
-dBConnectionUU $
-!=UU% '
-nullUU( ,
-)UU, -
-{VV 
-dBConnectionWW $
-.WW$ %
-CloseWW% *
-(WW* +
-)WW+ ,
-;WW, -
-}XX 
-}YY 
-catchZZ 
-(ZZ 
-SqlExceptionZZ #
-	exceptSqlZZ$ -
-)ZZ- .
-{[[ 
-IO\\ 
-.\\ 
-Logger\\ 
-.\\ 
-Log\\ !
-(\\! "
-NLog\\" &
-.\\& '
-LogLevel\\' /
-.\\/ 0
-Warn\\0 4
-,\\4 5
-$str\\6 P
-,\\P Q
-	exceptSql\\R [
-)\\[ \
-;\\\ ]
-}]] 
-}^^ 
-}__ 	
-publicaa 
-overrideaa 
-voidaa 
-Goodaa !
-(aa! "
-)aa" #
-{bb 	
-Good1cc 
-(cc 
-)cc 
-;cc 
-}dd 	
-}gg 
-}hh õ,
-ˆC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\Program.cs
+}HH Ÿ+
+™C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\Program.cs
 	namespace		 	
 	testcases		
  
-.		 .
-"CWE772_Missing_Release_of_Resource		 6
+.		 ?
+3CWE775_Missing_Release_of_File_Descriptor_or_Handle		 G
 {
 
  
@@ -845,68 +489,49 @@ StackTrace55 %
 )ss! "
 {ss# $
 (uu 
-newuu G
-;CWE772_Missing_Release_of_Resource__console_StreamReader_01uu C
-(uuC D
-)uuD E
-)uuE F
-.uuF G
-RunTestuuG N
-(uuN O
-$str	uuO Œ
+newuu P
+DCWE775_Missing_Release_of_File_Descriptor_or_Handle__StreamReader_01uu L
+(uuL M
+)uuM N
+)uuN O
+.uuO P
+RunTestuuP W
+(uuW X
+$str	uuX ž
 )
-uuŒ 
+uuž Ÿ
 ;
-uu Ž
-(vv 
-newvv @
-4CWE772_Missing_Release_of_Resource__db_Connection_01vv <
-(vv< =
-)vv= >
-)vv> ?
-.vv? @
-RunTestvv@ G
-(vvG H
-$strvvH ~
-)vv~ 
-;	vv €
-}xx 
-privatezz 
-staticzz	 
-voidzz 
-RunTestCWE8zz  
-(zz  !
-)zz! "
-{zz# $
-}~~ 
-private
-€€ 
-static
-€€	 
-void
-€€ 
-RunTestCWE9
-€€  
-(
-€€  !
-)
-€€! "
-{
-€€# $
+uuŸ  
+}ww 
+privateyy 
+staticyy	 
+voidyy 
+RunTestCWE8yy  
+(yy  !
+)yy! "
+{yy# $
+}}} 
+private 
+static	 
+void 
+RunTestCWE9  
+(  !
+)! "
+{# $
 }
-„„ 
-}…… 
-}†† Ä
-˜C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE772_Missing_Release_of_Resource\Properties\AssemblyInfo.cs
+ƒƒ 
+}„„ 
+}…… Õ
+©C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 
 
 AssemblyTitle 
 ( 
-$str =
-)= >
-]> ?
+$str N
+)N O
+]O P
 [		 
 assembly		 	
 :			 
@@ -956,9 +581,9 @@ StackTrace55 %
 
 AssemblyProduct 
 ( 
-$str ?
-)? @
-]@ A
+$str P
+)P Q
+]Q R
 [ 
 assembly 	
 :	 

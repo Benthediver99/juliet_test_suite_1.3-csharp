@@ -18,11 +18,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_04.cs",
                 "region": {
-                  "startLine": 48,
+                  "startLine": 55,
                   "startColumn": 13,
-                  "endLine": 48,
+                  "endLine": 55,
                   "endColumn": 15
                 }
               }
@@ -39,28 +39,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_02.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 13,
-                  "endLine": 43,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_02.cs",
                 "region": {
                   "startLine": 49,
                   "startColumn": 13,
@@ -81,7 +60,49 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 13,
+                  "endLine": 49,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_06.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 13,
+                  "endLine": 54,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
                 "region": {
                   "startLine": 43,
                   "startColumn": 13,
@@ -102,11 +123,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
                 "region": {
-                  "startLine": 37,
+                  "startLine": 56,
                   "startColumn": 13,
-                  "endLine": 37,
+                  "endLine": 56,
                   "endColumn": 15
                 }
               }
@@ -123,32 +144,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
                 "region": {
-                  "startLine": 50,
+                  "startLine": 98,
                   "startColumn": 13,
-                  "endLine": 50,
-                  "endColumn": 15
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 2
-          }
-        },
-        {
-          "ruleId": "CS0162",
-          "level": "warning",
-          "message": "Unreachable code detected",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 13,
-                  "endLine": 70,
+                  "endLine": 98,
                   "endColumn": 15
                 }
               }
@@ -165,7 +165,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -182,16 +182,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_04' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb04'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_02' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic02'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_04.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_02.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -201,18 +201,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateFive' 'readonly'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_01' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic01'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_01.cs",
                 "region": {
-                  "startLine": 29,
-                  "startColumn": 17,
-                  "endLine": 29,
-                  "endColumn": 28
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -228,7 +228,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_06.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -245,37 +245,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_06' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb06'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_08' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic08'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_08.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_02' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb02'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_02.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -291,7 +270,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_07.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -308,16 +287,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_13' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb13'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_16' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic16'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_16.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -327,18 +306,18 @@
           }
         },
         {
-          "ruleId": "S2933",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Make 'privateTrue' 'readonly'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_13' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic13'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_13.cs",
                 "region": {
-                  "startLine": 29,
-                  "startColumn": 18,
-                  "endLine": 29,
-                  "endColumn": 29
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -350,16 +329,16 @@
         {
           "ruleId": "S2933",
           "level": "warning",
-          "message": "Make 'privateFalse' 'readonly'.",
+          "message": "Make 'privateFive' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_07.cs",
                 "region": {
                   "startLine": 30,
-                  "startColumn": 18,
+                  "startColumn": 17,
                   "endLine": 30,
-                  "endColumn": 30
+                  "endColumn": 28
                 }
               }
             }
@@ -371,79 +350,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_08' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb08'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_04' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic04'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_04.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_11' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb11'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_11.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_07' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb07'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_07.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_12' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb12'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_12.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -459,7 +375,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_13.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_13.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -474,34 +390,13 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_14' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb14'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_14.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_14.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_14.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -516,13 +411,34 @@
           }
         },
         {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_07' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_07.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 1,
@@ -537,38 +453,17 @@
           }
         },
         {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_01' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb01'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_01.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
                 "region": {
-                  "startLine": 43,
+                  "startLine": 49,
                   "startColumn": 5,
-                  "endLine": 43,
+                  "endLine": 49,
                   "endColumn": 49
                 }
               }
@@ -581,16 +476,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_09' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb09'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_03' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic03'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_09.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -602,16 +497,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_10' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb10'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_12' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic12'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_10.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_12.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -623,16 +518,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_03' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb03'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_09' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic09'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_09.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -648,7 +543,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 28,
                   "startColumn": 1,
@@ -669,7 +564,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 38,
                   "startColumn": 7,
@@ -690,12 +585,75 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 40,
                   "startColumn": 7,
                   "endLine": 40,
                   "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_10' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic10'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_10.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_17' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_17.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_11' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_11.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -711,7 +669,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/Program.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/Program.cs",
                 "region": {
                   "startLine": 11,
                   "startColumn": 8,
@@ -726,18 +684,60 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S2933",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_17' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb17'.",
+          "message": "Make 'privateTrue' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_17.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_05.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_05.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_06' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic06'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_06.cs",
+                "region": {
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -753,11 +753,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_08.cs",
                 "region": {
-                  "startLine": 29,
+                  "startLine": 30,
                   "startColumn": 25,
-                  "endLine": 29,
+                  "endLine": 30,
                   "endColumn": 43
                 }
               }
@@ -770,16 +770,37 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_05' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb05'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_05' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic05'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_05.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_05.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_14' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_14.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -795,11 +816,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_08.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_08.cs",
                 "region": {
-                  "startLine": 34,
+                  "startLine": 35,
                   "startColumn": 25,
-                  "endLine": 34,
+                  "endLine": 35,
                   "endColumn": 44
                 }
               }
@@ -812,37 +833,16 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_15' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb15'.",
+          "message": "Rename class 'CWE759_Unsalted_One_Way_Hash__basic_15' to match pascal case naming rules, consider using 'Cwe759UnsaltedOneWayHashbasic15'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_15.cs",
                 "region": {
-                  "startLine": 23,
+                  "startLine": 24,
                   "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S101",
-          "level": "warning",
-          "message": "Rename class 'CWE698_Execution_After_Redirect__Web_16' to match pascal case naming rules, consider using 'Cwe698ExecutionAfterRedirectWeb16'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_16.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 7,
-                  "endLine": 23,
-                  "endColumn": 46
+                  "endLine": 24,
+                  "endColumn": 45
                 }
               }
             }
@@ -858,11 +858,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 28,
+                  "startLine": 29,
                   "startColumn": 18,
-                  "endLine": 28,
+                  "endLine": 29,
                   "endColumn": 19
                 }
               }
@@ -871,11 +871,11 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 28,
+                  "startLine": 29,
                   "startColumn": 13,
-                  "endLine": 28,
+                  "endLine": 29,
                   "endColumn": 14
                 }
               }
@@ -886,75 +886,71 @@
           }
         },
         {
-          "ruleId": "S1172",
+          "ruleId": "S1764",
           "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_06.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 39
+                  "startLine": 46,
+                  "startColumn": 18,
+                  "endLine": 46,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 13,
+                  "endLine": 46,
+                  "endColumn": 14
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
+            "warningLevel": 1
           }
         },
         {
-          "ruleId": "S1172",
+          "ruleId": "S1764",
           "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_07.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
                 "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 39
+                  "startLine": 72,
+                  "startColumn": 18,
+                  "endLine": 72,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_03.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 13,
+                  "endLine": 72,
+                  "endColumn": 14
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_05.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 24,
-                  "endLine": 44,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
+            "warningLevel": 1
           }
         },
         {
@@ -964,11 +960,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_12.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_12.cs",
                 "region": {
-                  "startLine": 45,
+                  "startLine": 62,
                   "startColumn": 9,
-                  "endLine": 45,
+                  "endLine": 62,
                   "endColumn": 11
                 }
               }
@@ -979,671 +975,24 @@
           }
         },
         {
-          "ruleId": "S1172",
+          "ruleId": "S1751",
           "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
+          "message": "Refactor the containing loop to do more than one iteration.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_08.cs",
-                "region": {
-                  "startLine": 51,
-                  "startColumn": 24,
-                  "endLine": 51,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_12.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 24,
-                  "endLine": 43,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_02.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_09.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_04.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 24,
-                  "endLine": 44,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_10.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_13.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_02.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_14.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '=='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 18,
-                  "endLine": 55,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 13,
-                  "endLine": 55,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_11.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1764",
-          "level": "warning",
-          "message": "Correct one of the identical expressions on both sides of operator '!='.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
-                "region": {
-                  "startLine": 40,
-                  "startColumn": 18,
-                  "endLine": 40,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_03.cs",
-                "region": {
-                  "startLine": 40,
-                  "startColumn": 13,
-                  "endLine": 40,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_10.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_05.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 24,
-                  "endLine": 59,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_01.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_16.cs",
                 "region": {
                   "startLine": 39,
-                  "startColumn": 24,
+                  "startColumn": 13,
                   "endLine": 39,
-                  "endColumn": 39
+                  "endColumn": 19
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_04.cs",
-                "region": {
-                  "startLine": 59,
-                  "startColumn": 24,
-                  "endLine": 59,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_07.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 24,
-                  "endLine": 58,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_13.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_11.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_14.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_08.cs",
-                "region": {
-                  "startLine": 66,
-                  "startColumn": 24,
-                  "endLine": 66,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_09.cs",
-                "region": {
-                  "startLine": 53,
-                  "startColumn": 24,
-                  "endLine": 53,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_06.cs",
-                "region": {
-                  "startLine": 58,
-                  "startColumn": 24,
-                  "endLine": 58,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_17.cs",
-                "region": {
-                  "startLine": 38,
-                  "startColumn": 24,
-                  "endLine": 38,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
-                "region": {
-                  "startLine": 60,
-                  "startColumn": 24,
-                  "endLine": 60,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
+            "warningLevel": 1
           }
         },
         {
@@ -1653,11 +1002,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_16.cs",
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE759_Unsalted_One_Way_Hash/CWE759_Unsalted_One_Way_Hash__basic_16.cs",
                 "region": {
-                  "startLine": 33,
+                  "startLine": 62,
                   "startColumn": 13,
-                  "endLine": 33,
+                  "endLine": 62,
                   "endColumn": 19
                 }
               }
@@ -1665,75 +1014,6 @@
           ],
           "properties": {
             "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_15.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 24,
-                  "endLine": 44,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
-          }
-        },
-        {
-          "ruleId": "S1751",
-          "level": "warning",
-          "message": "Refactor the containing loop to do more than one iteration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_16.cs",
-                "region": {
-                  "startLine": 45,
-                  "startColumn": 13,
-                  "endLine": 45,
-                  "endColumn": 19
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1172",
-          "level": "warning",
-          "message": "Remove this unused method parameter 'req'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE698_Execution_After_Redirect/CWE698_Execution_After_Redirect__Web_16.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 24,
-                  "endLine": 39,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "IsRemovable": "True"
-            }
           }
         }
       ],
@@ -1774,23 +1054,6 @@
           "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
           "defaultLevel": "warning",
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1172": {
-          "id": "S1172",
-          "shortDescription": "Unused method parameters should be removed",
-          "fullDescription": "Unused parameters are misleading. Whatever the values passed to such parameters, the behavior will be the same.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1172",
           "properties": {
             "category": "Major Code Smell",
             "isEnabledByDefault": true,
