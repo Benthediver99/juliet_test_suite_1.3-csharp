@@ -1,0 +1,21 @@
+Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_01.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_02.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_03.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_04.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_05.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_06.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_07.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_08.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_09.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_10.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_11.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_12.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_13.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_14.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_15.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_16.csutf-8Û
+ÑC:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\CWE253_Incorrect_Check_of_Function_Return_Value__FileInputStream_17.csutf-8Ÿ
+•C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\Program.csutf-8¯
+¥C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\Properties\AssemblyInfo.csutf-8b
+WC:\Users\CyberDiver\AppData\Local\Temp\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8

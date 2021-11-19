@@ -1,0 +1,2956 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 13,
+                  "endLine": 63,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 13,
+                  "endLine": 68,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 13,
+                  "endLine": 63,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 13,
+                  "endLine": 69,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 13,
+                  "endLine": 57,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 13,
+                  "endLine": 70,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 13,
+                  "endLine": 134,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_01' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_01.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic09'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateTrue' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 18,
+                  "endLine": 31,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic10'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic06'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic05'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic16'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic12'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 5,
+                  "endLine": 63,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/Program.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 1,
+                  "endLine": 28,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/Program.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 7,
+                  "endLine": 38,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/Program.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 7,
+                  "endLine": 40,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic04'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic02'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_17' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_17.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic08'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/Program.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15' to match pascal case naming rules, consider using 'Cwe378TemporaryFileCreationWithInsecurePermsbasic15'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 7,
+                  "endLine": 24,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 25,
+                  "endLine": 30,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 25,
+                  "endLine": 35,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 32,
+                  "endLine": 36,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 32,
+                  "endLine": 37,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 32,
+                  "endLine": 36,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 32,
+                  "endLine": 44,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 18,
+                  "endLine": 29,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 13,
+                  "endLine": 29,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 32,
+                  "endLine": 37,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_01.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 28,
+                  "endLine": 29,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 32,
+                  "endLine": 56,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_01.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 28,
+                  "endLine": 61,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 32,
+                  "endLine": 72,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_01.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 30,
+                  "endLine": 66,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 32,
+                  "endLine": 80,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 34,
+                  "endLine": 61,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 34,
+                  "endLine": 77,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 34,
+                  "endLine": 85,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 32,
+                  "endLine": 73,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 34,
+                  "endLine": 78,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 32,
+                  "endLine": 72,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 32,
+                  "endLine": 73,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 18,
+                  "endLine": 60,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 13,
+                  "endLine": 60,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 34,
+                  "endLine": 77,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 32,
+                  "endLine": 67,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 34,
+                  "endLine": 78,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 34,
+                  "endLine": 72,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 32,
+                  "endLine": 105,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 32,
+                  "endLine": 112,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_09.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_05.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 34,
+                  "endLine": 110,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 32,
+                  "endLine": 32,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_10.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_08.cs",
+                "region": {
+                  "startLine": 117,
+                  "startColumn": 34,
+                  "endLine": 117,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 18,
+                  "endLine": 97,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 13,
+                  "endLine": 97,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 32,
+                  "endLine": 104,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_03.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_14.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 32,
+                  "endLine": 104,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_06.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 34,
+                  "endLine": 109,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 32,
+                  "endLine": 105,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_07.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 34,
+                  "endLine": 109,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_04.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 34,
+                  "endLine": 110,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_02.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_11.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 32,
+                  "endLine": 89,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 32,
+                  "endLine": 116,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 13,
+                  "endLine": 53,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3923",
+          "level": "warning",
+          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 9,
+                  "endLine": 87,
+                  "endColumn": 11
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1871",
+          "level": "warning",
+          "message": "Either merge this branch with the identical one on line 88 or change one of the implementations.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 115,
+                  "startColumn": 9,
+                  "endLine": 140,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 9,
+                  "endLine": 113,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 34,
+                  "endLine": 94,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_12.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 34,
+                  "endLine": 121,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_13.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 34,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_17.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 32,
+                  "endLine": 62,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_17.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 32,
+                  "endLine": 31,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_17.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 34,
+                  "endLine": 67,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 32,
+                  "endLine": 107,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 32,
+                  "endLine": 73,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 34,
+                  "endLine": 112,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 13,
+                  "endLine": 87,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5445",
+          "level": "warning",
+          "message": "'Path.GetTempFileName()' is insecure. Use 'Path.GetRandomFileName()' instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 32,
+                  "endLine": 63,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_15.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 34,
+                  "endLine": 78,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'fSecurity'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE378_Temporary_File_Creation_With_Insecure_Perms/CWE378_Temporary_File_Creation_With_Insecure_Perms__basic_16.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 34,
+                  "endLine": 68,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0162": {
+          "id": "CS0162",
+          "shortDescription": "Unreachable code detected",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1751": {
+          "id": "S1751",
+          "shortDescription": "Loops with at most one iteration should be refactored",
+          "fullDescription": "A loop with at most one iteration is equivalent to the use of an if statement to conditionally execute one piece of code. If the initial intention of the author was really to conditionally execute one piece of code, an if statement should be used instead. If that was not the initial intention of the author, the body of the loop should be fixed to use the nested return, break or throw statements in a more appropriate way.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1751",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1764": {
+          "id": "S1764",
+          "shortDescription": "Identical expressions should not be used on both sides of a binary operator",
+          "fullDescription": "Using the same value on either side of a binary operator is almost always a mistake. In the case of logical operators, it is either a copy/paste error and therefore a bug, or it is simply wasted code, and should be simplified. In the case of bitwise operators and most binary mathematical operators, having the same value on both sides of an operator yields predictable results, and should be simplified.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1764",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1871": {
+          "id": "S1871",
+          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3400": {
+          "id": "S3400",
+          "shortDescription": "Methods should not return constants",
+          "fullDescription": "There's no point in forcing the overhead of a method call for a method that always returns the same constant value. Even worse, the fact that a method call must be made will likely mislead developers who call the method thinking that something more is done. Declare a constant instead. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3400",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S3923": {
+          "id": "S3923",
+          "shortDescription": "All branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having all branches in a switch or if chain with the same implementation is an error. Either a copy-paste error was made and something different should be executed, or there shouldn't be a switch/if chain at all.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3923",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S5445": {
+          "id": "S5445",
+          "shortDescription": "Insecure temporary file creation methods should not be used",
+          "fullDescription": "Creating temporary files using insecure methods exposes the application to race conditions on filenames: a malicious user can try to create a file with a predictable name before the application does. A successful attack can result in other files being accessed, modified, corrupted or deleted. This risk is even higher if the application run with elevated permissions.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5445",
+          "properties": {
+            "category": "Critical Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

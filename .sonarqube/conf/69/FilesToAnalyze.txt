@@ -1,0 +1,7 @@
+﻿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__console_InputStreamReader_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__db_Connection_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__FileReader_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\CWE404_Improper_Resource_Shutdown__Object_Lock_Thread_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\Program.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\Properties\AssemblyInfo.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\App.config

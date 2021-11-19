@@ -1,0 +1,4 @@
+﻿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\CWE775_Missing_Release_of_File_Descriptor_or_Handle__StreamReader_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\Program.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\Properties\AssemblyInfo.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE775_Missing_Release_of_File_Descriptor_or_Handle\App.config

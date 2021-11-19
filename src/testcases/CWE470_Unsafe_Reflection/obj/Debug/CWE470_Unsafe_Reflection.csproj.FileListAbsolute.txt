@@ -26,3 +26,15 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\Jul
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\Juliet_Test_Suite_v1.3_for_C#\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\NLog.config
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\CWE470_Unsafe_Reflection.exe.config
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\CWE470_Unsafe_Reflection.exe
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\CWE470_Unsafe_Reflection.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\NLog.dll
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\System.DirectoryServices.dll
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\TestCaseSupport.dll
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\bin\Debug\TestCaseSupport.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.csproj.CopyComplete
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.exe
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.pdb

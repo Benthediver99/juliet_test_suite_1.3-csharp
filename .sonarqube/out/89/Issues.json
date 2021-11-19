@@ -1,0 +1,4771 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "2.10.0.0",
+        "fileVersion": "2.10.0.0 (b9fb1610)",
+        "semanticVersion": "2.10.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 13,
+                  "endLine": 37,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 13,
+                  "endLine": 48,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 13,
+                  "endLine": 50,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 13,
+                  "endLine": 72,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "CS0162",
+          "level": "warning",
+          "message": "Unreachable code detected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 13,
+                  "endLine": 49,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb01'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb08'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb09'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFive' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 17,
+                  "endLine": 29,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb03'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb06'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb12'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb07'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateTrue' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 18,
+                  "endLine": 29,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'privateFalse' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 18,
+                  "endLine": 30,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb04'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 5,
+                  "endLine": 43,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/Program.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb10'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb17'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 25,
+                  "endLine": 29,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb15'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/Program.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 1,
+                  "endLine": 28,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/Program.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 7,
+                  "endLine": 38,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/Program.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 7,
+                  "endLine": 40,
+                  "endColumn": 81
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb16'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3400",
+          "level": "warning",
+          "message": "Remove this method and declare a constant for this value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 25,
+                  "endLine": 34,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb14'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb13'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb05'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb11'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02' to match pascal case naming rules, consider using 'Cwe539InformationExposureThroughPersistentCookieWeb02'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 7,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 33,
+                  "endLine": 35,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 33,
+                  "endLine": 35,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 33,
+                  "endLine": 31,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 29,
+                  "endLine": 28,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 33,
+                  "endLine": 35,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 33,
+                  "endLine": 35,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 29,
+                  "endLine": 28,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 33,
+                  "endLine": 36,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 33,
+                  "endLine": 31,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 33,
+                  "endLine": 43,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 33,
+                  "endLine": 43,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 18,
+                  "endLine": 28,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 13,
+                  "endLine": 28,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 33,
+                  "endLine": 48,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 33,
+                  "endLine": 52,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 33,
+                  "endLine": 52,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 29,
+                  "endLine": 41,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 29,
+                  "endLine": 41,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 33,
+                  "endLine": 54,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 33,
+                  "endLine": 48,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 33,
+                  "endLine": 54,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 33,
+                  "endLine": 53,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 33,
+                  "endLine": 53,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 33,
+                  "endLine": 53,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 33,
+                  "endLine": 53,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 33,
+                  "endLine": 52,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 33,
+                  "endLine": 52,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 33,
+                  "endLine": 60,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 33,
+                  "endLine": 60,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 33,
+                  "endLine": 63,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 33,
+                  "endLine": 63,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 41,
+                  "endLine": 44,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 33,
+                  "endLine": 47,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S3923",
+          "level": "warning",
+          "message": "Remove this conditional structure or edit its code blocks so that they're not all the same.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 9,
+                  "endLine": 46,
+                  "endColumn": 11
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 41,
+                  "endLine": 44,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 41,
+                  "endLine": 44,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1871",
+          "level": "warning",
+          "message": "Either merge this branch with the identical one on line 47 or change one of the implementations.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 9,
+                  "endLine": 57,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_12.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 9,
+                  "endLine": 51,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_13.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 41,
+                  "endLine": 43,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 33,
+                  "endLine": 64,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '=='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 18,
+                  "endLine": 56,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 13,
+                  "endLine": 56,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 33,
+                  "endLine": 64,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 41,
+                  "endLine": 43,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 33,
+                  "endLine": 71,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 33,
+                  "endLine": 71,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 33,
+                  "endLine": 63,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 33,
+                  "endLine": 63,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 24,
+                  "endLine": 59,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_06.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 41,
+                  "endLine": 59,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 33,
+                  "endLine": 66,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 33,
+                  "endLine": 66,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1764",
+          "level": "warning",
+          "message": "Correct one of the identical expressions on both sides of operator '!='.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 18,
+                  "endLine": 40,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_03.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 13,
+                  "endLine": 40,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 24,
+                  "endLine": 39,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_01.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 41,
+                  "endLine": 39,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_09.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 13,
+                  "endLine": 33,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 24,
+                  "endLine": 67,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 41,
+                  "endLine": 67,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 24,
+                  "endLine": 61,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_15.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 41,
+                  "endLine": 61,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 24,
+                  "endLine": 59,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_07.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 41,
+                  "endLine": 59,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 33,
+                  "endLine": 30,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 24,
+                  "endLine": 60,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_05.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 41,
+                  "endLine": 60,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 33,
+                  "endLine": 43,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 33,
+                  "endLine": 43,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 24,
+                  "endLine": 51,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_08.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 41,
+                  "endLine": 51,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 13,
+                  "endLine": 46,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 33,
+                  "endLine": 53,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 33,
+                  "endLine": 53,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_10.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 24,
+                  "endLine": 39,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_16.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 41,
+                  "endLine": 39,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 33,
+                  "endLine": 64,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 33,
+                  "endLine": 58,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 33,
+                  "endLine": 64,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2092",
+          "level": "warning",
+          "message": "Make sure creating this cookie without setting the 'Secure' property is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 33,
+                  "endLine": 42,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3330",
+          "level": "warning",
+          "message": "Make sure creating this cookie without the \"HttpOnly\" flag is safe.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 33,
+                  "endLine": 42,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_14.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 24,
+                  "endLine": 60,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 41,
+                  "endLine": 60,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_02.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_11.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 41,
+                  "endLine": 54,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_04.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 41,
+                  "endLine": 44,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'req'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 24,
+                  "endLine": 38,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        },
+        {
+          "ruleId": "S1172",
+          "level": "warning",
+          "message": "Remove this unused method parameter 'resp'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/CyberDiver/Documents/SAST%20Benchmarking/juliet_test_suite_1.3-csharp/src/testcases/CWE539_Information_Exposure_Through_Persistent_Cookie/CWE539_Information_Exposure_Through_Persistent_Cookie__Web_17.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 41,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsRemovable": "True"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CS0162": {
+          "id": "CS0162",
+          "shortDescription": "Unreachable code detected",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1172": {
+          "id": "S1172",
+          "shortDescription": "Unused method parameters should be removed",
+          "fullDescription": "Unused parameters are misleading. Whatever the values passed to such parameters, the behavior will be the same.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1172",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1751": {
+          "id": "S1751",
+          "shortDescription": "Loops with at most one iteration should be refactored",
+          "fullDescription": "A loop with at most one iteration is equivalent to the use of an if statement to conditionally execute one piece of code. If the initial intention of the author was really to conditionally execute one piece of code, an if statement should be used instead. If that was not the initial intention of the author, the body of the loop should be fixed to use the nested return, break or throw statements in a more appropriate way.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1751",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1764": {
+          "id": "S1764",
+          "shortDescription": "Identical expressions should not be used on both sides of a binary operator",
+          "fullDescription": "Using the same value on either side of a binary operator is almost always a mistake. In the case of logical operators, it is either a copy/paste error and therefore a bug, or it is simply wasted code, and should be simplified. In the case of bitwise operators and most binary mathematical operators, having the same value on both sides of an operator yields predictable results, and should be simplified.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1764",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1871": {
+          "id": "S1871",
+          "shortDescription": "Two branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having two cases in the same switch statement or branches in the same if structure with the same implementation is at best duplicate code, and at worst a coding error. If the same logic is truly needed for both instances, then in an if structure they should be combined, or for a switch, one should fall through to the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1871",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2092": {
+          "id": "S2092",
+          "shortDescription": "Creating cookies without the \"secure\" flag is security-sensitive",
+          "fullDescription": "When a cookie is protected with the secure attribute set to true it will not be send by the browser over an unencrypted HTTP request and thus cannot be observed by an unauthorized person during a man-in-the-middle attack. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2092",
+          "properties": {
+            "category": "Minor Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that's not marked readonly but is only set in the constructor, it could cause confusion about the field's intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3330": {
+          "id": "S3330",
+          "shortDescription": "Creating cookies without the \"HttpOnly\" flag is security-sensitive",
+          "fullDescription": "When a cookie is configured with the HttpOnly attribute set to true, the browser guaranties that no client-side script will be able to read it. In most cases, when a cookie is created, the default value of HttpOnly is false and it's up to the developer to decide whether or not the content of the cookie can be read by the client-side script. As a majority of Cross-Site Scripting (XSS) attacks target the theft of session-cookies, the HttpOnly attribute can help to reduce their impact as it won't be possible to exploit the XSS vulnerability to steal session-cookies.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3330",
+          "properties": {
+            "category": "Minor Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "S3400": {
+          "id": "S3400",
+          "shortDescription": "Methods should not return constants",
+          "fullDescription": "There's no point in forcing the overhead of a method call for a method that always returns the same constant value. Even worse, the fact that a method call must be made will likely mislead developers who call the method thinking that something more is done. Declare a constant instead. ",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3400",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S3923": {
+          "id": "S3923",
+          "shortDescription": "All branches in a conditional structure should not have exactly the same implementation",
+          "fullDescription": "Having all branches in a switch or if chain with the same implementation is an error. Either a copy-paste error was made and something different should be executed, or there shouldn't be a switch/if chain at all.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3923",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

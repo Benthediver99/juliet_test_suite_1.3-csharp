@@ -1,0 +1,4 @@
+﻿C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE833_Deadlock\CWE833_Deadlock__Nested_Lock_Thread_01.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE833_Deadlock\Program.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE833_Deadlock\Properties\AssemblyInfo.cs
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE833_Deadlock\App.config
