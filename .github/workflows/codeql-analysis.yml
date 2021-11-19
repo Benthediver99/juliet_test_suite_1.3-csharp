@@ -62,12 +62,12 @@ jobs:
     # ✏️ If the Autobuild fails above, remove it and uncomment the following three lines
     #    and modify them (or add more) to build your code if your project
     #    uses a compiled language
-    - run: ./build.ps1
+    - run: msbuild ./JulietTestSuite.sln /t:Rebuild
       shell: pwsh
 #       make bootstrap
 #       make release
-    - name: HCL AppScan CodeSweep
-      uses: HCL-TECH-SOFTWARE/appscan-codesweep-action@v1
+#    - name: HCL AppScan CodeSweep
+#     uses: HCL-TECH-SOFTWARE/appscan-codesweep-action@v1
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
