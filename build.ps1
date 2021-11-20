@@ -5,5 +5,5 @@ $baseDir = (Get-Item -Path ".\" -Verbose).FullName
 $items = Get-ChildItem -Path $baseDir -Include *.sln -Recurse
 foreach ($item in $items){
       nuget restore $item
-      ./MSBuild.exe $item /t:Rebuild
+      MsBuild $item /t:Rebuild
 }
