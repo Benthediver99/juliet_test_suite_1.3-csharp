@@ -71,15 +71,15 @@ jobs:
     #- run: ./MSBuild.exe ./JulietTestSuite.sln /t:Rebuild
    # shell: pwsh
 #    - run: msbuild
-    - run: ./build.ps1
-      shell: pwsh
+#    - run: ./build.ps1
+#      shell: pwsh
 #       make bootstrap
 #       make release
 #    - name: HCL AppScan CodeSweep
 #     uses: HCL-TECH-SOFTWARE/appscan-codesweep-action@v1
 #    - name: Build .NET with CodeQL
-#    - run: |
-#        msbuild ./JulietTestSuite.sln /t:Rebuild
+    - run: |
+        msbuild ./JulietTestSuite.sln /t:Rebuild /p:UseSharedCompilation=false
 #        nuget restore ./JulietTestSuite.sln
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
