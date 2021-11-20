@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.csproj.SuggestedBindingRedirects.cache

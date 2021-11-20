@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\obj\Debug\CWE675_Duplicate_Operations_on_Resource.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\obj\Debug\CWE675_Duplicate_Operations_on_Resource.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\obj\Debug\CWE675_Duplicate_Operations_on_Resource.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE675_Duplicate_Operations_on_Resource\obj\Debug\CWE675_Duplicate_Operations_on_Resource.csproj.SuggestedBindingRedirects.cache

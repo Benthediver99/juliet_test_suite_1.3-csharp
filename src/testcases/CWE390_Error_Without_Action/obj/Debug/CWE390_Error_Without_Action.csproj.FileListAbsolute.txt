@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.csproj.SuggestedBindingRedirects.cache

@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\obj\Debug\CWE481_Assigning_Instead_of_Comparing.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\obj\Debug\CWE481_Assigning_Instead_of_Comparing.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\obj\Debug\CWE481_Assigning_Instead_of_Comparing.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE481_Assigning_Instead_of_Comparing\obj\Debug\CWE481_Assigning_Instead_of_Comparing.csproj.SuggestedBindingRedirects.cache

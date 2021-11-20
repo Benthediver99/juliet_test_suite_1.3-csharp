@@ -16,3 +16,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s02\obj\Debug\CWE129_Improper_Validation_of_Array_Index_s02.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s02\obj\Debug\CWE129_Improper_Validation_of_Array_Index_s02.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s02\obj\Debug\CWE129_Improper_Validation_of_Array_Index_s02.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE129_Improper_Validation_of_Array_Index\s02\obj\Debug\CWE129_Improper_Validation_of_Array_Index_s02.csproj.SuggestedBindingRedirects.cache

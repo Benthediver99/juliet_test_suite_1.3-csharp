@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE81_XSS_Error_Message\obj\Debug\CWE81_XSS_Error_Message.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE81_XSS_Error_Message\obj\Debug\CWE81_XSS_Error_Message.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE81_XSS_Error_Message\obj\Debug\CWE81_XSS_Error_Message.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE81_XSS_Error_Message\obj\Debug\CWE81_XSS_Error_Message.csproj.SuggestedBindingRedirects.cache

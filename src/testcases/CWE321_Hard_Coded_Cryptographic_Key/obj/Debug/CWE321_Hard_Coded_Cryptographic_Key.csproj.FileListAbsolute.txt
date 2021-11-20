@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE321_Hard_Coded_Cryptographic_Key\obj\Debug\CWE321_Hard_Coded_Cryptographic_Key.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE321_Hard_Coded_Cryptographic_Key\obj\Debug\CWE321_Hard_Coded_Cryptographic_Key.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE321_Hard_Coded_Cryptographic_Key\obj\Debug\CWE321_Hard_Coded_Cryptographic_Key.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE321_Hard_Coded_Cryptographic_Key\obj\Debug\CWE321_Hard_Coded_Cryptographic_Key.csproj.SuggestedBindingRedirects.cache

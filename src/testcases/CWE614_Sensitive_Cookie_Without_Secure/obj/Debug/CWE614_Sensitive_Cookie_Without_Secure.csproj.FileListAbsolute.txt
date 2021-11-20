@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\obj\Debug\CWE614_Sensitive_Cookie_Without_Secure.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\obj\Debug\CWE614_Sensitive_Cookie_Without_Secure.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\obj\Debug\CWE614_Sensitive_Cookie_Without_Secure.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE614_Sensitive_Cookie_Without_Secure\obj\Debug\CWE614_Sensitive_Cookie_Without_Secure.csproj.SuggestedBindingRedirects.cache

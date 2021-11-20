@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE582_Array_Public_Readonly_Static\obj\Debug\CWE582_Array_Public_Readonly_Static.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE582_Array_Public_Readonly_Static\obj\Debug\CWE582_Array_Public_Readonly_Static.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE582_Array_Public_Readonly_Static\obj\Debug\CWE582_Array_Public_Readonly_Static.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE582_Array_Public_Readonly_Static\obj\Debug\CWE582_Array_Public_Readonly_Static.csproj.SuggestedBindingRedirects.cache

@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\obj\Debug\CWE523_Unprotected_Cred_Transport.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\obj\Debug\CWE523_Unprotected_Cred_Transport.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\obj\Debug\CWE523_Unprotected_Cred_Transport.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE523_Unprotected_Cred_Transport\obj\Debug\CWE523_Unprotected_Cred_Transport.csproj.SuggestedBindingRedirects.cache

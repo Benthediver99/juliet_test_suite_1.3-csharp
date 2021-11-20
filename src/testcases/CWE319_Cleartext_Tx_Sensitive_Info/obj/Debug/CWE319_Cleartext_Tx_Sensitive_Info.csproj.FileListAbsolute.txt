@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE319_Cleartext_Tx_Sensitive_Info\obj\Debug\CWE319_Cleartext_Tx_Sensitive_Info.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE319_Cleartext_Tx_Sensitive_Info\obj\Debug\CWE319_Cleartext_Tx_Sensitive_Info.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE319_Cleartext_Tx_Sensitive_Info\obj\Debug\CWE319_Cleartext_Tx_Sensitive_Info.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE319_Cleartext_Tx_Sensitive_Info\obj\Debug\CWE319_Cleartext_Tx_Sensitive_Info.csproj.SuggestedBindingRedirects.cache

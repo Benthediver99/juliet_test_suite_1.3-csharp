@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.csproj.SuggestedBindingRedirects.cache

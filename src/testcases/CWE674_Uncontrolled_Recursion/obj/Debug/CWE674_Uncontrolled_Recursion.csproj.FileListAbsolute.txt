@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\obj\Debug\CWE674_Uncontrolled_Recursion.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\obj\Debug\CWE674_Uncontrolled_Recursion.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\obj\Debug\CWE674_Uncontrolled_Recursion.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE674_Uncontrolled_Recursion\obj\Debug\CWE674_Uncontrolled_Recursion.csproj.SuggestedBindingRedirects.cache

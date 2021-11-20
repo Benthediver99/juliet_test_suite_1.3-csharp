@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE314_Cleartext_Storage_in_the_Registry\obj\Debug\CWE314_Cleartext_Storage_in_the_Registry.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE314_Cleartext_Storage_in_the_Registry\obj\Debug\CWE314_Cleartext_Storage_in_the_Registry.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE314_Cleartext_Storage_in_the_Registry\obj\Debug\CWE314_Cleartext_Storage_in_the_Registry.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE314_Cleartext_Storage_in_the_Registry\obj\Debug\CWE314_Cleartext_Storage_in_the_Registry.csproj.SuggestedBindingRedirects.cache

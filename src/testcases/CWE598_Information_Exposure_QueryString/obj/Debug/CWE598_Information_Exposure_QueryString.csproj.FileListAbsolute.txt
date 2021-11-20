@@ -38,3 +38,5 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE598_Information_Exposure_QueryString\obj\Debug\CWE598_Information_Exposure_QueryString.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE598_Information_Exposure_QueryString\obj\Debug\CWE598_Information_Exposure_QueryString.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE598_Information_Exposure_QueryString\obj\Debug\CWE598_Information_Exposure_QueryString.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE598_Information_Exposure_QueryString\obj\Debug\CWE598_Information_Exposure_QueryString.csproj.AssemblyReference.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE598_Information_Exposure_QueryString\obj\Debug\CWE598_Information_Exposure_QueryString.csproj.SuggestedBindingRedirects.cache

@@ -27,3 +27,5 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\obj\Debug\CWE78_OS_Command_Injection.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\obj\Debug\CWE78_OS_Command_Injection.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\obj\Debug\CWE78_OS_Command_Injection.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\obj\Debug\CWE78_OS_Command_Injection.csproj.AssemblyReference.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE78_OS_Command_Injection\obj\Debug\CWE78_OS_Command_Injection.csproj.SuggestedBindingRedirects.cache

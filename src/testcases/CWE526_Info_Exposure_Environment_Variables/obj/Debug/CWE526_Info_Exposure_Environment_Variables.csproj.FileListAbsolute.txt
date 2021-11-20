@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\obj\Debug\CWE526_Info_Exposure_Environment_Variables.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\obj\Debug\CWE526_Info_Exposure_Environment_Variables.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\obj\Debug\CWE526_Info_Exposure_Environment_Variables.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE526_Info_Exposure_Environment_Variables\obj\Debug\CWE526_Info_Exposure_Environment_Variables.csproj.SuggestedBindingRedirects.cache

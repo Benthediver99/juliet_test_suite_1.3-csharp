@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE470_Unsafe_Reflection\obj\Debug\CWE470_Unsafe_Reflection.csproj.SuggestedBindingRedirects.cache

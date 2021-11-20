@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\obj\Debug\CWE253_Incorrect_Check_of_Function_Return_Value.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\obj\Debug\CWE253_Incorrect_Check_of_Function_Return_Value.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\obj\Debug\CWE253_Incorrect_Check_of_Function_Return_Value.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE253_Incorrect_Check_of_Function_Return_Value\obj\Debug\CWE253_Incorrect_Check_of_Function_Return_Value.csproj.SuggestedBindingRedirects.cache

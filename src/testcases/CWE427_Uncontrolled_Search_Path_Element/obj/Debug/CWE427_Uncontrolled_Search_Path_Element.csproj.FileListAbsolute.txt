@@ -27,3 +27,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE427_Uncontrolled_Search_Path_Element\obj\Debug\CWE427_Uncontrolled_Search_Path_Element.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE427_Uncontrolled_Search_Path_Element\obj\Debug\CWE427_Uncontrolled_Search_Path_Element.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE427_Uncontrolled_Search_Path_Element\obj\Debug\CWE427_Uncontrolled_Search_Path_Element.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE427_Uncontrolled_Search_Path_Element\obj\Debug\CWE427_Uncontrolled_Search_Path_Element.csproj.SuggestedBindingRedirects.cache

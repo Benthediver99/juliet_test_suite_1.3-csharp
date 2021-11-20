@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE117_Improper_Output_Neutralization_for_Logs\obj\Debug\CWE117_Improper_Output_Neutralization_for_Logs.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE117_Improper_Output_Neutralization_for_Logs\obj\Debug\CWE117_Improper_Output_Neutralization_for_Logs.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE117_Improper_Output_Neutralization_for_Logs\obj\Debug\CWE117_Improper_Output_Neutralization_for_Logs.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE117_Improper_Output_Neutralization_for_Logs\obj\Debug\CWE117_Improper_Output_Neutralization_for_Logs.csproj.SuggestedBindingRedirects.cache

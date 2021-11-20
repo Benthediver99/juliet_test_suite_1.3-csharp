@@ -27,3 +27,5 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.SuggestedBindingRedirects.cache
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.AssemblyReference.cache

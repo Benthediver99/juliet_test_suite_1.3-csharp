@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.csproj.SuggestedBindingRedirects.cache

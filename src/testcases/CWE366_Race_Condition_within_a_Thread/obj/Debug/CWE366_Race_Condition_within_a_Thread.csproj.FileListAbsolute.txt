@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.csproj.SuggestedBindingRedirects.cache

@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\obj\Debug\CWE511_Logic_Time_Bomb.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\obj\Debug\CWE511_Logic_Time_Bomb.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\obj\Debug\CWE511_Logic_Time_Bomb.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE511_Logic_Time_Bomb\obj\Debug\CWE511_Logic_Time_Bomb.csproj.SuggestedBindingRedirects.cache

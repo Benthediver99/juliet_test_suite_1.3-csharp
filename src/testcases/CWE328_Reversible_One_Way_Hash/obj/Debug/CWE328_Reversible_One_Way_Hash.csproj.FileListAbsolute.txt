@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\obj\Debug\CWE328_Reversible_One_Way_Hash.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\obj\Debug\CWE328_Reversible_One_Way_Hash.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\obj\Debug\CWE328_Reversible_One_Way_Hash.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE328_Reversible_One_Way_Hash\obj\Debug\CWE328_Reversible_One_Way_Hash.csproj.SuggestedBindingRedirects.cache

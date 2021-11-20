@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE313_Cleartext_Storage_in_a_File_or_on_Disk\obj\Debug\CWE313_Cleartext_Storage_in_a_File_or_on_Disk.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE313_Cleartext_Storage_in_a_File_or_on_Disk\obj\Debug\CWE313_Cleartext_Storage_in_a_File_or_on_Disk.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE313_Cleartext_Storage_in_a_File_or_on_Disk\obj\Debug\CWE313_Cleartext_Storage_in_a_File_or_on_Disk.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE313_Cleartext_Storage_in_a_File_or_on_Disk\obj\Debug\CWE313_Cleartext_Storage_in_a_File_or_on_Disk.csproj.SuggestedBindingRedirects.cache

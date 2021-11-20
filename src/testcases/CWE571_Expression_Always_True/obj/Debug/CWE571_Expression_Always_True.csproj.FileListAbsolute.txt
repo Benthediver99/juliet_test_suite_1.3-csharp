@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\obj\Debug\CWE571_Expression_Always_True.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\obj\Debug\CWE571_Expression_Always_True.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\obj\Debug\CWE571_Expression_Always_True.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE571_Expression_Always_True\obj\Debug\CWE571_Expression_Always_True.csproj.SuggestedBindingRedirects.cache

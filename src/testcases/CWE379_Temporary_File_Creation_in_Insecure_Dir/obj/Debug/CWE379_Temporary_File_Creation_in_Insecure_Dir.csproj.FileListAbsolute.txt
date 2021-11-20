@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\obj\Debug\CWE379_Temporary_File_Creation_in_Insecure_Dir.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\obj\Debug\CWE379_Temporary_File_Creation_in_Insecure_Dir.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\obj\Debug\CWE379_Temporary_File_Creation_in_Insecure_Dir.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE379_Temporary_File_Creation_in_Insecure_Dir\obj\Debug\CWE379_Temporary_File_Creation_in_Insecure_Dir.csproj.SuggestedBindingRedirects.cache

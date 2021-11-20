@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\obj\Debug\CWE284_Improper_Access_Control.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\obj\Debug\CWE284_Improper_Access_Control.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\obj\Debug\CWE284_Improper_Access_Control.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE284_Improper_Access_Control\obj\Debug\CWE284_Improper_Access_Control.csproj.SuggestedBindingRedirects.cache

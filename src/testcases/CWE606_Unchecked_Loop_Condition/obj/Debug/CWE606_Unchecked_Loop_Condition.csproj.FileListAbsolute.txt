@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE606_Unchecked_Loop_Condition\obj\Debug\CWE606_Unchecked_Loop_Condition.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE606_Unchecked_Loop_Condition\obj\Debug\CWE606_Unchecked_Loop_Condition.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE606_Unchecked_Loop_Condition\obj\Debug\CWE606_Unchecked_Loop_Condition.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE606_Unchecked_Loop_Condition\obj\Debug\CWE606_Unchecked_Loop_Condition.csproj.SuggestedBindingRedirects.cache

@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\obj\Debug\CWE617_Reachable_Assertion.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\obj\Debug\CWE617_Reachable_Assertion.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\obj\Debug\CWE617_Reachable_Assertion.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE617_Reachable_Assertion\obj\Debug\CWE617_Reachable_Assertion.csproj.SuggestedBindingRedirects.cache

@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE510_Trapdoor\obj\Debug\CWE510_Trapdoor.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE510_Trapdoor\obj\Debug\CWE510_Trapdoor.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE510_Trapdoor\obj\Debug\CWE510_Trapdoor.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE510_Trapdoor\obj\Debug\CWE510_Trapdoor.csproj.SuggestedBindingRedirects.cache

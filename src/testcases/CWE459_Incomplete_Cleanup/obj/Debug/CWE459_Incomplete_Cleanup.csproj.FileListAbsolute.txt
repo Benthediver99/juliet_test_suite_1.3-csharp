@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.csproj.SuggestedBindingRedirects.cache

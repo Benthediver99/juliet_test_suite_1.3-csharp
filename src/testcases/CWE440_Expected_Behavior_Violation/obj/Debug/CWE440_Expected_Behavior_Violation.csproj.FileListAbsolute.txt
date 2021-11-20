@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE440_Expected_Behavior_Violation\obj\Debug\CWE440_Expected_Behavior_Violation.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE440_Expected_Behavior_Violation\obj\Debug\CWE440_Expected_Behavior_Violation.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE440_Expected_Behavior_Violation\obj\Debug\CWE440_Expected_Behavior_Violation.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE440_Expected_Behavior_Violation\obj\Debug\CWE440_Expected_Behavior_Violation.csproj.SuggestedBindingRedirects.cache

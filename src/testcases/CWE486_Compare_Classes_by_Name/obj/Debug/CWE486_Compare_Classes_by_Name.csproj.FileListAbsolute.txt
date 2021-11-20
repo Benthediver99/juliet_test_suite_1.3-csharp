@@ -38,3 +38,4 @@ C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\obj\Debug\CWE486_Compare_Classes_by_Name.csproj.CopyComplete
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\obj\Debug\CWE486_Compare_Classes_by_Name.exe
 C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\obj\Debug\CWE486_Compare_Classes_by_Name.pdb
+C:\Users\CyberDiver\Documents\SAST Benchmarking\juliet_test_suite_1.3-csharp\src\testcases\CWE486_Compare_Classes_by_Name\obj\Debug\CWE486_Compare_Classes_by_Name.csproj.SuggestedBindingRedirects.cache
