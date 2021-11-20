@@ -64,8 +64,9 @@ jobs:
     #    uses a compiled language
     #- run: ./MSBuild.exe ./JulietTestSuite.sln /t:Rebuild
    # shell: pwsh
-    - run: ./build.ps1
-      shell: pwsh
+    - run: msbuild
+#    - run: ./build.ps1
+#      shell: pwsh
 #       make bootstrap
 #       make release
 #    - name: HCL AppScan CodeSweep
