@@ -214,8 +214,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE615_Info_Exposure_by_Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE617_Reachable_Assertion", "src\testcases\CWE617_Reachable_Assertion\CWE617_Reachable_Assertion.csproj", "{E23CB60E-F836-E7A3-AD4B-D5AB2D19B55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE643_Xpath_Injection", "src\testcases\CWE643_Xpath_Injection\CWE643_Xpath_Injection.csproj", "{11F432F6-4260-BFB4-9D2F-A032A7839E89}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE667_Improper_Locking", "src\testcases\CWE667_Improper_Locking\CWE667_Improper_Locking.csproj", "{61770B68-D81A-5A86-B165-3B7FD5C91615}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE674_Uncontrolled_Recursion", "src\testcases\CWE674_Uncontrolled_Recursion\CWE674_Uncontrolled_Recursion.csproj", "{2D18CB82-AB81-440D-ABF6-AFFCDF690897}"
