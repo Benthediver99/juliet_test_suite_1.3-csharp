@@ -38,14 +38,14 @@ jobs:
         # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python', 'ruby' ]
         # Learn more about CodeQL language support at https://git.io/codeql-language-support
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
       - name: configure Pagefile
         uses: al-cheb/configure-pagefile-action@v1.2
         with:
             minimum-size: 8GB
             maximum-size: 32GB
             disk-root: "D:"
-      - name: Checkout repository
-        uses: actions/checkout@v2
       - name: Setup MSBuild
         uses: microsoft/setup-msbuild@v1
   #    - name: Setup NuGet
