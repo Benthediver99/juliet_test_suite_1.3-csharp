@@ -79,7 +79,7 @@ jobs:
 #     uses: HCL-TECH-SOFTWARE/appscan-codesweep-action@v1
 #    - name: Build .NET with CodeQL
     - run: |
-        nuget restore ./JulietTestSuite.sln
         msbuild ./JulietTestSuite.sln /t:Rebuild
+#        nuget restore ./JulietTestSuite.sln
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
