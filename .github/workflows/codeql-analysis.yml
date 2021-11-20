@@ -46,7 +46,7 @@ jobs:
           disk-root: "D:"
 
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v1
 
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1
