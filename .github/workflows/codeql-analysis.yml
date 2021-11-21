@@ -25,7 +25,8 @@ permissions: read-all
 jobs:
   analyze:
     name: Analyze
-    runs-on: windows-latest
+    runs-on: self-hosted
+#    runs-on: windows-latest
     permissions: 
       actions: read
       contents: read
